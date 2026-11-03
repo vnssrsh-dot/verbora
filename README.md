@@ -7,14 +7,14 @@
 Нужен Node.js 20.19 или новее.
 
 ```bash
-cd verbora
 npm install
 npm run dev            # локально: http://localhost:5173
-npm run build          # сборка в verbora/dist
+npm run build          # сборка в dist/
+npm test               # проверка ответов по всему контенту и самого контента
 npm run check-content  # проверка JSON-контента
 ```
 
-Netlify берёт настройки из `netlify.toml` в корне репозитория (base `verbora`, publish `dist`).
+Netlify берёт настройки из `netlify.toml` (сборка `npm run build`, папка `dist`). На GitHub при каждом пуше запускаются `npm test` и сборка (`.github/workflows/ci.yml`).
 
 ## Что собрано
 
