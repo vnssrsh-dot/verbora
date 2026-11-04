@@ -2,7 +2,7 @@
 const S = {
   ua: {
     cyTitle: 'Перевір себе', cySub: 'Диктант з картинками · 10 слів', cyNew: 'Новий набір!', cyNext: 'Новий набір через {d} д {h} год', cyNextH: 'Новий набір через {h} год {m} хв',
-    cyStep1: 'Напиши слово', cyStep2: 'Напиши на слух', cyTranslation: 'Переклад', cyLetter: 'Буква', cyWord: 'Слово', cyAgain: 'Ще раз', cyHome: 'На головну', cyCleanShort: 'без підказок', cyRepeatMissed: 'Повторити помилки',
+    cyStep1: 'Напиши слово', cyStep2: 'Напиши на слух', cyTranslation: 'Переклад', cyLetter: 'Буква', cyWord: 'Слово', cyAgain: 'Ще раз', cyHome: 'На головну', cyTypeWord: 'Напиши слово англійською…', cyCleanShort: 'без підказок', cyRepeatMissed: 'Повторити помилки',
     cyDone: 'Готово!', cyClean: 'Без підказок {n}/{total}', cyAnswer: 'Правильно пишеться:', cyTry: 'Є помилки — виправ і перевір ще раз', cyTapToType: 'Торкнись клітинок і друкуй', cyTheme: 'Тема',
     start: 'Почати', loading: 'Завантажую урок…', newWords: 'Нові слова', newWordsSub: 'Послухай і запам’ятай — далі будуть завдання з ними.', next: 'Далі', check: 'Перевірити', continue: 'Продовжити', understood: 'Зрозуміло!',
     back: 'Назад', skip: 'Пропустити', close: 'Закрити', done: 'Готово', later: 'Пізніше',
@@ -73,7 +73,7 @@ const S = {
   },
   ru: {
     cyTitle: 'Проверь себя', cySub: 'Диктант с картинками · 10 слов', cyNew: 'Новый набор!', cyNext: 'Новый набор через {d} д {h} ч', cyNextH: 'Новый набор через {h} ч {m} мин',
-    cyStep1: 'Напиши слово', cyStep2: 'Напиши на слух', cyTranslation: 'Перевод', cyLetter: 'Буква', cyWord: 'Слово', cyAgain: 'Ещё раз', cyHome: 'На главную', cyCleanShort: 'без подсказок', cyRepeatMissed: 'Повторить ошибки',
+    cyStep1: 'Напиши слово', cyStep2: 'Напиши на слух', cyTranslation: 'Перевод', cyLetter: 'Буква', cyWord: 'Слово', cyAgain: 'Ещё раз', cyHome: 'На главную', cyTypeWord: 'Напиши слово по-английски…', cyCleanShort: 'без подсказок', cyRepeatMissed: 'Повторить ошибки',
     cyDone: 'Готово!', cyClean: 'Без подсказок {n}/{total}', cyAnswer: 'Правильно пишется:', cyTry: 'Есть ошибки — исправь и проверь ещё раз', cyTapToType: 'Коснись клеточек и печатай', cyTheme: 'Тема',
     start: 'Начать', loading: 'Загружаю урок…', newWords: 'Новые слова', newWordsSub: 'Послушай и запомни — дальше будут задания с ними.', next: 'Далее', check: 'Проверить', continue: 'Продолжить', understood: 'Понятно!',
     back: 'Назад', skip: 'Пропустить', close: 'Закрыть', done: 'Готово', later: 'Позже',

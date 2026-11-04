@@ -221,18 +221,21 @@ function WordStep({ word, active, t, lang, sound, onDone }) {
             </div>
           ))}
         </div>
-        {!finished && (
-          <input
-            ref={input}
-            value={value}
-            onChange={onType}
-            aria-label={t('cyStep1')}
-            autoCapitalize="off" autoCorrect="off" autoComplete="off" spellCheck={false} enterKeyHint="done"
-            style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', opacity: 0, fontSize: 16 }}
-          />
-        )}
       </div>
-      {!finished && <div className="tiny">{status === 'wrong' ? t('cyTry') : t('cyTapToType')}</div>}
+      {!finished && (
+        // a plain visible field: hidden overlay inputs do not get focus in some webviews
+        <input
+          ref={input}
+          className={`input ${status === 'wrong' ? 'bad' : ''}`}
+          value={value}
+          onChange={onType}
+          placeholder={t('cyTypeWord')}
+          aria-label={t('cyStep1')}
+          autoCapitalize="off" autoCorrect="off" autoComplete="off" spellCheck={false} enterKeyHint="done"
+          style={{ textAlign: 'center', letterSpacing: '0.12em' }}
+        />
+      )}
+      {!finished && status === 'wrong' && <div className="tiny">{t('cyTry')}</div>}
       {finished && (
         <div className="col" style={{ alignItems: 'center', gap: 2 }}>
           {status === 'revealed' && <span className="tiny">{t('cyAnswer')}</span>}

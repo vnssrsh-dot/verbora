@@ -11,11 +11,16 @@ export const EMOTIONS = {
   gift: '17_secret_gift', surprised: '18_surprised', sad: '19_streak_lost_sad', thanks: '20_thank_you', searching: '21_searching',
 };
 
+// A single-file build may embed the images as data URIs in window.__MASCOT.
+function mascotSrc(file) {
+  return (typeof window !== 'undefined' && window.__MASCOT?.[file]) || `./assets/mascot/${file}.webp`;
+}
+
 // Preload the emotions used mid-lesson so the swap is instant.
 if (typeof window !== 'undefined') {
   for (const k of ['correct', 'mistake', 'encouragement', 'fire', 'celebration', 'explaining']) {
     const img = new Image();
-    img.src = `./assets/mascot/${EMOTIONS[k]}.webp`;
+    img.src = mascotSrc(EMOTIONS[k]);
   }
 }
 
@@ -26,7 +31,7 @@ export function Mascot({ emotion = 'idle', size = 140, anim = 'float', sparkles 
       <img
         key={emotion}
         className={`mascot m-pop ${anim === 'float' ? '' : `m-${anim}`}`}
-        src={`./assets/mascot/${file}.webp`}
+        src={mascotSrc(file)}
         alt="Verbi"
         width={size}
         style={{ width: size, height: 'auto' }}
