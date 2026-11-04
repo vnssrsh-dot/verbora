@@ -11,7 +11,7 @@ import Lesson from './screens/Lesson.jsx';
 import Words, { Cards } from './screens/Words.jsx';
 import GrammarMap from './screens/GrammarMap.jsx';
 import Courses, { SoundTable } from './screens/Courses.jsx';
-import Profile, { Settings } from './screens/Profile.jsx';
+import Profile, { Settings, Privacy } from './screens/Profile.jsx';
 
 const TABS = [
   { id: 'home', icon: 'home', label: 'tabHome' },
@@ -68,6 +68,7 @@ export default function App() {
     case 'sounds': body = <SoundTable {...props} />; break;
     case 'profile': body = <Profile {...props} />; break;
     case 'settings': body = <Settings {...props} />; break;
+    case 'privacy': body = <Privacy {...props} />; break;
     case 'lesson': body = <LessonRoute key={current.key} route={current} state={state} {...props} />; break;
     default: body = <Home {...props} />;
   }

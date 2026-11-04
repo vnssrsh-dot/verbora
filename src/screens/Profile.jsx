@@ -5,6 +5,7 @@ import { levelPercent, currentLevel } from '../lib/progress.js';
 import { BADGES } from '../lib/badges.js';
 import { loc } from '../lib/loc.js';
 import { tgUser } from '../lib/telegram.js';
+import { PRIVACY, PRIVACY_DATE } from '../lib/privacy.js';
 import { TopBar, Icon, Mascot, Bar, Toggle, Sheet, Tile } from '../components.jsx';
 
 function weekDates() {
@@ -97,6 +98,9 @@ export default function Profile({ nav, t, lang }) {
           })}
         </div>
       </div>
+      <button className="row" style={{ justifyContent: 'center', gap: 6, padding: '8px 0', color: 'var(--text-2)', fontWeight: 700, fontSize: 14 }} onClick={() => nav.push({ name: 'privacy' })}>
+        <Icon name="info" size={16} />{t('privacy')}
+      </button>
     </div>
   );
 }
@@ -133,6 +137,8 @@ export function Settings({ nav, t, lang }) {
         <div className="sep" />
         {row('moon', t('theme'), <span className="small">{state.settings.theme === 'dark' ? t('themeDark') : t('themeLight')}</span>, () => update((s) => { s.settings.theme = s.settings.theme === 'dark' ? 'light' : 'dark'; }))}
         <div className="sep" />
+        {row('info', t('privacy'), <Icon name="chevron" />, () => nav.push({ name: 'privacy' }))}
+        <div className="sep" />
         {row('trash', t('reset'), <Icon name="chevron" />, () => setConfirm(true))}
       </div>
       <div className="card row">
@@ -146,6 +152,30 @@ export function Settings({ nav, t, lang }) {
           <button className="btn line" onClick={() => setConfirm(false)}>{t('close')}</button>
         </Sheet>
       )}
+    </div>
+  );
+}
+
+export function Privacy({ nav, t, lang }) {
+  const doc = PRIVACY[lang] || PRIVACY.ua;
+  return (
+    <div className="screen">
+      <TopBar title="" onBack={() => nav.back()} />
+      <div className="h1" style={{ textWrap: 'balance' }}>{doc.title}</div>
+      <p className="small">{doc.intro.replace('{date}', PRIVACY_DATE[lang] || PRIVACY_DATE.ua)}</p>
+      {doc.sections.map((sec) => (
+        <section key={sec.h} className="col" style={{ gap: 8 }}>
+          <div className="h3">{sec.h}</div>
+          {(sec.p || []).map((x, i) => <p key={i} style={{ lineHeight: 1.55, fontSize: 15 }}>{x}</p>)}
+          {sec.l && (
+            <ul style={{ margin: 0, paddingLeft: 20, display: 'flex', flexDirection: 'column', gap: 6, lineHeight: 1.5, fontSize: 15 }}>
+              {sec.l.map((x, i) => <li key={i} dangerouslySetInnerHTML={{ __html: x }} />)}
+            </ul>
+          )}
+          {(sec.after || []).map((x, i) => <p key={i} style={{ lineHeight: 1.55, fontSize: 15 }}>{x}</p>)}
+        </section>
+      ))}
+      <button className="btn ghost" onClick={() => nav.back()}>{t('back')}</button>
     </div>
   );
 }
