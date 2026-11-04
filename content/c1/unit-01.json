@@ -1,0 +1,1007 @@
+{
+  "id": "c1-u01",
+  "level": "C1",
+  "order": 1,
+  "kind": "grammar",
+  "title": {
+    "en": "Inversion",
+    "ua": "Інверсія",
+    "ru": "Инверсия"
+  },
+  "rule": {
+    "formula": {
+      "ua": "Never / Rarely / Not only / No sooner … + допоміжне + підмет + дієслово",
+      "ru": "Never / Rarely / Not only / No sooner … + вспомогательный + подлежащее + глагол"
+    },
+    "explain": {
+      "ua": "Інверсія — це порядок слів як у питанні, але в ствердженні. Звучить сильно й офіційно: I have never seen… → Never have I seen… Вживається в промовах, статтях, есе і для драматичного ефекту.",
+      "ru": "Инверсия — это порядок слов как в вопросе, но в утверждении. Звучит сильно и официально: I have never seen… → Never have I seen… Используется в речах, статьях, эссе и для драматического эффекта."
+    },
+    "examples": [
+      {
+        "en": "Never have I seen such a beautiful sunset.",
+        "ua": "Ніколи я не бачила такого гарного заходу сонця.",
+        "ru": "Никогда я не видела такого красивого заката."
+      },
+      {
+        "en": "Not only is she smart, but she's also kind.",
+        "ua": "Вона не лише розумна, а й добра.",
+        "ru": "Она не только умная, но и добрая."
+      },
+      {
+        "en": "Had I known, I would have called.",
+        "ua": "Якби я знала, я б подзвонила.",
+        "ru": "Если бы я знала, я бы позвонила."
+      }
+    ],
+    "compare": {
+      "ua": [
+        "I have never seen…",
+        "Never have I seen…"
+      ],
+      "ru": [
+        "If I had known…",
+        "Had I known…"
+      ]
+    }
+  },
+  "vocab": [
+    {
+      "word": "never have I…",
+      "ipa": "/ˈnevə hæv aɪ/",
+      "ua": "ніколи я не…",
+      "ru": "никогда я не…",
+      "example": "Never have I felt so happy.",
+      "audio": ""
+    },
+    {
+      "word": "rarely / seldom",
+      "ipa": "/ˈreəli/ /ˈseldəm/",
+      "ua": "рідко",
+      "ru": "редко",
+      "example": "Seldom do we meet such people.",
+      "audio": ""
+    },
+    {
+      "word": "hardly … when",
+      "ipa": "/ˈhɑːdli wen/",
+      "ua": "ледве … як",
+      "ru": "едва … как",
+      "example": "Hardly had I arrived when it started to rain.",
+      "audio": ""
+    },
+    {
+      "word": "no sooner … than",
+      "ipa": "/nəʊ ˈsuːnə ðæn/",
+      "ua": "щойно … як",
+      "ru": "только … как",
+      "example": "No sooner had we left than the phone rang.",
+      "audio": ""
+    },
+    {
+      "word": "not only … but also",
+      "ipa": "/nɒt ˈəʊnli bʌt ˈɔːlsəʊ/",
+      "ua": "не лише … а й",
+      "ru": "не только … но и",
+      "example": "Not only did he lie, but he also stole.",
+      "audio": ""
+    },
+    {
+      "word": "little did I know",
+      "ipa": "/ˈlɪtl dɪd aɪ nəʊ/",
+      "ua": "я й гадки не мала",
+      "ru": "я и не подозревала",
+      "example": "Little did I know what would happen.",
+      "audio": ""
+    },
+    {
+      "word": "only after",
+      "ipa": "/ˈəʊnli ˈɑːftə/",
+      "ua": "лише після того",
+      "ru": "только после того",
+      "example": "Only after the call did I understand.",
+      "audio": ""
+    },
+    {
+      "word": "not until",
+      "ipa": "/nɒt ənˈtɪl/",
+      "ua": "лише коли, не раніше ніж",
+      "ru": "только когда, не раньше чем",
+      "example": "Not until I moved did I miss home.",
+      "audio": ""
+    },
+    {
+      "word": "under no circumstances",
+      "ipa": "/ˌʌndə nəʊ ˈsɜːkəmstɑːnsɪz/",
+      "ua": "за жодних обставин",
+      "ru": "ни при каких обстоятельствах",
+      "example": "Under no circumstances should you open it.",
+      "audio": ""
+    },
+    {
+      "word": "should you need",
+      "ipa": "/ʃʊd juː niːd/",
+      "ua": "якщо вам знадобиться",
+      "ru": "если вам понадобится",
+      "example": "Should you need help, call me.",
+      "audio": ""
+    },
+    {
+      "word": "were I you",
+      "ipa": "/wɜːr aɪ juː/",
+      "ua": "на вашому місці",
+      "ru": "на вашем месте",
+      "example": "Were I you, I'd accept.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u01-l01",
+      "title": {
+        "en": "Never, rarely, little",
+        "ua": "Never, rarely, little",
+        "ru": "Never, rarely, little"
+      },
+      "recap": {
+        "from": "b2-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Змінюємо звички",
+          "ru": "Вспомним: Меняем привычки"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm trying to ___ sugar. I only have one sweet a day.",
+            "options": [
+              "cut down on",
+              "give up",
+              "take up"
+            ],
+            "answer": "cut down on",
+            "explain": {
+              "ua": "Зменшити → cut down on.",
+              "ru": "Сократить → cut down on."
+            },
+            "id": "c1-u01-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Kids should have less ___ time — no phones at dinner!",
+            "options": [
+              "screen",
+              "mental",
+              "check"
+            ],
+            "answer": "screen",
+            "explain": {
+              "ua": "Screen time.",
+              "ru": "Screen time."
+            },
+            "id": "c1-u01-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Never / Rarely / Seldom / Little + допоміжне + підмет",
+          "ru": "Never / Rarely / Seldom / Little + вспомогательный + подлежащее"
+        },
+        "explain": {
+          "ua": "Якщо в реченні немає допоміжного дієслова, додаємо do / does / did: She rarely complains → Rarely does she complain. Little did I know — «я й гадки не мав».",
+          "ru": "Если в предложении нет вспомогательного глагола, добавляем do / does / did: She rarely complains → Rarely does she complain. Little did I know — «я и не подозревал»."
+        },
+        "examples": [
+          {
+            "en": "Rarely do we eat out these days.",
+            "ua": "Ми тепер рідко ходимо в ресторани.",
+            "ru": "Мы теперь редко ходим в рестораны."
+          },
+          {
+            "en": "Seldom have I heard such nonsense.",
+            "ua": "Рідко я чула таку нісенітницю.",
+            "ru": "Редко я слышала такую чепуху."
+          },
+          {
+            "en": "Little did she know that he was lying.",
+            "ua": "Вона й гадки не мала, що він бреше.",
+            "ru": "Она и не подозревала, что он лжёт."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "inversion-negative",
+          "question": "Never ___ such a delicious cake.",
+          "options": [
+            "have I tasted",
+            "I have tasted",
+            "I tasted"
+          ],
+          "answer": "have I tasted",
+          "explain": {
+            "ua": "Never + have + I.",
+            "ru": "Never + have + I."
+          },
+          "id": "c1-u01-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-negative",
+          "question": "Rarely ___ late for work.",
+          "options": [
+            "is he",
+            "he is",
+            "he does"
+          ],
+          "answer": "is he",
+          "explain": {
+            "ua": "Rarely + is + he.",
+            "ru": "Rarely + is + he."
+          },
+          "id": "c1-u01-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-negative",
+          "question": "Seldom ___ to the theatre nowadays.",
+          "options": [
+            "do we go",
+            "we go",
+            "we do go"
+          ],
+          "answer": "do we go",
+          "explain": {
+            "ua": "Немає допоміжного → do.",
+            "ru": "Нет вспомогательного → do."
+          },
+          "id": "c1-u01-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-negative",
+          "question": "Little ___ that it would change her life.",
+          "options": [
+            "did she know",
+            "she knew",
+            "she did know"
+          ],
+          "answer": "did she know",
+          "explain": {
+            "ua": "Little + did + she + know.",
+            "ru": "Little + did + she + know."
+          },
+          "id": "c1-u01-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-negative",
+          "question": "Never before ___ so nervous.",
+          "options": [
+            "had I felt",
+            "I had felt",
+            "I felt"
+          ],
+          "answer": "had I felt",
+          "explain": {
+            "ua": "Never before + had + I.",
+            "ru": "Never before + had + I."
+          },
+          "id": "c1-u01-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "inversion-negative",
+          "pairs": [
+            {
+              "left": "I have never seen…",
+              "right": "Never have I seen…"
+            },
+            {
+              "left": "She rarely cries.",
+              "right": "Rarely does she cry."
+            },
+            {
+              "left": "I didn't know…",
+              "right": "Little did I know…"
+            },
+            {
+              "left": "We seldom meet.",
+              "right": "Seldom do we meet."
+            }
+          ],
+          "explain": {
+            "ua": "Звичайне → інверсія.",
+            "ru": "Обычное → инверсия."
+          },
+          "id": "c1-u01-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "inversion-negative",
+          "sentence": "Never I have been so tired.",
+          "answer": "Never have I been so tired.",
+          "accept": [],
+          "explain": {
+            "ua": "Інверсія: have перед I.",
+            "ru": "Инверсия: have перед I."
+          },
+          "id": "c1-u01-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "inversion-negative",
+          "sentence": "Rarely she complains.",
+          "answer": "Rarely does she complain.",
+          "accept": [],
+          "explain": {
+            "ua": "Додаємо does, дієслово без -s.",
+            "ru": "Добавляем does, глагол без -s."
+          },
+          "id": "c1-u01-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "inversion-negative",
+          "prompt": {
+            "ua": "Ніколи я не бачив такого натовпу.",
+            "ru": "Никогда я не видел такой толпы."
+          },
+          "answer": "Never have I seen such a crowd.",
+          "accept": [
+            "Never had I seen such a crowd.",
+            "Never before have I seen such a crowd."
+          ],
+          "explain": {
+            "ua": "Never have I…",
+            "ru": "Never have I…"
+          },
+          "id": "c1-u01-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u01-l02",
+      "title": {
+        "en": "Not only, no sooner, not until",
+        "ua": "Not only, no sooner, not until",
+        "ru": "Not only, no sooner, not until"
+      },
+      "recap": {
+        "from": "c1-u01-l01",
+        "note": {
+          "ua": "Згадаймо: Never / Rarely / Seldom / Little + допоміжне + підмет",
+          "ru": "Вспомним: Never / Rarely / Seldom / Little + вспомогательный + подлежащее"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "inversion-negative",
+            "question": "Never ___ such a delicious cake.",
+            "options": [
+              "have I tasted",
+              "I have tasted",
+              "I tasted"
+            ],
+            "answer": "have I tasted",
+            "explain": {
+              "ua": "Never + have + I.",
+              "ru": "Never + have + I."
+            },
+            "id": "c1-u01-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "inversion-negative",
+            "question": "Never before ___ so nervous.",
+            "options": [
+              "had I felt",
+              "I had felt",
+              "I felt"
+            ],
+            "answer": "had I felt",
+            "explain": {
+              "ua": "Never before + had + I.",
+              "ru": "Never before + had + I."
+            },
+            "id": "c1-u01-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Not only + aux + S…, but (also)… · No sooner had + S + V3 … than … · Hardly had + S + V3 … when … · Only after / Not until … + aux + S",
+        "explain": {
+          "ua": "No sooner — завжди з than, hardly / scarcely — з when. Після Only after / Not until інверсія стоїть у ДРУГІЙ частині: Not until I left did I realise.",
+          "ru": "No sooner — всегда с than, hardly / scarcely — с when. После Only after / Not until инверсия стоит во ВТОРОЙ части: Not until I left did I realise."
+        },
+        "examples": [
+          {
+            "en": "Not only did we miss the train, but we also lost our bags.",
+            "ua": "Ми не лише спізнилися на потяг, а й загубили сумки.",
+            "ru": "Мы не только опоздали на поезд, но и потеряли сумки."
+          },
+          {
+            "en": "No sooner had I sat down than the phone rang.",
+            "ua": "Щойно я сіла, як задзвонив телефон.",
+            "ru": "Только я села, как зазвонил телефон."
+          },
+          {
+            "en": "Not until the next day did I find out the truth.",
+            "ua": "Лише наступного дня я дізналася правду.",
+            "ru": "Только на следующий день я узнала правду."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "Not only ___ the exam, but she also got the highest score.",
+          "options": [
+            "did she pass",
+            "she passed",
+            "she did pass"
+          ],
+          "answer": "did she pass",
+          "explain": {
+            "ua": "Not only + did + she.",
+            "ru": "Not only + did + she."
+          },
+          "id": "c1-u01-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "No sooner had we arrived ___ it started to snow.",
+          "options": [
+            "than",
+            "when",
+            "that"
+          ],
+          "answer": "than",
+          "explain": {
+            "ua": "No sooner … than.",
+            "ru": "No sooner … than."
+          },
+          "id": "c1-u01-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "Hardly had I closed my eyes ___ the baby started crying.",
+          "options": [
+            "when",
+            "than",
+            "then"
+          ],
+          "answer": "when",
+          "explain": {
+            "ua": "Hardly … when.",
+            "ru": "Hardly … when."
+          },
+          "id": "c1-u01-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "Only after he left ___ how much I loved him.",
+          "options": [
+            "did I realise",
+            "I realised",
+            "I did realise"
+          ],
+          "answer": "did I realise",
+          "explain": {
+            "ua": "Інверсія в другій частині.",
+            "ru": "Инверсия во второй части."
+          },
+          "id": "c1-u01-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "Not until I moved abroad ___ my family so much.",
+          "options": [
+            "did I miss",
+            "I missed",
+            "missed I"
+          ],
+          "answer": "did I miss",
+          "explain": {
+            "ua": "Not until … did I…",
+            "ru": "Not until … did I…"
+          },
+          "id": "c1-u01-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-adverbial",
+          "question": "Under no circumstances ___ this door.",
+          "options": [
+            "should you open",
+            "you should open",
+            "you open"
+          ],
+          "answer": "should you open",
+          "explain": {
+            "ua": "Under no circumstances + should + you.",
+            "ru": "Under no circumstances + should + you."
+          },
+          "id": "c1-u01-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "inversion-adverbial",
+          "bank": [
+            "than",
+            "when",
+            "did",
+            "had"
+          ],
+          "reuse": false,
+          "sentences": [
+            "No sooner had she left ___ he called.",
+            "Hardly had I started ___ the lights went out.",
+            "Not only ___ he forget, but he also lied.",
+            "No sooner ___ we sat down than the show began."
+          ],
+          "answers": [
+            "than",
+            "when",
+            "did",
+            "had"
+          ],
+          "explain": {
+            "ua": "No sooner … than, hardly … when.",
+            "ru": "No sooner … than, hardly … when."
+          },
+          "id": "c1-u01-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "inversion-adverbial",
+          "sentence": "No sooner had I left when it rained.",
+          "answer": "No sooner had I left than it rained.",
+          "accept": [],
+          "explain": {
+            "ua": "No sooner → than.",
+            "ru": "No sooner → than."
+          },
+          "id": "c1-u01-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "inversion-adverbial",
+          "prompt": {
+            "ua": "Щойно ми поїхали, як почався дощ.",
+            "ru": "Только мы уехали, как начался дождь."
+          },
+          "answer": "No sooner had we left than it started to rain.",
+          "accept": [
+            "No sooner had we left than it began to rain.",
+            "Hardly had we left when it started to rain.",
+            "Hardly had we left when it began to rain."
+          ],
+          "explain": {
+            "ua": "No sooner … than.",
+            "ru": "No sooner … than."
+          },
+          "id": "c1-u01-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u01-l03",
+      "title": {
+        "en": "Inversion in conditionals",
+        "ua": "Інверсія в умовних",
+        "ru": "Инверсия в условных"
+      },
+      "recap": {
+        "from": "c1-u01-l02",
+        "note": {
+          "ua": "Згадаймо: Not only + aux + S…, but (also)… · No sooner had + S + V3 … than … · Hardly had + S + V3 … when … · Only after / Not until … + aux + S",
+          "ru": "Вспомним: Not only + aux + S…, but (also)… · No sooner had + S + V3 … than … · Hardly had + S + V3 … when … · Only after / Not until … + aux + S"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "inversion-adverbial",
+            "question": "Not only ___ the exam, but she also got the highest score.",
+            "options": [
+              "did she pass",
+              "she passed",
+              "she did pass"
+            ],
+            "answer": "did she pass",
+            "explain": {
+              "ua": "Not only + did + she.",
+              "ru": "Not only + did + she."
+            },
+            "id": "c1-u01-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "inversion-adverbial",
+            "question": "Not until I moved abroad ___ my family so much.",
+            "options": [
+              "did I miss",
+              "I missed",
+              "missed I"
+            ],
+            "answer": "did I miss",
+            "explain": {
+              "ua": "Not until … did I…",
+              "ru": "Not until … did I…"
+            },
+            "id": "c1-u01-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "If I had known → Had I known · If I were you → Were I you · If you need → Should you need",
+        "explain": {
+          "ua": "Офіційний стиль: прибираємо if і ставимо had / were / should на початок. Should you need — часто в листах: «Якщо вам знадобиться…». Заперечення: Had I not known (не Hadn't I known).",
+          "ru": "Официальный стиль: убираем if и ставим had / were / should в начало. Should you need — часто в письмах: «Если вам понадобится…». Отрицание: Had I not known (не Hadn't I known)."
+        },
+        "examples": [
+          {
+            "en": "Had I known about the party, I would have come.",
+            "ua": "Якби я знала про вечірку, я б прийшла.",
+            "ru": "Если бы я знала о вечеринке, я бы пришла."
+          },
+          {
+            "en": "Were I in your position, I'd refuse.",
+            "ua": "На вашому місці я б відмовилася.",
+            "ru": "На вашем месте я бы отказалась."
+          },
+          {
+            "en": "Should you have any questions, please contact us.",
+            "ua": "Якщо у вас будуть питання, звертайтеся.",
+            "ru": "Если у вас будут вопросы, обращайтесь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "inversion-conditional",
+          "question": "___ I known, I would have helped.",
+          "options": [
+            "Had",
+            "If",
+            "Have"
+          ],
+          "answer": "Had",
+          "explain": {
+            "ua": "If I had known → Had I known.",
+            "ru": "If I had known → Had I known."
+          },
+          "id": "c1-u01-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-conditional",
+          "question": "___ I you, I'd take the job.",
+          "options": [
+            "Were",
+            "Was",
+            "If"
+          ],
+          "answer": "Were",
+          "explain": {
+            "ua": "If I were you → Were I you.",
+            "ru": "If I were you → Were I you."
+          },
+          "id": "c1-u01-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-conditional",
+          "question": "___ you need any help, just call.",
+          "options": [
+            "Should",
+            "Would",
+            "Had"
+          ],
+          "answer": "Should",
+          "explain": {
+            "ua": "If you need → Should you need.",
+            "ru": "If you need → Should you need."
+          },
+          "id": "c1-u01-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-conditional",
+          "question": "Had we ___ earlier, we wouldn't have missed the flight.",
+          "options": [
+            "left",
+            "leave",
+            "leaving"
+          ],
+          "answer": "left",
+          "explain": {
+            "ua": "Had + V3.",
+            "ru": "Had + V3."
+          },
+          "id": "c1-u01-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "inversion-conditional",
+          "question": "___ not been for your help, I would have failed.",
+          "options": [
+            "Had it",
+            "If it",
+            "Hadn't it"
+          ],
+          "answer": "Had it",
+          "explain": {
+            "ua": "Had it not been for…",
+            "ru": "Had it not been for…"
+          },
+          "id": "c1-u01-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "inversion-conditional",
+          "pairs": [
+            {
+              "left": "If I had known",
+              "right": "Had I known"
+            },
+            {
+              "left": "If I were you",
+              "right": "Were I you"
+            },
+            {
+              "left": "If you need",
+              "right": "Should you need"
+            },
+            {
+              "left": "If it hadn't been for",
+              "right": "Had it not been for"
+            }
+          ],
+          "explain": {
+            "ua": "Звичайне → інверсія.",
+            "ru": "Обычное → инверсия."
+          },
+          "id": "c1-u01-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "inversion-conditional",
+          "sentence": "Hadn't I seen it, I wouldn't believe it.",
+          "answer": "Had I not seen it, I wouldn't believe it.",
+          "accept": [],
+          "explain": {
+            "ua": "Had I not…",
+            "ru": "Had I not…"
+          },
+          "id": "c1-u01-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "inversion-conditional",
+          "sentence": "Should you will need anything, call me.",
+          "answer": "Should you need anything, call me.",
+          "accept": [],
+          "explain": {
+            "ua": "Should + дієслово.",
+            "ru": "Should + глагол."
+          },
+          "id": "c1-u01-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "inversion-conditional",
+          "prompt": {
+            "ua": "Якщо у вас виникнуть питання, звертайтеся.",
+            "ru": "Если у вас возникнут вопросы, обращайтесь."
+          },
+          "answer": "Should you have any questions, please contact us.",
+          "accept": [
+            "Should you have any questions, contact us.",
+            "Should you have any questions, please get in touch."
+          ],
+          "explain": {
+            "ua": "Should you…",
+            "ru": "Should you…"
+          },
+          "id": "c1-u01-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "inversion-negative",
+      "question": "Never ___ so much rain.",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "I saw"
+      ],
+      "answer": "have I seen",
+      "explain": {
+        "ua": "Never have I.",
+        "ru": "Never have I."
+      },
+      "id": "c1-u01-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "inversion-negative",
+      "question": "Rarely ___ he say sorry.",
+      "options": [
+        "does",
+        "is",
+        "do"
+      ],
+      "answer": "does",
+      "explain": {
+        "ua": "Rarely does he.",
+        "ru": "Rarely does he."
+      },
+      "id": "c1-u01-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "inversion-adverbial",
+      "question": "No sooner had she arrived ___ the meeting began.",
+      "options": [
+        "than",
+        "when",
+        "then"
+      ],
+      "answer": "than",
+      "explain": {
+        "ua": "No sooner … than.",
+        "ru": "No sooner … than."
+      },
+      "id": "c1-u01-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "inversion-adverbial",
+      "question": "Not only ___ late, but he also forgot the tickets.",
+      "options": [
+        "was he",
+        "he was",
+        "he did"
+      ],
+      "answer": "was he",
+      "explain": {
+        "ua": "Not only was he.",
+        "ru": "Not only was he."
+      },
+      "id": "c1-u01-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "inversion-conditional",
+      "question": "___ you need anything, let me know.",
+      "options": [
+        "Should",
+        "Had",
+        "Were"
+      ],
+      "answer": "Should",
+      "explain": {
+        "ua": "Should you need.",
+        "ru": "Should you need."
+      },
+      "id": "c1-u01-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "inversion-conditional",
+      "question": "___ I known, I'd have stayed.",
+      "answer": "Had",
+      "accept": [],
+      "explain": {
+        "ua": "Had I known.",
+        "ru": "Had I known."
+      },
+      "id": "c1-u01-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "inversion-negative",
+      "question": "Little ___ I know what was coming.",
+      "answer": "did",
+      "accept": [],
+      "explain": {
+        "ua": "Little did I know.",
+        "ru": "Little did I know."
+      },
+      "id": "c1-u01-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "inversion-negative",
+      "sentence": "Seldom we go out.",
+      "answer": "Seldom do we go out.",
+      "accept": [],
+      "explain": {
+        "ua": "Seldom do we.",
+        "ru": "Seldom do we."
+      },
+      "id": "c1-u01-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "inversion-adverbial",
+      "sentence": "Not until I called she answered.",
+      "answer": "Not until I called did she answer.",
+      "accept": [],
+      "explain": {
+        "ua": "Інверсія в другій частині.",
+        "ru": "Инверсия во второй части."
+      },
+      "id": "c1-u01-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "inversion-adverbial",
+      "words": [
+        "you",
+        "circumstances",
+        "open",
+        "door",
+        "Under",
+        "no",
+        "should",
+        "this"
+      ],
+      "answer": "Under no circumstances should you open this door",
+      "explain": {
+        "ua": "Under no circumstances → should you…",
+        "ru": "Under no circumstances → should you…"
+      },
+      "id": "c1-u01-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "inversion-conditional",
+      "prompt": {
+        "ua": "На твоєму місці я б погодилась.",
+        "ru": "На твоём месте я бы согласилась."
+      },
+      "answer": "Were I you, I'd agree.",
+      "accept": [
+        "Were I you, I would agree.",
+        "If I were you, I'd agree.",
+        "If I were you, I would agree."
+      ],
+      "explain": {
+        "ua": "Were I you.",
+        "ru": "Were I you."
+      },
+      "id": "c1-u01-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "inversion-adverbial",
+      "audio_text": "Hardly had we started when it rained.",
+      "options": [
+        "Hardly had we started when it rained.",
+        "Hardly we had started when it rained.",
+        "Hardly had we started than it rained."
+      ],
+      "answer": "Hardly had we started when it rained.",
+      "audio": "",
+      "explain": {
+        "ua": "Hardly had we… when.",
+        "ru": "Hardly had we… when."
+      },
+      "id": "c1-u01-cp12"
+    }
+  ]
+}

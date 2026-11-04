@@ -1,0 +1,1050 @@
+{
+  "id": "a2-u21",
+  "level": "A2",
+  "order": 21,
+  "kind": "grammar",
+  "title": {
+    "en": "Questions",
+    "ua": "Питання",
+    "ru": "Вопросы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "питальне слово + допоміжне + хто + дієслово? · Who called? (питання до підмета — без do)",
+      "ru": "вопросительное слово + вспомогательный + кто + глагол? · Who called? (вопрос к подлежащему — без do)"
+    },
+    "explain": {
+      "ua": "Звичайне питання: Where do you live? Але якщо питаємо, ХТО зробив (Who / What — підмет), допоміжного немає: Who lives here? What happened?",
+      "ru": "Обычный вопрос: Where do you live? Но если спрашиваем, КТО сделал (Who / What — подлежащее), вспомогательного нет: Who lives here? What happened?"
+    },
+    "examples": [
+      {
+        "en": "Who called you?",
+        "ua": "Хто тобі дзвонив?",
+        "ru": "Кто тебе звонил?"
+      },
+      {
+        "en": "Who did you call?",
+        "ua": "Кому ти дзвонив?",
+        "ru": "Кому ты звонил?"
+      },
+      {
+        "en": "How often do you go there?",
+        "ua": "Як часто ти туди ходиш?",
+        "ru": "Как часто ты туда ходишь?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "who",
+      "ipa": "/huː/",
+      "ua": "хто",
+      "ru": "кто",
+      "example": "Who knows?",
+      "audio": ""
+    },
+    {
+      "word": "whose",
+      "ipa": "/huːz/",
+      "ua": "чий",
+      "ru": "чей",
+      "example": "Whose bag is this?",
+      "audio": ""
+    },
+    {
+      "word": "which",
+      "ipa": "/wɪtʃ/",
+      "ua": "який (з кількох)",
+      "ru": "какой (из нескольких)",
+      "example": "Which one?",
+      "audio": ""
+    },
+    {
+      "word": "how long",
+      "ipa": "/ˌhaʊ ˈlɒŋ/",
+      "ua": "як довго",
+      "ru": "как долго",
+      "example": "How long does it take?",
+      "audio": ""
+    },
+    {
+      "word": "how often",
+      "ipa": "/ˌhaʊ ˈɒfn/",
+      "ua": "як часто",
+      "ru": "как часто",
+      "example": "How often do you swim?",
+      "audio": ""
+    },
+    {
+      "word": "how far",
+      "ipa": "/ˌhaʊ ˈfɑː/",
+      "ua": "як далеко",
+      "ru": "как далеко",
+      "example": "How far is it?",
+      "audio": ""
+    },
+    {
+      "word": "how old",
+      "ipa": "/ˌhaʊ ˈəʊld/",
+      "ua": "скільки років",
+      "ru": "сколько лет",
+      "example": "How old is she?",
+      "audio": ""
+    },
+    {
+      "word": "what time",
+      "ipa": "/ˌwɒt ˈtaɪm/",
+      "ua": "о котрій",
+      "ru": "во сколько",
+      "example": "What time is it?",
+      "audio": ""
+    },
+    {
+      "word": "happen",
+      "ipa": "/ˈhæpən/",
+      "ua": "траплятися",
+      "ru": "случаться",
+      "example": "What happened?",
+      "audio": ""
+    },
+    {
+      "word": "belong to",
+      "ipa": "/bɪˈlɒŋ tə/",
+      "ua": "належати",
+      "ru": "принадлежать",
+      "example": "Who does it belong to?",
+      "audio": ""
+    },
+    {
+      "word": "talk about",
+      "ipa": "/ˈtɔːk əˌbaʊt/",
+      "ua": "говорити про",
+      "ru": "говорить о",
+      "example": "What are you talking about?",
+      "audio": ""
+    },
+    {
+      "word": "wait for",
+      "ipa": "/ˈweɪt fɔː/",
+      "ua": "чекати на",
+      "ru": "ждать",
+      "example": "Who are you waiting for?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u21-l01",
+      "title": {
+        "en": "Subject questions",
+        "ua": "Питання до підмета",
+        "ru": "Вопросы к подлежащему"
+      },
+      "recap": {
+        "from": "a2-u20-l03",
+        "note": {
+          "ua": "Згадаймо: Характер",
+          "ru": "Вспомним: Характер"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "He loves meeting people and talking to them.",
+            "answer": "sociable",
+            "accept": [
+              "friendly",
+              "outgoing"
+            ],
+            "explain": {
+              "ua": "Sociable — товариський.",
+              "ru": "Sociable — общительный."
+            },
+            "id": "a2-u21-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Dogs are very ___ to their owners.",
+            "options": [
+              "loyal",
+              "creative",
+              "absent-minded"
+            ],
+            "answer": "loyal",
+            "explain": {
+              "ua": "Loyal — вірний.",
+              "ru": "Loyal — верный."
+            },
+            "id": "a2-u21-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Who / What + дієслово? — без do / does / did",
+          "ru": "Who / What + глагол? — без do / does / did"
+        },
+        "explain": {
+          "ua": "Коли Who / What — це той, хто діє, порядок як у ствердженні: Who lives here? (Max lives here.) What happened? Якщо Who — той, на кого дія, потрібен do: Who did you see?",
+          "ru": "Когда Who / What — это тот, кто действует, порядок как в утверждении: Who lives here? (Max lives here.) What happened? Если Who — тот, на кого действие, нужен do: Who did you see?"
+        },
+        "examples": [
+          {
+            "en": "Who wants coffee?",
+            "ua": "Хто хоче кави?",
+            "ru": "Кто хочет кофе?"
+          },
+          {
+            "en": "What happened?",
+            "ua": "Що сталося?",
+            "ru": "Что случилось?"
+          },
+          {
+            "en": "Who did you meet?",
+            "ua": "Кого ти зустрів?",
+            "ru": "Кого ты встретил?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "subject-questions",
+          "question": "Who ___ here? — Max lives here.",
+          "options": [
+            "lives",
+            "does live",
+            "do live"
+          ],
+          "answer": "lives",
+          "explain": {
+            "ua": "Who — підмет → без does.",
+            "ru": "Who — подлежащее → без does."
+          },
+          "id": "a2-u21-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "subject-questions",
+          "question": "What ___ ? — I fell off my bike.",
+          "options": [
+            "happened",
+            "did happen",
+            "does happen"
+          ],
+          "answer": "happened",
+          "explain": {
+            "ua": "What — підмет → без did.",
+            "ru": "What — подлежащее → без did."
+          },
+          "id": "a2-u21-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "subject-questions",
+          "question": "Who ___ you? — Anna called me.",
+          "options": [
+            "called",
+            "did call",
+            "does call"
+          ],
+          "answer": "called",
+          "explain": {
+            "ua": "Хто дзвонив? → Who called?",
+            "ru": "Кто звонил? → Who called?"
+          },
+          "id": "a2-u21-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "subject-questions",
+          "question": "Who ___ you call? — I called Anna.",
+          "options": [
+            "did",
+            "—",
+            "does"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Кому дзвонив? → потрібен did.",
+            "ru": "Кому звонил? → нужен did."
+          },
+          "id": "a2-u21-l01-e04"
+        },
+        {
+          "type": "match",
+          "topic": "subject-questions",
+          "pairs": [
+            {
+              "left": "Who saw you?",
+              "right": {
+                "ua": "Хто тебе бачив?",
+                "ru": "Кто тебя видел?"
+              }
+            },
+            {
+              "left": "Who did you see?",
+              "right": {
+                "ua": "Кого ти бачив?",
+                "ru": "Кого ты видел?"
+              }
+            },
+            {
+              "left": "Who loves Max?",
+              "right": {
+                "ua": "Хто любить Макса?",
+                "ru": "Кто любит Макса?"
+              }
+            },
+            {
+              "left": "Who does Max love?",
+              "right": {
+                "ua": "Кого любить Макс?",
+                "ru": "Кого любит Макс?"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Хто vs кого.",
+            "ru": "Кто vs кого."
+          },
+          "id": "a2-u21-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "subject-questions",
+          "sentence": "Who did break the window?",
+          "answer": "Who broke the window?",
+          "accept": [],
+          "explain": {
+            "ua": "Хто зробив → без did.",
+            "ru": "Кто сделал → без did."
+          },
+          "id": "a2-u21-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "subject-questions",
+          "sentence": "What did happen?",
+          "answer": "What happened?",
+          "accept": [],
+          "explain": {
+            "ua": "What — підмет.",
+            "ru": "What — подлежащее."
+          },
+          "id": "a2-u21-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "subject-questions",
+          "audio_text": "Who wants some tea?",
+          "options": [
+            "Who wants some tea?",
+            "Who does want some tea?",
+            "Who want some tea?"
+          ],
+          "answer": "Who wants some tea?",
+          "audio": "",
+          "explain": {
+            "ua": "Who wants.",
+            "ru": "Who wants."
+          },
+          "id": "a2-u21-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "subject-questions",
+          "prompt": {
+            "ua": "Хто знає відповідь?",
+            "ru": "Кто знает ответ?"
+          },
+          "answer": "Who knows the answer?",
+          "accept": [],
+          "explain": {
+            "ua": "Who + knows.",
+            "ru": "Who + knows."
+          },
+          "id": "a2-u21-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u21-l02",
+      "title": {
+        "en": "Questions with prepositions",
+        "ua": "Питання з прийменником",
+        "ru": "Вопросы с предлогом"
+      },
+      "recap": {
+        "from": "a2-u21-l01",
+        "note": {
+          "ua": "Згадаймо: Who / What + дієслово? — без do / does / did",
+          "ru": "Вспомним: Who / What + глагол? — без do / does / did"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "subject-questions",
+            "question": "Who ___ here? — Max lives here.",
+            "options": [
+              "lives",
+              "does live",
+              "do live"
+            ],
+            "answer": "lives",
+            "explain": {
+              "ua": "Who — підмет → без does.",
+              "ru": "Who — подлежащее → без does."
+            },
+            "id": "a2-u21-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "subject-questions",
+            "question": "Who ___ you call? — I called Anna.",
+            "options": [
+              "did",
+              "—",
+              "does"
+            ],
+            "answer": "did",
+            "explain": {
+              "ua": "Кому дзвонив? → потрібен did.",
+              "ru": "Кому звонил? → нужен did."
+            },
+            "id": "a2-u21-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Who are you talking to? — прийменник у кінці",
+          "ru": "Who are you talking to? — предлог в конце"
+        },
+        "explain": {
+          "ua": "У розмовній англійській прийменник іде в кінець питання: Who are you waiting for? What are you talking about? Where are you from?",
+          "ru": "В разговорном английском предлог идёт в конец вопроса: Who are you waiting for? What are you talking about? Where are you from?"
+        },
+        "examples": [
+          {
+            "en": "Who are you waiting for?",
+            "ua": "На кого ти чекаєш?",
+            "ru": "Кого ты ждёшь?"
+          },
+          {
+            "en": "What are you talking about?",
+            "ua": "Про що ви говорите?",
+            "ru": "О чём вы говорите?"
+          },
+          {
+            "en": "Who does this bag belong to?",
+            "ua": "Чия це сумка?",
+            "ru": "Чья это сумка?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "Who are you waiting ___ ?",
+          "options": [
+            "for",
+            "—",
+            "on"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "Wait FOR → у кінці.",
+            "ru": "Wait FOR → в конце."
+          },
+          "id": "a2-u21-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "What are you talking ___ ?",
+          "options": [
+            "about",
+            "of",
+            "—"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "Talk ABOUT.",
+            "ru": "Talk ABOUT."
+          },
+          "id": "a2-u21-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "Where are you ___ ?",
+          "options": [
+            "from",
+            "of",
+            "—"
+          ],
+          "answer": "from",
+          "explain": {
+            "ua": "Where … from?",
+            "ru": "Where … from?"
+          },
+          "id": "a2-u21-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "What are you looking ___ ? — My keys.",
+          "options": [
+            "for",
+            "at",
+            "—"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "Look for — шукати.",
+            "ru": "Look for — искать."
+          },
+          "id": "a2-u21-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "Who did you go to the cinema ___ ?",
+          "options": [
+            "with",
+            "for",
+            "to"
+          ],
+          "answer": "with",
+          "explain": {
+            "ua": "З ким — with.",
+            "ru": "С кем — with."
+          },
+          "id": "a2-u21-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "questions-prepositions",
+          "sentence": "For who are you waiting?",
+          "answer": "Who are you waiting for?",
+          "accept": [],
+          "explain": {
+            "ua": "Прийменник — у кінець.",
+            "ru": "Предлог — в конец."
+          },
+          "id": "a2-u21-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "questions-prepositions",
+          "sentence": "What is this film?",
+          "answer": "What is this film about?",
+          "accept": [],
+          "explain": {
+            "ua": "Про що фільм → about.",
+            "ru": "О чём фильм → about."
+          },
+          "id": "a2-u21-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "questions-prepositions",
+          "words": [
+            "Who",
+            "phone",
+            "to",
+            "this",
+            "does",
+            "belong"
+          ],
+          "answer": "Who does this phone belong to",
+          "explain": {
+            "ua": "Who does → this phone → belong to?",
+            "ru": "Who does → this phone → belong to?"
+          },
+          "id": "a2-u21-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "questions-prepositions",
+          "prompt": {
+            "ua": "З ким ти живеш?",
+            "ru": "С кем ты живёшь?"
+          },
+          "answer": "Who do you live with?",
+          "accept": [],
+          "explain": {
+            "ua": "Who … with?",
+            "ru": "Who … with?"
+          },
+          "id": "a2-u21-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u21-l03",
+      "title": {
+        "en": "How long / often / far + practice",
+        "ua": "How long / often / far + практика",
+        "ru": "How long / often / far + практика"
+      },
+      "recap": {
+        "from": "a2-u21-l02",
+        "note": {
+          "ua": "Згадаймо: Who are you talking to? — прийменник у кінці",
+          "ru": "Вспомним: Who are you talking to? — предлог в конце"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "questions-prepositions",
+            "question": "Who are you waiting ___ ?",
+            "options": [
+              "for",
+              "—",
+              "on"
+            ],
+            "answer": "for",
+            "explain": {
+              "ua": "Wait FOR → у кінці.",
+              "ru": "Wait FOR → в конце."
+            },
+            "id": "a2-u21-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "questions-prepositions",
+            "question": "Who did you go to the cinema ___ ?",
+            "options": [
+              "with",
+              "for",
+              "to"
+            ],
+            "answer": "with",
+            "explain": {
+              "ua": "З ким — with.",
+              "ru": "С кем — with."
+            },
+            "id": "a2-u21-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "How long? (час) · How often? (частота) · How far? (відстань) · Whose? · Which?",
+          "ru": "How long? (время) · How often? (частота) · How far? (расстояние) · Whose? · Which?"
+        },
+        "explain": {
+          "ua": "How long does it take? — скільки часу. How often…? — як часто. How far is it? — як далеко. Whose…? — чий. Which…? — який (з варіантів).",
+          "ru": "How long does it take? — сколько времени. How often…? — как часто. How far is it? — как далеко. Whose…? — чей. Which…? — какой (из вариантов)."
+        },
+        "examples": [
+          {
+            "en": "How long does the trip take?",
+            "ua": "Скільки триває поїздка?",
+            "ru": "Сколько длится поездка?"
+          },
+          {
+            "en": "How often do you visit them?",
+            "ua": "Як часто ти до них їздиш?",
+            "ru": "Как часто ты их навещаешь?"
+          },
+          {
+            "en": "Whose phone is this?",
+            "ua": "Чий це телефон?",
+            "ru": "Чей это телефон?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "wh-questions",
+          "question": "— ___ is the station? — About 2 km.",
+          "options": [
+            "How far",
+            "How long",
+            "How often"
+          ],
+          "answer": "How far",
+          "explain": {
+            "ua": "Відстань.",
+            "ru": "Расстояние."
+          },
+          "id": "a2-u21-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "wh-questions",
+          "question": "— ___ do you go to the gym? — Three times a week.",
+          "options": [
+            "How often",
+            "How long",
+            "How far"
+          ],
+          "answer": "How often",
+          "explain": {
+            "ua": "Частота.",
+            "ru": "Частота."
+          },
+          "id": "a2-u21-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "wh-questions",
+          "question": "— ___ does the flight take? — Two hours.",
+          "options": [
+            "How long",
+            "How far",
+            "How often"
+          ],
+          "answer": "How long",
+          "explain": {
+            "ua": "Тривалість.",
+            "ru": "Длительность."
+          },
+          "id": "a2-u21-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "wh-questions",
+          "question": "— ___ umbrella is this? — It's Kate's.",
+          "options": [
+            "Whose",
+            "Who",
+            "Which"
+          ],
+          "answer": "Whose",
+          "explain": {
+            "ua": "Чий — whose.",
+            "ru": "Чей — whose."
+          },
+          "id": "a2-u21-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "wh-questions",
+          "question": "— ___ dress do you like, the red or the blue? — The red one.",
+          "options": [
+            "Which",
+            "What",
+            "Whose"
+          ],
+          "answer": "Which",
+          "explain": {
+            "ua": "З варіантів — which.",
+            "ru": "Из вариантов — which."
+          },
+          "id": "a2-u21-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "wh-questions",
+          "pairs": [
+            {
+              "left": "How old",
+              "right": "35"
+            },
+            {
+              "left": "How far",
+              "right": "5 km"
+            },
+            {
+              "left": "How long",
+              "right": "2 hours"
+            },
+            {
+              "left": "How often",
+              "right": "every day"
+            }
+          ],
+          "explain": {
+            "ua": "Питання → відповідь.",
+            "ru": "Вопрос → ответ."
+          },
+          "id": "a2-u21-l03-e06"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "How long does the trip to Lviv take?",
+              "options": [
+                "about 8 hours",
+                "2 hours",
+                "a day"
+              ],
+              "answer": "about 8 hours"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Nina goes to Lviv every month.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Tom",
+              "line": "How often do you go to Lviv?"
+            },
+            {
+              "speaker": "Nina",
+              "line": "Twice a year. My sister lives there."
+            },
+            {
+              "speaker": "Tom",
+              "line": "How long does it take by train?"
+            },
+            {
+              "speaker": "Nina",
+              "line": "About eight hours."
+            }
+          ],
+          "explain": {
+            "ua": "8 hours by train, twice a year.",
+            "ru": "8 hours by train, twice a year."
+          },
+          "id": "a2-u21-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "wh-questions",
+          "sentence": "Who's bag is this?",
+          "answer": "Whose bag is this?",
+          "accept": [],
+          "explain": {
+            "ua": "Чий — whose (who's = who is).",
+            "ru": "Чей — whose (who's = who is)."
+          },
+          "id": "a2-u21-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "wh-questions",
+          "prompt": {
+            "ua": "Як далеко звідси до моря?",
+            "ru": "Как далеко отсюда до моря?"
+          },
+          "answer": "How far is the sea from here?",
+          "accept": [
+            "How far is it to the sea?",
+            "How far is it from here to the sea?"
+          ],
+          "explain": {
+            "ua": "How far is…?",
+            "ru": "How far is…?"
+          },
+          "id": "a2-u21-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "subject-questions",
+      "question": "Who ___ the cake? — Mum made it.",
+      "options": [
+        "made",
+        "did make",
+        "does make"
+      ],
+      "answer": "made",
+      "explain": {
+        "ua": "Who — підмет.",
+        "ru": "Who — подлежащее."
+      },
+      "id": "a2-u21-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "subject-questions",
+      "question": "Who ___ you meet yesterday?",
+      "options": [
+        "did",
+        "—",
+        "does"
+      ],
+      "answer": "did",
+      "explain": {
+        "ua": "Кого → did.",
+        "ru": "Кого → did."
+      },
+      "id": "a2-u21-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "questions-prepositions",
+      "question": "What are you talking ___ ?",
+      "options": [
+        "about",
+        "of",
+        "—"
+      ],
+      "answer": "about",
+      "explain": {
+        "ua": "About.",
+        "ru": "About."
+      },
+      "id": "a2-u21-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "wh-questions",
+      "question": "— ___ do you call your mum? — Every day.",
+      "options": [
+        "How often",
+        "How long",
+        "How far"
+      ],
+      "answer": "How often",
+      "explain": {
+        "ua": "Частота.",
+        "ru": "Частота."
+      },
+      "id": "a2-u21-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "wh-questions",
+      "question": "___ car is this?",
+      "options": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "answer": "Whose",
+      "explain": {
+        "ua": "Чий.",
+        "ru": "Чей."
+      },
+      "id": "a2-u21-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "questions-prepositions",
+      "question": "Who are you waiting ___ ?",
+      "answer": "for",
+      "accept": [],
+      "explain": {
+        "ua": "Wait for.",
+        "ru": "Wait for."
+      },
+      "id": "a2-u21-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "wh-questions",
+      "question": "How ___ does it take? — 20 minutes.",
+      "answer": "long",
+      "accept": [],
+      "explain": {
+        "ua": "How long.",
+        "ru": "How long."
+      },
+      "id": "a2-u21-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "wh-questions",
+      "pairs": [
+        {
+          "left": "Who",
+          "right": {
+            "ua": "хто",
+            "ru": "кто"
+          }
+        },
+        {
+          "left": "Whose",
+          "right": {
+            "ua": "чий",
+            "ru": "чей"
+          }
+        },
+        {
+          "left": "Which",
+          "right": {
+            "ua": "який (з кількох)",
+            "ru": "какой (из нескольких)"
+          }
+        },
+        {
+          "left": "How far",
+          "right": {
+            "ua": "як далеко",
+            "ru": "как далеко"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Питальні слова.",
+        "ru": "Вопросительные слова."
+      },
+      "id": "a2-u21-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "subject-questions",
+      "sentence": "What did happen?",
+      "answer": "What happened?",
+      "accept": [],
+      "explain": {
+        "ua": "Без did.",
+        "ru": "Без did."
+      },
+      "id": "a2-u21-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "questions-prepositions",
+      "sentence": "With who do you live?",
+      "answer": "Who do you live with?",
+      "accept": [],
+      "explain": {
+        "ua": "Прийменник у кінці.",
+        "ru": "Предлог в конце."
+      },
+      "id": "a2-u21-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "subject-questions",
+      "prompt": {
+        "ua": "Що сталося?",
+        "ru": "Что случилось?"
+      },
+      "answer": "What happened?",
+      "accept": [],
+      "explain": {
+        "ua": "What happened?",
+        "ru": "What happened?"
+      },
+      "id": "a2-u21-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "questions-prepositions",
+      "audio_text": "Who does this belong to?",
+      "options": [
+        "Who does this belong to?",
+        "Who does this belong?",
+        "Whose does this belong to?"
+      ],
+      "answer": "Who does this belong to?",
+      "audio": "",
+      "explain": {
+        "ua": "Belong to.",
+        "ru": "Belong to."
+      },
+      "id": "a2-u21-cp12"
+    }
+  ]
+}

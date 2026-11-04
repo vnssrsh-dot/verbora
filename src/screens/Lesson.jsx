@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { useStore, recordAnswer, addXp, bumpStreak, awardBadges, streakAlive } from '../lib/store.jsx';
+import { useStore, recordAnswer, addXp, bumpStreak, awardBadges, streakAlive, today } from '../lib/store.jsx';
 import { loc } from '../lib/loc.js';
 import { haptic } from '../lib/telegram.js';
 import { speak, stop } from '../lib/tts.js';
@@ -17,7 +17,7 @@ export const PASS = 0.8;
   level      → final level test → result → level-up
   mistakes   → «робота над помилками»
 */
-export default function Lesson({ mode, unit, lesson, recap, exercises: given, title, level, nav, t, lang }) {
+export default function Lesson({ mode, unit, lesson, recap, exercises: given, title, level, pass = PASS, nav, t, lang }) {
   const { state, update } = useStore();
   const sound = state.settings.sound;
 
@@ -28,6 +28,9 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
         s.push({ kind: 'recapIntro', recap });
         for (const e of recap.exercises || []) s.push({ kind: 'ex', ex: e, phase: 'recap' });
       }
+      // vocabulary lessons: word cards before the tasks
+      const words = (lesson.words || []).map((w) => unit.vocab?.find((v) => v.word === w)).filter(Boolean);
+      if (words.length) s.push({ kind: 'words', words });
       if (lesson.rule) {
         const compare = lesson.rule.compare || (unit.lessons[0]?.id === lesson.id ? unit.rule?.compare : null);
         s.push({ kind: 'rule', rule: lesson.rule, compare });
@@ -103,7 +106,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
     const okCount = Object.values(results).filter(Boolean).length;
     const total = mainTotal || 1;
     const acc = okCount / total;
-    const passed = mode === 'lesson' || mode === 'mistakes' ? true : acc >= PASS;
+    const passed = mode === 'lesson' || mode === 'mistakes' ? true : acc >= pass;
     const xp = okCount * 10 + (acc === 1 ? 10 : 0) + (mode === 'checkpoint' && passed ? 30 : 0) + (mode === 'level' && passed ? 100 : 0);
     let streakUp = false;
     let badges = [];
@@ -128,7 +131,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
       badges = awardBadges(s);
     });
     // update() is synchronous on the draft, values above are filled in by now
-    setFinished({ okCount, total, acc, passed, xp, streakUp, badges, levelUp });
+    setFinished({ okCount, total, acc, passed, xp, streakUp, badges, levelUp, pass });
     haptic(passed ? 'success' : 'warning');
   };
 
@@ -136,7 +139,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
 
   // ---------- mascot reaction ----------
   let emotion = 'idle';
-  if (step?.kind === 'recapIntro' || step?.kind === 'rule') emotion = 'explaining';
+  if (step?.kind === 'recapIntro' || step?.kind === 'rule' || step?.kind === 'words') emotion = 'explaining';
   else if (feedback) emotion = feedback.ok ? (run >= 5 ? 'fire' : 'correct') : missRun >= 2 ? 'encouragement' : 'mistake';
   else if (step?.ex?.type === 'listen') emotion = 'listening';
   else if (step?.ex?.type === 'translate' || step?.ex?.type === 'build') emotion = 'thinking';
@@ -159,6 +162,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
 
       <div key={pos} className="col grow" style={{ gap: 14, animation: 'screenIn .25s ease both', paddingBottom: 150 }}>
         {step?.kind === 'recapIntro' && <RecapIntro recap={step.recap} t={t} lang={lang} sound={sound} />}
+        {step?.kind === 'words' && <WordCards words={step.words} t={t} lang={lang} sound={sound} />}
         {step?.kind === 'rule' && <RuleCard rule={step.rule} compare={step.compare} t={t} lang={lang} sound={sound} />}
         {step?.kind === 'ex' && (() => {
           const C = EXERCISES[step.ex.type];
@@ -183,7 +187,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
               <button className="btn" onClick={next}>{t('recapGo')}</button>
             </div>
           )}
-          {step?.kind === 'rule' && <button className="btn" onClick={next}>{t('understood')} <Icon name="arrow" size={18} /></button>}
+          {(step?.kind === 'rule' || step?.kind === 'words') && <button className="btn" onClick={() => { if (step.kind === 'words') update((s) => { for (const w of step.words) if (!s.vocab[w.word]) s.vocab[w.word] = { box: 0, due: today(), learned: false }; }); next(); }}>{t('understood')} <Icon name="arrow" size={18} /></button>}
           {step?.kind === 'ex' && !feedback && (
             ctl.skip
               ? <button className="btn" onClick={() => { setResults((m) => ({ ...m, [step.ex.id]: true })); next(); }}>{t('skip')}</button>
@@ -222,6 +226,39 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
   );
 }
 
+function WordCards({ words, t, lang, sound }) {
+  return (
+    <>
+      <div className="row" style={{ alignItems: 'center' }}>
+        <div className="col grow" style={{ gap: 4 }}>
+          <span className="pill" style={{ alignSelf: 'flex-start' }}><span className="ic"><Icon name="cards" size={15} /></span>{t('newWords')}</span>
+          <span className="small">{t('newWordsSub')}</span>
+        </div>
+        <Mascot emotion="explaining" size={90} />
+      </div>
+      <div className="col" style={{ gap: 10 }}>
+        {words.map((w) => (
+          <div key={w.word} className="card col" style={{ gap: 6, padding: '14px 16px' }}>
+            <div className="row">
+              <div className="col grow" style={{ gap: 0, minWidth: 0 }}>
+                <span className="row" style={{ gap: 8, flexWrap: 'wrap' }}><b className="en" style={{ fontSize: 19 }}>{w.word}</b><span className="tiny">{w.ipa}</span></span>
+                <span className="small" style={{ color: 'var(--primary-2)', fontWeight: 700 }}>{loc(w, lang)}</span>
+              </div>
+              <Speak text={w.word} audio={w.audio} enabled={sound} />
+            </div>
+            {w.example && (
+              <div className="row" style={{ gap: 8, background: 'var(--surface-2)', borderRadius: 12, padding: '8px 10px' }}>
+                <span className="small en grow" style={{ color: 'var(--text)' }}>{w.example}</span>
+                <Speak text={w.example} enabled={sound} />
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </>
+  );
+}
+
 export function RuleCard({ rule, compare, t, lang, sound }) {
   return (
     <>
@@ -232,7 +269,7 @@ export function RuleCard({ rule, compare, t, lang, sound }) {
         <Mascot emotion="explaining" size={96} />
       </div>
       <div className="card" style={{ background: 'linear-gradient(135deg, var(--primary-soft), var(--surface))' }}>
-        <div className="h3 en" style={{ color: 'var(--primary-2)', fontSize: 19, lineHeight: 1.45 }}>{rule.formula}</div>
+        <div className="h3 en" style={{ color: 'var(--primary-2)', fontSize: 19, lineHeight: 1.45 }}>{loc(rule.formula, lang)}</div>
       </div>
       {rule.explain && <p style={{ fontSize: 16, lineHeight: 1.55 }}>{loc(rule.explain, lang)}</p>}
       {rule.examples?.length > 0 && (
@@ -270,7 +307,7 @@ function RecapIntro({ recap, t, lang, sound }) {
       </div>
       {recap.rule && (
         <div className="card col" style={{ gap: 10 }}>
-          <div className="h3 en" style={{ color: 'var(--primary-2)' }}>{recap.rule.formula}</div>
+          <div className="h3 en" style={{ color: 'var(--primary-2)' }}>{loc(recap.rule.formula, lang)}</div>
           {ex && (
             <div className="row">
               <div className="col grow" style={{ gap: 2 }}><span className="en">{ex.en}</span><span className="small">{loc(ex, lang)}</span></div>
@@ -320,7 +357,7 @@ function Result({ finished, mode, nav, t, lang, steps, results, unit, level, tit
   }
 
   const great = acc >= 0.9;
-  const head = mode === 'checkpoint' || mode === 'level' ? (passed ? t('cpPassed') : t('cpFailed')) : great ? t('resultGreat') : acc >= 0.6 ? t('resultGood') : t('resultTry');
+  const head = mode === 'level' && passed ? t('levelPassed', { level }) : mode === 'checkpoint' || mode === 'level' ? (passed ? t('cpPassed') : t('cpFailed')) : great ? t('resultGreat') : acc >= 0.6 ? t('resultGood') : t('resultTry');
   const emotion = passed ? (great ? 'celebration' : 'correct') : 'encouragement';
   return (
     <div className="screen" style={{ gap: 16 }}>
@@ -329,7 +366,7 @@ function Result({ finished, mode, nav, t, lang, steps, results, unit, level, tit
         <Mascot emotion={emotion} size={180} anim="bounce" sparkles={passed} />
         <div className="h1">{head}</div>
         <p className="sub">{t('resultDone', { ok: okCount, total })}</p>
-        {!passed && <p className="small">{t('cpNeed', { need: Math.round(PASS * 100) })}</p>}
+        {!passed && <p className="small">{t('cpNeed', { need: Math.round((finished.pass || PASS) * 100) })}</p>}
       </div>
       <div className="row" style={{ gap: 10 }}>
         <div className="card stat"><Tile icon="star" size={36} /><b>+{xp}</b><span>XP</span></div>

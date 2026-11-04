@@ -1,4 +1,4 @@
-import { LEVELS, levelPath, getUnit, allExercises } from './content.js';
+import { LEVELS, levelPath, allExercises } from './content.js';
 
 export function topicStatus(s, topic) {
   const r = s.topics[topic];
@@ -36,7 +36,7 @@ export function buildPath(s, level) {
       const prevDone = i === 0 || Boolean(s.lessonsDone[u.data.lessons[i - 1].id]) || complete;
       let status = 'locked';
       if (unlocked && done) {
-        const topics = [...new Set(l.exercises.map((e) => e.topic))];
+        const topics = l.topics;
         status = topics.some((t) => s.topics[t]?.last === false && topicStatus(s, t) !== 'know') ? 'refresh' : 'done';
       } else if (unlocked && prevDone) status = 'available';
       if (status === 'available' && !currentFound) { status = 'current'; currentFound = true; }
@@ -88,20 +88,18 @@ export function nextStep(s, level) {
 }
 
 // Warm-up «Згадаймо» (SPEC §13.2). Uses the lesson's recap; builds one when it is absent;
-// mistakes from the previous topic take priority.
-export function buildRecap(s, unit, index, levelUnits) {
+// mistakes from the previous topic take priority. `prevUnit` is the full previous unit in the level
+// (needed only for the first lesson of a unit).
+export function buildRecap(s, unit, index, prevUnit) {
   const lesson = unit.lessons[index];
-  let source = null;
-  let base = lesson.recap;
-  if (index > 0) source = unit.lessons[index - 1];
+  const base = lesson.recap;
+  const source = index > 0 ? unit.lessons[index - 1] : null;
   let rule = source?.rule || null;
   let pool = source ? source.exercises : [];
   if (index === 0) {
-    const pos = levelUnits.findIndex((u) => u.id === unit.id);
-    const prev = pos > 0 ? getUnit(levelUnits[pos - 1].id) : null;
-    if (!prev) return base ? { note: base.note, rule: null, exercises: base.exercises } : null;
-    rule = prev.rule;
-    pool = prev.checkpoint || allExercises(prev);
+    if (!prevUnit) return base ? { note: base.note, rule: null, exercises: base.exercises } : null;
+    rule = prevUnit.rule || prevUnit.lessons[prevUnit.lessons.length - 1]?.rule || null;
+    pool = prevUnit.checkpoint?.length ? prevUnit.checkpoint : allExercises(prevUnit);
   }
   const fromMistakes = pool.filter((e) => s.mistakes.includes(e.id)).slice(0, 3);
   if (base) {
@@ -111,15 +109,4 @@ export function buildRecap(s, unit, index, levelUnits) {
   const exercises = fromMistakes.length ? fromMistakes : simple;
   if (!rule && !exercises.length) return null;
   return { note: null, rule, exercises };
-}
-
-export function levelTestExercises(level, n = 25) {
-  const pool = [];
-  for (const u of levelPath(level)) if (u.data) pool.push(...(u.data.checkpoint || []), ...u.data.lessons.flatMap((l) => l.exercises));
-  const pick = [];
-  const seen = new Set();
-  // spread across the pool so every unit is represented
-  const step = Math.max(1, Math.floor(pool.length / n));
-  for (let i = 0; i < pool.length && pick.length < n; i += step) if (!seen.has(pool[i].id)) { seen.add(pool[i].id); pick.push(pool[i]); }
-  return pick;
 }

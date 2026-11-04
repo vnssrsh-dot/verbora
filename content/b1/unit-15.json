@@ -1,0 +1,1017 @@
+{
+  "id": "b1-u15",
+  "level": "B1",
+  "order": 15,
+  "kind": "grammar",
+  "title": {
+    "en": "Relative clauses",
+    "ua": "Підрядні означальні",
+    "ru": "Относительные придаточные"
+  },
+  "rule": {
+    "formula": {
+      "ua": "who — люди · which — речі · that — і те, й те · where — місце · whose — чий",
+      "ru": "who — люди · which — вещи · that — и то, и другое · where — место · whose — чей"
+    },
+    "explain": {
+      "ua": "Підрядне означальне пояснює, про кого чи про що йдеться: The woman who lives next door is a doctor. The phone which I bought is great.",
+      "ru": "Определительное придаточное поясняет, о ком или о чём речь: The woman who lives next door is a doctor. The phone which I bought is great."
+    },
+    "examples": [
+      {
+        "en": "She's the girl who won the prize.",
+        "ua": "Це та дівчина, яка виграла приз.",
+        "ru": "Это та девушка, которая выиграла приз."
+      },
+      {
+        "en": "This is the café where we met.",
+        "ua": "Це кафе, де ми познайомилися.",
+        "ru": "Это кафе, где мы познакомились."
+      },
+      {
+        "en": "He's the man whose car was stolen.",
+        "ua": "Це той чоловік, чию машину вкрали.",
+        "ru": "Это тот мужчина, чью машину украли."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "who",
+      "ipa": "/huː/",
+      "ua": "який, котрий (про людей)",
+      "ru": "который (о людях)",
+      "example": "the man who called",
+      "audio": ""
+    },
+    {
+      "word": "which",
+      "ipa": "/wɪtʃ/",
+      "ua": "який, котрий (про речі)",
+      "ru": "который (о вещах)",
+      "example": "the book which I read",
+      "audio": ""
+    },
+    {
+      "word": "that",
+      "ipa": "/ðæt/",
+      "ua": "який (про людей і речі)",
+      "ru": "который (о людях и вещах)",
+      "example": "the film that we saw",
+      "audio": ""
+    },
+    {
+      "word": "where",
+      "ipa": "/weə/",
+      "ua": "де (про місце)",
+      "ru": "где (о месте)",
+      "example": "the town where I was born",
+      "audio": ""
+    },
+    {
+      "word": "whose",
+      "ipa": "/huːz/",
+      "ua": "чий",
+      "ru": "чей",
+      "example": "the girl whose dog bit me",
+      "audio": ""
+    },
+    {
+      "word": "neighbour",
+      "ipa": "/ˈneɪbə/",
+      "ua": "сусід",
+      "ru": "сосед",
+      "example": "the neighbour who helped us",
+      "audio": ""
+    },
+    {
+      "word": "prize",
+      "ipa": "/praɪz/",
+      "ua": "приз, премія",
+      "ru": "приз, премия",
+      "example": "She won a prize.",
+      "audio": ""
+    },
+    {
+      "word": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "ua": "рекомендувати",
+      "ru": "рекомендовать",
+      "example": "the hotel you recommended",
+      "audio": ""
+    },
+    {
+      "word": "hometown",
+      "ipa": "/ˈhəʊmtaʊn/",
+      "ua": "рідне місто",
+      "ru": "родной город",
+      "example": "This is my hometown.",
+      "audio": ""
+    },
+    {
+      "word": "tool",
+      "ipa": "/tuːl/",
+      "ua": "інструмент",
+      "ru": "инструмент",
+      "example": "a tool which cuts wood",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u15-l01",
+      "title": {
+        "en": "who, which, that",
+        "ua": "who, which, that",
+        "ru": "who, which, that"
+      },
+      "recap": {
+        "from": "b1-u14-l03",
+        "note": {
+          "ua": "Згадаймо: say (something) · say to someone · tell SOMEONE (something)",
+          "ru": "Вспомним: say (something) · say to someone · tell SOMEONE (something)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "say-tell",
+            "question": "He ___ me he was tired.",
+            "options": [
+              "told",
+              "said",
+              "say"
+            ],
+            "answer": "told",
+            "explain": {
+              "ua": "Комусь → told me.",
+              "ru": "Кому-то → told me."
+            },
+            "id": "b1-u15-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "say-tell",
+            "question": "Grandma ___ us a story.",
+            "options": [
+              "told",
+              "said",
+              "spoke"
+            ],
+            "answer": "told",
+            "explain": {
+              "ua": "Tell a story.",
+              "ru": "Tell a story."
+            },
+            "id": "b1-u15-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "людина + who / that · річ + which / that",
+          "ru": "человек + who / that · вещь + which / that"
+        },
+        "explain": {
+          "ua": "Who — про людей, which — про речі й тварин, that — для обох (у розмові частіше). The man who / that lives here. The car which / that I bought.",
+          "ru": "Who — о людях, which — о вещах и животных, that — для обоих (в разговоре чаще). The man who / that lives here. The car which / that I bought."
+        },
+        "examples": [
+          {
+            "en": "The woman who lives next door is a nurse.",
+            "ua": "Жінка, яка живе поруч, — медсестра.",
+            "ru": "Женщина, которая живёт рядом, — медсестра."
+          },
+          {
+            "en": "I lost the ring which you gave me.",
+            "ua": "Я загубила каблучку, яку ти мені подарував.",
+            "ru": "Я потеряла кольцо, которое ты мне подарил."
+          },
+          {
+            "en": "It's a film that everyone loves.",
+            "ua": "Це фільм, який усі люблять.",
+            "ru": "Это фильм, который все любят."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-who-which",
+          "question": "The man ___ called you is my boss.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "who",
+          "explain": {
+            "ua": "Людина → who.",
+            "ru": "Человек → who."
+          },
+          "id": "b1-u15-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-who-which",
+          "question": "The book ___ I'm reading is great.",
+          "options": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Річ → which.",
+            "ru": "Вещь → which."
+          },
+          "id": "b1-u15-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-who-which",
+          "question": "A vet is a person ___ treats animals.",
+          "options": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "answer": "who",
+          "explain": {
+            "ua": "Person → who.",
+            "ru": "Person → who."
+          },
+          "id": "b1-u15-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-who-which",
+          "question": "A fridge is a machine ___ keeps food cold.",
+          "options": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Machine → which.",
+            "ru": "Machine → which."
+          },
+          "id": "b1-u15-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-who-which",
+          "question": "The dog ___ lives next door is very noisy.",
+          "options": [
+            "that",
+            "who",
+            "where"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "Тварина → which / that.",
+            "ru": "Животное → which / that."
+          },
+          "id": "b1-u15-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "relative-who-which",
+          "pairs": [
+            {
+              "left": "A teacher is a person",
+              "right": "who teaches."
+            },
+            {
+              "left": "A charger is a thing",
+              "right": "which charges your phone."
+            },
+            {
+              "left": "A pilot is someone",
+              "right": "who flies planes."
+            },
+            {
+              "left": "Scissors are a tool",
+              "right": "which cuts paper."
+            }
+          ],
+          "explain": {
+            "ua": "Визначення.",
+            "ru": "Определения."
+          },
+          "id": "b1-u15-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-who-which",
+          "sentence": "The girl which sings is my sister.",
+          "answer": "The girl who sings is my sister.",
+          "accept": [
+            "The girl that sings is my sister."
+          ],
+          "explain": {
+            "ua": "Людина → who.",
+            "ru": "Человек → who."
+          },
+          "id": "b1-u15-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-who-which",
+          "sentence": "The phone who I bought is broken.",
+          "answer": "The phone which I bought is broken.",
+          "accept": [
+            "The phone that I bought is broken.",
+            "The phone I bought is broken."
+          ],
+          "explain": {
+            "ua": "Річ → which.",
+            "ru": "Вещь → which."
+          },
+          "id": "b1-u15-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-who-which",
+          "prompt": {
+            "ua": "Жінка, яка живе поруч, — лікарка.",
+            "ru": "Женщина, которая живёт рядом, — врач."
+          },
+          "answer": "The woman who lives next door is a doctor.",
+          "accept": [
+            "The woman that lives next door is a doctor."
+          ],
+          "explain": {
+            "ua": "Who.",
+            "ru": "Who."
+          },
+          "id": "b1-u15-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u15-l02",
+      "title": {
+        "en": "where, whose",
+        "ua": "where, whose",
+        "ru": "where, whose"
+      },
+      "recap": {
+        "from": "b1-u15-l01",
+        "note": {
+          "ua": "Згадаймо: людина + who / that · річ + which / that",
+          "ru": "Вспомним: человек + who / that · вещь + which / that"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-who-which",
+            "question": "The man ___ called you is my boss.",
+            "options": [
+              "who",
+              "which",
+              "where"
+            ],
+            "answer": "who",
+            "explain": {
+              "ua": "Людина → who.",
+              "ru": "Человек → who."
+            },
+            "id": "b1-u15-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-who-which",
+            "question": "The dog ___ lives next door is very noisy.",
+            "options": [
+              "that",
+              "who",
+              "where"
+            ],
+            "answer": "that",
+            "explain": {
+              "ua": "Тварина → which / that.",
+              "ru": "Животное → which / that."
+            },
+            "id": "b1-u15-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "місце + where · чий + whose",
+          "ru": "место + where · чей + whose"
+        },
+        "explain": {
+          "ua": "Where — про місце: the house where I grew up. Whose — замість his / her / their: the man whose wife is a singer (= his wife is a singer).",
+          "ru": "Where — о месте: the house where I grew up. Whose — вместо his / her / their: the man whose wife is a singer (= his wife is a singer)."
+        },
+        "examples": [
+          {
+            "en": "This is the hospital where I was born.",
+            "ua": "Це лікарня, де я народився.",
+            "ru": "Это больница, где я родился."
+          },
+          {
+            "en": "That's the girl whose brother is famous.",
+            "ua": "Це дівчина, чий брат відомий.",
+            "ru": "Это девушка, чей брат знаменит."
+          },
+          {
+            "en": "Is there a shop where I can buy a charger?",
+            "ua": "Тут є магазин, де можна купити зарядку?",
+            "ru": "Здесь есть магазин, где можно купить зарядку?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-where-whose",
+          "question": "This is the café ___ we first met.",
+          "options": [
+            "where",
+            "which",
+            "who"
+          ],
+          "answer": "where",
+          "explain": {
+            "ua": "Місце → where.",
+            "ru": "Место → where."
+          },
+          "id": "b1-u15-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-where-whose",
+          "question": "He's the man ___ car was stolen.",
+          "options": [
+            "whose",
+            "who",
+            "which"
+          ],
+          "answer": "whose",
+          "explain": {
+            "ua": "Чия машина → whose.",
+            "ru": "Чья машина → whose."
+          },
+          "id": "b1-u15-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-where-whose",
+          "question": "Lviv is the city ___ my parents live.",
+          "options": [
+            "where",
+            "which",
+            "whose"
+          ],
+          "answer": "where",
+          "explain": {
+            "ua": "Where.",
+            "ru": "Where."
+          },
+          "id": "b1-u15-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-where-whose",
+          "question": "I have a friend ___ dad is a pilot.",
+          "options": [
+            "whose",
+            "who",
+            "who's"
+          ],
+          "answer": "whose",
+          "explain": {
+            "ua": "Whose.",
+            "ru": "Whose."
+          },
+          "id": "b1-u15-l02-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "relative-clauses",
+          "bank": [
+            "who",
+            "which",
+            "where",
+            "whose"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The woman ___ cut my hair was great.",
+            "The salon ___ she works is in the centre.",
+            "The salon ___ owner is French is expensive.",
+            "I bought a shampoo ___ smells nice."
+          ],
+          "answers": [
+            "who",
+            "where",
+            "whose",
+            "which"
+          ],
+          "explain": {
+            "ua": "Людина / місце / чий / річ.",
+            "ru": "Человек / место / чей / вещь."
+          },
+          "id": "b1-u15-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-where-whose",
+          "sentence": "This is the town which I grew up.",
+          "answer": "This is the town where I grew up.",
+          "accept": [
+            "This is the town that I grew up in.",
+            "This is the town which I grew up in."
+          ],
+          "explain": {
+            "ua": "Місце + where.",
+            "ru": "Место + where."
+          },
+          "id": "b1-u15-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-where-whose",
+          "sentence": "That's the boy who's bike is red.",
+          "answer": "That's the boy whose bike is red.",
+          "accept": [],
+          "explain": {
+            "ua": "Чий — whose.",
+            "ru": "Чей — whose."
+          },
+          "id": "b1-u15-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "relative-where-whose",
+          "audio_text": "This is the house where I was born.",
+          "options": [
+            "This is the house where I was born.",
+            "This is the house which I was born.",
+            "This is the horse where I was born."
+          ],
+          "answer": "This is the house where I was born.",
+          "audio": "",
+          "explain": {
+            "ua": "Where.",
+            "ru": "Where."
+          },
+          "id": "b1-u15-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-where-whose",
+          "prompt": {
+            "ua": "Це ресторан, де ми святкували весілля.",
+            "ru": "Это ресторан, где мы праздновали свадьбу."
+          },
+          "answer": "This is the restaurant where we celebrated our wedding.",
+          "accept": [
+            "This is the restaurant where we had our wedding."
+          ],
+          "explain": {
+            "ua": "Where.",
+            "ru": "Where."
+          },
+          "id": "b1-u15-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u15-l03",
+      "title": {
+        "en": "Leaving out who / which / that",
+        "ua": "Коли можна пропустити",
+        "ru": "Когда можно опустить"
+      },
+      "recap": {
+        "from": "b1-u15-l02",
+        "note": {
+          "ua": "Згадаймо: місце + where · чий + whose",
+          "ru": "Вспомним: место + where · чей + whose"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-where-whose",
+            "question": "This is the café ___ we first met.",
+            "options": [
+              "where",
+              "which",
+              "who"
+            ],
+            "answer": "where",
+            "explain": {
+              "ua": "Місце → where.",
+              "ru": "Место → where."
+            },
+            "id": "b1-u15-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-where-whose",
+            "question": "I have a friend ___ dad is a pilot.",
+            "options": [
+              "whose",
+              "who",
+              "who's"
+            ],
+            "answer": "whose",
+            "explain": {
+              "ua": "Whose.",
+              "ru": "Whose."
+            },
+            "id": "b1-u15-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "пропускаємо, якщо після нього є інший підмет: the book (that) I read",
+          "ru": "опускаем, если после него есть другое подлежащее: the book (that) I read"
+        },
+        "explain": {
+          "ua": "The film (that) we saw was great — можна пропустити (після that йде we). The man who lives here — не можна (після who одразу дієслово).",
+          "ru": "The film (that) we saw was great — можно опустить (после that идёт we). The man who lives here — нельзя (после who сразу глагол)."
+        },
+        "examples": [
+          {
+            "en": "The cake (that) you made is delicious.",
+            "ua": "Торт, який ти спекла, — смачнющий.",
+            "ru": "Торт, который ты испекла, — очень вкусный."
+          },
+          {
+            "en": "Is this the hotel (which) you recommended?",
+            "ua": "Це той готель, який ти радив?",
+            "ru": "Это тот отель, который ты советовал?"
+          },
+          {
+            "en": "The woman who called you is here. (не можна пропустити)",
+            "ua": "Жінка, яка тобі дзвонила, тут.",
+            "ru": "Женщина, которая тебе звонила, здесь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-omission",
+          "question": "Can we leave out the word? → The jacket that I bought was cheap.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": "Yes",
+          "explain": {
+            "ua": "Після that іде I → можна.",
+            "ru": "После that идёт I → можно."
+          },
+          "id": "b1-u15-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-omission",
+          "question": "Can we leave out the word? → The man who lives here is a doctor.",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "answer": "No",
+          "explain": {
+            "ua": "Після who одразу дієслово → не можна.",
+            "ru": "После who сразу глагол → нельзя."
+          },
+          "id": "b1-u15-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-omission",
+          "question": "Can we leave out the word? → The film which we watched was long.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "answer": "Yes",
+          "explain": {
+            "ua": "Після which іде we → можна.",
+            "ru": "После which идёт we → можно."
+          },
+          "id": "b1-u15-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-omission",
+          "question": "Can we leave out the word? → The bus that goes to the airport is late.",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "answer": "No",
+          "explain": {
+            "ua": "Після that одразу дієслово.",
+            "ru": "После that сразу глагол."
+          },
+          "id": "b1-u15-l03-e04"
+        },
+        {
+          "type": "build",
+          "topic": "relative-omission",
+          "words": [
+            "beautiful",
+            "is",
+            "present",
+            "me",
+            "The",
+            "you",
+            "gave"
+          ],
+          "answer": "The present you gave me is beautiful",
+          "explain": {
+            "ua": "The present (that) you gave me → is beautiful.",
+            "ru": "The present (that) you gave me → is beautiful."
+          },
+          "id": "b1-u15-l03-e05"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Lena's flat is in the street where she grew up.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The landlord who owns the flat lives in Poland.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did her neighbour give her?",
+              "options": [
+                "a plant",
+                "a key",
+                "a cake"
+              ],
+              "answer": "a plant"
+            }
+          ],
+          "text": "I've just moved into a flat which is in the street where I grew up. The landlord, who lives downstairs, is very kind. My neighbour, whose daughter goes to my old school, gave me a plant. It's the best present that anyone has given me this year!",
+          "explain": {
+            "ua": "Flat in her childhood street; landlord lives downstairs; neighbour gave a plant.",
+            "ru": "Flat in her childhood street; landlord lives downstairs; neighbour gave a plant."
+          },
+          "id": "b1-u15-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-omission",
+          "sentence": "The man lives next door is a pilot.",
+          "answer": "The man who lives next door is a pilot.",
+          "accept": [
+            "The man that lives next door is a pilot."
+          ],
+          "explain": {
+            "ua": "Тут who пропустити не можна.",
+            "ru": "Здесь who опустить нельзя."
+          },
+          "id": "b1-u15-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "relative-omission",
+          "audio_text": "Is this the hotel you recommended?",
+          "options": [
+            "Is this the hotel you recommended?",
+            "Is this the hotel where you recommended?",
+            "Is this the hostel you recommended?"
+          ],
+          "answer": "Is this the hotel you recommended?",
+          "audio": "",
+          "explain": {
+            "ua": "Hotel (that) you recommended.",
+            "ru": "Hotel (that) you recommended."
+          },
+          "id": "b1-u15-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-omission",
+          "prompt": {
+            "ua": "Фільм, який ми дивилися вчора, був чудовий.",
+            "ru": "Фильм, который мы смотрели вчера, был отличный."
+          },
+          "answer": "The film we watched yesterday was great.",
+          "accept": [
+            "The film that we watched yesterday was great.",
+            "The film which we watched yesterday was great.",
+            "The movie we watched yesterday was great."
+          ],
+          "explain": {
+            "ua": "Можна без that.",
+            "ru": "Можно без that."
+          },
+          "id": "b1-u15-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "relative-who-which",
+      "question": "The woman ___ teaches us is from London.",
+      "options": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "who",
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b1-u15-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-who-which",
+      "question": "This is the phone ___ I bought.",
+      "options": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer": "which",
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b1-u15-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-where-whose",
+      "question": "This is the school ___ I studied.",
+      "options": [
+        "where",
+        "which",
+        "whose"
+      ],
+      "answer": "where",
+      "explain": {
+        "ua": "Where.",
+        "ru": "Where."
+      },
+      "id": "b1-u15-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-where-whose",
+      "question": "She's the girl ___ mum is a singer.",
+      "options": [
+        "whose",
+        "who",
+        "who's"
+      ],
+      "answer": "whose",
+      "explain": {
+        "ua": "Whose.",
+        "ru": "Whose."
+      },
+      "id": "b1-u15-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-omission",
+      "question": "Can we leave out 'that'? The cake that she made was great.",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes",
+      "explain": {
+        "ua": "Можна.",
+        "ru": "Можно."
+      },
+      "id": "b1-u15-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "relative-who-which",
+      "question": "A pilot is a person ___ flies planes.",
+      "answer": "who",
+      "accept": [
+        "that"
+      ],
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b1-u15-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "relative-who-which",
+      "question": "A kettle is a thing ___ boils water.",
+      "answer": "which",
+      "accept": [
+        "that"
+      ],
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b1-u15-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "relative-who-which",
+      "sentence": "The man which helped me was kind.",
+      "answer": "The man who helped me was kind.",
+      "accept": [
+        "The man that helped me was kind."
+      ],
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b1-u15-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "relative-where-whose",
+      "sentence": "This is the city which I was born.",
+      "answer": "This is the city where I was born.",
+      "accept": [
+        "This is the city that I was born in."
+      ],
+      "explain": {
+        "ua": "Where.",
+        "ru": "Where."
+      },
+      "id": "b1-u15-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "relative-where-whose",
+      "words": [
+        "friend",
+        "dad",
+        "pilot",
+        "have",
+        "is",
+        "whose",
+        "I",
+        "a",
+        "a"
+      ],
+      "answer": "I have a friend whose dad is a pilot",
+      "explain": {
+        "ua": "A friend → whose dad is a pilot.",
+        "ru": "A friend → whose dad is a pilot."
+      },
+      "id": "b1-u15-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "relative-where-whose",
+      "prompt": {
+        "ua": "Це кафе, де ми познайомилися.",
+        "ru": "Это кафе, где мы познакомились."
+      },
+      "answer": "This is the café where we met.",
+      "accept": [
+        "This is the cafe where we met.",
+        "That's the café where we met."
+      ],
+      "explain": {
+        "ua": "Where.",
+        "ru": "Where."
+      },
+      "id": "b1-u15-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "relative-who-which",
+      "audio_text": "The book that you gave me is great.",
+      "options": [
+        "The book that you gave me is great.",
+        "The book who you gave me is great.",
+        "The book that you gave me was great."
+      ],
+      "answer": "The book that you gave me is great.",
+      "audio": "",
+      "explain": {
+        "ua": "That.",
+        "ru": "That."
+      },
+      "id": "b1-u15-cp12"
+    }
+  ]
+}

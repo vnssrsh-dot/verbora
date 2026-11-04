@@ -1,0 +1,1474 @@
+{
+  "id": "a1-u15",
+  "level": "A1",
+  "order": 15,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Simple: positive",
+    "ua": "Present Simple: ствердження",
+    "ru": "Present Simple: утверждение"
+  },
+  "rule": {
+    "formula": "I / you / we / they work · he / she / it works",
+    "explain": {
+      "ua": "Present Simple — про звички, факти, розклад: що робимо зазвичай. Дієслово в базовій формі, але з he / she / it додаємо -s.",
+      "ru": "Present Simple — о привычках, фактах, расписании: что делаем обычно. Глагол в базовой форме, но с he / she / it добавляем -s."
+    },
+    "examples": [
+      {
+        "en": "I work in a bank.",
+        "ua": "Я працюю в банку.",
+        "ru": "Я работаю в банке."
+      },
+      {
+        "en": "She lives in Kyiv.",
+        "ua": "Вона живе в Києві.",
+        "ru": "Она живёт в Киеве."
+      },
+      {
+        "en": "We drink coffee every morning.",
+        "ua": "Ми п'ємо каву щоранку.",
+        "ru": "Мы пьём кофе каждое утро."
+      }
+    ],
+    "compare": {
+      "ua": "В українській дієслово змінюється для кожної особи (працюю, працюєш, працює). В англійській — лише одна зміна: -s для he / she / it.",
+      "ru": "В русском глагол меняется для каждого лица (работаю, работаешь, работает). В английском — только одно изменение: -s для he / she / it."
+    }
+  },
+  "vocab": [
+    {
+      "word": "work",
+      "ipa": "/wɜːk/",
+      "ua": "працювати",
+      "ru": "работать",
+      "example": "I work in an office.",
+      "audio": ""
+    },
+    {
+      "word": "live",
+      "ipa": "/lɪv/",
+      "ua": "жити",
+      "ru": "жить",
+      "example": "We live in Odesa.",
+      "audio": ""
+    },
+    {
+      "word": "like",
+      "ipa": "/laɪk/",
+      "ua": "подобатися, любити",
+      "ru": "нравиться, любить",
+      "example": "I like tea.",
+      "audio": ""
+    },
+    {
+      "word": "drink",
+      "ipa": "/drɪŋk/",
+      "ua": "пити",
+      "ru": "пить",
+      "example": "She drinks water.",
+      "audio": ""
+    },
+    {
+      "word": "eat",
+      "ipa": "/iːt/",
+      "ua": "їсти",
+      "ru": "есть",
+      "example": "They eat a lot of fruit.",
+      "audio": ""
+    },
+    {
+      "word": "speak",
+      "ipa": "/spiːk/",
+      "ua": "розмовляти (мовою)",
+      "ru": "говорить (на языке)",
+      "example": "He speaks English.",
+      "audio": ""
+    },
+    {
+      "word": "read",
+      "ipa": "/riːd/",
+      "ua": "читати",
+      "ru": "читать",
+      "example": "My mum reads books.",
+      "audio": ""
+    },
+    {
+      "word": "play",
+      "ipa": "/pleɪ/",
+      "ua": "грати",
+      "ru": "играть",
+      "example": "Kids play in the park.",
+      "audio": ""
+    },
+    {
+      "word": "watch",
+      "ipa": "/wɒtʃ/",
+      "ua": "дивитися",
+      "ru": "смотреть",
+      "example": "She watches TV.",
+      "audio": ""
+    },
+    {
+      "word": "go",
+      "ipa": "/ɡəʊ/",
+      "ua": "іти, їхати",
+      "ru": "идти, ехать",
+      "example": "He goes to work by bus.",
+      "audio": ""
+    },
+    {
+      "word": "do",
+      "ipa": "/duː/",
+      "ua": "робити",
+      "ru": "делать",
+      "example": "She does yoga.",
+      "audio": ""
+    },
+    {
+      "word": "study",
+      "ipa": "/ˈstʌdi/",
+      "ua": "вчитися, вивчати",
+      "ru": "учиться, изучать",
+      "example": "He studies English.",
+      "audio": ""
+    },
+    {
+      "word": "know",
+      "ipa": "/nəʊ/",
+      "ua": "знати",
+      "ru": "знать",
+      "example": "I know her.",
+      "audio": ""
+    },
+    {
+      "word": "every day",
+      "ipa": "/ˈevri deɪ/",
+      "ua": "щодня",
+      "ru": "каждый день",
+      "example": "I read every day.",
+      "audio": ""
+    },
+    {
+      "word": "office",
+      "ipa": "/ˈɒfɪs/",
+      "ua": "офіс",
+      "ru": "офис",
+      "example": "Dad works in an office.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u15-l01",
+      "title": {
+        "en": "I, you, we, they + verb",
+        "ua": "I, you, we, they + дієслово",
+        "ru": "I, you, we, they + глагол"
+      },
+      "recap": {
+        "from": "a1-u14-l02",
+        "note": {
+          "ua": "Згадаймо: Характер",
+          "ru": "Вспомним: Характер"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "He always tells jokes. People laugh.",
+            "answer": "funny",
+            "accept": [],
+            "explain": {
+              "ua": "Funny — смішний.",
+              "ru": "Funny — смешной."
+            },
+            "id": "a1-u15-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She helps everybody. She is very ___.",
+            "options": [
+              "kind",
+              "lazy",
+              "shy"
+            ],
+            "answer": "kind",
+            "explain": {
+              "ua": "Kind — добрий.",
+              "ru": "Kind — добрый."
+            },
+            "id": "a1-u15-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I / you / we / they + дієслово",
+          "ru": "I / you / we / they + глагол"
+        },
+        "explain": {
+          "ua": "З I, you, we, they — дієслово без змін: I work, they live. Не додаємо am / is / are!",
+          "ru": "С I, you, we, they — глагол без изменений: I work, they live. Не добавляем am / is / are!"
+        },
+        "examples": [
+          {
+            "en": "I live in Lviv.",
+            "ua": "Я живу у Львові.",
+            "ru": "Я живу во Львове."
+          },
+          {
+            "en": "You speak English.",
+            "ua": "Ти розмовляєш англійською.",
+            "ru": "Ты говоришь по-английски."
+          },
+          {
+            "en": "They like music.",
+            "ua": "Вони люблять музику.",
+            "ru": "Они любят музыку."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-positive",
+          "question": "I ___ in a bank.",
+          "options": [
+            "work",
+            "works",
+            "am work"
+          ],
+          "answer": "work",
+          "explain": {
+            "ua": "I + дієслово без змін.",
+            "ru": "I + глагол без изменений."
+          },
+          "id": "a1-u15-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-positive",
+          "question": "We ___ in Odesa.",
+          "options": [
+            "live",
+            "lives",
+            "are live"
+          ],
+          "answer": "live",
+          "explain": {
+            "ua": "We + live.",
+            "ru": "We + live."
+          },
+          "id": "a1-u15-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-positive",
+          "question": "They ___ coffee.",
+          "options": [
+            "drink",
+            "drinks",
+            "are drink"
+          ],
+          "answer": "drink",
+          "explain": {
+            "ua": "They + drink.",
+            "ru": "They + drink."
+          },
+          "id": "a1-u15-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-positive",
+          "question": "You ___ English well.",
+          "options": [
+            "speak",
+            "speaks",
+            "are speak"
+          ],
+          "answer": "speak",
+          "explain": {
+            "ua": "You + speak.",
+            "ru": "You + speak."
+          },
+          "id": "a1-u15-l01-e04"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "work",
+              "right": {
+                "ua": "працювати",
+                "ru": "работать"
+              }
+            },
+            {
+              "left": "live",
+              "right": {
+                "ua": "жити",
+                "ru": "жить"
+              }
+            },
+            {
+              "left": "eat",
+              "right": {
+                "ua": "їсти",
+                "ru": "есть"
+              }
+            },
+            {
+              "left": "read",
+              "right": {
+                "ua": "читати",
+                "ru": "читать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори дієслова.",
+            "ru": "Повтори глаголы."
+          },
+          "id": "a1-u15-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-positive",
+          "sentence": "I am work in an office.",
+          "answer": "I work in an office.",
+          "accept": [],
+          "explain": {
+            "ua": "Present Simple — без am: I work.",
+            "ru": "Present Simple — без am: I work."
+          },
+          "id": "a1-u15-l01-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-positive",
+          "question": "My parents ___ in a village. (live)",
+          "answer": "live",
+          "accept": [],
+          "explain": {
+            "ua": "Parents = they → live.",
+            "ru": "Parents = they → live."
+          },
+          "id": "a1-u15-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-simple-positive",
+          "words": [
+            "We",
+            "of",
+            "lot",
+            "fruit",
+            "eat",
+            "a"
+          ],
+          "answer": "We eat a lot of fruit",
+          "explain": {
+            "ua": "We → eat → a lot of fruit.",
+            "ru": "We → eat → a lot of fruit."
+          },
+          "id": "a1-u15-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-positive",
+          "prompt": {
+            "ua": "Я люблю чай.",
+            "ru": "Я люблю чай."
+          },
+          "answer": "I like tea.",
+          "accept": [
+            "I love tea."
+          ],
+          "explain": {
+            "ua": "Like + tea. Без am.",
+            "ru": "Like + tea. Без am."
+          },
+          "id": "a1-u15-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u15-l02",
+      "title": {
+        "en": "he, she, it + -s",
+        "ua": "he, she, it + -s",
+        "ru": "he, she, it + -s"
+      },
+      "recap": {
+        "from": "a1-u15-l01",
+        "note": {
+          "ua": "Згадаймо: I / you / we / they + дієслово",
+          "ru": "Вспомним: I / you / we / they + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-positive",
+            "question": "I ___ in a bank.",
+            "options": [
+              "work",
+              "works",
+              "am work"
+            ],
+            "answer": "work",
+            "explain": {
+              "ua": "I + дієслово без змін.",
+              "ru": "I + глагол без изменений."
+            },
+            "id": "a1-u15-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-positive",
+            "question": "You ___ English well.",
+            "options": [
+              "speak",
+              "speaks",
+              "are speak"
+            ],
+            "answer": "speak",
+            "explain": {
+              "ua": "You + speak.",
+              "ru": "You + speak."
+            },
+            "id": "a1-u15-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "he / she / it + дієслово-s",
+          "ru": "he / she / it + глагол-s"
+        },
+        "explain": {
+          "ua": "Найважливіше правило Present Simple: з he, she, it додаємо -s. Anna works. My cat sleeps. It costs 10 dollars.",
+          "ru": "Самое важное правило Present Simple: с he, she, it добавляем -s. Anna works. My cat sleeps. It costs 10 dollars."
+        },
+        "examples": [
+          {
+            "en": "She works in a hospital.",
+            "ua": "Вона працює в лікарні.",
+            "ru": "Она работает в больнице."
+          },
+          {
+            "en": "He lives in Kyiv.",
+            "ua": "Він живе в Києві.",
+            "ru": "Он живёт в Киеве."
+          },
+          {
+            "en": "My dog likes apples.",
+            "ua": "Мій собака любить яблука.",
+            "ru": "Моя собака любит яблоки."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "She ___ in a hospital.",
+          "options": [
+            "works",
+            "work",
+            "is work"
+          ],
+          "answer": "works",
+          "explain": {
+            "ua": "She → works.",
+            "ru": "She → works."
+          },
+          "id": "a1-u15-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "He ___ English.",
+          "options": [
+            "speaks",
+            "speak",
+            "is speak"
+          ],
+          "answer": "speaks",
+          "explain": {
+            "ua": "He → speaks.",
+            "ru": "He → speaks."
+          },
+          "id": "a1-u15-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "My cat ___ milk.",
+          "options": [
+            "likes",
+            "like",
+            "is like"
+          ],
+          "answer": "likes",
+          "explain": {
+            "ua": "My cat = it → likes.",
+            "ru": "My cat = it → likes."
+          },
+          "id": "a1-u15-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "Max and Anna ___ in Lviv.",
+          "options": [
+            "live",
+            "lives",
+            "is live"
+          ],
+          "answer": "live",
+          "explain": {
+            "ua": "Max and Anna = they → live (без -s).",
+            "ru": "Max and Anna = they → live (без -s)."
+          },
+          "id": "a1-u15-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "My brother ___ books every day.",
+          "options": [
+            "reads",
+            "read",
+            "is read"
+          ],
+          "answer": "reads",
+          "explain": {
+            "ua": "My brother = he → reads.",
+            "ru": "My brother = he → reads."
+          },
+          "id": "a1-u15-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple-3rd",
+          "bank": [
+            "work",
+            "works"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ in an office.",
+            "My mum ___ in a school.",
+            "We ___ at home.",
+            "Tom ___ in a café."
+          ],
+          "answers": [
+            "work",
+            "works",
+            "work",
+            "works"
+          ],
+          "explain": {
+            "ua": "he / she → works, I / we → work.",
+            "ru": "he / she → works, I / we → work."
+          },
+          "id": "a1-u15-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-3rd",
+          "sentence": "She live in Odesa.",
+          "answer": "She lives in Odesa.",
+          "accept": [],
+          "explain": {
+            "ua": "She → lives.",
+            "ru": "She → lives."
+          },
+          "id": "a1-u15-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-3rd",
+          "sentence": "They eats a lot.",
+          "answer": "They eat a lot.",
+          "accept": [],
+          "explain": {
+            "ua": "They — без -s.",
+            "ru": "They — без -s."
+          },
+          "id": "a1-u15-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-3rd",
+          "prompt": {
+            "ua": "Він живе в Києві.",
+            "ru": "Он живёт в Киеве."
+          },
+          "answer": "He lives in Kyiv.",
+          "accept": [],
+          "explain": {
+            "ua": "He → lives.",
+            "ru": "He → lives."
+          },
+          "id": "a1-u15-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u15-l03",
+      "title": {
+        "en": "-es, -ies and saying -s",
+        "ua": "-es, -ies і вимова -s",
+        "ru": "-es, -ies и произношение -s"
+      },
+      "recap": {
+        "from": "a1-u15-l02",
+        "note": {
+          "ua": "Згадаймо: he / she / it + дієслово-s",
+          "ru": "Вспомним: he / she / it + глагол-s"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-3rd",
+            "question": "She ___ in a hospital.",
+            "options": [
+              "works",
+              "work",
+              "is work"
+            ],
+            "answer": "works",
+            "explain": {
+              "ua": "She → works.",
+              "ru": "She → works."
+            },
+            "id": "a1-u15-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-3rd",
+            "question": "My brother ___ books every day.",
+            "options": [
+              "reads",
+              "read",
+              "is read"
+            ],
+            "answer": "reads",
+            "explain": {
+              "ua": "My brother = he → reads.",
+              "ru": "My brother = he → reads."
+            },
+            "id": "a1-u15-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "watch → watches · go → goes · study → studies · play → plays",
+        "explain": {
+          "ua": "Ті самі правила, що й у множині: після s, sh, ch, x, o → -es (watches, goes). Приголосний + y → -ies (studies). Голосний + y → -s (plays).",
+          "ru": "Те же правила, что и во множественном: после s, sh, ch, x, o → -es (watches, goes). Согласный + y → -ies (studies). Гласный + y → -s (plays)."
+        },
+        "examples": [
+          {
+            "en": "She watches TV.",
+            "ua": "Вона дивиться телевізор.",
+            "ru": "Она смотрит телевизор."
+          },
+          {
+            "en": "He studies English.",
+            "ua": "Він вивчає англійську.",
+            "ru": "Он изучает английский."
+          },
+          {
+            "en": "My son plays football.",
+            "ua": "Мій син грає у футбол.",
+            "ru": "Мой сын играет в футбол."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-spelling",
+          "question": "She ___ TV in the evening.",
+          "options": [
+            "watches",
+            "watchs",
+            "watch"
+          ],
+          "answer": "watches",
+          "explain": {
+            "ua": "ch → -es.",
+            "ru": "ch → -es."
+          },
+          "id": "a1-u15-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-spelling",
+          "question": "He ___ English.",
+          "options": [
+            "studies",
+            "studys",
+            "study"
+          ],
+          "answer": "studies",
+          "explain": {
+            "ua": "Приголосний + y → -ies.",
+            "ru": "Согласный + y → -ies."
+          },
+          "id": "a1-u15-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-spelling",
+          "question": "My son ___ football.",
+          "options": [
+            "plays",
+            "plaies",
+            "play"
+          ],
+          "answer": "plays",
+          "explain": {
+            "ua": "Голосний a + y → -s.",
+            "ru": "Гласный a + y → -s."
+          },
+          "id": "a1-u15-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-spelling",
+          "question": "She ___ the dishes.",
+          "options": [
+            "washes",
+            "washs",
+            "wash"
+          ],
+          "answer": "washes",
+          "explain": {
+            "ua": "sh → -es.",
+            "ru": "sh → -es."
+          },
+          "id": "a1-u15-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-spelling",
+          "question": "He ___ his homework. (fix)",
+          "answer": "fixes",
+          "accept": [],
+          "explain": {
+            "ua": "x → -es.",
+            "ru": "x → -es."
+          },
+          "id": "a1-u15-l03-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-spelling",
+          "question": "She ___ Spanish. (study)",
+          "answer": "studies",
+          "accept": [],
+          "explain": {
+            "ua": "y → -ies.",
+            "ru": "y → -ies."
+          },
+          "id": "a1-u15-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-spelling",
+          "sentence": "He watchs films.",
+          "answer": "He watches films.",
+          "accept": [],
+          "explain": {
+            "ua": "Watch → watches.",
+            "ru": "Watch → watches."
+          },
+          "id": "a1-u15-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple-spelling",
+          "audio_text": "She watches TV.",
+          "options": [
+            "She watches TV.",
+            "She watch TV.",
+            "She washes TV."
+          ],
+          "answer": "She watches TV.",
+          "audio": "",
+          "explain": {
+            "ua": "-es звучить як «із»: watches — «вочіз».",
+            "ru": "-es звучит как «из»: watches — «вочиз»."
+          },
+          "id": "a1-u15-l03-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈstʌdiz/",
+          "options": [
+            "studies",
+            "students",
+            "stories"
+          ],
+          "answer": "studies",
+          "explain": {
+            "ua": "/z/ у кінці — так звучить -s.",
+            "ru": "/z/ в конце — так звучит -s."
+          },
+          "id": "a1-u15-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u15-l04",
+      "title": {
+        "en": "has, does, goes",
+        "ua": "has, does, goes",
+        "ru": "has, does, goes"
+      },
+      "recap": {
+        "from": "a1-u15-l03",
+        "note": {
+          "ua": "Згадаймо: watch → watches · go → goes · study → studies · play → plays",
+          "ru": "Вспомним: watch → watches · go → goes · study → studies · play → plays"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-spelling",
+            "question": "She ___ TV in the evening.",
+            "options": [
+              "watches",
+              "watchs",
+              "watch"
+            ],
+            "answer": "watches",
+            "explain": {
+              "ua": "ch → -es.",
+              "ru": "ch → -es."
+            },
+            "id": "a1-u15-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-spelling",
+            "question": "She ___ the dishes.",
+            "options": [
+              "washes",
+              "washs",
+              "wash"
+            ],
+            "answer": "washes",
+            "explain": {
+              "ua": "sh → -es.",
+              "ru": "sh → -es."
+            },
+            "id": "a1-u15-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "have → has · do → does · go → goes",
+        "explain": {
+          "ua": "Три часті дієслова змінюються особливо: he has (не haves), she does, it goes. Запам'ятай їх окремо.",
+          "ru": "Три частых глагола меняются особо: he has (не haves), she does, it goes. Запомни их отдельно."
+        },
+        "examples": [
+          {
+            "en": "She has a dog.",
+            "ua": "У неї є собака.",
+            "ru": "У неё есть собака."
+          },
+          {
+            "en": "He does yoga.",
+            "ua": "Він займається йогою.",
+            "ru": "Он занимается йогой."
+          },
+          {
+            "en": "My dad goes to work by car.",
+            "ua": "Тато їздить на роботу машиною.",
+            "ru": "Папа ездит на работу на машине."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-irregular",
+          "question": "She ___ two cats.",
+          "options": [
+            "has",
+            "haves",
+            "have"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "Have → has.",
+            "ru": "Have → has."
+          },
+          "id": "a1-u15-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-irregular",
+          "question": "He ___ to the gym.",
+          "options": [
+            "goes",
+            "gos",
+            "go"
+          ],
+          "answer": "goes",
+          "explain": {
+            "ua": "Go → goes.",
+            "ru": "Go → goes."
+          },
+          "id": "a1-u15-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-irregular",
+          "question": "My mum ___ yoga.",
+          "options": [
+            "does",
+            "dos",
+            "do"
+          ],
+          "answer": "does",
+          "explain": {
+            "ua": "Do → does.",
+            "ru": "Do → does."
+          },
+          "id": "a1-u15-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-irregular",
+          "question": "They ___ a big house.",
+          "options": [
+            "have",
+            "has",
+            "haves"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "They → have (без змін).",
+            "ru": "They → have (без изменений)."
+          },
+          "id": "a1-u15-l04-e04"
+        },
+        {
+          "type": "match",
+          "topic": "present-simple-irregular",
+          "pairs": [
+            {
+              "left": "have",
+              "right": "has"
+            },
+            {
+              "left": "do",
+              "right": "does"
+            },
+            {
+              "left": "go",
+              "right": "goes"
+            },
+            {
+              "left": "watch",
+              "right": "watches"
+            }
+          ],
+          "explain": {
+            "ua": "Форма для he / she / it.",
+            "ru": "Форма для he / she / it."
+          },
+          "id": "a1-u15-l04-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-irregular",
+          "question": "Anna ___ to school by bus. (go)",
+          "answer": "goes",
+          "accept": [],
+          "explain": {
+            "ua": "Go → goes.",
+            "ru": "Go → goes."
+          },
+          "id": "a1-u15-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-irregular",
+          "sentence": "He haves a car.",
+          "answer": "He has a car.",
+          "accept": [],
+          "explain": {
+            "ua": "Have → has.",
+            "ru": "Have → has."
+          },
+          "id": "a1-u15-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple-irregular",
+          "audio_text": "She does her homework.",
+          "options": [
+            "She does her homework.",
+            "She do her homework.",
+            "She goes her homework."
+          ],
+          "answer": "She does her homework.",
+          "audio": "",
+          "explain": {
+            "ua": "Does — «даз».",
+            "ru": "Does — «даз»."
+          },
+          "id": "a1-u15-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-irregular",
+          "prompt": {
+            "ua": "Він ходить у спортзал.",
+            "ru": "Он ходит в спортзал."
+          },
+          "answer": "He goes to the gym.",
+          "accept": [],
+          "explain": {
+            "ua": "Go → goes.",
+            "ru": "Go → goes."
+          },
+          "id": "a1-u15-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u15-l05",
+      "title": {
+        "en": "Practice: daily routine",
+        "ua": "Практика: розпорядок дня",
+        "ru": "Практика: распорядок дня"
+      },
+      "recap": {
+        "from": "a1-u15-l04",
+        "note": {
+          "ua": "Згадаймо: have → has · do → does · go → goes",
+          "ru": "Вспомним: have → has · do → does · go → goes"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-irregular",
+            "question": "She ___ two cats.",
+            "options": [
+              "has",
+              "haves",
+              "have"
+            ],
+            "answer": "has",
+            "explain": {
+              "ua": "Have → has.",
+              "ru": "Have → has."
+            },
+            "id": "a1-u15-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-irregular",
+            "question": "They ___ a big house.",
+            "options": [
+              "have",
+              "has",
+              "haves"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "They → have (без змін).",
+              "ru": "They → have (без изменений)."
+            },
+            "id": "a1-u15-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple",
+          "question": "My sister ___ in a café.",
+          "options": [
+            "works",
+            "work",
+            "is work"
+          ],
+          "answer": "works",
+          "explain": {
+            "ua": "Sister = she → works.",
+            "ru": "Sister = she → works."
+          },
+          "id": "a1-u15-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple",
+          "question": "We ___ dinner at 7.",
+          "options": [
+            "have",
+            "has",
+            "are have"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "We → have.",
+            "ru": "We → have."
+          },
+          "id": "a1-u15-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ira works in a school.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ira's husband goes to work by bus.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does Ira do in the evening?",
+              "options": [
+                "reads",
+                "plays football",
+                "watches TV"
+              ],
+              "answer": "reads"
+            }
+          ],
+          "text": "Ira is a nurse. She works in a hospital. She gets up at 6 and drinks a coffee. Her husband Taras is a builder. He goes to work by bus. In the evening they have dinner together. Taras watches TV and Ira reads a book.",
+          "explain": {
+            "ua": "Ira — hospital, husband — bus, evening — reads.",
+            "ru": "Ira — hospital, husband — bus, evening — reads."
+          },
+          "id": "a1-u15-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple",
+          "bank": [
+            "works",
+            "goes",
+            "watches",
+            "reads"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ira ___ in a hospital.",
+            "Taras ___ to work by bus.",
+            "Taras ___ TV.",
+            "Ira ___ a book."
+          ],
+          "answers": [
+            "works",
+            "goes",
+            "watches",
+            "reads"
+          ],
+          "explain": {
+            "ua": "He / she → -s, -es.",
+            "ru": "He / she → -s, -es."
+          },
+          "id": "a1-u15-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple",
+          "sentence": "He go to work every day.",
+          "answer": "He goes to work every day.",
+          "accept": [],
+          "explain": {
+            "ua": "He → goes.",
+            "ru": "He → goes."
+          },
+          "id": "a1-u15-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple",
+          "sentence": "My parents lives in Lviv.",
+          "answer": "My parents live in Lviv.",
+          "accept": [],
+          "explain": {
+            "ua": "Parents = they → live.",
+            "ru": "Parents = they → live."
+          },
+          "id": "a1-u15-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "every",
+            "day",
+            "English",
+            "She",
+            "studies"
+          ],
+          "answer": "She studies English every day",
+          "explain": {
+            "ua": "She → studies → English → every day.",
+            "ru": "She → studies → English → every day."
+          },
+          "id": "a1-u15-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple",
+          "audio_text": "He speaks three languages.",
+          "options": [
+            "He speaks three languages.",
+            "He speak three languages.",
+            "He speaks tree languages."
+          ],
+          "answer": "He speaks three languages.",
+          "audio": "",
+          "explain": {
+            "ua": "Speaks — з -s.",
+            "ru": "Speaks — с -s."
+          },
+          "id": "a1-u15-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple",
+          "prompt": {
+            "ua": "Моя мама працює в школі.",
+            "ru": "Моя мама работает в школе."
+          },
+          "answer": "My mum works in a school.",
+          "accept": [
+            "My mother works in a school.",
+            "My mum works at a school."
+          ],
+          "explain": {
+            "ua": "Mum → works.",
+            "ru": "Mum → works."
+          },
+          "id": "a1-u15-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple",
+          "prompt": {
+            "ua": "Ми живемо в Одесі.",
+            "ru": "Мы живём в Одессе."
+          },
+          "answer": "We live in Odesa.",
+          "accept": [],
+          "explain": {
+            "ua": "We → live.",
+            "ru": "We → live."
+          },
+          "id": "a1-u15-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "I ___ in an office.",
+      "options": [
+        "work",
+        "works",
+        "am work"
+      ],
+      "answer": "work",
+      "explain": {
+        "ua": "I → work.",
+        "ru": "I → work."
+      },
+      "id": "a1-u15-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "She ___ in Kyiv.",
+      "options": [
+        "lives",
+        "live",
+        "is live"
+      ],
+      "answer": "lives",
+      "explain": {
+        "ua": "She → lives.",
+        "ru": "She → lives."
+      },
+      "id": "a1-u15-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "He ___ English.",
+      "options": [
+        "studies",
+        "studys",
+        "study"
+      ],
+      "answer": "studies",
+      "explain": {
+        "ua": "y → -ies.",
+        "ru": "y → -ies."
+      },
+      "id": "a1-u15-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "My dad ___ to work by car.",
+      "options": [
+        "goes",
+        "go",
+        "gos"
+      ],
+      "answer": "goes",
+      "explain": {
+        "ua": "Go → goes.",
+        "ru": "Go → goes."
+      },
+      "id": "a1-u15-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "present-simple",
+      "question": "She ___ a cat. (have)",
+      "answer": "has",
+      "accept": [],
+      "explain": {
+        "ua": "Have → has.",
+        "ru": "Have → has."
+      },
+      "id": "a1-u15-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "present-simple",
+      "question": "They ___ tea. (drink)",
+      "answer": "drink",
+      "accept": [],
+      "explain": {
+        "ua": "They → drink.",
+        "ru": "They → drink."
+      },
+      "id": "a1-u15-cp06"
+    },
+    {
+      "type": "wordbank",
+      "topic": "present-simple",
+      "bank": [
+        "play",
+        "plays"
+      ],
+      "reuse": true,
+      "sentences": [
+        "My son ___ football.",
+        "We ___ chess.",
+        "It ___ music."
+      ],
+      "answers": [
+        "plays",
+        "play",
+        "plays"
+      ],
+      "explain": {
+        "ua": "He / it → plays, we → play.",
+        "ru": "He / it → plays, we → play."
+      },
+      "id": "a1-u15-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "present-simple",
+      "sentence": "I am live in Odesa.",
+      "answer": "I live in Odesa.",
+      "accept": [],
+      "explain": {
+        "ua": "Без am: I live.",
+        "ru": "Без am: I live."
+      },
+      "id": "a1-u15-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "present-simple",
+      "sentence": "She watch TV.",
+      "answer": "She watches TV.",
+      "accept": [],
+      "explain": {
+        "ua": "She → watches.",
+        "ru": "She → watches."
+      },
+      "id": "a1-u15-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "cat",
+        "My",
+        "likes",
+        "milk"
+      ],
+      "answer": "My cat likes milk",
+      "explain": {
+        "ua": "My cat → likes → milk.",
+        "ru": "My cat → likes → milk."
+      },
+      "id": "a1-u15-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "present-simple",
+      "prompt": {
+        "ua": "Вона розмовляє англійською.",
+        "ru": "Она говорит по-английски."
+      },
+      "answer": "She speaks English.",
+      "accept": [],
+      "explain": {
+        "ua": "She → speaks.",
+        "ru": "She → speaks."
+      },
+      "id": "a1-u15-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "present-simple",
+      "audio_text": "He does yoga every day.",
+      "options": [
+        "He does yoga every day.",
+        "He do yoga every day.",
+        "He goes yoga every day."
+      ],
+      "answer": "He does yoga every day.",
+      "audio": "",
+      "explain": {
+        "ua": "Does.",
+        "ru": "Does."
+      },
+      "id": "a1-u15-cp12"
+    }
+  ]
+}

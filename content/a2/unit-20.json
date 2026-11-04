@@ -1,0 +1,1502 @@
+{
+  "id": "a2-u20",
+  "level": "A2",
+  "order": 20,
+  "kind": "vocab",
+  "title": {
+    "en": "Let me introduce myself",
+    "ua": "Дозвольте представитися",
+    "ru": "Позвольте представиться"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "Let me introduce myself.",
+      "ipa": "/let miː ˌɪntrəˈdjuːs maɪˈself/",
+      "ua": "Дозвольте представитися.",
+      "ru": "Позвольте представиться.",
+      "example": "Hello everyone! Let me introduce myself.",
+      "audio": ""
+    },
+    {
+      "word": "I was born in…",
+      "ipa": "/aɪ wəz ˈbɔːn ɪn/",
+      "ua": "Я народився в…",
+      "ru": "Я родился в…",
+      "example": "I was born in Odesa.",
+      "audio": ""
+    },
+    {
+      "word": "I've lived here for…",
+      "ipa": "/aɪv ˈlɪvd hɪə fɔː/",
+      "ua": "Я живу тут уже…",
+      "ru": "Я живу здесь уже…",
+      "example": "I've lived here for ten years.",
+      "audio": ""
+    },
+    {
+      "word": "I work as…",
+      "ipa": "/aɪ ˈwɜːk æz/",
+      "ua": "Я працюю (ким)…",
+      "ru": "Я работаю (кем)…",
+      "example": "I work as a designer.",
+      "audio": ""
+    },
+    {
+      "word": "I work for…",
+      "ipa": "/aɪ ˈwɜːk fɔː/",
+      "ua": "Я працюю в (компанії)…",
+      "ru": "Я работаю в (компании)…",
+      "example": "I work for a big company.",
+      "audio": ""
+    },
+    {
+      "word": "I'm looking for a job.",
+      "ipa": "/aɪm ˈlʊkɪŋ fər ə ˈdʒɒb/",
+      "ua": "Я шукаю роботу.",
+      "ru": "Я ищу работу.",
+      "example": "At the moment I'm looking for a job.",
+      "audio": ""
+    },
+    {
+      "word": "be fond of",
+      "ipa": "/biː ˈfɒnd əv/",
+      "ua": "захоплюватися, любити",
+      "ru": "увлекаться, любить",
+      "example": "I'm fond of photography.",
+      "audio": ""
+    },
+    {
+      "word": "be keen on",
+      "ipa": "/biː ˈkiːn ɒn/",
+      "ua": "дуже цікавитися",
+      "ru": "очень интересоваться",
+      "example": "She's keen on tennis.",
+      "audio": ""
+    },
+    {
+      "word": "be interested in",
+      "ipa": "/biː ˈɪntrəstɪd ɪn/",
+      "ua": "цікавитися",
+      "ru": "интересоваться",
+      "example": "I'm interested in history.",
+      "audio": ""
+    },
+    {
+      "word": "sociable",
+      "ipa": "/ˈsəʊʃəbl/",
+      "ua": "товариський",
+      "ru": "общительный",
+      "example": "He's very sociable.",
+      "audio": ""
+    },
+    {
+      "word": "easy-going",
+      "ipa": "/ˌiːzi ˈɡəʊɪŋ/",
+      "ua": "легкий у спілкуванні",
+      "ru": "лёгкий в общении",
+      "example": "My boss is easy-going.",
+      "audio": ""
+    },
+    {
+      "word": "honest",
+      "ipa": "/ˈɒnɪst/",
+      "ua": "чесний",
+      "ru": "честный",
+      "example": "She's honest with me.",
+      "audio": ""
+    },
+    {
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "ua": "надійний",
+      "ru": "надёжный",
+      "example": "a reliable friend",
+      "audio": ""
+    },
+    {
+      "word": "self-confident",
+      "ipa": "/ˌself ˈkɒnfɪdənt/",
+      "ua": "впевнений у собі",
+      "ru": "уверенный в себе",
+      "example": "She's very self-confident.",
+      "audio": ""
+    },
+    {
+      "word": "absent-minded",
+      "ipa": "/ˌæbsənt ˈmaɪndɪd/",
+      "ua": "розсіяний",
+      "ru": "рассеянный",
+      "example": "I'm a bit absent-minded.",
+      "audio": ""
+    },
+    {
+      "word": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "ua": "творчий",
+      "ru": "творческий",
+      "example": "a creative person",
+      "audio": ""
+    },
+    {
+      "word": "brave",
+      "ipa": "/breɪv/",
+      "ua": "сміливий",
+      "ru": "смелый",
+      "example": "a brave firefighter",
+      "audio": ""
+    },
+    {
+      "word": "loyal",
+      "ipa": "/ˈlɔɪəl/",
+      "ua": "вірний, відданий",
+      "ru": "верный, преданный",
+      "example": "Dogs are loyal.",
+      "audio": ""
+    },
+    {
+      "word": "proud of",
+      "ipa": "/ˈpraʊd əv/",
+      "ua": "гордий кимось",
+      "ru": "гордый кем-то",
+      "example": "I'm proud of you.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u20-l01",
+      "title": {
+        "en": "About me: facts",
+        "ua": "Про себе: факти",
+        "ru": "О себе: факты"
+      },
+      "recap": {
+        "from": "a2-u19-l02",
+        "note": {
+          "ua": "Згадаймо: want · need · would like · decide · hope · plan · try · learn + to + дієслово",
+          "ru": "Вспомним: want · need · would like · decide · hope · plan · try · learn + to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "verb-to",
+            "question": "I want ___ a new phone.",
+            "options": [
+              "to buy",
+              "buying",
+              "buy"
+            ],
+            "answer": "to buy",
+            "explain": {
+              "ua": "Want + to.",
+              "ru": "Want + to."
+            },
+            "id": "a2-u20-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "verb-to",
+            "question": "I'm learning ___ .",
+            "options": [
+              "to drive",
+              "driving",
+              "drive"
+            ],
+            "answer": "to drive",
+            "explain": {
+              "ua": "Learn + to.",
+              "ru": "Learn + to."
+            },
+            "id": "a2-u20-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "I was born in…",
+              "right": {
+                "ua": "Я народився в…",
+                "ru": "Я родился в…"
+              }
+            },
+            {
+              "left": "I work as…",
+              "right": {
+                "ua": "Я працюю (ким)…",
+                "ru": "Я работаю (кем)…"
+              }
+            },
+            {
+              "left": "I work for…",
+              "right": {
+                "ua": "Я працюю в компанії…",
+                "ru": "Я работаю в компании…"
+              }
+            },
+            {
+              "left": "I'm looking for a job.",
+              "right": {
+                "ua": "Я шукаю роботу.",
+                "ru": "Я ищу работу."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори фрази.",
+            "ru": "Повтори фразы."
+          },
+          "id": "a2-u20-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "I ___ born in Kyiv.",
+          "options": [
+            "was",
+            "am",
+            "were"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Народився — was born.",
+            "ru": "Родился — was born."
+          },
+          "id": "a2-u20-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work ___ a nurse.",
+          "options": [
+            "as",
+            "for",
+            "like"
+          ],
+          "answer": "as",
+          "explain": {
+            "ua": "Ким — as.",
+            "ru": "Кем — as."
+          },
+          "id": "a2-u20-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work ___ Google.",
+          "options": [
+            "for",
+            "as",
+            "like"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "Компанія — for.",
+            "ru": "Компания — for."
+          },
+          "id": "a2-u20-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "I've lived in Odesa ___ five years.",
+          "options": [
+            "for",
+            "since",
+            "during"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "For + період.",
+            "ru": "For + период."
+          },
+          "id": "a2-u20-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "At the moment I'm ___ for a job.",
+          "options": [
+            "looking",
+            "searching",
+            "finding"
+          ],
+          "answer": "looking",
+          "explain": {
+            "ua": "Look for a job — шукати роботу.",
+            "ru": "Look for a job — искать работу."
+          },
+          "id": "a2-u20-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "I born in Lviv.",
+          "answer": "I was born in Lviv.",
+          "accept": [],
+          "explain": {
+            "ua": "Was born.",
+            "ru": "Was born."
+          },
+          "id": "a2-u20-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I work like a teacher.",
+          "answer": "I work as a teacher.",
+          "accept": [],
+          "explain": {
+            "ua": "Work as.",
+            "ru": "Work as."
+          },
+          "id": "a2-u20-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Дозвольте представитися.",
+            "ru": "Позвольте представиться."
+          },
+          "answer": "Let me introduce myself.",
+          "accept": [],
+          "explain": {
+            "ua": "Let me introduce myself.",
+            "ru": "Let me introduce myself."
+          },
+          "id": "a2-u20-l01-e09"
+        }
+      ],
+      "words": [
+        "Let me introduce myself.",
+        "I was born in…",
+        "I've lived here for…",
+        "I work as…",
+        "I work for…",
+        "I'm looking for a job."
+      ]
+    },
+    {
+      "id": "a2-u20-l02",
+      "title": {
+        "en": "Hobbies and interests",
+        "ua": "Захоплення й інтереси",
+        "ru": "Увлечения и интересы"
+      },
+      "recap": {
+        "from": "a2-u20-l01",
+        "note": {
+          "ua": "Згадаймо: Про себе: факти",
+          "ru": "Вспомним: О себе: факты"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "I ___ born in Kyiv.",
+            "options": [
+              "was",
+              "am",
+              "were"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "Народився — was born.",
+              "ru": "Родился — was born."
+            },
+            "id": "a2-u20-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "At the moment I'm ___ for a job.",
+            "options": [
+              "looking",
+              "searching",
+              "finding"
+            ],
+            "answer": "looking",
+            "explain": {
+              "ua": "Look for a job — шукати роботу.",
+              "ru": "Look for a job — искать работу."
+            },
+            "id": "a2-u20-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "be fond of",
+              "right": {
+                "ua": "захоплюватися",
+                "ru": "увлекаться"
+              }
+            },
+            {
+              "left": "be keen on",
+              "right": {
+                "ua": "дуже цікавитися",
+                "ru": "очень интересоваться"
+              }
+            },
+            {
+              "left": "be interested in",
+              "right": {
+                "ua": "цікавитися",
+                "ru": "интересоваться"
+              }
+            },
+            {
+              "left": "proud of",
+              "right": {
+                "ua": "гордий кимось",
+                "ru": "гордый кем-то"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u20-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm interested ___ history.",
+          "options": [
+            "in",
+            "on",
+            "of"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Interested IN.",
+            "ru": "Interested IN."
+          },
+          "id": "a2-u20-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She's keen ___ tennis.",
+          "options": [
+            "on",
+            "in",
+            "of"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "Keen ON.",
+            "ru": "Keen ON."
+          },
+          "id": "a2-u20-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He's fond ___ cooking.",
+          "options": [
+            "of",
+            "on",
+            "in"
+          ],
+          "answer": "of",
+          "explain": {
+            "ua": "Fond OF.",
+            "ru": "Fond OF."
+          },
+          "id": "a2-u20-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing",
+          "question": "I'm fond of ___ photos.",
+          "options": [
+            "taking",
+            "take",
+            "to take"
+          ],
+          "answer": "taking",
+          "explain": {
+            "ua": "Після прийменника — -ing.",
+            "ru": "После предлога — -ing."
+          },
+          "id": "a2-u20-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "of",
+            "on",
+            "in"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I'm fond ___ music.",
+            "He's keen ___ football.",
+            "We're interested ___ art.",
+            "I'm proud ___ my son."
+          ],
+          "answers": [
+            "of",
+            "on",
+            "in",
+            "of"
+          ],
+          "explain": {
+            "ua": "fond of, keen on, interested in, proud of.",
+            "ru": "fond of, keen on, interested in, proud of."
+          },
+          "id": "a2-u20-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm interested on IT.",
+          "answer": "I'm interested in IT.",
+          "accept": [
+            "I am interested in IT."
+          ],
+          "explain": {
+            "ua": "Interested IN.",
+            "ru": "Interested IN."
+          },
+          "id": "a2-u20-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-ing",
+          "sentence": "She's keen on swim.",
+          "answer": "She's keen on swimming.",
+          "accept": [
+            "She is keen on swimming."
+          ],
+          "explain": {
+            "ua": "Після on — -ing.",
+            "ru": "После on — -ing."
+          },
+          "id": "a2-u20-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я захоплююся фотографією.",
+            "ru": "Я увлекаюсь фотографией."
+          },
+          "answer": "I'm fond of photography.",
+          "accept": [
+            "I am fond of photography.",
+            "I'm keen on photography.",
+            "I'm interested in photography."
+          ],
+          "explain": {
+            "ua": "Fond of.",
+            "ru": "Fond of."
+          },
+          "id": "a2-u20-l02-e09"
+        }
+      ],
+      "words": [
+        "be fond of",
+        "be keen on",
+        "be interested in",
+        "proud of"
+      ]
+    },
+    {
+      "id": "a2-u20-l03",
+      "title": {
+        "en": "Character",
+        "ua": "Характер",
+        "ru": "Характер"
+      },
+      "recap": {
+        "from": "a2-u20-l02",
+        "note": {
+          "ua": "Згадаймо: Захоплення й інтереси",
+          "ru": "Вспомним: Увлечения и интересы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm interested ___ history.",
+            "options": [
+              "in",
+              "on",
+              "of"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Interested IN.",
+              "ru": "Interested IN."
+            },
+            "id": "a2-u20-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "verb-ing",
+            "question": "I'm fond of ___ photos.",
+            "options": [
+              "taking",
+              "take",
+              "to take"
+            ],
+            "answer": "taking",
+            "explain": {
+              "ua": "Після прийменника — -ing.",
+              "ru": "После предлога — -ing."
+            },
+            "id": "a2-u20-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "sociable",
+              "right": {
+                "ua": "товариський",
+                "ru": "общительный"
+              }
+            },
+            {
+              "left": "honest",
+              "right": {
+                "ua": "чесний",
+                "ru": "честный"
+              }
+            },
+            {
+              "left": "reliable",
+              "right": {
+                "ua": "надійний",
+                "ru": "надёжный"
+              }
+            },
+            {
+              "left": "absent-minded",
+              "right": {
+                "ua": "розсіяний",
+                "ru": "рассеянный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u20-l03-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "He loves meeting people and talking to them.",
+          "answer": "sociable",
+          "accept": [
+            "friendly",
+            "outgoing"
+          ],
+          "explain": {
+            "ua": "Sociable — товариський.",
+            "ru": "Sociable — общительный."
+          },
+          "id": "a2-u20-l03-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You can always trust her. She does what she promises.",
+          "answer": "reliable",
+          "accept": [],
+          "explain": {
+            "ua": "Reliable — надійний.",
+            "ru": "Reliable — надёжный."
+          },
+          "id": "a2-u20-l03-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "He always forgets things and loses his keys.",
+          "answer": "absent-minded",
+          "accept": [
+            "forgetful"
+          ],
+          "explain": {
+            "ua": "Absent-minded — розсіяний.",
+            "ru": "Absent-minded — рассеянный."
+          },
+          "id": "a2-u20-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A firefighter must be ___.",
+          "options": [
+            "brave",
+            "lazy",
+            "shy"
+          ],
+          "answer": "brave",
+          "explain": {
+            "ua": "Brave — сміливий.",
+            "ru": "Brave — смелый."
+          },
+          "id": "a2-u20-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Dogs are very ___ to their owners.",
+          "options": [
+            "loyal",
+            "creative",
+            "absent-minded"
+          ],
+          "answer": "loyal",
+          "explain": {
+            "ua": "Loyal — вірний.",
+            "ru": "Loyal — верный."
+          },
+          "id": "a2-u20-l03-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He's ___ — he never gets angry and nothing is a problem.",
+          "options": [
+            "easy-going",
+            "self-confident",
+            "honest"
+          ],
+          "answer": "easy-going",
+          "explain": {
+            "ua": "Easy-going — легкий, спокійний у спілкуванні.",
+            "ru": "Easy-going — лёгкий, спокойный в общении."
+          },
+          "id": "a2-u20-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She is very self-confidence.",
+          "answer": "She is very self-confident.",
+          "accept": [
+            "She's very self-confident."
+          ],
+          "explain": {
+            "ua": "Прикметник — self-confident.",
+            "ru": "Прилагательное — self-confident."
+          },
+          "id": "a2-u20-l03-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/rɪˈlaɪəbl/",
+          "options": [
+            "reliable",
+            "really",
+            "relax"
+          ],
+          "answer": "reliable",
+          "explain": {
+            "ua": "Наголос: re-LI-able.",
+            "ru": "Ударение: re-LI-able."
+          },
+          "id": "a2-u20-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій чоловік надійний і чесний.",
+            "ru": "Мой муж надёжный и честный."
+          },
+          "answer": "My husband is reliable and honest.",
+          "accept": [
+            "My husband is honest and reliable."
+          ],
+          "explain": {
+            "ua": "Reliable and honest.",
+            "ru": "Reliable and honest."
+          },
+          "id": "a2-u20-l03-e10"
+        }
+      ],
+      "words": [
+        "sociable",
+        "easy-going",
+        "honest",
+        "reliable",
+        "self-confident",
+        "absent-minded",
+        "creative",
+        "brave",
+        "loyal"
+      ]
+    },
+    {
+      "id": "a2-u20-l04",
+      "title": {
+        "en": "In context: introducing yourself",
+        "ua": "У контексті: представляємося",
+        "ru": "В контексте: представляемся"
+      },
+      "recap": {
+        "from": "a2-u20-l03",
+        "note": {
+          "ua": "Згадаймо: Характер",
+          "ru": "Вспомним: Характер"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "He loves meeting people and talking to them.",
+            "answer": "sociable",
+            "accept": [
+              "friendly",
+              "outgoing"
+            ],
+            "explain": {
+              "ua": "Sociable — товариський.",
+              "ru": "Sociable — общительный."
+            },
+            "id": "a2-u20-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Dogs are very ___ to their owners.",
+            "options": [
+              "loyal",
+              "creative",
+              "absent-minded"
+            ],
+            "answer": "loyal",
+            "explain": {
+              "ua": "Loyal — вірний.",
+              "ru": "Loyal — верный."
+            },
+            "id": "a2-u20-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Where was Alex born?",
+              "options": [
+                "in Kharkiv",
+                "in Barcelona",
+                "in Paris"
+              ],
+              "answer": "in Kharkiv"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Alex works as a waiter in his free time.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Michelle is a student.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What is Alex fond of?",
+              "options": [
+                "playing the guitar",
+                "cooking",
+                "football"
+              ],
+              "answer": "playing the guitar"
+            }
+          ],
+          "text": "Hello everyone! Let me introduce myself. My name is Alex. I was born in Kharkiv, but I've lived in Barcelona for three years. I'm a student, and in my free time I work as a waiter in a café near my college. I'm fond of playing the guitar. My mum says I'm funny and creative, but a bit absent-minded! My girlfriend's name is Michelle. She's 22 and she's from Paris. She isn't studying at the moment — she's looking for a job. She's honest, reliable and very sociable.",
+          "explain": {
+            "ua": "Born in Kharkiv, lives in Barcelona, student + waiter, guitar; Michelle — from Paris, looking for a job.",
+            "ru": "Born in Kharkiv, lives in Barcelona, student + waiter, guitar; Michelle — from Paris, looking for a job."
+          },
+          "id": "a2-u20-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "was born",
+            "have lived",
+            "as",
+            "fond of",
+            "looking for"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Alex ___ in Kharkiv.",
+            "He ___ in Barcelona for three years.",
+            "He works ___ a waiter.",
+            "He's ___ playing the guitar.",
+            "Michelle is ___ a job."
+          ],
+          "answers": [
+            "was born",
+            "have lived",
+            "as",
+            "fond of",
+            "looking for"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u20-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "How does Alex's mum describe him?",
+          "options": [
+            "funny, creative, absent-minded",
+            "lazy and shy",
+            "brave and loyal"
+          ],
+          "answer": "funny, creative, absent-minded",
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u20-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "How is Michelle?",
+          "options": [
+            "honest, reliable, sociable",
+            "lazy and dreamy",
+            "shy and quiet"
+          ],
+          "answer": "honest, reliable, sociable",
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u20-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My mum always tells about me that I'm funny.",
+          "answer": "My mum always says that I'm funny.",
+          "accept": [
+            "My mum always says I'm funny."
+          ],
+          "explain": {
+            "ua": "«Каже, що» — says that.",
+            "ru": "«Говорит, что» — says that."
+          },
+          "id": "a2-u20-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "In my free time I work as a waiter nearly my college.",
+          "answer": "In my free time I work as a waiter near my college.",
+          "accept": [],
+          "explain": {
+            "ua": "Біля — near; nearly = майже.",
+            "ru": "Рядом — near; nearly = почти."
+          },
+          "id": "a2-u20-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Let me introduce myself.",
+          "options": [
+            "Let me introduce myself.",
+            "Let me produce myself.",
+            "Let me introduce my shelf."
+          ],
+          "answer": "Let me introduce myself.",
+          "audio": "",
+          "explain": {
+            "ua": "Introduce myself.",
+            "ru": "Introduce myself."
+          },
+          "id": "a2-u20-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect",
+          "prompt": {
+            "ua": "Я живу в Одесі вже десять років.",
+            "ru": "Я живу в Одессе уже десять лет."
+          },
+          "answer": "I've lived in Odesa for ten years.",
+          "accept": [
+            "I have lived in Odesa for ten years.",
+            "I've been living in Odesa for ten years."
+          ],
+          "explain": {
+            "ua": "Have lived + for.",
+            "ru": "Have lived + for."
+          },
+          "id": "a2-u20-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u20-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u20-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: представляємося",
+          "ru": "Вспомним: В контексте: представляемся"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "How does Alex's mum describe him?",
+            "options": [
+              "funny, creative, absent-minded",
+              "lazy and shy",
+              "brave and loyal"
+            ],
+            "answer": "funny, creative, absent-minded",
+            "explain": {
+              "ua": "Перечитай текст.",
+              "ru": "Перечитай текст."
+            },
+            "id": "a2-u20-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "My mum always tells about me that I'm funny.",
+            "answer": "My mum always says that I'm funny.",
+            "accept": [
+              "My mum always says I'm funny."
+            ],
+            "explain": {
+              "ua": "«Каже, що» — says that.",
+              "ru": "«Говорит, что» — says that."
+            },
+            "id": "a2-u20-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "brave",
+              "right": {
+                "ua": "сміливий",
+                "ru": "смелый"
+              }
+            },
+            {
+              "left": "creative",
+              "right": {
+                "ua": "творчий",
+                "ru": "творческий"
+              }
+            },
+            {
+              "left": "loyal",
+              "right": {
+                "ua": "вірний",
+                "ru": "верный"
+              }
+            },
+            {
+              "left": "easy-going",
+              "right": {
+                "ua": "легкий у спілкуванні",
+                "ru": "лёгкий в общении"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u20-l05-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "in",
+            "as",
+            "for",
+            "of"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I was born ___ 1995.",
+            "I work ___ a designer.",
+            "I work ___ a small company.",
+            "I'm fond ___ dancing."
+          ],
+          "answers": [
+            "in",
+            "as",
+            "for",
+            "of"
+          ],
+          "explain": {
+            "ua": "Прийменники.",
+            "ru": "Предлоги."
+          },
+          "id": "a2-u20-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which word is about character?",
+          "options": [
+            "reliable",
+            "born",
+            "job"
+          ],
+          "answer": "reliable",
+          "explain": {
+            "ua": "Reliable — риса характеру.",
+            "ru": "Reliable — черта характера."
+          },
+          "id": "a2-u20-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Not afraid of danger.",
+          "answer": "brave",
+          "accept": [
+            "courageous"
+          ],
+          "explain": {
+            "ua": "Brave.",
+            "ru": "Brave."
+          },
+          "id": "a2-u20-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "She tells the truth.",
+          "answer": "honest",
+          "accept": [],
+          "explain": {
+            "ua": "Honest.",
+            "ru": "Honest."
+          },
+          "id": "a2-u20-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "artist",
+          "answer": "creative",
+          "accept": [
+            "painting"
+          ],
+          "explain": {
+            "ua": "Художник → творчий.",
+            "ru": "Художник → творческий."
+          },
+          "id": "a2-u20-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm proud with my daughter.",
+          "answer": "I'm proud of my daughter.",
+          "accept": [
+            "I am proud of my daughter."
+          ],
+          "explain": {
+            "ua": "Proud OF.",
+            "ru": "Proud OF."
+          },
+          "id": "a2-u20-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She's very self-confident.",
+          "options": [
+            "She's very self-confident.",
+            "She's very confident.",
+            "She's self-conscious."
+          ],
+          "answer": "She's very self-confident.",
+          "audio": "",
+          "explain": {
+            "ua": "Self-confident.",
+            "ru": "Self-confident."
+          },
+          "id": "a2-u20-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я цікавлюся мистецтвом.",
+            "ru": "Я интересуюсь искусством."
+          },
+          "answer": "I'm interested in art.",
+          "accept": [
+            "I am interested in art."
+          ],
+          "explain": {
+            "ua": "Interested in.",
+            "ru": "Interested in."
+          },
+          "id": "a2-u20-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I'm interested ___ music.",
+      "options": [
+        "in",
+        "on",
+        "of"
+      ],
+      "answer": "in",
+      "explain": {
+        "ua": "In.",
+        "ru": "In."
+      },
+      "id": "a2-u20-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "He's keen ___ football.",
+      "options": [
+        "on",
+        "in",
+        "of"
+      ],
+      "answer": "on",
+      "explain": {
+        "ua": "On.",
+        "ru": "On."
+      },
+      "id": "a2-u20-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I work ___ a doctor.",
+      "options": [
+        "as",
+        "for",
+        "like"
+      ],
+      "answer": "as",
+      "explain": {
+        "ua": "As.",
+        "ru": "As."
+      },
+      "id": "a2-u20-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You can trust him. He never lets you down.",
+      "answer": "reliable",
+      "accept": [
+        "loyal"
+      ],
+      "explain": {
+        "ua": "Reliable.",
+        "ru": "Reliable."
+      },
+      "id": "a2-u20-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "He often forgets things.",
+      "answer": "absent-minded",
+      "accept": [
+        "forgetful"
+      ],
+      "explain": {
+        "ua": "Absent-minded.",
+        "ru": "Absent-minded."
+      },
+      "id": "a2-u20-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I was ___ in Lviv.",
+      "answer": "born",
+      "accept": [],
+      "explain": {
+        "ua": "Was born.",
+        "ru": "Was born."
+      },
+      "id": "a2-u20-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "sociable",
+          "right": {
+            "ua": "товариський",
+            "ru": "общительный"
+          }
+        },
+        {
+          "left": "honest",
+          "right": {
+            "ua": "чесний",
+            "ru": "честный"
+          }
+        },
+        {
+          "left": "proud of",
+          "right": {
+            "ua": "гордий кимось",
+            "ru": "гордый кем-то"
+          }
+        },
+        {
+          "left": "fond of",
+          "right": {
+            "ua": "захоплюватися",
+            "ru": "увлекаться"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u20-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I'm fond of cook.",
+      "answer": "I'm fond of cooking.",
+      "accept": [],
+      "explain": {
+        "ua": "Of + -ing.",
+        "ru": "Of + -ing."
+      },
+      "id": "a2-u20-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I work like a waiter.",
+      "answer": "I work as a waiter.",
+      "accept": [],
+      "explain": {
+        "ua": "Ким працюю — as.",
+        "ru": "Кем работаю — as."
+      },
+      "id": "a2-u20-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "myself",
+        "Let",
+        "introduce",
+        "me"
+      ],
+      "answer": "Let me introduce myself",
+      "explain": {
+        "ua": "Let me → introduce myself.",
+        "ru": "Let me → introduce myself."
+      },
+      "id": "a2-u20-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я шукаю роботу.",
+        "ru": "Я ищу работу."
+      },
+      "answer": "I'm looking for a job.",
+      "accept": [
+        "I am looking for a job.",
+        "I'm looking for work."
+      ],
+      "explain": {
+        "ua": "Look for.",
+        "ru": "Look for."
+      },
+      "id": "a2-u20-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I'm proud of you.",
+      "options": [
+        "I'm proud of you.",
+        "I'm proud for you.",
+        "I'm loud of you."
+      ],
+      "answer": "I'm proud of you.",
+      "audio": "",
+      "explain": {
+        "ua": "Proud of.",
+        "ru": "Proud of."
+      },
+      "id": "a2-u20-cp12"
+    }
+  ]
+}

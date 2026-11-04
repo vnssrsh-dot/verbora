@@ -1,0 +1,1034 @@
+{
+  "id": "b1-u10",
+  "level": "B1",
+  "order": 10,
+  "kind": "grammar",
+  "title": {
+    "en": "Modals: possibility and certainty",
+    "ua": "Модальні: ймовірність",
+    "ru": "Модальные: вероятность"
+  },
+  "rule": {
+    "formula": {
+      "ua": "must — точно так · may / might / could — можливо · can't — точно ні",
+      "ru": "must — точно так · may / might / could — возможно · can't — точно нет"
+    },
+    "explain": {
+      "ua": "Робимо висновки й здогадки про теперішнє: He must be tired (точно — він працював 12 годин). She might be at home (можливо). It can't be true (не може бути!).",
+      "ru": "Делаем выводы и догадки о настоящем: He must be tired (точно — он работал 12 часов). She might be at home (возможно). It can't be true (не может быть!)."
+    },
+    "examples": [
+      {
+        "en": "You must be hungry.",
+        "ua": "Ти, мабуть, голодний.",
+        "ru": "Ты, наверное, голоден."
+      },
+      {
+        "en": "He may be late.",
+        "ua": "Він, можливо, запізниться.",
+        "ru": "Он, возможно, опоздает."
+      },
+      {
+        "en": "That can't be Anna. She's in Paris.",
+        "ua": "Це не може бути Анна. Вона в Парижі.",
+        "ru": "Это не может быть Анна. Она в Париже."
+      }
+    ],
+    "compare": {
+      "ua": "Тут must — не «мусить», а «напевно, точно». Протилежність must у здогадках — can't, а не mustn't!",
+      "ru": "Здесь must — не «должен», а «наверняка, точно». Противоположность must в догадках — can't, а не mustn't!"
+    }
+  },
+  "vocab": [
+    {
+      "word": "must be",
+      "ipa": "/mʌst biː/",
+      "ua": "напевно, точно (висновок)",
+      "ru": "наверняка, точно (вывод)",
+      "example": "You must be tired.",
+      "audio": ""
+    },
+    {
+      "word": "might",
+      "ipa": "/maɪt/",
+      "ua": "можливо (менш імовірно)",
+      "ru": "возможно (менее вероятно)",
+      "example": "It might rain.",
+      "audio": ""
+    },
+    {
+      "word": "may",
+      "ipa": "/meɪ/",
+      "ua": "можливо",
+      "ru": "возможно",
+      "example": "She may come later.",
+      "audio": ""
+    },
+    {
+      "word": "could",
+      "ipa": "/kʊd/",
+      "ua": "можливо, може бути",
+      "ru": "возможно, может быть",
+      "example": "It could be true.",
+      "audio": ""
+    },
+    {
+      "word": "can't be",
+      "ipa": "/kɑːnt biː/",
+      "ua": "не може бути",
+      "ru": "не может быть",
+      "example": "It can't be true!",
+      "audio": ""
+    },
+    {
+      "word": "probably",
+      "ipa": "/ˈprɒbəbli/",
+      "ua": "напевно",
+      "ru": "вероятно",
+      "example": "He's probably asleep.",
+      "audio": ""
+    },
+    {
+      "word": "definitely",
+      "ipa": "/ˈdefɪnətli/",
+      "ua": "безперечно",
+      "ru": "определённо",
+      "example": "It's definitely her.",
+      "audio": ""
+    },
+    {
+      "word": "perhaps",
+      "ipa": "/pəˈhæps/",
+      "ua": "можливо",
+      "ru": "может быть",
+      "example": "Perhaps he's ill.",
+      "audio": ""
+    },
+    {
+      "word": "joke",
+      "ipa": "/dʒəʊk/",
+      "ua": "жартувати; жарт",
+      "ru": "шутить; шутка",
+      "example": "You must be joking!",
+      "audio": ""
+    },
+    {
+      "word": "guess",
+      "ipa": "/ɡes/",
+      "ua": "здогадуватися",
+      "ru": "догадываться",
+      "example": "Guess who called!",
+      "audio": ""
+    },
+    {
+      "word": "asleep",
+      "ipa": "/əˈsliːp/",
+      "ua": "сплячий",
+      "ru": "спящий",
+      "example": "The baby must be asleep.",
+      "audio": ""
+    },
+    {
+      "word": "worried",
+      "ipa": "/ˈwʌrid/",
+      "ua": "стривожений",
+      "ru": "обеспокоенный",
+      "example": "She might be worried.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u10-l01",
+      "title": {
+        "en": "may, might, could",
+        "ua": "may, might, could",
+        "ru": "may, might, could"
+      },
+      "recap": {
+        "from": "b1-u09-l03",
+        "note": {
+          "ua": "Згадаймо: Проблеми в квартирі",
+          "ru": "Вспомним: Проблемы в квартире"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Water is coming through the ceiling! The roof is ___ .",
+            "options": [
+              "leaking",
+              "broken down",
+              "heating"
+            ],
+            "answer": "leaking",
+            "explain": {
+              "ua": "Leak.",
+              "ru": "Leak."
+            },
+            "id": "b1-u10-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The washing machine is ___ . Can you fix it?",
+            "options": [
+              "broken",
+              "noisy",
+              "furnished"
+            ],
+            "answer": "broken",
+            "explain": {
+              "ua": "Broken.",
+              "ru": "Broken."
+            },
+            "id": "b1-u10-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "may / might / could + дієслово — можливо (≈ 50%)",
+          "ru": "may / might / could + глагол — возможно (≈ 50%)"
+        },
+        "explain": {
+          "ua": "Не впевнені: He may be at work. It might rain. She could be right. Заперечення: may not / might not (не can't!).",
+          "ru": "Не уверены: He may be at work. It might rain. She could be right. Отрицание: may not / might not (не can't!)."
+        },
+        "examples": [
+          {
+            "en": "Take an umbrella. It might rain.",
+            "ua": "Візьми парасольку. Можливо, піде дощ.",
+            "ru": "Возьми зонт. Может пойти дождь."
+          },
+          {
+            "en": "She may not come. She's busy.",
+            "ua": "Вона, можливо, не прийде. Вона зайнята.",
+            "ru": "Она, возможно, не придёт. Она занята."
+          },
+          {
+            "en": "Where's Tom? — He could be in the garden.",
+            "ua": "Де Том? — Може, в саду.",
+            "ru": "Где Том? — Может, в саду."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-possibility",
+          "question": "I'm not sure, but she ___ be at home.",
+          "options": [
+            "might",
+            "must",
+            "can't"
+          ],
+          "answer": "might",
+          "explain": {
+            "ua": "Не впевнені → might.",
+            "ru": "Не уверены → might."
+          },
+          "id": "b1-u10-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-possibility",
+          "question": "Take a coat. It ___ get cold later.",
+          "options": [
+            "may",
+            "must",
+            "can't"
+          ],
+          "answer": "may",
+          "explain": {
+            "ua": "Можливо → may.",
+            "ru": "Возможно → may."
+          },
+          "id": "b1-u10-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-possibility",
+          "question": "He ___ not like the present. Let's buy something else.",
+          "options": [
+            "might",
+            "can",
+            "must"
+          ],
+          "answer": "might",
+          "explain": {
+            "ua": "Might not.",
+            "ru": "Might not."
+          },
+          "id": "b1-u10-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-possibility",
+          "question": "Where's my phone? — It ___ be in your bag.",
+          "options": [
+            "could",
+            "can't",
+            "must to"
+          ],
+          "answer": "could",
+          "explain": {
+            "ua": "Можливо → could.",
+            "ru": "Возможно → could."
+          },
+          "id": "b1-u10-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-possibility",
+          "question": "I might ___ to the party.",
+          "options": [
+            "go",
+            "to go",
+            "going"
+          ],
+          "answer": "go",
+          "explain": {
+            "ua": "Might + базове.",
+            "ru": "Might + базовое."
+          },
+          "id": "b1-u10-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-possibility",
+          "sentence": "It might to rain.",
+          "answer": "It might rain.",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "b1-u10-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-possibility",
+          "sentence": "He mights be late.",
+          "answer": "He might be late.",
+          "accept": [],
+          "explain": {
+            "ua": "Без -s.",
+            "ru": "Без -s."
+          },
+          "id": "b1-u10-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "modals-possibility",
+          "audio_text": "She may not come.",
+          "options": [
+            "She may not come.",
+            "She must not come.",
+            "She may come."
+          ],
+          "answer": "She may not come.",
+          "audio": "",
+          "explain": {
+            "ua": "May not — можливо, не…",
+            "ru": "May not — возможно, не…"
+          },
+          "id": "b1-u10-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-possibility",
+          "prompt": {
+            "ua": "Можливо, він правий.",
+            "ru": "Возможно, он прав."
+          },
+          "answer": "He might be right.",
+          "accept": [
+            "He may be right.",
+            "He could be right.",
+            "Perhaps he's right.",
+            "Maybe he's right."
+          ],
+          "explain": {
+            "ua": "Might / may / could.",
+            "ru": "Might / may / could."
+          },
+          "id": "b1-u10-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u10-l02",
+      "title": {
+        "en": "must and can't",
+        "ua": "must і can't",
+        "ru": "must и can't"
+      },
+      "recap": {
+        "from": "b1-u10-l01",
+        "note": {
+          "ua": "Згадаймо: may / might / could + дієслово — можливо (≈ 50%)",
+          "ru": "Вспомним: may / might / could + глагол — возможно (≈ 50%)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-possibility",
+            "question": "I'm not sure, but she ___ be at home.",
+            "options": [
+              "might",
+              "must",
+              "can't"
+            ],
+            "answer": "might",
+            "explain": {
+              "ua": "Не впевнені → might.",
+              "ru": "Не уверены → might."
+            },
+            "id": "b1-u10-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-possibility",
+            "question": "I might ___ to the party.",
+            "options": [
+              "go",
+              "to go",
+              "going"
+            ],
+            "answer": "go",
+            "explain": {
+              "ua": "Might + базове.",
+              "ru": "Might + базовое."
+            },
+            "id": "b1-u10-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "must be — я впевнений, що так · can't be — я впевнений, що ні",
+          "ru": "must be — я уверен, что да · can't be — я уверен, что нет"
+        },
+        "explain": {
+          "ua": "Логічний висновок: She's been working all day. She must be tired. He's only 15. He can't be a doctor.",
+          "ru": "Логический вывод: She's been working all day. She must be tired. He's only 15. He can't be a doctor."
+        },
+        "examples": [
+          {
+            "en": "You've been travelling for 10 hours. You must be exhausted.",
+            "ua": "Ти в дорозі 10 годин. Ти, мабуть, страшенно втомився.",
+            "ru": "Ты в дороге 10 часов. Ты, наверное, страшно устал."
+          },
+          {
+            "en": "That can't be the price! It's too cheap.",
+            "ua": "Не може бути, що це ціна! Задешево.",
+            "ru": "Не может быть, что это цена! Слишком дёшево."
+          },
+          {
+            "en": "Someone's at the door. It must be the plumber.",
+            "ua": "Хтось у дверях. Мабуть, сантехнік.",
+            "ru": "Кто-то у двери. Наверное, сантехник."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-certainty",
+          "question": "He's been running for an hour. He ___ be tired.",
+          "options": [
+            "must",
+            "can't",
+            "might not"
+          ],
+          "answer": "must",
+          "explain": {
+            "ua": "Впевнені → must.",
+            "ru": "Уверены → must."
+          },
+          "id": "b1-u10-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-certainty",
+          "question": "She's only 20. She ___ be his mother!",
+          "options": [
+            "can't",
+            "must",
+            "mustn't"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Точно ні → can't.",
+            "ru": "Точно нет → can't."
+          },
+          "id": "b1-u10-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-certainty",
+          "question": "They live in a huge house. They ___ be rich.",
+          "options": [
+            "must",
+            "can't",
+            "may not"
+          ],
+          "answer": "must",
+          "explain": {
+            "ua": "Висновок → must.",
+            "ru": "Вывод → must."
+          },
+          "id": "b1-u10-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-certainty",
+          "question": "You ___ be serious! That's crazy!",
+          "options": [
+            "can't",
+            "must",
+            "might"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Не може бути → can't.",
+            "ru": "Не может быть → can't."
+          },
+          "id": "b1-u10-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-certainty",
+          "question": "You won the lottery? You ___ be joking!",
+          "options": [
+            "must",
+            "can't",
+            "may"
+          ],
+          "answer": "must",
+          "explain": {
+            "ua": "You must be joking! — Жартуєш!",
+            "ru": "You must be joking! — Шутишь!"
+          },
+          "id": "b1-u10-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "modals-certainty",
+          "pairs": [
+            {
+              "left": "He hasn't eaten all day.",
+              "right": "He must be hungry."
+            },
+            {
+              "left": "She's on holiday in Spain.",
+              "right": "She can't be at work."
+            },
+            {
+              "left": "The lights are off.",
+              "right": "They must be asleep."
+            },
+            {
+              "left": "He's never been to Italy.",
+              "right": "He can't speak Italian well."
+            }
+          ],
+          "explain": {
+            "ua": "Факт → висновок.",
+            "ru": "Факт → вывод."
+          },
+          "id": "b1-u10-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-certainty",
+          "sentence": "She mustn't be at home — her car isn't here.",
+          "answer": "She can't be at home — her car isn't here.",
+          "accept": [],
+          "explain": {
+            "ua": "Висновок «точно ні» → can't.",
+            "ru": "Вывод «точно нет» → can't."
+          },
+          "id": "b1-u10-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-certainty",
+          "sentence": "You must to be tired.",
+          "answer": "You must be tired.",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "b1-u10-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-certainty",
+          "prompt": {
+            "ua": "Ти, мабуть, голодна!",
+            "ru": "Ты, наверное, голодна!"
+          },
+          "answer": "You must be hungry!",
+          "accept": [
+            "You must be hungry"
+          ],
+          "explain": {
+            "ua": "Must be.",
+            "ru": "Must be."
+          },
+          "id": "b1-u10-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u10-l03",
+      "title": {
+        "en": "Practice: making guesses",
+        "ua": "Практика: здогадки",
+        "ru": "Практика: догадки"
+      },
+      "recap": {
+        "from": "b1-u10-l02",
+        "note": {
+          "ua": "Згадаймо: must be — я впевнений, що так · can't be — я впевнений, що ні",
+          "ru": "Вспомним: must be — я уверен, что да · can't be — я уверен, что нет"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-certainty",
+            "question": "He's been running for an hour. He ___ be tired.",
+            "options": [
+              "must",
+              "can't",
+              "might not"
+            ],
+            "answer": "must",
+            "explain": {
+              "ua": "Впевнені → must.",
+              "ru": "Уверены → must."
+            },
+            "id": "b1-u10-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-certainty",
+            "question": "You won the lottery? You ___ be joking!",
+            "options": [
+              "must",
+              "can't",
+              "may"
+            ],
+            "answer": "must",
+            "explain": {
+              "ua": "You must be joking! — Жартуєш!",
+              "ru": "You must be joking! — Шутишь!"
+            },
+            "id": "b1-u10-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-probability",
+          "question": "The phone is ringing. It ___ be Mum — she always calls at 8.",
+          "options": [
+            "must",
+            "can't",
+            "mustn't"
+          ],
+          "answer": "must",
+          "explain": {
+            "ua": "Впевнені.",
+            "ru": "Уверены."
+          },
+          "id": "b1-u10-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-probability",
+          "question": "Ann isn't answering. She ___ be asleep, or maybe she's in the shower.",
+          "options": [
+            "might",
+            "must",
+            "can't"
+          ],
+          "answer": "might",
+          "explain": {
+            "ua": "Не впевнені.",
+            "ru": "Не уверены."
+          },
+          "id": "b1-u10-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Max thinks the woman must be a doctor.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kate is sure the woman is Lena's sister.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Why can't she be Lena's sister?",
+              "options": [
+                "Lena is an only child",
+                "she's too old",
+                "she's from Spain"
+              ],
+              "answer": "Lena is an only child"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "Who's that woman in a white coat?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "She must be a doctor."
+            },
+            {
+              "speaker": "Max",
+              "line": "She looks like Lena. She might be her sister."
+            },
+            {
+              "speaker": "Kate",
+              "line": "She can't be her sister — Lena's an only child. But she could be her cousin."
+            }
+          ],
+          "explain": {
+            "ua": "Doctor's coat → must be a doctor; Lena only child → can't be sister; might be cousin.",
+            "ru": "Doctor's coat → must be a doctor; Lena only child → can't be sister; might be cousin."
+          },
+          "id": "b1-u10-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "modals-probability",
+          "bank": [
+            "must",
+            "can't",
+            "might"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She's wearing a white coat. She ___ be a doctor.",
+            "Lena is an only child. She ___ be her sister.",
+            "Maybe — she ___ be her cousin."
+          ],
+          "answers": [
+            "must",
+            "can't",
+            "might"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u10-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-probability",
+          "sentence": "It mustn't be true!",
+          "answer": "It can't be true!",
+          "accept": [
+            "It can't be true"
+          ],
+          "explain": {
+            "ua": "Не може бути → can't.",
+            "ru": "Не может быть → can't."
+          },
+          "id": "b1-u10-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-probability",
+          "sentence": "He maybe at home.",
+          "answer": "He may be at home.",
+          "accept": [
+            "He might be at home.",
+            "Maybe he's at home.",
+            "Maybe he is at home."
+          ],
+          "explain": {
+            "ua": "Дієслово may + be окремо. Maybe — це «можливо» (прислівник).",
+            "ru": "Глагол may + be раздельно. Maybe — это «может быть» (наречие)."
+          },
+          "id": "b1-u10-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "be",
+            "holiday",
+            "They",
+            "on",
+            "must"
+          ],
+          "answer": "They must be on holiday",
+          "explain": {
+            "ua": "They must be → on holiday.",
+            "ru": "They must be → on holiday."
+          },
+          "id": "b1-u10-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "modals-probability",
+          "audio_text": "You can't be serious!",
+          "options": [
+            "You can't be serious!",
+            "You must be serious!",
+            "You can be serious!"
+          ],
+          "answer": "You can't be serious!",
+          "audio": "",
+          "explain": {
+            "ua": "Can't be.",
+            "ru": "Can't be."
+          },
+          "id": "b1-u10-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-probability",
+          "prompt": {
+            "ua": "Це не може бути правдою!",
+            "ru": "Это не может быть правдой!"
+          },
+          "answer": "It can't be true!",
+          "accept": [
+            "That can't be true!",
+            "It can't be true"
+          ],
+          "explain": {
+            "ua": "Can't be.",
+            "ru": "Can't be."
+          },
+          "id": "b1-u10-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-probability",
+          "prompt": {
+            "ua": "Можливо, завтра піде сніг.",
+            "ru": "Возможно, завтра пойдёт снег."
+          },
+          "answer": "It might snow tomorrow.",
+          "accept": [
+            "It may snow tomorrow.",
+            "It could snow tomorrow.",
+            "Maybe it will snow tomorrow."
+          ],
+          "explain": {
+            "ua": "Might.",
+            "ru": "Might."
+          },
+          "id": "b1-u10-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "modals-certainty",
+      "question": "He's been working since 6 am. He ___ be tired.",
+      "options": [
+        "must",
+        "can't",
+        "may not"
+      ],
+      "answer": "must",
+      "explain": {
+        "ua": "Must.",
+        "ru": "Must."
+      },
+      "id": "b1-u10-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-certainty",
+      "question": "She's 12. She ___ be a university student.",
+      "options": [
+        "can't",
+        "must",
+        "mustn't"
+      ],
+      "answer": "can't",
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "b1-u10-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-possibility",
+      "question": "I'm not sure where Tom is. He ___ be in the gym.",
+      "options": [
+        "might",
+        "must",
+        "can't"
+      ],
+      "answer": "might",
+      "explain": {
+        "ua": "Might.",
+        "ru": "Might."
+      },
+      "id": "b1-u10-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-possibility",
+      "question": "It ___ rain later. Take an umbrella.",
+      "options": [
+        "may",
+        "must to",
+        "can't"
+      ],
+      "answer": "may",
+      "explain": {
+        "ua": "May.",
+        "ru": "May."
+      },
+      "id": "b1-u10-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-certainty",
+      "question": "You've won? You ___ be joking!",
+      "options": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "answer": "must",
+      "explain": {
+        "ua": "You must be joking.",
+        "ru": "You must be joking."
+      },
+      "id": "b1-u10-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "modals-possibility",
+      "question": "She ___ not come tonight. (maybe)",
+      "answer": "might",
+      "accept": [
+        "may"
+      ],
+      "explain": {
+        "ua": "Might not / may not.",
+        "ru": "Might not / may not."
+      },
+      "id": "b1-u10-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "modals-certainty",
+      "question": "That ___ be Max — he's in Canada!",
+      "answer": "can't",
+      "accept": [
+        "cannot"
+      ],
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "b1-u10-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "modals-certainty",
+      "sentence": "He mustn't be at work — it's Sunday.",
+      "answer": "He can't be at work — it's Sunday.",
+      "accept": [],
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "b1-u10-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "modals-possibility",
+      "sentence": "It might to snow.",
+      "answer": "It might snow.",
+      "accept": [],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "b1-u10-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "modals-certainty",
+      "words": [
+        "be",
+        "at",
+        "home",
+        "They",
+        "must"
+      ],
+      "answer": "They must be at home",
+      "explain": {
+        "ua": "They must be → at home.",
+        "ru": "They must be → at home."
+      },
+      "id": "b1-u10-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "modals-certainty",
+      "prompt": {
+        "ua": "Він, мабуть, спить.",
+        "ru": "Он, наверное, спит."
+      },
+      "answer": "He must be asleep.",
+      "accept": [
+        "He must be sleeping.",
+        "He's probably asleep.",
+        "He is probably sleeping."
+      ],
+      "explain": {
+        "ua": "Must be.",
+        "ru": "Must be."
+      },
+      "id": "b1-u10-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "modals-possibility",
+      "audio_text": "She could be right.",
+      "options": [
+        "She could be right.",
+        "She couldn't be right.",
+        "She could be late."
+      ],
+      "answer": "She could be right.",
+      "audio": "",
+      "explain": {
+        "ua": "Could be.",
+        "ru": "Could be."
+      },
+      "id": "b1-u10-cp12"
+    }
+  ]
+}

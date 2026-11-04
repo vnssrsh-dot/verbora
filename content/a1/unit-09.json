@@ -1,0 +1,1027 @@
+{
+  "id": "a1-u09",
+  "level": "A1",
+  "order": 9,
+  "kind": "grammar",
+  "title": {
+    "en": "This, that, these, those",
+    "ua": "This, that, these, those",
+    "ru": "This, that, these, those"
+  },
+  "rule": {
+    "formula": {
+      "ua": "this / these — тут, поруч · that / those — там, далеко",
+      "ru": "this / these — здесь, рядом · that / those — там, далеко"
+    },
+    "explain": {
+      "ua": "This — один, близько. These — багато, близько. That — один, далеко. Those — багато, далеко.",
+      "ru": "This — один, близко. These — много, близко. That — один, далеко. Those — много, далеко."
+    },
+    "examples": [
+      {
+        "en": "This is my bag.",
+        "ua": "Це моя сумка.",
+        "ru": "Это моя сумка."
+      },
+      {
+        "en": "These apples are sweet.",
+        "ua": "Ці яблука солодкі.",
+        "ru": "Эти яблоки сладкие."
+      },
+      {
+        "en": "Look at that car!",
+        "ua": "Подивись на ту машину!",
+        "ru": "Посмотри на ту машину!"
+      }
+    ],
+    "compare": {
+      "ua": "Українське «це» перекладається this або that залежно від відстані, а «ці» — these або those.",
+      "ru": "Русское «это» переводится this или that в зависимости от расстояния, а «эти» — these или those."
+    }
+  },
+  "vocab": [
+    {
+      "word": "price",
+      "ipa": "/praɪs/",
+      "ua": "ціна",
+      "ru": "цена",
+      "example": "What's the price?",
+      "audio": ""
+    },
+    {
+      "word": "cheap",
+      "ipa": "/tʃiːp/",
+      "ua": "дешевий",
+      "ru": "дешёвый",
+      "example": "These shoes are cheap.",
+      "audio": ""
+    },
+    {
+      "word": "expensive",
+      "ipa": "/ɪkˈspensɪv/",
+      "ua": "дорогий",
+      "ru": "дорогой",
+      "example": "That bag is expensive.",
+      "audio": ""
+    },
+    {
+      "word": "new",
+      "ipa": "/njuː/",
+      "ua": "новий",
+      "ru": "новый",
+      "example": "This phone is new.",
+      "audio": ""
+    },
+    {
+      "word": "old",
+      "ipa": "/əʊld/",
+      "ua": "старий",
+      "ru": "старый",
+      "example": "Those cars are old.",
+      "audio": ""
+    },
+    {
+      "word": "shoes",
+      "ipa": "/ʃuːz/",
+      "ua": "взуття, туфлі",
+      "ru": "обувь, туфли",
+      "example": "I love these shoes.",
+      "audio": ""
+    },
+    {
+      "word": "T-shirt",
+      "ipa": "/ˈtiː ʃɜːt/",
+      "ua": "футболка",
+      "ru": "футболка",
+      "example": "This T-shirt is white.",
+      "audio": ""
+    },
+    {
+      "word": "dress",
+      "ipa": "/dres/",
+      "ua": "сукня",
+      "ru": "платье",
+      "example": "That dress is beautiful.",
+      "audio": ""
+    },
+    {
+      "word": "beautiful",
+      "ipa": "/ˈbjuːtɪfl/",
+      "ua": "гарний, красивий",
+      "ru": "красивый",
+      "example": "This city is beautiful.",
+      "audio": ""
+    },
+    {
+      "word": "nice",
+      "ipa": "/naɪs/",
+      "ua": "приємний, гарний",
+      "ru": "приятный, милый",
+      "example": "These people are nice.",
+      "audio": ""
+    },
+    {
+      "word": "look at",
+      "ipa": "/ˈlʊk æt/",
+      "ua": "дивитися на",
+      "ru": "смотреть на",
+      "example": "Look at this!",
+      "audio": ""
+    },
+    {
+      "word": "how much",
+      "ipa": "/ˌhaʊ ˈmʌtʃ/",
+      "ua": "скільки (коштує)",
+      "ru": "сколько (стоит)",
+      "example": "How much is this?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u09-l01",
+      "title": {
+        "en": "this and that",
+        "ua": "this і that",
+        "ru": "this и that"
+      },
+      "recap": {
+        "from": "a1-u08-l03",
+        "note": {
+          "ua": "Згадаймо: man → men · woman → women · child → children · person → people · tooth → teeth · foot → feet · mouse → mice",
+          "ru": "Вспомним: man → men · woman → women · child → children · person → people · tooth → teeth · foot → feet · mouse → mice"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "plural-irregular",
+            "question": "one man → two ___",
+            "options": [
+              "men",
+              "mans",
+              "mens"
+            ],
+            "answer": "men",
+            "explain": {
+              "ua": "Man → men.",
+              "ru": "Man → men."
+            },
+            "id": "a1-u09-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "plural-irregular",
+            "question": "one tooth → many ___",
+            "options": [
+              "teeth",
+              "tooths",
+              "teeths"
+            ],
+            "answer": "teeth",
+            "explain": {
+              "ua": "Tooth → teeth.",
+              "ru": "Tooth → teeth."
+            },
+            "id": "a1-u09-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "this — один, тут · that — один, там",
+          "ru": "this — один, здесь · that — один, там"
+        },
+        "explain": {
+          "ua": "This — про одну річ або людину поруч (можна торкнутися). That — про одну річ далі від тебе.",
+          "ru": "This — об одной вещи или человеке рядом (можно дотронуться). That — об одной вещи дальше от тебя."
+        },
+        "examples": [
+          {
+            "en": "This is my phone.",
+            "ua": "Це мій телефон (here 👋).",
+            "ru": "Это мой телефон (в руке)."
+          },
+          {
+            "en": "That is our house.",
+            "ua": "Он той будинок — наш.",
+            "ru": "Вон тот дом — наш."
+          },
+          {
+            "en": "Is this your key?",
+            "ua": "Це твій ключ?",
+            "ru": "Это твой ключ?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "___ is my bag. (here 👋)",
+          "options": [
+            "This",
+            "That",
+            "These"
+          ],
+          "answer": "This",
+          "explain": {
+            "ua": "Поруч, одна → this.",
+            "ru": "Рядом, одна → this."
+          },
+          "id": "a1-u09-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "Look at ___ car over there!",
+          "options": [
+            "that",
+            "this",
+            "these"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "Далеко, одна → that.",
+            "ru": "Далеко, одна → that."
+          },
+          "id": "a1-u09-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "___ T-shirt is new. (here 👋)",
+          "options": [
+            "This",
+            "That",
+            "Those"
+          ],
+          "answer": "This",
+          "explain": {
+            "ua": "На мені — поруч → this.",
+            "ru": "На мне — рядом → this."
+          },
+          "id": "a1-u09-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "Is ___ your house? (over there 👉)",
+          "options": [
+            "that",
+            "this",
+            "these"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "Вдалині → that.",
+            "ru": "Вдали → that."
+          },
+          "id": "a1-u09-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "demonstratives",
+          "question": "___ is my friend Max. (here 👋)",
+          "answer": "This",
+          "accept": [],
+          "explain": {
+            "ua": "Знайомлячи — This is…",
+            "ru": "Знакомя — This is…"
+          },
+          "id": "a1-u09-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "demonstratives",
+          "sentence": "Look at this bird on the roof!",
+          "answer": "Look at that bird on the roof!",
+          "accept": [],
+          "explain": {
+            "ua": "Пташка далеко, на даху → that.",
+            "ru": "Птица далеко, на крыше → that."
+          },
+          "id": "a1-u09-l01-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "demonstratives",
+          "audio_text": "How much is this?",
+          "options": [
+            "How much is this?",
+            "How much is that?",
+            "How many is this?"
+          ],
+          "answer": "How much is this?",
+          "audio": "",
+          "explain": {
+            "ua": "This — «зіс».",
+            "ru": "This — «зис»."
+          },
+          "id": "a1-u09-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "demonstratives",
+          "words": [
+            "is",
+            "That",
+            "beautiful",
+            "dress"
+          ],
+          "answer": "That dress is beautiful",
+          "explain": {
+            "ua": "That dress → is → beautiful.",
+            "ru": "That dress → is → beautiful."
+          },
+          "id": "a1-u09-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "demonstratives",
+          "prompt": {
+            "ua": "Це мій брат.",
+            "ru": "Это мой брат."
+          },
+          "answer": "This is my brother.",
+          "accept": [],
+          "explain": {
+            "ua": "Знайомимо → This is…",
+            "ru": "Знакомим → This is…"
+          },
+          "id": "a1-u09-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u09-l02",
+      "title": {
+        "en": "these and those",
+        "ua": "these і those",
+        "ru": "these и those"
+      },
+      "recap": {
+        "from": "a1-u09-l01",
+        "note": {
+          "ua": "Згадаймо: this — один, тут · that — один, там",
+          "ru": "Вспомним: this — один, здесь · that — один, там"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "demonstratives",
+            "question": "___ is my bag. (here 👋)",
+            "options": [
+              "This",
+              "That",
+              "These"
+            ],
+            "answer": "This",
+            "explain": {
+              "ua": "Поруч, одна → this.",
+              "ru": "Рядом, одна → this."
+            },
+            "id": "a1-u09-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "demonstratives",
+            "question": "Is ___ your house? (over there 👉)",
+            "options": [
+              "that",
+              "this",
+              "these"
+            ],
+            "answer": "that",
+            "explain": {
+              "ua": "Вдалині → that.",
+              "ru": "Вдали → that."
+            },
+            "id": "a1-u09-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "these — багато, тут · those — багато, там",
+          "ru": "these — много, здесь · those — много, там"
+        },
+        "explain": {
+          "ua": "These — множина від this. Those — множина від that. Після них — are: These are… Those are…",
+          "ru": "These — множественное от this. Those — множественное от that. После них — are: These are… Those are…"
+        },
+        "examples": [
+          {
+            "en": "These are my shoes.",
+            "ua": "Це моє взуття.",
+            "ru": "Это моя обувь."
+          },
+          {
+            "en": "Those people are nice.",
+            "ua": "Ті люди приємні.",
+            "ru": "Те люди приятные."
+          },
+          {
+            "en": "Are these apples cheap?",
+            "ua": "Ці яблука дешеві?",
+            "ru": "Эти яблоки дешёвые?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "___ shoes are new. (here 👋)",
+          "options": [
+            "These",
+            "Those",
+            "This"
+          ],
+          "answer": "These",
+          "explain": {
+            "ua": "Багато + поруч → these.",
+            "ru": "Много + рядом → these."
+          },
+          "id": "a1-u09-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "Look at ___ birds in the sky!",
+          "options": [
+            "those",
+            "these",
+            "that"
+          ],
+          "answer": "those",
+          "explain": {
+            "ua": "Багато + далеко → those.",
+            "ru": "Много + далеко → those."
+          },
+          "id": "a1-u09-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "These ___ my keys.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "These → are.",
+            "ru": "These → are."
+          },
+          "id": "a1-u09-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "___ apples are cheap. (here 👋)",
+          "options": [
+            "These",
+            "Those",
+            "This"
+          ],
+          "answer": "These",
+          "explain": {
+            "ua": "Поруч → these.",
+            "ru": "Рядом → these."
+          },
+          "id": "a1-u09-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "demonstratives",
+          "pairs": [
+            {
+              "left": "this",
+              "right": "these"
+            },
+            {
+              "left": "that",
+              "right": "those"
+            },
+            {
+              "left": "this book",
+              "right": "these books"
+            },
+            {
+              "left": "that man",
+              "right": "those men"
+            }
+          ],
+          "explain": {
+            "ua": "Однина → множина.",
+            "ru": "Единственное → множественное."
+          },
+          "id": "a1-u09-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "demonstratives",
+          "sentence": "This shoes are expensive.",
+          "answer": "These shoes are expensive.",
+          "accept": [],
+          "explain": {
+            "ua": "Shoes — множина → these.",
+            "ru": "Shoes — множественное → these."
+          },
+          "id": "a1-u09-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "demonstratives",
+          "sentence": "Those is my children.",
+          "answer": "Those are my children.",
+          "accept": [],
+          "explain": {
+            "ua": "Those → are.",
+            "ru": "Those → are."
+          },
+          "id": "a1-u09-l02-e07"
+        },
+        {
+          "type": "fill",
+          "topic": "demonstratives",
+          "question": "___ people over there are my parents.",
+          "answer": "Those",
+          "accept": [],
+          "explain": {
+            "ua": "Багато + там → those.",
+            "ru": "Много + там → those."
+          },
+          "id": "a1-u09-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "demonstratives",
+          "prompt": {
+            "ua": "Ці яблука солодкі.",
+            "ru": "Эти яблоки сладкие."
+          },
+          "answer": "These apples are sweet.",
+          "accept": [],
+          "explain": {
+            "ua": "These + are.",
+            "ru": "These + are."
+          },
+          "id": "a1-u09-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u09-l03",
+      "title": {
+        "en": "Practice: shopping",
+        "ua": "Практика: у магазині",
+        "ru": "Практика: в магазине"
+      },
+      "recap": {
+        "from": "a1-u09-l02",
+        "note": {
+          "ua": "Згадаймо: these — багато, тут · those — багато, там",
+          "ru": "Вспомним: these — много, здесь · those — много, там"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "demonstratives",
+            "question": "___ shoes are new. (here 👋)",
+            "options": [
+              "These",
+              "Those",
+              "This"
+            ],
+            "answer": "These",
+            "explain": {
+              "ua": "Багато + поруч → these.",
+              "ru": "Много + рядом → these."
+            },
+            "id": "a1-u09-l03-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "demonstratives",
+            "sentence": "This shoes are expensive.",
+            "answer": "These shoes are expensive.",
+            "accept": [],
+            "explain": {
+              "ua": "Shoes — множина → these.",
+              "ru": "Shoes — множественное → these."
+            },
+            "id": "a1-u09-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "How much ___ this T-shirt?",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Одна футболка → is.",
+            "ru": "Одна футболка → is."
+          },
+          "id": "a1-u09-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "demonstratives",
+          "question": "How much ___ these shoes?",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Shoes — множина → are.",
+            "ru": "Shoes — множественное → are."
+          },
+          "id": "a1-u09-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is cheap?",
+              "options": [
+                "the T-shirt",
+                "the dress",
+                "the shoes"
+              ],
+              "answer": "the T-shirt"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The dress is expensive.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kate buys the shoes.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Kate",
+              "line": "Excuse me, how much is this T-shirt?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "It's ten dollars."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Great, it's cheap! And that dress?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "That dress is eighty dollars."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Oh, it's expensive. And those shoes?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "These? They are fifty."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Hmm… I'll take this T-shirt, please."
+            }
+          ],
+          "explain": {
+            "ua": "T-shirt — cheap, dress — expensive, Kate takes the T-shirt.",
+            "ru": "T-shirt — cheap, dress — expensive, Kate takes the T-shirt."
+          },
+          "id": "a1-u09-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "demonstratives",
+          "bank": [
+            "this",
+            "that",
+            "these",
+            "those"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ T-shirt is in my hands.",
+            "___ dress is over there.",
+            "___ shoes are on my feet.",
+            "___ bags are in the window."
+          ],
+          "answers": [
+            "This",
+            "That",
+            "These",
+            "Those"
+          ],
+          "explain": {
+            "ua": "Поруч: this / these. Далеко: that / those.",
+            "ru": "Рядом: this / these. Далеко: that / those."
+          },
+          "id": "a1-u09-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cheap ↔ ___",
+          "options": [
+            "expensive",
+            "new",
+            "nice"
+          ],
+          "answer": "expensive",
+          "explain": {
+            "ua": "Дешевий ↔ дорогий.",
+            "ru": "Дешёвый ↔ дорогой."
+          },
+          "id": "a1-u09-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "New ↔ ___",
+          "options": [
+            "old",
+            "cheap",
+            "beautiful"
+          ],
+          "answer": "old",
+          "explain": {
+            "ua": "Новий ↔ старий.",
+            "ru": "Новый ↔ старый."
+          },
+          "id": "a1-u09-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "demonstratives",
+          "sentence": "How much is these?",
+          "answer": "How much are these?",
+          "accept": [],
+          "explain": {
+            "ua": "These → are.",
+            "ru": "These → are."
+          },
+          "id": "a1-u09-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "demonstratives",
+          "words": [
+            "shoes",
+            "cheap",
+            "Those",
+            "are"
+          ],
+          "answer": "Those shoes are cheap",
+          "explain": {
+            "ua": "Those shoes → are → cheap.",
+            "ru": "Those shoes → are → cheap."
+          },
+          "id": "a1-u09-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "demonstratives",
+          "prompt": {
+            "ua": "Скільки коштує ця сукня?",
+            "ru": "Сколько стоит это платье?"
+          },
+          "answer": "How much is this dress?",
+          "accept": [],
+          "explain": {
+            "ua": "How much is…?",
+            "ru": "How much is…?"
+          },
+          "id": "a1-u09-l03-e09"
+        },
+        {
+          "type": "listen",
+          "topic": "demonstratives",
+          "audio_text": "I'll take these, please.",
+          "options": [
+            "I'll take these, please.",
+            "I'll take this, please.",
+            "I'll take those, please."
+          ],
+          "answer": "I'll take these, please.",
+          "audio": "",
+          "explain": {
+            "ua": "These — «зіз».",
+            "ru": "These — «зиз»."
+          },
+          "id": "a1-u09-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "demonstratives",
+      "question": "___ is my phone. (here 👋)",
+      "options": [
+        "This",
+        "That",
+        "Those"
+      ],
+      "answer": "This",
+      "explain": {
+        "ua": "Поруч, одна → this.",
+        "ru": "Рядом, один → this."
+      },
+      "id": "a1-u09-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "demonstratives",
+      "question": "Look at ___ cars over there!",
+      "options": [
+        "those",
+        "these",
+        "that"
+      ],
+      "answer": "those",
+      "explain": {
+        "ua": "Багато, далеко → those.",
+        "ru": "Много, далеко → those."
+      },
+      "id": "a1-u09-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "demonstratives",
+      "question": "These ___ my children.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": "are",
+      "explain": {
+        "ua": "These → are.",
+        "ru": "These → are."
+      },
+      "id": "a1-u09-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "demonstratives",
+      "question": "How much ___ that bag?",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "That bag → is.",
+        "ru": "That bag → is."
+      },
+      "id": "a1-u09-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "demonstratives",
+      "question": "___ shoes are new. (here 👋)",
+      "answer": "These",
+      "accept": [],
+      "explain": {
+        "ua": "Поруч, множина → these.",
+        "ru": "Рядом, множественное → these."
+      },
+      "id": "a1-u09-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "demonstratives",
+      "question": "___ is our house over there.",
+      "answer": "That",
+      "accept": [],
+      "explain": {
+        "ua": "Далеко, один → that.",
+        "ru": "Далеко, один → that."
+      },
+      "id": "a1-u09-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "this",
+          "right": "these"
+        },
+        {
+          "left": "that",
+          "right": "those"
+        },
+        {
+          "left": "cheap",
+          "right": "expensive"
+        },
+        {
+          "left": "new",
+          "right": "old"
+        }
+      ],
+      "explain": {
+        "ua": "Пари.",
+        "ru": "Пары."
+      },
+      "id": "a1-u09-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "demonstratives",
+      "sentence": "That are my friends.",
+      "answer": "Those are my friends.",
+      "accept": [],
+      "explain": {
+        "ua": "Friends — множина → those.",
+        "ru": "Friends — множественное → those."
+      },
+      "id": "a1-u09-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "demonstratives",
+      "sentence": "This apples are sweet.",
+      "answer": "These apples are sweet.",
+      "accept": [],
+      "explain": {
+        "ua": "Apples → these.",
+        "ru": "Apples → these."
+      },
+      "id": "a1-u09-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Is",
+        "this",
+        "key",
+        "your"
+      ],
+      "answer": "Is this your key",
+      "explain": {
+        "ua": "Is → this → your key?",
+        "ru": "Is → this → your key?"
+      },
+      "id": "a1-u09-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "demonstratives",
+      "prompt": {
+        "ua": "Ті люди — мої батьки.",
+        "ru": "Те люди — мои родители."
+      },
+      "answer": "Those people are my parents.",
+      "accept": [],
+      "explain": {
+        "ua": "Багато, далеко → those + are.",
+        "ru": "Много, далеко → those + are."
+      },
+      "id": "a1-u09-cp11"
+    },
+    {
+      "type": "translate",
+      "topic": "demonstratives",
+      "prompt": {
+        "ua": "Скільки це коштує?",
+        "ru": "Сколько это стоит?"
+      },
+      "answer": "How much is this?",
+      "accept": [
+        "How much is it?"
+      ],
+      "explain": {
+        "ua": "How much is this?",
+        "ru": "How much is this?"
+      },
+      "id": "a1-u09-cp12"
+    }
+  ]
+}

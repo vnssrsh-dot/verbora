@@ -1,0 +1,1024 @@
+{
+  "id": "c1-u14",
+  "level": "C1",
+  "order": 14,
+  "kind": "grammar",
+  "title": {
+    "en": "Collocations",
+    "ua": "Колокації",
+    "ru": "Коллокации"
+  },
+  "rule": {
+    "formula": {
+      "ua": "колокація = слова, які «дружать»: make a decision (не do), heavy rain (не strong), fully aware",
+      "ru": "коллокация = слова, которые «дружат»: make a decision (не do), heavy rain (не strong), fully aware"
+    },
+    "explain": {
+      "ua": "Граматично можна сказати strong rain, але носій скаже heavy rain. Колокації — головна різниця між «правильно» і «природно». Їх вчать блоками.",
+      "ru": "Грамматически можно сказать strong rain, но носитель скажет heavy rain. Коллокации — главная разница между «правильно» и «естественно». Их учат блоками."
+    },
+    "examples": [
+      {
+        "en": "I need to make a decision.",
+        "ua": "Мені треба ухвалити рішення.",
+        "ru": "Мне нужно принять решение."
+      },
+      {
+        "en": "There was heavy traffic this morning.",
+        "ua": "Зранку були великі затори.",
+        "ru": "Утром были большие пробки."
+      },
+      {
+        "en": "I'm fully aware of the risks.",
+        "ua": "Я цілком усвідомлюю ризики.",
+        "ru": "Я полностью осознаю риски."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "make a decision",
+      "ipa": "/meɪk ə dɪˈsɪʒn/",
+      "ua": "ухвалити рішення",
+      "ru": "принять решение",
+      "example": "It's time to make a decision.",
+      "audio": ""
+    },
+    {
+      "word": "make an effort",
+      "ipa": "/meɪk ən ˈefət/",
+      "ua": "докласти зусиль",
+      "ru": "приложить усилия",
+      "example": "Make an effort to be polite.",
+      "audio": ""
+    },
+    {
+      "word": "make progress",
+      "ipa": "/meɪk ˈprəʊɡres/",
+      "ua": "робити успіхи",
+      "ru": "делать успехи",
+      "example": "You're making great progress.",
+      "audio": ""
+    },
+    {
+      "word": "do research",
+      "ipa": "/duː rɪˈsɜːtʃ/",
+      "ua": "проводити дослідження",
+      "ru": "проводить исследование",
+      "example": "do some research",
+      "audio": ""
+    },
+    {
+      "word": "do someone a favour",
+      "ipa": "/duː ə ˈfeɪvə/",
+      "ua": "зробити послугу",
+      "ru": "сделать одолжение",
+      "example": "Can you do me a favour?",
+      "audio": ""
+    },
+    {
+      "word": "take a risk",
+      "ipa": "/teɪk ə ˈrɪsk/",
+      "ua": "ризикнути",
+      "ru": "рискнуть",
+      "example": "Sometimes you have to take a risk.",
+      "audio": ""
+    },
+    {
+      "word": "take responsibility",
+      "ipa": "/teɪk rɪˌspɒnsəˈbɪləti/",
+      "ua": "взяти відповідальність",
+      "ru": "взять ответственность",
+      "example": "take responsibility for your actions",
+      "audio": ""
+    },
+    {
+      "word": "have an impact on",
+      "ipa": "/hæv ən ˈɪmpækt ɒn/",
+      "ua": "впливати на",
+      "ru": "влиять на",
+      "example": "It had a huge impact on me.",
+      "audio": ""
+    },
+    {
+      "word": "heavy rain / traffic",
+      "ipa": "/ˈhevi/",
+      "ua": "сильний дощ / великий трафік",
+      "ru": "сильный дождь / пробки",
+      "example": "heavy rain all day",
+      "audio": ""
+    },
+    {
+      "word": "strong coffee / accent",
+      "ipa": "/strɒŋ/",
+      "ua": "міцна кава / сильний акцент",
+      "ru": "крепкий кофе / сильный акцент",
+      "example": "a strong accent",
+      "audio": ""
+    },
+    {
+      "word": "deeply concerned",
+      "ipa": "/ˈdiːpli kənˈsɜːnd/",
+      "ua": "глибоко стурбований",
+      "ru": "глубоко обеспокоен",
+      "example": "We are deeply concerned.",
+      "audio": ""
+    },
+    {
+      "word": "highly unlikely",
+      "ipa": "/ˈhaɪli ʌnˈlaɪkli/",
+      "ua": "вкрай малоймовірно",
+      "ru": "крайне маловероятно",
+      "example": "It's highly unlikely.",
+      "audio": ""
+    },
+    {
+      "word": "fully aware",
+      "ipa": "/ˈfʊli əˈweə/",
+      "ua": "цілком усвідомлює",
+      "ru": "полностью осознаёт",
+      "example": "I'm fully aware of that.",
+      "audio": ""
+    },
+    {
+      "word": "bitterly disappointed",
+      "ipa": "/ˈbɪtəli/",
+      "ua": "гірко розчарований",
+      "ru": "горько разочарован",
+      "example": "She was bitterly disappointed.",
+      "audio": ""
+    },
+    {
+      "word": "a golden opportunity",
+      "ipa": "/ˈɡəʊldən ˌɒpəˈtjuːnəti/",
+      "ua": "чудова нагода",
+      "ru": "прекрасная возможность",
+      "example": "Don't miss this golden opportunity.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u14-l01",
+      "title": {
+        "en": "make, do, take, have",
+        "ua": "make, do, take, have",
+        "ru": "make, do, take, have"
+      },
+      "recap": {
+        "from": "c1-u13-l02",
+        "note": {
+          "ua": "Згадаймо: over the moon / on cloud nine (щастя) · down in the dumps (сум) · a bundle of nerves / butterflies (хвилювання) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether",
+          "ru": "Вспомним: over the moon / on cloud nine (счастье) · down in the dumps (грусть) · a bundle of nerves / butterflies (волнение) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "idioms-feelings",
+            "question": "I got the job! I'm over the ___ !",
+            "options": [
+              "moon",
+              "sun",
+              "sky"
+            ],
+            "answer": "moon",
+            "explain": {
+              "ua": "Over the moon.",
+              "ru": "Over the moon."
+            },
+            "id": "c1-u14-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "idioms-feelings",
+            "question": "I go to the gym to let off ___ .",
+            "options": [
+              "steam",
+              "smoke",
+              "air"
+            ],
+            "answer": "steam",
+            "explain": {
+              "ua": "Let off steam.",
+              "ru": "Let off steam."
+            },
+            "id": "c1-u14-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "make: a decision, an effort, progress, a mistake, an impression · do: research, damage, business, your best, a favour · take: a risk, responsibility, advantage of, part in · have: an impact, a look, a word with",
+        "explain": {
+          "ua": "Make — створюємо щось нове (рішення, враження). Do — виконуємо роботу, діяльність. Take — «беремо» на себе. Але є й винятки, тому вчимо як блоки.",
+          "ru": "Make — создаём что-то новое (решение, впечатление). Do — выполняем работу, деятельность. Take — «берём» на себя. Но есть и исключения, поэтому учим блоками."
+        },
+        "examples": [
+          {
+            "en": "She made a great impression on the client.",
+            "ua": "Вона справила чудове враження на клієнта.",
+            "ru": "Она произвела отличное впечатление на клиента."
+          },
+          {
+            "en": "The storm did a lot of damage.",
+            "ua": "Буря завдала великої шкоди.",
+            "ru": "Буря нанесла большой ущерб."
+          },
+          {
+            "en": "Can I have a word with you?",
+            "ua": "Можна вас на хвилинку?",
+            "ru": "Можно вас на минутку?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "It's hard to ___ a decision.",
+          "options": [
+            "make",
+            "do",
+            "take"
+          ],
+          "answer": "make",
+          "explain": {
+            "ua": "Make a decision.",
+            "ru": "Make a decision."
+          },
+          "id": "c1-u14-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "Could you ___ me a favour?",
+          "options": [
+            "do",
+            "make",
+            "give"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Do a favour.",
+            "ru": "Do a favour."
+          },
+          "id": "c1-u14-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "You have to ___ responsibility for your mistakes.",
+          "options": [
+            "take",
+            "make",
+            "do"
+          ],
+          "answer": "take",
+          "explain": {
+            "ua": "Take responsibility.",
+            "ru": "Take responsibility."
+          },
+          "id": "c1-u14-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "The new law will ___ a big impact on small businesses.",
+          "options": [
+            "have",
+            "make",
+            "do"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Have an impact.",
+            "ru": "Have an impact."
+          },
+          "id": "c1-u14-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "I always try to ___ my best.",
+          "options": [
+            "do",
+            "make",
+            "take"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Do your best.",
+            "ru": "Do your best."
+          },
+          "id": "c1-u14-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-verbs",
+          "question": "Your English is getting better — you're ___ great progress!",
+          "options": [
+            "making",
+            "doing",
+            "taking"
+          ],
+          "answer": "making",
+          "explain": {
+            "ua": "Make progress.",
+            "ru": "Make progress."
+          },
+          "id": "c1-u14-l01-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "collocations-verbs",
+          "bank": [
+            "make",
+            "do",
+            "take",
+            "have"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Don't ___ a mistake.",
+            "We need to ___ more research.",
+            "Don't ___ advantage of her kindness.",
+            "Let me ___ a look."
+          ],
+          "answers": [
+            "make",
+            "do",
+            "take",
+            "have"
+          ],
+          "explain": {
+            "ua": "Колокації.",
+            "ru": "Коллокации."
+          },
+          "id": "c1-u14-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "collocations-verbs",
+          "sentence": "I did a big mistake.",
+          "answer": "I made a big mistake.",
+          "accept": [],
+          "explain": {
+            "ua": "Make a mistake.",
+            "ru": "Make a mistake."
+          },
+          "id": "c1-u14-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "collocations-verbs",
+          "prompt": {
+            "ua": "Я хочу взяти участь у конкурсі.",
+            "ru": "Я хочу принять участие в конкурсе."
+          },
+          "answer": "I want to take part in the competition.",
+          "accept": [
+            "I want to take part in the contest."
+          ],
+          "explain": {
+            "ua": "Take part in.",
+            "ru": "Take part in."
+          },
+          "id": "c1-u14-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u14-l02",
+      "title": {
+        "en": "Adjective + noun, adverb + adjective",
+        "ua": "Прикметник + іменник",
+        "ru": "Прилагательное + существительное"
+      },
+      "recap": {
+        "from": "c1-u14-l01",
+        "note": {
+          "ua": "Згадаймо: make: a decision, an effort, progress, a mistake, an impression · do: research, damage, business, your best, a favour · take: a risk, responsibility, advantage of, part in · have: an impact, a look, a word with",
+          "ru": "Вспомним: make: a decision, an effort, progress, a mistake, an impression · do: research, damage, business, your best, a favour · take: a risk, responsibility, advantage of, part in · have: an impact, a look, a word with"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "collocations-verbs",
+            "question": "It's hard to ___ a decision.",
+            "options": [
+              "make",
+              "do",
+              "take"
+            ],
+            "answer": "make",
+            "explain": {
+              "ua": "Make a decision.",
+              "ru": "Make a decision."
+            },
+            "id": "c1-u14-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "collocations-verbs",
+            "question": "I always try to ___ my best.",
+            "options": [
+              "do",
+              "make",
+              "take"
+            ],
+            "answer": "do",
+            "explain": {
+              "ua": "Do your best.",
+              "ru": "Do your best."
+            },
+            "id": "c1-u14-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "heavy rain / traffic / smoker · strong coffee / wind / accent · high price / speed · deep sleep · deeply concerned · highly unlikely · fully aware · bitterly disappointed · utterly ridiculous",
+        "explain": {
+          "ua": "Дослівний переклад часто дає помилку: «сильний дощ» = heavy rain, «міцна кава» = strong coffee, «висока ціна» = high price (не expensive price). Прислівники-підсилювачі теж дружать вибірково: highly likely, fully aware, deeply concerned.",
+          "ru": "Дословный перевод часто даёт ошибку: «сильный дождь» = heavy rain, «крепкий кофе» = strong coffee, «высокая цена» = high price (не expensive price). Наречия-усилители тоже дружат выборочно: highly likely, fully aware, deeply concerned."
+        },
+        "examples": [
+          {
+            "en": "There was heavy traffic on the bridge.",
+            "ua": "На мосту були великі затори.",
+            "ru": "На мосту были большие пробки."
+          },
+          {
+            "en": "It's highly unlikely that he'll agree.",
+            "ua": "Вкрай малоймовірно, що він погодиться.",
+            "ru": "Крайне маловероятно, что он согласится."
+          },
+          {
+            "en": "We were bitterly disappointed with the result.",
+            "ua": "Ми були гірко розчаровані результатом.",
+            "ru": "Мы были горько разочарованы результатом."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "We stayed at home because of the ___ rain.",
+          "options": [
+            "heavy",
+            "strong",
+            "big"
+          ],
+          "answer": "heavy",
+          "explain": {
+            "ua": "Heavy rain.",
+            "ru": "Heavy rain."
+          },
+          "id": "c1-u14-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "I need a cup of ___ coffee.",
+          "options": [
+            "strong",
+            "heavy",
+            "hard"
+          ],
+          "answer": "strong",
+          "explain": {
+            "ua": "Strong coffee.",
+            "ru": "Strong coffee."
+          },
+          "id": "c1-u14-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "The ___ of living in London is very high.",
+          "options": [
+            "cost",
+            "price",
+            "value"
+          ],
+          "answer": "cost",
+          "explain": {
+            "ua": "The cost of living.",
+            "ru": "The cost of living."
+          },
+          "id": "c1-u14-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "It's ___ unlikely that it will snow in May.",
+          "options": [
+            "highly",
+            "strongly",
+            "heavily"
+          ],
+          "answer": "highly",
+          "explain": {
+            "ua": "Highly unlikely.",
+            "ru": "Highly unlikely."
+          },
+          "id": "c1-u14-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "I'm ___ aware of the problem.",
+          "options": [
+            "fully",
+            "highly",
+            "deeply"
+          ],
+          "answer": "fully",
+          "explain": {
+            "ua": "Fully aware.",
+            "ru": "Fully aware."
+          },
+          "id": "c1-u14-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations-adj",
+          "question": "The fans were ___ disappointed.",
+          "options": [
+            "bitterly",
+            "heavily",
+            "strongly"
+          ],
+          "answer": "bitterly",
+          "explain": {
+            "ua": "Bitterly disappointed.",
+            "ru": "Bitterly disappointed."
+          },
+          "id": "c1-u14-l02-e06"
+        },
+        {
+          "type": "match",
+          "topic": "collocations-adj",
+          "pairs": [
+            {
+              "left": "heavy",
+              "right": "traffic"
+            },
+            {
+              "left": "strong",
+              "right": "accent"
+            },
+            {
+              "left": "deeply",
+              "right": "concerned"
+            },
+            {
+              "left": "golden",
+              "right": "opportunity"
+            }
+          ],
+          "explain": {
+            "ua": "Пари.",
+            "ru": "Пары."
+          },
+          "id": "c1-u14-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "collocations-adj",
+          "sentence": "The prices are very expensive here.",
+          "answer": "The prices are very high here.",
+          "accept": [
+            "Things are very expensive here.",
+            "Prices are very high here."
+          ],
+          "explain": {
+            "ua": "Price → high.",
+            "ru": "Price → high."
+          },
+          "id": "c1-u14-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "collocations-adj",
+          "prompt": {
+            "ua": "У нього сильний акцент.",
+            "ru": "У него сильный акцент."
+          },
+          "answer": "He has a strong accent.",
+          "accept": [
+            "He's got a strong accent.",
+            "He has a heavy accent."
+          ],
+          "explain": {
+            "ua": "Strong accent.",
+            "ru": "Strong accent."
+          },
+          "id": "c1-u14-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u14-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u14-l02",
+        "note": {
+          "ua": "Згадаймо: heavy rain / traffic / smoker · strong coffee / wind / accent · high price / speed · deep sleep · deeply concerned · highly unlikely · fully aware · bitterly disappointed · utterly ridiculous",
+          "ru": "Вспомним: heavy rain / traffic / smoker · strong coffee / wind / accent · high price / speed · deep sleep · deeply concerned · highly unlikely · fully aware · bitterly disappointed · utterly ridiculous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "collocations-adj",
+            "question": "We stayed at home because of the ___ rain.",
+            "options": [
+              "heavy",
+              "strong",
+              "big"
+            ],
+            "answer": "heavy",
+            "explain": {
+              "ua": "Heavy rain.",
+              "ru": "Heavy rain."
+            },
+            "id": "c1-u14-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "collocations-adj",
+            "question": "I'm ___ aware of the problem.",
+            "options": [
+              "fully",
+              "highly",
+              "deeply"
+            ],
+            "answer": "fully",
+            "explain": {
+              "ua": "Fully aware.",
+              "ru": "Fully aware."
+            },
+            "id": "c1-u14-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The writer did research before moving.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Moving had little impact on her life.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What does she say about her English?",
+              "options": [
+                "she has made great progress",
+                "she has a strong accent and no progress",
+                "she doesn't need English"
+              ],
+              "answer": "she has made great progress"
+            }
+          ],
+          "text": "Three years ago I took a big risk and moved to Toronto. Before that, I did a lot of research and made a careful decision. The job offer was a golden opportunity I couldn't miss. Moving has had a huge impact on my life. I've made great progress with my English, although I still have a strong accent. I was fully aware it would be difficult, and some days I was bitterly disappointed, but I've never regretted it.",
+          "explain": {
+            "ua": "Took a risk; did research; golden opportunity; huge impact; made progress; fully aware of difficulties.",
+            "ru": "Took a risk; did research; golden opportunity; huge impact; made progress; fully aware of difficulties."
+          },
+          "id": "c1-u14-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "collocations",
+          "bank": [
+            "took",
+            "did",
+            "made",
+            "had",
+            "fully"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ a big risk.",
+            "I ___ a lot of research.",
+            "I ___ great progress.",
+            "Moving has ___ a huge impact.",
+            "I was ___ aware of the difficulties."
+          ],
+          "answers": [
+            "took",
+            "did",
+            "made",
+            "had",
+            "fully"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u14-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "collocations",
+          "question": "Which is correct?",
+          "options": [
+            "a golden opportunity",
+            "a gold possibility",
+            "a golden chance of"
+          ],
+          "answer": "a golden opportunity",
+          "explain": {
+            "ua": "Golden opportunity.",
+            "ru": "Golden opportunity."
+          },
+          "id": "c1-u14-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "collocations",
+          "sentence": "I did a decision to leave.",
+          "answer": "I made a decision to leave.",
+          "accept": [
+            "I made the decision to leave.",
+            "I decided to leave."
+          ],
+          "explain": {
+            "ua": "Make a decision.",
+            "ru": "Make a decision."
+          },
+          "id": "c1-u14-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "collocations",
+          "sentence": "There was strong traffic on the way.",
+          "answer": "There was heavy traffic on the way.",
+          "accept": [],
+          "explain": {
+            "ua": "Heavy traffic.",
+            "ru": "Heavy traffic."
+          },
+          "id": "c1-u14-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "a",
+            "will",
+            "on",
+            "huge",
+            "decision",
+            "our",
+            "This",
+            "impact",
+            "lives",
+            "have"
+          ],
+          "answer": "This decision will have a huge impact on our lives",
+          "explain": {
+            "ua": "Have an impact on.",
+            "ru": "Have an impact on."
+          },
+          "id": "c1-u14-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "collocations",
+          "audio_text": "It's highly unlikely.",
+          "options": [
+            "It's highly unlikely.",
+            "It's highly likely.",
+            "It's hardly unlikely."
+          ],
+          "answer": "It's highly unlikely.",
+          "audio": "",
+          "explain": {
+            "ua": "Highly unlikely.",
+            "ru": "Highly unlikely."
+          },
+          "id": "c1-u14-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "collocations",
+          "prompt": {
+            "ua": "Не пропусти цю чудову нагоду.",
+            "ru": "Не упусти эту прекрасную возможность."
+          },
+          "answer": "Don't miss this golden opportunity.",
+          "accept": [
+            "Don't miss this great opportunity.",
+            "Don't miss out on this golden opportunity."
+          ],
+          "explain": {
+            "ua": "Golden opportunity.",
+            "ru": "Golden opportunity."
+          },
+          "id": "c1-u14-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "collocations-verbs",
+      "question": "We need to ___ a decision today.",
+      "options": [
+        "make",
+        "do",
+        "take"
+      ],
+      "answer": "make",
+      "explain": {
+        "ua": "Make.",
+        "ru": "Make."
+      },
+      "id": "c1-u14-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "collocations-verbs",
+      "question": "She ___ a lot of research for her book.",
+      "options": [
+        "did",
+        "made",
+        "took"
+      ],
+      "answer": "did",
+      "explain": {
+        "ua": "Did research.",
+        "ru": "Did research."
+      },
+      "id": "c1-u14-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "collocations-verbs",
+      "question": "Don't be afraid to ___ risks.",
+      "options": [
+        "take",
+        "make",
+        "do"
+      ],
+      "answer": "take",
+      "explain": {
+        "ua": "Take risks.",
+        "ru": "Take risks."
+      },
+      "id": "c1-u14-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "collocations-adj",
+      "question": "There was ___ traffic in the city.",
+      "options": [
+        "heavy",
+        "strong",
+        "big"
+      ],
+      "answer": "heavy",
+      "explain": {
+        "ua": "Heavy traffic.",
+        "ru": "Heavy traffic."
+      },
+      "id": "c1-u14-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "collocations-adj",
+      "question": "It's ___ unlikely.",
+      "options": [
+        "highly",
+        "deeply",
+        "fully"
+      ],
+      "answer": "highly",
+      "explain": {
+        "ua": "Highly unlikely.",
+        "ru": "Highly unlikely."
+      },
+      "id": "c1-u14-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "collocations-verbs",
+      "question": "He made a good ___ at the interview — they liked him at once.",
+      "answer": "impression",
+      "accept": [],
+      "explain": {
+        "ua": "Make an impression.",
+        "ru": "Make an impression."
+      },
+      "id": "c1-u14-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "collocations-adj",
+      "question": "We are ___ concerned about the situation.",
+      "answer": "deeply",
+      "accept": [
+        "very",
+        "seriously"
+      ],
+      "explain": {
+        "ua": "Deeply concerned.",
+        "ru": "Deeply concerned."
+      },
+      "id": "c1-u14-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "collocations-verbs",
+      "sentence": "Can you make me a favour?",
+      "answer": "Can you do me a favour?",
+      "accept": [],
+      "explain": {
+        "ua": "Do a favour.",
+        "ru": "Do a favour."
+      },
+      "id": "c1-u14-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "collocations-adj",
+      "sentence": "I drink heavy coffee.",
+      "answer": "I drink strong coffee.",
+      "accept": [],
+      "explain": {
+        "ua": "Strong coffee.",
+        "ru": "Strong coffee."
+      },
+      "id": "c1-u14-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "collocations-verbs",
+      "words": [
+        "to",
+        "actions",
+        "take",
+        "for",
+        "your",
+        "responsibility",
+        "You",
+        "need"
+      ],
+      "answer": "You need to take responsibility for your actions",
+      "explain": {
+        "ua": "Take responsibility.",
+        "ru": "Take responsibility."
+      },
+      "id": "c1-u14-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "collocations-adj",
+      "prompt": {
+        "ua": "Він гірко розчарований.",
+        "ru": "Он горько разочарован."
+      },
+      "answer": "He's bitterly disappointed.",
+      "accept": [
+        "He is bitterly disappointed."
+      ],
+      "explain": {
+        "ua": "Bitterly disappointed.",
+        "ru": "Bitterly disappointed."
+      },
+      "id": "c1-u14-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "collocations-verbs",
+      "audio_text": "You're making great progress.",
+      "options": [
+        "You're making great progress.",
+        "You're doing great progress.",
+        "You're making a great process."
+      ],
+      "answer": "You're making great progress.",
+      "audio": "",
+      "explain": {
+        "ua": "Making progress.",
+        "ru": "Making progress."
+      },
+      "id": "c1-u14-cp12"
+    }
+  ]
+}

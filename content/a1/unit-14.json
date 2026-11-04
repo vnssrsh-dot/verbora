@@ -1,0 +1,1473 @@
+{
+  "id": "a1-u14",
+  "level": "A1",
+  "order": 14,
+  "kind": "vocab",
+  "title": {
+    "en": "Appearance and character",
+    "ua": "Зовнішність і характер",
+    "ru": "Внешность и характер"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "tall",
+      "ipa": "/tɔːl/",
+      "ua": "високий (про людину)",
+      "ru": "высокий (о человеке)",
+      "example": "My brother is tall.",
+      "audio": ""
+    },
+    {
+      "word": "short",
+      "ipa": "/ʃɔːt/",
+      "ua": "низький; короткий",
+      "ru": "низкий; короткий",
+      "example": "She's short with short hair.",
+      "audio": ""
+    },
+    {
+      "word": "young",
+      "ipa": "/jʌŋ/",
+      "ua": "молодий",
+      "ru": "молодой",
+      "example": "Our teacher is young.",
+      "audio": ""
+    },
+    {
+      "word": "hair",
+      "ipa": "/heə/",
+      "ua": "волосся",
+      "ru": "волосы",
+      "example": "She's got long hair.",
+      "audio": ""
+    },
+    {
+      "word": "eyes",
+      "ipa": "/aɪz/",
+      "ua": "очі",
+      "ru": "глаза",
+      "example": "He's got blue eyes.",
+      "audio": ""
+    },
+    {
+      "word": "long",
+      "ipa": "/lɒŋ/",
+      "ua": "довгий",
+      "ru": "длинный",
+      "example": "Her hair is long.",
+      "audio": ""
+    },
+    {
+      "word": "dark",
+      "ipa": "/dɑːk/",
+      "ua": "темний",
+      "ru": "тёмный",
+      "example": "He's got dark hair.",
+      "audio": ""
+    },
+    {
+      "word": "blond",
+      "ipa": "/blɒnd/",
+      "ua": "світле (волосся), блондин",
+      "ru": "светлые (волосы), блондин",
+      "example": "She's got blond hair.",
+      "audio": ""
+    },
+    {
+      "word": "blue",
+      "ipa": "/bluː/",
+      "ua": "блакитний, синій",
+      "ru": "голубой, синий",
+      "example": "Blue eyes.",
+      "audio": ""
+    },
+    {
+      "word": "brown",
+      "ipa": "/braʊn/",
+      "ua": "карий, коричневий",
+      "ru": "карий, коричневый",
+      "example": "Brown eyes.",
+      "audio": ""
+    },
+    {
+      "word": "beard",
+      "ipa": "/bɪəd/",
+      "ua": "борода",
+      "ru": "борода",
+      "example": "My dad has got a beard.",
+      "audio": ""
+    },
+    {
+      "word": "glasses",
+      "ipa": "/ˈɡlɑːsɪz/",
+      "ua": "окуляри",
+      "ru": "очки",
+      "example": "She wears glasses.",
+      "audio": ""
+    },
+    {
+      "word": "kind",
+      "ipa": "/kaɪnd/",
+      "ua": "добрий",
+      "ru": "добрый",
+      "example": "My grandma is very kind.",
+      "audio": ""
+    },
+    {
+      "word": "funny",
+      "ipa": "/ˈfʌni/",
+      "ua": "смішний, кумедний",
+      "ru": "смешной, весёлый",
+      "example": "Max is funny.",
+      "audio": ""
+    },
+    {
+      "word": "shy",
+      "ipa": "/ʃaɪ/",
+      "ua": "сором'язливий",
+      "ru": "застенчивый",
+      "example": "I'm a bit shy.",
+      "audio": ""
+    },
+    {
+      "word": "friendly",
+      "ipa": "/ˈfrendli/",
+      "ua": "дружній, привітний",
+      "ru": "дружелюбный",
+      "example": "Our neighbours are friendly.",
+      "audio": ""
+    },
+    {
+      "word": "lazy",
+      "ipa": "/ˈleɪzi/",
+      "ua": "лінивий",
+      "ru": "ленивый",
+      "example": "My cat is lazy.",
+      "audio": ""
+    },
+    {
+      "word": "clever",
+      "ipa": "/ˈklevə/",
+      "ua": "розумний",
+      "ru": "умный",
+      "example": "She is very clever.",
+      "audio": ""
+    },
+    {
+      "word": "calm",
+      "ipa": "/kɑːm/",
+      "ua": "спокійний",
+      "ru": "спокойный",
+      "example": "He's always calm.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u14-l01",
+      "title": {
+        "en": "Appearance",
+        "ua": "Зовнішність",
+        "ru": "Внешность"
+      },
+      "recap": {
+        "from": "a1-u13-l02",
+        "note": {
+          "ua": "Згадаймо: haven't got · hasn't got · Have you got…? · Has she got…?",
+          "ru": "Вспомним: haven't got · hasn't got · Have you got…? · Has she got…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "I ___ got time today.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "don't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "I → haven't got.",
+              "ru": "I → haven't got."
+            },
+            "id": "a1-u14-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "Have you got a bike? — No, I ___.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "don't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "No, I haven't.",
+              "ru": "No, I haven't."
+            },
+            "id": "a1-u14-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "tall",
+              "right": {
+                "ua": "високий",
+                "ru": "высокий"
+              }
+            },
+            {
+              "left": "short",
+              "right": {
+                "ua": "низький",
+                "ru": "низкий"
+              }
+            },
+            {
+              "left": "hair",
+              "right": {
+                "ua": "волосся",
+                "ru": "волосы"
+              }
+            },
+            {
+              "left": "eyes",
+              "right": {
+                "ua": "очі",
+                "ru": "глаза"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u14-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Tall ↔ ___",
+          "options": [
+            "short",
+            "long",
+            "young"
+          ],
+          "answer": "short",
+          "explain": {
+            "ua": "Високий ↔ низький.",
+            "ru": "Высокий ↔ низкий."
+          },
+          "id": "a1-u14-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Long hair ↔ ___ hair",
+          "options": [
+            "short",
+            "tall",
+            "small"
+          ],
+          "answer": "short",
+          "explain": {
+            "ua": "Довге ↔ коротке.",
+            "ru": "Длинные ↔ короткие."
+          },
+          "id": "a1-u14-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She's got long ___ hair.",
+          "options": [
+            "blond",
+            "blue",
+            "tall"
+          ],
+          "answer": "blond",
+          "explain": {
+            "ua": "Колір волосся — blond / dark.",
+            "ru": "Цвет волос — blond / dark."
+          },
+          "id": "a1-u14-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He's got blue ___.",
+          "options": [
+            "eyes",
+            "hair",
+            "beard"
+          ],
+          "answer": "eyes",
+          "explain": {
+            "ua": "Blue eyes — блакитні очі.",
+            "ru": "Blue eyes — голубые глаза."
+          },
+          "id": "a1-u14-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Hair on a man's face, under the mouth.",
+          "answer": "beard",
+          "accept": [
+            "a beard"
+          ],
+          "explain": {
+            "ua": "Beard — борода.",
+            "ru": "Beard — борода."
+          },
+          "id": "a1-u14-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You wear them to see better.",
+          "answer": "glasses",
+          "accept": [],
+          "explain": {
+            "ua": "Glasses — окуляри.",
+            "ru": "Glasses — очки."
+          },
+          "id": "a1-u14-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She has a long hair.",
+          "answer": "She has long hair.",
+          "accept": [
+            "She's got long hair.",
+            "She has got long hair."
+          ],
+          "explain": {
+            "ua": "Hair (волосся) — без a.",
+            "ru": "Hair (волосы) — без a."
+          },
+          "id": "a1-u14-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈjʌŋ/",
+          "options": [
+            "young",
+            "yawn",
+            "yoga"
+          ],
+          "answer": "young",
+          "explain": {
+            "ua": "ou тут — /ʌ/, як «а».",
+            "ru": "ou здесь — /ʌ/, как «а»."
+          },
+          "id": "a1-u14-l01-e09"
+        }
+      ],
+      "words": [
+        "tall",
+        "short",
+        "young",
+        "hair",
+        "eyes",
+        "long",
+        "dark",
+        "blond",
+        "blue",
+        "brown",
+        "beard",
+        "glasses"
+      ]
+    },
+    {
+      "id": "a1-u14-l02",
+      "title": {
+        "en": "Character",
+        "ua": "Характер",
+        "ru": "Характер"
+      },
+      "recap": {
+        "from": "a1-u14-l01",
+        "note": {
+          "ua": "Згадаймо: Зовнішність",
+          "ru": "Вспомним: Внешность"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Tall ↔ ___",
+            "options": [
+              "short",
+              "long",
+              "young"
+            ],
+            "answer": "short",
+            "explain": {
+              "ua": "Високий ↔ низький.",
+              "ru": "Высокий ↔ низкий."
+            },
+            "id": "a1-u14-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "He's got blue ___.",
+            "options": [
+              "eyes",
+              "hair",
+              "beard"
+            ],
+            "answer": "eyes",
+            "explain": {
+              "ua": "Blue eyes — блакитні очі.",
+              "ru": "Blue eyes — голубые глаза."
+            },
+            "id": "a1-u14-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "kind",
+              "right": {
+                "ua": "добрий",
+                "ru": "добрый"
+              }
+            },
+            {
+              "left": "funny",
+              "right": {
+                "ua": "смішний",
+                "ru": "смешной"
+              }
+            },
+            {
+              "left": "shy",
+              "right": {
+                "ua": "сором'язливий",
+                "ru": "застенчивый"
+              }
+            },
+            {
+              "left": "lazy",
+              "right": {
+                "ua": "лінивий",
+                "ru": "ленивый"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u14-l02-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "He always tells jokes. People laugh.",
+          "answer": "funny",
+          "accept": [],
+          "explain": {
+            "ua": "Funny — смішний.",
+            "ru": "Funny — смешной."
+          },
+          "id": "a1-u14-l02-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "She doesn't like to talk to new people.",
+          "answer": "shy",
+          "accept": [],
+          "explain": {
+            "ua": "Shy — сором'язливий.",
+            "ru": "Shy — застенчивый."
+          },
+          "id": "a1-u14-l02-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "He doesn't like work. He sleeps a lot.",
+          "answer": "lazy",
+          "accept": [],
+          "explain": {
+            "ua": "Lazy — лінивий.",
+            "ru": "Lazy — ленивый."
+          },
+          "id": "a1-u14-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She helps everybody. She is very ___.",
+          "options": [
+            "kind",
+            "lazy",
+            "shy"
+          ],
+          "answer": "kind",
+          "explain": {
+            "ua": "Kind — добрий.",
+            "ru": "Kind — добрый."
+          },
+          "id": "a1-u14-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He knows a lot. He is ___.",
+          "options": [
+            "clever",
+            "funny",
+            "calm"
+          ],
+          "answer": "clever",
+          "explain": {
+            "ua": "Clever — розумний.",
+            "ru": "Clever — умный."
+          },
+          "id": "a1-u14-l02-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "friend",
+          "answer": "friendly",
+          "accept": [
+            "kind"
+          ],
+          "explain": {
+            "ua": "Friend → friendly.",
+            "ru": "Friend → friendly."
+          },
+          "id": "a1-u14-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My cat is very lazily.",
+          "answer": "My cat is very lazy.",
+          "accept": [],
+          "explain": {
+            "ua": "Після is — прикметник lazy.",
+            "ru": "После is — прилагательное lazy."
+          },
+          "id": "a1-u14-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій брат дуже розумний.",
+            "ru": "Мой брат очень умный."
+          },
+          "answer": "My brother is very clever.",
+          "accept": [
+            "My brother is very smart."
+          ],
+          "explain": {
+            "ua": "Very + clever.",
+            "ru": "Very + clever."
+          },
+          "id": "a1-u14-l02-e09"
+        }
+      ],
+      "words": [
+        "kind",
+        "funny",
+        "shy",
+        "friendly",
+        "lazy",
+        "clever",
+        "calm"
+      ]
+    },
+    {
+      "id": "a1-u14-l03",
+      "title": {
+        "en": "Describing people",
+        "ua": "Описуємо людей",
+        "ru": "Описываем людей"
+      },
+      "recap": {
+        "from": "a1-u14-l02",
+        "note": {
+          "ua": "Згадаймо: Характер",
+          "ru": "Вспомним: Характер"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "He always tells jokes. People laugh.",
+            "answer": "funny",
+            "accept": [],
+            "explain": {
+              "ua": "Funny — смішний.",
+              "ru": "Funny — смешной."
+            },
+            "id": "a1-u14-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She helps everybody. She is very ___.",
+            "options": [
+              "kind",
+              "lazy",
+              "shy"
+            ],
+            "answer": "kind",
+            "explain": {
+              "ua": "Kind — добрий.",
+              "ru": "Kind — добрый."
+            },
+            "id": "a1-u14-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-forms",
+          "question": "He ___ tall. (to be)",
+          "options": [
+            "is",
+            "has got",
+            "have"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Ріст — через is: He is tall.",
+            "ru": "Рост — через is: He is tall."
+          },
+          "id": "a1-u14-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "She ___ blue eyes. (have got)",
+          "options": [
+            "has got",
+            "is",
+            "have got"
+          ],
+          "answer": "has got",
+          "explain": {
+            "ua": "Очі, волосся — через has got.",
+            "ru": "Глаза, волосы — через has got."
+          },
+          "id": "a1-u14-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "My dad ___ a beard.",
+          "options": [
+            "has got",
+            "is",
+            "are"
+          ],
+          "answer": "has got",
+          "explain": {
+            "ua": "Борода — has got.",
+            "ru": "Борода — has got."
+          },
+          "id": "a1-u14-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-forms",
+          "question": "They ___ friendly.",
+          "options": [
+            "are",
+            "have got",
+            "is"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Характер — через to be.",
+            "ru": "Характер — через to be."
+          },
+          "id": "a1-u14-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "is",
+            "has got"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Anna ___ tall.",
+            "She ___ dark hair.",
+            "She ___ kind.",
+            "She ___ brown eyes."
+          ],
+          "answers": [
+            "is",
+            "has got",
+            "is",
+            "has got"
+          ],
+          "explain": {
+            "ua": "Який? → is. Що має? → has got.",
+            "ru": "Какой? → is. Что имеет? → has got."
+          },
+          "id": "a1-u14-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "have-got",
+          "sentence": "He is got brown eyes.",
+          "answer": "He has got brown eyes.",
+          "accept": [
+            "He's got brown eyes."
+          ],
+          "explain": {
+            "ua": "Має → has got.",
+            "ru": "Имеет → has got."
+          },
+          "id": "a1-u14-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-forms",
+          "sentence": "She has kind.",
+          "answer": "She is kind.",
+          "accept": [],
+          "explain": {
+            "ua": "Характер — is.",
+            "ru": "Характер — is."
+          },
+          "id": "a1-u14-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "has",
+            "hair",
+            "got",
+            "sister",
+            "long",
+            "blond",
+            "My"
+          ],
+          "answer": "My sister has got long blond hair",
+          "explain": {
+            "ua": "Has got → long blond hair.",
+            "ru": "Has got → long blond hair."
+          },
+          "id": "a1-u14-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вона висока і в неї темне волосся.",
+            "ru": "Она высокая и у неё тёмные волосы."
+          },
+          "answer": "She is tall and she has got dark hair.",
+          "accept": [
+            "She's tall and she's got dark hair.",
+            "She is tall and has got dark hair.",
+            "She is tall and has dark hair."
+          ],
+          "explain": {
+            "ua": "Tall — is, hair — has got.",
+            "ru": "Tall — is, hair — has got."
+          },
+          "id": "a1-u14-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u14-l04",
+      "title": {
+        "en": "In context: my best friend",
+        "ua": "У контексті: мій найкращий друг",
+        "ru": "В контексте: мой лучший друг"
+      },
+      "recap": {
+        "from": "a1-u14-l03",
+        "note": {
+          "ua": "Згадаймо: Описуємо людей",
+          "ru": "Вспомним: Описываем людей"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-forms",
+            "question": "He ___ tall. (to be)",
+            "options": [
+              "is",
+              "has got",
+              "have"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "Ріст — через is: He is tall.",
+              "ru": "Рост — через is: He is tall."
+            },
+            "id": "a1-u14-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "to-be-forms",
+            "question": "They ___ friendly.",
+            "options": [
+              "are",
+              "have got",
+              "is"
+            ],
+            "answer": "are",
+            "explain": {
+              "ua": "Характер — через to be.",
+              "ru": "Характер — через to be."
+            },
+            "id": "a1-u14-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Oleg is short.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Oleg has got glasses.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What is Oleg like?",
+              "options": [
+                "funny and kind",
+                "lazy and shy",
+                "calm and shy"
+              ],
+              "answer": "funny and kind"
+            }
+          ],
+          "text": "My best friend is Oleg. He's tall and he's got short dark hair and brown eyes. He's got glasses too. Oleg is very funny and kind. He's a bit lazy, but he's very clever!",
+          "explain": {
+            "ua": "Oleg — tall, dark hair, brown eyes, glasses, funny and kind.",
+            "ru": "Oleg — tall, dark hair, brown eyes, glasses, funny and kind."
+          },
+          "id": "a1-u14-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "tall",
+            "glasses",
+            "funny",
+            "lazy",
+            "clever"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Oleg is ___.",
+            "He's got ___.",
+            "He's very ___ and kind.",
+            "He's a bit ___.",
+            "But he's very ___."
+          ],
+          "answers": [
+            "tall",
+            "glasses",
+            "funny",
+            "lazy",
+            "clever"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u14-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "What's he like?",
+              "right": {
+                "ua": "Який він (характер)?",
+                "ru": "Какой он (характер)?"
+              }
+            },
+            {
+              "left": "What does he look like?",
+              "right": {
+                "ua": "Як він виглядає?",
+                "ru": "Как он выглядит?"
+              }
+            },
+            {
+              "left": "a bit",
+              "right": {
+                "ua": "трохи",
+                "ru": "немного"
+              }
+            },
+            {
+              "left": "very",
+              "right": {
+                "ua": "дуже",
+                "ru": "очень"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази для опису.",
+            "ru": "Полезные фразы для описания."
+          },
+          "id": "a1-u14-l04-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Not old.",
+          "answer": "young",
+          "accept": [],
+          "explain": {
+            "ua": "Young — молодий.",
+            "ru": "Young — молодой."
+          },
+          "id": "a1-u14-l04-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "calm",
+          "answer": "quiet",
+          "accept": [
+            "relaxed"
+          ],
+          "explain": {
+            "ua": "Спокійний — тихий.",
+            "ru": "Спокойный — тихий."
+          },
+          "id": "a1-u14-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "He is a bit clever but very lazy.",
+          "answer": "He is a bit lazy but very clever.",
+          "accept": [],
+          "explain": {
+            "ua": "За текстом: трохи лінивий, дуже розумний.",
+            "ru": "По тексту: немного ленивый, очень умный."
+          },
+          "id": "a1-u14-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She's got brown eyes.",
+          "options": [
+            "She's got brown eyes.",
+            "She's got blue eyes.",
+            "She's got brown hair."
+          ],
+          "answer": "She's got brown eyes.",
+          "audio": "",
+          "explain": {
+            "ua": "Brown — карі.",
+            "ru": "Brown — карие."
+          },
+          "id": "a1-u14-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій дідусь спокійний і добрий.",
+            "ru": "Мой дедушка спокойный и добрый."
+          },
+          "answer": "My grandfather is calm and kind.",
+          "accept": [
+            "My grandpa is calm and kind."
+          ],
+          "explain": {
+            "ua": "Is calm and kind.",
+            "ru": "Is calm and kind."
+          },
+          "id": "a1-u14-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u14-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u14-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: мій найкращий друг",
+          "ru": "Вспомним: В контексте: мой лучший друг"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Not old.",
+            "answer": "young",
+            "accept": [],
+            "explain": {
+              "ua": "Young — молодий.",
+              "ru": "Young — молодой."
+            },
+            "id": "a1-u14-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "He is a bit clever but very lazy.",
+            "answer": "He is a bit lazy but very clever.",
+            "accept": [],
+            "explain": {
+              "ua": "За текстом: трохи лінивий, дуже розумний.",
+              "ru": "По тексту: немного ленивый, очень умный."
+            },
+            "id": "a1-u14-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "clever",
+              "right": {
+                "ua": "розумний",
+                "ru": "умный"
+              }
+            },
+            {
+              "left": "calm",
+              "right": {
+                "ua": "спокійний",
+                "ru": "спокойный"
+              }
+            },
+            {
+              "left": "beard",
+              "right": {
+                "ua": "борода",
+                "ru": "борода"
+              }
+            },
+            {
+              "left": "glasses",
+              "right": {
+                "ua": "окуляри",
+                "ru": "очки"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u14-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is about character?",
+          "options": [
+            "friendly",
+            "tall",
+            "blond"
+          ],
+          "answer": "friendly",
+          "explain": {
+            "ua": "Friendly — характер.",
+            "ru": "Friendly — характер."
+          },
+          "id": "a1-u14-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is about appearance?",
+          "options": [
+            "short",
+            "lazy",
+            "kind"
+          ],
+          "answer": "short",
+          "explain": {
+            "ua": "Short — зовнішність.",
+            "ru": "Short — внешность."
+          },
+          "id": "a1-u14-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Not tall.",
+          "answer": "short",
+          "accept": [],
+          "explain": {
+            "ua": "Short — низький.",
+            "ru": "Short — низкий."
+          },
+          "id": "a1-u14-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "joke",
+          "answer": "funny",
+          "accept": [],
+          "explain": {
+            "ua": "Жарт → смішний.",
+            "ru": "Шутка → смешной."
+          },
+          "id": "a1-u14-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She's got blue hair and long eyes.",
+          "answer": "She's got long hair and blue eyes.",
+          "accept": [
+            "She has got long hair and blue eyes."
+          ],
+          "explain": {
+            "ua": "Волосся — довге, очі — блакитні.",
+            "ru": "Волосы — длинные, глаза — голубые."
+          },
+          "id": "a1-u14-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My neighbours are friend.",
+          "answer": "My neighbours are friendly.",
+          "accept": [],
+          "explain": {
+            "ua": "Прикметник — friendly.",
+            "ru": "Прилагательное — friendly."
+          },
+          "id": "a1-u14-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "He's a bit shy.",
+          "options": [
+            "He's a bit shy.",
+            "He's a bit sly.",
+            "He's very shy."
+          ],
+          "answer": "He's a bit shy.",
+          "audio": "",
+          "explain": {
+            "ua": "A bit — трохи.",
+            "ru": "A bit — немного."
+          },
+          "id": "a1-u14-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "have-got",
+          "prompt": {
+            "ua": "У мого тата борода й окуляри.",
+            "ru": "У моего папы борода и очки."
+          },
+          "answer": "My dad has got a beard and glasses.",
+          "accept": [
+            "My dad's got a beard and glasses.",
+            "My father has got a beard and glasses.",
+            "My dad has a beard and glasses."
+          ],
+          "explain": {
+            "ua": "Has got a beard and glasses.",
+            "ru": "Has got a beard and glasses."
+          },
+          "id": "a1-u14-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я трохи сором'язлива.",
+            "ru": "Я немного застенчивая."
+          },
+          "answer": "I'm a bit shy.",
+          "accept": [
+            "I am a bit shy."
+          ],
+          "explain": {
+            "ua": "A bit shy.",
+            "ru": "A bit shy."
+          },
+          "id": "a1-u14-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Tall ↔ ___",
+      "options": [
+        "short",
+        "young",
+        "long"
+      ],
+      "answer": "short",
+      "explain": {
+        "ua": "Tall ↔ short.",
+        "ru": "Tall ↔ short."
+      },
+      "id": "a1-u14-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "She ___ long hair.",
+      "options": [
+        "has got",
+        "is",
+        "have got"
+      ],
+      "answer": "has got",
+      "explain": {
+        "ua": "Волосся — has got.",
+        "ru": "Волосы — has got."
+      },
+      "id": "a1-u14-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "to-be-forms",
+      "question": "He ___ very funny.",
+      "options": [
+        "is",
+        "has got",
+        "have"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "Характер — is.",
+        "ru": "Характер — is."
+      },
+      "id": "a1-u14-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "He doesn't like to work.",
+      "answer": "lazy",
+      "accept": [],
+      "explain": {
+        "ua": "Lazy.",
+        "ru": "Lazy."
+      },
+      "id": "a1-u14-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "She helps everybody.",
+      "answer": "kind",
+      "accept": [
+        "friendly"
+      ],
+      "explain": {
+        "ua": "Kind.",
+        "ru": "Kind."
+      },
+      "id": "a1-u14-cp05"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Hair on a man's face.",
+      "answer": "beard",
+      "accept": [
+        "a beard"
+      ],
+      "explain": {
+        "ua": "Beard.",
+        "ru": "Beard."
+      },
+      "id": "a1-u14-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "eyes",
+          "right": {
+            "ua": "очі",
+            "ru": "глаза"
+          }
+        },
+        {
+          "left": "shy",
+          "right": {
+            "ua": "сором'язливий",
+            "ru": "застенчивый"
+          }
+        },
+        {
+          "left": "young",
+          "right": {
+            "ua": "молодий",
+            "ru": "молодой"
+          }
+        },
+        {
+          "left": "dark",
+          "right": {
+            "ua": "темний",
+            "ru": "тёмный"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u14-cp07"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "is",
+        "has got"
+      ],
+      "reuse": true,
+      "sentences": [
+        "Max ___ tall.",
+        "Max ___ green eyes.",
+        "Max ___ clever."
+      ],
+      "answers": [
+        "is",
+        "has got",
+        "is"
+      ],
+      "explain": {
+        "ua": "Який? → is. Має? → has got.",
+        "ru": "Какой? → is. Имеет? → has got."
+      },
+      "id": "a1-u14-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "She has a long blond hair.",
+      "answer": "She has long blond hair.",
+      "accept": [
+        "She's got long blond hair.",
+        "She has got long blond hair."
+      ],
+      "explain": {
+        "ua": "Hair — без a.",
+        "ru": "Hair — без a."
+      },
+      "id": "a1-u14-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "and",
+        "calm",
+        "My",
+        "kind",
+        "mum",
+        "is"
+      ],
+      "answer": "My mum is calm and kind",
+      "explain": {
+        "ua": "My mum → is → calm and kind.",
+        "ru": "My mum → is → calm and kind."
+      },
+      "id": "a1-u14-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "have-got",
+      "prompt": {
+        "ua": "У нього блакитні очі.",
+        "ru": "У него голубые глаза."
+      },
+      "answer": "He has got blue eyes.",
+      "accept": [
+        "He's got blue eyes.",
+        "He has blue eyes."
+      ],
+      "explain": {
+        "ua": "Has got blue eyes.",
+        "ru": "Has got blue eyes."
+      },
+      "id": "a1-u14-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "My grandmother is very kind.",
+      "options": [
+        "My grandmother is very kind.",
+        "My grandmother is very kid.",
+        "My grandfather is very kind."
+      ],
+      "answer": "My grandmother is very kind.",
+      "audio": "",
+      "explain": {
+        "ua": "Kind — «кайнд».",
+        "ru": "Kind — «кайнд»."
+      },
+      "id": "a1-u14-cp12"
+    }
+  ]
+}

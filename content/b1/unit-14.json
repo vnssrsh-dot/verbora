@@ -1,0 +1,985 @@
+{
+  "id": "b1-u14",
+  "level": "B1",
+  "order": 14,
+  "kind": "grammar",
+  "title": {
+    "en": "Reported speech: basics",
+    "ua": "Непряма мова: основи",
+    "ru": "Косвенная речь: основы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "He said (that)… — час «зсувається» на крок у минуле: is → was, will → would, can → could",
+      "ru": "He said (that)… — время «сдвигается» на шаг в прошлое: is → was, will → would, can → could"
+    },
+    "explain": {
+      "ua": "Переказуємо чужі слова: «I'm tired» → She said (that) she was tired. Займенники теж змінюються: I → she, my → her.",
+      "ru": "Пересказываем чужие слова: «I'm tired» → She said (that) she was tired. Местоимения тоже меняются: I → she, my → her."
+    },
+    "examples": [
+      {
+        "en": "'I'm busy.' → He said he was busy.",
+        "ua": "«Я зайнятий» → Він сказав, що зайнятий.",
+        "ru": "«Я занят» → Он сказал, что занят."
+      },
+      {
+        "en": "'I'll call you.' → She said she would call me.",
+        "ua": "«Я тобі подзвоню» → Вона сказала, що подзвонить.",
+        "ru": "«Я тебе позвоню» → Она сказала, что позвонит."
+      },
+      {
+        "en": "'I can swim.' → He told me he could swim.",
+        "ua": "«Я вмію плавати» → Він сказав, що вміє плавати.",
+        "ru": "«Я умею плавать» → Он сказал, что умеет плавать."
+      }
+    ],
+    "compare": {
+      "ua": "В українській час не змінюється: «сказав, що втомлений». В англійській після said — крок назад: said he was tired.",
+      "ru": "В русском время не меняется: «сказал, что устал». В английском после said — шаг назад: said he was tired."
+    }
+  },
+  "vocab": [
+    {
+      "word": "say → said",
+      "ipa": "/sed/",
+      "ua": "казати → сказав",
+      "ru": "говорить → сказал",
+      "example": "She said she was tired.",
+      "audio": ""
+    },
+    {
+      "word": "tell → told",
+      "ipa": "/təʊld/",
+      "ua": "казати (комусь) → сказав",
+      "ru": "говорить (кому-то) → сказал",
+      "example": "He told me he was busy.",
+      "audio": ""
+    },
+    {
+      "word": "explain",
+      "ipa": "/ɪkˈspleɪn/",
+      "ua": "пояснювати",
+      "ru": "объяснять",
+      "example": "She explained that…",
+      "audio": ""
+    },
+    {
+      "word": "mention",
+      "ipa": "/ˈmenʃn/",
+      "ua": "згадувати",
+      "ru": "упоминать",
+      "example": "He mentioned that…",
+      "audio": ""
+    },
+    {
+      "word": "reply",
+      "ipa": "/rɪˈplaɪ/",
+      "ua": "відповідати",
+      "ru": "отвечать",
+      "example": "She replied that…",
+      "audio": ""
+    },
+    {
+      "word": "that",
+      "ipa": "/ðæt/",
+      "ua": "що (сполучник)",
+      "ru": "что (союз)",
+      "example": "He said that…",
+      "audio": ""
+    },
+    {
+      "word": "the day before",
+      "ipa": "/ðə deɪ bɪˈfɔː/",
+      "ua": "напередодні",
+      "ru": "накануне",
+      "example": "yesterday → the day before",
+      "audio": ""
+    },
+    {
+      "word": "the next day",
+      "ipa": "/ðə nekst deɪ/",
+      "ua": "наступного дня",
+      "ru": "на следующий день",
+      "example": "tomorrow → the next day",
+      "audio": ""
+    },
+    {
+      "word": "then",
+      "ipa": "/ðen/",
+      "ua": "тоді",
+      "ru": "тогда",
+      "example": "now → then",
+      "audio": ""
+    },
+    {
+      "word": "there",
+      "ipa": "/ðeə/",
+      "ua": "там",
+      "ru": "там",
+      "example": "here → there",
+      "audio": ""
+    },
+    {
+      "word": "gossip",
+      "ipa": "/ˈɡɒsɪp/",
+      "ua": "плітки",
+      "ru": "сплетни",
+      "example": "Have you heard the gossip?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u14-l01",
+      "title": {
+        "en": "Statements",
+        "ua": "Твердження",
+        "ru": "Утверждения"
+      },
+      "recap": {
+        "from": "b1-u13-l03",
+        "note": {
+          "ua": "Згадаймо: stop doing (кинути) ≠ stop to do (зупинитися, щоб) · remember doing (пам'ятаю, що робив) ≠ remember to do (не забути зробити)",
+          "ru": "Вспомним: stop doing (бросить) ≠ stop to do (остановиться, чтобы) · remember doing (помню, что делал) ≠ remember to do (не забыть сделать)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "verb-pattern-meaning",
+            "question": "He stopped ___ . He doesn't smoke now.",
+            "options": [
+              "smoking",
+              "to smoke",
+              "smoke"
+            ],
+            "answer": "smoking",
+            "explain": {
+              "ua": "Кинув → stop + -ing.",
+              "ru": "Бросил → stop + -ing."
+            },
+            "id": "b1-u14-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "verb-pattern-meaning",
+            "question": "The laptop doesn't work? Try ___ it off and on again.",
+            "options": [
+              "turning",
+              "to turn",
+              "turn"
+            ],
+            "answer": "turning",
+            "explain": {
+              "ua": "Спробуй як варіант → -ing.",
+              "ru": "Попробуй как вариант → -ing."
+            },
+            "id": "b1-u14-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "She said (that) + речення з займенником, зміненим на «її / його»",
+          "ru": "She said (that) + предложение с местоимением, изменённым на «её / его»"
+        },
+        "explain": {
+          "ua": "That можна пропустити: He said (that) he liked it. Займенники — з погляду того, хто переказує: «I love my job» → She said she loved her job.",
+          "ru": "That можно опустить: He said (that) he liked it. Местоимения — с точки зрения того, кто пересказывает: «I love my job» → She said she loved her job."
+        },
+        "examples": [
+          {
+            "en": "'I like pizza.' → He said he liked pizza.",
+            "ua": "«Я люблю піцу» → Він сказав, що любить піцу.",
+            "ru": "«Я люблю пиццу» → Он сказал, что любит пиццу."
+          },
+          {
+            "en": "'I'm hungry.' → She said she was hungry.",
+            "ua": "«Я голодна» → Вона сказала, що голодна.",
+            "ru": "«Я голодна» → Она сказала, что голодна."
+          },
+          {
+            "en": "'We live in Kyiv.' → They said they lived in Kyiv.",
+            "ua": "«Ми живемо в Києві» → Вони сказали, що живуть у Києві.",
+            "ru": "«Мы живём в Киеве» → Они сказали, что живут в Киеве."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "reported-statements",
+          "question": "'I'm tired.' → She said she ___ tired.",
+          "options": [
+            "was",
+            "is",
+            "were"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Is → was.",
+            "ru": "Is → was."
+          },
+          "id": "b1-u14-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-statements",
+          "question": "'I like my job.' → He said he ___ his job.",
+          "options": [
+            "liked",
+            "likes",
+            "like"
+          ],
+          "answer": "liked",
+          "explain": {
+            "ua": "Like → liked.",
+            "ru": "Like → liked."
+          },
+          "id": "b1-u14-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-statements",
+          "question": "'I love my dog.' → She said she loved ___ dog.",
+          "options": [
+            "her",
+            "my",
+            "his"
+          ],
+          "answer": "her",
+          "explain": {
+            "ua": "My → her.",
+            "ru": "My → her."
+          },
+          "id": "b1-u14-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-statements",
+          "question": "'We are ready.' → They said they ___ ready.",
+          "options": [
+            "were",
+            "are",
+            "was"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Are → were.",
+            "ru": "Are → were."
+          },
+          "id": "b1-u14-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "reported-statements",
+          "question": "'I work in a bank.' → He said he ___ in a bank.",
+          "answer": "worked",
+          "accept": [],
+          "explain": {
+            "ua": "Work → worked.",
+            "ru": "Work → worked."
+          },
+          "id": "b1-u14-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-statements",
+          "sentence": "She said she is busy.",
+          "answer": "She said she was busy.",
+          "accept": [],
+          "explain": {
+            "ua": "Після said — крок назад.",
+            "ru": "После said — шаг назад."
+          },
+          "id": "b1-u14-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "say-tell",
+          "sentence": "He said me he was tired.",
+          "answer": "He told me he was tired.",
+          "accept": [
+            "He said he was tired."
+          ],
+          "explain": {
+            "ua": "Комусь — told me.",
+            "ru": "Кому-то — told me."
+          },
+          "id": "b1-u14-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "reported-statements",
+          "audio_text": "She said she was hungry.",
+          "options": [
+            "She said she was hungry.",
+            "She said she is hungry.",
+            "She said she was angry."
+          ],
+          "answer": "She said she was hungry.",
+          "audio": "",
+          "explain": {
+            "ua": "Was hungry.",
+            "ru": "Was hungry."
+          },
+          "id": "b1-u14-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "reported-statements",
+          "prompt": {
+            "ua": "Він сказав, що голодний.",
+            "ru": "Он сказал, что голоден."
+          },
+          "answer": "He said he was hungry.",
+          "accept": [
+            "He said that he was hungry."
+          ],
+          "explain": {
+            "ua": "Said + was.",
+            "ru": "Said + was."
+          },
+          "id": "b1-u14-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u14-l02",
+      "title": {
+        "en": "Tense changes",
+        "ua": "Зсув часів",
+        "ru": "Сдвиг времён"
+      },
+      "recap": {
+        "from": "b1-u14-l01",
+        "note": {
+          "ua": "Згадаймо: She said (that) + речення з займенником, зміненим на «її / його»",
+          "ru": "Вспомним: She said (that) + предложение с местоимением, изменённым на «её / его»"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "reported-statements",
+            "question": "'I'm tired.' → She said she ___ tired.",
+            "options": [
+              "was",
+              "is",
+              "were"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "Is → was.",
+              "ru": "Is → was."
+            },
+            "id": "b1-u14-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "reported-statements",
+            "question": "'I work in a bank.' → He said he ___ in a bank.",
+            "answer": "worked",
+            "accept": [],
+            "explain": {
+              "ua": "Work → worked.",
+              "ru": "Work → worked."
+            },
+            "id": "b1-u14-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "am / is → was · are → were · do → did · will → would · can → could · have done → had done · did → had done",
+        "explain": {
+          "ua": "Кожен час робить крок назад. Також змінюються слова часу й місця: today → that day, tomorrow → the next day, yesterday → the day before, here → there.",
+          "ru": "Каждое время делает шаг назад. Также меняются слова времени и места: today → that day, tomorrow → the next day, yesterday → the day before, here → there."
+        },
+        "examples": [
+          {
+            "en": "'I will help you.' → He said he would help me.",
+            "ua": "«Я тобі допоможу» → Він сказав, що допоможе.",
+            "ru": "«Я тебе помогу» → Он сказал, что поможет."
+          },
+          {
+            "en": "'I can't come.' → She said she couldn't come.",
+            "ua": "«Я не можу прийти» → Вона сказала, що не може прийти.",
+            "ru": "«Я не могу прийти» → Она сказала, что не может прийти."
+          },
+          {
+            "en": "'I've lost my keys.' → He said he had lost his keys.",
+            "ua": "«Я загубив ключі» → Він сказав, що загубив ключі.",
+            "ru": "«Я потерял ключи» → Он сказал, что потерял ключи."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "reported-tenses",
+          "question": "'I will call you.' → He said he ___ call me.",
+          "options": [
+            "would",
+            "will",
+            "can"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Will → would.",
+            "ru": "Will → would."
+          },
+          "id": "b1-u14-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-tenses",
+          "question": "'I can drive.' → She said she ___ drive.",
+          "options": [
+            "could",
+            "can",
+            "would"
+          ],
+          "answer": "could",
+          "explain": {
+            "ua": "Can → could.",
+            "ru": "Can → could."
+          },
+          "id": "b1-u14-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-tenses",
+          "question": "'I'm working.' → He said he ___ working.",
+          "options": [
+            "was",
+            "is",
+            "were"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Am working → was working.",
+            "ru": "Am working → was working."
+          },
+          "id": "b1-u14-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-tenses",
+          "question": "'I've finished.' → She said she ___ finished.",
+          "options": [
+            "had",
+            "has",
+            "have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Have finished → had finished.",
+            "ru": "Have finished → had finished."
+          },
+          "id": "b1-u14-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-tenses",
+          "question": "'I'll see you tomorrow.' → He said he would see me ___ .",
+          "options": [
+            "the next day",
+            "tomorrow",
+            "yesterday"
+          ],
+          "answer": "the next day",
+          "explain": {
+            "ua": "Tomorrow → the next day.",
+            "ru": "Tomorrow → the next day."
+          },
+          "id": "b1-u14-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "reported-tenses",
+          "pairs": [
+            {
+              "left": "am / is",
+              "right": "was"
+            },
+            {
+              "left": "will",
+              "right": "would"
+            },
+            {
+              "left": "can",
+              "right": "could"
+            },
+            {
+              "left": "have done",
+              "right": "had done"
+            }
+          ],
+          "explain": {
+            "ua": "Крок назад.",
+            "ru": "Шаг назад."
+          },
+          "id": "b1-u14-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-tenses",
+          "sentence": "He said he will come.",
+          "answer": "He said he would come.",
+          "accept": [],
+          "explain": {
+            "ua": "Will → would.",
+            "ru": "Will → would."
+          },
+          "id": "b1-u14-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-tenses",
+          "sentence": "She said she can't swim.",
+          "answer": "She said she couldn't swim.",
+          "accept": [],
+          "explain": {
+            "ua": "Can't → couldn't.",
+            "ru": "Can't → couldn't."
+          },
+          "id": "b1-u14-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "reported-tenses",
+          "prompt": {
+            "ua": "Вона сказала, що подзвонить завтра.",
+            "ru": "Она сказала, что позвонит завтра."
+          },
+          "answer": "She said she would call the next day.",
+          "accept": [
+            "She said she would call tomorrow.",
+            "She said that she would call the next day.",
+            "She said she'd call the next day.",
+            "She said she'd call tomorrow."
+          ],
+          "explain": {
+            "ua": "Will → would.",
+            "ru": "Will → would."
+          },
+          "id": "b1-u14-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u14-l03",
+      "title": {
+        "en": "say or tell",
+        "ua": "say чи tell",
+        "ru": "say или tell"
+      },
+      "recap": {
+        "from": "b1-u14-l02",
+        "note": {
+          "ua": "Згадаймо: am / is → was · are → were · do → did · will → would · can → could · have done → had done · did → had done",
+          "ru": "Вспомним: am / is → was · are → were · do → did · will → would · can → could · have done → had done · did → had done"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "reported-tenses",
+            "question": "'I will call you.' → He said he ___ call me.",
+            "options": [
+              "would",
+              "will",
+              "can"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Will → would.",
+              "ru": "Will → would."
+            },
+            "id": "b1-u14-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "reported-tenses",
+            "question": "'I'll see you tomorrow.' → He said he would see me ___ .",
+            "options": [
+              "the next day",
+              "tomorrow",
+              "yesterday"
+            ],
+            "answer": "the next day",
+            "explain": {
+              "ua": "Tomorrow → the next day.",
+              "ru": "Tomorrow → the next day."
+            },
+            "id": "b1-u14-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "say (something) · say to someone · tell SOMEONE (something)",
+          "ru": "say (something) · say to someone · tell SOMEONE (something)"
+        },
+        "explain": {
+          "ua": "Tell — обов'язково з тим, кому: She told me… He told us… Say — без «кому» (або say to me). Не можна: said me, told that.",
+          "ru": "Tell — обязательно с тем, кому: She told me… He told us… Say — без «кому» (или say to me). Нельзя: said me, told that."
+        },
+        "examples": [
+          {
+            "en": "She said she was late.",
+            "ua": "Вона сказала, що запізнюється.",
+            "ru": "Она сказала, что опаздывает."
+          },
+          {
+            "en": "She told me she was late.",
+            "ua": "Вона сказала мені, що запізнюється.",
+            "ru": "Она сказала мне, что опаздывает."
+          },
+          {
+            "en": "He told us a funny story.",
+            "ua": "Він розповів нам смішну історію.",
+            "ru": "Он рассказал нам смешную историю."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "say-tell",
+          "question": "He ___ me he was tired.",
+          "options": [
+            "told",
+            "said",
+            "say"
+          ],
+          "answer": "told",
+          "explain": {
+            "ua": "Комусь → told me.",
+            "ru": "Кому-то → told me."
+          },
+          "id": "b1-u14-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "say-tell",
+          "question": "She ___ she didn't know.",
+          "options": [
+            "said",
+            "told",
+            "tell"
+          ],
+          "answer": "said",
+          "explain": {
+            "ua": "Без «кому» → said.",
+            "ru": "Без «кому» → said."
+          },
+          "id": "b1-u14-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "say-tell",
+          "question": "Can you ___ me the time?",
+          "options": [
+            "tell",
+            "say",
+            "speak"
+          ],
+          "answer": "tell",
+          "explain": {
+            "ua": "Tell me.",
+            "ru": "Tell me."
+          },
+          "id": "b1-u14-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "say-tell",
+          "question": "He ___ 'hello' to everyone.",
+          "options": [
+            "said",
+            "told",
+            "talked"
+          ],
+          "answer": "said",
+          "explain": {
+            "ua": "Say hello.",
+            "ru": "Say hello."
+          },
+          "id": "b1-u14-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "say-tell",
+          "question": "Grandma ___ us a story.",
+          "options": [
+            "told",
+            "said",
+            "spoke"
+          ],
+          "answer": "told",
+          "explain": {
+            "ua": "Tell a story.",
+            "ru": "Tell a story."
+          },
+          "id": "b1-u14-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "say-tell",
+          "bank": [
+            "said",
+            "told"
+          ],
+          "reuse": true,
+          "sentences": [
+            "She ___ me the truth.",
+            "He ___ he was sorry.",
+            "They ___ us about the trip.",
+            "I ___ goodbye."
+          ],
+          "answers": [
+            "told",
+            "said",
+            "told",
+            "said"
+          ],
+          "explain": {
+            "ua": "Tell + кому; say — без «кому».",
+            "ru": "Tell + кому; say — без «кому»."
+          },
+          "id": "b1-u14-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "say-tell",
+          "sentence": "She said me that she was ill.",
+          "answer": "She told me that she was ill.",
+          "accept": [
+            "She said that she was ill.",
+            "She told me she was ill."
+          ],
+          "explain": {
+            "ua": "Told me.",
+            "ru": "Told me."
+          },
+          "id": "b1-u14-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "say-tell",
+          "sentence": "He told that he was busy.",
+          "answer": "He said that he was busy.",
+          "accept": [
+            "He said he was busy.",
+            "He told me that he was busy."
+          ],
+          "explain": {
+            "ua": "Без «кому» → said.",
+            "ru": "Без «кому» → said."
+          },
+          "id": "b1-u14-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "say-tell",
+          "prompt": {
+            "ua": "Він сказав мені правду.",
+            "ru": "Он сказал мне правду."
+          },
+          "answer": "He told me the truth.",
+          "accept": [],
+          "explain": {
+            "ua": "Tell the truth.",
+            "ru": "Tell the truth."
+          },
+          "id": "b1-u14-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "reported-statements",
+      "question": "'I'm happy.' → She said she ___ happy.",
+      "options": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": "was",
+      "explain": {
+        "ua": "Is → was.",
+        "ru": "Is → was."
+      },
+      "id": "b1-u14-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "reported-tenses",
+      "question": "'I will help.' → He said he ___ help.",
+      "options": [
+        "would",
+        "will",
+        "can"
+      ],
+      "answer": "would",
+      "explain": {
+        "ua": "Will → would.",
+        "ru": "Will → would."
+      },
+      "id": "b1-u14-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "reported-tenses",
+      "question": "'I can't come.' → She said she ___ come.",
+      "options": [
+        "couldn't",
+        "can't",
+        "wouldn't"
+      ],
+      "answer": "couldn't",
+      "explain": {
+        "ua": "Can't → couldn't.",
+        "ru": "Can't → couldn't."
+      },
+      "id": "b1-u14-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "say-tell",
+      "question": "He ___ me he was sorry.",
+      "options": [
+        "told",
+        "said",
+        "say"
+      ],
+      "answer": "told",
+      "explain": {
+        "ua": "Told me.",
+        "ru": "Told me."
+      },
+      "id": "b1-u14-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "say-tell",
+      "question": "She ___ she was leaving.",
+      "options": [
+        "said",
+        "told",
+        "tell"
+      ],
+      "answer": "said",
+      "explain": {
+        "ua": "Said.",
+        "ru": "Said."
+      },
+      "id": "b1-u14-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "reported-tenses",
+      "question": "'I've lost my phone.' → He said he ___ lost his phone.",
+      "answer": "had",
+      "accept": [],
+      "explain": {
+        "ua": "Have → had.",
+        "ru": "Have → had."
+      },
+      "id": "b1-u14-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "reported-statements",
+      "question": "'I love my job.' → She said she loved ___ job.",
+      "answer": "her",
+      "accept": [],
+      "explain": {
+        "ua": "My → her.",
+        "ru": "My → her."
+      },
+      "id": "b1-u14-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "say-tell",
+      "sentence": "He said me he was busy.",
+      "answer": "He told me he was busy.",
+      "accept": [
+        "He said he was busy."
+      ],
+      "explain": {
+        "ua": "Told me.",
+        "ru": "Told me."
+      },
+      "id": "b1-u14-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "reported-tenses",
+      "sentence": "She said she will call.",
+      "answer": "She said she would call.",
+      "accept": [
+        "She said she'd call."
+      ],
+      "explain": {
+        "ua": "Will → would.",
+        "ru": "Will → would."
+      },
+      "id": "b1-u14-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "say-tell",
+      "words": [
+        "told",
+        "She",
+        "was",
+        "tired",
+        "me",
+        "she"
+      ],
+      "answer": "She told me she was tired",
+      "explain": {
+        "ua": "She told me → she was tired.",
+        "ru": "She told me → she was tired."
+      },
+      "id": "b1-u14-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "reported-statements",
+      "prompt": {
+        "ua": "Вони сказали, що живуть у Львові.",
+        "ru": "Они сказали, что живут во Львове."
+      },
+      "answer": "They said they lived in Lviv.",
+      "accept": [
+        "They said that they lived in Lviv."
+      ],
+      "explain": {
+        "ua": "Live → lived.",
+        "ru": "Live → lived."
+      },
+      "id": "b1-u14-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "say-tell",
+      "audio_text": "He told us a funny story.",
+      "options": [
+        "He told us a funny story.",
+        "He said us a funny story.",
+        "He told us a funny stone."
+      ],
+      "answer": "He told us a funny story.",
+      "audio": "",
+      "explain": {
+        "ua": "Told us.",
+        "ru": "Told us."
+      },
+      "id": "b1-u14-cp12"
+    }
+  ]
+}

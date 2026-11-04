@@ -1,0 +1,1023 @@
+{
+  "id": "a2-u07",
+  "level": "A2",
+  "order": 7,
+  "kind": "grammar",
+  "title": {
+    "en": "Much, many, a lot of, a few, a little",
+    "ua": "Much, many, a lot of, a few, a little",
+    "ru": "Much, many, a lot of, a few, a little"
+  },
+  "rule": {
+    "formula": {
+      "ua": "many + злічувані · much + незлічувані · a lot of — для всіх · a few / a little — трохи",
+      "ru": "many + исчисляемые · much + неисчисляемые · a lot of — для всех · a few / a little — немного"
+    },
+    "explain": {
+      "ua": "Злічувані — те, що можна порахувати (apples, friends): many, a few. Незлічувані (water, money, time): much, a little. A lot of — для обох. Much і many частіше в питаннях і запереченнях.",
+      "ru": "Исчисляемые — то, что можно посчитать (apples, friends): many, a few. Неисчисляемые (water, money, time): much, a little. A lot of — для обоих. Much и many чаще в вопросах и отрицаниях."
+    },
+    "examples": [
+      {
+        "en": "I haven't got many friends here.",
+        "ua": "У мене тут небагато друзів.",
+        "ru": "У меня здесь немного друзей."
+      },
+      {
+        "en": "We don't have much time.",
+        "ua": "У нас мало часу.",
+        "ru": "У нас мало времени."
+      },
+      {
+        "en": "She drinks a lot of water.",
+        "ua": "Вона п'є багато води.",
+        "ru": "Она пьёт много воды."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "a lot of",
+      "ipa": "/ə ˈlɒt əv/",
+      "ua": "багато",
+      "ru": "много",
+      "example": "a lot of people",
+      "audio": ""
+    },
+    {
+      "word": "many",
+      "ipa": "/ˈmeni/",
+      "ua": "багато (злічуваних)",
+      "ru": "много (исчисляемых)",
+      "example": "not many cars",
+      "audio": ""
+    },
+    {
+      "word": "much",
+      "ipa": "/mʌtʃ/",
+      "ua": "багато (незлічуваних)",
+      "ru": "много (неисчисляемых)",
+      "example": "not much money",
+      "audio": ""
+    },
+    {
+      "word": "a few",
+      "ipa": "/ə ˈfjuː/",
+      "ua": "кілька",
+      "ru": "несколько",
+      "example": "a few days",
+      "audio": ""
+    },
+    {
+      "word": "a little",
+      "ipa": "/ə ˈlɪtl/",
+      "ua": "трохи",
+      "ru": "немного",
+      "example": "a little milk",
+      "audio": ""
+    },
+    {
+      "word": "How many",
+      "ipa": "/ˌhaʊ ˈmeni/",
+      "ua": "скільки (злічуваних)",
+      "ru": "сколько (исчисляемых)",
+      "example": "How many eggs?",
+      "audio": ""
+    },
+    {
+      "word": "How much",
+      "ipa": "/ˌhaʊ ˈmʌtʃ/",
+      "ua": "скільки (незлічуваних, ціна)",
+      "ru": "сколько (неисчисляемых, цена)",
+      "example": "How much water? How much is it?",
+      "audio": ""
+    },
+    {
+      "word": "flour",
+      "ipa": "/ˈflaʊə/",
+      "ua": "борошно",
+      "ru": "мука",
+      "example": "a little flour",
+      "audio": ""
+    },
+    {
+      "word": "salt",
+      "ipa": "/sɔːlt/",
+      "ua": "сіль",
+      "ru": "соль",
+      "example": "Not much salt.",
+      "audio": ""
+    },
+    {
+      "word": "butter",
+      "ipa": "/ˈbʌtə/",
+      "ua": "вершкове масло",
+      "ru": "сливочное масло",
+      "example": "a lot of butter",
+      "audio": ""
+    },
+    {
+      "word": "homework",
+      "ipa": "/ˈhəʊmwɜːk/",
+      "ua": "домашнє завдання",
+      "ru": "домашнее задание",
+      "example": "too much homework",
+      "audio": ""
+    },
+    {
+      "word": "information",
+      "ipa": "/ˌɪnfəˈmeɪʃn/",
+      "ua": "інформація",
+      "ru": "информация",
+      "example": "much information",
+      "audio": ""
+    },
+    {
+      "word": "too much / too many",
+      "ipa": "/tuː mʌtʃ/",
+      "ua": "забагато",
+      "ru": "слишком много",
+      "example": "too many people",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u07-l01",
+      "title": {
+        "en": "much, many, a lot of",
+        "ua": "much, many, a lot of",
+        "ru": "much, many, a lot of"
+      },
+      "recap": {
+        "from": "a2-u06-l03",
+        "note": {
+          "ua": "Згадаймо: some- / any- / no- + thing (річ) · body (людина) · where (місце)",
+          "ru": "Вспомним: some- / any- / no- + thing (вещь) · body (человек) · where (место)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "some-any-compounds",
+            "question": "I'm hungry. I want ___ to eat.",
+            "options": [
+              "something",
+              "anything",
+              "nothing"
+            ],
+            "answer": "something",
+            "explain": {
+              "ua": "Ствердження → something.",
+              "ru": "Утверждение → something."
+            },
+            "id": "a2-u07-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "some-any-compounds",
+            "question": "There's ___ to park here. Let's go.",
+            "options": [
+              "nowhere",
+              "anywhere",
+              "somewhere"
+            ],
+            "answer": "nowhere",
+            "explain": {
+              "ua": "Ніде — nowhere.",
+              "ru": "Нигде — nowhere."
+            },
+            "id": "a2-u07-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "many + friends, apples · much + time, money, water · a lot of + будь-що",
+          "ru": "many + friends, apples · much + time, money, water · a lot of + что угодно"
+        },
+        "explain": {
+          "ua": "Питання: How many…? / How much…? Заперечення: not many / not much. Ствердження — найприродніше a lot of.",
+          "ru": "Вопрос: How many…? / How much…? Отрицание: not many / not much. Утверждение — естественнее всего a lot of."
+        },
+        "examples": [
+          {
+            "en": "How many people were there?",
+            "ua": "Скільки там було людей?",
+            "ru": "Сколько там было людей?"
+          },
+          {
+            "en": "I don't have much money.",
+            "ua": "У мене небагато грошей.",
+            "ru": "У меня немного денег."
+          },
+          {
+            "en": "There's a lot of traffic.",
+            "ua": "Багато машин (затор).",
+            "ru": "Много машин (пробка)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "How ___ eggs do we need?",
+          "options": [
+            "many",
+            "much",
+            "a lot"
+          ],
+          "answer": "many",
+          "explain": {
+            "ua": "Eggs — злічувані → many.",
+            "ru": "Eggs — исчисляемые → many."
+          },
+          "id": "a2-u07-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "How ___ water do you drink?",
+          "options": [
+            "much",
+            "many",
+            "few"
+          ],
+          "answer": "much",
+          "explain": {
+            "ua": "Water — незлічувана → much.",
+            "ru": "Water — неисчисляемая → much."
+          },
+          "id": "a2-u07-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "I don't have ___ time.",
+          "options": [
+            "much",
+            "many",
+            "a few"
+          ],
+          "answer": "much",
+          "explain": {
+            "ua": "Time → much.",
+            "ru": "Time → much."
+          },
+          "id": "a2-u07-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "There weren't ___ people at the party.",
+          "options": [
+            "many",
+            "much",
+            "a little"
+          ],
+          "answer": "many",
+          "explain": {
+            "ua": "People → many.",
+            "ru": "People → many."
+          },
+          "id": "a2-u07-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "She has ___ friends.",
+          "options": [
+            "a lot of",
+            "much",
+            "a lot"
+          ],
+          "answer": "a lot of",
+          "explain": {
+            "ua": "Ствердження → a lot of.",
+            "ru": "Утверждение → a lot of."
+          },
+          "id": "a2-u07-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "much-many",
+          "bank": [
+            "much",
+            "many"
+          ],
+          "reuse": true,
+          "sentences": [
+            "How ___ money?",
+            "How ___ apples?",
+            "How ___ milk?",
+            "How ___ children?"
+          ],
+          "answers": [
+            "much",
+            "many",
+            "much",
+            "many"
+          ],
+          "explain": {
+            "ua": "Незлічуване → much, злічуване → many.",
+            "ru": "Неисчисляемое → much, исчисляемое → many."
+          },
+          "id": "a2-u07-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "much-many",
+          "sentence": "How much people live here?",
+          "answer": "How many people live here?",
+          "accept": [],
+          "explain": {
+            "ua": "People → many.",
+            "ru": "People → many."
+          },
+          "id": "a2-u07-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "much-many",
+          "sentence": "I haven't got many money.",
+          "answer": "I haven't got much money.",
+          "accept": [
+            "I don't have much money."
+          ],
+          "explain": {
+            "ua": "Money → much.",
+            "ru": "Money → much."
+          },
+          "id": "a2-u07-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "much-many",
+          "prompt": {
+            "ua": "Скільки це коштує?",
+            "ru": "Сколько это стоит?"
+          },
+          "answer": "How much is it?",
+          "accept": [
+            "How much does it cost?",
+            "How much is this?"
+          ],
+          "explain": {
+            "ua": "Ціна — How much.",
+            "ru": "Цена — How much."
+          },
+          "id": "a2-u07-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u07-l02",
+      "title": {
+        "en": "a few, a little",
+        "ua": "a few, a little",
+        "ru": "a few, a little"
+      },
+      "recap": {
+        "from": "a2-u07-l01",
+        "note": {
+          "ua": "Згадаймо: many + friends, apples · much + time, money, water · a lot of + будь-що",
+          "ru": "Вспомним: many + friends, apples · much + time, money, water · a lot of + что угодно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "much-many",
+            "question": "How ___ eggs do we need?",
+            "options": [
+              "many",
+              "much",
+              "a lot"
+            ],
+            "answer": "many",
+            "explain": {
+              "ua": "Eggs — злічувані → many.",
+              "ru": "Eggs — исчисляемые → many."
+            },
+            "id": "a2-u07-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "much-many",
+            "question": "She has ___ friends.",
+            "options": [
+              "a lot of",
+              "much",
+              "a lot"
+            ],
+            "answer": "a lot of",
+            "explain": {
+              "ua": "Ствердження → a lot of.",
+              "ru": "Утверждение → a lot of."
+            },
+            "id": "a2-u07-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "a few + злічувані · a little + незлічувані = трохи, кілька",
+          "ru": "a few + исчисляемые · a little + неисчисляемые = немного, несколько"
+        },
+        "explain": {
+          "ua": "A few — кілька (a few days, a few friends). A little — трохи (a little sugar, a little time).",
+          "ru": "A few — несколько (a few days, a few friends). A little — немного (a little sugar, a little time)."
+        },
+        "examples": [
+          {
+            "en": "I need a few eggs.",
+            "ua": "Мені потрібно кілька яєць.",
+            "ru": "Мне нужно несколько яиц."
+          },
+          {
+            "en": "Add a little salt.",
+            "ua": "Додай трохи солі.",
+            "ru": "Добавь немного соли."
+          },
+          {
+            "en": "We stayed there a few days.",
+            "ua": "Ми пробули там кілька днів.",
+            "ru": "Мы пробыли там несколько дней."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "a-few-a-little",
+          "question": "Add ___ salt.",
+          "options": [
+            "a little",
+            "a few",
+            "many"
+          ],
+          "answer": "a little",
+          "explain": {
+            "ua": "Salt → a little.",
+            "ru": "Salt → a little."
+          },
+          "id": "a2-u07-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "a-few-a-little",
+          "question": "I'll be back in ___ minutes.",
+          "options": [
+            "a few",
+            "a little",
+            "much"
+          ],
+          "answer": "a few",
+          "explain": {
+            "ua": "Minutes → a few.",
+            "ru": "Minutes → a few."
+          },
+          "id": "a2-u07-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "a-few-a-little",
+          "question": "There's ___ milk left.",
+          "options": [
+            "a little",
+            "a few",
+            "many"
+          ],
+          "answer": "a little",
+          "explain": {
+            "ua": "Milk → a little.",
+            "ru": "Milk → a little."
+          },
+          "id": "a2-u07-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "a-few-a-little",
+          "question": "I have ___ questions.",
+          "options": [
+            "a few",
+            "a little",
+            "much"
+          ],
+          "answer": "a few",
+          "explain": {
+            "ua": "Questions → a few.",
+            "ru": "Questions → a few."
+          },
+          "id": "a2-u07-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "a-few-a-little",
+          "pairs": [
+            {
+              "left": "a few",
+              "right": "days"
+            },
+            {
+              "left": "a little",
+              "right": "butter"
+            },
+            {
+              "left": "many",
+              "right": "cars"
+            },
+            {
+              "left": "much",
+              "right": "information"
+            }
+          ],
+          "explain": {
+            "ua": "Що з чим.",
+            "ru": "Что с чем."
+          },
+          "id": "a2-u07-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "a-few-a-little",
+          "sentence": "Can I have a few water?",
+          "answer": "Can I have a little water?",
+          "accept": [
+            "Can I have some water?"
+          ],
+          "explain": {
+            "ua": "Water → a little.",
+            "ru": "Water → a little."
+          },
+          "id": "a2-u07-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "a-few-a-little",
+          "sentence": "We need a little eggs.",
+          "answer": "We need a few eggs.",
+          "accept": [
+            "We need some eggs."
+          ],
+          "explain": {
+            "ua": "Eggs → a few.",
+            "ru": "Eggs → a few."
+          },
+          "id": "a2-u07-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "a-few-a-little",
+          "audio_text": "Just a little, please.",
+          "options": [
+            "Just a little, please.",
+            "Just a few, please.",
+            "Just a litter, please."
+          ],
+          "answer": "Just a little, please.",
+          "audio": "",
+          "explain": {
+            "ua": "A little.",
+            "ru": "A little."
+          },
+          "id": "a2-u07-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "a-few-a-little",
+          "prompt": {
+            "ua": "Я говорю трохи англійською.",
+            "ru": "Я немного говорю по-английски."
+          },
+          "answer": "I speak a little English.",
+          "accept": [
+            "I can speak a little English."
+          ],
+          "explain": {
+            "ua": "A little English.",
+            "ru": "A little English."
+          },
+          "id": "a2-u07-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u07-l03",
+      "title": {
+        "en": "Practice: a recipe",
+        "ua": "Практика: рецепт",
+        "ru": "Практика: рецепт"
+      },
+      "recap": {
+        "from": "a2-u07-l02",
+        "note": {
+          "ua": "Згадаймо: a few + злічувані · a little + незлічувані = трохи, кілька",
+          "ru": "Вспомним: a few + исчисляемые · a little + неисчисляемые = немного, несколько"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "a-few-a-little",
+            "question": "Add ___ salt.",
+            "options": [
+              "a little",
+              "a few",
+              "many"
+            ],
+            "answer": "a little",
+            "explain": {
+              "ua": "Salt → a little.",
+              "ru": "Salt → a little."
+            },
+            "id": "a2-u07-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "a-few-a-little",
+            "question": "I have ___ questions.",
+            "options": [
+              "a few",
+              "a little",
+              "much"
+            ],
+            "answer": "a few",
+            "explain": {
+              "ua": "Questions → a few.",
+              "ru": "Questions → a few."
+            },
+            "id": "a2-u07-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "How ___ flour do we need?",
+          "options": [
+            "much",
+            "many",
+            "few"
+          ],
+          "answer": "much",
+          "explain": {
+            "ua": "Flour → much.",
+            "ru": "Flour → much."
+          },
+          "id": "a2-u07-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "We need ___ eggs — three or four.",
+          "options": [
+            "a few",
+            "a little",
+            "much"
+          ],
+          "answer": "a few",
+          "explain": {
+            "ua": "Eggs → a few.",
+            "ru": "Eggs → a few."
+          },
+          "id": "a2-u07-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "How many eggs do you need?",
+              "options": [
+                "two",
+                "five",
+                "ten"
+              ],
+              "answer": "two"
+            },
+            {
+              "type": "truefalse",
+              "statement": "You need a lot of sugar.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "You need a little salt.",
+              "answer": true
+            }
+          ],
+          "text": "Easy pancakes. You need: two eggs, a lot of milk (about 500 ml), 200 g of flour, a little sugar and a little salt. You don't need much butter — just a little for the pan. Mix everything and cook a few minutes on each side.",
+          "explain": {
+            "ua": "2 eggs, a little sugar, a little salt, a lot of milk.",
+            "ru": "2 eggs, a little sugar, a little salt, a lot of milk."
+          },
+          "id": "a2-u07-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "much-many",
+          "bank": [
+            "a lot of",
+            "a little",
+            "much",
+            "a few"
+          ],
+          "reuse": false,
+          "sentences": [
+            "You need ___ milk.",
+            "You need ___ sugar.",
+            "You don't need ___ butter.",
+            "Cook ___ minutes."
+          ],
+          "answers": [
+            "a lot of",
+            "a little",
+            "much",
+            "a few"
+          ],
+          "explain": {
+            "ua": "Перечитай рецепт.",
+            "ru": "Перечитай рецепт."
+          },
+          "id": "a2-u07-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "much-many",
+          "question": "There are too ___ people here!",
+          "options": [
+            "many",
+            "much",
+            "a lot"
+          ],
+          "answer": "many",
+          "explain": {
+            "ua": "Too many + злічувані.",
+            "ru": "Too many + исчисляемые."
+          },
+          "id": "a2-u07-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "much-many",
+          "sentence": "There is too many salt.",
+          "answer": "There is too much salt.",
+          "accept": [
+            "There's too much salt."
+          ],
+          "explain": {
+            "ua": "Salt → too much.",
+            "ru": "Salt → too much."
+          },
+          "id": "a2-u07-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "much-many",
+          "sentence": "I have a lot homework.",
+          "answer": "I have a lot of homework.",
+          "accept": [
+            "I've got a lot of homework."
+          ],
+          "explain": {
+            "ua": "A lot OF.",
+            "ru": "A lot OF."
+          },
+          "id": "a2-u07-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "much-many",
+          "audio_text": "How many tomatoes?",
+          "options": [
+            "How many tomatoes?",
+            "How much tomatoes?",
+            "How many potatoes?"
+          ],
+          "answer": "How many tomatoes?",
+          "audio": "",
+          "explain": {
+            "ua": "How many.",
+            "ru": "How many."
+          },
+          "id": "a2-u07-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "much-many",
+          "prompt": {
+            "ua": "У мене небагато часу.",
+            "ru": "У меня немного времени."
+          },
+          "answer": "I don't have much time.",
+          "accept": [
+            "I haven't got much time.",
+            "I have little time."
+          ],
+          "explain": {
+            "ua": "Not much time.",
+            "ru": "Not much time."
+          },
+          "id": "a2-u07-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "much-many",
+      "question": "How ___ people?",
+      "options": [
+        "many",
+        "much",
+        "little"
+      ],
+      "answer": "many",
+      "explain": {
+        "ua": "People → many.",
+        "ru": "People → many."
+      },
+      "id": "a2-u07-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "much-many",
+      "question": "How ___ milk?",
+      "options": [
+        "much",
+        "many",
+        "few"
+      ],
+      "answer": "much",
+      "explain": {
+        "ua": "Milk → much.",
+        "ru": "Milk → much."
+      },
+      "id": "a2-u07-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "a-few-a-little",
+      "question": "Add ___ salt.",
+      "options": [
+        "a little",
+        "a few",
+        "many"
+      ],
+      "answer": "a little",
+      "explain": {
+        "ua": "Salt → a little.",
+        "ru": "Salt → a little."
+      },
+      "id": "a2-u07-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "a-few-a-little",
+      "question": "I'll be ready in ___ minutes.",
+      "options": [
+        "a few",
+        "a little",
+        "much"
+      ],
+      "answer": "a few",
+      "explain": {
+        "ua": "Minutes → a few.",
+        "ru": "Minutes → a few."
+      },
+      "id": "a2-u07-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "much-many",
+      "question": "She has ___ friends.",
+      "options": [
+        "a lot of",
+        "much",
+        "a lot"
+      ],
+      "answer": "a lot of",
+      "explain": {
+        "ua": "A lot of.",
+        "ru": "A lot of."
+      },
+      "id": "a2-u07-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "much-many",
+      "question": "How ___ is this jacket? (price)",
+      "answer": "much",
+      "accept": [],
+      "explain": {
+        "ua": "Ціна — How much.",
+        "ru": "Цена — How much."
+      },
+      "id": "a2-u07-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "much-many",
+      "question": "There's too ___ traffic.",
+      "answer": "much",
+      "accept": [],
+      "explain": {
+        "ua": "Traffic — незлічуване.",
+        "ru": "Traffic — неисчисляемое."
+      },
+      "id": "a2-u07-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "much",
+          "right": "money"
+        },
+        {
+          "left": "many",
+          "right": "friends"
+        },
+        {
+          "left": "a few",
+          "right": "days"
+        },
+        {
+          "left": "a little",
+          "right": "time"
+        }
+      ],
+      "explain": {
+        "ua": "Що з чим.",
+        "ru": "Что с чем."
+      },
+      "id": "a2-u07-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "much-many",
+      "sentence": "How much eggs do you need?",
+      "answer": "How many eggs do you need?",
+      "accept": [],
+      "explain": {
+        "ua": "Eggs → many.",
+        "ru": "Eggs → many."
+      },
+      "id": "a2-u07-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "much-many",
+      "sentence": "We have a few time.",
+      "answer": "We have a little time.",
+      "accept": [
+        "We have some time."
+      ],
+      "explain": {
+        "ua": "Time → a little.",
+        "ru": "Time → a little."
+      },
+      "id": "a2-u07-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "much-many",
+      "prompt": {
+        "ua": "Там було багато людей.",
+        "ru": "Там было много людей."
+      },
+      "answer": "There were a lot of people there.",
+      "accept": [
+        "There were many people there.",
+        "There were lots of people there."
+      ],
+      "explain": {
+        "ua": "A lot of people.",
+        "ru": "A lot of people."
+      },
+      "id": "a2-u07-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "much-many",
+      "audio_text": "Not much, thanks.",
+      "options": [
+        "Not much, thanks.",
+        "Not many, thanks.",
+        "Not match, thanks."
+      ],
+      "answer": "Not much, thanks.",
+      "audio": "",
+      "explain": {
+        "ua": "Not much.",
+        "ru": "Not much."
+      },
+      "id": "a2-u07-cp12"
+    }
+  ]
+}

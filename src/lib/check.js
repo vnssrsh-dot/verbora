@@ -17,6 +17,8 @@ export function normalize(s) {
 // "I'm happy" = "I am happy". Used for fix/translate, never for a single gap,
 // where the exercise may be testing the short form itself.
 const SHORT = [
+  // 's before a past participle is "has": He's got = He has got (never "He is got")
+  [/\b(he|she|it|that|who|what|where|there)'s (got|been|gone|done|had|seen|made|taken|left|lost|finished)\b/g, '$1 has $2'],
   [/\bi'm\b/g, 'i am'], [/\b(you|we|they)'re\b/g, '$1 are'], [/\b(he|she|it|that|what|where|who)'s\b/g, '$1 is'],
   [/\bisn't\b/g, 'is not'], [/\baren't\b/g, 'are not'], [/\bwasn't\b/g, 'was not'], [/\bweren't\b/g, 'were not'],
   [/\bdon't\b/g, 'do not'], [/\bdoesn't\b/g, 'does not'], [/\bdidn't\b/g, 'did not'], [/\bcan't\b/g, 'cannot'],
@@ -28,10 +30,17 @@ export function expandShort(s) {
   return out;
 }
 
-export function matches(input, answer, accept = [], { shortForms = false } = {}) {
+// Strict form for tasks where the mistake itself is a capital letter or the final mark
+// ("See you on monday!" → "Monday"): only spaces and apostrophe styles are ignored.
+export function strict(s) {
+  return String(s ?? '').replace(/[\u2019\u2018\u02BC`´]/g, "'").replace(/\s+/g, ' ').trim();
+}
+
+export function matches(input, answer, accept = [], { shortForms = false, exact = false } = {}) {
   const n = normalize(input);
   if (!n) return false;
   const variants = [answer, ...(accept || [])];
+  if (exact) return variants.some((a) => strict(a) === strict(input));
   if (variants.some((a) => normalize(a) === n)) return true;
   if (shortForms) {
     const e = expandShort(input);

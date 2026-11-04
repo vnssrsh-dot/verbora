@@ -1,0 +1,1584 @@
+{
+  "id": "b1-u22",
+  "level": "B1",
+  "order": 22,
+  "kind": "vocab",
+  "title": {
+    "en": "Services and documents",
+    "ua": "Послуги й документи",
+    "ru": "Услуги и документы"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "bank account",
+      "ipa": "/ˈbæŋk əˌkaʊnt/",
+      "ua": "банківський рахунок",
+      "ru": "банковский счёт",
+      "example": "open a bank account",
+      "audio": ""
+    },
+    {
+      "word": "ID / identity card",
+      "ipa": "/ˌaɪ ˈdiː/",
+      "ua": "посвідчення особи",
+      "ru": "удостоверение личности",
+      "example": "Can I see your ID?",
+      "audio": ""
+    },
+    {
+      "word": "residence permit",
+      "ipa": "/ˈrezɪdəns ˌpɜːmɪt/",
+      "ua": "посвідка на проживання",
+      "ru": "вид на жительство",
+      "example": "I've got a residence permit.",
+      "audio": ""
+    },
+    {
+      "word": "form",
+      "ipa": "/fɔːm/",
+      "ua": "бланк, анкета",
+      "ru": "бланк, анкета",
+      "example": "Fill in this form.",
+      "audio": ""
+    },
+    {
+      "word": "signature",
+      "ipa": "/ˈsɪɡnətʃə/",
+      "ua": "підпис",
+      "ru": "подпись",
+      "example": "Your signature here, please.",
+      "audio": ""
+    },
+    {
+      "word": "sign",
+      "ipa": "/saɪn/",
+      "ua": "підписувати",
+      "ru": "подписывать",
+      "example": "Please sign here.",
+      "audio": ""
+    },
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "ua": "запис, прийом",
+      "ru": "запись, приём",
+      "example": "Book an appointment online.",
+      "audio": ""
+    },
+    {
+      "word": "queue",
+      "ipa": "/kjuː/",
+      "ua": "черга",
+      "ru": "очередь",
+      "example": "There's a long queue.",
+      "audio": ""
+    },
+    {
+      "word": "proof of address",
+      "ipa": "/ˌpruːf əv əˈdres/",
+      "ua": "підтвердження адреси",
+      "ru": "подтверждение адреса",
+      "example": "Bring proof of address.",
+      "audio": ""
+    },
+    {
+      "word": "copy",
+      "ipa": "/ˈkɒpi/",
+      "ua": "копія",
+      "ru": "копия",
+      "example": "a copy of your passport",
+      "audio": ""
+    },
+    {
+      "word": "register",
+      "ipa": "/ˈredʒɪstə/",
+      "ua": "реєструватися",
+      "ru": "регистрироваться",
+      "example": "Register at the town hall.",
+      "audio": ""
+    },
+    {
+      "word": "town hall",
+      "ipa": "/ˌtaʊn ˈhɔːl/",
+      "ua": "міська рада, мерія",
+      "ru": "мэрия",
+      "example": "Go to the town hall.",
+      "audio": ""
+    },
+    {
+      "word": "post office",
+      "ipa": "/ˈpəʊst ˌɒfɪs/",
+      "ua": "пошта",
+      "ru": "почта",
+      "example": "Send it from the post office.",
+      "audio": ""
+    },
+    {
+      "word": "parcel",
+      "ipa": "/ˈpɑːsl/",
+      "ua": "посилка",
+      "ru": "посылка",
+      "example": "I'm waiting for a parcel.",
+      "audio": ""
+    },
+    {
+      "word": "GP / family doctor",
+      "ipa": "/ˌdʒiː ˈpiː/",
+      "ua": "сімейний лікар",
+      "ru": "семейный врач",
+      "example": "Register with a GP.",
+      "audio": ""
+    },
+    {
+      "word": "health insurance",
+      "ipa": "/ˈhelθ ɪnˌʃʊərəns/",
+      "ua": "медичне страхування",
+      "ru": "медицинская страховка",
+      "example": "Do you have health insurance?",
+      "audio": ""
+    },
+    {
+      "word": "enrol",
+      "ipa": "/ɪnˈrəʊl/",
+      "ua": "записати (до школи)",
+      "ru": "записать (в школу)",
+      "example": "enrol your child at school",
+      "audio": ""
+    },
+    {
+      "word": "expire",
+      "ipa": "/ɪkˈspaɪə/",
+      "ua": "закінчуватися (про термін дії)",
+      "ru": "истекать (о сроке)",
+      "example": "My passport expires next year.",
+      "audio": ""
+    },
+    {
+      "word": "valid",
+      "ipa": "/ˈvælɪd/",
+      "ua": "дійсний",
+      "ru": "действительный",
+      "example": "Is your visa valid?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u22-l01",
+      "title": {
+        "en": "Documents",
+        "ua": "Документи",
+        "ru": "Документы"
+      },
+      "recap": {
+        "from": "b1-u21-l02",
+        "note": {
+          "ua": "Згадаймо: first (of all) → then / next / after that → finally / in the end · also / in addition / for example",
+          "ru": "Вспомним: first (of all) → then / next / after that → finally / in the end · also / in addition / for example"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-sequence",
+            "question": "We had a lot of problems, but ___ everything was fine.",
+            "options": [
+              "in the end",
+              "finally of all",
+              "first"
+            ],
+            "answer": "in the end",
+            "explain": {
+              "ua": "Чим закінчилося → in the end.",
+              "ru": "Чем закончилось → in the end."
+            },
+            "id": "b1-u22-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-sequence",
+            "question": "___ , the trip was amazing. (summary)",
+            "options": [
+              "To sum up",
+              "First of all",
+              "On the other hand"
+            ],
+            "answer": "To sum up",
+            "explain": {
+              "ua": "Підсумок → to sum up.",
+              "ru": "Итог → to sum up."
+            },
+            "id": "b1-u22-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "ID",
+              "right": {
+                "ua": "посвідчення особи",
+                "ru": "удостоверение личности"
+              }
+            },
+            {
+              "left": "residence permit",
+              "right": {
+                "ua": "посвідка на проживання",
+                "ru": "вид на жительство"
+              }
+            },
+            {
+              "left": "signature",
+              "right": {
+                "ua": "підпис",
+                "ru": "подпись"
+              }
+            },
+            {
+              "left": "copy",
+              "right": {
+                "ua": "копія",
+                "ru": "копия"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u22-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please ___ the form at the bottom.",
+          "options": [
+            "sign",
+            "signature",
+            "register"
+          ],
+          "answer": "sign",
+          "explain": {
+            "ua": "Sign — дієслово; signature — іменник.",
+            "ru": "Sign — глагол; signature — существительное."
+          },
+          "id": "b1-u22-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Bring a ___ of your passport.",
+          "options": [
+            "copy",
+            "form",
+            "queue"
+          ],
+          "answer": "copy",
+          "explain": {
+            "ua": "Copy.",
+            "ru": "Copy."
+          },
+          "id": "b1-u22-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My passport ___ next month. I need a new one.",
+          "options": [
+            "expires",
+            "registers",
+            "signs"
+          ],
+          "answer": "expires",
+          "explain": {
+            "ua": "Expire — закінчується термін.",
+            "ru": "Expire — истекает срок."
+          },
+          "id": "b1-u22-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Is your visa still ___ ?",
+          "options": [
+            "valid",
+            "expired",
+            "signed"
+          ],
+          "answer": "valid",
+          "explain": {
+            "ua": "Valid — дійсний.",
+            "ru": "Valid — действительный."
+          },
+          "id": "b1-u22-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A document that lets you live in a foreign country.",
+          "answer": "residence permit",
+          "accept": [
+            "a residence permit",
+            "visa",
+            "permit"
+          ],
+          "explain": {
+            "ua": "Residence permit.",
+            "ru": "Residence permit."
+          },
+          "id": "b1-u22-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Put your sign here.",
+          "answer": "Put your signature here.",
+          "accept": [
+            "Sign here."
+          ],
+          "explain": {
+            "ua": "Підпис — signature.",
+            "ru": "Подпись — signature."
+          },
+          "id": "b1-u22-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈsɪɡnətʃə/",
+          "options": [
+            "signature",
+            "sign",
+            "single"
+          ],
+          "answer": "signature",
+          "explain": {
+            "ua": "У sign g не читається, у signature — читається!",
+            "ru": "В sign g не читается, в signature — читается!"
+          },
+          "id": "b1-u22-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Можна ваше посвідчення особи?",
+            "ru": "Можно ваше удостоверение личности?"
+          },
+          "answer": "Can I see your ID, please?",
+          "accept": [
+            "Can I see your ID?",
+            "May I see your ID?",
+            "Can I have your ID, please?"
+          ],
+          "explain": {
+            "ua": "ID.",
+            "ru": "ID."
+          },
+          "id": "b1-u22-l01-e09"
+        }
+      ],
+      "words": [
+        "ID / identity card",
+        "residence permit",
+        "form",
+        "signature",
+        "sign",
+        "copy",
+        "expire",
+        "valid"
+      ]
+    },
+    {
+      "id": "b1-u22-l02",
+      "title": {
+        "en": "At the bank and the town hall",
+        "ua": "У банку й мерії",
+        "ru": "В банке и мэрии"
+      },
+      "recap": {
+        "from": "b1-u22-l01",
+        "note": {
+          "ua": "Згадаймо: Документи",
+          "ru": "Вспомним: Документы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Please ___ the form at the bottom.",
+            "options": [
+              "sign",
+              "signature",
+              "register"
+            ],
+            "answer": "sign",
+            "explain": {
+              "ua": "Sign — дієслово; signature — іменник.",
+              "ru": "Sign — глагол; signature — существительное."
+            },
+            "id": "b1-u22-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Is your visa still ___ ?",
+            "options": [
+              "valid",
+              "expired",
+              "signed"
+            ],
+            "answer": "valid",
+            "explain": {
+              "ua": "Valid — дійсний.",
+              "ru": "Valid — действительный."
+            },
+            "id": "b1-u22-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "bank account",
+              "right": {
+                "ua": "банківський рахунок",
+                "ru": "банковский счёт"
+              }
+            },
+            {
+              "left": "register",
+              "right": {
+                "ua": "реєструватися",
+                "ru": "регистрироваться"
+              }
+            },
+            {
+              "left": "proof of address",
+              "right": {
+                "ua": "підтвердження адреси",
+                "ru": "подтверждение адреса"
+              }
+            },
+            {
+              "left": "queue",
+              "right": {
+                "ua": "черга",
+                "ru": "очередь"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u22-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'd like to open a bank ___ .",
+          "options": [
+            "account",
+            "form",
+            "copy"
+          ],
+          "answer": "account",
+          "explain": {
+            "ua": "Bank account.",
+            "ru": "Bank account."
+          },
+          "id": "b1-u22-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "To open an account, you need ID and ___ of address.",
+          "options": [
+            "proof",
+            "copy",
+            "sign"
+          ],
+          "answer": "proof",
+          "explain": {
+            "ua": "Proof of address.",
+            "ru": "Proof of address."
+          },
+          "id": "b1-u22-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "When you move to a new city, you must ___ at the town hall.",
+          "options": [
+            "register",
+            "expire",
+            "enrol"
+          ],
+          "answer": "register",
+          "explain": {
+            "ua": "Register.",
+            "ru": "Register."
+          },
+          "id": "b1-u22-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There was a long ___ , so I waited for an hour.",
+          "options": [
+            "queue",
+            "form",
+            "account"
+          ],
+          "answer": "queue",
+          "explain": {
+            "ua": "Queue — черга.",
+            "ru": "Queue — очередь."
+          },
+          "id": "b1-u22-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You can book an ___ online. You don't have to wait in a queue.",
+          "options": [
+            "appointment",
+            "account",
+            "permit"
+          ],
+          "answer": "appointment",
+          "explain": {
+            "ua": "Appointment.",
+            "ru": "Appointment."
+          },
+          "id": "b1-u22-l02-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A paper with questions you answer, often at an office.",
+          "answer": "form",
+          "accept": [
+            "a form",
+            "application form"
+          ],
+          "explain": {
+            "ua": "Form.",
+            "ru": "Form."
+          },
+          "id": "b1-u22-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I want to open a bank count.",
+          "answer": "I want to open a bank account.",
+          "accept": [
+            "I'd like to open a bank account."
+          ],
+          "explain": {
+            "ua": "Account.",
+            "ru": "Account."
+          },
+          "id": "b1-u22-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Please take a number and wait in the queue.",
+          "options": [
+            "Please take a number and wait in the queue.",
+            "Please take a number and wait in the cue.",
+            "Please take a number and wait in the room."
+          ],
+          "answer": "Please take a number and wait in the queue.",
+          "audio": "",
+          "explain": {
+            "ua": "Queue — «к'ю».",
+            "ru": "Queue — «кью»."
+          },
+          "id": "b1-u22-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я хотіла б відкрити рахунок.",
+            "ru": "Я хотела бы открыть счёт."
+          },
+          "answer": "I'd like to open an account.",
+          "accept": [
+            "I would like to open an account.",
+            "I'd like to open a bank account.",
+            "I would like to open a bank account."
+          ],
+          "explain": {
+            "ua": "Open an account.",
+            "ru": "Open an account."
+          },
+          "id": "b1-u22-l02-e10"
+        }
+      ],
+      "words": [
+        "bank account",
+        "appointment",
+        "queue",
+        "proof of address",
+        "register",
+        "town hall"
+      ]
+    },
+    {
+      "id": "b1-u22-l03",
+      "title": {
+        "en": "Post, doctor, school",
+        "ua": "Пошта, лікар, школа",
+        "ru": "Почта, врач, школа"
+      },
+      "recap": {
+        "from": "b1-u22-l02",
+        "note": {
+          "ua": "Згадаймо: У банку й мерії",
+          "ru": "Вспомним: В банке и мэрии"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'd like to open a bank ___ .",
+            "options": [
+              "account",
+              "form",
+              "copy"
+            ],
+            "answer": "account",
+            "explain": {
+              "ua": "Bank account.",
+              "ru": "Bank account."
+            },
+            "id": "b1-u22-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You can book an ___ online. You don't have to wait in a queue.",
+            "options": [
+              "appointment",
+              "account",
+              "permit"
+            ],
+            "answer": "appointment",
+            "explain": {
+              "ua": "Appointment.",
+              "ru": "Appointment."
+            },
+            "id": "b1-u22-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "post office",
+              "right": {
+                "ua": "пошта",
+                "ru": "почта"
+              }
+            },
+            {
+              "left": "parcel",
+              "right": {
+                "ua": "посилка",
+                "ru": "посылка"
+              }
+            },
+            {
+              "left": "GP",
+              "right": {
+                "ua": "сімейний лікар",
+                "ru": "семейный врач"
+              }
+            },
+            {
+              "left": "enrol",
+              "right": {
+                "ua": "записати",
+                "ru": "записать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u22-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I want to send a ___ to Ukraine.",
+          "options": [
+            "parcel",
+            "queue",
+            "signature"
+          ],
+          "answer": "parcel",
+          "explain": {
+            "ua": "Parcel — посилка.",
+            "ru": "Parcel — посылка."
+          },
+          "id": "b1-u22-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In the UK, you first see a ___ , then a specialist.",
+          "options": [
+            "GP",
+            "landlord",
+            "plumber"
+          ],
+          "answer": "GP",
+          "explain": {
+            "ua": "GP — сімейний лікар.",
+            "ru": "GP — семейный врач."
+          },
+          "id": "b1-u22-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We need to ___ our son at the local school.",
+          "options": [
+            "enrol",
+            "register with",
+            "expire"
+          ],
+          "answer": "enrol",
+          "explain": {
+            "ua": "Enrol at school.",
+            "ru": "Enrol at school."
+          },
+          "id": "b1-u22-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Do you have health ___ ?",
+          "options": [
+            "insurance",
+            "account",
+            "permit"
+          ],
+          "answer": "insurance",
+          "explain": {
+            "ua": "Health insurance.",
+            "ru": "Health insurance."
+          },
+          "id": "b1-u22-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "post office",
+            "GP",
+            "school",
+            "bank"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Send a parcel → ___",
+            "See a doctor → ___",
+            "Enrol a child → ___",
+            "Open an account → ___"
+          ],
+          "answers": [
+            "post office",
+            "GP",
+            "school",
+            "bank"
+          ],
+          "explain": {
+            "ua": "Де це робити?",
+            "ru": "Где это делать?"
+          },
+          "id": "b1-u22-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I want to register to a doctor.",
+          "answer": "I want to register with a doctor.",
+          "accept": [
+            "I want to register with a GP."
+          ],
+          "explain": {
+            "ua": "Register with a GP.",
+            "ru": "Register with a GP."
+          },
+          "id": "b1-u22-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "How much is it to send this parcel?",
+          "options": [
+            "How much is it to send this parcel?",
+            "How much is it to send this pencil?",
+            "How many is it to send this parcel?"
+          ],
+          "answer": "How much is it to send this parcel?",
+          "audio": "",
+          "explain": {
+            "ua": "Parcel.",
+            "ru": "Parcel."
+          },
+          "id": "b1-u22-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені потрібно записати дитину до школи.",
+            "ru": "Мне нужно записать ребёнка в школу."
+          },
+          "answer": "I need to enrol my child at school.",
+          "accept": [
+            "I need to enroll my child at school.",
+            "I need to enrol my child in school.",
+            "I need to register my child at school."
+          ],
+          "explain": {
+            "ua": "Enrol at school.",
+            "ru": "Enrol at school."
+          },
+          "id": "b1-u22-l03-e09"
+        }
+      ],
+      "words": [
+        "post office",
+        "parcel",
+        "GP / family doctor",
+        "health insurance",
+        "enrol"
+      ]
+    },
+    {
+      "id": "b1-u22-l04",
+      "title": {
+        "en": "In context: at the bank",
+        "ua": "У контексті: у банку",
+        "ru": "В контексте: в банке"
+      },
+      "recap": {
+        "from": "b1-u22-l03",
+        "note": {
+          "ua": "Згадаймо: Пошта, лікар, школа",
+          "ru": "Вспомним: Почта, врач, школа"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I want to send a ___ to Ukraine.",
+            "options": [
+              "parcel",
+              "queue",
+              "signature"
+            ],
+            "answer": "parcel",
+            "explain": {
+              "ua": "Parcel — посилка.",
+              "ru": "Parcel — посылка."
+            },
+            "id": "b1-u22-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Do you have health ___ ?",
+            "options": [
+              "insurance",
+              "account",
+              "permit"
+            ],
+            "answer": "insurance",
+            "explain": {
+              "ua": "Health insurance.",
+              "ru": "Health insurance."
+            },
+            "id": "b1-u22-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What does Ira want to do?",
+              "options": [
+                "open a bank account",
+                "send a parcel",
+                "see a doctor"
+              ],
+              "answer": "open a bank account"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ira has brought her residence permit.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She has proof of address.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What can she use as proof of address?",
+              "options": [
+                "her rental contract",
+                "her passport",
+                "a photo"
+              ],
+              "answer": "her rental contract"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Clerk",
+              "line": "Good morning. How can I help you?"
+            },
+            {
+              "speaker": "Ira",
+              "line": "Hello. I've just moved here and I'd like to open a bank account."
+            },
+            {
+              "speaker": "Clerk",
+              "line": "Of course. Have you got your ID?"
+            },
+            {
+              "speaker": "Ira",
+              "line": "Yes, here's my passport and my residence permit."
+            },
+            {
+              "speaker": "Clerk",
+              "line": "Thank you. We also need proof of address."
+            },
+            {
+              "speaker": "Ira",
+              "line": "Oh, I don't have that. What can I use?"
+            },
+            {
+              "speaker": "Clerk",
+              "line": "Your rental contract is fine. You can book an appointment online and bring it next time."
+            },
+            {
+              "speaker": "Ira",
+              "line": "Great, thank you!"
+            }
+          ],
+          "explain": {
+            "ua": "Open account; has passport + residence permit; no proof; use rental contract; book appointment.",
+            "ru": "Open account; has passport + residence permit; no proof; use rental contract; book appointment."
+          },
+          "id": "b1-u22-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "open",
+            "residence permit",
+            "proof of address",
+            "rental contract",
+            "appointment"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ira wants to ___ an account.",
+            "She has her passport and ___.",
+            "She needs ___.",
+            "She can use her ___.",
+            "She can book an ___ online."
+          ],
+          "answers": [
+            "open",
+            "residence permit",
+            "proof of address",
+            "rental contract",
+            "appointment"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u22-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "How can I help you?",
+              "right": {
+                "ua": "Чим можу допомогти?",
+                "ru": "Чем могу помочь?"
+              }
+            },
+            {
+              "left": "I've just moved here.",
+              "right": {
+                "ua": "Я щойно переїхала сюди.",
+                "ru": "Я только что переехала сюда."
+              }
+            },
+            {
+              "left": "Here's my passport.",
+              "right": {
+                "ua": "Ось мій паспорт.",
+                "ru": "Вот мой паспорт."
+              }
+            },
+            {
+              "left": "next time",
+              "right": {
+                "ua": "наступного разу",
+                "ru": "в следующий раз"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "b1-u22-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "I've just ___ here.",
+          "options": [
+            "moved",
+            "move",
+            "moving"
+          ],
+          "answer": "moved",
+          "explain": {
+            "ua": "Present Perfect.",
+            "ru": "Present Perfect."
+          },
+          "id": "b1-u22-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I just moved here and I want open account.",
+          "answer": "I've just moved here and I'd like to open an account.",
+          "accept": [
+            "I've just moved here and I want to open an account.",
+            "I have just moved here and I would like to open an account."
+          ],
+          "explain": {
+            "ua": "Just + PP; would like to + an account.",
+            "ru": "Just + PP; would like to + an account."
+          },
+          "id": "b1-u22-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Do you have the proof of the address?",
+          "answer": "Do you have proof of address?",
+          "accept": [
+            "Have you got proof of address?"
+          ],
+          "explain": {
+            "ua": "Proof of address — без артиклів.",
+            "ru": "Proof of address — без артиклей."
+          },
+          "id": "b1-u22-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "We also need proof of address.",
+          "options": [
+            "We also need proof of address.",
+            "We also need roof of address.",
+            "We always need proof of address."
+          ],
+          "answer": "We also need proof of address.",
+          "audio": "",
+          "explain": {
+            "ua": "Proof of address.",
+            "ru": "Proof of address."
+          },
+          "id": "b1-u22-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я щойно переїхала сюди.",
+            "ru": "Я только что переехала сюда."
+          },
+          "answer": "I've just moved here.",
+          "accept": [
+            "I have just moved here."
+          ],
+          "explain": {
+            "ua": "Just + PP.",
+            "ru": "Just + PP."
+          },
+          "id": "b1-u22-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u22-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u22-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: у банку",
+          "ru": "Вспомним: В контексте: в банке"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "I've just ___ here.",
+            "options": [
+              "moved",
+              "move",
+              "moving"
+            ],
+            "answer": "moved",
+            "explain": {
+              "ua": "Present Perfect.",
+              "ru": "Present Perfect."
+            },
+            "id": "b1-u22-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Do you have the proof of the address?",
+            "answer": "Do you have proof of address?",
+            "accept": [
+              "Have you got proof of address?"
+            ],
+            "explain": {
+              "ua": "Proof of address — без артиклів.",
+              "ru": "Proof of address — без артиклей."
+            },
+            "id": "b1-u22-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "valid",
+              "right": {
+                "ua": "дійсний",
+                "ru": "действительный"
+              }
+            },
+            {
+              "left": "expire",
+              "right": {
+                "ua": "закінчуватися",
+                "ru": "истекать"
+              }
+            },
+            {
+              "left": "health insurance",
+              "right": {
+                "ua": "медстрахування",
+                "ru": "медстраховка"
+              }
+            },
+            {
+              "left": "town hall",
+              "right": {
+                "ua": "мерія",
+                "ru": "мэрия"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u22-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a place?",
+          "options": [
+            "post office",
+            "signature",
+            "form"
+          ],
+          "answer": "post office",
+          "explain": {
+            "ua": "Post office — місце.",
+            "ru": "Post office — место."
+          },
+          "id": "b1-u22-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a document?",
+          "options": [
+            "residence permit",
+            "queue",
+            "parcel"
+          ],
+          "answer": "residence permit",
+          "explain": {
+            "ua": "Документ.",
+            "ru": "Документ."
+          },
+          "id": "b1-u22-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A box you send by post.",
+          "answer": "parcel",
+          "accept": [
+            "a parcel",
+            "package"
+          ],
+          "explain": {
+            "ua": "Parcel.",
+            "ru": "Parcel."
+          },
+          "id": "b1-u22-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your name written by you on a document.",
+          "answer": "signature",
+          "accept": [
+            "a signature"
+          ],
+          "explain": {
+            "ua": "Signature.",
+            "ru": "Signature."
+          },
+          "id": "b1-u22-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "passport",
+          "answer": "ID",
+          "accept": [
+            "document",
+            "identity card",
+            "visa"
+          ],
+          "explain": {
+            "ua": "Паспорт → документ.",
+            "ru": "Паспорт → документ."
+          },
+          "id": "b1-u22-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My visa is expired next week.",
+          "answer": "My visa expires next week.",
+          "accept": [
+            "My visa will expire next week."
+          ],
+          "explain": {
+            "ua": "Expire — дієслово.",
+            "ru": "Expire — глагол."
+          },
+          "id": "b1-u22-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Please sign here and here.",
+          "options": [
+            "Please sign here and here.",
+            "Please sing here and here.",
+            "Please sign there and there."
+          ],
+          "answer": "Please sign here and here.",
+          "audio": "",
+          "explain": {
+            "ua": "Sign, не sing!",
+            "ru": "Sign, не sing!"
+          },
+          "id": "b1-u22-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій паспорт закінчується наступного року.",
+            "ru": "Мой паспорт истекает в следующем году."
+          },
+          "answer": "My passport expires next year.",
+          "accept": [
+            "My passport will expire next year."
+          ],
+          "explain": {
+            "ua": "Expires.",
+            "ru": "Expires."
+          },
+          "id": "b1-u22-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Please ___ the document.",
+      "options": [
+        "sign",
+        "signature",
+        "valid"
+      ],
+      "answer": "sign",
+      "explain": {
+        "ua": "Sign.",
+        "ru": "Sign."
+      },
+      "id": "b1-u22-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I'd like to open a bank ___ .",
+      "options": [
+        "account",
+        "form",
+        "copy"
+      ],
+      "answer": "account",
+      "explain": {
+        "ua": "Account.",
+        "ru": "Account."
+      },
+      "id": "b1-u22-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "There's a long ___ at the post office.",
+      "options": [
+        "queue",
+        "form",
+        "parcel"
+      ],
+      "answer": "queue",
+      "explain": {
+        "ua": "Queue.",
+        "ru": "Queue."
+      },
+      "id": "b1-u22-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A document that proves where you live.",
+      "answer": "proof of address",
+      "accept": [
+        "proof of residence"
+      ],
+      "explain": {
+        "ua": "Proof of address.",
+        "ru": "Proof of address."
+      },
+      "id": "b1-u22-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A family doctor in the UK.",
+      "answer": "GP",
+      "accept": [
+        "family doctor",
+        "a GP"
+      ],
+      "explain": {
+        "ua": "GP.",
+        "ru": "GP."
+      },
+      "id": "b1-u22-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "My visa ___ in May. I need a new one.",
+      "answer": "expires",
+      "accept": [
+        "will expire"
+      ],
+      "explain": {
+        "ua": "Expire.",
+        "ru": "Expire."
+      },
+      "id": "b1-u22-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "form",
+          "right": {
+            "ua": "бланк",
+            "ru": "бланк"
+          }
+        },
+        {
+          "left": "parcel",
+          "right": {
+            "ua": "посилка",
+            "ru": "посылка"
+          }
+        },
+        {
+          "left": "register",
+          "right": {
+            "ua": "реєструватися",
+            "ru": "регистрироваться"
+          }
+        },
+        {
+          "left": "enrol",
+          "right": {
+            "ua": "записати",
+            "ru": "записать"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u22-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Put your sign at the bottom.",
+      "answer": "Put your signature at the bottom.",
+      "accept": [
+        "Sign at the bottom."
+      ],
+      "explain": {
+        "ua": "Signature.",
+        "ru": "Signature."
+      },
+      "id": "b1-u22-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Is your passport still validity?",
+      "answer": "Is your passport still valid?",
+      "accept": [],
+      "explain": {
+        "ua": "Valid.",
+        "ru": "Valid."
+      },
+      "id": "b1-u22-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "passport",
+        "Bring",
+        "copy",
+        "of",
+        "your",
+        "a"
+      ],
+      "answer": "Bring a copy of your passport",
+      "explain": {
+        "ua": "Bring → a copy of → your passport.",
+        "ru": "Bring → a copy of → your passport."
+      },
+      "id": "b1-u22-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Мені потрібно заповнити цю анкету.",
+        "ru": "Мне нужно заполнить эту анкету."
+      },
+      "answer": "I need to fill in this form.",
+      "accept": [
+        "I need to fill out this form.",
+        "I have to fill in this form."
+      ],
+      "explain": {
+        "ua": "Fill in.",
+        "ru": "Fill in."
+      },
+      "id": "b1-u22-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Can I book an appointment online?",
+      "options": [
+        "Can I book an appointment online?",
+        "Can I book an apartment online?",
+        "Can I look an appointment online?"
+      ],
+      "answer": "Can I book an appointment online?",
+      "audio": "",
+      "explain": {
+        "ua": "Appointment.",
+        "ru": "Appointment."
+      },
+      "id": "b1-u22-cp12"
+    }
+  ]
+}

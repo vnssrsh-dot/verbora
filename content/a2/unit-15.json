@@ -1,0 +1,1004 @@
+{
+  "id": "a2-u15",
+  "level": "A2",
+  "order": 15,
+  "kind": "grammar",
+  "title": {
+    "en": "Must and have to",
+    "ua": "Must і have to",
+    "ru": "Must и have to"
+  },
+  "rule": {
+    "formula": {
+      "ua": "must / have to — треба · mustn't — не можна · don't have to — не обов'язково",
+      "ru": "must / have to — надо · mustn't — нельзя · don't have to — не обязательно"
+    },
+    "explain": {
+      "ua": "Must і have to — «треба, мушу». Mustn't — заборона (не можна!). Don't have to — немає потреби (можна, але не обов'язково). Це зовсім різні речі!",
+      "ru": "Must и have to — «надо, должен». Mustn't — запрет (нельзя!). Don't have to — нет необходимости (можно, но не обязательно). Это совсем разные вещи!"
+    },
+    "examples": [
+      {
+        "en": "I must go now.",
+        "ua": "Мені треба йти.",
+        "ru": "Мне надо идти."
+      },
+      {
+        "en": "You mustn't smoke here.",
+        "ua": "Тут не можна курити.",
+        "ru": "Здесь нельзя курить."
+      },
+      {
+        "en": "You don't have to come.",
+        "ua": "Тобі не обов'язково приходити.",
+        "ru": "Тебе не обязательно приходить."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "must",
+      "ipa": "/mʌst/",
+      "ua": "мусити, треба",
+      "ru": "должен, надо",
+      "example": "You must wear a seat belt.",
+      "audio": ""
+    },
+    {
+      "word": "mustn't",
+      "ipa": "/ˈmʌsnt/",
+      "ua": "не можна",
+      "ru": "нельзя",
+      "example": "You mustn't park here.",
+      "audio": ""
+    },
+    {
+      "word": "have to",
+      "ipa": "/ˈhæv tə/",
+      "ua": "доводиться, треба",
+      "ru": "приходится, надо",
+      "example": "I have to work on Saturdays.",
+      "audio": ""
+    },
+    {
+      "word": "don't have to",
+      "ipa": "/ˌdəʊnt ˈhæv tə/",
+      "ua": "не обов'язково",
+      "ru": "не обязательно",
+      "example": "You don't have to pay.",
+      "audio": ""
+    },
+    {
+      "word": "rule",
+      "ipa": "/ruːl/",
+      "ua": "правило",
+      "ru": "правило",
+      "example": "school rules",
+      "audio": ""
+    },
+    {
+      "word": "uniform",
+      "ipa": "/ˈjuːnɪfɔːm/",
+      "ua": "форма (одяг)",
+      "ru": "форма (одежда)",
+      "example": "Nurses have to wear a uniform.",
+      "audio": ""
+    },
+    {
+      "word": "seat belt",
+      "ipa": "/ˈsiːt belt/",
+      "ua": "пасок безпеки",
+      "ru": "ремень безопасности",
+      "example": "Wear your seat belt.",
+      "audio": ""
+    },
+    {
+      "word": "park",
+      "ipa": "/pɑːk/",
+      "ua": "паркувати",
+      "ru": "парковать",
+      "example": "Can I park here?",
+      "audio": ""
+    },
+    {
+      "word": "helmet",
+      "ipa": "/ˈhelmɪt/",
+      "ua": "шолом",
+      "ru": "шлем",
+      "example": "You must wear a helmet.",
+      "audio": ""
+    },
+    {
+      "word": "quiet",
+      "ipa": "/ˈkwaɪət/",
+      "ua": "тихий",
+      "ru": "тихий",
+      "example": "Be quiet in the library.",
+      "audio": ""
+    },
+    {
+      "word": "allowed",
+      "ipa": "/əˈlaʊd/",
+      "ua": "дозволено",
+      "ru": "разрешено",
+      "example": "Dogs aren't allowed.",
+      "audio": ""
+    },
+    {
+      "word": "free (of charge)",
+      "ipa": "/friː/",
+      "ua": "безкоштовно",
+      "ru": "бесплатно",
+      "example": "Entry is free.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u15-l01",
+      "title": {
+        "en": "must and have to",
+        "ua": "must і have to",
+        "ru": "must и have to"
+      },
+      "recap": {
+        "from": "a2-u14-l06",
+        "note": {
+          "ua": "Згадаймо: haven't / hasn't + V3 · Have / Has … + V3? · Yes, I have. / No, she hasn't.",
+          "ru": "Вспомним: haven't / hasn't + V3 · Have / Has … + V3? · Yes, I have. / No, she hasn't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "I ___ seen her today.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "didn't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "I → haven't.",
+              "ru": "I → haven't."
+            },
+            "id": "a2-u15-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "Have they arrived? — Yes, they ___.",
+            "options": [
+              "have",
+              "did",
+              "are"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "Yes, they have.",
+              "ru": "Yes, they have."
+            },
+            "id": "a2-u15-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "must + дієслово · have to / has to + дієслово",
+          "ru": "must + глагол · have to / has to + глагол"
+        },
+        "explain": {
+          "ua": "Must — однаковий для всіх (she must). Have to змінюється: she has to. Must — часто правила й власна думка «треба». Have to — обов'язки ззовні (робота, закон).",
+          "ru": "Must — одинаковый для всех (she must). Have to меняется: she has to. Must — часто правила и собственное мнение «надо». Have to — обязанности извне (работа, закон)."
+        },
+        "examples": [
+          {
+            "en": "I must call my mum.",
+            "ua": "Мені треба подзвонити мамі.",
+            "ru": "Мне надо позвонить маме."
+          },
+          {
+            "en": "She has to wear a uniform.",
+            "ua": "Їй доводиться носити форму.",
+            "ru": "Ей приходится носить форму."
+          },
+          {
+            "en": "We have to get up early.",
+            "ua": "Нам треба рано вставати.",
+            "ru": "Нам надо рано вставать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "You ___ wear a seat belt in a car.",
+          "options": [
+            "must",
+            "musts",
+            "must to"
+          ],
+          "answer": "must",
+          "explain": {
+            "ua": "Must + базове дієслово.",
+            "ru": "Must + базовый глагол."
+          },
+          "id": "a2-u15-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "She ___ work on Saturdays.",
+          "options": [
+            "has to",
+            "have to",
+            "must to"
+          ],
+          "answer": "has to",
+          "explain": {
+            "ua": "She → has to.",
+            "ru": "She → has to."
+          },
+          "id": "a2-u15-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "Nurses ___ wear a uniform.",
+          "options": [
+            "have to",
+            "has to",
+            "must to"
+          ],
+          "answer": "have to",
+          "explain": {
+            "ua": "Nurses → have to.",
+            "ru": "Nurses → have to."
+          },
+          "id": "a2-u15-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "I must ___ now. It's late.",
+          "options": [
+            "go",
+            "to go",
+            "going"
+          ],
+          "answer": "go",
+          "explain": {
+            "ua": "Must + go (без to).",
+            "ru": "Must + go (без to)."
+          },
+          "id": "a2-u15-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "must-have-to",
+          "question": "He ___ to get up at 6. (have)",
+          "answer": "has",
+          "accept": [],
+          "explain": {
+            "ua": "He → has to.",
+            "ru": "He → has to."
+          },
+          "id": "a2-u15-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "must-have-to",
+          "sentence": "You must to stop here.",
+          "answer": "You must stop here.",
+          "accept": [],
+          "explain": {
+            "ua": "Після must — без to.",
+            "ru": "После must — без to."
+          },
+          "id": "a2-u15-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "must-have-to",
+          "sentence": "He have to go.",
+          "answer": "He has to go.",
+          "accept": [],
+          "explain": {
+            "ua": "He → has to.",
+            "ru": "He → has to."
+          },
+          "id": "a2-u15-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "must-have-to",
+          "audio_text": "You must wear a helmet.",
+          "options": [
+            "You must wear a helmet.",
+            "You mustn't wear a helmet.",
+            "You must wear a hat."
+          ],
+          "answer": "You must wear a helmet.",
+          "audio": "",
+          "explain": {
+            "ua": "Must.",
+            "ru": "Must."
+          },
+          "id": "a2-u15-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "must-have-to",
+          "prompt": {
+            "ua": "Мені треба йти.",
+            "ru": "Мне надо идти."
+          },
+          "answer": "I have to go.",
+          "accept": [
+            "I must go.",
+            "I've got to go."
+          ],
+          "explain": {
+            "ua": "Have to / must.",
+            "ru": "Have to / must."
+          },
+          "id": "a2-u15-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u15-l02",
+      "title": {
+        "en": "mustn't or don't have to?",
+        "ua": "mustn't чи don't have to?",
+        "ru": "mustn't или don't have to?"
+      },
+      "recap": {
+        "from": "a2-u15-l01",
+        "note": {
+          "ua": "Згадаймо: must + дієслово · have to / has to + дієслово",
+          "ru": "Вспомним: must + глагол · have to / has to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "must-have-to",
+            "question": "You ___ wear a seat belt in a car.",
+            "options": [
+              "must",
+              "musts",
+              "must to"
+            ],
+            "answer": "must",
+            "explain": {
+              "ua": "Must + базове дієслово.",
+              "ru": "Must + базовый глагол."
+            },
+            "id": "a2-u15-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "must-have-to",
+            "question": "He ___ to get up at 6. (have)",
+            "answer": "has",
+            "accept": [],
+            "explain": {
+              "ua": "He → has to.",
+              "ru": "He → has to."
+            },
+            "id": "a2-u15-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "mustn't = заборонено ⛔ · don't have to = не обов'язково 🙂",
+          "ru": "mustn't = запрещено ⛔ · don't have to = не обязательно 🙂"
+        },
+        "explain": {
+          "ua": "Mustn't — не можна, заборона: You mustn't smoke here. Don't have to — можна не робити: You don't have to pay, it's free.",
+          "ru": "Mustn't — нельзя, запрет: You mustn't smoke here. Don't have to — можно не делать: You don't have to pay, it's free."
+        },
+        "examples": [
+          {
+            "en": "You mustn't touch it! It's hot!",
+            "ua": "Не чіпай! Гаряче!",
+            "ru": "Не трогай! Горячо!"
+          },
+          {
+            "en": "You don't have to take a coat. It's warm.",
+            "ua": "Можна не брати пальто. Тепло.",
+            "ru": "Можно не брать пальто. Тепло."
+          },
+          {
+            "en": "She doesn't have to work tomorrow.",
+            "ua": "Їй не треба завтра працювати.",
+            "ru": "Ей не надо завтра работать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "mustnt-dont-have-to",
+          "question": "You ___ park here. It's for buses only.",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "must"
+          ],
+          "answer": "mustn't",
+          "explain": {
+            "ua": "Заборона → mustn't.",
+            "ru": "Запрет → mustn't."
+          },
+          "id": "a2-u15-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "mustnt-dont-have-to",
+          "question": "It's free. You ___ pay.",
+          "options": [
+            "don't have to",
+            "mustn't",
+            "must"
+          ],
+          "answer": "don't have to",
+          "explain": {
+            "ua": "Не потрібно → don't have to.",
+            "ru": "Не нужно → don't have to."
+          },
+          "id": "a2-u15-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "mustnt-dont-have-to",
+          "question": "Tomorrow is Sunday. I ___ get up early.",
+          "options": [
+            "don't have to",
+            "mustn't",
+            "must"
+          ],
+          "answer": "don't have to",
+          "explain": {
+            "ua": "Немає потреби.",
+            "ru": "Нет необходимости."
+          },
+          "id": "a2-u15-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "mustnt-dont-have-to",
+          "question": "You ___ tell anyone. It's a secret!",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "have to"
+          ],
+          "answer": "mustn't",
+          "explain": {
+            "ua": "Заборона.",
+            "ru": "Запрет."
+          },
+          "id": "a2-u15-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "mustnt-dont-have-to",
+          "question": "She ___ wear a uniform at her new job.",
+          "options": [
+            "doesn't have to",
+            "don't have to",
+            "mustn't to"
+          ],
+          "answer": "doesn't have to",
+          "explain": {
+            "ua": "She → doesn't have to.",
+            "ru": "She → doesn't have to."
+          },
+          "id": "a2-u15-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "mustnt-dont-have-to",
+          "pairs": [
+            {
+              "left": "No smoking.",
+              "right": "You mustn't smoke."
+            },
+            {
+              "left": "Entry is free.",
+              "right": "You don't have to pay."
+            },
+            {
+              "left": "No dogs.",
+              "right": "Dogs mustn't come in."
+            },
+            {
+              "left": "Tickets are optional.",
+              "right": "You don't have to buy a ticket."
+            }
+          ],
+          "explain": {
+            "ua": "Знак → правило.",
+            "ru": "Знак → правило."
+          },
+          "id": "a2-u15-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "mustnt-dont-have-to",
+          "sentence": "You mustn't come if you are busy.",
+          "answer": "You don't have to come if you are busy.",
+          "accept": [],
+          "explain": {
+            "ua": "Не обов'язково → don't have to.",
+            "ru": "Не обязательно → don't have to."
+          },
+          "id": "a2-u15-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "mustnt-dont-have-to",
+          "sentence": "You don't have to swim here. It's dangerous!",
+          "answer": "You mustn't swim here. It's dangerous!",
+          "accept": [
+            "You mustn't swim here."
+          ],
+          "explain": {
+            "ua": "Небезпечно → заборона → mustn't.",
+            "ru": "Опасно → запрет → mustn't."
+          },
+          "id": "a2-u15-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "mustnt-dont-have-to",
+          "prompt": {
+            "ua": "Тут не можна паркуватися.",
+            "ru": "Здесь нельзя парковаться."
+          },
+          "answer": "You mustn't park here.",
+          "accept": [
+            "You can't park here.",
+            "You must not park here."
+          ],
+          "explain": {
+            "ua": "Mustn't.",
+            "ru": "Mustn't."
+          },
+          "id": "a2-u15-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u15-l03",
+      "title": {
+        "en": "Practice: rules",
+        "ua": "Практика: правила",
+        "ru": "Практика: правила"
+      },
+      "recap": {
+        "from": "a2-u15-l02",
+        "note": {
+          "ua": "Згадаймо: mustn't = заборонено ⛔ · don't have to = не обов'язково 🙂",
+          "ru": "Вспомним: mustn't = запрещено ⛔ · don't have to = не обязательно 🙂"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "mustnt-dont-have-to",
+            "question": "You ___ park here. It's for buses only.",
+            "options": [
+              "mustn't",
+              "don't have to",
+              "must"
+            ],
+            "answer": "mustn't",
+            "explain": {
+              "ua": "Заборона → mustn't.",
+              "ru": "Запрет → mustn't."
+            },
+            "id": "a2-u15-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "mustnt-dont-have-to",
+            "question": "She ___ wear a uniform at her new job.",
+            "options": [
+              "doesn't have to",
+              "don't have to",
+              "mustn't to"
+            ],
+            "answer": "doesn't have to",
+            "explain": {
+              "ua": "She → doesn't have to.",
+              "ru": "She → doesn't have to."
+            },
+            "id": "a2-u15-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "Do you have to work on Sundays? — No, I ___.",
+          "options": [
+            "don't",
+            "mustn't",
+            "haven't"
+          ],
+          "answer": "don't",
+          "explain": {
+            "ua": "No, I don't.",
+            "ru": "No, I don't."
+          },
+          "id": "a2-u15-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "must-have-to",
+          "question": "___ she have to wear a uniform?",
+          "options": [
+            "Does",
+            "Do",
+            "Must"
+          ],
+          "answer": "Does",
+          "explain": {
+            "ua": "Does she have to…?",
+            "ru": "Does she have to…?"
+          },
+          "id": "a2-u15-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Visitors have to pay on Mondays.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "You mustn't eat in the museum.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What can't you do in the museum?",
+              "options": [
+                "take photos with flash",
+                "buy a ticket",
+                "visit on Monday"
+              ],
+              "answer": "take photos with flash"
+            }
+          ],
+          "text": "Museum rules. Entry is free on Mondays — you don't have to buy a ticket. On other days you have to buy a ticket at the door. You mustn't eat or drink in the museum. You can take photos, but you mustn't use flash. Children under 10 have to be with an adult.",
+          "explain": {
+            "ua": "Free on Mondays, no food, no flash.",
+            "ru": "Free on Mondays, no food, no flash."
+          },
+          "id": "a2-u15-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "must-have-to",
+          "bank": [
+            "don't have to",
+            "have to",
+            "mustn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "On Mondays you ___ buy a ticket.",
+            "On other days you ___ buy a ticket.",
+            "You ___ eat in the museum.",
+            "Children under 10 ___ be with an adult."
+          ],
+          "answers": [
+            "don't have to",
+            "have to",
+            "mustn't",
+            "have to"
+          ],
+          "explain": {
+            "ua": "Перечитай правила.",
+            "ru": "Перечитай правила."
+          },
+          "id": "a2-u15-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "must-have-to",
+          "sentence": "Do you must work today?",
+          "answer": "Do you have to work today?",
+          "accept": [
+            "Must you work today?"
+          ],
+          "explain": {
+            "ua": "Питання — Do you have to…?",
+            "ru": "Вопрос — Do you have to…?"
+          },
+          "id": "a2-u15-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "must-have-to",
+          "sentence": "I mustn't to go.",
+          "answer": "I mustn't go.",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "a2-u15-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "have",
+            "adult",
+            "with",
+            "to",
+            "Children",
+            "be",
+            "an"
+          ],
+          "answer": "Children have to be with an adult",
+          "explain": {
+            "ua": "Have to be → with an adult.",
+            "ru": "Have to be → with an adult."
+          },
+          "id": "a2-u15-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "must-have-to",
+          "audio_text": "You don't have to pay. It's free.",
+          "options": [
+            "You don't have to pay. It's free.",
+            "You mustn't pay. It's free.",
+            "You don't have to play. It's free."
+          ],
+          "answer": "You don't have to pay. It's free.",
+          "audio": "",
+          "explain": {
+            "ua": "Don't have to.",
+            "ru": "Don't have to."
+          },
+          "id": "a2-u15-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "must-have-to",
+          "prompt": {
+            "ua": "Тобі не обов'язково чекати.",
+            "ru": "Тебе не обязательно ждать."
+          },
+          "answer": "You don't have to wait.",
+          "accept": [],
+          "explain": {
+            "ua": "Don't have to.",
+            "ru": "Don't have to."
+          },
+          "id": "a2-u15-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "must-have-to",
+      "question": "You ___ wear a helmet on a bike.",
+      "options": [
+        "must",
+        "must to",
+        "musts"
+      ],
+      "answer": "must",
+      "explain": {
+        "ua": "Must.",
+        "ru": "Must."
+      },
+      "id": "a2-u15-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "must-have-to",
+      "question": "He ___ work late today.",
+      "options": [
+        "has to",
+        "have to",
+        "must to"
+      ],
+      "answer": "has to",
+      "explain": {
+        "ua": "He → has to.",
+        "ru": "He → has to."
+      },
+      "id": "a2-u15-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "mustnt-dont-have-to",
+      "question": "You ___ smoke in the hospital.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "must"
+      ],
+      "answer": "mustn't",
+      "explain": {
+        "ua": "Заборона.",
+        "ru": "Запрет."
+      },
+      "id": "a2-u15-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "mustnt-dont-have-to",
+      "question": "It's Saturday! We ___ go to work.",
+      "options": [
+        "don't have to",
+        "mustn't",
+        "have to"
+      ],
+      "answer": "don't have to",
+      "explain": {
+        "ua": "Не треба.",
+        "ru": "Не надо."
+      },
+      "id": "a2-u15-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "must-have-to",
+      "question": "___ you have to get up early?",
+      "answer": "Do",
+      "accept": [],
+      "explain": {
+        "ua": "Do you have to…?",
+        "ru": "Do you have to…?"
+      },
+      "id": "a2-u15-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "mustnt-dont-have-to",
+      "question": "She ___ have to cook. Her husband cooks.",
+      "answer": "doesn't",
+      "accept": [
+        "does not"
+      ],
+      "explain": {
+        "ua": "Doesn't have to.",
+        "ru": "Doesn't have to."
+      },
+      "id": "a2-u15-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "rule",
+          "right": {
+            "ua": "правило",
+            "ru": "правило"
+          }
+        },
+        {
+          "left": "allowed",
+          "right": {
+            "ua": "дозволено",
+            "ru": "разрешено"
+          }
+        },
+        {
+          "left": "helmet",
+          "right": {
+            "ua": "шолом",
+            "ru": "шлем"
+          }
+        },
+        {
+          "left": "seat belt",
+          "right": {
+            "ua": "пасок безпеки",
+            "ru": "ремень безопасности"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u15-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "must-have-to",
+      "sentence": "You must to be quiet.",
+      "answer": "You must be quiet.",
+      "accept": [],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "a2-u15-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "mustnt-dont-have-to",
+      "sentence": "You mustn't buy a ticket. It's free.",
+      "answer": "You don't have to buy a ticket. It's free.",
+      "accept": [],
+      "explain": {
+        "ua": "Не обов'язково.",
+        "ru": "Не обязательно."
+      },
+      "id": "a2-u15-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "mustnt-dont-have-to",
+      "words": [
+        "use",
+        "here",
+        "your",
+        "phone",
+        "You",
+        "mustn't"
+      ],
+      "answer": "You mustn't use your phone here",
+      "explain": {
+        "ua": "You mustn't → use your phone → here.",
+        "ru": "You mustn't → use your phone → here."
+      },
+      "id": "a2-u15-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "must-have-to",
+      "prompt": {
+        "ua": "Мені доводиться працювати по суботах.",
+        "ru": "Мне приходится работать по субботам."
+      },
+      "answer": "I have to work on Saturdays.",
+      "accept": [
+        "I have to work on Saturday."
+      ],
+      "explain": {
+        "ua": "Have to.",
+        "ru": "Have to."
+      },
+      "id": "a2-u15-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "must-have-to",
+      "audio_text": "Dogs aren't allowed.",
+      "options": [
+        "Dogs aren't allowed.",
+        "Dogs are allowed.",
+        "Dogs aren't aloud."
+      ],
+      "answer": "Dogs aren't allowed.",
+      "audio": "",
+      "explain": {
+        "ua": "Allowed — дозволено.",
+        "ru": "Allowed — разрешено."
+      },
+      "id": "a2-u15-cp12"
+    }
+  ]
+}

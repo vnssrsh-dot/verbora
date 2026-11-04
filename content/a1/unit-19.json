@@ -1,0 +1,1511 @@
+{
+  "id": "a1-u19",
+  "level": "A1",
+  "order": 19,
+  "kind": "vocab",
+  "title": {
+    "en": "Time and calendar",
+    "ua": "Час і календар",
+    "ru": "Время и календарь"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "Monday",
+      "ipa": "/ˈmʌndeɪ/",
+      "ua": "понеділок",
+      "ru": "понедельник",
+      "example": "on Monday",
+      "audio": ""
+    },
+    {
+      "word": "Tuesday",
+      "ipa": "/ˈtjuːzdeɪ/",
+      "ua": "вівторок",
+      "ru": "вторник",
+      "example": "on Tuesday",
+      "audio": ""
+    },
+    {
+      "word": "Wednesday",
+      "ipa": "/ˈwenzdeɪ/",
+      "ua": "середа",
+      "ru": "среда",
+      "example": "on Wednesday",
+      "audio": ""
+    },
+    {
+      "word": "Thursday",
+      "ipa": "/ˈθɜːzdeɪ/",
+      "ua": "четвер",
+      "ru": "четверг",
+      "example": "on Thursday",
+      "audio": ""
+    },
+    {
+      "word": "Friday",
+      "ipa": "/ˈfraɪdeɪ/",
+      "ua": "п'ятниця",
+      "ru": "пятница",
+      "example": "on Friday",
+      "audio": ""
+    },
+    {
+      "word": "Saturday",
+      "ipa": "/ˈsætədeɪ/",
+      "ua": "субота",
+      "ru": "суббота",
+      "example": "on Saturday",
+      "audio": ""
+    },
+    {
+      "word": "Sunday",
+      "ipa": "/ˈsʌndeɪ/",
+      "ua": "неділя",
+      "ru": "воскресенье",
+      "example": "on Sunday",
+      "audio": ""
+    },
+    {
+      "word": "January",
+      "ipa": "/ˈdʒænjuəri/",
+      "ua": "січень",
+      "ru": "январь",
+      "example": "in January",
+      "audio": ""
+    },
+    {
+      "word": "May",
+      "ipa": "/meɪ/",
+      "ua": "травень",
+      "ru": "май",
+      "example": "in May",
+      "audio": ""
+    },
+    {
+      "word": "September",
+      "ipa": "/sepˈtembə/",
+      "ua": "вересень",
+      "ru": "сентябрь",
+      "example": "in September",
+      "audio": ""
+    },
+    {
+      "word": "spring",
+      "ipa": "/sprɪŋ/",
+      "ua": "весна",
+      "ru": "весна",
+      "example": "in spring",
+      "audio": ""
+    },
+    {
+      "word": "summer",
+      "ipa": "/ˈsʌmə/",
+      "ua": "літо",
+      "ru": "лето",
+      "example": "in summer",
+      "audio": ""
+    },
+    {
+      "word": "autumn",
+      "ipa": "/ˈɔːtəm/",
+      "ua": "осінь",
+      "ru": "осень",
+      "example": "in autumn",
+      "audio": ""
+    },
+    {
+      "word": "winter",
+      "ipa": "/ˈwɪntə/",
+      "ua": "зима",
+      "ru": "зима",
+      "example": "in winter",
+      "audio": ""
+    },
+    {
+      "word": "half past",
+      "ipa": "/ˈhɑːf pɑːst/",
+      "ua": "пів на (… + 30 хв)",
+      "ru": "половина (… + 30 мин)",
+      "example": "half past seven = 7:30",
+      "audio": ""
+    },
+    {
+      "word": "quarter past",
+      "ipa": "/ˈkwɔːtə pɑːst/",
+      "ua": "чверть на (… + 15 хв)",
+      "ru": "четверть (… + 15 мин)",
+      "example": "quarter past six = 6:15",
+      "audio": ""
+    },
+    {
+      "word": "What time is it?",
+      "ipa": "/ˌwɒt ˈtaɪm ɪz ɪt/",
+      "ua": "Котра година?",
+      "ru": "Который час?",
+      "example": "What time is it? — It's three o'clock.",
+      "audio": ""
+    },
+    {
+      "word": "week",
+      "ipa": "/wiːk/",
+      "ua": "тиждень",
+      "ru": "неделя",
+      "example": "every week",
+      "audio": ""
+    },
+    {
+      "word": "month",
+      "ipa": "/mʌnθ/",
+      "ua": "місяць",
+      "ru": "месяц",
+      "example": "every month",
+      "audio": ""
+    },
+    {
+      "word": "year",
+      "ipa": "/jɪə/",
+      "ua": "рік",
+      "ru": "год",
+      "example": "every year",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u19-l01",
+      "title": {
+        "en": "Days of the week",
+        "ua": "Дні тижня",
+        "ru": "Дни недели"
+      },
+      "recap": {
+        "from": "a1-u18-l02",
+        "note": {
+          "ua": "Згадаймо: at 7 · at night · on Monday · on Sundays · in the morning · in June",
+          "ru": "Вспомним: at 7 · at night · on Monday · on Sundays · in the morning · in June"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I start work ___ 9 o'clock.",
+            "options": [
+              "at",
+              "on",
+              "in"
+            ],
+            "answer": "at",
+            "explain": {
+              "ua": "Година — at.",
+              "ru": "Час — at."
+            },
+            "id": "a1-u19-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I sleep ___ night.",
+            "options": [
+              "at",
+              "in",
+              "on"
+            ],
+            "answer": "at",
+            "explain": {
+              "ua": "Виняток: at night.",
+              "ru": "Исключение: at night."
+            },
+            "id": "a1-u19-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Monday",
+              "right": {
+                "ua": "понеділок",
+                "ru": "понедельник"
+              }
+            },
+            {
+              "left": "Wednesday",
+              "right": {
+                "ua": "середа",
+                "ru": "среда"
+              }
+            },
+            {
+              "left": "Friday",
+              "right": {
+                "ua": "п'ятниця",
+                "ru": "пятница"
+              }
+            },
+            {
+              "left": "Sunday",
+              "right": {
+                "ua": "неділя",
+                "ru": "воскресенье"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u19-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Monday, Tuesday, ___",
+          "options": [
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+          ],
+          "answer": "Wednesday",
+          "explain": {
+            "ua": "Після вівторка — середа.",
+            "ru": "После вторника — среда."
+          },
+          "id": "a1-u19-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Thursday, Friday, ___",
+          "options": [
+            "Saturday",
+            "Monday",
+            "Tuesday"
+          ],
+          "answer": "Saturday",
+          "explain": {
+            "ua": "Після п'ятниці — субота.",
+            "ru": "После пятницы — суббота."
+          },
+          "id": "a1-u19-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Saturday and Sunday are the ___.",
+          "options": [
+            "weekend",
+            "week",
+            "month"
+          ],
+          "answer": "weekend",
+          "explain": {
+            "ua": "Weekend — вихідні.",
+            "ru": "Weekend — выходные."
+          },
+          "id": "a1-u19-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "The day after Sunday is ___.",
+          "answer": "Monday",
+          "accept": [],
+          "explain": {
+            "ua": "Неділя → понеділок.",
+            "ru": "Воскресенье → понедельник."
+          },
+          "id": "a1-u19-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "See you on monday!",
+          "answer": "See you on Monday!",
+          "accept": [],
+          "explain": {
+            "ua": "Дні тижня — з великої літери.",
+            "ru": "Дни недели — с большой буквы."
+          },
+          "id": "a1-u19-l01-e06"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈwenzdeɪ/",
+          "options": [
+            "Wednesday",
+            "weekend",
+            "Tuesday"
+          ],
+          "answer": "Wednesday",
+          "explain": {
+            "ua": "Wednesday — перша d не читається!",
+            "ru": "Wednesday — первая d не читается!"
+          },
+          "id": "a1-u19-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I'm free on Thursday.",
+          "options": [
+            "I'm free on Thursday.",
+            "I'm free on Tuesday.",
+            "I'm free on Thirsday."
+          ],
+          "answer": "I'm free on Thursday.",
+          "audio": "",
+          "explain": {
+            "ua": "Thursday — з /θ/.",
+            "ru": "Thursday — с /θ/."
+          },
+          "id": "a1-u19-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-time",
+          "prompt": {
+            "ua": "Побачимося в п'ятницю!",
+            "ru": "Увидимся в пятницу!"
+          },
+          "answer": "See you on Friday!",
+          "accept": [],
+          "explain": {
+            "ua": "On Friday.",
+            "ru": "On Friday."
+          },
+          "id": "a1-u19-l01-e09"
+        }
+      ],
+      "words": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "week"
+      ]
+    },
+    {
+      "id": "a1-u19-l02",
+      "title": {
+        "en": "Months and seasons",
+        "ua": "Місяці й пори року",
+        "ru": "Месяцы и времена года"
+      },
+      "recap": {
+        "from": "a1-u19-l01",
+        "note": {
+          "ua": "Згадаймо: Дні тижня",
+          "ru": "Вспомним: Дни недели"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Monday, Tuesday, ___",
+            "options": [
+              "Wednesday",
+              "Thursday",
+              "Sunday"
+            ],
+            "answer": "Wednesday",
+            "explain": {
+              "ua": "Після вівторка — середа.",
+              "ru": "После вторника — среда."
+            },
+            "id": "a1-u19-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "The day after Sunday is ___.",
+            "answer": "Monday",
+            "accept": [],
+            "explain": {
+              "ua": "Неділя → понеділок.",
+              "ru": "Воскресенье → понедельник."
+            },
+            "id": "a1-u19-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "spring",
+              "right": {
+                "ua": "весна",
+                "ru": "весна"
+              }
+            },
+            {
+              "left": "summer",
+              "right": {
+                "ua": "літо",
+                "ru": "лето"
+              }
+            },
+            {
+              "left": "autumn",
+              "right": {
+                "ua": "осінь",
+                "ru": "осень"
+              }
+            },
+            {
+              "left": "winter",
+              "right": {
+                "ua": "зима",
+                "ru": "зима"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u19-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "December, January, February = ___",
+          "options": [
+            "winter",
+            "summer",
+            "spring"
+          ],
+          "answer": "winter",
+          "explain": {
+            "ua": "Зимові місяці.",
+            "ru": "Зимние месяцы."
+          },
+          "id": "a1-u19-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "June, July, August = ___",
+          "options": [
+            "summer",
+            "autumn",
+            "winter"
+          ],
+          "answer": "summer",
+          "explain": {
+            "ua": "Літо.",
+            "ru": "Лето."
+          },
+          "id": "a1-u19-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I was born ___ May.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Місяці — in.",
+            "ru": "Месяцы — in."
+          },
+          "id": "a1-u19-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "We go to the sea ___ summer.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Пори року — in.",
+            "ru": "Времена года — in."
+          },
+          "id": "a1-u19-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "The month after August is ___.",
+          "answer": "September",
+          "accept": [],
+          "explain": {
+            "ua": "Серпень → вересень.",
+            "ru": "Август → сентябрь."
+          },
+          "id": "a1-u19-l02-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "12 months.",
+          "answer": "year",
+          "accept": [
+            "a year"
+          ],
+          "explain": {
+            "ua": "Year — рік.",
+            "ru": "Year — год."
+          },
+          "id": "a1-u19-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My birthday is in june.",
+          "answer": "My birthday is in June.",
+          "accept": [],
+          "explain": {
+            "ua": "Місяці — з великої літери.",
+            "ru": "Месяцы — с большой буквы."
+          },
+          "id": "a1-u19-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я люблю осінь.",
+            "ru": "Я люблю осень."
+          },
+          "answer": "I love autumn.",
+          "accept": [
+            "I like autumn.",
+            "I love fall."
+          ],
+          "explain": {
+            "ua": "Autumn — без артикля.",
+            "ru": "Autumn — без артикля."
+          },
+          "id": "a1-u19-l02-e09"
+        }
+      ],
+      "words": [
+        "January",
+        "May",
+        "September",
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "month",
+        "year"
+      ]
+    },
+    {
+      "id": "a1-u19-l03",
+      "title": {
+        "en": "Telling the time",
+        "ua": "Котра година",
+        "ru": "Который час"
+      },
+      "recap": {
+        "from": "a1-u19-l02",
+        "note": {
+          "ua": "Згадаймо: Місяці й пори року",
+          "ru": "Вспомним: Месяцы и времена года"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "December, January, February = ___",
+            "options": [
+              "winter",
+              "summer",
+              "spring"
+            ],
+            "answer": "winter",
+            "explain": {
+              "ua": "Зимові місяці.",
+              "ru": "Зимние месяцы."
+            },
+            "id": "a1-u19-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "The month after August is ___.",
+            "answer": "September",
+            "accept": [],
+            "explain": {
+              "ua": "Серпень → вересень.",
+              "ru": "Август → сентябрь."
+            },
+            "id": "a1-u19-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "7:00 = ___",
+          "options": [
+            "seven o'clock",
+            "half past seven",
+            "quarter past seven"
+          ],
+          "answer": "seven o'clock",
+          "explain": {
+            "ua": "Рівно — o'clock.",
+            "ru": "Ровно — o'clock."
+          },
+          "id": "a1-u19-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "7:30 = ___",
+          "options": [
+            "half past seven",
+            "half past eight",
+            "seven o'clock"
+          ],
+          "answer": "half past seven",
+          "explain": {
+            "ua": "Half past — + 30 хв.",
+            "ru": "Half past — + 30 мин."
+          },
+          "id": "a1-u19-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "6:15 = ___",
+          "options": [
+            "quarter past six",
+            "half past six",
+            "quarter to six"
+          ],
+          "answer": "quarter past six",
+          "explain": {
+            "ua": "Quarter past — + 15 хв.",
+            "ru": "Quarter past — + 15 мин."
+          },
+          "id": "a1-u19-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What time is it? — ___",
+          "options": [
+            "It's three o'clock.",
+            "It's Monday.",
+            "It's summer."
+          ],
+          "answer": "It's three o'clock.",
+          "explain": {
+            "ua": "Котра година — It's…",
+            "ru": "Который час — It's…"
+          },
+          "id": "a1-u19-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "9:00",
+              "right": "nine o'clock"
+            },
+            {
+              "left": "9:30",
+              "right": "half past nine"
+            },
+            {
+              "left": "9:15",
+              "right": "quarter past nine"
+            },
+            {
+              "left": "10:00",
+              "right": "ten o'clock"
+            }
+          ],
+          "explain": {
+            "ua": "Час.",
+            "ru": "Время."
+          },
+          "id": "a1-u19-l03-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "2:30 = half ___ two",
+          "answer": "past",
+          "accept": [],
+          "explain": {
+            "ua": "Half past two.",
+            "ru": "Half past two."
+          },
+          "id": "a1-u19-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It's seven hours.",
+          "answer": "It's seven o'clock.",
+          "accept": [
+            "It's 7 o'clock."
+          ],
+          "explain": {
+            "ua": "Час — o'clock, не hours.",
+            "ru": "Время — o'clock, не hours."
+          },
+          "id": "a1-u19-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It's half past four.",
+          "options": [
+            "It's half past four.",
+            "It's half past five.",
+            "It's quarter past four."
+          ],
+          "answer": "It's half past four.",
+          "audio": "",
+          "explain": {
+            "ua": "Half past four = 4:30.",
+            "ru": "Half past four = 4:30."
+          },
+          "id": "a1-u19-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Котра година?",
+            "ru": "Который час?"
+          },
+          "answer": "What time is it?",
+          "accept": [
+            "What's the time?"
+          ],
+          "explain": {
+            "ua": "What time is it?",
+            "ru": "What time is it?"
+          },
+          "id": "a1-u19-l03-e09"
+        }
+      ],
+      "words": [
+        "What time is it?",
+        "half past",
+        "quarter past"
+      ]
+    },
+    {
+      "id": "a1-u19-l04",
+      "title": {
+        "en": "In context: plans for the week",
+        "ua": "У контексті: плани на тиждень",
+        "ru": "В контексте: планы на неделю"
+      },
+      "recap": {
+        "from": "a1-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Котра година",
+          "ru": "Вспомним: Который час"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "7:00 = ___",
+            "options": [
+              "seven o'clock",
+              "half past seven",
+              "quarter past seven"
+            ],
+            "answer": "seven o'clock",
+            "explain": {
+              "ua": "Рівно — o'clock.",
+              "ru": "Ровно — o'clock."
+            },
+            "id": "a1-u19-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What time is it? — ___",
+            "options": [
+              "It's three o'clock.",
+              "It's Monday.",
+              "It's summer."
+            ],
+            "answer": "It's three o'clock.",
+            "explain": {
+              "ua": "Котра година — It's…",
+              "ru": "Который час — It's…"
+            },
+            "id": "a1-u19-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "When is the meeting?",
+              "options": [
+                "on Tuesday at 10",
+                "on Monday at 9",
+                "on Friday at 3"
+              ],
+              "answer": "on Tuesday at 10"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kate is free on Wednesday.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The party is on Sunday.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "Kate, are you free this week?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "Let me see… On Tuesday I've got a meeting at 10 o'clock."
+            },
+            {
+              "speaker": "Max",
+              "line": "And on Wednesday?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "On Wednesday I'm free!"
+            },
+            {
+              "speaker": "Max",
+              "line": "Great. And there's a party on Saturday at half past seven."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Saturday is good. See you then!"
+            }
+          ],
+          "explain": {
+            "ua": "Meeting — Tuesday 10, free Wednesday, party Saturday.",
+            "ru": "Meeting — Tuesday 10, free Wednesday, party Saturday."
+          },
+          "id": "a1-u19-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday",
+            "half past"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The meeting is on ___.",
+            "Kate is free on ___.",
+            "The party is on ___.",
+            "The party is at ___ seven."
+          ],
+          "answers": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday",
+            "half past"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a1-u19-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "7:30 in the dialogue = ___",
+          "options": [
+            "half past seven",
+            "seven o'clock",
+            "quarter past seven"
+          ],
+          "answer": "half past seven",
+          "explain": {
+            "ua": "Half past seven.",
+            "ru": "Half past seven."
+          },
+          "id": "a1-u19-l04-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Are you free?",
+              "right": {
+                "ua": "Ти вільний?",
+                "ru": "Ты свободен?"
+              }
+            },
+            {
+              "left": "Let me see…",
+              "right": {
+                "ua": "Зараз подивлюся…",
+                "ru": "Сейчас посмотрю…"
+              }
+            },
+            {
+              "left": "See you then!",
+              "right": {
+                "ua": "Тоді й побачимося!",
+                "ru": "Тогда увидимся!"
+              }
+            },
+            {
+              "left": "this week",
+              "right": {
+                "ua": "цього тижня",
+                "ru": "на этой неделе"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a1-u19-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "7 days.",
+          "answer": "week",
+          "accept": [
+            "a week"
+          ],
+          "explain": {
+            "ua": "Week — тиждень.",
+            "ru": "Week — неделя."
+          },
+          "id": "a1-u19-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-time",
+          "sentence": "The party is in Saturday.",
+          "answer": "The party is on Saturday.",
+          "accept": [],
+          "explain": {
+            "ua": "Дні — on.",
+            "ru": "Дни — on."
+          },
+          "id": "a1-u19-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "free",
+            "am",
+            "on",
+            "I",
+            "Wednesday"
+          ],
+          "answer": "I am free on Wednesday",
+          "explain": {
+            "ua": "I am free → on Wednesday.",
+            "ru": "I am free → on Wednesday."
+          },
+          "id": "a1-u19-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-time",
+          "prompt": {
+            "ua": "У неділю я вільна.",
+            "ru": "В воскресенье я свободна."
+          },
+          "answer": "I'm free on Sunday.",
+          "accept": [
+            "I am free on Sunday.",
+            "On Sunday I'm free.",
+            "On Sunday I am free."
+          ],
+          "explain": {
+            "ua": "On Sunday.",
+            "ru": "On Sunday."
+          },
+          "id": "a1-u19-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u19-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u19-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: плани на тиждень",
+          "ru": "Вспомним: В контексте: планы на неделю"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "7:30 in the dialogue = ___",
+            "options": [
+              "half past seven",
+              "seven o'clock",
+              "quarter past seven"
+            ],
+            "answer": "half past seven",
+            "explain": {
+              "ua": "Half past seven.",
+              "ru": "Half past seven."
+            },
+            "id": "a1-u19-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "prepositions-time",
+            "sentence": "The party is in Saturday.",
+            "answer": "The party is on Saturday.",
+            "accept": [],
+            "explain": {
+              "ua": "Дні — on.",
+              "ru": "Дни — on."
+            },
+            "id": "a1-u19-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Tuesday",
+              "right": {
+                "ua": "вівторок",
+                "ru": "вторник"
+              }
+            },
+            {
+              "left": "Thursday",
+              "right": {
+                "ua": "четвер",
+                "ru": "четверг"
+              }
+            },
+            {
+              "left": "Saturday",
+              "right": {
+                "ua": "субота",
+                "ru": "суббота"
+              }
+            },
+            {
+              "left": "month",
+              "right": {
+                "ua": "місяць",
+                "ru": "месяц"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u19-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a day?",
+          "options": [
+            "May",
+            "Monday",
+            "Friday"
+          ],
+          "answer": "May",
+          "explain": {
+            "ua": "May — місяць.",
+            "ru": "May — месяц."
+          },
+          "id": "a1-u19-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a season?",
+          "options": [
+            "September",
+            "winter",
+            "spring"
+          ],
+          "answer": "September",
+          "explain": {
+            "ua": "September — місяць.",
+            "ru": "September — месяц."
+          },
+          "id": "a1-u19-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "8:15 = ___",
+          "options": [
+            "quarter past eight",
+            "half past eight",
+            "eight o'clock"
+          ],
+          "answer": "quarter past eight",
+          "explain": {
+            "ua": "Quarter past.",
+            "ru": "Quarter past."
+          },
+          "id": "a1-u19-l05-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "prepositions-time",
+          "bank": [
+            "at",
+            "on",
+            "in"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ Friday",
+            "___ winter",
+            "___ half past six",
+            "___ July"
+          ],
+          "answers": [
+            "on",
+            "in",
+            "at",
+            "in"
+          ],
+          "explain": {
+            "ua": "on Friday, in winter, at 6:30, in July.",
+            "ru": "on Friday, in winter, at 6:30, in July."
+          },
+          "id": "a1-u19-l05-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The season after summer.",
+          "answer": "autumn",
+          "accept": [
+            "fall"
+          ],
+          "explain": {
+            "ua": "Autumn — осінь.",
+            "ru": "Autumn — осень."
+          },
+          "id": "a1-u19-l05-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "snow",
+          "answer": "winter",
+          "accept": [],
+          "explain": {
+            "ua": "Сніг → зима.",
+            "ru": "Снег → зима."
+          },
+          "id": "a1-u19-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I work from monday to friday.",
+          "answer": "I work from Monday to Friday.",
+          "accept": [],
+          "explain": {
+            "ua": "Дні — з великої літери.",
+            "ru": "Дни — с большой буквы."
+          },
+          "id": "a1-u19-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "My birthday is in September.",
+          "options": [
+            "My birthday is in September.",
+            "My birthday is in December.",
+            "My birthday is on September."
+          ],
+          "answer": "My birthday is in September.",
+          "audio": "",
+          "explain": {
+            "ua": "In September.",
+            "ru": "In September."
+          },
+          "id": "a1-u19-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Зараз пів на дев'яту.",
+            "ru": "Сейчас половина девятого."
+          },
+          "answer": "It's half past eight.",
+          "accept": [
+            "It is half past eight."
+          ],
+          "explain": {
+            "ua": "8:30 = half past eight.",
+            "ru": "8:30 = half past eight."
+          },
+          "id": "a1-u19-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Friday, Saturday, ___",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Thursday"
+      ],
+      "answer": "Sunday",
+      "explain": {
+        "ua": "Неділя.",
+        "ru": "Воскресенье."
+      },
+      "id": "a1-u19-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "3:30 = ___",
+      "options": [
+        "half past three",
+        "half past four",
+        "three o'clock"
+      ],
+      "answer": "half past three",
+      "explain": {
+        "ua": "Half past three.",
+        "ru": "Half past three."
+      },
+      "id": "a1-u19-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "___ winter",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "in",
+      "explain": {
+        "ua": "In winter.",
+        "ru": "In winter."
+      },
+      "id": "a1-u19-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "— What time is it? — ___",
+      "options": [
+        "It's five o'clock.",
+        "It's Friday.",
+        "It's May."
+      ],
+      "answer": "It's five o'clock.",
+      "explain": {
+        "ua": "Котра година.",
+        "ru": "Который час."
+      },
+      "id": "a1-u19-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "The day after Monday is ___.",
+      "answer": "Tuesday",
+      "accept": [],
+      "explain": {
+        "ua": "Понеділок → вівторок.",
+        "ru": "Понедельник → вторник."
+      },
+      "id": "a1-u19-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "10:15 = quarter ___ ten",
+      "answer": "past",
+      "accept": [],
+      "explain": {
+        "ua": "Quarter past.",
+        "ru": "Quarter past."
+      },
+      "id": "a1-u19-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "spring",
+          "right": {
+            "ua": "весна",
+            "ru": "весна"
+          }
+        },
+        {
+          "left": "autumn",
+          "right": {
+            "ua": "осінь",
+            "ru": "осень"
+          }
+        },
+        {
+          "left": "week",
+          "right": {
+            "ua": "тиждень",
+            "ru": "неделя"
+          }
+        },
+        {
+          "left": "year",
+          "right": {
+            "ua": "рік",
+            "ru": "год"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u19-cp07"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Saturday and Sunday.",
+      "answer": "weekend",
+      "accept": [
+        "the weekend"
+      ],
+      "explain": {
+        "ua": "Weekend.",
+        "ru": "Weekend."
+      },
+      "id": "a1-u19-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "prepositions-time",
+      "sentence": "See you in Monday.",
+      "answer": "See you on Monday.",
+      "accept": [],
+      "explain": {
+        "ua": "On Monday.",
+        "ru": "On Monday."
+      },
+      "id": "a1-u19-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "It's nine hours.",
+      "answer": "It's nine o'clock.",
+      "accept": [
+        "It's 9 o'clock."
+      ],
+      "explain": {
+        "ua": "O'clock.",
+        "ru": "O'clock."
+      },
+      "id": "a1-u19-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Котра година?",
+        "ru": "Который час?"
+      },
+      "answer": "What time is it?",
+      "accept": [
+        "What's the time?"
+      ],
+      "explain": {
+        "ua": "What time is it?",
+        "ru": "What time is it?"
+      },
+      "id": "a1-u19-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I'm free on Wednesday.",
+      "options": [
+        "I'm free on Wednesday.",
+        "I'm free on Tuesday.",
+        "I'm free in Wednesday."
+      ],
+      "answer": "I'm free on Wednesday.",
+      "audio": "",
+      "explain": {
+        "ua": "Wednesday.",
+        "ru": "Wednesday."
+      },
+      "id": "a1-u19-cp12"
+    }
+  ]
+}

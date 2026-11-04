@@ -1,0 +1,1234 @@
+{
+  "id": "a1-u06",
+  "level": "A1",
+  "order": 6,
+  "kind": "grammar",
+  "title": {
+    "en": "Articles: a / an / the",
+    "ua": "Артиклі: a / an / the",
+    "ru": "Артикли: a / an / the"
+  },
+  "rule": {
+    "formula": {
+      "ua": "a / an — один, будь-який · the — конкретний, відомий",
+      "ru": "a / an — один, любой · the — конкретный, известный"
+    },
+    "explain": {
+      "ua": "Артикль — маленьке слово перед іменником. A / an — «один, якийсь» (про одну річ уперше). The — «той самий», коли зрозуміло, про що мова.",
+      "ru": "Артикль — маленькое слово перед существительным. A / an — «один, какой-то» (об одном предмете впервые). The — «тот самый», когда понятно, о чём речь."
+    },
+    "examples": [
+      {
+        "en": "I have a dog. The dog is big.",
+        "ua": "У мене є собака. Цей собака великий.",
+        "ru": "У меня есть собака. Эта собака большая."
+      },
+      {
+        "en": "She is an actress.",
+        "ua": "Вона акторка.",
+        "ru": "Она актриса."
+      },
+      {
+        "en": "Open the door, please.",
+        "ua": "Відчини двері, будь ласка.",
+        "ru": "Открой дверь, пожалуйста."
+      }
+    ],
+    "compare": {
+      "ua": "В українській артиклів немає, тому їх легко забути. Правило-рятівник: одна річ + перед нею нічого немає (my, his) → потрібен a / an.",
+      "ru": "В русском артиклей нет, поэтому их легко забыть. Правило-спасатель: один предмет + перед ним ничего нет (my, his) → нужен a / an."
+    }
+  },
+  "vocab": [
+    {
+      "word": "apple",
+      "ipa": "/ˈæpl/",
+      "ua": "яблуко",
+      "ru": "яблоко",
+      "example": "I have an apple.",
+      "audio": ""
+    },
+    {
+      "word": "egg",
+      "ipa": "/eɡ/",
+      "ua": "яйце",
+      "ru": "яйцо",
+      "example": "An egg, please.",
+      "audio": ""
+    },
+    {
+      "word": "orange",
+      "ipa": "/ˈɒrɪndʒ/",
+      "ua": "апельсин",
+      "ru": "апельсин",
+      "example": "This is an orange.",
+      "audio": ""
+    },
+    {
+      "word": "umbrella",
+      "ipa": "/ʌmˈbrelə/",
+      "ua": "парасолька",
+      "ru": "зонт",
+      "example": "Take an umbrella.",
+      "audio": ""
+    },
+    {
+      "word": "hour",
+      "ipa": "/ˈaʊə/",
+      "ua": "година",
+      "ru": "час",
+      "example": "I'm here for an hour.",
+      "audio": ""
+    },
+    {
+      "word": "house",
+      "ipa": "/haʊs/",
+      "ua": "будинок",
+      "ru": "дом",
+      "example": "They have a big house.",
+      "audio": ""
+    },
+    {
+      "word": "flat",
+      "ipa": "/flæt/",
+      "ua": "квартира",
+      "ru": "квартира",
+      "example": "We have a small flat.",
+      "audio": ""
+    },
+    {
+      "word": "door",
+      "ipa": "/dɔː/",
+      "ua": "двері",
+      "ru": "дверь",
+      "example": "Close the door, please.",
+      "audio": ""
+    },
+    {
+      "word": "window",
+      "ipa": "/ˈwɪndəʊ/",
+      "ua": "вікно",
+      "ru": "окно",
+      "example": "Open the window.",
+      "audio": ""
+    },
+    {
+      "word": "sun",
+      "ipa": "/sʌn/",
+      "ua": "сонце",
+      "ru": "солнце",
+      "example": "The sun is hot.",
+      "audio": ""
+    },
+    {
+      "word": "key",
+      "ipa": "/kiː/",
+      "ua": "ключ",
+      "ru": "ключ",
+      "example": "Where is the key?",
+      "audio": ""
+    },
+    {
+      "word": "bag",
+      "ipa": "/bæɡ/",
+      "ua": "сумка",
+      "ru": "сумка",
+      "example": "I have a new bag.",
+      "audio": ""
+    },
+    {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "ua": "книжка",
+      "ru": "книга",
+      "example": "The book is on the table.",
+      "audio": ""
+    },
+    {
+      "word": "table",
+      "ipa": "/ˈteɪbl/",
+      "ua": "стіл",
+      "ru": "стол",
+      "example": "The key is on the table.",
+      "audio": ""
+    },
+    {
+      "word": "music",
+      "ipa": "/ˈmjuːzɪk/",
+      "ua": "музика",
+      "ru": "музыка",
+      "example": "I love music.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u06-l01",
+      "title": {
+        "en": "a or an",
+        "ua": "a чи an",
+        "ru": "a или an"
+      },
+      "recap": {
+        "from": "a1-u05-l02",
+        "note": {
+          "ua": "Згадаймо: Бабусі, тітки, дядьки",
+          "ru": "Вспомним: Бабушки, тёти, дяди"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Your mother's mother.",
+            "answer": "grandmother",
+            "accept": [
+              "grandma",
+              "granny"
+            ],
+            "explain": {
+              "ua": "Grand- + mother.",
+              "ru": "Grand- + mother."
+            },
+            "id": "a1-u06-l01-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Your aunt's son or daughter.",
+            "answer": "cousin",
+            "accept": [],
+            "explain": {
+              "ua": "Cousin — і брат, і сестра.",
+              "ru": "Cousin — и брат, и сестра."
+            },
+            "id": "a1-u06-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "a + приголосний звук · an + голосний звук",
+          "ru": "a + согласный звук · an + гласный звук"
+        },
+        "explain": {
+          "ua": "A — перед приголосним звуком: a bag, a car. An — перед голосним звуком: an apple, an egg. Важливий звук, а не літера: an hour (h не читається), a university (/juː/).",
+          "ru": "A — перед согласным звуком: a bag, a car. An — перед гласным звуком: an apple, an egg. Важен звук, а не буква: an hour (h не читается), a university (/juː/)."
+        },
+        "examples": [
+          {
+            "en": "a dog, a house",
+            "ua": "собака, будинок",
+            "ru": "собака, дом"
+          },
+          {
+            "en": "an apple, an orange",
+            "ua": "яблуко, апельсин",
+            "ru": "яблоко, апельсин"
+          },
+          {
+            "en": "an hour",
+            "ua": "година",
+            "ru": "час"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ apple",
+          "options": [
+            "an",
+            "a"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "Apple починається з голосного звуку → an.",
+            "ru": "Apple начинается с гласного звука → an."
+          },
+          "id": "a1-u06-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ bag",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": "a",
+          "explain": {
+            "ua": "Bag — приголосний → a.",
+            "ru": "Bag — согласный → a."
+          },
+          "id": "a1-u06-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ egg",
+          "options": [
+            "an",
+            "a"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "Egg → an.",
+            "ru": "Egg → an."
+          },
+          "id": "a1-u06-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ house",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": "a",
+          "explain": {
+            "ua": "House — /h/ читається → a.",
+            "ru": "House — /h/ читается → a."
+          },
+          "id": "a1-u06-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ hour",
+          "options": [
+            "an",
+            "a"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "У hour h не читається, перший звук — голосний → an.",
+            "ru": "В hour h не читается, первый звук — гласный → an."
+          },
+          "id": "a1-u06-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "___ umbrella",
+          "options": [
+            "an",
+            "a"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "Umbrella → an.",
+            "ru": "Umbrella → an."
+          },
+          "id": "a1-u06-l01-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "articles-a-an",
+          "bank": [
+            "a",
+            "an"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I have ___ orange.",
+            "She is ___ teacher.",
+            "It's ___ old car.",
+            "This is ___ new flat."
+          ],
+          "answers": [
+            "an",
+            "a",
+            "an",
+            "a"
+          ],
+          "explain": {
+            "ua": "Дивимось на перше слово після артикля: orange → an, teacher → a, old → an, new → a.",
+            "ru": "Смотрим на первое слово после артикля: orange → an, teacher → a, old → an, new → a."
+          },
+          "id": "a1-u06-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-a-an",
+          "sentence": "He is a actor.",
+          "answer": "He is an actor.",
+          "accept": [],
+          "explain": {
+            "ua": "Actor починається з голосного → an.",
+            "ru": "Actor начинается с гласного → an."
+          },
+          "id": "a1-u06-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-a-an",
+          "prompt": {
+            "ua": "У мене є парасолька.",
+            "ru": "У меня есть зонт."
+          },
+          "answer": "I have an umbrella.",
+          "accept": [],
+          "explain": {
+            "ua": "Umbrella → an.",
+            "ru": "Umbrella → an."
+          },
+          "id": "a1-u06-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u06-l02",
+      "title": {
+        "en": "the",
+        "ua": "the",
+        "ru": "the"
+      },
+      "recap": {
+        "from": "a1-u06-l01",
+        "note": {
+          "ua": "Згадаймо: a + приголосний звук · an + голосний звук",
+          "ru": "Вспомним: a + согласный звук · an + гласный звук"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-a-an",
+            "question": "___ apple",
+            "options": [
+              "an",
+              "a"
+            ],
+            "answer": "an",
+            "explain": {
+              "ua": "Apple починається з голосного звуку → an.",
+              "ru": "Apple начинается с гласного звука → an."
+            },
+            "id": "a1-u06-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-a-an",
+            "question": "___ hour",
+            "options": [
+              "an",
+              "a"
+            ],
+            "answer": "an",
+            "explain": {
+              "ua": "У hour h не читається, перший звук — голосний → an.",
+              "ru": "В hour h не читается, первый звук — гласный → an."
+            },
+            "id": "a1-u06-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "the = той самий, конкретний",
+          "ru": "the = тот самый, конкретный"
+        },
+        "explain": {
+          "ua": "The — коли зрозуміло, про що саме: вже згадували (I have a dog. The dog is big), одна така річ (the sun) або видно з ситуації (Close the door).",
+          "ru": "The — когда понятно, о чём именно: уже упоминали (I have a dog. The dog is big), одна такая вещь (the sun) или видно из ситуации (Close the door)."
+        },
+        "examples": [
+          {
+            "en": "I have a cat. The cat is black.",
+            "ua": "У мене є кіт. Цей кіт чорний.",
+            "ru": "У меня есть кот. Этот кот чёрный."
+          },
+          {
+            "en": "The sun is hot.",
+            "ua": "Сонце гаряче.",
+            "ru": "Солнце горячее."
+          },
+          {
+            "en": "Where is the key?",
+            "ua": "Де ключ?",
+            "ru": "Где ключ?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-the",
+          "question": "I have a dog. ___ dog is big.",
+          "options": [
+            "The",
+            "A",
+            "An"
+          ],
+          "answer": "The",
+          "explain": {
+            "ua": "Вже згадали → the.",
+            "ru": "Уже упоминали → the."
+          },
+          "id": "a1-u06-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-the",
+          "question": "___ sun is hot today.",
+          "options": [
+            "The",
+            "A",
+            "An"
+          ],
+          "answer": "The",
+          "explain": {
+            "ua": "Сонце одне → the.",
+            "ru": "Солнце одно → the."
+          },
+          "id": "a1-u06-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-the",
+          "question": "Close ___ door, please.",
+          "options": [
+            "the",
+            "a",
+            "an"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Зрозуміло, які саме двері → the.",
+            "ru": "Понятно, какая именно дверь → the."
+          },
+          "id": "a1-u06-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-the",
+          "question": "Where is ___ key? I need it.",
+          "options": [
+            "the",
+            "a",
+            "an"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Конкретний ключ → the.",
+            "ru": "Конкретный ключ → the."
+          },
+          "id": "a1-u06-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-the",
+          "question": "She has a son and a daughter. ___ son is 5.",
+          "options": [
+            "The",
+            "A",
+            "An"
+          ],
+          "answer": "The",
+          "explain": {
+            "ua": "Вже згадали → the.",
+            "ru": "Уже упоминали → the."
+          },
+          "id": "a1-u06-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "articles-the",
+          "question": "Open ___ window, please. It's hot.",
+          "answer": "the",
+          "accept": [],
+          "explain": {
+            "ua": "Конкретне вікно в кімнаті → the.",
+            "ru": "Конкретное окно в комнате → the."
+          },
+          "id": "a1-u06-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-the",
+          "sentence": "I have a book. A book is new.",
+          "answer": "I have a book. The book is new.",
+          "accept": [
+            "The book is new."
+          ],
+          "explain": {
+            "ua": "Друге згадування → the.",
+            "ru": "Второе упоминание → the."
+          },
+          "id": "a1-u06-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "articles-the",
+          "audio_text": "The key is on the table.",
+          "options": [
+            "The key is on the table.",
+            "A key is on a table.",
+            "The key is in the table."
+          ],
+          "answer": "The key is on the table.",
+          "audio": "",
+          "explain": {
+            "ua": "The — «зе».",
+            "ru": "The — «зэ»."
+          },
+          "id": "a1-u06-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-the",
+          "prompt": {
+            "ua": "Де сумка?",
+            "ru": "Где сумка?"
+          },
+          "answer": "Where is the bag?",
+          "accept": [
+            "Where's the bag?"
+          ],
+          "explain": {
+            "ua": "Конкретна сумка → the.",
+            "ru": "Конкретная сумка → the."
+          },
+          "id": "a1-u06-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u06-l03",
+      "title": {
+        "en": "No article",
+        "ua": "Без артикля",
+        "ru": "Без артикля"
+      },
+      "recap": {
+        "from": "a1-u06-l02",
+        "note": {
+          "ua": "Згадаймо: the = той самий, конкретний",
+          "ru": "Вспомним: the = тот самый, конкретный"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-the",
+            "question": "I have a dog. ___ dog is big.",
+            "options": [
+              "The",
+              "A",
+              "An"
+            ],
+            "answer": "The",
+            "explain": {
+              "ua": "Вже згадали → the.",
+              "ru": "Уже упоминали → the."
+            },
+            "id": "a1-u06-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-the",
+            "question": "She has a son and a daughter. ___ son is 5.",
+            "options": [
+              "The",
+              "A",
+              "An"
+            ],
+            "answer": "The",
+            "explain": {
+              "ua": "Вже згадали → the.",
+              "ru": "Уже упоминали → the."
+            },
+            "id": "a1-u06-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "без артикля: множина взагалі · незлічувані · my / his · імена",
+          "ru": "без артикля: множественное вообще · неисчисляемые · my / his · имена"
+        },
+        "explain": {
+          "ua": "Артикль не потрібен: перед множиною взагалі (I love dogs), перед незлічуваними словами взагалі (I love music), якщо є my / your / his, перед іменами й країнами (Anna, Ukraine).",
+          "ru": "Артикль не нужен: перед множественным вообще (I love dogs), перед неисчисляемыми словами вообще (I love music), если есть my / your / his, перед именами и странами (Anna, Ukraine)."
+        },
+        "examples": [
+          {
+            "en": "I love music.",
+            "ua": "Я люблю музику.",
+            "ru": "Я люблю музыку."
+          },
+          {
+            "en": "Cats are cute.",
+            "ua": "Коти милі.",
+            "ru": "Кошки милые."
+          },
+          {
+            "en": "This is my car.",
+            "ua": "Це моя машина.",
+            "ru": "Это моя машина."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-zero",
+          "question": "I love ___ music.",
+          "options": [
+            "—",
+            "a",
+            "an"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Музика взагалі — без артикля.",
+            "ru": "Музыка вообще — без артикля."
+          },
+          "id": "a1-u06-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-zero",
+          "question": "This is ___ my bag.",
+          "options": [
+            "—",
+            "a",
+            "the"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Є my → артикль не потрібен.",
+            "ru": "Есть my → артикль не нужен."
+          },
+          "id": "a1-u06-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-zero",
+          "question": "She is from ___ Ukraine.",
+          "options": [
+            "—",
+            "the",
+            "a"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Країни — без артикля.",
+            "ru": "Страны — без артикля."
+          },
+          "id": "a1-u06-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-zero",
+          "question": "___ dogs are friendly.",
+          "options": [
+            "—",
+            "A",
+            "An"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Множина взагалі — без артикля.",
+            "ru": "Множественное вообще — без артикля."
+          },
+          "id": "a1-u06-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-a-an",
+          "question": "He is ___ doctor.",
+          "options": [
+            "a",
+            "—",
+            "the"
+          ],
+          "answer": "a",
+          "explain": {
+            "ua": "Професія → a: He is a doctor.",
+            "ru": "Профессия → a: He is a doctor."
+          },
+          "id": "a1-u06-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-zero",
+          "sentence": "I love the music.",
+          "answer": "I love music.",
+          "accept": [],
+          "explain": {
+            "ua": "Музика взагалі — без the.",
+            "ru": "Музыка вообще — без the."
+          },
+          "id": "a1-u06-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-zero",
+          "sentence": "This is a my phone.",
+          "answer": "This is my phone.",
+          "accept": [],
+          "explain": {
+            "ua": "Або a, або my — разом не можна.",
+            "ru": "Или a, или my — вместе нельзя."
+          },
+          "id": "a1-u06-l03-e07"
+        },
+        {
+          "type": "wordbank",
+          "topic": "articles",
+          "bank": [
+            "a",
+            "the",
+            "—"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I have ___ new phone.",
+            "___ phone is black.",
+            "I love ___ apples."
+          ],
+          "answers": [
+            "a",
+            "the",
+            "—"
+          ],
+          "explain": {
+            "ua": "Уперше → a, вдруге → the, взагалі → нічого.",
+            "ru": "Впервые → a, во второй раз → the, вообще → ничего."
+          },
+          "id": "a1-u06-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-zero",
+          "prompt": {
+            "ua": "Я люблю котів.",
+            "ru": "Я люблю котов."
+          },
+          "answer": "I love cats.",
+          "accept": [],
+          "explain": {
+            "ua": "Коти взагалі — без артикля.",
+            "ru": "Коты вообще — без артикля."
+          },
+          "id": "a1-u06-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u06-l04",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u06-l03",
+        "note": {
+          "ua": "Згадаймо: без артикля: множина взагалі · незлічувані · my / his · імена",
+          "ru": "Вспомним: без артикля: множественное вообще · неисчисляемые · my / his · имена"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-zero",
+            "question": "I love ___ music.",
+            "options": [
+              "—",
+              "a",
+              "an"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Музика взагалі — без артикля.",
+              "ru": "Музыка вообще — без артикля."
+            },
+            "id": "a1-u06-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-a-an",
+            "question": "He is ___ doctor.",
+            "options": [
+              "a",
+              "—",
+              "the"
+            ],
+            "answer": "a",
+            "explain": {
+              "ua": "Професія → a: He is a doctor.",
+              "ru": "Профессия → a: He is a doctor."
+            },
+            "id": "a1-u06-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles",
+          "question": "She has ___ apple and ___ orange.",
+          "options": [
+            "an / an",
+            "a / an",
+            "an / a"
+          ],
+          "answer": "an / an",
+          "explain": {
+            "ua": "Apple → an, orange → an.",
+            "ru": "Apple → an, orange → an."
+          },
+          "id": "a1-u06-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles",
+          "question": "I have a flat. ___ flat is small.",
+          "options": [
+            "The",
+            "A",
+            "—"
+          ],
+          "answer": "The",
+          "explain": {
+            "ua": "Вдруге → the.",
+            "ru": "Во второй раз → the."
+          },
+          "id": "a1-u06-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles",
+          "question": "Max is ___ engineer.",
+          "options": [
+            "an",
+            "a",
+            "the"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "Engineer — голосний звук → an.",
+            "ru": "Engineer — гласный звук → an."
+          },
+          "id": "a1-u06-l04-e03"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Tom has a cat.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "The dog is big.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does Tom love?",
+              "options": [
+                "music",
+                "books",
+                "cats"
+              ],
+              "answer": "music"
+            }
+          ],
+          "text": "I'm Tom. I have a flat and a dog. The flat is small, but the dog is big! I'm an engineer. I love music and books. My dog loves music too.",
+          "explain": {
+            "ua": "Tom has a dog, not a cat. He loves music.",
+            "ru": "Tom has a dog, not a cat. He loves music."
+          },
+          "id": "a1-u06-l04-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "articles",
+          "bank": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I'm ___ engineer.",
+            "I have ___ dog.",
+            "___ dog is big.",
+            "I love ___ music."
+          ],
+          "answers": [
+            "an",
+            "a",
+            "The",
+            "—"
+          ],
+          "explain": {
+            "ua": "an engineer · a dog · the dog (вдруге) · music без артикля.",
+            "ru": "an engineer · a dog · the dog (во второй раз) · music без артикля."
+          },
+          "id": "a1-u06-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-a-an",
+          "sentence": "It's a hour.",
+          "answer": "It's an hour.",
+          "accept": [],
+          "explain": {
+            "ua": "Hour — h німа → an.",
+            "ru": "Hour — h немая → an."
+          },
+          "id": "a1-u06-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-the",
+          "sentence": "Close a door, please.",
+          "answer": "Close the door, please.",
+          "accept": [],
+          "explain": {
+            "ua": "Конкретні двері → the.",
+            "ru": "Конкретная дверь → the."
+          },
+          "id": "a1-u06-l04-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "an",
+            "old",
+            "car",
+            "have",
+            "I"
+          ],
+          "answer": "I have an old car",
+          "explain": {
+            "ua": "An old — бо old з голосного.",
+            "ru": "An old — потому что old с гласного."
+          },
+          "id": "a1-u06-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-a-an",
+          "prompt": {
+            "ua": "Вона ветеринар.",
+            "ru": "Она ветеринар."
+          },
+          "answer": "She is a vet.",
+          "accept": [
+            "She's a vet."
+          ],
+          "explain": {
+            "ua": "Професія → a.",
+            "ru": "Профессия → a."
+          },
+          "id": "a1-u06-l04-e09"
+        },
+        {
+          "type": "listen",
+          "topic": "articles",
+          "audio_text": "An egg and an apple, please.",
+          "options": [
+            "An egg and an apple, please.",
+            "A egg and an apple, please.",
+            "An egg and the apple, please."
+          ],
+          "answer": "An egg and an apple, please.",
+          "audio": "",
+          "explain": {
+            "ua": "Двічі an.",
+            "ru": "Дважды an."
+          },
+          "id": "a1-u06-l04-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "articles-a-an",
+      "question": "___ orange",
+      "options": [
+        "an",
+        "a"
+      ],
+      "answer": "an",
+      "explain": {
+        "ua": "Orange → an.",
+        "ru": "Orange → an."
+      },
+      "id": "a1-u06-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-a-an",
+      "question": "___ hour",
+      "options": [
+        "an",
+        "a"
+      ],
+      "answer": "an",
+      "explain": {
+        "ua": "Hour → an.",
+        "ru": "Hour → an."
+      },
+      "id": "a1-u06-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-the",
+      "question": "I have a cat. ___ cat is white.",
+      "options": [
+        "The",
+        "A",
+        "An"
+      ],
+      "answer": "The",
+      "explain": {
+        "ua": "Вдруге → the.",
+        "ru": "Во второй раз → the."
+      },
+      "id": "a1-u06-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-zero",
+      "question": "I love ___ books.",
+      "options": [
+        "—",
+        "a",
+        "the"
+      ],
+      "answer": "—",
+      "explain": {
+        "ua": "Взагалі → без артикля.",
+        "ru": "Вообще → без артикля."
+      },
+      "id": "a1-u06-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-the",
+      "question": "___ sun is big.",
+      "options": [
+        "The",
+        "A",
+        "—"
+      ],
+      "answer": "The",
+      "explain": {
+        "ua": "Одне на світі → the.",
+        "ru": "Одно на свете → the."
+      },
+      "id": "a1-u06-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "articles-a-an",
+      "question": "She is ___ actress.",
+      "answer": "an",
+      "accept": [],
+      "explain": {
+        "ua": "Actress → an.",
+        "ru": "Actress → an."
+      },
+      "id": "a1-u06-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "articles-a-an",
+      "question": "He is ___ teacher.",
+      "answer": "a",
+      "accept": [],
+      "explain": {
+        "ua": "Teacher → a.",
+        "ru": "Teacher → a."
+      },
+      "id": "a1-u06-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "articles-zero",
+      "sentence": "This is a my key.",
+      "answer": "This is my key.",
+      "accept": [],
+      "explain": {
+        "ua": "a + my — не можна.",
+        "ru": "a + my — нельзя."
+      },
+      "id": "a1-u06-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "articles-zero",
+      "sentence": "I'm from the Ukraine.",
+      "answer": "I'm from Ukraine.",
+      "accept": [
+        "I am from Ukraine."
+      ],
+      "explain": {
+        "ua": "Ukraine — без the.",
+        "ru": "Ukraine — без the."
+      },
+      "id": "a1-u06-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "articles-the",
+      "words": [
+        "the",
+        "window",
+        "please",
+        "Open"
+      ],
+      "answer": "Open the window please",
+      "explain": {
+        "ua": "Open → the window → please.",
+        "ru": "Open → the window → please."
+      },
+      "id": "a1-u06-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "articles-a-an",
+      "prompt": {
+        "ua": "У мене є яблуко.",
+        "ru": "У меня есть яблоко."
+      },
+      "answer": "I have an apple.",
+      "accept": [],
+      "explain": {
+        "ua": "Apple → an.",
+        "ru": "Apple → an."
+      },
+      "id": "a1-u06-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "articles-the",
+      "audio_text": "The book is on the table.",
+      "options": [
+        "The book is on the table.",
+        "A book is on a table.",
+        "The book is on a table."
+      ],
+      "answer": "The book is on the table.",
+      "audio": "",
+      "explain": {
+        "ua": "Двічі the.",
+        "ru": "Дважды the."
+      },
+      "id": "a1-u06-cp12"
+    }
+  ]
+}

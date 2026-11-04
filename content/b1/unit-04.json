@@ -1,0 +1,1437 @@
+{
+  "id": "b1-u04",
+  "level": "B1",
+  "order": 4,
+  "kind": "grammar",
+  "title": {
+    "en": "Used to and would",
+    "ua": "Used to і would",
+    "ru": "Used to и would"
+  },
+  "rule": {
+    "formula": {
+      "ua": "used to + дієслово — колишні звички й стани (тепер інакше)",
+      "ru": "used to + глагол — прежние привычки и состояния (теперь иначе)"
+    },
+    "explain": {
+      "ua": "Used to — «раніше бувало, раніше…»: I used to smoke (зараз не курю). Would — тільки для повторюваних дій у минулому. Be / get used to + -ing — інше: «звикнути».",
+      "ru": "Used to — «раньше бывало, раньше…»: I used to smoke (сейчас не курю). Would — только для повторяющихся действий в прошлом. Be / get used to + -ing — другое: «привыкнуть»."
+    },
+    "examples": [
+      {
+        "en": "I used to live in Kharkiv.",
+        "ua": "Раніше я жив у Харкові.",
+        "ru": "Раньше я жил в Харькове."
+      },
+      {
+        "en": "We would play outside every day.",
+        "ua": "Ми щодня гралися надворі (у дитинстві).",
+        "ru": "Мы каждый день играли на улице (в детстве)."
+      },
+      {
+        "en": "I'm used to getting up early.",
+        "ua": "Я звик рано вставати.",
+        "ru": "Я привык рано вставать."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "used to",
+      "ipa": "/ˈjuːst tə/",
+      "ua": "раніше (бувало)",
+      "ru": "раньше (бывало)",
+      "example": "I used to be shy.",
+      "audio": ""
+    },
+    {
+      "word": "didn't use to",
+      "ipa": "/ˌdɪdnt ˈjuːs tə/",
+      "ua": "раніше не…",
+      "ru": "раньше не…",
+      "example": "I didn't use to like coffee.",
+      "audio": ""
+    },
+    {
+      "word": "childhood",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "ua": "дитинство",
+      "ru": "детство",
+      "example": "in my childhood",
+      "audio": ""
+    },
+    {
+      "word": "as a child",
+      "ipa": "/əz ə ˈtʃaɪld/",
+      "ua": "у дитинстві",
+      "ru": "в детстве",
+      "example": "As a child, I…",
+      "audio": ""
+    },
+    {
+      "word": "village",
+      "ipa": "/ˈvɪlɪdʒ/",
+      "ua": "село",
+      "ru": "деревня, село",
+      "example": "We used to live in a village.",
+      "audio": ""
+    },
+    {
+      "word": "climb trees",
+      "ipa": "/ˌklaɪm ˈtriːz/",
+      "ua": "лазити по деревах",
+      "ru": "лазить по деревьям",
+      "example": "I used to climb trees.",
+      "audio": ""
+    },
+    {
+      "word": "be used to",
+      "ipa": "/biː ˈjuːst tə/",
+      "ua": "звикнути (стан)",
+      "ru": "привыкнуть (состояние)",
+      "example": "I'm used to the noise.",
+      "audio": ""
+    },
+    {
+      "word": "get used to",
+      "ipa": "/ˌɡet ˈjuːst tə/",
+      "ua": "звикати (процес)",
+      "ru": "привыкать (процесс)",
+      "example": "You'll get used to it.",
+      "audio": ""
+    },
+    {
+      "word": "smoke",
+      "ipa": "/sməʊk/",
+      "ua": "курити",
+      "ru": "курить",
+      "example": "He used to smoke.",
+      "audio": ""
+    },
+    {
+      "word": "hair",
+      "ipa": "/heə/",
+      "ua": "волосся",
+      "ru": "волосы",
+      "example": "She used to have long hair.",
+      "audio": ""
+    },
+    {
+      "word": "anymore",
+      "ipa": "/ˌeniˈmɔː/",
+      "ua": "більше не (з not)",
+      "ru": "больше не (с not)",
+      "example": "I don't smoke anymore.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u04-l01",
+      "title": {
+        "en": "used to",
+        "ua": "used to",
+        "ru": "used to"
+      },
+      "recap": {
+        "from": "b1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: Знайти й залишити роботу",
+          "ru": "Вспомним: Найти и оставить работу"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I saw an advert and ___ the job.",
+            "options": [
+              "applied for",
+              "applied to",
+              "quit"
+            ],
+            "answer": "applied for",
+            "explain": {
+              "ua": "Apply for a job.",
+              "ru": "Apply for a job."
+            },
+            "id": "b1-u04-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "He was always late, so he ___ .",
+            "options": [
+              "was fired",
+              "quit",
+              "got a promotion"
+            ],
+            "answer": "was fired",
+            "explain": {
+              "ua": "Його звільнили — was fired.",
+              "ru": "Его уволили — was fired."
+            },
+            "id": "b1-u04-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "used to + базове дієслово — для всіх",
+          "ru": "used to + базовый глагол — для всех"
+        },
+        "explain": {
+          "ua": "Used to — однаково для всіх осіб: I / she / they used to. Говоримо про те, що було раніше, а тепер змінилося.",
+          "ru": "Used to — одинаково для всех лиц: I / she / they used to. Говорим о том, что было раньше, а теперь изменилось."
+        },
+        "examples": [
+          {
+            "en": "I used to have long hair.",
+            "ua": "Раніше в мене було довге волосся.",
+            "ru": "Раньше у меня были длинные волосы."
+          },
+          {
+            "en": "He used to smoke, but he quit.",
+            "ua": "Він курив, але кинув.",
+            "ru": "Он курил, но бросил."
+          },
+          {
+            "en": "We used to live in a village.",
+            "ua": "Раніше ми жили в селі.",
+            "ru": "Раньше мы жили в деревне."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "I ___ play football as a child.",
+          "options": [
+            "used to",
+            "use to",
+            "was used to"
+          ],
+          "answer": "used to",
+          "explain": {
+            "ua": "Used to.",
+            "ru": "Used to."
+          },
+          "id": "b1-u04-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "She used to ___ glasses.",
+          "options": [
+            "wear",
+            "wearing",
+            "wears"
+          ],
+          "answer": "wear",
+          "explain": {
+            "ua": "Used to + базова.",
+            "ru": "Used to + базовая."
+          },
+          "id": "b1-u04-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "There ___ be a cinema here. Now it's a bank.",
+          "options": [
+            "used to",
+            "use to",
+            "uses to"
+          ],
+          "answer": "used to",
+          "explain": {
+            "ua": "There used to be.",
+            "ru": "There used to be."
+          },
+          "id": "b1-u04-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "He used to smoke, but he doesn't smoke ___ .",
+          "options": [
+            "anymore",
+            "already",
+            "still"
+          ],
+          "answer": "anymore",
+          "explain": {
+            "ua": "Not anymore — більше не.",
+            "ru": "Not anymore — больше не."
+          },
+          "id": "b1-u04-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "used-to",
+          "question": "We ___ to live in Kharkiv.",
+          "answer": "used",
+          "accept": [],
+          "explain": {
+            "ua": "Used to.",
+            "ru": "Used to."
+          },
+          "id": "b1-u04-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "I use to be shy.",
+          "answer": "I used to be shy.",
+          "accept": [],
+          "explain": {
+            "ua": "Ствердження — used (з -d).",
+            "ru": "Утверждение — used (с -d)."
+          },
+          "id": "b1-u04-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "She used to going to the gym.",
+          "answer": "She used to go to the gym.",
+          "accept": [],
+          "explain": {
+            "ua": "Used to + go.",
+            "ru": "Used to + go."
+          },
+          "id": "b1-u04-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "used-to",
+          "audio_text": "I used to live here.",
+          "options": [
+            "I used to live here.",
+            "I use to live here.",
+            "I used to leave here."
+          ],
+          "answer": "I used to live here.",
+          "audio": "",
+          "explain": {
+            "ua": "Used to — «юст ту».",
+            "ru": "Used to — «юст ту»."
+          },
+          "id": "b1-u04-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "used-to",
+          "prompt": {
+            "ua": "Раніше я курила.",
+            "ru": "Раньше я курила."
+          },
+          "answer": "I used to smoke.",
+          "accept": [],
+          "explain": {
+            "ua": "Used to.",
+            "ru": "Used to."
+          },
+          "id": "b1-u04-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u04-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "b1-u04-l01",
+        "note": {
+          "ua": "Згадаймо: used to + базове дієслово — для всіх",
+          "ru": "Вспомним: used to + базовый глагол — для всех"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "used-to",
+            "question": "I ___ play football as a child.",
+            "options": [
+              "used to",
+              "use to",
+              "was used to"
+            ],
+            "answer": "used to",
+            "explain": {
+              "ua": "Used to.",
+              "ru": "Used to."
+            },
+            "id": "b1-u04-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "used-to",
+            "question": "We ___ to live in Kharkiv.",
+            "answer": "used",
+            "accept": [],
+            "explain": {
+              "ua": "Used to.",
+              "ru": "Used to."
+            },
+            "id": "b1-u04-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "didn't use to · Did you use to…?",
+        "explain": {
+          "ua": "У запереченні й питанні — did / didn't + use to (без -d!): I didn't use to like fish. Did you use to play?",
+          "ru": "В отрицании и вопросе — did / didn't + use to (без -d!): I didn't use to like fish. Did you use to play?"
+        },
+        "examples": [
+          {
+            "en": "I didn't use to like coffee.",
+            "ua": "Раніше я не любила каву.",
+            "ru": "Раньше я не любила кофе."
+          },
+          {
+            "en": "Did you use to have a dog?",
+            "ua": "У тебе колись був собака?",
+            "ru": "У тебя когда-то была собака?"
+          },
+          {
+            "en": "Where did you use to live?",
+            "ua": "Де ти жив раніше?",
+            "ru": "Где ты жил раньше?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "I ___ like vegetables, but now I love them.",
+          "options": [
+            "didn't use to",
+            "didn't used to",
+            "used not"
+          ],
+          "answer": "didn't use to",
+          "explain": {
+            "ua": "Didn't + use to.",
+            "ru": "Didn't + use to."
+          },
+          "id": "b1-u04-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "Did you ___ to walk to school?",
+          "options": [
+            "use",
+            "used",
+            "using"
+          ],
+          "answer": "use",
+          "explain": {
+            "ua": "Did + use to.",
+            "ru": "Did + use to."
+          },
+          "id": "b1-u04-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "Where ___ you use to work?",
+          "options": [
+            "did",
+            "do",
+            "were"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Did.",
+            "ru": "Did."
+          },
+          "id": "b1-u04-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "Did she use to have long hair? — Yes, she ___ .",
+          "options": [
+            "did",
+            "used",
+            "was"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Yes, she did.",
+            "ru": "Yes, she did."
+          },
+          "id": "b1-u04-l02-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "used-to",
+          "bank": [
+            "used to",
+            "didn't use to",
+            "use to"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ be shy, but now I'm sociable.",
+            "I ___ like tea, but now I love it.",
+            "Did you ___ live in Lviv?"
+          ],
+          "answers": [
+            "used to",
+            "didn't use to",
+            "use to"
+          ],
+          "explain": {
+            "ua": "+ used to; − didn't use to; ? did … use to.",
+            "ru": "+ used to; − didn't use to; ? did … use to."
+          },
+          "id": "b1-u04-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "Did you used to play tennis?",
+          "answer": "Did you use to play tennis?",
+          "accept": [],
+          "explain": {
+            "ua": "Після did — use.",
+            "ru": "После did — use."
+          },
+          "id": "b1-u04-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "I didn't used to like fish.",
+          "answer": "I didn't use to like fish.",
+          "accept": [],
+          "explain": {
+            "ua": "Після didn't — use.",
+            "ru": "После didn't — use."
+          },
+          "id": "b1-u04-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "used-to",
+          "words": [
+            "weekends",
+            "use",
+            "to",
+            "What",
+            "you",
+            "do",
+            "did",
+            "at"
+          ],
+          "answer": "What did you use to do at weekends",
+          "explain": {
+            "ua": "What did you → use to do → at weekends?",
+            "ru": "What did you → use to do → at weekends?"
+          },
+          "id": "b1-u04-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "used-to",
+          "prompt": {
+            "ua": "Ти колись грав на гітарі?",
+            "ru": "Ты когда-то играл на гитаре?"
+          },
+          "answer": "Did you use to play the guitar?",
+          "accept": [],
+          "explain": {
+            "ua": "Did … use to.",
+            "ru": "Did … use to."
+          },
+          "id": "b1-u04-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u04-l03",
+      "title": {
+        "en": "would for past habits",
+        "ua": "would для звичок у минулому",
+        "ru": "would для привычек в прошлом"
+      },
+      "recap": {
+        "from": "b1-u04-l02",
+        "note": {
+          "ua": "Згадаймо: didn't use to · Did you use to…?",
+          "ru": "Вспомним: didn't use to · Did you use to…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "used-to",
+            "question": "I ___ like vegetables, but now I love them.",
+            "options": [
+              "didn't use to",
+              "didn't used to",
+              "used not"
+            ],
+            "answer": "didn't use to",
+            "explain": {
+              "ua": "Didn't + use to.",
+              "ru": "Didn't + use to."
+            },
+            "id": "b1-u04-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "used-to",
+            "question": "Did she use to have long hair? — Yes, she ___ .",
+            "options": [
+              "did",
+              "used",
+              "was"
+            ],
+            "answer": "did",
+            "explain": {
+              "ua": "Yes, she did.",
+              "ru": "Yes, she did."
+            },
+            "id": "b1-u04-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "would + дієслово — повторювані дії в минулому (не стани!)",
+          "ru": "would + глагол — повторяющиеся действия в прошлом (не состояния!)"
+        },
+        "explain": {
+          "ua": "Would — щоб розповісти, що ми часто робили раніше: Every summer we would go to my grandma's. Але для станів (be, have, live, like) — тільки used to.",
+          "ru": "Would — чтобы рассказать, что мы часто делали раньше: Every summer we would go to my grandma's. Но для состояний (be, have, live, like) — только used to."
+        },
+        "examples": [
+          {
+            "en": "Every Sunday my dad would make pancakes.",
+            "ua": "Щонеділі тато пік млинці.",
+            "ru": "Каждое воскресенье папа пёк блины."
+          },
+          {
+            "en": "We would play until dark.",
+            "ua": "Ми гралися дотемна.",
+            "ru": "Мы играли дотемна."
+          },
+          {
+            "en": "I used to have a cat. (не would have)",
+            "ua": "У мене був кіт.",
+            "ru": "У меня был кот."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "would-past",
+          "question": "Every summer we ___ swim in the river.",
+          "options": [
+            "would",
+            "will",
+            "were"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Повторювана дія → would.",
+            "ru": "Повторяющееся действие → would."
+          },
+          "id": "b1-u04-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "would-past",
+          "question": "I ___ have a dog called Rex.",
+          "options": [
+            "used to",
+            "would",
+            "use to"
+          ],
+          "answer": "used to",
+          "explain": {
+            "ua": "Have (мати) — стан → used to.",
+            "ru": "Have (иметь) — состояние → used to."
+          },
+          "id": "b1-u04-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "would-past",
+          "question": "My grandma ___ tell us stories every evening.",
+          "options": [
+            "would",
+            "used",
+            "was"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Повторювана дія.",
+            "ru": "Повторяющееся действие."
+          },
+          "id": "b1-u04-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "would-past",
+          "question": "We ___ live in a small flat.",
+          "options": [
+            "used to",
+            "would",
+            "were used to"
+          ],
+          "answer": "used to",
+          "explain": {
+            "ua": "Live — стан.",
+            "ru": "Live — состояние."
+          },
+          "id": "b1-u04-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "would-past",
+          "pairs": [
+            {
+              "left": "I used to be",
+              "right": "shy."
+            },
+            {
+              "left": "We would go",
+              "right": "to the sea every July."
+            },
+            {
+              "left": "She used to have",
+              "right": "a bike."
+            },
+            {
+              "left": "Dad would read",
+              "right": "to us at night."
+            }
+          ],
+          "explain": {
+            "ua": "Стан → used to, дія → would.",
+            "ru": "Состояние → used to, действие → would."
+          },
+          "id": "b1-u04-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "would-past",
+          "sentence": "I would be very shy as a child.",
+          "answer": "I used to be very shy as a child.",
+          "accept": [],
+          "explain": {
+            "ua": "Be — стан → used to.",
+            "ru": "Be — состояние → used to."
+          },
+          "id": "b1-u04-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "would-past",
+          "sentence": "We would to climb trees.",
+          "answer": "We would climb trees.",
+          "accept": [
+            "We used to climb trees."
+          ],
+          "explain": {
+            "ua": "Would + без to.",
+            "ru": "Would + без to."
+          },
+          "id": "b1-u04-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "would-past",
+          "audio_text": "We would play outside until dark.",
+          "options": [
+            "We would play outside until dark.",
+            "We will play outside until dark.",
+            "We would pray outside until dark."
+          ],
+          "answer": "We would play outside until dark.",
+          "audio": "",
+          "explain": {
+            "ua": "Would play.",
+            "ru": "Would play."
+          },
+          "id": "b1-u04-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "would-past",
+          "prompt": {
+            "ua": "Щолітa ми їздили до бабусі.",
+            "ru": "Каждое лето мы ездили к бабушке."
+          },
+          "answer": "Every summer we would go to my grandma's.",
+          "accept": [
+            "Every summer we used to go to my grandma's.",
+            "Every summer we would visit our grandma.",
+            "Every summer we used to visit our grandmother."
+          ],
+          "explain": {
+            "ua": "Would / used to.",
+            "ru": "Would / used to."
+          },
+          "id": "b1-u04-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u04-l04",
+      "title": {
+        "en": "be used to / get used to",
+        "ua": "be used to / get used to",
+        "ru": "be used to / get used to"
+      },
+      "recap": {
+        "from": "b1-u04-l03",
+        "note": {
+          "ua": "Згадаймо: would + дієслово — повторювані дії в минулому (не стани!)",
+          "ru": "Вспомним: would + глагол — повторяющиеся действия в прошлом (не состояния!)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "would-past",
+            "question": "Every summer we ___ swim in the river.",
+            "options": [
+              "would",
+              "will",
+              "were"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Повторювана дія → would.",
+              "ru": "Повторяющееся действие → would."
+            },
+            "id": "b1-u04-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "would-past",
+            "question": "We ___ live in a small flat.",
+            "options": [
+              "used to",
+              "would",
+              "were used to"
+            ],
+            "answer": "used to",
+            "explain": {
+              "ua": "Live — стан.",
+              "ru": "Live — состояние."
+            },
+            "id": "b1-u04-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "be used to + -ing / іменник = звиклий · get used to = звикати",
+          "ru": "be used to + -ing / существительное = привык · get used to = привыкать"
+        },
+        "explain": {
+          "ua": "Не плутай! I used to work = раніше працював. I'm used to working = звик працювати. I'm getting used to it = поступово звикаю. Після to тут — -ing.",
+          "ru": "Не путай! I used to work = раньше работал. I'm used to working = привык работать. I'm getting used to it = постепенно привыкаю. После to здесь — -ing."
+        },
+        "examples": [
+          {
+            "en": "I'm used to getting up early.",
+            "ua": "Я звик рано вставати.",
+            "ru": "Я привык рано вставать."
+          },
+          {
+            "en": "She isn't used to the cold.",
+            "ua": "Вона не звикла до холоду.",
+            "ru": "Она не привыкла к холоду."
+          },
+          {
+            "en": "You'll get used to it.",
+            "ua": "Ти звикнеш.",
+            "ru": "Ты привыкнешь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "be-used-to",
+          "question": "I've lived here for years. I'm used to ___ by bus.",
+          "options": [
+            "travelling",
+            "travel",
+            "travelled"
+          ],
+          "answer": "travelling",
+          "explain": {
+            "ua": "Be used to + -ing.",
+            "ru": "Be used to + -ing."
+          },
+          "id": "b1-u04-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "be-used-to",
+          "question": "He ___ to the noise now. It doesn't bother him.",
+          "options": [
+            "is used",
+            "used",
+            "uses"
+          ],
+          "answer": "is used",
+          "explain": {
+            "ua": "Звиклий зараз → is used to.",
+            "ru": "Привык сейчас → is used to."
+          },
+          "id": "b1-u04-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "be-used-to",
+          "question": "Don't worry. You'll ___ used to it.",
+          "options": [
+            "get",
+            "be",
+            "use"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "Get used to — звикнеш.",
+            "ru": "Get used to — привыкнешь."
+          },
+          "id": "b1-u04-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "be-used-to",
+          "question": {
+            "ua": "I ___ to work in a café. (раніше)",
+            "ru": "I ___ to work in a café. (раньше)"
+          },
+          "options": [
+            "used",
+            "am used",
+            "get used"
+          ],
+          "answer": "used",
+          "explain": {
+            "ua": "Раніше → used to.",
+            "ru": "Раньше → used to."
+          },
+          "id": "b1-u04-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "be-used-to",
+          "question": "I'm not used to ___ so much.",
+          "options": [
+            "working",
+            "work",
+            "worked"
+          ],
+          "answer": "working",
+          "explain": {
+            "ua": "-ing.",
+            "ru": "-ing."
+          },
+          "id": "b1-u04-l04-e05"
+        },
+        {
+          "type": "match",
+          "topic": "be-used-to",
+          "pairs": [
+            {
+              "left": "I used to drive.",
+              "right": {
+                "ua": "Раніше я водив.",
+                "ru": "Раньше я водил."
+              }
+            },
+            {
+              "left": "I'm used to driving.",
+              "right": {
+                "ua": "Я звик водити.",
+                "ru": "Я привык водить."
+              }
+            },
+            {
+              "left": "I'm getting used to driving.",
+              "right": {
+                "ua": "Я звикаю водити.",
+                "ru": "Я привыкаю водить."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Три різні значення!",
+            "ru": "Три разных значения!"
+          },
+          "id": "b1-u04-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "be-used-to",
+          "sentence": "I'm used to get up early.",
+          "answer": "I'm used to getting up early.",
+          "accept": [
+            "I am used to getting up early."
+          ],
+          "explain": {
+            "ua": "Be used to + -ing.",
+            "ru": "Be used to + -ing."
+          },
+          "id": "b1-u04-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "be-used-to",
+          "sentence": "I used to living alone now.",
+          "answer": "I'm used to living alone now.",
+          "accept": [
+            "I am used to living alone now."
+          ],
+          "explain": {
+            "ua": "Звиклий → am used to.",
+            "ru": "Привык → am used to."
+          },
+          "id": "b1-u04-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "be-used-to",
+          "prompt": {
+            "ua": "Я ще не звикла до нової роботи.",
+            "ru": "Я ещё не привыкла к новой работе."
+          },
+          "answer": "I'm not used to my new job yet.",
+          "accept": [
+            "I haven't got used to my new job yet.",
+            "I am not used to my new job yet.",
+            "I'm still not used to my new job."
+          ],
+          "explain": {
+            "ua": "Not used to.",
+            "ru": "Not used to."
+          },
+          "id": "b1-u04-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u04-l05",
+      "title": {
+        "en": "Practice: then and now",
+        "ua": "Практика: тоді й зараз",
+        "ru": "Практика: тогда и сейчас"
+      },
+      "recap": {
+        "from": "b1-u04-l04",
+        "note": {
+          "ua": "Згадаймо: be used to + -ing / іменник = звиклий · get used to = звикати",
+          "ru": "Вспомним: be used to + -ing / существительное = привык · get used to = привыкать"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "be-used-to",
+            "question": "I've lived here for years. I'm used to ___ by bus.",
+            "options": [
+              "travelling",
+              "travel",
+              "travelled"
+            ],
+            "answer": "travelling",
+            "explain": {
+              "ua": "Be used to + -ing.",
+              "ru": "Be used to + -ing."
+            },
+            "id": "b1-u04-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "be-used-to",
+            "question": "I'm not used to ___ so much.",
+            "options": [
+              "working",
+              "work",
+              "worked"
+            ],
+            "answer": "working",
+            "explain": {
+              "ua": "-ing.",
+              "ru": "-ing."
+            },
+            "id": "b1-u04-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "When I was a child, I ___ climb trees.",
+          "options": [
+            "would",
+            "am used to",
+            "use to"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Повторювана дія.",
+            "ru": "Повторяющееся действие."
+          },
+          "id": "b1-u04-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "used-to",
+          "question": "I live in London now. I'm used to ___ on the left.",
+          "options": [
+            "driving",
+            "drive",
+            "drove"
+          ],
+          "answer": "driving",
+          "explain": {
+            "ua": "Be used to + -ing.",
+            "ru": "Be used to + -ing."
+          },
+          "id": "b1-u04-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Maria used to live in a village.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She is used to the noise in the city.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What would Maria do every morning in the village?",
+              "options": [
+                "feed the chickens",
+                "go to the gym",
+                "take the bus"
+              ],
+              "answer": "feed the chickens"
+            }
+          ],
+          "text": "I used to live in a small village. Every morning I would feed the chickens and walk to school. There didn't use to be any shops — just one small market. Now I live in Kyiv. It's very noisy and I'm not used to the noise yet, but I'm slowly getting used to it.",
+          "explain": {
+            "ua": "Village, chickens, now city noise — getting used to it.",
+            "ru": "Village, chickens, now city noise — getting used to it."
+          },
+          "id": "b1-u04-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "used-to",
+          "bank": [
+            "used to",
+            "would",
+            "didn't use to",
+            "getting used to"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Maria ___ live in a village.",
+            "Every morning she ___ feed the chickens.",
+            "There ___ be any shops.",
+            "Now she's ___ the noise."
+          ],
+          "answers": [
+            "used to",
+            "would",
+            "didn't use to",
+            "getting used to"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u04-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "I would have long hair.",
+          "answer": "I used to have long hair.",
+          "accept": [],
+          "explain": {
+            "ua": "Стан → used to.",
+            "ru": "Состояние → used to."
+          },
+          "id": "b1-u04-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "used-to",
+          "sentence": "I can't get used to wake up at 5.",
+          "answer": "I can't get used to waking up at 5.",
+          "accept": [],
+          "explain": {
+            "ua": "Get used to + -ing.",
+            "ru": "Get used to + -ing."
+          },
+          "id": "b1-u04-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "There",
+            "here",
+            "cinema",
+            "to",
+            "be",
+            "used",
+            "a"
+          ],
+          "answer": "There used to be a cinema here",
+          "explain": {
+            "ua": "There used to be → a cinema → here.",
+            "ru": "There used to be → a cinema → here."
+          },
+          "id": "b1-u04-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "used-to",
+          "audio_text": "I'm getting used to it.",
+          "options": [
+            "I'm getting used to it.",
+            "I used to it.",
+            "I'm getting use to it."
+          ],
+          "answer": "I'm getting used to it.",
+          "audio": "",
+          "explain": {
+            "ua": "Getting used to.",
+            "ru": "Getting used to."
+          },
+          "id": "b1-u04-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "used-to",
+          "prompt": {
+            "ua": "Раніше тут був парк.",
+            "ru": "Раньше здесь был парк."
+          },
+          "answer": "There used to be a park here.",
+          "accept": [],
+          "explain": {
+            "ua": "There used to be.",
+            "ru": "There used to be."
+          },
+          "id": "b1-u04-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "I ___ be shy, but now I'm confident.",
+      "options": [
+        "used to",
+        "use to",
+        "am used to"
+      ],
+      "answer": "used to",
+      "explain": {
+        "ua": "Used to.",
+        "ru": "Used to."
+      },
+      "id": "b1-u04-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "Did you ___ to have a pet?",
+      "options": [
+        "use",
+        "used",
+        "using"
+      ],
+      "answer": "use",
+      "explain": {
+        "ua": "Did + use.",
+        "ru": "Did + use."
+      },
+      "id": "b1-u04-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "Every evening my mum ___ sing to us.",
+      "options": [
+        "would",
+        "used",
+        "was"
+      ],
+      "answer": "would",
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "b1-u04-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "I'm used to ___ alone.",
+      "options": [
+        "living",
+        "live",
+        "lived"
+      ],
+      "answer": "living",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u04-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "Don't worry, you'll ___ used to the new job.",
+      "options": [
+        "get",
+        "be",
+        "use"
+      ],
+      "answer": "get",
+      "explain": {
+        "ua": "Get used to.",
+        "ru": "Get used to."
+      },
+      "id": "b1-u04-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "used-to",
+      "question": "She ___ use to like coffee.",
+      "answer": "didn't",
+      "accept": [
+        "did not"
+      ],
+      "explain": {
+        "ua": "Didn't use to.",
+        "ru": "Didn't use to."
+      },
+      "id": "b1-u04-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "used-to",
+      "question": "There used ___ be a shop here.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Used to.",
+        "ru": "Used to."
+      },
+      "id": "b1-u04-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "used-to",
+      "sentence": "I would live in Lviv.",
+      "answer": "I used to live in Lviv.",
+      "accept": [],
+      "explain": {
+        "ua": "Live — стан.",
+        "ru": "Live — состояние."
+      },
+      "id": "b1-u04-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "used-to",
+      "sentence": "Did you used to smoke?",
+      "answer": "Did you use to smoke?",
+      "accept": [],
+      "explain": {
+        "ua": "Did + use.",
+        "ru": "Did + use."
+      },
+      "id": "b1-u04-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "would",
+        "We",
+        "every",
+        "go",
+        "to",
+        "the",
+        "summer",
+        "sea"
+      ],
+      "answer": "We would go to the sea every summer",
+      "explain": {
+        "ua": "We would go → to the sea → every summer.",
+        "ru": "We would go → to the sea → every summer."
+      },
+      "id": "b1-u04-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "used-to",
+      "prompt": {
+        "ua": "Я звикла рано вставати.",
+        "ru": "Я привыкла рано вставать."
+      },
+      "answer": "I'm used to getting up early.",
+      "accept": [
+        "I am used to getting up early.",
+        "I'm used to waking up early."
+      ],
+      "explain": {
+        "ua": "Be used to + -ing.",
+        "ru": "Be used to + -ing."
+      },
+      "id": "b1-u04-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "used-to",
+      "audio_text": "I don't smoke anymore.",
+      "options": [
+        "I don't smoke anymore.",
+        "I don't smoke any more time.",
+        "I didn't smoke anymore."
+      ],
+      "answer": "I don't smoke anymore.",
+      "audio": "",
+      "explain": {
+        "ua": "Anymore.",
+        "ru": "Anymore."
+      },
+      "id": "b1-u04-cp12"
+    }
+  ]
+}

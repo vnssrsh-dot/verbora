@@ -1,0 +1,1516 @@
+{
+  "id": "b2-u08",
+  "level": "B2",
+  "order": 8,
+  "kind": "vocab",
+  "title": {
+    "en": "Society and culture",
+    "ua": "Суспільство й культура",
+    "ru": "Общество и культура"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "tradition",
+      "ipa": "/trəˈdɪʃn/",
+      "ua": "традиція",
+      "ru": "традиция",
+      "example": "It's an old tradition.",
+      "audio": ""
+    },
+    {
+      "word": "custom",
+      "ipa": "/ˈkʌstəm/",
+      "ua": "звичай",
+      "ru": "обычай",
+      "example": "local customs",
+      "audio": ""
+    },
+    {
+      "word": "celebrate",
+      "ipa": "/ˈselɪbreɪt/",
+      "ua": "святкувати",
+      "ru": "праздновать",
+      "example": "We celebrate Christmas twice.",
+      "audio": ""
+    },
+    {
+      "word": "heritage",
+      "ipa": "/ˈherɪtɪdʒ/",
+      "ua": "спадщина",
+      "ru": "наследие",
+      "example": "cultural heritage",
+      "audio": ""
+    },
+    {
+      "word": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "ua": "громада, спільнота",
+      "ru": "община, сообщество",
+      "example": "the Ukrainian community in Berlin",
+      "audio": ""
+    },
+    {
+      "word": "diversity",
+      "ipa": "/daɪˈvɜːsəti/",
+      "ua": "різноманіття",
+      "ru": "разнообразие",
+      "example": "cultural diversity",
+      "audio": ""
+    },
+    {
+      "word": "integrate",
+      "ipa": "/ˈɪntɪɡreɪt/",
+      "ua": "інтегруватися",
+      "ru": "интегрироваться",
+      "example": "integrate into a new society",
+      "audio": ""
+    },
+    {
+      "word": "homesick",
+      "ipa": "/ˈhəʊmsɪk/",
+      "ua": "сумує за домом",
+      "ru": "скучает по дому",
+      "example": "I felt homesick.",
+      "audio": ""
+    },
+    {
+      "word": "culture shock",
+      "ipa": "/ˈkʌltʃə ʃɒk/",
+      "ua": "культурний шок",
+      "ru": "культурный шок",
+      "example": "I had culture shock.",
+      "audio": ""
+    },
+    {
+      "word": "stereotype",
+      "ipa": "/ˈsteriətaɪp/",
+      "ua": "стереотип",
+      "ru": "стереотип",
+      "example": "That's just a stereotype.",
+      "audio": ""
+    },
+    {
+      "word": "polite / rude",
+      "ipa": "/pəˈlaɪt/ /ruːd/",
+      "ua": "ввічливий / грубий",
+      "ru": "вежливый / грубый",
+      "example": "It's polite to say thank you.",
+      "audio": ""
+    },
+    {
+      "word": "behave",
+      "ipa": "/bɪˈheɪv/",
+      "ua": "поводитися",
+      "ru": "вести себя",
+      "example": "Behave yourself!",
+      "audio": ""
+    },
+    {
+      "word": "generation",
+      "ipa": "/ˌdʒenəˈreɪʃn/",
+      "ua": "покоління",
+      "ru": "поколение",
+      "example": "the younger generation",
+      "audio": ""
+    },
+    {
+      "word": "equality",
+      "ipa": "/iˈkwɒləti/",
+      "ua": "рівність",
+      "ru": "равенство",
+      "example": "gender equality",
+      "audio": ""
+    },
+    {
+      "word": "volunteer",
+      "ipa": "/ˌvɒlənˈtɪə/",
+      "ua": "волонтер; волонтерити",
+      "ru": "волонтёр; волонтёрить",
+      "example": "She volunteers at a shelter.",
+      "audio": ""
+    },
+    {
+      "word": "charity",
+      "ipa": "/ˈtʃærəti/",
+      "ua": "благодійність, благодійна організація",
+      "ru": "благотворительность, благотворительная организация",
+      "example": "donate to charity",
+      "audio": ""
+    },
+    {
+      "word": "donate",
+      "ipa": "/dəʊˈneɪt/",
+      "ua": "жертвувати, донатити",
+      "ru": "жертвовать, донатить",
+      "example": "We donated to the army.",
+      "audio": ""
+    },
+    {
+      "word": "background",
+      "ipa": "/ˈbækɡraʊnd/",
+      "ua": "походження, досвід",
+      "ru": "происхождение, бэкграунд",
+      "example": "people from different backgrounds",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u08-l01",
+      "title": {
+        "en": "Traditions and customs",
+        "ua": "Традиції й звичаї",
+        "ru": "Традиции и обычаи"
+      },
+      "recap": {
+        "from": "b2-u07-l03",
+        "note": {
+          "ua": "Згадаймо: I wish you / it would… — хочу, щоб хтось / щось змінилося (часто роздратування)",
+          "ru": "Вспомним: I wish you / it would… — хочу, чтобы кто-то / что-то изменилось (часто раздражение)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "wish-would",
+            "question": "You never help me. I wish you ___ help me more.",
+            "options": [
+              "would",
+              "will",
+              "had"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Чужа поведінка → would.",
+              "ru": "Чужое поведение → would."
+            },
+            "id": "b2-u08-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "wish-would",
+            "question": {
+              "ua": "Яка форма — про себе? «Шкода, що я не високий»",
+              "ru": "Какая форма — о себе? «Жаль, что я не высокий»"
+            },
+            "options": [
+              "I wish I were taller.",
+              "I wish I would be taller.",
+              "I wish I will be taller."
+            ],
+            "answer": "I wish I were taller.",
+            "explain": {
+              "ua": "Про себе — не would.",
+              "ru": "О себе — не would."
+            },
+            "id": "b2-u08-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "tradition",
+              "right": {
+                "ua": "традиція",
+                "ru": "традиция"
+              }
+            },
+            {
+              "left": "custom",
+              "right": {
+                "ua": "звичай",
+                "ru": "обычай"
+              }
+            },
+            {
+              "left": "heritage",
+              "right": {
+                "ua": "спадщина",
+                "ru": "наследие"
+              }
+            },
+            {
+              "left": "celebrate",
+              "right": {
+                "ua": "святкувати",
+                "ru": "праздновать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u08-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Wearing vyshyvanka on Vyshyvanka Day is a Ukrainian ___ .",
+          "options": [
+            "tradition",
+            "stereotype",
+            "equality"
+          ],
+          "answer": "tradition",
+          "explain": {
+            "ua": "Tradition.",
+            "ru": "Tradition."
+          },
+          "id": "b2-u08-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In Japan, it's a ___ to take off your shoes at home.",
+          "options": [
+            "custom",
+            "charity",
+            "generation"
+          ],
+          "answer": "custom",
+          "explain": {
+            "ua": "Custom.",
+            "ru": "Custom."
+          },
+          "id": "b2-u08-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Petrykivka painting is part of Ukraine's cultural ___ .",
+          "options": [
+            "heritage",
+            "background",
+            "behaviour"
+          ],
+          "answer": "heritage",
+          "explain": {
+            "ua": "Heritage.",
+            "ru": "Heritage."
+          },
+          "id": "b2-u08-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In Spain, it's ___ to kiss on both cheeks when you meet.",
+          "options": [
+            "polite",
+            "rude",
+            "homesick"
+          ],
+          "answer": "polite",
+          "explain": {
+            "ua": "Polite.",
+            "ru": "Polite."
+          },
+          "id": "b2-u08-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A fixed idea about a group of people, often not true.",
+          "answer": "stereotype",
+          "accept": [
+            "a stereotype",
+            "cliché"
+          ],
+          "explain": {
+            "ua": "Stereotype.",
+            "ru": "Stereotype."
+          },
+          "id": "b2-u08-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We celebrate New Year with all the family in tradition.",
+          "answer": "Traditionally, we celebrate New Year with all the family.",
+          "accept": [
+            "By tradition, we celebrate New Year with all the family.",
+            "We traditionally celebrate New Year with the whole family."
+          ],
+          "explain": {
+            "ua": "Traditionally — за традицією.",
+            "ru": "Traditionally — по традиции."
+          },
+          "id": "b2-u08-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "options": [
+            "heritage",
+            "heritage site",
+            "hesitate"
+          ],
+          "answer": "heritage",
+          "explain": {
+            "ua": "h читається, наголос на першому складі.",
+            "ru": "h читается, ударение на первом слоге."
+          },
+          "id": "b2-u08-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Це давня традиція.",
+            "ru": "Это давняя традиция."
+          },
+          "answer": "It's an old tradition.",
+          "accept": [
+            "It is an old tradition.",
+            "This is an old tradition.",
+            "It's an ancient tradition."
+          ],
+          "explain": {
+            "ua": "Tradition.",
+            "ru": "Tradition."
+          },
+          "id": "b2-u08-l01-e09"
+        }
+      ],
+      "words": [
+        "tradition",
+        "custom",
+        "celebrate",
+        "heritage",
+        "stereotype",
+        "polite / rude",
+        "behave"
+      ]
+    },
+    {
+      "id": "b2-u08-l02",
+      "title": {
+        "en": "Living abroad",
+        "ua": "Життя за кордоном",
+        "ru": "Жизнь за границей"
+      },
+      "recap": {
+        "from": "b2-u08-l01",
+        "note": {
+          "ua": "Згадаймо: Традиції й звичаї",
+          "ru": "Вспомним: Традиции и обычаи"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Wearing vyshyvanka on Vyshyvanka Day is a Ukrainian ___ .",
+            "options": [
+              "tradition",
+              "stereotype",
+              "equality"
+            ],
+            "answer": "tradition",
+            "explain": {
+              "ua": "Tradition.",
+              "ru": "Tradition."
+            },
+            "id": "b2-u08-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "In Spain, it's ___ to kiss on both cheeks when you meet.",
+            "options": [
+              "polite",
+              "rude",
+              "homesick"
+            ],
+            "answer": "polite",
+            "explain": {
+              "ua": "Polite.",
+              "ru": "Polite."
+            },
+            "id": "b2-u08-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "community",
+              "right": {
+                "ua": "громада",
+                "ru": "община"
+              }
+            },
+            {
+              "left": "integrate",
+              "right": {
+                "ua": "інтегруватися",
+                "ru": "интегрироваться"
+              }
+            },
+            {
+              "left": "homesick",
+              "right": {
+                "ua": "сумує за домом",
+                "ru": "скучает по дому"
+              }
+            },
+            {
+              "left": "culture shock",
+              "right": {
+                "ua": "культурний шок",
+                "ru": "культурный шок"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u08-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "When I moved to Canada, I felt very ___ . I missed my family.",
+          "options": [
+            "homesick",
+            "polite",
+            "diverse"
+          ],
+          "answer": "homesick",
+          "explain": {
+            "ua": "Homesick.",
+            "ru": "Homesick."
+          },
+          "id": "b2-u08-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Everything was so different — I had real culture ___ .",
+          "options": [
+            "shock",
+            "heritage",
+            "custom"
+          ],
+          "answer": "shock",
+          "explain": {
+            "ua": "Culture shock.",
+            "ru": "Culture shock."
+          },
+          "id": "b2-u08-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Learning the language helps you ___ into a new country.",
+          "options": [
+            "integrate",
+            "celebrate",
+            "donate"
+          ],
+          "answer": "integrate",
+          "explain": {
+            "ua": "Integrate into.",
+            "ru": "Integrate into."
+          },
+          "id": "b2-u08-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There's a big Ukrainian ___ in Warsaw.",
+          "options": [
+            "community",
+            "generation",
+            "tradition"
+          ],
+          "answer": "community",
+          "explain": {
+            "ua": "Community.",
+            "ru": "Community."
+          },
+          "id": "b2-u08-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "London is famous for its cultural ___ — people come from all over the world.",
+          "options": [
+            "diversity",
+            "equality",
+            "charity"
+          ],
+          "answer": "diversity",
+          "explain": {
+            "ua": "Diversity.",
+            "ru": "Diversity."
+          },
+          "id": "b2-u08-l02-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Where you come from: your family, culture and experience.",
+          "answer": "background",
+          "accept": [
+            "origin"
+          ],
+          "explain": {
+            "ua": "Background.",
+            "ru": "Background."
+          },
+          "id": "b2-u08-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm homesick about Ukraine.",
+          "answer": "I'm homesick for Ukraine.",
+          "accept": [
+            "I miss Ukraine.",
+            "I am homesick for Ukraine."
+          ],
+          "explain": {
+            "ua": "Homesick for.",
+            "ru": "Homesick for."
+          },
+          "id": "b2-u08-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я сумувала за домом перші місяці.",
+            "ru": "Я скучала по дому первые месяцы."
+          },
+          "answer": "I was homesick for the first few months.",
+          "accept": [
+            "I felt homesick for the first months.",
+            "I was homesick for the first months.",
+            "I felt homesick for the first few months."
+          ],
+          "explain": {
+            "ua": "Homesick.",
+            "ru": "Homesick."
+          },
+          "id": "b2-u08-l02-e09"
+        }
+      ],
+      "words": [
+        "community",
+        "diversity",
+        "integrate",
+        "homesick",
+        "culture shock",
+        "background",
+        "generation"
+      ]
+    },
+    {
+      "id": "b2-u08-l03",
+      "title": {
+        "en": "Helping others",
+        "ua": "Допомога іншим",
+        "ru": "Помощь другим"
+      },
+      "recap": {
+        "from": "b2-u08-l02",
+        "note": {
+          "ua": "Згадаймо: Життя за кордоном",
+          "ru": "Вспомним: Жизнь за границей"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "When I moved to Canada, I felt very ___ . I missed my family.",
+            "options": [
+              "homesick",
+              "polite",
+              "diverse"
+            ],
+            "answer": "homesick",
+            "explain": {
+              "ua": "Homesick.",
+              "ru": "Homesick."
+            },
+            "id": "b2-u08-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "London is famous for its cultural ___ — people come from all over the world.",
+            "options": [
+              "diversity",
+              "equality",
+              "charity"
+            ],
+            "answer": "diversity",
+            "explain": {
+              "ua": "Diversity.",
+              "ru": "Diversity."
+            },
+            "id": "b2-u08-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "volunteer",
+              "right": {
+                "ua": "волонтер",
+                "ru": "волонтёр"
+              }
+            },
+            {
+              "left": "charity",
+              "right": {
+                "ua": "благодійність",
+                "ru": "благотворительность"
+              }
+            },
+            {
+              "left": "donate",
+              "right": {
+                "ua": "жертвувати",
+                "ru": "жертвовать"
+              }
+            },
+            {
+              "left": "equality",
+              "right": {
+                "ua": "рівність",
+                "ru": "равенство"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u08-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She ___ at an animal shelter every weekend.",
+          "options": [
+            "volunteers",
+            "donates",
+            "celebrates"
+          ],
+          "answer": "volunteers",
+          "explain": {
+            "ua": "Volunteer.",
+            "ru": "Volunteer."
+          },
+          "id": "b2-u08-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We ___ money to the hospital.",
+          "options": [
+            "donated",
+            "volunteered",
+            "integrated"
+          ],
+          "answer": "donated",
+          "explain": {
+            "ua": "Donate.",
+            "ru": "Donate."
+          },
+          "id": "b2-u08-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "All the money from the concert goes to ___ .",
+          "options": [
+            "charity",
+            "tradition",
+            "heritage"
+          ],
+          "answer": "charity",
+          "explain": {
+            "ua": "Charity.",
+            "ru": "Charity."
+          },
+          "id": "b2-u08-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Men and women should get the same salary. It's about ___ .",
+          "options": [
+            "equality",
+            "diversity",
+            "community"
+          ],
+          "answer": "equality",
+          "explain": {
+            "ua": "Equality.",
+            "ru": "Equality."
+          },
+          "id": "b2-u08-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "volunteer",
+            "donate",
+            "charity",
+            "community"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I'd like to ___ at the food bank.",
+            "You can ___ online.",
+            "This ___ helps homeless people.",
+            "Our local ___ organised a festival."
+          ],
+          "answers": [
+            "volunteer",
+            "donate",
+            "charity",
+            "community"
+          ],
+          "explain": {
+            "ua": "Подумай про сенс.",
+            "ru": "Подумай о смысле."
+          },
+          "id": "b2-u08-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I donated for charity.",
+          "answer": "I donated to charity.",
+          "accept": [
+            "I gave money to charity."
+          ],
+          "explain": {
+            "ua": "Donate TO.",
+            "ru": "Donate TO."
+          },
+          "id": "b2-u08-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She volunteers at a hospital.",
+          "options": [
+            "She volunteers at a hospital.",
+            "She volunteered at a hospital.",
+            "She volunteers at a hostel."
+          ],
+          "answer": "She volunteers at a hospital.",
+          "audio": "",
+          "explain": {
+            "ua": "Volunteers.",
+            "ru": "Volunteers."
+          },
+          "id": "b2-u08-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми донатимо на армію щомісяця.",
+            "ru": "Мы донатим на армию каждый месяц."
+          },
+          "answer": "We donate to the army every month.",
+          "accept": [
+            "We donate to the army monthly.",
+            "Every month we donate to the army."
+          ],
+          "explain": {
+            "ua": "Donate to.",
+            "ru": "Donate to."
+          },
+          "id": "b2-u08-l03-e09"
+        }
+      ],
+      "words": [
+        "equality",
+        "volunteer",
+        "charity",
+        "donate"
+      ]
+    },
+    {
+      "id": "b2-u08-l04",
+      "title": {
+        "en": "In context: life in a new country",
+        "ua": "У контексті: життя в новій країні",
+        "ru": "В контексте: жизнь в новой стране"
+      },
+      "recap": {
+        "from": "b2-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Допомога іншим",
+          "ru": "Вспомним: Помощь другим"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She ___ at an animal shelter every weekend.",
+            "options": [
+              "volunteers",
+              "donates",
+              "celebrates"
+            ],
+            "answer": "volunteers",
+            "explain": {
+              "ua": "Volunteer.",
+              "ru": "Volunteer."
+            },
+            "id": "b2-u08-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Men and women should get the same salary. It's about ___ .",
+            "options": [
+              "equality",
+              "diversity",
+              "community"
+            ],
+            "answer": "equality",
+            "explain": {
+              "ua": "Equality.",
+              "ru": "Equality."
+            },
+            "id": "b2-u08-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What surprised Yulia in Germany?",
+              "options": [
+                "people are very punctual",
+                "people are rude",
+                "nobody speaks English"
+              ],
+              "answer": "people are very punctual"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Yulia felt homesick at first.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She doesn't know any Ukrainians in Munich.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "How does Yulia help other people?",
+              "options": [
+                "she volunteers at a Ukrainian school",
+                "she donates to charity",
+                "she teaches German"
+              ],
+              "answer": "she volunteers at a Ukrainian school"
+            }
+          ],
+          "text": "When I moved to Munich, I had a real culture shock. Germans are very punctual — if a meeting starts at 9, it starts at 9! At first I felt homesick and lonely. Then I found the Ukrainian community here. Now I volunteer at a Saturday school for Ukrainian children. We celebrate our traditions together, and it helps me feel at home. Learning German has also helped me integrate.",
+          "explain": {
+            "ua": "Punctual; homesick; Ukrainian community; volunteers at Saturday school.",
+            "ru": "Punctual; homesick; Ukrainian community; volunteers at Saturday school."
+          },
+          "id": "b2-u08-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "culture shock",
+            "punctual",
+            "homesick",
+            "community",
+            "volunteer"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Yulia had a real ___.",
+            "Germans are very ___.",
+            "At first she felt ___.",
+            "She found the Ukrainian ___.",
+            "Now she's a ___ at a school."
+          ],
+          "answers": [
+            "culture shock",
+            "punctual",
+            "homesick",
+            "community",
+            "volunteer"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u08-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "feel at home",
+              "right": {
+                "ua": "почуватися як удома",
+                "ru": "чувствовать себя как дома"
+              }
+            },
+            {
+              "left": "punctual",
+              "right": {
+                "ua": "пунктуальний",
+                "ru": "пунктуальный"
+              }
+            },
+            {
+              "left": "at first",
+              "right": {
+                "ua": "спочатку",
+                "ru": "сначала"
+              }
+            },
+            {
+              "left": "lonely",
+              "right": {
+                "ua": "самотній",
+                "ru": "одинокий"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Слова з тексту.",
+            "ru": "Слова из текста."
+          },
+          "id": "b2-u08-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "What helps Yulia feel at home?",
+          "options": [
+            "celebrating traditions together",
+            "working a lot",
+            "watching TV"
+          ],
+          "answer": "celebrating traditions together",
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u08-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Learning German helped me to integrate in the society.",
+          "answer": "Learning German helped me integrate into society.",
+          "accept": [
+            "Learning German has helped me integrate into society.",
+            "Learning German helped me to integrate into society."
+          ],
+          "explain": {
+            "ua": "Integrate into society (без the).",
+            "ru": "Integrate into society (без the)."
+          },
+          "id": "b2-u08-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Germans are very punctually.",
+          "answer": "Germans are very punctual.",
+          "accept": [],
+          "explain": {
+            "ua": "Після are — прикметник.",
+            "ru": "После are — прилагательное."
+          },
+          "id": "b2-u08-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It helps me feel at home.",
+          "options": [
+            "It helps me feel at home.",
+            "It helps me feel at hope.",
+            "It helped me feel at home."
+          ],
+          "answer": "It helps me feel at home.",
+          "audio": "",
+          "explain": {
+            "ua": "Feel at home.",
+            "ru": "Feel at home."
+          },
+          "id": "b2-u08-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Спочатку в мене був культурний шок.",
+            "ru": "Сначала у меня был культурный шок."
+          },
+          "answer": "At first I had culture shock.",
+          "accept": [
+            "At first I had a culture shock.",
+            "At first I experienced culture shock."
+          ],
+          "explain": {
+            "ua": "Culture shock.",
+            "ru": "Culture shock."
+          },
+          "id": "b2-u08-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b2-u08-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u08-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: життя в новій країні",
+          "ru": "Вспомним: В контексте: жизнь в новой стране"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "What helps Yulia feel at home?",
+            "options": [
+              "celebrating traditions together",
+              "working a lot",
+              "watching TV"
+            ],
+            "answer": "celebrating traditions together",
+            "explain": {
+              "ua": "Перечитай текст.",
+              "ru": "Перечитай текст."
+            },
+            "id": "b2-u08-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Germans are very punctually.",
+            "answer": "Germans are very punctual.",
+            "accept": [],
+            "explain": {
+              "ua": "Після are — прикметник.",
+              "ru": "После are — прилагательное."
+            },
+            "id": "b2-u08-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "generation",
+              "right": {
+                "ua": "покоління",
+                "ru": "поколение"
+              }
+            },
+            {
+              "left": "diversity",
+              "right": {
+                "ua": "різноманіття",
+                "ru": "разнообразие"
+              }
+            },
+            {
+              "left": "background",
+              "right": {
+                "ua": "походження",
+                "ru": "происхождение"
+              }
+            },
+            {
+              "left": "behave",
+              "right": {
+                "ua": "поводитися",
+                "ru": "вести себя"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u08-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Polite ↔ ___",
+          "options": [
+            "rude",
+            "kind",
+            "homesick"
+          ],
+          "answer": "rude",
+          "explain": {
+            "ua": "Polite ↔ rude.",
+            "ru": "Polite ↔ rude."
+          },
+          "id": "b2-u08-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The younger ___ uses TikTok more than Facebook.",
+          "options": [
+            "generation",
+            "tradition",
+            "heritage"
+          ],
+          "answer": "generation",
+          "explain": {
+            "ua": "Generation.",
+            "ru": "Generation."
+          },
+          "id": "b2-u08-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who works without pay to help others.",
+          "answer": "volunteer",
+          "accept": [
+            "a volunteer"
+          ],
+          "explain": {
+            "ua": "Volunteer.",
+            "ru": "Volunteer."
+          },
+          "id": "b2-u08-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A feeling of confusion when you live in a very different culture.",
+          "answer": "culture shock",
+          "accept": [],
+          "explain": {
+            "ua": "Culture shock.",
+            "ru": "Culture shock."
+          },
+          "id": "b2-u08-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "Christmas",
+          "answer": "celebrate",
+          "accept": [
+            "tradition",
+            "holiday"
+          ],
+          "explain": {
+            "ua": "Різдво → святкувати.",
+            "ru": "Рождество → праздновать."
+          },
+          "id": "b2-u08-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "He behaved very rudely with the waiter.",
+          "answer": "He was very rude to the waiter.",
+          "accept": [
+            "He behaved very rudely towards the waiter."
+          ],
+          "explain": {
+            "ua": "Rude TO.",
+            "ru": "Rude TO."
+          },
+          "id": "b2-u08-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "That's just a stereotype.",
+          "options": [
+            "That's just a stereotype.",
+            "That's just a stereo type.",
+            "That's just the stereotype."
+          ],
+          "answer": "That's just a stereotype.",
+          "audio": "",
+          "explain": {
+            "ua": "Stereotype.",
+            "ru": "Stereotype."
+          },
+          "id": "b2-u08-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Різноманіття робить місто цікавим.",
+            "ru": "Разнообразие делает город интересным."
+          },
+          "answer": "Diversity makes the city interesting.",
+          "accept": [
+            "Diversity makes a city interesting."
+          ],
+          "explain": {
+            "ua": "Diversity.",
+            "ru": "Diversity."
+          },
+          "id": "b2-u08-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Easter eggs are a Ukrainian ___ .",
+      "options": [
+        "tradition",
+        "stereotype",
+        "charity"
+      ],
+      "answer": "tradition",
+      "explain": {
+        "ua": "Tradition.",
+        "ru": "Tradition."
+      },
+      "id": "b2-u08-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I miss my family. I'm ___ .",
+      "options": [
+        "homesick",
+        "polite",
+        "diverse"
+      ],
+      "answer": "homesick",
+      "explain": {
+        "ua": "Homesick.",
+        "ru": "Homesick."
+      },
+      "id": "b2-u08-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We ___ to charity every year.",
+      "options": [
+        "donate",
+        "volunteer",
+        "celebrate"
+      ],
+      "answer": "donate",
+      "explain": {
+        "ua": "Donate.",
+        "ru": "Donate."
+      },
+      "id": "b2-u08-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A group of people who live in the same place or share something.",
+      "answer": "community",
+      "accept": [
+        "a community"
+      ],
+      "explain": {
+        "ua": "Community.",
+        "ru": "Community."
+      },
+      "id": "b2-u08-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Everything that comes from the past of a country: art, buildings, traditions.",
+      "answer": "heritage",
+      "accept": [
+        "cultural heritage"
+      ],
+      "explain": {
+        "ua": "Heritage.",
+        "ru": "Heritage."
+      },
+      "id": "b2-u08-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "It helped me ___ into society. (integrate)",
+      "answer": "integrate",
+      "accept": [],
+      "explain": {
+        "ua": "Integrate.",
+        "ru": "Integrate."
+      },
+      "id": "b2-u08-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "custom",
+          "right": {
+            "ua": "звичай",
+            "ru": "обычай"
+          }
+        },
+        {
+          "left": "equality",
+          "right": {
+            "ua": "рівність",
+            "ru": "равенство"
+          }
+        },
+        {
+          "left": "rude",
+          "right": {
+            "ua": "грубий",
+            "ru": "грубый"
+          }
+        },
+        {
+          "left": "generation",
+          "right": {
+            "ua": "покоління",
+            "ru": "поколение"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-u08-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I donated for the hospital.",
+      "answer": "I donated to the hospital.",
+      "accept": [],
+      "explain": {
+        "ua": "Donate TO.",
+        "ru": "Donate TO."
+      },
+      "id": "b2-u08-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I'm homesick about my country.",
+      "answer": "I'm homesick for my country.",
+      "accept": [
+        "I miss my country."
+      ],
+      "explain": {
+        "ua": "Homesick for.",
+        "ru": "Homesick for."
+      },
+      "id": "b2-u08-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "at",
+        "a",
+        "local",
+        "volunteers",
+        "She",
+        "charity"
+      ],
+      "answer": "She volunteers at a local charity",
+      "explain": {
+        "ua": "Volunteers → at a local charity.",
+        "ru": "Volunteers → at a local charity."
+      },
+      "id": "b2-u08-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Ми святкуємо Різдво двічі.",
+        "ru": "Мы празднуем Рождество дважды."
+      },
+      "answer": "We celebrate Christmas twice.",
+      "accept": [
+        "We celebrate Christmas two times."
+      ],
+      "explain": {
+        "ua": "Celebrate.",
+        "ru": "Celebrate."
+      },
+      "id": "b2-u08-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I had a real culture shock.",
+      "options": [
+        "I had a real culture shock.",
+        "I had a real culture shop.",
+        "I had real cultural shock."
+      ],
+      "answer": "I had a real culture shock.",
+      "audio": "",
+      "explain": {
+        "ua": "Culture shock.",
+        "ru": "Culture shock."
+      },
+      "id": "b2-u08-cp12"
+    }
+  ]
+}

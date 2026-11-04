@@ -1,0 +1,1560 @@
+{
+  "id": "b2-u04",
+  "level": "B2",
+  "order": 4,
+  "kind": "vocab",
+  "title": {
+    "en": "Career and job interviews",
+    "ua": "Кар'єра й співбесіда",
+    "ru": "Карьера и собеседование"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "career path",
+      "ipa": "/kəˈrɪə pɑːθ/",
+      "ua": "кар'єрний шлях",
+      "ru": "карьерный путь",
+      "example": "a clear career path",
+      "audio": ""
+    },
+    {
+      "word": "strengths",
+      "ipa": "/streŋθs/",
+      "ua": "сильні сторони",
+      "ru": "сильные стороны",
+      "example": "What are your strengths?",
+      "audio": ""
+    },
+    {
+      "word": "weaknesses",
+      "ipa": "/ˈwiːknəsɪz/",
+      "ua": "слабкі сторони",
+      "ru": "слабые стороны",
+      "example": "Talk about your weaknesses honestly.",
+      "audio": ""
+    },
+    {
+      "word": "achievement",
+      "ipa": "/əˈtʃiːvmənt/",
+      "ua": "досягнення",
+      "ru": "достижение",
+      "example": "my biggest achievement",
+      "audio": ""
+    },
+    {
+      "word": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "ua": "надійний",
+      "ru": "надёжный",
+      "example": "I'm reliable and hard-working.",
+      "audio": ""
+    },
+    {
+      "word": "hard-working",
+      "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "ua": "працьовитий",
+      "ru": "трудолюбивый",
+      "example": "a hard-working employee",
+      "audio": ""
+    },
+    {
+      "word": "team player",
+      "ipa": "/ˈtiːm ˌpleɪə/",
+      "ua": "командний гравець",
+      "ru": "командный игрок",
+      "example": "I'm a team player.",
+      "audio": ""
+    },
+    {
+      "word": "meet a deadline",
+      "ipa": "/ˌmiːt ə ˈdedlaɪn/",
+      "ua": "вкластися в термін",
+      "ru": "уложиться в срок",
+      "example": "I always meet deadlines.",
+      "audio": ""
+    },
+    {
+      "word": "lead a team",
+      "ipa": "/ˌliːd ə ˈtiːm/",
+      "ua": "керувати командою",
+      "ru": "руководить командой",
+      "example": "I led a team of eight.",
+      "audio": ""
+    },
+    {
+      "word": "salary expectations",
+      "ipa": "/ˈsæləri ˌekspekˈteɪʃnz/",
+      "ua": "зарплатні очікування",
+      "ru": "ожидания по зарплате",
+      "example": "What are your salary expectations?",
+      "audio": ""
+    },
+    {
+      "word": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "ua": "домовлятися, вести переговори",
+      "ru": "договариваться, вести переговоры",
+      "example": "negotiate a higher salary",
+      "audio": ""
+    },
+    {
+      "word": "benefits",
+      "ipa": "/ˈbenɪfɪts/",
+      "ua": "пільги, бонуси",
+      "ru": "льготы, бонусы",
+      "example": "health insurance and other benefits",
+      "audio": ""
+    },
+    {
+      "word": "probation period",
+      "ipa": "/prəˈbeɪʃn ˌpɪəriəd/",
+      "ua": "випробувальний термін",
+      "ru": "испытательный срок",
+      "example": "a three-month probation period",
+      "audio": ""
+    },
+    {
+      "word": "notice period",
+      "ipa": "/ˈnəʊtɪs ˌpɪəriəd/",
+      "ua": "термін попередження про звільнення",
+      "ru": "срок уведомления об увольнении",
+      "example": "My notice period is one month.",
+      "audio": ""
+    },
+    {
+      "word": "cover letter",
+      "ipa": "/ˈkʌvə ˌletə/",
+      "ua": "супровідний лист",
+      "ru": "сопроводительное письмо",
+      "example": "Send a CV and a cover letter.",
+      "audio": ""
+    },
+    {
+      "word": "reference",
+      "ipa": "/ˈrefrəns/",
+      "ua": "рекомендація",
+      "ru": "рекомендация",
+      "example": "Can you give me a reference?",
+      "audio": ""
+    },
+    {
+      "word": "hire",
+      "ipa": "/haɪə/",
+      "ua": "наймати",
+      "ru": "нанимать",
+      "example": "They hired three new people.",
+      "audio": ""
+    },
+    {
+      "word": "resign",
+      "ipa": "/rɪˈzaɪn/",
+      "ua": "звільнитися (офіційно)",
+      "ru": "уволиться (официально)",
+      "example": "She resigned last month.",
+      "audio": ""
+    },
+    {
+      "word": "career change",
+      "ipa": "/kəˈrɪə ˌtʃeɪndʒ/",
+      "ua": "зміна професії",
+      "ru": "смена профессии",
+      "example": "I'm thinking about a career change.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u04-l01",
+      "title": {
+        "en": "Talking about yourself",
+        "ua": "Розповідаємо про себе",
+        "ru": "Рассказываем о себе"
+      },
+      "recap": {
+        "from": "b2-u03-l05",
+        "note": {
+          "ua": "Згадаймо: when / as soon as / until / by the time + Present (Simple або Perfect), а не will",
+          "ru": "Вспомним: when / as soon as / until / by the time + Present (Simple или Perfect), а не will"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-time-clauses",
+            "question": "I'll call you when I ___ .",
+            "options": [
+              "arrive",
+              "will arrive",
+              "arrived"
+            ],
+            "answer": "arrive",
+            "explain": {
+              "ua": "When + Present.",
+              "ru": "When + Present."
+            },
+            "id": "b2-u04-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-time-clauses",
+            "question": "As soon as she ___ the results, she'll tell us.",
+            "options": [
+              "gets",
+              "will get",
+              "got"
+            ],
+            "answer": "gets",
+            "explain": {
+              "ua": "As soon as + Present.",
+              "ru": "As soon as + Present."
+            },
+            "id": "b2-u04-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "strengths",
+              "right": {
+                "ua": "сильні сторони",
+                "ru": "сильные стороны"
+              }
+            },
+            {
+              "left": "weaknesses",
+              "right": {
+                "ua": "слабкі сторони",
+                "ru": "слабые стороны"
+              }
+            },
+            {
+              "left": "achievement",
+              "right": {
+                "ua": "досягнення",
+                "ru": "достижение"
+              }
+            },
+            {
+              "left": "team player",
+              "right": {
+                "ua": "командний гравець",
+                "ru": "командный игрок"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u04-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What are your ___ ? — I'm organised and I'm good with people.",
+          "options": [
+            "strengths",
+            "weaknesses",
+            "benefits"
+          ],
+          "answer": "strengths",
+          "explain": {
+            "ua": "Strengths.",
+            "ru": "Strengths."
+          },
+          "id": "b2-u04-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My biggest ___ was launching our new website.",
+          "options": [
+            "achievement",
+            "weakness",
+            "reference"
+          ],
+          "answer": "achievement",
+          "explain": {
+            "ua": "Achievement.",
+            "ru": "Achievement."
+          },
+          "id": "b2-u04-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I always ___ deadlines.",
+          "options": [
+            "meet",
+            "make",
+            "do"
+          ],
+          "answer": "meet",
+          "explain": {
+            "ua": "Meet a deadline.",
+            "ru": "Meet a deadline."
+          },
+          "id": "b2-u04-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In my last job I ___ a team of eight people.",
+          "options": [
+            "led",
+            "made",
+            "did"
+          ],
+          "answer": "led",
+          "explain": {
+            "ua": "Lead → led.",
+            "ru": "Lead → led."
+          },
+          "id": "b2-u04-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Somebody who works well with other people.",
+          "answer": "team player",
+          "accept": [
+            "a team player"
+          ],
+          "explain": {
+            "ua": "Team player.",
+            "ru": "Team player."
+          },
+          "id": "b2-u04-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I always make deadlines.",
+          "answer": "I always meet deadlines.",
+          "accept": [
+            "I always meet my deadlines."
+          ],
+          "explain": {
+            "ua": "Meet a deadline.",
+            "ru": "Meet a deadline."
+          },
+          "id": "b2-u04-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/əˈtʃiːvmənt/",
+          "options": [
+            "achievement",
+            "attachment",
+            "agreement"
+          ],
+          "answer": "achievement",
+          "explain": {
+            "ua": "Наголос: a-CHIEVE-ment.",
+            "ru": "Ударение: a-CHIEVE-ment."
+          },
+          "id": "b2-u04-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я надійна й працьовита.",
+            "ru": "Я надёжная и трудолюбивая."
+          },
+          "answer": "I'm reliable and hard-working.",
+          "accept": [
+            "I am reliable and hard-working.",
+            "I'm hard-working and reliable."
+          ],
+          "explain": {
+            "ua": "Reliable, hard-working.",
+            "ru": "Reliable, hard-working."
+          },
+          "id": "b2-u04-l01-e09"
+        }
+      ],
+      "words": [
+        "career path",
+        "strengths",
+        "weaknesses",
+        "achievement",
+        "reliable",
+        "hard-working",
+        "team player",
+        "meet a deadline",
+        "lead a team"
+      ]
+    },
+    {
+      "id": "b2-u04-l02",
+      "title": {
+        "en": "Conditions and offers",
+        "ua": "Умови й пропозиція",
+        "ru": "Условия и предложение"
+      },
+      "recap": {
+        "from": "b2-u04-l01",
+        "note": {
+          "ua": "Згадаймо: Розповідаємо про себе",
+          "ru": "Вспомним: Рассказываем о себе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What are your ___ ? — I'm organised and I'm good with people.",
+            "options": [
+              "strengths",
+              "weaknesses",
+              "benefits"
+            ],
+            "answer": "strengths",
+            "explain": {
+              "ua": "Strengths.",
+              "ru": "Strengths."
+            },
+            "id": "b2-u04-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "In my last job I ___ a team of eight people.",
+            "options": [
+              "led",
+              "made",
+              "did"
+            ],
+            "answer": "led",
+            "explain": {
+              "ua": "Lead → led.",
+              "ru": "Lead → led."
+            },
+            "id": "b2-u04-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "salary expectations",
+              "right": {
+                "ua": "зарплатні очікування",
+                "ru": "ожидания по зарплате"
+              }
+            },
+            {
+              "left": "benefits",
+              "right": {
+                "ua": "пільги",
+                "ru": "льготы"
+              }
+            },
+            {
+              "left": "probation period",
+              "right": {
+                "ua": "випробувальний термін",
+                "ru": "испытательный срок"
+              }
+            },
+            {
+              "left": "notice period",
+              "right": {
+                "ua": "термін попередження",
+                "ru": "срок уведомления"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u04-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What are your salary ___ ? — Around 2,000 euros a month.",
+          "options": [
+            "expectations",
+            "benefits",
+            "references"
+          ],
+          "answer": "expectations",
+          "explain": {
+            "ua": "Salary expectations.",
+            "ru": "Salary expectations."
+          },
+          "id": "b2-u04-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The job comes with good ___ : health insurance, a gym and free lunches.",
+          "options": [
+            "benefits",
+            "weaknesses",
+            "deadlines"
+          ],
+          "answer": "benefits",
+          "explain": {
+            "ua": "Benefits.",
+            "ru": "Benefits."
+          },
+          "id": "b2-u04-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There's a three-month ___ period. After that, the contract is permanent.",
+          "options": [
+            "probation",
+            "notice",
+            "salary"
+          ],
+          "answer": "probation",
+          "explain": {
+            "ua": "Probation period.",
+            "ru": "Probation period."
+          },
+          "id": "b2-u04-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I can't start next week — my ___ period is one month.",
+          "options": [
+            "notice",
+            "probation",
+            "career"
+          ],
+          "answer": "notice",
+          "explain": {
+            "ua": "Notice period.",
+            "ru": "Notice period."
+          },
+          "id": "b2-u04-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She managed to ___ a higher salary.",
+          "options": [
+            "negotiate",
+            "resign",
+            "hire"
+          ],
+          "answer": "negotiate",
+          "explain": {
+            "ua": "Negotiate.",
+            "ru": "Negotiate."
+          },
+          "id": "b2-u04-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "hired",
+            "resigned",
+            "negotiated",
+            "promoted"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The company ___ five new designers.",
+            "He ___ because he found a better job.",
+            "She ___ a 10% pay rise.",
+            "After two years she was ___ to manager."
+          ],
+          "answers": [
+            "hired",
+            "resigned",
+            "negotiated",
+            "promoted"
+          ],
+          "explain": {
+            "ua": "Подумай про сенс.",
+            "ru": "Подумай о смысле."
+          },
+          "id": "b2-u04-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "What are your salary waitings?",
+          "answer": "What are your salary expectations?",
+          "accept": [
+            "What are your salary expectations"
+          ],
+          "explain": {
+            "ua": "Expectations.",
+            "ru": "Expectations."
+          },
+          "id": "b2-u04-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене випробувальний термін три місяці.",
+            "ru": "У меня испытательный срок три месяца."
+          },
+          "answer": "I have a three-month probation period.",
+          "accept": [
+            "My probation period is three months.",
+            "I've got a three-month probation period."
+          ],
+          "explain": {
+            "ua": "Probation period.",
+            "ru": "Probation period."
+          },
+          "id": "b2-u04-l02-e09"
+        }
+      ],
+      "words": [
+        "salary expectations",
+        "negotiate",
+        "benefits",
+        "probation period",
+        "notice period",
+        "hire",
+        "resign"
+      ]
+    },
+    {
+      "id": "b2-u04-l03",
+      "title": {
+        "en": "Applying for a job",
+        "ua": "Подаємо заявку",
+        "ru": "Подаём заявку"
+      },
+      "recap": {
+        "from": "b2-u04-l02",
+        "note": {
+          "ua": "Згадаймо: Умови й пропозиція",
+          "ru": "Вспомним: Условия и предложение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What are your salary ___ ? — Around 2,000 euros a month.",
+            "options": [
+              "expectations",
+              "benefits",
+              "references"
+            ],
+            "answer": "expectations",
+            "explain": {
+              "ua": "Salary expectations.",
+              "ru": "Salary expectations."
+            },
+            "id": "b2-u04-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I can't start next week — my ___ period is one month.",
+            "options": [
+              "notice",
+              "probation",
+              "career"
+            ],
+            "answer": "notice",
+            "explain": {
+              "ua": "Notice period.",
+              "ru": "Notice period."
+            },
+            "id": "b2-u04-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "cover letter",
+              "right": {
+                "ua": "супровідний лист",
+                "ru": "сопроводительное письмо"
+              }
+            },
+            {
+              "left": "reference",
+              "right": {
+                "ua": "рекомендація",
+                "ru": "рекомендация"
+              }
+            },
+            {
+              "left": "career change",
+              "right": {
+                "ua": "зміна професії",
+                "ru": "смена профессии"
+              }
+            },
+            {
+              "left": "shortlisted",
+              "right": {
+                "ua": "у короткому списку",
+                "ru": "в шорт-листе"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u04-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please send your CV and a ___ letter.",
+          "options": [
+            "cover",
+            "reference",
+            "notice"
+          ],
+          "answer": "cover",
+          "explain": {
+            "ua": "Cover letter.",
+            "ru": "Cover letter."
+          },
+          "id": "b2-u04-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My old boss gave me a great ___ .",
+          "options": [
+            "reference",
+            "benefit",
+            "probation"
+          ],
+          "answer": "reference",
+          "explain": {
+            "ua": "Reference.",
+            "ru": "Reference."
+          },
+          "id": "b2-u04-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I was a teacher, but now I'm a programmer. It was a big ___ change.",
+          "options": [
+            "career",
+            "job",
+            "work"
+          ],
+          "answer": "career",
+          "explain": {
+            "ua": "Career change.",
+            "ru": "Career change."
+          },
+          "id": "b2-u04-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Out of 100 people, they chose 5. I was ___ !",
+          "options": [
+            "shortlisted",
+            "resigned",
+            "hired off"
+          ],
+          "answer": "shortlisted",
+          "explain": {
+            "ua": "Shortlisted.",
+            "ru": "Shortlisted."
+          },
+          "id": "b2-u04-l03-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A letter you send with your CV that explains why you want the job.",
+          "answer": "cover letter",
+          "accept": [
+            "a cover letter",
+            "covering letter",
+            "motivation letter"
+          ],
+          "explain": {
+            "ua": "Cover letter.",
+            "ru": "Cover letter."
+          },
+          "id": "b2-u04-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm thinking about changing my carrier.",
+          "answer": "I'm thinking about changing my career.",
+          "accept": [
+            "I'm thinking about a career change."
+          ],
+          "explain": {
+            "ua": "Career — кар'єра. Carrier — перевізник!",
+            "ru": "Career — карьера. Carrier — перевозчик!"
+          },
+          "id": "b2-u04-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I'd like to apply for the position.",
+          "options": [
+            "I'd like to apply for the position.",
+            "I'd like to apply to the position.",
+            "I'd like to supply for the position."
+          ],
+          "answer": "I'd like to apply for the position.",
+          "audio": "",
+          "explain": {
+            "ua": "Apply for.",
+            "ru": "Apply for."
+          },
+          "id": "b2-u04-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я думаю про зміну професії.",
+            "ru": "Я думаю о смене профессии."
+          },
+          "answer": "I'm thinking about a career change.",
+          "accept": [
+            "I am thinking about a career change.",
+            "I'm thinking of changing careers.",
+            "I'm thinking about changing my career."
+          ],
+          "explain": {
+            "ua": "Career change.",
+            "ru": "Career change."
+          },
+          "id": "b2-u04-l03-e09"
+        }
+      ],
+      "words": [
+        "cover letter",
+        "reference",
+        "career change"
+      ]
+    },
+    {
+      "id": "b2-u04-l04",
+      "title": {
+        "en": "In context: the interview",
+        "ua": "У контексті: співбесіда",
+        "ru": "В контексте: собеседование"
+      },
+      "recap": {
+        "from": "b2-u04-l03",
+        "note": {
+          "ua": "Згадаймо: Подаємо заявку",
+          "ru": "Вспомним: Подаём заявку"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Please send your CV and a ___ letter.",
+            "options": [
+              "cover",
+              "reference",
+              "notice"
+            ],
+            "answer": "cover",
+            "explain": {
+              "ua": "Cover letter.",
+              "ru": "Cover letter."
+            },
+            "id": "b2-u04-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Out of 100 people, they chose 5. I was ___ !",
+            "options": [
+              "shortlisted",
+              "resigned",
+              "hired off"
+            ],
+            "answer": "shortlisted",
+            "explain": {
+              "ua": "Shortlisted.",
+              "ru": "Shortlisted."
+            },
+            "id": "b2-u04-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is Oksana's biggest achievement?",
+              "options": [
+                "she led a team that launched an app",
+                "she negotiated a big contract",
+                "she won an award"
+              ],
+              "answer": "she led a team that launched an app"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Oksana says her weakness is that she sometimes takes on too much.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She can start next week.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What are her salary expectations?",
+              "options": [
+                "about 3,000 euros",
+                "about 1,500 euros",
+                "she doesn't say"
+              ],
+              "answer": "about 3,000 euros"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Interviewer",
+              "line": "Tell me about your biggest achievement."
+            },
+            {
+              "speaker": "Oksana",
+              "line": "Last year I led a team of six that launched a new banking app. We met every deadline."
+            },
+            {
+              "speaker": "Interviewer",
+              "line": "Impressive. And your weaknesses?"
+            },
+            {
+              "speaker": "Oksana",
+              "line": "I sometimes take on too much. I'm learning to delegate."
+            },
+            {
+              "speaker": "Interviewer",
+              "line": "What are your salary expectations?"
+            },
+            {
+              "speaker": "Oksana",
+              "line": "About 3,000 euros a month, depending on the benefits."
+            },
+            {
+              "speaker": "Interviewer",
+              "line": "And when could you start?"
+            },
+            {
+              "speaker": "Oksana",
+              "line": "My notice period is one month, so from the first of March."
+            }
+          ],
+          "explain": {
+            "ua": "Led a team (app); weakness — takes on too much; notice period one month; ~3,000.",
+            "ru": "Led a team (app); weakness — takes on too much; notice period one month; ~3,000."
+          },
+          "id": "b2-u04-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "led",
+            "met",
+            "delegate",
+            "depending on",
+            "notice period"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She ___ a team of six.",
+            "They ___ every deadline.",
+            "She's learning to ___.",
+            "3,000 euros, ___ the benefits.",
+            "Her ___ is one month."
+          ],
+          "answers": [
+            "led",
+            "met",
+            "delegate",
+            "depending on",
+            "notice period"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b2-u04-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Tell me about…",
+              "right": {
+                "ua": "Розкажіть про…",
+                "ru": "Расскажите о…"
+              }
+            },
+            {
+              "left": "Impressive.",
+              "right": {
+                "ua": "Вражає.",
+                "ru": "Впечатляет."
+              }
+            },
+            {
+              "left": "take on too much",
+              "right": {
+                "ua": "брати на себе забагато",
+                "ru": "брать на себя слишком много"
+              }
+            },
+            {
+              "left": "delegate",
+              "right": {
+                "ua": "делегувати",
+                "ru": "делегировать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази на співбесіді.",
+            "ru": "Фразы на собеседовании."
+          },
+          "id": "b2-u04-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— When could you start? — ___",
+          "options": [
+            "From the first of March.",
+            "For three years.",
+            "I'm a team player."
+          ],
+          "answer": "From the first of March.",
+          "explain": {
+            "ua": "Коли — дата.",
+            "ru": "Когда — дата."
+          },
+          "id": "b2-u04-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My weakness is I take too much on me.",
+          "answer": "My weakness is that I take on too much.",
+          "accept": [
+            "My weakness is that I sometimes take on too much."
+          ],
+          "explain": {
+            "ua": "Take on too much.",
+            "ru": "Take on too much."
+          },
+          "id": "b2-u04-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "Last year I have led a team.",
+          "answer": "Last year I led a team.",
+          "accept": [],
+          "explain": {
+            "ua": "Last year → Past Simple.",
+            "ru": "Last year → Past Simple."
+          },
+          "id": "b2-u04-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I'm learning to delegate.",
+          "options": [
+            "I'm learning to delegate.",
+            "I'm learning to negotiate.",
+            "I learned to delegate."
+          ],
+          "answer": "I'm learning to delegate.",
+          "audio": "",
+          "explain": {
+            "ua": "Delegate.",
+            "ru": "Delegate."
+          },
+          "id": "b2-u04-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я можу почати з першого березня.",
+            "ru": "Я могу начать с первого марта."
+          },
+          "answer": "I can start on the first of March.",
+          "accept": [
+            "I could start on the first of March.",
+            "I can start from the first of March.",
+            "I can start on March 1st.",
+            "I can start on 1 March."
+          ],
+          "explain": {
+            "ua": "Start on.",
+            "ru": "Start on."
+          },
+          "id": "b2-u04-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b2-u04-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u04-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: співбесіда",
+          "ru": "Вспомним: В контексте: собеседование"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— When could you start? — ___",
+            "options": [
+              "From the first of March.",
+              "For three years.",
+              "I'm a team player."
+            ],
+            "answer": "From the first of March.",
+            "explain": {
+              "ua": "Коли — дата.",
+              "ru": "Когда — дата."
+            },
+            "id": "b2-u04-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "pp-vs-ps",
+            "sentence": "Last year I have led a team.",
+            "answer": "Last year I led a team.",
+            "accept": [],
+            "explain": {
+              "ua": "Last year → Past Simple.",
+              "ru": "Last year → Past Simple."
+            },
+            "id": "b2-u04-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "hire",
+              "right": {
+                "ua": "наймати",
+                "ru": "нанимать"
+              }
+            },
+            {
+              "left": "resign",
+              "right": {
+                "ua": "звільнитися",
+                "ru": "уволиться"
+              }
+            },
+            {
+              "left": "benefits",
+              "right": {
+                "ua": "пільги",
+                "ru": "льготы"
+              }
+            },
+            {
+              "left": "cover letter",
+              "right": {
+                "ua": "супровідний лист",
+                "ru": "сопроводительное письмо"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u04-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is something good about you?",
+          "options": [
+            "strength",
+            "weakness",
+            "notice period"
+          ],
+          "answer": "strength",
+          "explain": {
+            "ua": "Strength.",
+            "ru": "Strength."
+          },
+          "id": "b2-u04-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The opposite of 'hire' is ___ .",
+          "options": [
+            "fire",
+            "resign",
+            "apply"
+          ],
+          "answer": "fire",
+          "explain": {
+            "ua": "Hire ↔ fire.",
+            "ru": "Hire ↔ fire."
+          },
+          "id": "b2-u04-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A short time at a new job to see if you're good for it.",
+          "answer": "probation period",
+          "accept": [
+            "probation",
+            "trial period"
+          ],
+          "explain": {
+            "ua": "Probation period.",
+            "ru": "Probation period."
+          },
+          "id": "b2-u04-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A letter or call from your old boss saying you're a good worker.",
+          "answer": "reference",
+          "accept": [
+            "a reference",
+            "recommendation"
+          ],
+          "explain": {
+            "ua": "Reference.",
+            "ru": "Reference."
+          },
+          "id": "b2-u04-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "interview",
+          "answer": "strengths",
+          "accept": [
+            "CV",
+            "questions",
+            "weaknesses"
+          ],
+          "explain": {
+            "ua": "Співбесіда → сильні сторони.",
+            "ru": "Собеседование → сильные стороны."
+          },
+          "id": "b2-u04-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I want to discuss about my salary.",
+          "answer": "I want to discuss my salary.",
+          "accept": [
+            "I'd like to discuss my salary."
+          ],
+          "explain": {
+            "ua": "Discuss — без about.",
+            "ru": "Discuss — без about."
+          },
+          "id": "b2-u04-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "What are your strengths and weaknesses?",
+          "options": [
+            "What are your strengths and weaknesses?",
+            "What are your strengths and witnesses?",
+            "What is your strength and weakness?"
+          ],
+          "answer": "What are your strengths and weaknesses?",
+          "audio": "",
+          "explain": {
+            "ua": "Strengths and weaknesses.",
+            "ru": "Strengths and weaknesses."
+          },
+          "id": "b2-u04-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мене найняли!",
+            "ru": "Меня наняли!"
+          },
+          "answer": "I've been hired!",
+          "accept": [
+            "I got hired!",
+            "I was hired!",
+            "I got the job!"
+          ],
+          "explain": {
+            "ua": "Пасив.",
+            "ru": "Пассив."
+          },
+          "id": "b2-u04-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "What are your ___ ? I'm good at planning.",
+      "options": [
+        "strengths",
+        "weaknesses",
+        "benefits"
+      ],
+      "answer": "strengths",
+      "explain": {
+        "ua": "Strengths.",
+        "ru": "Strengths."
+      },
+      "id": "b2-u04-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I always ___ deadlines.",
+      "options": [
+        "meet",
+        "make",
+        "keep up"
+      ],
+      "answer": "meet",
+      "explain": {
+        "ua": "Meet.",
+        "ru": "Meet."
+      },
+      "id": "b2-u04-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "My ___ period is two weeks.",
+      "options": [
+        "notice",
+        "probation",
+        "career"
+      ],
+      "answer": "notice",
+      "explain": {
+        "ua": "Notice period.",
+        "ru": "Notice period."
+      },
+      "id": "b2-u04-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Something great you did, for example at work.",
+      "answer": "achievement",
+      "accept": [
+        "an achievement",
+        "success"
+      ],
+      "explain": {
+        "ua": "Achievement.",
+        "ru": "Achievement."
+      },
+      "id": "b2-u04-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Extra things you get from a job: insurance, gym, etc.",
+      "answer": "benefits",
+      "accept": [
+        "perks"
+      ],
+      "explain": {
+        "ua": "Benefits.",
+        "ru": "Benefits."
+      },
+      "id": "b2-u04-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "She managed to ___ a higher salary.",
+      "answer": "negotiate",
+      "accept": [],
+      "explain": {
+        "ua": "Negotiate.",
+        "ru": "Negotiate."
+      },
+      "id": "b2-u04-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "hard-working",
+          "right": {
+            "ua": "працьовитий",
+            "ru": "трудолюбивый"
+          }
+        },
+        {
+          "left": "reliable",
+          "right": {
+            "ua": "надійний",
+            "ru": "надёжный"
+          }
+        },
+        {
+          "left": "reference",
+          "right": {
+            "ua": "рекомендація",
+            "ru": "рекомендация"
+          }
+        },
+        {
+          "left": "career change",
+          "right": {
+            "ua": "зміна професії",
+            "ru": "смена профессии"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-u04-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I led the team of five people last year and we made all deadlines.",
+      "answer": "I led a team of five people last year and we met all deadlines.",
+      "accept": [
+        "I led a team of five last year and we met all our deadlines."
+      ],
+      "explain": {
+        "ua": "Meet deadlines.",
+        "ru": "Meet deadlines."
+      },
+      "id": "b2-u04-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I want to change my carrier.",
+      "answer": "I want to change my career.",
+      "accept": [],
+      "explain": {
+        "ua": "Career.",
+        "ru": "Career."
+      },
+      "id": "b2-u04-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "reliable",
+        "am",
+        "I",
+        "player",
+        "team",
+        "a"
+      ],
+      "answer": "I am a reliable team player",
+      "explain": {
+        "ua": "I am → a reliable team player.",
+        "ru": "I am → a reliable team player."
+      },
+      "id": "b2-u04-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Які у вас зарплатні очікування?",
+        "ru": "Каковы ваши ожидания по зарплате?"
+      },
+      "answer": "What are your salary expectations?",
+      "accept": [],
+      "explain": {
+        "ua": "Salary expectations.",
+        "ru": "Salary expectations."
+      },
+      "id": "b2-u04-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "She resigned last month.",
+      "options": [
+        "She resigned last month.",
+        "She resigned last moth.",
+        "She was signed last month."
+      ],
+      "answer": "She resigned last month.",
+      "audio": "",
+      "explain": {
+        "ua": "Resigned.",
+        "ru": "Resigned."
+      },
+      "id": "b2-u04-cp12"
+    }
+  ]
+}

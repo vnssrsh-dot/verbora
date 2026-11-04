@@ -1,8 +1,7 @@
 import { useMemo, useState } from 'react';
 import { useStore, freshState } from '../lib/store.jsx';
 import { suggestedLang, tgUser, haptic } from '../lib/telegram.js';
-import { diagnostic, LEVELS, levelPath } from '../lib/content.js';
-import { TOPIC_NAMES } from '../lib/i18n.js';
+import { diagnostic, LEVELS, levelPath, topicName } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { shuffle } from '../lib/check.js';
 import { Mascot, Icon, Dots, Option, Bar, Tile } from '../components.jsx';
@@ -198,7 +197,7 @@ export default function Onboarding({ t, lang }) {
           {topics.map((tp) => (
             <div key={tp} className="row" style={{ gap: 10 }}>
               <span className={`status-dot st-${st(tp)}`} />
-              <span className="small" style={{ color: 'var(--text)' }}>{loc(TOPIC_NAMES[tp], lang) || tp.replace(/-/g, ' ')}</span>
+              <span className="small" style={{ color: 'var(--text)' }}>{topicName(tp, lang)}</span>
             </div>
           ))}
         </div>

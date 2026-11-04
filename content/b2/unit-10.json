@@ -1,0 +1,1216 @@
+{
+  "id": "b2-u10",
+  "level": "B2",
+  "order": 10,
+  "kind": "grammar",
+  "title": {
+    "en": "Modals in the past",
+    "ua": "Модальні в минулому",
+    "ru": "Модальные в прошлом"
+  },
+  "rule": {
+    "formula": {
+      "ua": "must / can't / might / could / should + have + V3",
+      "ru": "must / can't / might / could / should + have + V3"
+    },
+    "explain": {
+      "ua": "Здогадки про минуле: She must have forgotten (мабуть, забула). He can't have seen us (не міг бачити). Докір: You should have told me (треба було сказати).",
+      "ru": "Догадки о прошлом: She must have forgotten (наверное, забыла). He can't have seen us (не мог видеть). Упрёк: You should have told me (надо было сказать)."
+    },
+    "examples": [
+      {
+        "en": "The ground is wet. It must have rained.",
+        "ua": "Земля мокра. Мабуть, ішов дощ.",
+        "ru": "Земля мокрая. Наверное, шёл дождь."
+      },
+      {
+        "en": "She can't have left — her bag is here.",
+        "ua": "Вона не могла піти — її сумка тут.",
+        "ru": "Она не могла уйти — её сумка здесь."
+      },
+      {
+        "en": "You should have called me!",
+        "ua": "Треба було мені подзвонити!",
+        "ru": "Надо было мне позвонить!"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "must have",
+      "ipa": "/ˈmʌst əv/",
+      "ua": "мабуть (точно) було",
+      "ru": "наверное (точно) было",
+      "example": "He must have been tired.",
+      "audio": ""
+    },
+    {
+      "word": "can't have",
+      "ipa": "/ˈkɑːnt əv/",
+      "ua": "не міг (точно не)",
+      "ru": "не мог (точно не)",
+      "example": "She can't have known.",
+      "audio": ""
+    },
+    {
+      "word": "might have",
+      "ipa": "/ˈmaɪt əv/",
+      "ua": "можливо, було",
+      "ru": "возможно, было",
+      "example": "It might have been Tom.",
+      "audio": ""
+    },
+    {
+      "word": "could have",
+      "ipa": "/ˈkʊd əv/",
+      "ua": "міг би; можливо",
+      "ru": "мог бы; возможно",
+      "example": "You could have died!",
+      "audio": ""
+    },
+    {
+      "word": "should have",
+      "ipa": "/ˈʃʊd əv/",
+      "ua": "слід було",
+      "ru": "следовало",
+      "example": "I should have listened.",
+      "audio": ""
+    },
+    {
+      "word": "shouldn't have",
+      "ipa": "/ˈʃʊdnt əv/",
+      "ua": "не слід було",
+      "ru": "не следовало",
+      "example": "You shouldn't have shouted.",
+      "audio": ""
+    },
+    {
+      "word": "needn't have",
+      "ipa": "/ˈniːdnt əv/",
+      "ua": "не треба було (але зробив)",
+      "ru": "не нужно было (но сделал)",
+      "example": "You needn't have brought a gift.",
+      "audio": ""
+    },
+    {
+      "word": "didn't need to",
+      "ipa": "/ˌdɪdnt ˈniːd tə/",
+      "ua": "не треба було (і не робив)",
+      "ru": "не нужно было (и не делал)",
+      "example": "I didn't need to pay.",
+      "audio": ""
+    },
+    {
+      "word": "deduce",
+      "ipa": "/dɪˈdjuːs/",
+      "ua": "робити висновок",
+      "ru": "делать вывод",
+      "example": "What can we deduce?",
+      "audio": ""
+    },
+    {
+      "word": "evidence",
+      "ipa": "/ˈevɪdəns/",
+      "ua": "докази",
+      "ru": "доказательства",
+      "example": "There's no evidence.",
+      "audio": ""
+    },
+    {
+      "word": "oversleep",
+      "ipa": "/ˌəʊvəˈsliːp/",
+      "ua": "проспати",
+      "ru": "проспать",
+      "example": "He must have overslept.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u10-l01",
+      "title": {
+        "en": "must have / can't have",
+        "ua": "must have / can't have",
+        "ru": "must have / can't have"
+      },
+      "recap": {
+        "from": "b2-u09-l05",
+        "note": {
+          "ua": "Згадаймо: have / get + об'єкт + V3 — хтось робить це для нас (послуга)",
+          "ru": "Вспомним: have / get + объект + V3 — кто-то делает это для нас (услуга)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "causative-have",
+            "question": "I ___ my hair cut every month.",
+            "options": [
+              "have",
+              "do",
+              "make"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "Have something done.",
+              "ru": "Have something done."
+            },
+            "id": "b2-u10-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "causative-have",
+            "question": "Where do you get your nails ___ ?",
+            "options": [
+              "done",
+              "do",
+              "doing"
+            ],
+            "answer": "done",
+            "explain": {
+              "ua": "Get … done.",
+              "ru": "Get … done."
+            },
+            "id": "b2-u10-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "must have + V3 — впевнений, що було · can't / couldn't have + V3 — впевнений, що не було",
+          "ru": "must have + V3 — уверен, что было · can't / couldn't have + V3 — уверен, что не было"
+        },
+        "explain": {
+          "ua": "Логічний висновок про минуле на основі фактів: The lights are off. They must have gone to bed. He was with me all evening, so he can't have stolen it.",
+          "ru": "Логический вывод о прошлом на основе фактов: The lights are off. They must have gone to bed. He was with me all evening, so he can't have stolen it."
+        },
+        "examples": [
+          {
+            "en": "You must have been tired after the trip.",
+            "ua": "Ти, мабуть, утомився після поїздки.",
+            "ru": "Ты, наверное, устал после поездки."
+          },
+          {
+            "en": "He can't have finished already — it's only 10!",
+            "ua": "Він не міг уже закінчити — лише 10!",
+            "ru": "Он не мог уже закончить — всего 10!"
+          },
+          {
+            "en": "She must have forgotten our meeting.",
+            "ua": "Вона, мабуть, забула про зустріч.",
+            "ru": "Она, наверное, забыла о встрече."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-past-deduction",
+          "question": "Max isn't here. He ___ overslept.",
+          "options": [
+            "must have",
+            "can't have",
+            "should have"
+          ],
+          "answer": "must have",
+          "explain": {
+            "ua": "Впевнений, що так → must have.",
+            "ru": "Уверен, что так → must have."
+          },
+          "id": "b2-u10-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-deduction",
+          "question": "She ___ seen me — she was looking the other way.",
+          "options": [
+            "can't have",
+            "must have",
+            "should have"
+          ],
+          "answer": "can't have",
+          "explain": {
+            "ua": "Точно ні → can't have.",
+            "ru": "Точно нет → can't have."
+          },
+          "id": "b2-u10-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-deduction",
+          "question": "The floor is wet. Someone ___ water.",
+          "options": [
+            "must have spilt",
+            "can't have spilt",
+            "must spill"
+          ],
+          "answer": "must have spilt",
+          "explain": {
+            "ua": "Must have + V3.",
+            "ru": "Must have + V3."
+          },
+          "id": "b2-u10-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-deduction",
+          "question": "You ___ been very happy when you got the job!",
+          "options": [
+            "must have",
+            "can't have",
+            "needn't have"
+          ],
+          "answer": "must have",
+          "explain": {
+            "ua": "Must have been.",
+            "ru": "Must have been."
+          },
+          "id": "b2-u10-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-deduction",
+          "question": "He ___ written this. He doesn't speak French.",
+          "options": [
+            "can't have",
+            "must have",
+            "should have"
+          ],
+          "answer": "can't have",
+          "explain": {
+            "ua": "Can't have.",
+            "ru": "Can't have."
+          },
+          "id": "b2-u10-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past-deduction",
+          "sentence": "She mustn't have known about it.",
+          "answer": "She can't have known about it.",
+          "accept": [
+            "She couldn't have known about it."
+          ],
+          "explain": {
+            "ua": "Висновок «точно ні» → can't have.",
+            "ru": "Вывод «точно нет» → can't have."
+          },
+          "id": "b2-u10-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past-deduction",
+          "sentence": "They must have went home.",
+          "answer": "They must have gone home.",
+          "accept": [],
+          "explain": {
+            "ua": "V3 — gone.",
+            "ru": "V3 — gone."
+          },
+          "id": "b2-u10-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "modals-past-deduction",
+          "audio_text": "You must have been exhausted.",
+          "options": [
+            "You must have been exhausted.",
+            "You must be exhausted.",
+            "You mustn't have been exhausted."
+          ],
+          "answer": "You must have been exhausted.",
+          "audio": "",
+          "explain": {
+            "ua": "Must have been.",
+            "ru": "Must have been."
+          },
+          "id": "b2-u10-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-past-deduction",
+          "prompt": {
+            "ua": "Вона, мабуть, забула.",
+            "ru": "Она, наверное, забыла."
+          },
+          "answer": "She must have forgotten.",
+          "accept": [],
+          "explain": {
+            "ua": "Must have.",
+            "ru": "Must have."
+          },
+          "id": "b2-u10-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u10-l02",
+      "title": {
+        "en": "might / could have",
+        "ua": "might / could have",
+        "ru": "might / could have"
+      },
+      "recap": {
+        "from": "b2-u10-l01",
+        "note": {
+          "ua": "Згадаймо: must have + V3 — впевнений, що було · can't / couldn't have + V3 — впевнений, що не було",
+          "ru": "Вспомним: must have + V3 — уверен, что было · can't / couldn't have + V3 — уверен, что не было"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-past-deduction",
+            "question": "Max isn't here. He ___ overslept.",
+            "options": [
+              "must have",
+              "can't have",
+              "should have"
+            ],
+            "answer": "must have",
+            "explain": {
+              "ua": "Впевнений, що так → must have.",
+              "ru": "Уверен, что так → must have."
+            },
+            "id": "b2-u10-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-past-deduction",
+            "question": "He ___ written this. He doesn't speak French.",
+            "options": [
+              "can't have",
+              "must have",
+              "should have"
+            ],
+            "answer": "can't have",
+            "explain": {
+              "ua": "Can't have.",
+              "ru": "Can't have."
+            },
+            "id": "b2-u10-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "might / may / could have + V3 — можливо, було · could have — міг би (але не сталося)",
+          "ru": "might / may / could have + V3 — возможно, было · could have — мог бы (но не случилось)"
+        },
+        "explain": {
+          "ua": "Не впевнені: He might have missed the bus. Нереалізована можливість: You could have hurt yourself! (міг поранитися, але ні).",
+          "ru": "Не уверены: He might have missed the bus. Нереализованная возможность: You could have hurt yourself! (мог пораниться, но нет)."
+        },
+        "examples": [
+          {
+            "en": "She might have gone to the shop.",
+            "ua": "Може, вона пішла в магазин.",
+            "ru": "Может, она ушла в магазин."
+          },
+          {
+            "en": "I may have left my phone in the car.",
+            "ua": "Можливо, я залишив телефон у машині.",
+            "ru": "Возможно, я оставил телефон в машине."
+          },
+          {
+            "en": "You could have won if you'd tried!",
+            "ua": "Ти міг би виграти, якби постарався!",
+            "ru": "Ты мог бы выиграть, если бы постарался!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-past-possibility",
+          "question": "I'm not sure where my keys are. I ___ left them at work.",
+          "options": [
+            "might have",
+            "must have",
+            "should have"
+          ],
+          "answer": "might have",
+          "explain": {
+            "ua": "Не впевнений → might have.",
+            "ru": "Не уверен → might have."
+          },
+          "id": "b2-u10-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-possibility",
+          "question": "Why is he late? — He ___ got stuck in traffic.",
+          "options": [
+            "could have",
+            "can't have",
+            "should have"
+          ],
+          "answer": "could have",
+          "explain": {
+            "ua": "Можливо → could have.",
+            "ru": "Возможно → could have."
+          },
+          "id": "b2-u10-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-possibility",
+          "question": "Be careful! You ___ fallen!",
+          "options": [
+            "could have",
+            "must have",
+            "should have"
+          ],
+          "answer": "could have",
+          "explain": {
+            "ua": "Могло статися → could have.",
+            "ru": "Могло случиться → could have."
+          },
+          "id": "b2-u10-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-possibility",
+          "question": "She may ___ the message. She hasn't replied.",
+          "options": [
+            "not have seen",
+            "have not see",
+            "not seen"
+          ],
+          "answer": "not have seen",
+          "explain": {
+            "ua": "May not have + V3.",
+            "ru": "May not have + V3."
+          },
+          "id": "b2-u10-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "modals-past-possibility",
+          "pairs": [
+            {
+              "left": "I'm sure he did.",
+              "right": "He must have done it."
+            },
+            {
+              "left": "I'm sure he didn't.",
+              "right": "He can't have done it."
+            },
+            {
+              "left": "Maybe he did.",
+              "right": "He might have done it."
+            },
+            {
+              "left": "It was possible, but he didn't.",
+              "right": "He could have done it."
+            }
+          ],
+          "explain": {
+            "ua": "Ступінь упевненості.",
+            "ru": "Степень уверенности."
+          },
+          "id": "b2-u10-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past-possibility",
+          "sentence": "He might has missed the train.",
+          "answer": "He might have missed the train.",
+          "accept": [],
+          "explain": {
+            "ua": "Might have.",
+            "ru": "Might have."
+          },
+          "id": "b2-u10-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "modals-past-possibility",
+          "words": [
+            "home",
+            "She",
+            "early",
+            "gone",
+            "might",
+            "have"
+          ],
+          "answer": "She might have gone home early",
+          "explain": {
+            "ua": "Might have gone → home early.",
+            "ru": "Might have gone → home early."
+          },
+          "id": "b2-u10-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "modals-past-possibility",
+          "audio_text": "I may have left it in the car.",
+          "options": [
+            "I may have left it in the car.",
+            "I may leave it in the car.",
+            "I may have lived it in the car."
+          ],
+          "answer": "I may have left it in the car.",
+          "audio": "",
+          "explain": {
+            "ua": "May have left.",
+            "ru": "May have left."
+          },
+          "id": "b2-u10-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-past-possibility",
+          "prompt": {
+            "ua": "Можливо, він не почув дзвінка.",
+            "ru": "Возможно, он не услышал звонка."
+          },
+          "answer": "He might not have heard the phone.",
+          "accept": [
+            "He may not have heard the phone.",
+            "Maybe he didn't hear the phone.",
+            "He might not have heard the call."
+          ],
+          "explain": {
+            "ua": "Might not have.",
+            "ru": "Might not have."
+          },
+          "id": "b2-u10-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u10-l03",
+      "title": {
+        "en": "should have / needn't have",
+        "ua": "should have / needn't have",
+        "ru": "should have / needn't have"
+      },
+      "recap": {
+        "from": "b2-u10-l02",
+        "note": {
+          "ua": "Згадаймо: might / may / could have + V3 — можливо, було · could have — міг би (але не сталося)",
+          "ru": "Вспомним: might / may / could have + V3 — возможно, было · could have — мог бы (но не случилось)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-past-possibility",
+            "question": "I'm not sure where my keys are. I ___ left them at work.",
+            "options": [
+              "might have",
+              "must have",
+              "should have"
+            ],
+            "answer": "might have",
+            "explain": {
+              "ua": "Не впевнений → might have.",
+              "ru": "Не уверен → might have."
+            },
+            "id": "b2-u10-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-past-possibility",
+            "question": "She may ___ the message. She hasn't replied.",
+            "options": [
+              "not have seen",
+              "have not see",
+              "not seen"
+            ],
+            "answer": "not have seen",
+            "explain": {
+              "ua": "May not have + V3.",
+              "ru": "May not have + V3."
+            },
+            "id": "b2-u10-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "should have + V3 — треба було (а не зробив) · shouldn't have — не треба було (а зробив) · needn't have — не треба було, даремно",
+          "ru": "should have + V3 — надо было (а не сделал) · shouldn't have — не надо было (а сделал) · needn't have — не нужно было, зря"
+        },
+        "explain": {
+          "ua": "Жаль і докори: I should have studied more. You shouldn't have said that. Needn't have — зробили зайве: You needn't have cooked, we've eaten.",
+          "ru": "Сожаления и упрёки: I should have studied more. You shouldn't have said that. Needn't have — сделали лишнее: You needn't have cooked, we've eaten."
+        },
+        "examples": [
+          {
+            "en": "I should have taken an umbrella.",
+            "ua": "Треба було взяти парасольку.",
+            "ru": "Надо было взять зонт."
+          },
+          {
+            "en": "You shouldn't have eaten so much.",
+            "ua": "Не треба було стільки їсти.",
+            "ru": "Не надо было столько есть."
+          },
+          {
+            "en": "You needn't have bought flowers — but thank you!",
+            "ua": "Не треба було купувати квіти — але дякую!",
+            "ru": "Не нужно было покупать цветы — но спасибо!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-past-criticism",
+          "question": "I failed the exam. I ___ studied harder.",
+          "options": [
+            "should have",
+            "must have",
+            "needn't have"
+          ],
+          "answer": "should have",
+          "explain": {
+            "ua": "Жаль → should have.",
+            "ru": "Сожаление → should have."
+          },
+          "id": "b2-u10-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-criticism",
+          "question": "You ___ told her! It was a secret!",
+          "options": [
+            "shouldn't have",
+            "needn't have",
+            "can't have"
+          ],
+          "answer": "shouldn't have",
+          "explain": {
+            "ua": "Докір → shouldn't have.",
+            "ru": "Упрёк → shouldn't have."
+          },
+          "id": "b2-u10-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-criticism",
+          "question": "We ___ taken a taxi — the station was very close.",
+          "options": [
+            "needn't have",
+            "shouldn't",
+            "mustn't have"
+          ],
+          "answer": "needn't have",
+          "explain": {
+            "ua": "Зайва дія → needn't have.",
+            "ru": "Лишнее действие → needn't have."
+          },
+          "id": "b2-u10-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-criticism",
+          "question": "It was free, so we ___ pay.",
+          "options": [
+            "didn't need to",
+            "needn't have",
+            "shouldn't have"
+          ],
+          "answer": "didn't need to",
+          "explain": {
+            "ua": "Не треба і не робили → didn't need to.",
+            "ru": "Не нужно и не делали → didn't need to."
+          },
+          "id": "b2-u10-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past-criticism",
+          "question": "You ___ called me earlier! I've been waiting for hours.",
+          "options": [
+            "should have",
+            "must have",
+            "might have"
+          ],
+          "answer": "should have",
+          "explain": {
+            "ua": "Should have.",
+            "ru": "Should have."
+          },
+          "id": "b2-u10-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "modals-past-criticism",
+          "bank": [
+            "should have",
+            "shouldn't have",
+            "needn't have"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I'm cold. I ___ brought a jacket.",
+            "I feel sick. I ___ eaten all those sweets.",
+            "We ___ cooked so much — only two people came."
+          ],
+          "answers": [
+            "should have",
+            "shouldn't have",
+            "needn't have"
+          ],
+          "explain": {
+            "ua": "Треба було / не треба було / зайве.",
+            "ru": "Надо было / не надо было / лишнее."
+          },
+          "id": "b2-u10-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past-criticism",
+          "sentence": "You should told me earlier.",
+          "answer": "You should have told me earlier.",
+          "accept": [],
+          "explain": {
+            "ua": "Should HAVE told.",
+            "ru": "Should HAVE told."
+          },
+          "id": "b2-u10-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past-criticism",
+          "sentence": "I must have listened to you.",
+          "answer": "I should have listened to you.",
+          "accept": [],
+          "explain": {
+            "ua": "Жаль → should have.",
+            "ru": "Сожаление → should have."
+          },
+          "id": "b2-u10-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-past-criticism",
+          "prompt": {
+            "ua": "Треба було тебе послухати.",
+            "ru": "Надо было тебя послушать."
+          },
+          "answer": "I should have listened to you.",
+          "accept": [],
+          "explain": {
+            "ua": "Should have.",
+            "ru": "Should have."
+          },
+          "id": "b2-u10-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u10-l04",
+      "title": {
+        "en": "Practice: a mystery",
+        "ua": "Практика: загадка",
+        "ru": "Практика: загадка"
+      },
+      "recap": {
+        "from": "b2-u10-l03",
+        "note": {
+          "ua": "Згадаймо: should have + V3 — треба було (а не зробив) · shouldn't have — не треба було (а зробив) · needn't have — не треба було, даремно",
+          "ru": "Вспомним: should have + V3 — надо было (а не сделал) · shouldn't have — не надо было (а сделал) · needn't have — не нужно было, зря"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-past-criticism",
+            "question": "I failed the exam. I ___ studied harder.",
+            "options": [
+              "should have",
+              "must have",
+              "needn't have"
+            ],
+            "answer": "should have",
+            "explain": {
+              "ua": "Жаль → should have.",
+              "ru": "Сожаление → should have."
+            },
+            "id": "b2-u10-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-past-criticism",
+            "question": "You ___ called me earlier! I've been waiting for hours.",
+            "options": [
+              "should have",
+              "must have",
+              "might have"
+            ],
+            "answer": "should have",
+            "explain": {
+              "ua": "Should have.",
+              "ru": "Should have."
+            },
+            "id": "b2-u10-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The detective thinks the thief must have known the code.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The window was broken.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Why can't the cleaner have done it?",
+              "options": [
+                "she was on holiday",
+                "she didn't know the code",
+                "she was ill"
+              ],
+              "answer": "she was on holiday"
+            }
+          ],
+          "text": "The money disappeared from the office safe on Friday night. The window wasn't broken, so the thief must have known the code. The cleaner can't have done it — she was on holiday in Spain. The manager might have taken it, but there's no evidence. One thing is clear: the company should have changed the code months ago.",
+          "explain": {
+            "ua": "No broken window → must have known code; cleaner on holiday → can't have; manager might have; should have changed code.",
+            "ru": "No broken window → must have known code; cleaner on holiday → can't have; manager might have; should have changed code."
+          },
+          "id": "b2-u10-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "modals-past",
+          "bank": [
+            "must have known",
+            "can't have done",
+            "might have taken",
+            "should have changed"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The thief ___ the code.",
+            "The cleaner ___ it.",
+            "The manager ___ it.",
+            "The company ___ the code."
+          ],
+          "answers": [
+            "must have known",
+            "can't have done",
+            "might have taken",
+            "should have changed"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u10-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past",
+          "question": "He's very late. He ___ missed the train.",
+          "options": [
+            "might have",
+            "should have",
+            "needn't have"
+          ],
+          "answer": "might have",
+          "explain": {
+            "ua": "Можливо.",
+            "ru": "Возможно."
+          },
+          "id": "b2-u10-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-past",
+          "question": "You ___ worried — everything was fine!",
+          "options": [
+            "needn't have",
+            "must have",
+            "can't have"
+          ],
+          "answer": "needn't have",
+          "explain": {
+            "ua": "Даремно хвилювався.",
+            "ru": "Зря волновался."
+          },
+          "id": "b2-u10-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past",
+          "sentence": "He can't have be at home.",
+          "answer": "He can't have been at home.",
+          "accept": [],
+          "explain": {
+            "ua": "V3 — been.",
+            "ru": "V3 — been."
+          },
+          "id": "b2-u10-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-past",
+          "sentence": "You should have not shouted.",
+          "answer": "You shouldn't have shouted.",
+          "accept": [
+            "You should not have shouted."
+          ],
+          "explain": {
+            "ua": "Shouldn't have.",
+            "ru": "Shouldn't have."
+          },
+          "id": "b2-u10-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "thief",
+            "the",
+            "code",
+            "known",
+            "The",
+            "must",
+            "have"
+          ],
+          "answer": "The thief must have known the code",
+          "explain": {
+            "ua": "Must have known → the code.",
+            "ru": "Must have known → the code."
+          },
+          "id": "b2-u10-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "modals-past",
+          "audio_text": "You shouldn't have said that.",
+          "options": [
+            "You shouldn't have said that.",
+            "You should have said that.",
+            "You shouldn't say that."
+          ],
+          "answer": "You shouldn't have said that.",
+          "audio": "",
+          "explain": {
+            "ua": "Shouldn't have said.",
+            "ru": "Shouldn't have said."
+          },
+          "id": "b2-u10-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-past",
+          "prompt": {
+            "ua": "Він не міг цього зробити — він був зі мною.",
+            "ru": "Он не мог этого сделать — он был со мной."
+          },
+          "answer": "He can't have done it — he was with me.",
+          "accept": [
+            "He couldn't have done it — he was with me.",
+            "He can't have done it, he was with me.",
+            "He couldn't have done it, he was with me."
+          ],
+          "explain": {
+            "ua": "Can't have.",
+            "ru": "Can't have."
+          },
+          "id": "b2-u10-l04-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "modals-past-deduction",
+      "question": "The lights are off. They ___ gone to bed.",
+      "options": [
+        "must have",
+        "can't have",
+        "should have"
+      ],
+      "answer": "must have",
+      "explain": {
+        "ua": "Must have.",
+        "ru": "Must have."
+      },
+      "id": "b2-u10-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-past-deduction",
+      "question": "She ___ stolen it — she was abroad.",
+      "options": [
+        "can't have",
+        "must have",
+        "should have"
+      ],
+      "answer": "can't have",
+      "explain": {
+        "ua": "Can't have.",
+        "ru": "Can't have."
+      },
+      "id": "b2-u10-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-past-possibility",
+      "question": "I'm not sure. He ___ forgotten.",
+      "options": [
+        "might have",
+        "must have",
+        "needn't have"
+      ],
+      "answer": "might have",
+      "explain": {
+        "ua": "Might have.",
+        "ru": "Might have."
+      },
+      "id": "b2-u10-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-past-criticism",
+      "question": "I'm wet. I ___ taken an umbrella.",
+      "options": [
+        "should have",
+        "must have",
+        "needn't have"
+      ],
+      "answer": "should have",
+      "explain": {
+        "ua": "Should have.",
+        "ru": "Should have."
+      },
+      "id": "b2-u10-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-past-criticism",
+      "question": "You ___ brought food — we have plenty.",
+      "options": [
+        "needn't have",
+        "mustn't have",
+        "can't have"
+      ],
+      "answer": "needn't have",
+      "explain": {
+        "ua": "Needn't have.",
+        "ru": "Needn't have."
+      },
+      "id": "b2-u10-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "modals-past-possibility",
+      "question": "You could ___ been killed!",
+      "answer": "have",
+      "accept": [],
+      "explain": {
+        "ua": "Could have been.",
+        "ru": "Could have been."
+      },
+      "id": "b2-u10-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "modals-past-deduction",
+      "question": "She ___ have known. Nobody told her.",
+      "answer": "can't",
+      "accept": [
+        "couldn't",
+        "cannot"
+      ],
+      "explain": {
+        "ua": "Can't have.",
+        "ru": "Can't have."
+      },
+      "id": "b2-u10-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "modals-past-criticism",
+      "sentence": "You must told him.",
+      "answer": "You should have told him.",
+      "accept": [
+        "You must have told him."
+      ],
+      "explain": {
+        "ua": "Докір → should have.",
+        "ru": "Упрёк → should have."
+      },
+      "id": "b2-u10-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "modals-past-possibility",
+      "sentence": "He might has seen it.",
+      "answer": "He might have seen it.",
+      "accept": [],
+      "explain": {
+        "ua": "Might have.",
+        "ru": "Might have."
+      },
+      "id": "b2-u10-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "modals-past-criticism",
+      "words": [
+        "harder",
+        "have",
+        "I",
+        "studied",
+        "should"
+      ],
+      "answer": "I should have studied harder",
+      "explain": {
+        "ua": "Should have studied → harder.",
+        "ru": "Should have studied → harder."
+      },
+      "id": "b2-u10-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "modals-past-criticism",
+      "prompt": {
+        "ua": "Не треба було цього казати.",
+        "ru": "Не надо было этого говорить."
+      },
+      "answer": "You shouldn't have said that.",
+      "accept": [
+        "I shouldn't have said that.",
+        "You should not have said that."
+      ],
+      "explain": {
+        "ua": "Shouldn't have.",
+        "ru": "Shouldn't have."
+      },
+      "id": "b2-u10-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "modals-past-deduction",
+      "audio_text": "It must have rained last night.",
+      "options": [
+        "It must have rained last night.",
+        "It must rain last night.",
+        "It mustn't have rained last night."
+      ],
+      "answer": "It must have rained last night.",
+      "audio": "",
+      "explain": {
+        "ua": "Must have rained.",
+        "ru": "Must have rained."
+      },
+      "id": "b2-u10-cp12"
+    }
+  ]
+}

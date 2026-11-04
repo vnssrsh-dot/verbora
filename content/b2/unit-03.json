@@ -1,0 +1,1662 @@
+{
+  "id": "b2-u03",
+  "level": "B2",
+  "order": 3,
+  "kind": "grammar",
+  "title": {
+    "en": "Advanced future forms",
+    "ua": "Майбутнє: просунутий рівень",
+    "ru": "Будущее: продвинутый уровень"
+  },
+  "rule": {
+    "formula": {
+      "ua": "will be + -ing (процес у майбутньому) · will have + V3 (зроблено до моменту) · be about to / be due to",
+      "ru": "will be + -ing (процесс в будущем) · will have + V3 (сделано к моменту) · be about to / be due to"
+    },
+    "explain": {
+      "ua": "Future Continuous — що відбуватиметься в певний момент: This time tomorrow I'll be flying to Rome. Future Perfect — що вже буде зроблено: By 2030 I'll have paid off my loan.",
+      "ru": "Future Continuous — что будет происходить в определённый момент: This time tomorrow I'll be flying to Rome. Future Perfect — что уже будет сделано: By 2030 I'll have paid off my loan."
+    },
+    "examples": [
+      {
+        "en": "At 8 tomorrow I'll be having breakfast.",
+        "ua": "Завтра о 8 я снідатиму.",
+        "ru": "Завтра в 8 я буду завтракать."
+      },
+      {
+        "en": "By next year we'll have moved.",
+        "ua": "До наступного року ми вже переїдемо.",
+        "ru": "К следующему году мы уже переедем."
+      },
+      {
+        "en": "The train is about to leave.",
+        "ua": "Потяг ось-ось відправиться.",
+        "ru": "Поезд вот-вот отправится."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "this time tomorrow",
+      "ipa": "/ðɪs ˌtaɪm təˈmɒrəʊ/",
+      "ua": "завтра в цей час",
+      "ru": "завтра в это время",
+      "example": "This time tomorrow I'll be in Paris.",
+      "audio": ""
+    },
+    {
+      "word": "by the end of",
+      "ipa": "/baɪ ði ˈend əv/",
+      "ua": "до кінця",
+      "ru": "к концу",
+      "example": "by the end of the year",
+      "audio": ""
+    },
+    {
+      "word": "pay off",
+      "ipa": "/ˌpeɪ ˈɒf/",
+      "ua": "виплатити (борг)",
+      "ru": "выплатить (долг)",
+      "example": "pay off a loan",
+      "audio": ""
+    },
+    {
+      "word": "loan",
+      "ipa": "/ləʊn/",
+      "ua": "кредит, позика",
+      "ru": "кредит, заём",
+      "example": "a bank loan",
+      "audio": ""
+    },
+    {
+      "word": "be about to",
+      "ipa": "/biː əˈbaʊt tə/",
+      "ua": "ось-ось, збиратися зараз",
+      "ru": "вот-вот, собираться сейчас",
+      "example": "I'm about to leave.",
+      "audio": ""
+    },
+    {
+      "word": "be due to",
+      "ipa": "/biː ˈdjuː tə/",
+      "ua": "має (за планом)",
+      "ru": "должен (по плану)",
+      "example": "The plane is due to land at 5.",
+      "audio": ""
+    },
+    {
+      "word": "be likely to",
+      "ipa": "/biː ˈlaɪkli tə/",
+      "ua": "ймовірно",
+      "ru": "вероятно",
+      "example": "It's likely to rain.",
+      "audio": ""
+    },
+    {
+      "word": "in time",
+      "ipa": "/ɪn ˈtaɪm/",
+      "ua": "вчасно (з запасом)",
+      "ru": "вовремя (с запасом)",
+      "example": "We'll get there in time.",
+      "audio": ""
+    },
+    {
+      "word": "on time",
+      "ipa": "/ɒn ˈtaɪm/",
+      "ua": "вчасно (точно за графіком)",
+      "ru": "вовремя (точно по графику)",
+      "example": "The train is on time.",
+      "audio": ""
+    },
+    {
+      "word": "graduate",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "ua": "закінчити навчання",
+      "ru": "окончить учёбу",
+      "example": "She'll have graduated by then.",
+      "audio": ""
+    },
+    {
+      "word": "land",
+      "ipa": "/lænd/",
+      "ua": "приземлятися",
+      "ru": "приземляться",
+      "example": "We'll have landed by 9.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u03-l01",
+      "title": {
+        "en": "Future Continuous",
+        "ua": "Future Continuous",
+        "ru": "Future Continuous"
+      },
+      "recap": {
+        "from": "b2-u02-l03",
+        "note": {
+          "ua": "Згадаймо: результат / скільки → had done · процес / як довго → had been doing",
+          "ru": "Вспомним: результат / сколько → had done · процесс / как долго → had been doing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc-past",
+            "question": "By the end of the day she ___ 20 customers.",
+            "options": [
+              "had served",
+              "had been serving",
+              "was serving"
+            ],
+            "answer": "had served",
+            "explain": {
+              "ua": "Скільки → had done.",
+              "ru": "Сколько → had done."
+            },
+            "id": "b2-u03-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc-past",
+            "question": "His hands were dirty — he ___ the car.",
+            "options": [
+              "had been fixing",
+              "had fixed",
+              "fixed"
+            ],
+            "answer": "had been fixing",
+            "explain": {
+              "ua": "Видно сліди процесу.",
+              "ru": "Видны следы процесса."
+            },
+            "id": "b2-u03-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "will be + -ing",
+        "explain": {
+          "ua": "Процес у конкретний момент у майбутньому: At 9 tomorrow I'll be working. Ще — ввічливе питання про плани: Will you be using the car tonight?",
+          "ru": "Процесс в конкретный момент в будущем: At 9 tomorrow I'll be working. Ещё — вежливый вопрос о планах: Will you be using the car tonight?"
+        },
+        "examples": [
+          {
+            "en": "This time next week I'll be lying on a beach.",
+            "ua": "Наступного тижня в цей час я лежатиму на пляжі.",
+            "ru": "На следующей неделе в это время я буду лежать на пляже."
+          },
+          {
+            "en": "Don't call at 7 — we'll be having dinner.",
+            "ua": "Не дзвони о 7 — ми вечерятимемо.",
+            "ru": "Не звони в 7 — мы будем ужинать."
+          },
+          {
+            "en": "Will you be going past the shop?",
+            "ua": "Ти проходитимеш повз магазин?",
+            "ru": "Ты будешь проходить мимо магазина?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-continuous",
+          "question": "This time tomorrow I ___ to London.",
+          "options": [
+            "'ll be flying",
+            "'ll fly",
+            "fly"
+          ],
+          "answer": "'ll be flying",
+          "explain": {
+            "ua": "Процес у момент → will be -ing.",
+            "ru": "Процесс в момент → will be -ing."
+          },
+          "id": "b2-u03-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-continuous",
+          "question": "Don't call me at 3 — I ___ a meeting.",
+          "options": [
+            "'ll be having",
+            "have",
+            "'ll have had"
+          ],
+          "answer": "'ll be having",
+          "explain": {
+            "ua": "Will be -ing.",
+            "ru": "Will be -ing."
+          },
+          "id": "b2-u03-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-continuous",
+          "question": "___ you be using your laptop tonight? Can I borrow it?",
+          "options": [
+            "Will",
+            "Are",
+            "Do"
+          ],
+          "answer": "Will",
+          "explain": {
+            "ua": "Ввічливе питання про плани.",
+            "ru": "Вежливый вопрос о планах."
+          },
+          "id": "b2-u03-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-continuous",
+          "question": "At midnight we'll still be ___ .",
+          "options": [
+            "dancing",
+            "dance",
+            "danced"
+          ],
+          "answer": "dancing",
+          "explain": {
+            "ua": "Will be + -ing.",
+            "ru": "Will be + -ing."
+          },
+          "id": "b2-u03-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "future-continuous",
+          "question": "In ten years, people ___ be living on Mars. (will)",
+          "answer": "will",
+          "accept": [
+            "'ll"
+          ],
+          "explain": {
+            "ua": "Will be living.",
+            "ru": "Will be living."
+          },
+          "id": "b2-u03-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "future-continuous",
+          "sentence": "At 8 tomorrow I will work.",
+          "answer": "At 8 tomorrow I will be working.",
+          "accept": [
+            "At 8 tomorrow I'll be working."
+          ],
+          "explain": {
+            "ua": "Процес у момент → will be -ing.",
+            "ru": "Процесс в момент → will be -ing."
+          },
+          "id": "b2-u03-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-continuous",
+          "sentence": "This time next week I'll be lie on the beach.",
+          "answer": "This time next week I'll be lying on the beach.",
+          "accept": [
+            "This time next week I will be lying on the beach."
+          ],
+          "explain": {
+            "ua": "-ing.",
+            "ru": "-ing."
+          },
+          "id": "b2-u03-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "future-continuous",
+          "audio_text": "We'll be waiting for you.",
+          "options": [
+            "We'll be waiting for you.",
+            "We'll wait for you.",
+            "We'll be waiting for two."
+          ],
+          "answer": "We'll be waiting for you.",
+          "audio": "",
+          "explain": {
+            "ua": "Will be waiting.",
+            "ru": "Will be waiting."
+          },
+          "id": "b2-u03-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-continuous",
+          "prompt": {
+            "ua": "Завтра в цей час я буду в дорозі.",
+            "ru": "Завтра в это время я буду в дороге."
+          },
+          "answer": "This time tomorrow I'll be travelling.",
+          "accept": [
+            "This time tomorrow I'll be on my way.",
+            "This time tomorrow I will be travelling.",
+            "This time tomorrow I'll be traveling."
+          ],
+          "explain": {
+            "ua": "Will be -ing.",
+            "ru": "Will be -ing."
+          },
+          "id": "b2-u03-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u03-l02",
+      "title": {
+        "en": "Future Perfect",
+        "ua": "Future Perfect",
+        "ru": "Future Perfect"
+      },
+      "recap": {
+        "from": "b2-u03-l01",
+        "note": {
+          "ua": "Згадаймо: will be + -ing",
+          "ru": "Вспомним: will be + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-continuous",
+            "question": "This time tomorrow I ___ to London.",
+            "options": [
+              "'ll be flying",
+              "'ll fly",
+              "fly"
+            ],
+            "answer": "'ll be flying",
+            "explain": {
+              "ua": "Процес у момент → will be -ing.",
+              "ru": "Процесс в момент → will be -ing."
+            },
+            "id": "b2-u03-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "future-continuous",
+            "question": "In ten years, people ___ be living on Mars. (will)",
+            "answer": "will",
+            "accept": [
+              "'ll"
+            ],
+            "explain": {
+              "ua": "Will be living.",
+              "ru": "Will be living."
+            },
+            "id": "b2-u03-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "will have + V3 — до певного моменту в майбутньому вже буде зроблено",
+          "ru": "will have + V3 — к определённому моменту в будущем уже будет сделано"
+        },
+        "explain": {
+          "ua": "Часто з by: by Friday, by 2030, by the time you arrive. By the time you get here, I'll have cooked dinner.",
+          "ru": "Часто с by: by Friday, by 2030, by the time you arrive. By the time you get here, I'll have cooked dinner."
+        },
+        "examples": [
+          {
+            "en": "I'll have finished the report by Monday.",
+            "ua": "До понеділка я закінчу звіт.",
+            "ru": "К понедельнику я закончу отчёт."
+          },
+          {
+            "en": "By 2030 they'll have built the new metro line.",
+            "ua": "До 2030 року збудують нову лінію метро.",
+            "ru": "К 2030 году построят новую линию метро."
+          },
+          {
+            "en": "By the time you arrive, we'll have eaten.",
+            "ua": "Коли ти приїдеш, ми вже поїмо.",
+            "ru": "Когда ты приедешь, мы уже поедим."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-perfect",
+          "question": "By Friday I ___ the project.",
+          "options": [
+            "'ll have finished",
+            "'ll finish",
+            "finish"
+          ],
+          "answer": "'ll have finished",
+          "explain": {
+            "ua": "By + майбутнє → will have V3.",
+            "ru": "By + будущее → will have V3."
+          },
+          "id": "b2-u03-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect",
+          "question": "By the time you get home, I ___ dinner.",
+          "options": [
+            "'ll have cooked",
+            "cook",
+            "cooked"
+          ],
+          "answer": "'ll have cooked",
+          "explain": {
+            "ua": "Will have cooked.",
+            "ru": "Will have cooked."
+          },
+          "id": "b2-u03-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect",
+          "question": "By 2035 we ___ our loan.",
+          "options": [
+            "will have paid off",
+            "will pay off",
+            "pay off"
+          ],
+          "answer": "will have paid off",
+          "explain": {
+            "ua": "Will have paid off.",
+            "ru": "Will have paid off."
+          },
+          "id": "b2-u03-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect",
+          "question": "She'll have ___ by next summer.",
+          "options": [
+            "graduated",
+            "graduate",
+            "graduating"
+          ],
+          "answer": "graduated",
+          "explain": {
+            "ua": "V3.",
+            "ru": "V3."
+          },
+          "id": "b2-u03-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect",
+          "question": "By the time we arrive, the film ___ .",
+          "options": [
+            "will have started",
+            "will start",
+            "starts"
+          ],
+          "answer": "will have started",
+          "explain": {
+            "ua": "Вже почнеться.",
+            "ru": "Уже начнётся."
+          },
+          "id": "b2-u03-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "future-perfect",
+          "pairs": [
+            {
+              "left": "At 9 tomorrow",
+              "right": "I'll be working."
+            },
+            {
+              "left": "By 9 tomorrow",
+              "right": "I'll have finished."
+            },
+            {
+              "left": "This time next year",
+              "right": "I'll be living in Rome."
+            },
+            {
+              "left": "By next year",
+              "right": "I'll have moved."
+            }
+          ],
+          "explain": {
+            "ua": "At → процес, by → результат.",
+            "ru": "At → процесс, by → результат."
+          },
+          "id": "b2-u03-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-perfect",
+          "sentence": "By next month I will finish the course.",
+          "answer": "By next month I will have finished the course.",
+          "accept": [
+            "By next month I'll have finished the course."
+          ],
+          "explain": {
+            "ua": "By → Future Perfect.",
+            "ru": "By → Future Perfect."
+          },
+          "id": "b2-u03-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "future-perfect",
+          "sentence": "By 2030 I will have buy a house.",
+          "answer": "By 2030 I will have bought a house.",
+          "accept": [
+            "By 2030 I'll have bought a house."
+          ],
+          "explain": {
+            "ua": "V3.",
+            "ru": "V3."
+          },
+          "id": "b2-u03-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-perfect",
+          "prompt": {
+            "ua": "До кінця року я прочитаю 20 книжок.",
+            "ru": "К концу года я прочитаю 20 книг."
+          },
+          "answer": "By the end of the year I'll have read 20 books.",
+          "accept": [
+            "By the end of the year I will have read 20 books.",
+            "I'll have read 20 books by the end of the year."
+          ],
+          "explain": {
+            "ua": "Future Perfect.",
+            "ru": "Future Perfect."
+          },
+          "id": "b2-u03-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u03-l03",
+      "title": {
+        "en": "Future Perfect Continuous",
+        "ua": "Future Perfect Continuous",
+        "ru": "Future Perfect Continuous"
+      },
+      "recap": {
+        "from": "b2-u03-l02",
+        "note": {
+          "ua": "Згадаймо: will have + V3 — до певного моменту в майбутньому вже буде зроблено",
+          "ru": "Вспомним: will have + V3 — к определённому моменту в будущем уже будет сделано"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-perfect",
+            "question": "By Friday I ___ the project.",
+            "options": [
+              "'ll have finished",
+              "'ll finish",
+              "finish"
+            ],
+            "answer": "'ll have finished",
+            "explain": {
+              "ua": "By + майбутнє → will have V3.",
+              "ru": "By + будущее → will have V3."
+            },
+            "id": "b2-u03-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-perfect",
+            "question": "By the time we arrive, the film ___ .",
+            "options": [
+              "will have started",
+              "will start",
+              "starts"
+            ],
+            "answer": "will have started",
+            "explain": {
+              "ua": "Вже почнеться.",
+              "ru": "Уже начнётся."
+            },
+            "id": "b2-u03-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "will have been + -ing — скільки часу триватиме процес до моменту в майбутньому",
+          "ru": "will have been + -ing — сколько времени будет длиться процесс к моменту в будущем"
+        },
+        "explain": {
+          "ua": "Рідкісний, але корисний для «ювілеїв»: In June I'll have been working here for ten years. Майже завжди з for.",
+          "ru": "Редкий, но полезный для «юбилеев»: In June I'll have been working here for ten years. Почти всегда с for."
+        },
+        "examples": [
+          {
+            "en": "Next month I'll have been living here for five years.",
+            "ua": "Наступного місяця буде п'ять років, як я тут живу.",
+            "ru": "В следующем месяце будет пять лет, как я здесь живу."
+          },
+          {
+            "en": "By 6 pm we'll have been driving for 10 hours.",
+            "ua": "До 18:00 ми будемо в дорозі вже 10 годин.",
+            "ru": "К 18:00 мы будем в пути уже 10 часов."
+          },
+          {
+            "en": "In May they'll have been married for 25 years.",
+            "ua": "У травні буде 25 років їхнього шлюбу.",
+            "ru": "В мае будет 25 лет их браку."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-perfect-continuous",
+          "question": "In June I ___ here for ten years.",
+          "options": [
+            "'ll have been working",
+            "'ll be working",
+            "work"
+          ],
+          "answer": "'ll have been working",
+          "explain": {
+            "ua": "Тривалість до моменту → will have been -ing.",
+            "ru": "Длительность к моменту → will have been -ing."
+          },
+          "id": "b2-u03-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect-continuous",
+          "question": "By midnight we ___ for twelve hours.",
+          "options": [
+            "'ll have been travelling",
+            "'ll travel",
+            "travelled"
+          ],
+          "answer": "'ll have been travelling",
+          "explain": {
+            "ua": "FPC.",
+            "ru": "FPC."
+          },
+          "id": "b2-u03-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect-continuous",
+          "question": "Next year she'll have been ___ English for 20 years.",
+          "options": [
+            "teaching",
+            "taught",
+            "teach"
+          ],
+          "answer": "teaching",
+          "explain": {
+            "ua": "Been + -ing.",
+            "ru": "Been + -ing."
+          },
+          "id": "b2-u03-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-perfect-continuous",
+          "question": "In May they'll have ___ married for 25 years.",
+          "options": [
+            "been",
+            "be",
+            "being"
+          ],
+          "answer": "been",
+          "explain": {
+            "ua": "Be — стан, тут Future Perfect: will have been.",
+            "ru": "Be — состояние, здесь Future Perfect: will have been."
+          },
+          "id": "b2-u03-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "future-perfect-continuous",
+          "pairs": [
+            {
+              "left": "will be doing",
+              "right": {
+                "ua": "процес у момент",
+                "ru": "процесс в момент"
+              }
+            },
+            {
+              "left": "will have done",
+              "right": {
+                "ua": "результат до моменту",
+                "ru": "результат к моменту"
+              }
+            },
+            {
+              "left": "will have been doing",
+              "right": {
+                "ua": "тривалість до моменту",
+                "ru": "длительность к моменту"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Три майбутні.",
+            "ru": "Три будущих."
+          },
+          "id": "b2-u03-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "future-perfect-continuous",
+          "sentence": "Next week I will be working here for a year.",
+          "answer": "Next week I will have been working here for a year.",
+          "accept": [
+            "Next week I'll have been working here for a year."
+          ],
+          "explain": {
+            "ua": "For + до моменту → FPC.",
+            "ru": "For + к моменту → FPC."
+          },
+          "id": "b2-u03-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "future-perfect-continuous",
+          "audio_text": "By then we'll have been waiting for hours.",
+          "options": [
+            "By then we'll have been waiting for hours.",
+            "By then we'll be waiting for hours.",
+            "By then we'd been waiting for hours."
+          ],
+          "answer": "By then we'll have been waiting for hours.",
+          "audio": "",
+          "explain": {
+            "ua": "Will have been.",
+            "ru": "Will have been."
+          },
+          "id": "b2-u03-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "future-perfect-continuous",
+          "words": [
+            "here",
+            "will",
+            "June",
+            "years",
+            "living",
+            "I",
+            "five",
+            "have",
+            "been",
+            "In",
+            "for"
+          ],
+          "answer": "In June I will have been living here for five years",
+          "explain": {
+            "ua": "Will have been living → for five years.",
+            "ru": "Will have been living → for five years."
+          },
+          "id": "b2-u03-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-perfect-continuous",
+          "prompt": {
+            "ua": "Наступного року буде десять років, як я вивчаю англійську.",
+            "ru": "В следующем году будет десять лет, как я учу английский."
+          },
+          "answer": "Next year I'll have been learning English for ten years.",
+          "accept": [
+            "Next year I will have been learning English for ten years.",
+            "Next year I'll have been studying English for ten years."
+          ],
+          "explain": {
+            "ua": "FPC.",
+            "ru": "FPC."
+          },
+          "id": "b2-u03-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u03-l04",
+      "title": {
+        "en": "be about to / be due to",
+        "ua": "be about to / be due to",
+        "ru": "be about to / be due to"
+      },
+      "recap": {
+        "from": "b2-u03-l03",
+        "note": {
+          "ua": "Згадаймо: will have been + -ing — скільки часу триватиме процес до моменту в майбутньому",
+          "ru": "Вспомним: will have been + -ing — сколько времени будет длиться процесс к моменту в будущем"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-perfect-continuous",
+            "question": "In June I ___ here for ten years.",
+            "options": [
+              "'ll have been working",
+              "'ll be working",
+              "work"
+            ],
+            "answer": "'ll have been working",
+            "explain": {
+              "ua": "Тривалість до моменту → will have been -ing.",
+              "ru": "Длительность к моменту → will have been -ing."
+            },
+            "id": "b2-u03-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-perfect-continuous",
+            "question": "In May they'll have ___ married for 25 years.",
+            "options": [
+              "been",
+              "be",
+              "being"
+            ],
+            "answer": "been",
+            "explain": {
+              "ua": "Be — стан, тут Future Perfect: will have been.",
+              "ru": "Be — состояние, здесь Future Perfect: will have been."
+            },
+            "id": "b2-u03-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "be about to + дієслово — ось-ось · be due to — за планом · be likely to — ймовірно",
+          "ru": "be about to + глагол — вот-вот · be due to — по плану · be likely to — вероятно"
+        },
+        "explain": {
+          "ua": "I'm about to leave — я ось-ось вийду. The plane is due to land at 6 — літак має приземлитися о 6. It's likely to rain — імовірно, буде дощ.",
+          "ru": "I'm about to leave — я вот-вот выйду. The plane is due to land at 6 — самолёт должен приземлиться в 6. It's likely to rain — вероятно, будет дождь."
+        },
+        "examples": [
+          {
+            "en": "Hurry up! The film is about to start.",
+            "ua": "Швидше! Фільм ось-ось почнеться.",
+            "ru": "Быстрее! Фильм вот-вот начнётся."
+          },
+          {
+            "en": "The baby is due in March.",
+            "ua": "Дитина має народитися в березні.",
+            "ru": "Ребёнок должен родиться в марте."
+          },
+          {
+            "en": "Prices are likely to rise.",
+            "ua": "Ціни, ймовірно, зростуть.",
+            "ru": "Цены, вероятно, вырастут."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "be-about-to",
+          "question": "I can't talk now — I'm ___ to go into a meeting.",
+          "options": [
+            "about",
+            "due",
+            "likely"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "Ось-ось → about to.",
+            "ru": "Вот-вот → about to."
+          },
+          "id": "b2-u03-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "be-about-to",
+          "question": "The train is ___ to arrive at 10:15.",
+          "options": [
+            "due",
+            "about",
+            "likely"
+          ],
+          "answer": "due",
+          "explain": {
+            "ua": "За розкладом → due to.",
+            "ru": "По расписанию → due to."
+          },
+          "id": "b2-u03-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "be-about-to",
+          "question": "It's ___ to snow tonight, according to the forecast.",
+          "options": [
+            "likely",
+            "due",
+            "about"
+          ],
+          "answer": "likely",
+          "explain": {
+            "ua": "Імовірно → likely to.",
+            "ru": "Вероятно → likely to."
+          },
+          "id": "b2-u03-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "be-about-to",
+          "question": "We were about to ___ when it started raining.",
+          "options": [
+            "leave",
+            "leaving",
+            "left"
+          ],
+          "answer": "leave",
+          "explain": {
+            "ua": "About to + базове.",
+            "ru": "About to + базовое."
+          },
+          "id": "b2-u03-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "be-about-to",
+          "question": "Our report is due ___ Friday.",
+          "options": [
+            "on",
+            "to",
+            "at"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "Due on + дата: має бути здано.",
+            "ru": "Due on + дата: должен быть сдан."
+          },
+          "id": "b2-u03-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "be-about-to",
+          "sentence": "Hurry! The bus is about leaving.",
+          "answer": "Hurry! The bus is about to leave.",
+          "accept": [],
+          "explain": {
+            "ua": "About to + базове.",
+            "ru": "About to + базовое."
+          },
+          "id": "b2-u03-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "be-about-to",
+          "sentence": "The meeting is due start at 9.",
+          "answer": "The meeting is due to start at 9.",
+          "accept": [],
+          "explain": {
+            "ua": "Due TO.",
+            "ru": "Due TO."
+          },
+          "id": "b2-u03-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "be-about-to",
+          "audio_text": "The film is about to start.",
+          "options": [
+            "The film is about to start.",
+            "The film is about the start.",
+            "The film was about to start."
+          ],
+          "answer": "The film is about to start.",
+          "audio": "",
+          "explain": {
+            "ua": "About to.",
+            "ru": "About to."
+          },
+          "id": "b2-u03-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "be-about-to",
+          "prompt": {
+            "ua": "Я якраз збиралася тобі подзвонити!",
+            "ru": "Я как раз собиралась тебе позвонить!"
+          },
+          "answer": "I was about to call you!",
+          "accept": [
+            "I was just about to call you!",
+            "I was going to call you!"
+          ],
+          "explain": {
+            "ua": "Was about to.",
+            "ru": "Was about to."
+          },
+          "id": "b2-u03-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u03-l05",
+      "title": {
+        "en": "Time clauses about the future",
+        "ua": "Підрядні часу про майбутнє",
+        "ru": "Придаточные времени о будущем"
+      },
+      "recap": {
+        "from": "b2-u03-l04",
+        "note": {
+          "ua": "Згадаймо: be about to + дієслово — ось-ось · be due to — за планом · be likely to — ймовірно",
+          "ru": "Вспомним: be about to + глагол — вот-вот · be due to — по плану · be likely to — вероятно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "be-about-to",
+            "question": "I can't talk now — I'm ___ to go into a meeting.",
+            "options": [
+              "about",
+              "due",
+              "likely"
+            ],
+            "answer": "about",
+            "explain": {
+              "ua": "Ось-ось → about to.",
+              "ru": "Вот-вот → about to."
+            },
+            "id": "b2-u03-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "be-about-to",
+            "question": "Our report is due ___ Friday.",
+            "options": [
+              "on",
+              "to",
+              "at"
+            ],
+            "answer": "on",
+            "explain": {
+              "ua": "Due on + дата: має бути здано.",
+              "ru": "Due on + дата: должен быть сдан."
+            },
+            "id": "b2-u03-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "when / as soon as / until / by the time + Present (Simple або Perfect), а не will",
+          "ru": "when / as soon as / until / by the time + Present (Simple или Perfect), а не will"
+        },
+        "explain": {
+          "ua": "Після сполучників часу про майбутнє — теперішній: I'll call you when I arrive. Present Perfect — щоб підкреслити завершеність: I'll call you when I've finished.",
+          "ru": "После союзов времени о будущем — настоящее: I'll call you when I arrive. Present Perfect — чтобы подчеркнуть завершённость: I'll call you when I've finished."
+        },
+        "examples": [
+          {
+            "en": "I'll tell you as soon as I know.",
+            "ua": "Скажу, щойно дізнаюся.",
+            "ru": "Скажу, как только узнаю."
+          },
+          {
+            "en": "We'll start when everyone has arrived.",
+            "ua": "Почнемо, коли всі прийдуть.",
+            "ru": "Начнём, когда все придут."
+          },
+          {
+            "en": "By the time you read this, I'll have left.",
+            "ua": "Коли ти це прочитаєш, мене вже не буде.",
+            "ru": "Когда ты это прочитаешь, меня уже не будет."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-time-clauses",
+          "question": "I'll call you when I ___ .",
+          "options": [
+            "arrive",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": "arrive",
+          "explain": {
+            "ua": "When + Present.",
+            "ru": "When + Present."
+          },
+          "id": "b2-u03-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-time-clauses",
+          "question": "You can go out when you ___ your homework.",
+          "options": [
+            "'ve finished",
+            "'ll finish",
+            "finished"
+          ],
+          "answer": "'ve finished",
+          "explain": {
+            "ua": "Завершеність → Present Perfect.",
+            "ru": "Завершённость → Present Perfect."
+          },
+          "id": "b2-u03-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-time-clauses",
+          "question": "By the time you ___ , we'll have left.",
+          "options": [
+            "arrive",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": "arrive",
+          "explain": {
+            "ua": "By the time + Present.",
+            "ru": "By the time + Present."
+          },
+          "id": "b2-u03-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-time-clauses",
+          "question": "Wait here until I ___ back.",
+          "options": [
+            "come",
+            "will come",
+            "came"
+          ],
+          "answer": "come",
+          "explain": {
+            "ua": "Until + Present.",
+            "ru": "Until + Present."
+          },
+          "id": "b2-u03-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "future-time-clauses",
+          "question": "As soon as she ___ the results, she'll tell us.",
+          "options": [
+            "gets",
+            "will get",
+            "got"
+          ],
+          "answer": "gets",
+          "explain": {
+            "ua": "As soon as + Present.",
+            "ru": "As soon as + Present."
+          },
+          "id": "b2-u03-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "future-time-clauses",
+          "sentence": "I'll text you when I will land.",
+          "answer": "I'll text you when I land.",
+          "accept": [
+            "I'll text you when I've landed."
+          ],
+          "explain": {
+            "ua": "When + Present.",
+            "ru": "When + Present."
+          },
+          "id": "b2-u03-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-time-clauses",
+          "sentence": "Don't leave until I will say.",
+          "answer": "Don't leave until I say.",
+          "accept": [],
+          "explain": {
+            "ua": "Until + Present.",
+            "ru": "Until + Present."
+          },
+          "id": "b2-u03-l05-e07"
+        },
+        {
+          "type": "build",
+          "topic": "future-time-clauses",
+          "words": [
+            "start",
+            "We",
+            "has",
+            "when",
+            "will",
+            "arrived",
+            "everyone"
+          ],
+          "answer": "We will start when everyone has arrived",
+          "explain": {
+            "ua": "Will start → when everyone has arrived.",
+            "ru": "Will start → when everyone has arrived."
+          },
+          "id": "b2-u03-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-time-clauses",
+          "prompt": {
+            "ua": "Я подзвоню, щойно закінчу.",
+            "ru": "Я позвоню, как только закончу."
+          },
+          "answer": "I'll call you as soon as I've finished.",
+          "accept": [
+            "I'll call as soon as I finish.",
+            "I'll call you as soon as I finish.",
+            "I will call you as soon as I've finished."
+          ],
+          "explain": {
+            "ua": "As soon as + Present Perfect.",
+            "ru": "As soon as + Present Perfect."
+          },
+          "id": "b2-u03-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u03-l06",
+      "title": {
+        "en": "Practice: plans for the future",
+        "ua": "Практика: плани",
+        "ru": "Практика: планы"
+      },
+      "recap": {
+        "from": "b2-u03-l05",
+        "note": {
+          "ua": "Згадаймо: when / as soon as / until / by the time + Present (Simple або Perfect), а не will",
+          "ru": "Вспомним: when / as soon as / until / by the time + Present (Simple или Perfect), а не will"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-time-clauses",
+            "question": "I'll call you when I ___ .",
+            "options": [
+              "arrive",
+              "will arrive",
+              "arrived"
+            ],
+            "answer": "arrive",
+            "explain": {
+              "ua": "When + Present.",
+              "ru": "When + Present."
+            },
+            "id": "b2-u03-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-time-clauses",
+            "question": "As soon as she ___ the results, she'll tell us.",
+            "options": [
+              "gets",
+              "will get",
+              "got"
+            ],
+            "answer": "gets",
+            "explain": {
+              "ua": "As soon as + Present.",
+              "ru": "As soon as + Present."
+            },
+            "id": "b2-u03-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "future-advanced",
+          "bank": [
+            "'ll be working",
+            "'ll have finished",
+            "'ll have been living",
+            "is due to",
+            "'m about to"
+          ],
+          "reuse": false,
+          "sentences": [
+            "At 10 tomorrow I ___ .",
+            "By Friday I ___ the report.",
+            "In May I ___ here for five years.",
+            "The baby ___ arrive in March.",
+            "Sorry, I ___ go into a meeting."
+          ],
+          "answers": [
+            "'ll be working",
+            "'ll have finished",
+            "'ll have been living",
+            "is due to",
+            "'m about to"
+          ],
+          "explain": {
+            "ua": "Обери форму майбутнього.",
+            "ru": "Выбери форму будущего."
+          },
+          "id": "b2-u03-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-advanced",
+          "question": "— Can I call you at 9? — No, I ___ the kids to bed then.",
+          "options": [
+            "'ll be putting",
+            "'ll have put",
+            "put"
+          ],
+          "answer": "'ll be putting",
+          "explain": {
+            "ua": "Процес о 9.",
+            "ru": "Процес о 9."
+          },
+          "id": "b2-u03-l06-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Sasha will be flying to Toronto next Monday.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "By the end of the year she will have sold her flat.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "How long will she have been working in IT by then?",
+              "options": [
+                "ten years",
+                "five years",
+                "two years"
+              ],
+              "answer": "ten years"
+            }
+          ],
+          "text": "Next Monday I'll be flying to Toronto for my new job. The plane is due to land at 4 pm. By Christmas I'll have found a flat, and by the end of the year I'll have been working in IT for ten years. I'm a bit nervous, but I'm sure I'll be fine once I've settled in.",
+          "explain": {
+            "ua": "Flying Monday; will have found a flat by Christmas; 10 years in IT.",
+            "ru": "Flying Monday; will have found a flat by Christmas; 10 years in IT."
+          },
+          "id": "b2-u03-l06-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "future-advanced",
+          "sentence": "When I will arrive, I'll call you.",
+          "answer": "When I arrive, I'll call you.",
+          "accept": [],
+          "explain": {
+            "ua": "When + Present.",
+            "ru": "When + Present."
+          },
+          "id": "b2-u03-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "future-advanced",
+          "sentence": "Next year I'll be married for 10 years.",
+          "answer": "Next year I'll have been married for 10 years.",
+          "accept": [
+            "Next year I will have been married for 10 years."
+          ],
+          "explain": {
+            "ua": "Тривалість до моменту → will have been.",
+            "ru": "Длительность к моменту → will have been."
+          },
+          "id": "b2-u03-l06-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "at",
+            "is",
+            "to",
+            "plane",
+            "four",
+            "due",
+            "land",
+            "The"
+          ],
+          "answer": "The plane is due to land at four",
+          "explain": {
+            "ua": "Is due to land → at four.",
+            "ru": "Is due to land → at four."
+          },
+          "id": "b2-u03-l06-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "future-advanced",
+          "audio_text": "By Christmas I'll have found a flat.",
+          "options": [
+            "By Christmas I'll have found a flat.",
+            "By Christmas I'll find a flat.",
+            "By Christmas I'd found a flat."
+          ],
+          "answer": "By Christmas I'll have found a flat.",
+          "audio": "",
+          "explain": {
+            "ua": "Will have found.",
+            "ru": "Will have found."
+          },
+          "id": "b2-u03-l06-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "future-advanced",
+          "prompt": {
+            "ua": "Не дзвони о сьомій — я буду в спортзалі.",
+            "ru": "Не звони в семь — я буду в спортзале."
+          },
+          "answer": "Don't call at 7 — I'll be at the gym.",
+          "accept": [
+            "Don't call at seven, I'll be at the gym.",
+            "Don't call me at 7 — I'll be at the gym.",
+            "Don't call at 7, I'll be working out."
+          ],
+          "explain": {
+            "ua": "Will be.",
+            "ru": "Will be."
+          },
+          "id": "b2-u03-l06-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "future-continuous",
+      "question": "This time tomorrow I ___ on the beach.",
+      "options": [
+        "'ll be lying",
+        "'ll lie",
+        "lie"
+      ],
+      "answer": "'ll be lying",
+      "explain": {
+        "ua": "Future Continuous.",
+        "ru": "Future Continuous."
+      },
+      "id": "b2-u03-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "future-perfect",
+      "question": "By 2030 I ___ my degree.",
+      "options": [
+        "'ll have finished",
+        "'ll finish",
+        "finish"
+      ],
+      "answer": "'ll have finished",
+      "explain": {
+        "ua": "Future Perfect.",
+        "ru": "Future Perfect."
+      },
+      "id": "b2-u03-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "future-perfect-continuous",
+      "question": "In June we ___ here for 20 years.",
+      "options": [
+        "'ll have been living",
+        "'ll live",
+        "live"
+      ],
+      "answer": "'ll have been living",
+      "explain": {
+        "ua": "FPC.",
+        "ru": "FPC."
+      },
+      "id": "b2-u03-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "be-about-to",
+      "question": "Hurry! The train is ___ to leave.",
+      "options": [
+        "about",
+        "due",
+        "likely"
+      ],
+      "answer": "about",
+      "explain": {
+        "ua": "About to.",
+        "ru": "About to."
+      },
+      "id": "b2-u03-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "future-time-clauses",
+      "question": "I'll text you as soon as I ___ .",
+      "options": [
+        "land",
+        "will land",
+        "landed"
+      ],
+      "answer": "land",
+      "explain": {
+        "ua": "Present.",
+        "ru": "Present."
+      },
+      "id": "b2-u03-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "be-about-to",
+      "question": "The plane is ___ to land at 6.",
+      "answer": "due",
+      "accept": [],
+      "explain": {
+        "ua": "Due to.",
+        "ru": "Due to."
+      },
+      "id": "b2-u03-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "future-continuous",
+      "question": "Will you ___ using the car tonight?",
+      "answer": "be",
+      "accept": [],
+      "explain": {
+        "ua": "Will you be…?",
+        "ru": "Will you be…?"
+      },
+      "id": "b2-u03-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "future-perfect",
+      "sentence": "By Monday I will finish it.",
+      "answer": "By Monday I will have finished it.",
+      "accept": [
+        "By Monday I'll have finished it."
+      ],
+      "explain": {
+        "ua": "By → Future Perfect.",
+        "ru": "By → Future Perfect."
+      },
+      "id": "b2-u03-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "future-time-clauses",
+      "sentence": "I'll wait until you will come.",
+      "answer": "I'll wait until you come.",
+      "accept": [],
+      "explain": {
+        "ua": "Until + Present.",
+        "ru": "Until + Present."
+      },
+      "id": "b2-u03-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "future-continuous",
+      "words": [
+        "be",
+        "having",
+        "will",
+        "At",
+        "eight",
+        "dinner",
+        "we"
+      ],
+      "answer": "At eight we will be having dinner",
+      "explain": {
+        "ua": "At eight → we will be having dinner.",
+        "ru": "At eight → we will be having dinner."
+      },
+      "id": "b2-u03-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "be-about-to",
+      "prompt": {
+        "ua": "Ціни, ймовірно, зростуть.",
+        "ru": "Цены, вероятно, вырастут."
+      },
+      "answer": "Prices are likely to rise.",
+      "accept": [
+        "Prices are likely to go up.",
+        "Prices will probably rise.",
+        "Prices will probably go up."
+      ],
+      "explain": {
+        "ua": "Likely to.",
+        "ru": "Likely to."
+      },
+      "id": "b2-u03-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "future-time-clauses",
+      "audio_text": "By the time you arrive, we'll have eaten.",
+      "options": [
+        "By the time you arrive, we'll have eaten.",
+        "By the time you'll arrive, we'll have eaten.",
+        "By the time you arrive, we'll eat."
+      ],
+      "answer": "By the time you arrive, we'll have eaten.",
+      "audio": "",
+      "explain": {
+        "ua": "Arrive + will have eaten.",
+        "ru": "Arrive + will have eaten."
+      },
+      "id": "b2-u03-cp12"
+    }
+  ]
+}

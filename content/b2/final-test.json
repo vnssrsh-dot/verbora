@@ -1,0 +1,542 @@
+{
+  "id": "b2-final",
+  "level": "B2",
+  "kind": "final-test",
+  "title": {
+    "en": "B2 final test",
+    "ua": "Фінальний тест B2",
+    "ru": "Финальный тест B2"
+  },
+  "pass_score": 0.8,
+  "exercises": [
+    {
+      "type": "choose",
+      "topic": "tenses-present",
+      "question": "The sun ___ in the east.",
+      "options": [
+        "rises",
+        "is rising",
+        "has risen"
+      ],
+      "answer": "rises",
+      "explain": {
+        "ua": "Факт.",
+        "ru": "Факт."
+      },
+      "id": "b2-final-01",
+      "source": "b2-u01-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "ppc-past",
+      "question": "The ground was wet. It had ___ raining.",
+      "answer": "been",
+      "accept": [],
+      "explain": {
+        "ua": "Had been raining.",
+        "ru": "Had been raining."
+      },
+      "id": "b2-final-02",
+      "source": "b2-u02-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "be-about-to",
+      "prompt": {
+        "ua": "Ціни, ймовірно, зростуть.",
+        "ru": "Цены, вероятно, вырастут."
+      },
+      "answer": "Prices are likely to rise.",
+      "accept": [
+        "Prices are likely to go up.",
+        "Prices will probably rise.",
+        "Prices will probably go up."
+      ],
+      "explain": {
+        "ua": "Likely to.",
+        "ru": "Likely to."
+      },
+      "id": "b2-final-03",
+      "source": "b2-u03-cp11"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Something great you did, for example at work.",
+      "answer": "achievement",
+      "accept": [
+        "an achievement",
+        "success"
+      ],
+      "explain": {
+        "ua": "Achievement.",
+        "ru": "Achievement."
+      },
+      "id": "b2-final-04",
+      "source": "b2-u04-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "third-conditional",
+      "sentence": "If we had won, we would celebrate all night.",
+      "answer": "If we had won, we would have celebrated all night.",
+      "accept": [
+        "If we'd won, we'd have celebrated all night."
+      ],
+      "explain": {
+        "ua": "Would have + V3.",
+        "ru": "Would have + V3."
+      },
+      "id": "b2-final-05",
+      "source": "b2-u05-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "mixed-conditionals",
+      "question": "If I ___ so shy, I would have talked to him.",
+      "options": [
+        "weren't",
+        "hadn't been",
+        "won't be"
+      ],
+      "answer": "weren't",
+      "explain": {
+        "ua": "Mixed: риса → минуле.",
+        "ru": "Mixed: черта → прошлое."
+      },
+      "id": "b2-final-06",
+      "source": "b2-u06-cp02"
+    },
+    {
+      "type": "fill",
+      "topic": "wish-past",
+      "question": "I wish I ___ gone to bed earlier.",
+      "answer": "had",
+      "accept": [
+        "'d"
+      ],
+      "explain": {
+        "ua": "Had gone.",
+        "ru": "Had gone."
+      },
+      "id": "b2-final-07",
+      "source": "b2-u07-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I had a real culture shock.",
+      "options": [
+        "I had a real culture shock.",
+        "I had a real culture shop.",
+        "I had real cultural shock."
+      ],
+      "answer": "I had a real culture shock.",
+      "audio": "",
+      "explain": {
+        "ua": "Culture shock.",
+        "ru": "Culture shock."
+      },
+      "id": "b2-final-08",
+      "source": "b2-u08-cp12"
+    },
+    {
+      "type": "choose",
+      "topic": "causative-have",
+      "question": "I had my car ___ yesterday.",
+      "options": [
+        "washed",
+        "wash",
+        "washing"
+      ],
+      "answer": "washed",
+      "explain": {
+        "ua": "Have something done.",
+        "ru": "Have something done."
+      },
+      "id": "b2-final-09",
+      "source": "b2-u09-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "modals-past-criticism",
+      "words": [
+        "harder",
+        "have",
+        "I",
+        "studied",
+        "should"
+      ],
+      "answer": "I should have studied harder",
+      "explain": {
+        "ua": "Should have studied → harder.",
+        "ru": "Should have studied → harder."
+      },
+      "id": "b2-final-10",
+      "source": "b2-u10-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "No rain for months — it's a ___ .",
+      "options": [
+        "drought",
+        "flood",
+        "storm"
+      ],
+      "answer": "drought",
+      "explain": {
+        "ua": "Drought.",
+        "ru": "Drought."
+      },
+      "id": "b2-final-11",
+      "source": "b2-u11-cp03"
+    },
+    {
+      "type": "fix",
+      "topic": "reported-questions",
+      "sentence": "He asked me where did I work.",
+      "answer": "He asked me where I worked.",
+      "accept": [],
+      "explain": {
+        "ua": "Без did.",
+        "ru": "Без did."
+      },
+      "id": "b2-final-12",
+      "source": "b2-u12-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-non-defining",
+      "question": "My father, ___ is 65, still works.",
+      "options": [
+        "who",
+        "that",
+        "which"
+      ],
+      "answer": "who",
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b2-final-13",
+      "source": "b2-u13-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "articles-geography",
+      "question": "Odesa is on ___ Black Sea.",
+      "answer": "the",
+      "accept": [],
+      "explain": {
+        "ua": "The Black Sea.",
+        "ru": "The Black Sea."
+      },
+      "id": "b2-final-14",
+      "source": "b2-u14-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Яка відсоткова ставка?",
+        "ru": "Какая процентная ставка?"
+      },
+      "answer": "What's the interest rate?",
+      "accept": [
+        "What is the interest rate?"
+      ],
+      "explain": {
+        "ua": "Interest rate.",
+        "ru": "Interest rate."
+      },
+      "id": "b2-final-15",
+      "source": "b2-u15-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-relationships",
+      "question": "I ___ really well with my boss.",
+      "options": [
+        "get on",
+        "get off",
+        "get over"
+      ],
+      "answer": "get on",
+      "explain": {
+        "ua": "Get on.",
+        "ru": "Get on."
+      },
+      "id": "b2-final-16",
+      "source": "b2-u16-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "participle-clauses",
+      "sentence": "Having eat breakfast, we left.",
+      "answer": "Having eaten breakfast, we left.",
+      "accept": [],
+      "explain": {
+        "ua": "V3.",
+        "ru": "V3."
+      },
+      "id": "b2-final-17",
+      "source": "b2-u17-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "opinions",
+      "question": "I see your ___ , but I disagree.",
+      "options": [
+        "point",
+        "opinion",
+        "idea"
+      ],
+      "answer": "point",
+      "explain": {
+        "ua": "I see your point.",
+        "ru": "I see your point."
+      },
+      "id": "b2-final-18",
+      "source": "b2-u18-cp02"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "stress",
+          "right": {
+            "ua": "стрес",
+            "ru": "стресс"
+          }
+        },
+        {
+          "left": "lifestyle",
+          "right": {
+            "ua": "спосіб життя",
+            "ru": "образ жизни"
+          }
+        },
+        {
+          "left": "meditation",
+          "right": {
+            "ua": "медитація",
+            "ru": "медитация"
+          }
+        },
+        {
+          "left": "mental health",
+          "right": {
+            "ua": "психічне здоров'я",
+            "ru": "психическое здоровье"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-final-19",
+      "source": "b2-u19-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "state-verbs",
+      "audio_text": "It depends on the weather.",
+      "options": [
+        "It depends on the weather.",
+        "It's depending on the weather.",
+        "It depends of the weather."
+      ],
+      "answer": "It depends on the weather.",
+      "audio": "",
+      "explain": {
+        "ua": "Depends on.",
+        "ru": "Depends on."
+      },
+      "id": "b2-final-20",
+      "source": "b2-u01-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "ppc-past",
+      "audio_text": "She'd been crying.",
+      "options": [
+        "She'd been crying.",
+        "She'd been trying.",
+        "She's been crying."
+      ],
+      "answer": "She'd been crying.",
+      "audio": "",
+      "explain": {
+        "ua": "Had been crying.",
+        "ru": "Had been crying."
+      },
+      "id": "b2-final-21",
+      "source": "b2-u02-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "future-time-clauses",
+      "audio_text": "By the time you arrive, we'll have eaten.",
+      "options": [
+        "By the time you arrive, we'll have eaten.",
+        "By the time you'll arrive, we'll have eaten.",
+        "By the time you arrive, we'll eat."
+      ],
+      "answer": "By the time you arrive, we'll have eaten.",
+      "audio": "",
+      "explain": {
+        "ua": "Arrive + will have eaten.",
+        "ru": "Arrive + will have eaten."
+      },
+      "id": "b2-final-22",
+      "source": "b2-u03-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "third-conditional",
+      "audio_text": "If I'd known, I'd have told you.",
+      "options": [
+        "If I'd known, I'd have told you.",
+        "If I knew, I'd tell you.",
+        "If I'd known, I'll have told you."
+      ],
+      "answer": "If I'd known, I'd have told you.",
+      "audio": "",
+      "explain": {
+        "ua": "Third conditional.",
+        "ru": "Third conditional."
+      },
+      "id": "b2-final-23",
+      "source": "b2-u05-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "mixed-conditionals",
+      "audio_text": "I would be fluent now.",
+      "options": [
+        "I would be fluent now.",
+        "I would have been fluent now.",
+        "I will be fluent now."
+      ],
+      "answer": "I would be fluent now.",
+      "audio": "",
+      "explain": {
+        "ua": "Would be.",
+        "ru": "Would be."
+      },
+      "id": "b2-final-24",
+      "source": "b2-u06-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "wish-present",
+      "audio_text": "If only I had more money!",
+      "options": [
+        "If only I had more money!",
+        "If only I have more money!",
+        "If only I had more honey!"
+      ],
+      "answer": "If only I had more money!",
+      "audio": "",
+      "explain": {
+        "ua": "If only + Past.",
+        "ru": "If only + Past."
+      },
+      "id": "b2-final-25",
+      "source": "b2-u07-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-modals",
+      "audio_text": "It can't be done today.",
+      "options": [
+        "It can't be done today.",
+        "It can't do today.",
+        "It can't be done to die."
+      ],
+      "answer": "It can't be done today.",
+      "audio": "",
+      "explain": {
+        "ua": "Can't be done.",
+        "ru": "Can't be done."
+      },
+      "id": "b2-final-26",
+      "source": "b2-u09-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "modals-past-deduction",
+      "audio_text": "It must have rained last night.",
+      "options": [
+        "It must have rained last night.",
+        "It must rain last night.",
+        "It mustn't have rained last night."
+      ],
+      "answer": "It must have rained last night.",
+      "audio": "",
+      "explain": {
+        "ua": "Must have rained.",
+        "ru": "Must have rained."
+      },
+      "id": "b2-final-27",
+      "source": "b2-u10-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "reporting-verbs",
+      "audio_text": "He apologised for being late.",
+      "options": [
+        "He apologised for being late.",
+        "He apologised to be late.",
+        "He apologised for been late."
+      ],
+      "answer": "He apologised for being late.",
+      "audio": "",
+      "explain": {
+        "ua": "Apologise for + -ing.",
+        "ru": "Apologise for + -ing."
+      },
+      "id": "b2-final-28",
+      "source": "b2-u12-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "relative-which-sentence",
+      "audio_text": "She passed, which was great news.",
+      "options": [
+        "She passed, which was great news.",
+        "She passed, that was great news.",
+        "She passed, what was great news."
+      ],
+      "answer": "She passed, which was great news.",
+      "audio": "",
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-final-29",
+      "source": "b2-u13-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "articles-fixed",
+      "audio_text": "We went to the hospital to visit her.",
+      "options": [
+        "We went to the hospital to visit her.",
+        "We went to hospital to visit her.",
+        "We went to the hostel to visit her."
+      ],
+      "answer": "We went to the hospital to visit her.",
+      "audio": "",
+      "explain": {
+        "ua": "The hospital (будівля).",
+        "ru": "The hospital (здание)."
+      },
+      "id": "b2-final-30",
+      "source": "b2-u14-cp12"
+    }
+  ]
+}

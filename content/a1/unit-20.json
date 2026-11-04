@@ -1,0 +1,1062 @@
+{
+  "id": "a1-u20",
+  "level": "A1",
+  "order": 20,
+  "kind": "grammar",
+  "title": {
+    "en": "Can / can't",
+    "ua": "Can / can't",
+    "ru": "Can / can't"
+  },
+  "rule": {
+    "formula": {
+      "ua": "can / can't + дієслово · Can you…?",
+      "ru": "can / can't + глагол · Can you…?"
+    },
+    "explain": {
+      "ua": "Can — «могти, вміти». Однаковий для всіх: I can, she can (без -s!). Після can — дієслово без to: I can swim.",
+      "ru": "Can — «мочь, уметь». Одинаковый для всех: I can, she can (без -s!). После can — глагол без to: I can swim."
+    },
+    "examples": [
+      {
+        "en": "I can swim.",
+        "ua": "Я вмію плавати.",
+        "ru": "Я умею плавать."
+      },
+      {
+        "en": "She can't drive.",
+        "ua": "Вона не вміє водити.",
+        "ru": "Она не умеет водить."
+      },
+      {
+        "en": "Can you help me?",
+        "ua": "Можеш мені допомогти?",
+        "ru": "Можешь мне помочь?"
+      }
+    ],
+    "compare": {
+      "ua": "Українською «вмію» і «можу» — різні слова. Англійською обидва — can.",
+      "ru": "По-русски «умею» и «могу» — разные слова. По-английски оба — can."
+    }
+  },
+  "vocab": [
+    {
+      "word": "can",
+      "ipa": "/kæn/",
+      "ua": "могти, вміти",
+      "ru": "мочь, уметь",
+      "example": "I can cook.",
+      "audio": ""
+    },
+    {
+      "word": "can't",
+      "ipa": "/kɑːnt/",
+      "ua": "не могти, не вміти",
+      "ru": "не мочь, не уметь",
+      "example": "I can't come.",
+      "audio": ""
+    },
+    {
+      "word": "dance",
+      "ipa": "/dɑːns/",
+      "ua": "танцювати",
+      "ru": "танцевать",
+      "example": "She can dance.",
+      "audio": ""
+    },
+    {
+      "word": "sing",
+      "ipa": "/sɪŋ/",
+      "ua": "співати",
+      "ru": "петь",
+      "example": "Can you sing?",
+      "audio": ""
+    },
+    {
+      "word": "ride a bike",
+      "ipa": "/ˌraɪd ə ˈbaɪk/",
+      "ua": "їздити на велосипеді",
+      "ru": "кататься на велосипеде",
+      "example": "My son can ride a bike.",
+      "audio": ""
+    },
+    {
+      "word": "play the guitar",
+      "ipa": "/ˌpleɪ ðə ɡɪˈtɑː/",
+      "ua": "грати на гітарі",
+      "ru": "играть на гитаре",
+      "example": "He can play the guitar.",
+      "audio": ""
+    },
+    {
+      "word": "speak",
+      "ipa": "/spiːk/",
+      "ua": "розмовляти",
+      "ru": "говорить",
+      "example": "I can speak two languages.",
+      "audio": ""
+    },
+    {
+      "word": "open",
+      "ipa": "/ˈəʊpən/",
+      "ua": "відчиняти",
+      "ru": "открывать",
+      "example": "Can you open the window?",
+      "audio": ""
+    },
+    {
+      "word": "close",
+      "ipa": "/kləʊz/",
+      "ua": "зачиняти",
+      "ru": "закрывать",
+      "example": "Can I close the door?",
+      "audio": ""
+    },
+    {
+      "word": "use",
+      "ipa": "/juːz/",
+      "ua": "користуватися",
+      "ru": "пользоваться",
+      "example": "Can I use your phone?",
+      "audio": ""
+    },
+    {
+      "word": "come in",
+      "ipa": "/ˌkʌm ˈɪn/",
+      "ua": "заходити",
+      "ru": "входить",
+      "example": "Can I come in?",
+      "audio": ""
+    },
+    {
+      "word": "sit down",
+      "ipa": "/ˌsɪt ˈdaʊn/",
+      "ua": "сідати",
+      "ru": "садиться",
+      "example": "Can I sit down?",
+      "audio": ""
+    },
+    {
+      "word": "hear",
+      "ipa": "/hɪə/",
+      "ua": "чути",
+      "ru": "слышать",
+      "example": "I can't hear you.",
+      "audio": ""
+    },
+    {
+      "word": "see",
+      "ipa": "/siː/",
+      "ua": "бачити",
+      "ru": "видеть",
+      "example": "Can you see the sea?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u20-l01",
+      "title": {
+        "en": "Abilities",
+        "ua": "Уміння",
+        "ru": "Умения"
+      },
+      "recap": {
+        "from": "a1-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Котра година",
+          "ru": "Вспомним: Который час"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "7:00 = ___",
+            "options": [
+              "seven o'clock",
+              "half past seven",
+              "quarter past seven"
+            ],
+            "answer": "seven o'clock",
+            "explain": {
+              "ua": "Рівно — o'clock.",
+              "ru": "Ровно — o'clock."
+            },
+            "id": "a1-u20-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What time is it? — ___",
+            "options": [
+              "It's three o'clock.",
+              "It's Monday.",
+              "It's summer."
+            ],
+            "answer": "It's three o'clock.",
+            "explain": {
+              "ua": "Котра година — It's…",
+              "ru": "Который час — It's…"
+            },
+            "id": "a1-u20-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I / he / they + can / can't + дієслово",
+          "ru": "I / he / they + can / can't + глагол"
+        },
+        "explain": {
+          "ua": "Can — однаковий для всіх. Після can дієслово без -s і без to: She can sing (не cans, не can to sing).",
+          "ru": "Can — одинаковый для всех. После can глагол без -s и без to: She can sing (не cans, не can to sing)."
+        },
+        "examples": [
+          {
+            "en": "I can cook.",
+            "ua": "Я вмію готувати.",
+            "ru": "Я умею готовить."
+          },
+          {
+            "en": "He can't swim.",
+            "ua": "Він не вміє плавати.",
+            "ru": "Он не умеет плавать."
+          },
+          {
+            "en": "We can speak English.",
+            "ua": "Ми вміємо розмовляти англійською.",
+            "ru": "Мы умеем говорить по-английски."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "She ___ dance.",
+          "options": [
+            "can",
+            "cans",
+            "can to"
+          ],
+          "answer": "can",
+          "explain": {
+            "ua": "Can — без -s.",
+            "ru": "Can — без -s."
+          },
+          "id": "a1-u20-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "I can ___ the guitar.",
+          "options": [
+            "play",
+            "plays",
+            "to play"
+          ],
+          "answer": "play",
+          "explain": {
+            "ua": "Після can — дієслово без змін.",
+            "ru": "После can — глагол без изменений."
+          },
+          "id": "a1-u20-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "My dad ___ swim. He's afraid of water.",
+          "options": [
+            "can't",
+            "can",
+            "doesn't can"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Не вміє — can't.",
+            "ru": "Не умеет — can't."
+          },
+          "id": "a1-u20-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "Babies ___ walk.",
+          "options": [
+            "can't",
+            "can",
+            "cans"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Немовлята ще не вміють ходити.",
+            "ru": "Малыши ещё не умеют ходить."
+          },
+          "id": "a1-u20-l01-e04"
+        },
+        {
+          "type": "match",
+          "topic": "can",
+          "pairs": [
+            {
+              "left": "I can swim.",
+              "right": {
+                "ua": "Я вмію плавати.",
+                "ru": "Я умею плавать."
+              }
+            },
+            {
+              "left": "I can't sing.",
+              "right": {
+                "ua": "Я не вмію співати.",
+                "ru": "Я не умею петь."
+              }
+            },
+            {
+              "left": "She can drive.",
+              "right": {
+                "ua": "Вона вміє водити.",
+                "ru": "Она умеет водить."
+              }
+            },
+            {
+              "left": "He can't cook.",
+              "right": {
+                "ua": "Він не вміє готувати.",
+                "ru": "Он не умеет готовить."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Can / can't.",
+            "ru": "Can / can't."
+          },
+          "id": "a1-u20-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "He cans ride a bike.",
+          "answer": "He can ride a bike.",
+          "accept": [],
+          "explain": {
+            "ua": "Can — без -s.",
+            "ru": "Can — без -s."
+          },
+          "id": "a1-u20-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "I can to speak English.",
+          "answer": "I can speak English.",
+          "accept": [],
+          "explain": {
+            "ua": "Після can — без to.",
+            "ru": "После can — без to."
+          },
+          "id": "a1-u20-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "can",
+          "audio_text": "I can't sing.",
+          "options": [
+            "I can't sing.",
+            "I can sing.",
+            "I can't swim."
+          ],
+          "answer": "I can't sing.",
+          "audio": "",
+          "explain": {
+            "ua": "Can — «кен», can't — «ка:нт».",
+            "ru": "Can — «кэн», can't — «ка:нт»."
+          },
+          "id": "a1-u20-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "can",
+          "prompt": {
+            "ua": "Я вмію плавати.",
+            "ru": "Я умею плавать."
+          },
+          "answer": "I can swim.",
+          "accept": [],
+          "explain": {
+            "ua": "Can + swim.",
+            "ru": "Can + swim."
+          },
+          "id": "a1-u20-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u20-l02",
+      "title": {
+        "en": "Requests and permission",
+        "ua": "Прохання і дозвіл",
+        "ru": "Просьбы и разрешение"
+      },
+      "recap": {
+        "from": "a1-u20-l01",
+        "note": {
+          "ua": "Згадаймо: I / he / they + can / can't + дієслово",
+          "ru": "Вспомним: I / he / they + can / can't + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "She ___ dance.",
+            "options": [
+              "can",
+              "cans",
+              "can to"
+            ],
+            "answer": "can",
+            "explain": {
+              "ua": "Can — без -s.",
+              "ru": "Can — без -s."
+            },
+            "id": "a1-u20-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "Babies ___ walk.",
+            "options": [
+              "can't",
+              "can",
+              "cans"
+            ],
+            "answer": "can't",
+            "explain": {
+              "ua": "Немовлята ще не вміють ходити.",
+              "ru": "Малыши ещё не умеют ходить."
+            },
+            "id": "a1-u20-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Can you…? — прохання · Can I…? — дозвіл",
+          "ru": "Can you…? — просьба · Can I…? — разрешение"
+        },
+        "explain": {
+          "ua": "Can you help me? — просимо когось. Can I come in? — питаємо дозволу. Відповідь: Yes, I can. / No, I can't. / Sure!",
+          "ru": "Can you help me? — просим кого-то. Can I come in? — спрашиваем разрешения. Ответ: Yes, I can. / No, I can't. / Sure!"
+        },
+        "examples": [
+          {
+            "en": "Can you help me?",
+            "ua": "Можеш мені допомогти?",
+            "ru": "Можешь мне помочь?"
+          },
+          {
+            "en": "Can I use your phone?",
+            "ua": "Можна скористатися твоїм телефоном?",
+            "ru": "Можно воспользоваться твоим телефоном?"
+          },
+          {
+            "en": "Can I sit down? — Sure!",
+            "ua": "Можна сісти? — Звісно!",
+            "ru": "Можно сесть? — Конечно!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "___ you help me, please?",
+          "options": [
+            "Can",
+            "Do",
+            "Are"
+          ],
+          "answer": "Can",
+          "explain": {
+            "ua": "Прохання — Can you…?",
+            "ru": "Просьба — Can you…?"
+          },
+          "id": "a1-u20-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "Can I ___ in?",
+          "options": [
+            "come",
+            "comes",
+            "to come"
+          ],
+          "answer": "come",
+          "explain": {
+            "ua": "Can I come in?",
+            "ru": "Can I come in?"
+          },
+          "id": "a1-u20-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "Can you swim? — Yes, I ___.",
+          "options": [
+            "can",
+            "do",
+            "am"
+          ],
+          "answer": "can",
+          "explain": {
+            "ua": "Yes, I can.",
+            "ru": "Yes, I can."
+          },
+          "id": "a1-u20-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "Can he drive? — No, he ___.",
+          "options": [
+            "can't",
+            "doesn't",
+            "isn't"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "No, he can't.",
+            "ru": "No, he can't."
+          },
+          "id": "a1-u20-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "can",
+          "pairs": [
+            {
+              "left": "Can I come in?",
+              "right": "Yes, come in!"
+            },
+            {
+              "left": "Can you open the window?",
+              "right": "Sure!"
+            },
+            {
+              "left": "Can you speak French?",
+              "right": "No, I can't."
+            },
+            {
+              "left": "Can I use your pen?",
+              "right": "Yes, here you are."
+            }
+          ],
+          "explain": {
+            "ua": "Прохання — відповідь.",
+            "ru": "Просьба — ответ."
+          },
+          "id": "a1-u20-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "Do you can help me?",
+          "answer": "Can you help me?",
+          "accept": [],
+          "explain": {
+            "ua": "Питання — Can на початок.",
+            "ru": "Вопрос — Can в начало."
+          },
+          "id": "a1-u20-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "Can I to sit down?",
+          "answer": "Can I sit down?",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "a1-u20-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "can",
+          "words": [
+            "the",
+            "close",
+            "you",
+            "Can",
+            "please",
+            "door"
+          ],
+          "answer": "Can you close the door please",
+          "explain": {
+            "ua": "Can you → close the door → please?",
+            "ru": "Can you → close the door → please?"
+          },
+          "id": "a1-u20-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "can",
+          "prompt": {
+            "ua": "Можна скористатися твоїм телефоном?",
+            "ru": "Можно воспользоваться твоим телефоном?"
+          },
+          "answer": "Can I use your phone?",
+          "accept": [],
+          "explain": {
+            "ua": "Дозвіл — Can I…?",
+            "ru": "Разрешение — Can I…?"
+          },
+          "id": "a1-u20-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u20-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u20-l02",
+        "note": {
+          "ua": "Згадаймо: Can you…? — прохання · Can I…? — дозвіл",
+          "ru": "Вспомним: Can you…? — просьба · Can I…? — разрешение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "___ you help me, please?",
+            "options": [
+              "Can",
+              "Do",
+              "Are"
+            ],
+            "answer": "Can",
+            "explain": {
+              "ua": "Прохання — Can you…?",
+              "ru": "Просьба — Can you…?"
+            },
+            "id": "a1-u20-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "Can he drive? — No, he ___.",
+            "options": [
+              "can't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": "can't",
+            "explain": {
+              "ua": "No, he can't.",
+              "ru": "No, he can't."
+            },
+            "id": "a1-u20-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "My grandma ___ use a computer. She's 85!",
+          "options": [
+            "can",
+            "cans",
+            "can to"
+          ],
+          "answer": "can",
+          "explain": {
+            "ua": "Can — без -s.",
+            "ru": "Can — без -s."
+          },
+          "id": "a1-u20-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "can",
+          "question": "I'm sorry, I ___ hear you.",
+          "options": [
+            "can't",
+            "don't can",
+            "not can"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Can't — не можу.",
+            "ru": "Can't — не могу."
+          },
+          "id": "a1-u20-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Leo can play the guitar.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Leo can sing.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What can Leo's sister do?",
+              "options": [
+                "dance",
+                "swim",
+                "drive"
+              ],
+              "answer": "dance"
+            }
+          ],
+          "text": "I'm Leo. I can play the guitar, but I can't sing — my friends laugh! I can swim and ride a bike. My sister can't play the guitar, but she can dance very well.",
+          "explain": {
+            "ua": "Guitar — yes, sing — no, sister dances.",
+            "ru": "Guitar — yes, sing — no, sister dances."
+          },
+          "id": "a1-u20-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "can",
+          "bank": [
+            "can",
+            "can't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Leo ___ play the guitar.",
+            "He ___ sing.",
+            "He ___ ride a bike.",
+            "His sister ___ play the guitar."
+          ],
+          "answers": [
+            "can",
+            "can't",
+            "can",
+            "can't"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u20-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "She can sings.",
+          "answer": "She can sing.",
+          "accept": [],
+          "explain": {
+            "ua": "Після can — без -s.",
+            "ru": "После can — без -s."
+          },
+          "id": "a1-u20-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "can",
+          "sentence": "I don't can cook.",
+          "answer": "I can't cook.",
+          "accept": [
+            "I cannot cook."
+          ],
+          "explain": {
+            "ua": "Заперечення — can't, без don't.",
+            "ru": "Отрицание — can't, без don't."
+          },
+          "id": "a1-u20-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "Can",
+            "see",
+            "the",
+            "sea",
+            "you"
+          ],
+          "answer": "Can you see the sea",
+          "explain": {
+            "ua": "Can → you → see → the sea?",
+            "ru": "Can → you → see → the sea?"
+          },
+          "id": "a1-u20-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "can",
+          "audio_text": "Can I sit down?",
+          "options": [
+            "Can I sit down?",
+            "Can I sit there?",
+            "I can sit down."
+          ],
+          "answer": "Can I sit down?",
+          "audio": "",
+          "explain": {
+            "ua": "Can I — питання.",
+            "ru": "Can I — вопрос."
+          },
+          "id": "a1-u20-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "can",
+          "prompt": {
+            "ua": "Ти вмієш танцювати?",
+            "ru": "Ты умеешь танцевать?"
+          },
+          "answer": "Can you dance?",
+          "accept": [],
+          "explain": {
+            "ua": "Can you…?",
+            "ru": "Can you…?"
+          },
+          "id": "a1-u20-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "can",
+          "prompt": {
+            "ua": "Я не можу прийти сьогодні.",
+            "ru": "Я не могу прийти сегодня."
+          },
+          "answer": "I can't come today.",
+          "accept": [
+            "I cannot come today."
+          ],
+          "explain": {
+            "ua": "Can't + come.",
+            "ru": "Can't + come."
+          },
+          "id": "a1-u20-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "can",
+      "question": "He ___ swim.",
+      "options": [
+        "can",
+        "cans",
+        "can to"
+      ],
+      "answer": "can",
+      "explain": {
+        "ua": "Can — без -s.",
+        "ru": "Can — без -s."
+      },
+      "id": "a1-u20-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "can",
+      "question": "I can ___ English.",
+      "options": [
+        "speak",
+        "speaks",
+        "to speak"
+      ],
+      "answer": "speak",
+      "explain": {
+        "ua": "Без -s і to.",
+        "ru": "Без -s и to."
+      },
+      "id": "a1-u20-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "can",
+      "question": "___ you help me?",
+      "options": [
+        "Can",
+        "Do",
+        "Are"
+      ],
+      "answer": "Can",
+      "explain": {
+        "ua": "Can you…?",
+        "ru": "Can you…?"
+      },
+      "id": "a1-u20-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "can",
+      "question": "Can she drive? — No, she ___.",
+      "options": [
+        "can't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer": "can't",
+      "explain": {
+        "ua": "No, she can't.",
+        "ru": "No, she can't."
+      },
+      "id": "a1-u20-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "can",
+      "question": "___ I come in?",
+      "answer": "Can",
+      "accept": [],
+      "explain": {
+        "ua": "Can I…?",
+        "ru": "Can I…?"
+      },
+      "id": "a1-u20-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "can",
+      "question": "I'm sorry, I ___ hear you.",
+      "answer": "can't",
+      "accept": [
+        "cannot"
+      ],
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "a1-u20-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "sing",
+          "right": {
+            "ua": "співати",
+            "ru": "петь"
+          }
+        },
+        {
+          "left": "dance",
+          "right": {
+            "ua": "танцювати",
+            "ru": "танцевать"
+          }
+        },
+        {
+          "left": "hear",
+          "right": {
+            "ua": "чути",
+            "ru": "слышать"
+          }
+        },
+        {
+          "left": "use",
+          "right": {
+            "ua": "користуватися",
+            "ru": "пользоваться"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u20-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "can",
+      "sentence": "She cans dance.",
+      "answer": "She can dance.",
+      "accept": [],
+      "explain": {
+        "ua": "Can — без -s.",
+        "ru": "Can — без -s."
+      },
+      "id": "a1-u20-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "can",
+      "sentence": "Do you can swim?",
+      "answer": "Can you swim?",
+      "accept": [],
+      "explain": {
+        "ua": "Can на початок.",
+        "ru": "Can в начало."
+      },
+      "id": "a1-u20-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "the",
+        "I",
+        "can",
+        "play",
+        "guitar"
+      ],
+      "answer": "I can play the guitar",
+      "explain": {
+        "ua": "I → can → play the guitar.",
+        "ru": "I → can → play the guitar."
+      },
+      "id": "a1-u20-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "can",
+      "prompt": {
+        "ua": "Можеш відчинити вікно?",
+        "ru": "Можешь открыть окно?"
+      },
+      "answer": "Can you open the window?",
+      "accept": [
+        "Can you open the window, please?"
+      ],
+      "explain": {
+        "ua": "Can you + open…?",
+        "ru": "Can you + open…?"
+      },
+      "id": "a1-u20-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "can",
+      "audio_text": "He can't ride a bike.",
+      "options": [
+        "He can't ride a bike.",
+        "He can ride a bike.",
+        "He can't ride a bus."
+      ],
+      "answer": "He can't ride a bike.",
+      "audio": "",
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "a1-u20-cp12"
+    }
+  ]
+}

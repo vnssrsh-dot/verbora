@@ -1,0 +1,1546 @@
+{
+  "id": "b1-u19",
+  "level": "B1",
+  "order": 19,
+  "kind": "vocab",
+  "title": {
+    "en": "Media and news",
+    "ua": "Медіа й новини",
+    "ru": "Медиа и новости"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "news",
+      "ipa": "/njuːz/",
+      "ua": "новини",
+      "ru": "новости",
+      "example": "The news is on at 9.",
+      "audio": ""
+    },
+    {
+      "word": "headline",
+      "ipa": "/ˈhedlaɪn/",
+      "ua": "заголовок",
+      "ru": "заголовок",
+      "example": "Have you seen the headlines?",
+      "audio": ""
+    },
+    {
+      "word": "article",
+      "ipa": "/ˈɑːtɪkl/",
+      "ua": "стаття",
+      "ru": "статья",
+      "example": "I read an interesting article.",
+      "audio": ""
+    },
+    {
+      "word": "journalist",
+      "ipa": "/ˈdʒɜːnəlɪst/",
+      "ua": "журналіст",
+      "ru": "журналист",
+      "example": "She's a journalist.",
+      "audio": ""
+    },
+    {
+      "word": "reporter",
+      "ipa": "/rɪˈpɔːtə/",
+      "ua": "репортер",
+      "ru": "репортёр",
+      "example": "a TV reporter",
+      "audio": ""
+    },
+    {
+      "word": "interview",
+      "ipa": "/ˈɪntəvjuː/",
+      "ua": "інтерв'ю",
+      "ru": "интервью",
+      "example": "an interview with the president",
+      "audio": ""
+    },
+    {
+      "word": "channel",
+      "ipa": "/ˈtʃænl/",
+      "ua": "канал",
+      "ru": "канал",
+      "example": "a news channel",
+      "audio": ""
+    },
+    {
+      "word": "series",
+      "ipa": "/ˈsɪəriːz/",
+      "ua": "серіал",
+      "ru": "сериал",
+      "example": "a TV series",
+      "audio": ""
+    },
+    {
+      "word": "episode",
+      "ipa": "/ˈepɪsəʊd/",
+      "ua": "серія",
+      "ru": "серия, эпизод",
+      "example": "the last episode",
+      "audio": ""
+    },
+    {
+      "word": "documentary",
+      "ipa": "/ˌdɒkjuˈmentri/",
+      "ua": "документальний фільм",
+      "ru": "документальный фильм",
+      "example": "a documentary about nature",
+      "audio": ""
+    },
+    {
+      "word": "podcast",
+      "ipa": "/ˈpɒdkɑːst/",
+      "ua": "подкаст",
+      "ru": "подкаст",
+      "example": "I listen to podcasts.",
+      "audio": ""
+    },
+    {
+      "word": "advert",
+      "ipa": "/ˈædvɜːt/",
+      "ua": "реклама",
+      "ru": "реклама",
+      "example": "Too many adverts!",
+      "audio": ""
+    },
+    {
+      "word": "fake news",
+      "ipa": "/ˌfeɪk ˈnjuːz/",
+      "ua": "фейкові новини",
+      "ru": "фейковые новости",
+      "example": "Be careful with fake news.",
+      "audio": ""
+    },
+    {
+      "word": "source",
+      "ipa": "/sɔːs/",
+      "ua": "джерело",
+      "ru": "источник",
+      "example": "Check the source.",
+      "audio": ""
+    },
+    {
+      "word": "subscribe",
+      "ipa": "/səbˈskraɪb/",
+      "ua": "підписуватися",
+      "ru": "подписываться",
+      "example": "Subscribe to our channel.",
+      "audio": ""
+    },
+    {
+      "word": "follow",
+      "ipa": "/ˈfɒləʊ/",
+      "ua": "стежити, підписатися",
+      "ru": "следить, подписаться",
+      "example": "I follow her on Instagram.",
+      "audio": ""
+    },
+    {
+      "word": "review",
+      "ipa": "/rɪˈvjuː/",
+      "ua": "відгук, рецензія",
+      "ru": "отзыв, рецензия",
+      "example": "The film got good reviews.",
+      "audio": ""
+    },
+    {
+      "word": "plot",
+      "ipa": "/plɒt/",
+      "ua": "сюжет",
+      "ru": "сюжет",
+      "example": "The plot is boring.",
+      "audio": ""
+    },
+    {
+      "word": "spoiler",
+      "ipa": "/ˈspɔɪlə/",
+      "ua": "спойлер",
+      "ru": "спойлер",
+      "example": "No spoilers, please!",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u19-l01",
+      "title": {
+        "en": "News",
+        "ua": "Новини",
+        "ru": "Новости"
+      },
+      "recap": {
+        "from": "b1-u18-l03",
+        "note": {
+          "ua": "Згадаймо: both — обидва ✓✓ · either — будь-який / жоден (у запереченні) · neither — жоден ✗✗",
+          "ru": "Вспомним: both — оба ✓✓ · either — любой / ни один (в отрицании) · neither — ни один ✗✗"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "both-either-neither",
+            "question": "I have two brothers. ___ of them live in Lviv.",
+            "options": [
+              "Both",
+              "Either",
+              "Neither"
+            ],
+            "answer": "Both",
+            "explain": {
+              "ua": "Обидва — both.",
+              "ru": "Оба — both."
+            },
+            "id": "b1-u19-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "both-either-neither",
+            "question": "Both Anna ___ Max came to the party.",
+            "options": [
+              "and",
+              "or",
+              "nor"
+            ],
+            "answer": "and",
+            "explain": {
+              "ua": "Both … and.",
+              "ru": "Both … and."
+            },
+            "id": "b1-u19-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "headline",
+              "right": {
+                "ua": "заголовок",
+                "ru": "заголовок"
+              }
+            },
+            {
+              "left": "article",
+              "right": {
+                "ua": "стаття",
+                "ru": "статья"
+              }
+            },
+            {
+              "left": "journalist",
+              "right": {
+                "ua": "журналіст",
+                "ru": "журналист"
+              }
+            },
+            {
+              "left": "source",
+              "right": {
+                "ua": "джерело",
+                "ru": "источник"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u19-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The news ___ on at 9 pm.",
+          "options": [
+            "is",
+            "are",
+            "were"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "News — однина!",
+            "ru": "News — единственное!"
+          },
+          "id": "b1-u19-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I read an interesting ___ about AI.",
+          "options": [
+            "article",
+            "channel",
+            "episode"
+          ],
+          "answer": "article",
+          "explain": {
+            "ua": "Article.",
+            "ru": "Article."
+          },
+          "id": "b1-u19-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Before you share news, check the ___ .",
+          "options": [
+            "source",
+            "headline",
+            "advert"
+          ],
+          "answer": "source",
+          "explain": {
+            "ua": "Source.",
+            "ru": "Source."
+          },
+          "id": "b1-u19-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "This story isn't true. It's ___ news.",
+          "options": [
+            "fake",
+            "false",
+            "wrong"
+          ],
+          "answer": "fake",
+          "explain": {
+            "ua": "Fake news.",
+            "ru": "Fake news."
+          },
+          "id": "b1-u19-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The title of a news story, in big letters.",
+          "answer": "headline",
+          "accept": [
+            "a headline",
+            "title"
+          ],
+          "explain": {
+            "ua": "Headline.",
+            "ru": "Headline."
+          },
+          "id": "b1-u19-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The news are good.",
+          "answer": "The news is good.",
+          "accept": [
+            "The news is great."
+          ],
+          "explain": {
+            "ua": "News — однина.",
+            "ru": "News — единственное."
+          },
+          "id": "b1-u19-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈdʒɜːnəlɪst/",
+          "options": [
+            "journalist",
+            "journey",
+            "general"
+          ],
+          "answer": "journalist",
+          "explain": {
+            "ua": "/dʒɜː/ — «дже».",
+            "ru": "/dʒɜː/ — «джё»."
+          },
+          "id": "b1-u19-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Новини погані.",
+            "ru": "Новости плохие."
+          },
+          "answer": "The news is bad.",
+          "accept": [
+            "The news is not good."
+          ],
+          "explain": {
+            "ua": "News is.",
+            "ru": "News is."
+          },
+          "id": "b1-u19-l01-e09"
+        }
+      ],
+      "words": [
+        "news",
+        "headline",
+        "article",
+        "journalist",
+        "reporter",
+        "interview",
+        "fake news",
+        "source"
+      ]
+    },
+    {
+      "id": "b1-u19-l02",
+      "title": {
+        "en": "TV and online",
+        "ua": "ТБ і онлайн",
+        "ru": "ТВ и онлайн"
+      },
+      "recap": {
+        "from": "b1-u19-l01",
+        "note": {
+          "ua": "Згадаймо: Новини",
+          "ru": "Вспомним: Новости"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The news ___ on at 9 pm.",
+            "options": [
+              "is",
+              "are",
+              "were"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "News — однина!",
+              "ru": "News — единственное!"
+            },
+            "id": "b1-u19-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This story isn't true. It's ___ news.",
+            "options": [
+              "fake",
+              "false",
+              "wrong"
+            ],
+            "answer": "fake",
+            "explain": {
+              "ua": "Fake news.",
+              "ru": "Fake news."
+            },
+            "id": "b1-u19-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "series",
+              "right": {
+                "ua": "серіал",
+                "ru": "сериал"
+              }
+            },
+            {
+              "left": "episode",
+              "right": {
+                "ua": "серія",
+                "ru": "серия"
+              }
+            },
+            {
+              "left": "documentary",
+              "right": {
+                "ua": "документалка",
+                "ru": "документалка"
+              }
+            },
+            {
+              "left": "podcast",
+              "right": {
+                "ua": "подкаст",
+                "ru": "подкаст"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u19-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I watched three ___ of the new series last night.",
+          "options": [
+            "episodes",
+            "channels",
+            "headlines"
+          ],
+          "answer": "episodes",
+          "explain": {
+            "ua": "Episode — серія.",
+            "ru": "Episode — серия."
+          },
+          "id": "b1-u19-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A film about real animals and nature is a ___ .",
+          "options": [
+            "documentary",
+            "series",
+            "advert"
+          ],
+          "answer": "documentary",
+          "explain": {
+            "ua": "Documentary.",
+            "ru": "Documentary."
+          },
+          "id": "b1-u19-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ to our channel for more videos!",
+          "options": [
+            "Subscribe",
+            "Follow up",
+            "Review"
+          ],
+          "answer": "Subscribe",
+          "explain": {
+            "ua": "Subscribe.",
+            "ru": "Subscribe."
+          },
+          "id": "b1-u19-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There are too many ___ on this channel. I hate them.",
+          "options": [
+            "adverts",
+            "episodes",
+            "podcasts"
+          ],
+          "answer": "adverts",
+          "explain": {
+            "ua": "Adverts — реклама.",
+            "ru": "Adverts — реклама."
+          },
+          "id": "b1-u19-l02-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A radio-style show you listen to online.",
+          "answer": "podcast",
+          "accept": [
+            "a podcast"
+          ],
+          "explain": {
+            "ua": "Podcast.",
+            "ru": "Podcast."
+          },
+          "id": "b1-u19-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm watching a new serial.",
+          "answer": "I'm watching a new series.",
+          "accept": [
+            "I am watching a new series.",
+            "I'm watching a new TV series."
+          ],
+          "explain": {
+            "ua": "Серіал — series.",
+            "ru": "Сериал — series."
+          },
+          "id": "b1-u19-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Subscribe to our channel!",
+          "options": [
+            "Subscribe to our channel!",
+            "Subscribe on our channel!",
+            "Subscribe to our tunnel!"
+          ],
+          "answer": "Subscribe to our channel!",
+          "audio": "",
+          "explain": {
+            "ua": "Subscribe to.",
+            "ru": "Subscribe to."
+          },
+          "id": "b1-u19-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я слухаю подкасти дорогою на роботу.",
+            "ru": "Я слушаю подкасты по дороге на работу."
+          },
+          "answer": "I listen to podcasts on my way to work.",
+          "accept": [
+            "I listen to podcasts on the way to work."
+          ],
+          "explain": {
+            "ua": "Listen to podcasts.",
+            "ru": "Listen to podcasts."
+          },
+          "id": "b1-u19-l02-e09"
+        }
+      ],
+      "words": [
+        "channel",
+        "series",
+        "episode",
+        "documentary",
+        "podcast",
+        "advert",
+        "subscribe",
+        "follow"
+      ]
+    },
+    {
+      "id": "b1-u19-l03",
+      "title": {
+        "en": "Talking about films",
+        "ua": "Говоримо про фільми",
+        "ru": "Говорим о фильмах"
+      },
+      "recap": {
+        "from": "b1-u19-l02",
+        "note": {
+          "ua": "Згадаймо: ТБ і онлайн",
+          "ru": "Вспомним: ТВ и онлайн"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I watched three ___ of the new series last night.",
+            "options": [
+              "episodes",
+              "channels",
+              "headlines"
+            ],
+            "answer": "episodes",
+            "explain": {
+              "ua": "Episode — серія.",
+              "ru": "Episode — серия."
+            },
+            "id": "b1-u19-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "There are too many ___ on this channel. I hate them.",
+            "options": [
+              "adverts",
+              "episodes",
+              "podcasts"
+            ],
+            "answer": "adverts",
+            "explain": {
+              "ua": "Adverts — реклама.",
+              "ru": "Adverts — реклама."
+            },
+            "id": "b1-u19-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "review",
+              "right": {
+                "ua": "відгук",
+                "ru": "отзыв"
+              }
+            },
+            {
+              "left": "plot",
+              "right": {
+                "ua": "сюжет",
+                "ru": "сюжет"
+              }
+            },
+            {
+              "left": "spoiler",
+              "right": {
+                "ua": "спойлер",
+                "ru": "спойлер"
+              }
+            },
+            {
+              "left": "actor",
+              "right": {
+                "ua": "актор",
+                "ru": "актёр"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u19-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The film got great ___ . Everyone loves it.",
+          "options": [
+            "reviews",
+            "plots",
+            "adverts"
+          ],
+          "answer": "reviews",
+          "explain": {
+            "ua": "Reviews.",
+            "ru": "Reviews."
+          },
+          "id": "b1-u19-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ was confusing — I didn't understand the ending.",
+          "options": [
+            "plot",
+            "review",
+            "channel"
+          ],
+          "answer": "plot",
+          "explain": {
+            "ua": "Plot — сюжет.",
+            "ru": "Plot — сюжет."
+          },
+          "id": "b1-u19-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Don't tell me the ending! No ___ !",
+          "options": [
+            "spoilers",
+            "reviews",
+            "episodes"
+          ],
+          "answer": "spoilers",
+          "explain": {
+            "ua": "Spoilers.",
+            "ru": "Spoilers."
+          },
+          "id": "b1-u19-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "questions-prepositions",
+          "question": "— What's it ___ ? — It's about a family in Odesa.",
+          "options": [
+            "about",
+            "of",
+            "for"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "What's it about?",
+            "ru": "What's it about?"
+          },
+          "id": "b1-u19-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "plot",
+            "acting",
+            "ending",
+            "about"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The film is ___ a young doctor.",
+            "The ___ is interesting.",
+            "The ___ is great — the actors are brilliant.",
+            "But I didn't like the ___."
+          ],
+          "answers": [
+            "about",
+            "plot",
+            "acting",
+            "ending"
+          ],
+          "explain": {
+            "ua": "Опис фільму.",
+            "ru": "Описание фильма."
+          },
+          "id": "b1-u19-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "questions-prepositions",
+          "sentence": "What is this film?",
+          "answer": "What is this film about?",
+          "accept": [
+            "What's this film about?"
+          ],
+          "explain": {
+            "ua": "Про що — about.",
+            "ru": "О чём — about."
+          },
+          "id": "b1-u19-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "No spoilers, please!",
+          "options": [
+            "No spoilers, please!",
+            "No soldiers, please!",
+            "No spoiler, please!"
+          ],
+          "answer": "No spoilers, please!",
+          "audio": "",
+          "explain": {
+            "ua": "Spoilers.",
+            "ru": "Spoilers."
+          },
+          "id": "b1-u19-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Про що цей серіал?",
+            "ru": "О чём этот сериал?"
+          },
+          "answer": "What is this series about?",
+          "accept": [
+            "What's this series about?",
+            "What's this show about?"
+          ],
+          "explain": {
+            "ua": "What … about?",
+            "ru": "What … about?"
+          },
+          "id": "b1-u19-l03-e09"
+        }
+      ],
+      "words": [
+        "review",
+        "plot",
+        "spoiler"
+      ]
+    },
+    {
+      "id": "b1-u19-l04",
+      "title": {
+        "en": "In context: fake news",
+        "ua": "У контексті: фейкові новини",
+        "ru": "В контексте: фейковые новости"
+      },
+      "recap": {
+        "from": "b1-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Говоримо про фільми",
+          "ru": "Вспомним: Говорим о фильмах"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The film got great ___ . Everyone loves it.",
+            "options": [
+              "reviews",
+              "plots",
+              "adverts"
+            ],
+            "answer": "reviews",
+            "explain": {
+              "ua": "Reviews.",
+              "ru": "Reviews."
+            },
+            "id": "b1-u19-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "questions-prepositions",
+            "question": "— What's it ___ ? — It's about a family in Odesa.",
+            "options": [
+              "about",
+              "of",
+              "for"
+            ],
+            "answer": "about",
+            "explain": {
+              "ua": "What's it about?",
+              "ru": "What's it about?"
+            },
+            "id": "b1-u19-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What did Max's aunt share?",
+              "options": [
+                "fake news",
+                "a documentary",
+                "a podcast"
+              ],
+              "answer": "fake news"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The article had a source.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Lena suggests checking several sources.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "My aunt shared an article: 'Chocolate cures colds!'"
+            },
+            {
+              "speaker": "Lena",
+              "line": "Sounds like fake news. Who wrote it?"
+            },
+            {
+              "speaker": "Max",
+              "line": "I don't know. There's no journalist's name and no source."
+            },
+            {
+              "speaker": "Lena",
+              "line": "That's a bad sign. Always check the source before you share something."
+            },
+            {
+              "speaker": "Max",
+              "line": "How can I check?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "Look at the headline — if it's too shocking, be careful. And compare several news websites."
+            }
+          ],
+          "explain": {
+            "ua": "Aunt shared a fake article with no source; check headline, author, several sources.",
+            "ru": "Aunt shared a fake article with no source; check headline, author, several sources."
+          },
+          "id": "b1-u19-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "shared",
+            "source",
+            "headline",
+            "several"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Max's aunt ___ an article.",
+            "There was no ___.",
+            "If the ___ is too shocking, be careful.",
+            "Compare ___ websites."
+          ],
+          "answers": [
+            "shared",
+            "source",
+            "headline",
+            "several"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u19-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Sounds like…",
+              "right": {
+                "ua": "Схоже на…",
+                "ru": "Похоже на…"
+              }
+            },
+            {
+              "left": "a bad sign",
+              "right": {
+                "ua": "поганий знак",
+                "ru": "плохой знак"
+              }
+            },
+            {
+              "left": "compare",
+              "right": {
+                "ua": "порівнювати",
+                "ru": "сравнивать"
+              }
+            },
+            {
+              "left": "shocking",
+              "right": {
+                "ua": "шокуючий",
+                "ru": "шокирующий"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "b1-u19-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Lena says Max should ___ the source.",
+          "options": [
+            "check",
+            "share",
+            "subscribe"
+          ],
+          "answer": "check",
+          "explain": {
+            "ua": "Check.",
+            "ru": "Check."
+          },
+          "id": "b1-u19-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It sounds like a fake news.",
+          "answer": "It sounds like fake news.",
+          "accept": [
+            "It sounds like fake news"
+          ],
+          "explain": {
+            "ua": "News — без a.",
+            "ru": "News — без a."
+          },
+          "id": "b1-u19-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Always check source before share.",
+          "answer": "Always check the source before you share.",
+          "accept": [
+            "Always check the source before sharing.",
+            "Always check the source before you share something."
+          ],
+          "explain": {
+            "ua": "Before + речення або -ing.",
+            "ru": "Before + предложение или -ing."
+          },
+          "id": "b1-u19-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Always check the source.",
+          "options": [
+            "Always check the source.",
+            "Always check the sauce.",
+            "Always change the source."
+          ],
+          "answer": "Always check the source.",
+          "audio": "",
+          "explain": {
+            "ua": "Source — джерело, sauce — соус!",
+            "ru": "Source — источник, sauce — соус!"
+          },
+          "id": "b1-u19-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Перевір джерело, перш ніж ділитися.",
+            "ru": "Проверь источник, прежде чем делиться."
+          },
+          "answer": "Check the source before you share.",
+          "accept": [
+            "Check the source before sharing.",
+            "Check the source before you share it."
+          ],
+          "explain": {
+            "ua": "Check the source.",
+            "ru": "Check the source."
+          },
+          "id": "b1-u19-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u19-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u19-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: фейкові новини",
+          "ru": "Вспомним: В контексте: фейковые новости"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Lena says Max should ___ the source.",
+            "options": [
+              "check",
+              "share",
+              "subscribe"
+            ],
+            "answer": "check",
+            "explain": {
+              "ua": "Check.",
+              "ru": "Check."
+            },
+            "id": "b1-u19-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Always check source before share.",
+            "answer": "Always check the source before you share.",
+            "accept": [
+              "Always check the source before sharing.",
+              "Always check the source before you share something."
+            ],
+            "explain": {
+              "ua": "Before + речення або -ing.",
+              "ru": "Before + предложение или -ing."
+            },
+            "id": "b1-u19-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "channel",
+              "right": {
+                "ua": "канал",
+                "ru": "канал"
+              }
+            },
+            {
+              "left": "follow",
+              "right": {
+                "ua": "стежити",
+                "ru": "следить"
+              }
+            },
+            {
+              "left": "reporter",
+              "right": {
+                "ua": "репортер",
+                "ru": "репортёр"
+              }
+            },
+            {
+              "left": "fake news",
+              "right": {
+                "ua": "фейки",
+                "ru": "фейки"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u19-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a person?",
+          "options": [
+            "journalist",
+            "headline",
+            "episode"
+          ],
+          "answer": "journalist",
+          "explain": {
+            "ua": "Journalist — людина.",
+            "ru": "Journalist — человек."
+          },
+          "id": "b1-u19-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ a lot of travel bloggers on Instagram.",
+          "options": [
+            "follow",
+            "subscribe",
+            "review"
+          ],
+          "answer": "follow",
+          "explain": {
+            "ua": "Follow.",
+            "ru": "Follow."
+          },
+          "id": "b1-u19-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A short film that tries to sell you something.",
+          "answer": "advert",
+          "accept": [
+            "an advert",
+            "advertisement",
+            "ad",
+            "commercial"
+          ],
+          "explain": {
+            "ua": "Advert.",
+            "ru": "Advert."
+          },
+          "id": "b1-u19-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "One part of a TV series.",
+          "answer": "episode",
+          "accept": [
+            "an episode"
+          ],
+          "explain": {
+            "ua": "Episode.",
+            "ru": "Episode."
+          },
+          "id": "b1-u19-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "news",
+          "answer": "journalist",
+          "accept": [
+            "headline",
+            "reporter",
+            "article"
+          ],
+          "explain": {
+            "ua": "Новини → журналіст.",
+            "ru": "Новости → журналист."
+          },
+          "id": "b1-u19-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm subscribed on this channel.",
+          "answer": "I'm subscribed to this channel.",
+          "accept": [
+            "I am subscribed to this channel.",
+            "I've subscribed to this channel."
+          ],
+          "explain": {
+            "ua": "Subscribe to.",
+            "ru": "Subscribe to."
+          },
+          "id": "b1-u19-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It's a documentary about the ocean.",
+          "options": [
+            "It's a documentary about the ocean.",
+            "It's a documentary of the ocean.",
+            "It's a dictionary about the ocean."
+          ],
+          "answer": "It's a documentary about the ocean.",
+          "audio": "",
+          "explain": {
+            "ua": "Documentary.",
+            "ru": "Documentary."
+          },
+          "id": "b1-u19-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Фільм отримав гарні відгуки.",
+            "ru": "Фильм получил хорошие отзывы."
+          },
+          "answer": "The film got good reviews.",
+          "accept": [
+            "The film got great reviews.",
+            "The movie got good reviews."
+          ],
+          "explain": {
+            "ua": "Reviews.",
+            "ru": "Reviews."
+          },
+          "id": "b1-u19-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "The news ___ terrible.",
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "News is.",
+        "ru": "News is."
+      },
+      "id": "b1-u19-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I watched the last ___ of the series.",
+      "options": [
+        "episode",
+        "channel",
+        "headline"
+      ],
+      "answer": "episode",
+      "explain": {
+        "ua": "Episode.",
+        "ru": "Episode."
+      },
+      "id": "b1-u19-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Check the ___ before you believe it.",
+      "options": [
+        "source",
+        "sauce",
+        "spoiler"
+      ],
+      "answer": "source",
+      "explain": {
+        "ua": "Source.",
+        "ru": "Source."
+      },
+      "id": "b1-u19-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who writes for a newspaper.",
+      "answer": "journalist",
+      "accept": [
+        "a journalist",
+        "reporter"
+      ],
+      "explain": {
+        "ua": "Journalist.",
+        "ru": "Journalist."
+      },
+      "id": "b1-u19-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "What happens in a story.",
+      "answer": "plot",
+      "accept": [
+        "the plot",
+        "story"
+      ],
+      "explain": {
+        "ua": "Plot.",
+        "ru": "Plot."
+      },
+      "id": "b1-u19-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Subscribe ___ our channel!",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Subscribe to.",
+        "ru": "Subscribe to."
+      },
+      "id": "b1-u19-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "article",
+          "right": {
+            "ua": "стаття",
+            "ru": "статья"
+          }
+        },
+        {
+          "left": "review",
+          "right": {
+            "ua": "відгук",
+            "ru": "отзыв"
+          }
+        },
+        {
+          "left": "podcast",
+          "right": {
+            "ua": "подкаст",
+            "ru": "подкаст"
+          }
+        },
+        {
+          "left": "documentary",
+          "right": {
+            "ua": "документалка",
+            "ru": "документалка"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u19-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The news are interesting.",
+      "answer": "The news is interesting.",
+      "accept": [],
+      "explain": {
+        "ua": "News — однина.",
+        "ru": "News — единственное."
+      },
+      "id": "b1-u19-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "What is the book?",
+      "answer": "What is the book about?",
+      "accept": [
+        "What's the book about?"
+      ],
+      "explain": {
+        "ua": "About.",
+        "ru": "About."
+      },
+      "id": "b1-u19-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "interesting",
+        "about",
+        "article",
+        "space",
+        "read",
+        "I",
+        "an"
+      ],
+      "answer": "I read an interesting article about space",
+      "explain": {
+        "ua": "Read → an interesting article → about space.",
+        "ru": "Read → an interesting article → about space."
+      },
+      "id": "b1-u19-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Без спойлерів!",
+        "ru": "Без спойлеров!"
+      },
+      "answer": "No spoilers!",
+      "accept": [
+        "No spoilers, please!"
+      ],
+      "explain": {
+        "ua": "No spoilers.",
+        "ru": "No spoilers."
+      },
+      "id": "b1-u19-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The headline was shocking.",
+      "options": [
+        "The headline was shocking.",
+        "The headline was shopping.",
+        "The headlines were shocking."
+      ],
+      "answer": "The headline was shocking.",
+      "audio": "",
+      "explain": {
+        "ua": "Headline.",
+        "ru": "Headline."
+      },
+      "id": "b1-u19-cp12"
+    }
+  ]
+}

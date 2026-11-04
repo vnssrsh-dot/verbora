@@ -1,0 +1,1209 @@
+{
+  "id": "b2-u02",
+  "level": "B2",
+  "order": 2,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Perfect Continuous",
+    "ua": "Past Perfect Continuous",
+    "ru": "Past Perfect Continuous"
+  },
+  "rule": {
+    "formula": "had been + -ing",
+    "explain": {
+      "ua": "Тривала дія, яка відбувалася ДО певного моменту в минулому (і, можливо, видно її наслідок): She was exhausted because she had been running. I had been waiting for an hour when he finally came.",
+      "ru": "Длительное действие, которое происходило ДО определённого момента в прошлом (и, возможно, виден его результат): She was exhausted because she had been running. I had been waiting for an hour when he finally came."
+    },
+    "examples": [
+      {
+        "en": "I'd been working there for ten years when they closed the company.",
+        "ua": "Я пропрацював там десять років, коли компанію закрили.",
+        "ru": "Я проработал там десять лет, когда компанию закрыли."
+      },
+      {
+        "en": "The ground was wet. It had been raining.",
+        "ua": "Земля була мокра. До того йшов дощ.",
+        "ru": "Земля была мокрая. До этого шёл дождь."
+      },
+      {
+        "en": "How long had you been living there?",
+        "ua": "Скільки ти там прожив (до того)?",
+        "ru": "Сколько ты там прожил (до того)?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "exhausted",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "ua": "виснажений",
+      "ru": "измотанный",
+      "example": "I was exhausted.",
+      "audio": ""
+    },
+    {
+      "word": "finally",
+      "ipa": "/ˈfaɪnəli/",
+      "ua": "нарешті",
+      "ru": "наконец",
+      "example": "He finally arrived.",
+      "audio": ""
+    },
+    {
+      "word": "argue",
+      "ipa": "/ˈɑːɡjuː/",
+      "ua": "сперечатися, сваритися",
+      "ru": "спорить, ссориться",
+      "example": "They had been arguing.",
+      "audio": ""
+    },
+    {
+      "word": "rehearse",
+      "ipa": "/rɪˈhɜːs/",
+      "ua": "репетирувати",
+      "ru": "репетировать",
+      "example": "They'd been rehearsing for weeks.",
+      "audio": ""
+    },
+    {
+      "word": "save up",
+      "ipa": "/ˌseɪv ˈʌp/",
+      "ua": "накопичувати",
+      "ru": "копить",
+      "example": "I'd been saving up for a car.",
+      "audio": ""
+    },
+    {
+      "word": "train",
+      "ipa": "/treɪn/",
+      "ua": "тренуватися",
+      "ru": "тренироваться",
+      "example": "She had been training for months.",
+      "audio": ""
+    },
+    {
+      "word": "puddle",
+      "ipa": "/ˈpʌdl/",
+      "ua": "калюжа",
+      "ru": "лужа",
+      "example": "There were puddles everywhere.",
+      "audio": ""
+    },
+    {
+      "word": "sweaty",
+      "ipa": "/ˈsweti/",
+      "ua": "спітнілий",
+      "ru": "потный",
+      "example": "He was sweaty.",
+      "audio": ""
+    },
+    {
+      "word": "out of breath",
+      "ipa": "/ˌaʊt əv ˈbreθ/",
+      "ua": "задиханий",
+      "ru": "запыхавшийся",
+      "example": "We were out of breath.",
+      "audio": ""
+    },
+    {
+      "word": "retire",
+      "ipa": "/rɪˈtaɪə/",
+      "ua": "виходити на пенсію",
+      "ru": "выходить на пенсию",
+      "example": "He retired at 60.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u02-l01",
+      "title": {
+        "en": "Form and use",
+        "ua": "Утворення й значення",
+        "ru": "Образование и значение"
+      },
+      "recap": {
+        "from": "b2-u01-l05",
+        "note": {
+          "ua": "Згадаймо: know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — з різним значенням",
+          "ru": "Вспомним: know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — с разным значением"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "This car ___ to my brother.",
+            "options": [
+              "belongs",
+              "is belonging",
+              "has been belonging"
+            ],
+            "answer": "belongs",
+            "explain": {
+              "ua": "Belong — без -ing.",
+              "ru": "Belong — без -ing."
+            },
+            "id": "b2-u02-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "It ___ that nobody is at home.",
+            "options": [
+              "seems",
+              "is seeming",
+              "has seemed"
+            ],
+            "answer": "seems",
+            "explain": {
+              "ua": "Seem — без -ing.",
+              "ru": "Seem — без -ing."
+            },
+            "id": "b2-u02-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "had been + -ing — для всіх осіб",
+          "ru": "had been + -ing — для всех лиц"
+        },
+        "explain": {
+          "ua": "Як Present Perfect Continuous, тільки точка відліку — у минулому: I'm tired — I've been working. → I was tired — I'd been working.",
+          "ru": "Как Present Perfect Continuous, только точка отсчёта — в прошлом: I'm tired — I've been working. → I was tired — I'd been working."
+        },
+        "examples": [
+          {
+            "en": "I was tired because I'd been working all day.",
+            "ua": "Я втомився, бо працював увесь день.",
+            "ru": "Я устал, потому что работал весь день."
+          },
+          {
+            "en": "They had been talking for hours.",
+            "ua": "Вони розмовляли годинами.",
+            "ru": "Они разговаривали часами."
+          },
+          {
+            "en": "She'd been crying — her eyes were red.",
+            "ua": "Вона плакала — очі були червоні.",
+            "ru": "Она плакала — глаза были красные."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "I ___ for two hours when the bus finally came.",
+          "options": [
+            "had been waiting",
+            "have been waiting",
+            "was waiting"
+          ],
+          "answer": "had been waiting",
+          "explain": {
+            "ua": "Тривалість до моменту в минулому.",
+            "ru": "Длительность до момента в прошлом."
+          },
+          "id": "b2-u02-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "He was out of breath because he ___ .",
+          "options": [
+            "had been running",
+            "has been running",
+            "runs"
+          ],
+          "answer": "had been running",
+          "explain": {
+            "ua": "Наслідок у минулому.",
+            "ru": "Следствие в прошлом."
+          },
+          "id": "b2-u02-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "They had been ___ for weeks before the concert.",
+          "options": [
+            "rehearsing",
+            "rehearsed",
+            "rehearse"
+          ],
+          "answer": "rehearsing",
+          "explain": {
+            "ua": "Been + -ing.",
+            "ru": "Been + -ing."
+          },
+          "id": "b2-u02-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "The streets were wet. It ___ .",
+          "options": [
+            "had been raining",
+            "was rained",
+            "has been raining"
+          ],
+          "answer": "had been raining",
+          "explain": {
+            "ua": "Had been raining.",
+            "ru": "Had been raining."
+          },
+          "id": "b2-u02-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "ppc-past",
+          "question": "She ___ been working there for 20 years when she retired.",
+          "answer": "had",
+          "accept": [],
+          "explain": {
+            "ua": "Had been.",
+            "ru": "Had been."
+          },
+          "id": "b2-u02-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-past",
+          "sentence": "I have been waiting for an hour when she arrived.",
+          "answer": "I had been waiting for an hour when she arrived.",
+          "accept": [
+            "I'd been waiting for an hour when she arrived."
+          ],
+          "explain": {
+            "ua": "Минуле → had been.",
+            "ru": "Прошлое → had been."
+          },
+          "id": "b2-u02-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-past",
+          "sentence": "He was sweaty because he had been run.",
+          "answer": "He was sweaty because he had been running.",
+          "accept": [
+            "He was sweaty because he'd been running."
+          ],
+          "explain": {
+            "ua": "-ing.",
+            "ru": "-ing."
+          },
+          "id": "b2-u02-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc-past",
+          "audio_text": "We'd been driving for hours.",
+          "options": [
+            "We'd been driving for hours.",
+            "We've been driving for hours.",
+            "We'd been diving for hours."
+          ],
+          "answer": "We'd been driving for hours.",
+          "audio": "",
+          "explain": {
+            "ua": "We'd been.",
+            "ru": "We'd been."
+          },
+          "id": "b2-u02-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc-past",
+          "prompt": {
+            "ua": "Я був виснажений, бо тренувався весь ранок.",
+            "ru": "Я был измотан, потому что тренировался всё утро."
+          },
+          "answer": "I was exhausted because I'd been training all morning.",
+          "accept": [
+            "I was exhausted because I had been training all morning."
+          ],
+          "explain": {
+            "ua": "Had been -ing.",
+            "ru": "Had been -ing."
+          },
+          "id": "b2-u02-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u02-l02",
+      "title": {
+        "en": "How long + duration",
+        "ua": "How long + тривалість",
+        "ru": "How long + длительность"
+      },
+      "recap": {
+        "from": "b2-u02-l01",
+        "note": {
+          "ua": "Згадаймо: had been + -ing — для всіх осіб",
+          "ru": "Вспомним: had been + -ing — для всех лиц"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ppc-past",
+            "question": "I ___ for two hours when the bus finally came.",
+            "options": [
+              "had been waiting",
+              "have been waiting",
+              "was waiting"
+            ],
+            "answer": "had been waiting",
+            "explain": {
+              "ua": "Тривалість до моменту в минулому.",
+              "ru": "Длительность до момента в прошлом."
+            },
+            "id": "b2-u02-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "ppc-past",
+            "question": "She ___ been working there for 20 years when she retired.",
+            "answer": "had",
+            "accept": [],
+            "explain": {
+              "ua": "Had been.",
+              "ru": "Had been."
+            },
+            "id": "b2-u02-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "How long had you been + -ing? · for / since до моменту в минулому",
+          "ru": "How long had you been + -ing? · for / since до момента в прошлом"
+        },
+        "explain": {
+          "ua": "Питаємо про тривалість до минулої події: How long had you been learning English before you moved to London?",
+          "ru": "Спрашиваем о длительности до прошлого события: How long had you been learning English before you moved to London?"
+        },
+        "examples": [
+          {
+            "en": "How long had you been waiting?",
+            "ua": "Скільки ти чекав (до того)?",
+            "ru": "Сколько ты ждал (до того)?"
+          },
+          {
+            "en": "I'd been saving up for two years before I bought the car.",
+            "ua": "Я збирав гроші два роки, перш ніж купив машину.",
+            "ru": "Я копил два года, прежде чем купил машину."
+          },
+          {
+            "en": "We'd been dating since school.",
+            "ua": "Ми зустрічалися ще зі школи.",
+            "ru": "Мы встречались ещё со школы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "How long ___ you been living there before you moved?",
+          "options": [
+            "had",
+            "have",
+            "were"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Had you been…?",
+            "ru": "Had you been…?"
+          },
+          "id": "b2-u02-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "She had been learning English ___ six years before she moved to Canada.",
+          "options": [
+            "for",
+            "since",
+            "ago"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "For + період.",
+            "ru": "For + период."
+          },
+          "id": "b2-u02-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "They had been dating ___ 2015 when they got married.",
+          "options": [
+            "since",
+            "for",
+            "ago"
+          ],
+          "answer": "since",
+          "explain": {
+            "ua": "Since + момент.",
+            "ru": "Since + момент."
+          },
+          "id": "b2-u02-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "I'd been saving ___ for months to buy a laptop.",
+          "options": [
+            "up",
+            "on",
+            "out"
+          ],
+          "answer": "up",
+          "explain": {
+            "ua": "Save up.",
+            "ru": "Save up."
+          },
+          "id": "b2-u02-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "ppc-past",
+          "pairs": [
+            {
+              "left": "How long had you been working there?",
+              "right": "For about five years."
+            },
+            {
+              "left": "Why were you tired?",
+              "right": "I'd been studying all night."
+            },
+            {
+              "left": "Why was he angry?",
+              "right": "He'd been waiting for ages."
+            }
+          ],
+          "explain": {
+            "ua": "Питання — відповідь.",
+            "ru": "Вопрос — ответ."
+          },
+          "id": "b2-u02-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-past",
+          "sentence": "How long have you been working there before you left?",
+          "answer": "How long had you been working there before you left?",
+          "accept": [],
+          "explain": {
+            "ua": "Before you left → had.",
+            "ru": "Before you left → had."
+          },
+          "id": "b2-u02-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "ppc-past",
+          "words": [
+            "How",
+            "you",
+            "been",
+            "long",
+            "had",
+            "waiting"
+          ],
+          "answer": "How long had you been waiting",
+          "explain": {
+            "ua": "How long → had you been → waiting?",
+            "ru": "How long → had you been → waiting?"
+          },
+          "id": "b2-u02-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc-past",
+          "audio_text": "How long had you been learning English?",
+          "options": [
+            "How long had you been learning English?",
+            "How long have you been learning English?",
+            "How long did you learn English?"
+          ],
+          "answer": "How long had you been learning English?",
+          "audio": "",
+          "explain": {
+            "ua": "Had you been.",
+            "ru": "Had you been."
+          },
+          "id": "b2-u02-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc-past",
+          "prompt": {
+            "ua": "Як довго ти там працював, перш ніж звільнився?",
+            "ru": "Как долго ты там работал, прежде чем уволился?"
+          },
+          "answer": "How long had you been working there before you quit?",
+          "accept": [
+            "How long had you worked there before you quit?",
+            "How long had you been working there before you left?"
+          ],
+          "explain": {
+            "ua": "Had been working.",
+            "ru": "Had been working."
+          },
+          "id": "b2-u02-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u02-l03",
+      "title": {
+        "en": "Past Perfect or Past Perfect Continuous?",
+        "ua": "Past Perfect чи Continuous?",
+        "ru": "Past Perfect или Continuous?"
+      },
+      "recap": {
+        "from": "b2-u02-l02",
+        "note": {
+          "ua": "Згадаймо: How long had you been + -ing? · for / since до моменту в минулому",
+          "ru": "Вспомним: How long had you been + -ing? · for / since до момента в прошлом"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ppc-past",
+            "question": "How long ___ you been living there before you moved?",
+            "options": [
+              "had",
+              "have",
+              "were"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Had you been…?",
+              "ru": "Had you been…?"
+            },
+            "id": "b2-u02-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ppc-past",
+            "question": "I'd been saving ___ for months to buy a laptop.",
+            "options": [
+              "up",
+              "on",
+              "out"
+            ],
+            "answer": "up",
+            "explain": {
+              "ua": "Save up.",
+              "ru": "Save up."
+            },
+            "id": "b2-u02-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "результат / скільки → had done · процес / як довго → had been doing",
+          "ru": "результат / сколько → had done · процесс / как долго → had been doing"
+        },
+        "explain": {
+          "ua": "She had written three emails (результат). She had been writing emails all morning (процес). Know, own, believe — тільки had known.",
+          "ru": "She had written three emails (результат). She had been writing emails all morning (процесс). Know, own, believe — только had known."
+        },
+        "examples": [
+          {
+            "en": "I'd read 100 pages by midnight.",
+            "ua": "До півночі я прочитав 100 сторінок.",
+            "ru": "К полуночи я прочитал 100 страниц."
+          },
+          {
+            "en": "I'd been reading for hours, so my eyes hurt.",
+            "ua": "Я читав годинами, тому очі боліли.",
+            "ru": "Я читал часами, поэтому глаза болели."
+          },
+          {
+            "en": "We'd known each other for years.",
+            "ua": "Ми знали одне одного багато років.",
+            "ru": "Мы знали друг друга много лет."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc-past",
+          "question": "By the end of the day she ___ 20 customers.",
+          "options": [
+            "had served",
+            "had been serving",
+            "was serving"
+          ],
+          "answer": "had served",
+          "explain": {
+            "ua": "Скільки → had done.",
+            "ru": "Сколько → had done."
+          },
+          "id": "b2-u02-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc-past",
+          "question": "She was tired because she ___ customers all day.",
+          "options": [
+            "had been serving",
+            "had served",
+            "served"
+          ],
+          "answer": "had been serving",
+          "explain": {
+            "ua": "Процес → had been -ing.",
+            "ru": "Процесс → had been -ing."
+          },
+          "id": "b2-u02-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc-past",
+          "question": "We ___ each other for ten years before we got married.",
+          "options": [
+            "had known",
+            "had been knowing",
+            "knew"
+          ],
+          "answer": "had known",
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "b2-u02-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc-past",
+          "question": "He ___ the car, so it looked clean and shiny.",
+          "options": [
+            "had washed",
+            "had been washing",
+            "washed"
+          ],
+          "answer": "had washed",
+          "explain": {
+            "ua": "Готовий результат.",
+            "ru": "Готовый результат."
+          },
+          "id": "b2-u02-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc-past",
+          "question": "His hands were dirty — he ___ the car.",
+          "options": [
+            "had been fixing",
+            "had fixed",
+            "fixed"
+          ],
+          "answer": "had been fixing",
+          "explain": {
+            "ua": "Видно сліди процесу.",
+            "ru": "Видны следы процесса."
+          },
+          "id": "b2-u02-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "pp-vs-ppc-past",
+          "bank": [
+            "had painted",
+            "had been painting"
+          ],
+          "reuse": true,
+          "sentences": [
+            "By 5 pm they ___ two rooms.",
+            "Their clothes were dirty because they ___ all day.",
+            "She ___ the whole house by Sunday.",
+            "He was tired — he ___ since morning."
+          ],
+          "answers": [
+            "had painted",
+            "had been painting",
+            "had painted",
+            "had been painting"
+          ],
+          "explain": {
+            "ua": "Результат → had done; процес → had been -ing.",
+            "ru": "Результат → had done; процесс → had been -ing."
+          },
+          "id": "b2-u02-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ppc-past",
+          "sentence": "She had been knowing him for years.",
+          "answer": "She had known him for years.",
+          "accept": [
+            "She'd known him for years."
+          ],
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "b2-u02-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ppc-past",
+          "sentence": "By noon I had been drinking three coffees.",
+          "answer": "By noon I had drunk three coffees.",
+          "accept": [
+            "By noon I'd drunk three coffees.",
+            "By noon I had had three coffees."
+          ],
+          "explain": {
+            "ua": "Скільки → had done.",
+            "ru": "Сколько → had done."
+          },
+          "id": "b2-u02-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ppc-past",
+          "prompt": {
+            "ua": "На той час я вже написала три листи.",
+            "ru": "К тому времени я уже написала три письма."
+          },
+          "answer": "By then I had already written three letters.",
+          "accept": [
+            "By that time I had already written three letters.",
+            "By then I'd already written three letters."
+          ],
+          "explain": {
+            "ua": "Скільки → had done.",
+            "ru": "Сколько → had done."
+          },
+          "id": "b2-u02-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u02-l04",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u02-l03",
+        "note": {
+          "ua": "Згадаймо: результат / скільки → had done · процес / як довго → had been doing",
+          "ru": "Вспомним: результат / сколько → had done · процесс / как долго → had been doing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc-past",
+            "question": "By the end of the day she ___ 20 customers.",
+            "options": [
+              "had served",
+              "had been serving",
+              "was serving"
+            ],
+            "answer": "had served",
+            "explain": {
+              "ua": "Скільки → had done.",
+              "ru": "Сколько → had done."
+            },
+            "id": "b2-u02-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc-past",
+            "question": "His hands were dirty — he ___ the car.",
+            "options": [
+              "had been fixing",
+              "had fixed",
+              "fixed"
+            ],
+            "answer": "had been fixing",
+            "explain": {
+              "ua": "Видно сліди процесу.",
+              "ru": "Видны следы процесса."
+            },
+            "id": "b2-u02-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "When I found my keys, I ___ for them for half an hour.",
+          "options": [
+            "had been looking",
+            "was looking",
+            "have been looking"
+          ],
+          "answer": "had been looking",
+          "explain": {
+            "ua": "PPC (past).",
+            "ru": "PPC (past)."
+          },
+          "id": "b2-u02-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-past",
+          "question": "The kids were dirty. They ___ in the garden.",
+          "options": [
+            "had been playing",
+            "had played",
+            "have played"
+          ],
+          "answer": "had been playing",
+          "explain": {
+            "ua": "Сліди процесу.",
+            "ru": "Следы процесса."
+          },
+          "id": "b2-u02-l04-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Andriy had been working at the factory for 30 years when he retired.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "He had been planning to stay at home.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What had he been saving up for?",
+              "options": [
+                "a boat",
+                "a car",
+                "a house"
+              ],
+              "answer": "a boat"
+            }
+          ],
+          "text": "When my grandfather Andriy retired, he had been working at the same factory for 30 years. He had been saving up for a small boat for a long time, and he had been planning a trip down the Dnipro. By the end of his first summer of retirement, he had already sailed over 500 kilometres!",
+          "explain": {
+            "ua": "30 years at factory; saving for a boat; planning to travel.",
+            "ru": "30 years at factory; saving for a boat; planning to travel."
+          },
+          "id": "b2-u02-l04-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "ppc-past",
+          "bank": [
+            "had been working",
+            "had been saving up",
+            "had been planning",
+            "had sailed"
+          ],
+          "reuse": false,
+          "sentences": [
+            "He ___ at the factory for 30 years.",
+            "He ___ for a boat.",
+            "He ___ a trip down the Dnipro.",
+            "By the end of summer he ___ 500 km."
+          ],
+          "answers": [
+            "had been working",
+            "had been saving up",
+            "had been planning",
+            "had sailed"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u02-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-past",
+          "sentence": "They argued for hours before they finally agreed.",
+          "answer": "They had been arguing for hours before they finally agreed.",
+          "accept": [
+            "They'd been arguing for hours before they finally agreed."
+          ],
+          "explain": {
+            "ua": "Тривалість до моменту → PPC (past).",
+            "ru": "Длительность до момента → PPC (past)."
+          },
+          "id": "b2-u02-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-past",
+          "sentence": "By 2020 she had been owning the shop for ten years.",
+          "answer": "By 2020 she had owned the shop for ten years.",
+          "accept": [
+            "By 2020 she'd owned the shop for ten years."
+          ],
+          "explain": {
+            "ua": "Own — без -ing.",
+            "ru": "Own — без -ing."
+          },
+          "id": "b2-u02-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "for",
+            "training",
+            "months",
+            "had",
+            "the",
+            "She",
+            "race",
+            "been",
+            "before"
+          ],
+          "answer": "She had been training for months before the race",
+          "explain": {
+            "ua": "Had been training → for months → before the race.",
+            "ru": "Had been training → for months → before the race."
+          },
+          "id": "b2-u02-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc-past",
+          "audio_text": "It had been raining all night.",
+          "options": [
+            "It had been raining all night.",
+            "It has been raining all night.",
+            "It had been training all night."
+          ],
+          "answer": "It had been raining all night.",
+          "audio": "",
+          "explain": {
+            "ua": "Had been raining.",
+            "ru": "Had been raining."
+          },
+          "id": "b2-u02-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc-past",
+          "prompt": {
+            "ua": "Вони сперечалися, коли я зайшла.",
+            "ru": "Они спорили, когда я вошла."
+          },
+          "answer": "They had been arguing when I came in.",
+          "accept": [
+            "They were arguing when I came in.",
+            "They'd been arguing when I came in.",
+            "They had been arguing when I walked in."
+          ],
+          "explain": {
+            "ua": "PPC (past) / Past Continuous.",
+            "ru": "PPC (past) / Past Continuous."
+          },
+          "id": "b2-u02-l04-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "ppc-past",
+      "question": "I ___ for an hour when he called.",
+      "options": [
+        "had been waiting",
+        "have been waiting",
+        "wait"
+      ],
+      "answer": "had been waiting",
+      "explain": {
+        "ua": "PPC (past).",
+        "ru": "PPC (past)."
+      },
+      "id": "b2-u02-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "ppc-past",
+      "question": "She was exhausted because she ___ all day.",
+      "options": [
+        "had been working",
+        "has worked",
+        "works"
+      ],
+      "answer": "had been working",
+      "explain": {
+        "ua": "PPC (past).",
+        "ru": "PPC (past)."
+      },
+      "id": "b2-u02-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "pp-vs-ppc-past",
+      "question": "We ___ each other for years before we started dating.",
+      "options": [
+        "had known",
+        "had been knowing",
+        "knew"
+      ],
+      "answer": "had known",
+      "explain": {
+        "ua": "Know — без -ing.",
+        "ru": "Know — без -ing."
+      },
+      "id": "b2-u02-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "pp-vs-ppc-past",
+      "question": "By 6 pm they ___ the whole flat.",
+      "options": [
+        "had cleaned",
+        "had been cleaning",
+        "cleaned"
+      ],
+      "answer": "had cleaned",
+      "explain": {
+        "ua": "Результат.",
+        "ru": "Результат."
+      },
+      "id": "b2-u02-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "ppc-past",
+      "question": "How long ___ you been living there?",
+      "options": [
+        "had",
+        "have",
+        "did"
+      ],
+      "answer": "had",
+      "explain": {
+        "ua": "Had you been.",
+        "ru": "Had you been."
+      },
+      "id": "b2-u02-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "ppc-past",
+      "question": "The ground was wet. It had ___ raining.",
+      "answer": "been",
+      "accept": [],
+      "explain": {
+        "ua": "Had been raining.",
+        "ru": "Had been raining."
+      },
+      "id": "b2-u02-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "ppc-past",
+      "question": "They'd been dating ___ three years when they got engaged.",
+      "answer": "for",
+      "accept": [],
+      "explain": {
+        "ua": "For.",
+        "ru": "For."
+      },
+      "id": "b2-u02-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "ppc-past",
+      "sentence": "I have been working there for 10 years when the company closed.",
+      "answer": "I had been working there for 10 years when the company closed.",
+      "accept": [
+        "I'd been working there for 10 years when the company closed."
+      ],
+      "explain": {
+        "ua": "Had been.",
+        "ru": "Had been."
+      },
+      "id": "b2-u02-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "pp-vs-ppc-past",
+      "sentence": "He had been believe her for years.",
+      "answer": "He had believed her for years.",
+      "accept": [],
+      "explain": {
+        "ua": "Believe — без -ing.",
+        "ru": "Believe — без -ing."
+      },
+      "id": "b2-u02-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "ppc-past",
+      "words": [
+        "he",
+        "were",
+        "red",
+        "because",
+        "eyes",
+        "His",
+        "crying",
+        "had",
+        "been"
+      ],
+      "answer": "His eyes were red because he had been crying",
+      "explain": {
+        "ua": "Had been crying.",
+        "ru": "Had been crying."
+      },
+      "id": "b2-u02-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "ppc-past",
+      "prompt": {
+        "ua": "Ми їхали вже п'ять годин, коли машина зламалася.",
+        "ru": "Мы ехали уже пять часов, когда машина сломалась."
+      },
+      "answer": "We had been driving for five hours when the car broke down.",
+      "accept": [
+        "We'd been driving for five hours when the car broke down."
+      ],
+      "explain": {
+        "ua": "Had been driving.",
+        "ru": "Had been driving."
+      },
+      "id": "b2-u02-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "ppc-past",
+      "audio_text": "She'd been crying.",
+      "options": [
+        "She'd been crying.",
+        "She'd been trying.",
+        "She's been crying."
+      ],
+      "answer": "She'd been crying.",
+      "audio": "",
+      "explain": {
+        "ua": "Had been crying.",
+        "ru": "Had been crying."
+      },
+      "id": "b2-u02-cp12"
+    }
+  ]
+}

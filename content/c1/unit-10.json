@@ -1,0 +1,1051 @@
+{
+  "id": "c1-u10",
+  "level": "C1",
+  "order": 10,
+  "kind": "grammar",
+  "title": {
+    "en": "Advanced linking words",
+    "ua": "Складні сполучники й зв'язки",
+    "ru": "Сложные связки"
+  },
+  "rule": {
+    "formula": {
+      "ua": "поступка: even though, much as, nevertheless, nonetheless · причина: due to, owing to, as a result of · наслідок: consequently, therefore, hence, thus",
+      "ru": "уступка: even though, much as, nevertheless, nonetheless · причина: due to, owing to, as a result of · следствие: consequently, therefore, hence, thus"
+    },
+    "explain": {
+      "ua": "На C1 замість простих but / because / so вживають точніші зв'язки. Важливо, що йде після них: due to + іменник, because + речення; nevertheless / therefore — після крапки або крапки з комою.",
+      "ru": "На C1 вместо простых but / because / so используют более точные связки. Важно, что идёт после них: due to + существительное, because + предложение; nevertheless / therefore — после точки или точки с запятой."
+    },
+    "examples": [
+      {
+        "en": "Much as I love him, I can't live with him.",
+        "ua": "Хоч як я його люблю, я не можу з ним жити.",
+        "ru": "Как бы я его ни любила, я не могу с ним жить."
+      },
+      {
+        "en": "The flight was delayed due to fog.",
+        "ua": "Рейс затримали через туман.",
+        "ru": "Рейс задержали из-за тумана."
+      },
+      {
+        "en": "Sales fell. Consequently, staff were cut.",
+        "ua": "Продажі впали. Як наслідок, скоротили персонал.",
+        "ru": "Продажи упали. Как следствие, сократили персонал."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "even though",
+      "ipa": "/ˌiːvn ˈðəʊ/",
+      "ua": "хоча (навіть попри те що)",
+      "ru": "хотя (даже несмотря на то что)",
+      "example": "Even though it rained, we went out.",
+      "audio": ""
+    },
+    {
+      "word": "much as",
+      "ipa": "/ˈmʌtʃ əz/",
+      "ua": "хоч як, як би не",
+      "ru": "как бы ни",
+      "example": "Much as I'd like to, I can't.",
+      "audio": ""
+    },
+    {
+      "word": "nevertheless",
+      "ipa": "/ˌnevəðəˈles/",
+      "ua": "проте, тим не менш",
+      "ru": "тем не менее",
+      "example": "It was hard. Nevertheless, we finished.",
+      "audio": ""
+    },
+    {
+      "word": "nonetheless",
+      "ipa": "/ˌnʌnðəˈles/",
+      "ua": "все ж таки",
+      "ru": "всё же",
+      "example": "It's risky; nonetheless, I'll try.",
+      "audio": ""
+    },
+    {
+      "word": "whereas",
+      "ipa": "/weərˈæz/",
+      "ua": "тоді як",
+      "ru": "тогда как",
+      "example": "He's tall, whereas I'm short.",
+      "audio": ""
+    },
+    {
+      "word": "due to",
+      "ipa": "/ˈdjuː tə/",
+      "ua": "через (+ іменник)",
+      "ru": "из-за (+ существительное)",
+      "example": "due to bad weather",
+      "audio": ""
+    },
+    {
+      "word": "owing to",
+      "ipa": "/ˈəʊɪŋ tə/",
+      "ua": "через, внаслідок",
+      "ru": "вследствие, из-за",
+      "example": "owing to illness",
+      "audio": ""
+    },
+    {
+      "word": "as a result of",
+      "ipa": "/əz ə rɪˈzʌlt əv/",
+      "ua": "унаслідок",
+      "ru": "в результате",
+      "example": "as a result of the storm",
+      "audio": ""
+    },
+    {
+      "word": "consequently",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "ua": "отже, як наслідок",
+      "ru": "следовательно, как следствие",
+      "example": "Consequently, prices rose.",
+      "audio": ""
+    },
+    {
+      "word": "therefore",
+      "ipa": "/ˈðeəfɔː/",
+      "ua": "тому",
+      "ru": "поэтому",
+      "example": "I think, therefore I am.",
+      "audio": ""
+    },
+    {
+      "word": "hence",
+      "ipa": "/hens/",
+      "ua": "звідси, тому",
+      "ru": "отсюда, поэтому",
+      "example": "hence the name",
+      "audio": ""
+    },
+    {
+      "word": "thus",
+      "ipa": "/ðʌs/",
+      "ua": "таким чином",
+      "ru": "таким образом",
+      "example": "thus proving the theory",
+      "audio": ""
+    },
+    {
+      "word": "so as to / in order to",
+      "ipa": "/səʊ əz tə/",
+      "ua": "щоб",
+      "ru": "чтобы",
+      "example": "We left early so as to avoid traffic.",
+      "audio": ""
+    },
+    {
+      "word": "provided that",
+      "ipa": "/prəˈvaɪdɪd ðæt/",
+      "ua": "за умови що",
+      "ru": "при условии что",
+      "example": "You can go provided that you're back by 10.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u10-l01",
+      "title": {
+        "en": "Concession",
+        "ua": "Поступка",
+        "ru": "Уступка"
+      },
+      "recap": {
+        "from": "c1-u09-l02",
+        "note": {
+          "ua": "Згадаймо: get → receive / obtain · buy → purchase · help → assist · need → require · start → commence · enough → sufficient · about → regarding · tell → inform · sorry → we apologise",
+          "ru": "Вспомним: get → receive / obtain · buy → purchase · help → assist · need → require · start → commence · enough → sufficient · about → regarding · tell → inform · sorry → we apologise"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "register",
+            "question": {
+              "ua": "Офіційно: «get your letter»",
+              "ru": "Официально: «get your letter»"
+            },
+            "options": [
+              "receive your letter",
+              "grab your letter",
+              "got your letter"
+            ],
+            "answer": "receive your letter",
+            "explain": {
+              "ua": "Get → receive.",
+              "ru": "Get → receive."
+            },
+            "id": "c1-u10-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "register",
+            "question": "I am writing ___ your advertisement. (formal)",
+            "options": [
+              "regarding",
+              "about like",
+              "on"
+            ],
+            "answer": "regarding",
+            "explain": {
+              "ua": "About → regarding.",
+              "ru": "About → regarding."
+            },
+            "id": "c1-u10-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "even though + речення (сильніше за although) · much as + речення · nevertheless / nonetheless — нове речення · however + прикметник (хоч який)",
+          "ru": "even though + предложение (сильнее, чем although) · much as + предложение · nevertheless / nonetheless — новое предложение · however + прилагательное (каким бы ни)"
+        },
+        "explain": {
+          "ua": "Even though I was exhausted, I kept going. Much as I respect him, I disagree. It was expensive. Nevertheless, we bought it. However hard I try, I can't remember — «хоч як я стараюся».",
+          "ru": "Even though I was exhausted, I kept going. Much as I respect him, I disagree. It was expensive. Nevertheless, we bought it. However hard I try, I can't remember — «как я ни стараюсь»."
+        },
+        "examples": [
+          {
+            "en": "Even though she's rich, she lives modestly.",
+            "ua": "Хоча вона багата, вона живе скромно.",
+            "ru": "Хотя она богата, она живёт скромно."
+          },
+          {
+            "en": "Much as I'd love to come, I have to work.",
+            "ua": "Хоч як мені хочеться прийти, я маю працювати.",
+            "ru": "Как бы мне ни хотелось прийти, мне нужно работать."
+          },
+          {
+            "en": "However tired you are, don't skip breakfast.",
+            "ua": "Хоч як ти втомився, не пропускай сніданок.",
+            "ru": "Как бы ты ни устал, не пропускай завтрак."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "___ I love my job, I need a holiday.",
+          "options": [
+            "Much as",
+            "Despite",
+            "However"
+          ],
+          "answer": "Much as",
+          "explain": {
+            "ua": "Much as + речення.",
+            "ru": "Much as + предложение."
+          },
+          "id": "c1-u10-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "___ it was late, we kept talking.",
+          "options": [
+            "Even though",
+            "Despite",
+            "Nevertheless"
+          ],
+          "answer": "Even though",
+          "explain": {
+            "ua": "Even though + речення.",
+            "ru": "Even though + предложение."
+          },
+          "id": "c1-u10-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "The plan is risky. ___ , we'll try it.",
+          "options": [
+            "Nevertheless",
+            "Even though",
+            "Much as"
+          ],
+          "answer": "Nevertheless",
+          "explain": {
+            "ua": "Нове речення → Nevertheless.",
+            "ru": "Новое предложение → Nevertheless."
+          },
+          "id": "c1-u10-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "___ hard I try, I can't understand it.",
+          "options": [
+            "However",
+            "Although",
+            "Much"
+          ],
+          "answer": "However",
+          "explain": {
+            "ua": "However + прикметник / прислівник.",
+            "ru": "However + прилагательное / наречие."
+          },
+          "id": "c1-u10-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "She's very calm, ___ her brother gets angry easily.",
+          "options": [
+            "whereas",
+            "nevertheless",
+            "much as"
+          ],
+          "answer": "whereas",
+          "explain": {
+            "ua": "Порівняння → whereas.",
+            "ru": "Сравнение → whereas."
+          },
+          "id": "c1-u10-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-concession",
+          "question": "It was cold; ___ , we went swimming.",
+          "options": [
+            "nonetheless",
+            "even though",
+            "whereas"
+          ],
+          "answer": "nonetheless",
+          "explain": {
+            "ua": "Nonetheless.",
+            "ru": "Nonetheless."
+          },
+          "id": "c1-u10-l01-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "linkers-concession",
+          "bank": [
+            "Even though",
+            "Much as",
+            "Nevertheless",
+            "However"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ it was raining, we went out.",
+            "___ I like her, I don't trust her.",
+            "It was hard. ___, we succeeded.",
+            "___ busy you are, call your mum."
+          ],
+          "answers": [
+            "Even though",
+            "Much as",
+            "Nevertheless",
+            "However"
+          ],
+          "explain": {
+            "ua": "Поступка.",
+            "ru": "Уступка."
+          },
+          "id": "c1-u10-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-concession",
+          "sentence": "Even though the rain, we went out.",
+          "answer": "Despite the rain, we went out.",
+          "accept": [
+            "Even though it was raining, we went out.",
+            "In spite of the rain, we went out."
+          ],
+          "explain": {
+            "ua": "Іменник → despite.",
+            "ru": "Существительное → despite."
+          },
+          "id": "c1-u10-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers-concession",
+          "prompt": {
+            "ua": "Хоч як я тебе люблю, я не можу залишитися.",
+            "ru": "Как бы я тебя ни любила, я не могу остаться."
+          },
+          "answer": "Much as I love you, I can't stay.",
+          "accept": [
+            "Much as I love you, I cannot stay.",
+            "As much as I love you, I can't stay.",
+            "However much I love you, I can't stay."
+          ],
+          "explain": {
+            "ua": "Much as.",
+            "ru": "Much as."
+          },
+          "id": "c1-u10-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u10-l02",
+      "title": {
+        "en": "Cause and effect",
+        "ua": "Причина й наслідок",
+        "ru": "Причина и следствие"
+      },
+      "recap": {
+        "from": "c1-u10-l01",
+        "note": {
+          "ua": "Згадаймо: even though + речення (сильніше за although) · much as + речення · nevertheless / nonetheless — нове речення · however + прикметник (хоч який)",
+          "ru": "Вспомним: even though + предложение (сильнее, чем although) · much as + предложение · nevertheless / nonetheless — новое предложение · however + прилагательное (каким бы ни)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-concession",
+            "question": "___ I love my job, I need a holiday.",
+            "options": [
+              "Much as",
+              "Despite",
+              "However"
+            ],
+            "answer": "Much as",
+            "explain": {
+              "ua": "Much as + речення.",
+              "ru": "Much as + предложение."
+            },
+            "id": "c1-u10-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-concession",
+            "question": "She's very calm, ___ her brother gets angry easily.",
+            "options": [
+              "whereas",
+              "nevertheless",
+              "much as"
+            ],
+            "answer": "whereas",
+            "explain": {
+              "ua": "Порівняння → whereas.",
+              "ru": "Сравнение → whereas."
+            },
+            "id": "c1-u10-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "due to / owing to / as a result of + іменник · since / as + речення · consequently / therefore / hence / thus — наслідок · so as to / in order to + дієслово",
+          "ru": "due to / owing to / as a result of + существительное · since / as + предложение · consequently / therefore / hence / thus — следствие · so as to / in order to + глагол"
+        },
+        "explain": {
+          "ua": "Due to the strike (іменник), не due to they went on strike. Hence часто без дієслова: The town is near a hot spring, hence the name. Thus — офіційне «таким чином».",
+          "ru": "Due to the strike (существительное), не due to they went on strike. Hence часто без глагола: The town is near a hot spring, hence the name. Thus — официальное «таким образом»."
+        },
+        "examples": [
+          {
+            "en": "The match was cancelled owing to heavy rain.",
+            "ua": "Матч скасували через сильний дощ.",
+            "ru": "Матч отменили из-за сильного дождя."
+          },
+          {
+            "en": "He didn't study. Consequently, he failed.",
+            "ua": "Він не вчився. Як наслідок, не склав.",
+            "ru": "Он не учился. Как следствие, не сдал."
+          },
+          {
+            "en": "We left early so as to avoid the traffic.",
+            "ua": "Ми виїхали рано, щоб уникнути заторів.",
+            "ru": "Мы выехали рано, чтобы избежать пробок."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "The train was late ___ a technical problem.",
+          "options": [
+            "due to",
+            "because",
+            "therefore"
+          ],
+          "answer": "due to",
+          "explain": {
+            "ua": "Іменник → due to.",
+            "ru": "Существительное → due to."
+          },
+          "id": "c1-u10-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "The train was late ___ there was a technical problem.",
+          "options": [
+            "because",
+            "due to",
+            "owing to"
+          ],
+          "answer": "because",
+          "explain": {
+            "ua": "Речення → because.",
+            "ru": "Предложение → because."
+          },
+          "id": "c1-u10-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "She didn't sleep. ___ , she felt terrible.",
+          "options": [
+            "Consequently",
+            "Due to",
+            "Owing to"
+          ],
+          "answer": "Consequently",
+          "explain": {
+            "ua": "Наслідок → Consequently.",
+            "ru": "Следствие → Consequently."
+          },
+          "id": "c1-u10-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "He's from Kyiv, ___ his love of chestnut trees.",
+          "options": [
+            "hence",
+            "due to",
+            "because"
+          ],
+          "answer": "hence",
+          "explain": {
+            "ua": "Hence + іменник.",
+            "ru": "Hence + существительное."
+          },
+          "id": "c1-u10-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "We spoke quietly so as ___ wake the baby.",
+          "options": [
+            "not to",
+            "to not",
+            "not"
+          ],
+          "answer": "not to",
+          "explain": {
+            "ua": "So as not to.",
+            "ru": "So as not to."
+          },
+          "id": "c1-u10-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-cause",
+          "question": "You can borrow my car ___ that you drive carefully.",
+          "options": [
+            "provided",
+            "owing",
+            "hence"
+          ],
+          "answer": "provided",
+          "explain": {
+            "ua": "Provided that — за умови.",
+            "ru": "Provided that — при условии."
+          },
+          "id": "c1-u10-l02-e06"
+        },
+        {
+          "type": "match",
+          "topic": "linkers-cause",
+          "pairs": [
+            {
+              "left": "due to",
+              "right": {
+                "ua": "через (+ іменник)",
+                "ru": "из-за (+ сущ.)"
+              }
+            },
+            {
+              "left": "consequently",
+              "right": {
+                "ua": "як наслідок",
+                "ru": "как следствие"
+              }
+            },
+            {
+              "left": "hence",
+              "right": {
+                "ua": "звідси",
+                "ru": "отсюда"
+              }
+            },
+            {
+              "left": "provided that",
+              "right": {
+                "ua": "за умови що",
+                "ru": "при условии что"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "c1-u10-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-cause",
+          "sentence": "The flight was cancelled due to it was foggy.",
+          "answer": "The flight was cancelled due to fog.",
+          "accept": [
+            "The flight was cancelled because it was foggy.",
+            "The flight was cancelled due to the fog."
+          ],
+          "explain": {
+            "ua": "Due to + іменник.",
+            "ru": "Due to + существительное."
+          },
+          "id": "c1-u10-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers-cause",
+          "prompt": {
+            "ua": "Ми вийшли раніше, щоб не спізнитися.",
+            "ru": "Мы вышли раньше, чтобы не опоздать."
+          },
+          "answer": "We left early so as not to be late.",
+          "accept": [
+            "We left earlier so as not to be late.",
+            "We left early in order not to be late.",
+            "We left early so that we wouldn't be late.",
+            "We left earlier in order not to be late."
+          ],
+          "explain": {
+            "ua": "So as not to.",
+            "ru": "So as not to."
+          },
+          "id": "c1-u10-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u10-l03",
+      "title": {
+        "en": "Practice: an essay paragraph",
+        "ua": "Практика: абзац есе",
+        "ru": "Практика: абзац эссе"
+      },
+      "recap": {
+        "from": "c1-u10-l02",
+        "note": {
+          "ua": "Згадаймо: due to / owing to / as a result of + іменник · since / as + речення · consequently / therefore / hence / thus — наслідок · so as to / in order to + дієслово",
+          "ru": "Вспомним: due to / owing to / as a result of + существительное · since / as + предложение · consequently / therefore / hence / thus — следствие · so as to / in order to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-cause",
+            "question": "The train was late ___ a technical problem.",
+            "options": [
+              "due to",
+              "because",
+              "therefore"
+            ],
+            "answer": "due to",
+            "explain": {
+              "ua": "Іменник → due to.",
+              "ru": "Существительное → due to."
+            },
+            "id": "c1-u10-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-cause",
+            "question": "We spoke quietly so as ___ wake the baby.",
+            "options": [
+              "not to",
+              "to not",
+              "not"
+            ],
+            "answer": "not to",
+            "explain": {
+              "ua": "So as not to.",
+              "ru": "So as not to."
+            },
+            "id": "c1-u10-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The writer thinks tourism has only positive effects.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Prices have risen as a result of tourism.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does the writer suggest?",
+              "options": [
+                "limiting tourist numbers",
+                "closing the city",
+                "building more hotels"
+              ],
+              "answer": "limiting tourist numbers"
+            }
+          ],
+          "text": "Much as tourism brings money to a city, it also creates serious problems. Owing to the rise of short-term rentals, housing prices in the centre have doubled. Consequently, many local residents can no longer afford to live there. Even though the city council has introduced new rules, the situation has not improved. Nevertheless, tourism need not be harmful, provided that it is properly managed. Cities should therefore consider limiting tourist numbers so as to protect local communities.",
+          "explain": {
+            "ua": "Tourism brings money; nevertheless prices up due to short-term rentals; consequently locals leave; limit numbers provided that…",
+            "ru": "Tourism brings money; nevertheless prices up due to short-term rentals; consequently locals leave; limit numbers provided that…"
+          },
+          "id": "c1-u10-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "linkers-advanced",
+          "bank": [
+            "Much as",
+            "Owing to",
+            "Consequently",
+            "Nevertheless",
+            "provided that"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ tourism brings money, it creates problems.",
+            "___ short-term rentals, prices doubled.",
+            "___, locals can't afford to live there.",
+            "___, tourism need not be harmful…",
+            "… ___ it is properly managed."
+          ],
+          "answers": [
+            "Much as",
+            "Owing to",
+            "Consequently",
+            "Nevertheless",
+            "provided that"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u10-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-advanced",
+          "question": "'Need not be harmful' means…",
+          "options": [
+            "doesn't have to be harmful",
+            "must be harmful",
+            "is never harmful"
+          ],
+          "answer": "doesn't have to be harmful",
+          "explain": {
+            "ua": "Need not = не обов'язково.",
+            "ru": "Need not = не обязательно."
+          },
+          "id": "c1-u10-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-advanced",
+          "sentence": "Owing to prices rose, people left.",
+          "answer": "Owing to rising prices, people left.",
+          "accept": [
+            "Because prices rose, people left.",
+            "Owing to the rise in prices, people left."
+          ],
+          "explain": {
+            "ua": "Owing to + іменник.",
+            "ru": "Owing to + существительное."
+          },
+          "id": "c1-u10-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-advanced",
+          "sentence": "It was cheap, nevertheless we didn't buy it.",
+          "answer": "It was cheap. Nevertheless, we didn't buy it.",
+          "accept": [
+            "It was cheap; nevertheless, we didn't buy it."
+          ],
+          "explain": {
+            "ua": "Nevertheless — нове речення.",
+            "ru": "Nevertheless — новое предложение."
+          },
+          "id": "c1-u10-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "many",
+            "moved",
+            "out",
+            "Consequently",
+            "residents"
+          ],
+          "answer": "Consequently many residents moved out",
+          "explain": {
+            "ua": "Consequently, …",
+            "ru": "Consequently, …"
+          },
+          "id": "c1-u10-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers-advanced",
+          "audio_text": "Owing to heavy rain, the match was cancelled.",
+          "options": [
+            "Owing to heavy rain, the match was cancelled.",
+            "Owing to heavy rain, the match was cancelling.",
+            "Going to heavy rain, the match was cancelled."
+          ],
+          "answer": "Owing to heavy rain, the match was cancelled.",
+          "audio": "",
+          "explain": {
+            "ua": "Owing to.",
+            "ru": "Owing to."
+          },
+          "id": "c1-u10-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers-advanced",
+          "prompt": {
+            "ua": "Хоча було пізно, ми продовжили роботу.",
+            "ru": "Хотя было поздно, мы продолжили работу."
+          },
+          "answer": "Even though it was late, we kept working.",
+          "accept": [
+            "Even though it was late, we continued working.",
+            "Although it was late, we kept working.",
+            "Even though it was late, we carried on working.",
+            "Although it was late, we continued working."
+          ],
+          "explain": {
+            "ua": "Even though.",
+            "ru": "Even though."
+          },
+          "id": "c1-u10-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "linkers-concession",
+      "question": "___ I'd like to help, I can't.",
+      "options": [
+        "Much as",
+        "Despite",
+        "Due to"
+      ],
+      "answer": "Much as",
+      "explain": {
+        "ua": "Much as.",
+        "ru": "Much as."
+      },
+      "id": "c1-u10-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-concession",
+      "question": "It was expensive. ___ , I bought it.",
+      "options": [
+        "Nevertheless",
+        "Even though",
+        "Due to"
+      ],
+      "answer": "Nevertheless",
+      "explain": {
+        "ua": "Nevertheless.",
+        "ru": "Nevertheless."
+      },
+      "id": "c1-u10-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-cause",
+      "question": "The school was closed ___ the snow.",
+      "options": [
+        "due to",
+        "because",
+        "hence"
+      ],
+      "answer": "due to",
+      "explain": {
+        "ua": "Due to.",
+        "ru": "Due to."
+      },
+      "id": "c1-u10-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-cause",
+      "question": "He lied. ___ , nobody trusts him.",
+      "options": [
+        "Consequently",
+        "Owing to",
+        "Whereas"
+      ],
+      "answer": "Consequently",
+      "explain": {
+        "ua": "Consequently.",
+        "ru": "Consequently."
+      },
+      "id": "c1-u10-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-concession",
+      "question": "___ tired you are, finish the task.",
+      "options": [
+        "However",
+        "Although",
+        "Much"
+      ],
+      "answer": "However",
+      "explain": {
+        "ua": "However + adj.",
+        "ru": "However + adj."
+      },
+      "id": "c1-u10-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "linkers-cause",
+      "question": "You can come ___ that you're quiet.",
+      "answer": "provided",
+      "accept": [
+        "providing"
+      ],
+      "explain": {
+        "ua": "Provided that.",
+        "ru": "Provided that."
+      },
+      "id": "c1-u10-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "linkers-cause",
+      "question": "We whispered so as ___ to wake her.",
+      "answer": "not",
+      "accept": [],
+      "explain": {
+        "ua": "So as not to.",
+        "ru": "So as not to."
+      },
+      "id": "c1-u10-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers-cause",
+      "sentence": "Due to it rained, we stayed in.",
+      "answer": "Due to the rain, we stayed in.",
+      "accept": [
+        "Because it rained, we stayed in."
+      ],
+      "explain": {
+        "ua": "Due to + іменник.",
+        "ru": "Due to + существительное."
+      },
+      "id": "c1-u10-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers-concession",
+      "sentence": "Even though the noise, I slept.",
+      "answer": "Despite the noise, I slept.",
+      "accept": [
+        "In spite of the noise, I slept.",
+        "Even though it was noisy, I slept."
+      ],
+      "explain": {
+        "ua": "Despite + іменник.",
+        "ru": "Despite + существительное."
+      },
+      "id": "c1-u10-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "linkers-concession",
+      "words": [
+        "is",
+        "whereas",
+        "She",
+        "vegetarian",
+        "a",
+        "meat",
+        "her",
+        "loves",
+        "husband"
+      ],
+      "answer": "She is a vegetarian whereas her husband loves meat",
+      "explain": {
+        "ua": "Whereas.",
+        "ru": "Whereas."
+      },
+      "id": "c1-u10-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "linkers-cause",
+      "prompt": {
+        "ua": "Рейс скасували через туман.",
+        "ru": "Рейс отменили из-за тумана."
+      },
+      "answer": "The flight was cancelled due to fog.",
+      "accept": [
+        "The flight was cancelled owing to fog.",
+        "The flight was cancelled because of fog.",
+        "The flight was cancelled due to the fog.",
+        "The flight was cancelled because of the fog."
+      ],
+      "explain": {
+        "ua": "Due to.",
+        "ru": "Due to."
+      },
+      "id": "c1-u10-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "linkers-concession",
+      "audio_text": "Nevertheless, we decided to go.",
+      "options": [
+        "Nevertheless, we decided to go.",
+        "Never the less, we decided not to go.",
+        "Nevertheless, we decide to go."
+      ],
+      "answer": "Nevertheless, we decided to go.",
+      "audio": "",
+      "explain": {
+        "ua": "Nevertheless.",
+        "ru": "Nevertheless."
+      },
+      "id": "c1-u10-cp12"
+    }
+  ]
+}

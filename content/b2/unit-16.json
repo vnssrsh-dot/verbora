@@ -1,0 +1,1024 @@
+{
+  "id": "b2-u16",
+  "level": "B2",
+  "order": 16,
+  "kind": "grammar",
+  "title": {
+    "en": "Phrasal verbs: work and relationships",
+    "ua": "Фразові дієслова: робота й стосунки",
+    "ru": "Фразовые глаголы: работа и отношения"
+  },
+  "rule": {
+    "formula": "set up · take over · carry out · put off · deal with · get on with · fall out · make up · let down · bring up",
+    "explain": {
+      "ua": "У діловій і побутовій мові фразові дієслова звучать природніше, ніж «книжні» слова: put off замість postpone, carry out замість perform, get on with замість have a good relationship.",
+      "ru": "В деловой и бытовой речи фразовые глаголы звучат естественнее «книжных» слов: put off вместо postpone, carry out вместо perform, get on with вместо have a good relationship."
+    },
+    "examples": [
+      {
+        "en": "Let's put off the meeting until Friday.",
+        "ua": "Перенесімо зустріч на п'ятницю.",
+        "ru": "Давайте перенесём встречу на пятницу."
+      },
+      {
+        "en": "She set up her own business.",
+        "ua": "Вона заснувала власний бізнес.",
+        "ru": "Она открыла собственный бизнес."
+      },
+      {
+        "en": "I get on well with my colleagues.",
+        "ua": "Я добре ладнаю з колегами.",
+        "ru": "Я хорошо лажу с коллегами."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "set up",
+      "ipa": "/ˌset ˈʌp/",
+      "ua": "заснувати, організувати",
+      "ru": "основать, организовать",
+      "example": "set up a company",
+      "audio": ""
+    },
+    {
+      "word": "take over",
+      "ipa": "/ˌteɪk ˈəʊvə/",
+      "ua": "перейняти, взяти під контроль",
+      "ru": "перенять, взять под контроль",
+      "example": "She took over the project.",
+      "audio": ""
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˌkæri ˈaʊt/",
+      "ua": "проводити, виконувати",
+      "ru": "проводить, выполнять",
+      "example": "carry out research",
+      "audio": ""
+    },
+    {
+      "word": "put off",
+      "ipa": "/ˌpʊt ˈɒf/",
+      "ua": "відкладати",
+      "ru": "откладывать",
+      "example": "Don't put it off!",
+      "audio": ""
+    },
+    {
+      "word": "call off",
+      "ipa": "/ˌkɔːl ˈɒf/",
+      "ua": "скасувати",
+      "ru": "отменить",
+      "example": "They called off the meeting.",
+      "audio": ""
+    },
+    {
+      "word": "come up with",
+      "ipa": "/ˌkʌm ˈʌp wɪð/",
+      "ua": "придумати",
+      "ru": "придумать",
+      "example": "come up with an idea",
+      "audio": ""
+    },
+    {
+      "word": "run out of",
+      "ipa": "/ˌrʌn ˈaʊt əv/",
+      "ua": "закінчитися (запас)",
+      "ru": "закончиться (запас)",
+      "example": "We've run out of time.",
+      "audio": ""
+    },
+    {
+      "word": "deal with",
+      "ipa": "/ˈdiːl wɪð/",
+      "ua": "розібратися з, займатися",
+      "ru": "разобраться с, заниматься",
+      "example": "I'll deal with it.",
+      "audio": ""
+    },
+    {
+      "word": "get on with",
+      "ipa": "/ˌɡet ˈɒn wɪð/",
+      "ua": "ладнати з",
+      "ru": "ладить с",
+      "example": "I get on with my boss.",
+      "audio": ""
+    },
+    {
+      "word": "fall out (with)",
+      "ipa": "/ˌfɔːl ˈaʊt/",
+      "ua": "посваритися",
+      "ru": "поссориться",
+      "example": "They fell out last year.",
+      "audio": ""
+    },
+    {
+      "word": "make up",
+      "ipa": "/ˌmeɪk ˈʌp/",
+      "ua": "помиритися; вигадати",
+      "ru": "помириться; придумать",
+      "example": "They made up after the argument.",
+      "audio": ""
+    },
+    {
+      "word": "let down",
+      "ipa": "/ˌlet ˈdaʊn/",
+      "ua": "підвести",
+      "ru": "подвести",
+      "example": "Don't let me down!",
+      "audio": ""
+    },
+    {
+      "word": "look up to",
+      "ipa": "/ˌlʊk ˈʌp tə/",
+      "ua": "поважати, рівнятися на",
+      "ru": "уважать, равняться на",
+      "example": "I look up to my mum.",
+      "audio": ""
+    },
+    {
+      "word": "count on",
+      "ipa": "/ˈkaʊnt ɒn/",
+      "ua": "розраховувати на",
+      "ru": "рассчитывать на",
+      "example": "You can count on me.",
+      "audio": ""
+    },
+    {
+      "word": "turn down",
+      "ipa": "/ˌtɜːn ˈdaʊn/",
+      "ua": "відхилити",
+      "ru": "отклонить",
+      "example": "She turned down the offer.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u16-l01",
+      "title": {
+        "en": "At work",
+        "ua": "На роботі",
+        "ru": "На работе"
+      },
+      "recap": {
+        "from": "b2-u15-l03",
+        "note": {
+          "ua": "Згадаймо: Покупки й платежі",
+          "ru": "Вспомним: Покупки и платежи"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This jacket was only 20 euros! What a ___ !",
+            "options": [
+              "bargain",
+              "rip-off",
+              "debt"
+            ],
+            "answer": "bargain",
+            "explain": {
+              "ua": "Bargain.",
+              "ru": "Bargain."
+            },
+            "id": "b2-u16-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I paid by bank ___ .",
+            "options": [
+              "transfer",
+              "currency",
+              "budget"
+            ],
+            "answer": "transfer",
+            "explain": {
+              "ua": "Bank transfer.",
+              "ru": "Bank transfer."
+            },
+            "id": "b2-u16-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "set up · take over · carry out · put off · call off · come up with · deal with · turn down",
+        "explain": {
+          "ua": "Put off — відкласти (на пізніше). Call off — скасувати зовсім. Turn down — відмовитися від пропозиції. Come up with — придумати (ідею, план).",
+          "ru": "Put off — отложить (на потом). Call off — отменить совсем. Turn down — отказаться от предложения. Come up with — придумать (идею, план)."
+        },
+        "examples": [
+          {
+            "en": "We had to call off the conference.",
+            "ua": "Нам довелося скасувати конференцію.",
+            "ru": "Нам пришлось отменить конференцию."
+          },
+          {
+            "en": "She came up with a brilliant idea.",
+            "ua": "Вона придумала блискучу ідею.",
+            "ru": "Она придумала блестящую идею."
+          },
+          {
+            "en": "He turned down the job offer.",
+            "ua": "Він відмовився від пропозиції роботи.",
+            "ru": "Он отказался от предложения работы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "The meeting is ___ until next week.",
+          "options": [
+            "put off",
+            "called off",
+            "set up"
+          ],
+          "answer": "put off",
+          "explain": {
+            "ua": "Відкласти → put off.",
+            "ru": "Отложить → put off."
+          },
+          "id": "b2-u16-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "The match was ___ because of the storm. It won't happen.",
+          "options": [
+            "called off",
+            "put off",
+            "taken over"
+          ],
+          "answer": "called off",
+          "explain": {
+            "ua": "Скасувати → call off.",
+            "ru": "Отменить → call off."
+          },
+          "id": "b2-u16-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "My friend ___ an online shop last year.",
+          "options": [
+            "set up",
+            "took up",
+            "carried on"
+          ],
+          "answer": "set up",
+          "explain": {
+            "ua": "Заснувати → set up.",
+            "ru": "Основать → set up."
+          },
+          "id": "b2-u16-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "We need to ___ a new marketing plan.",
+          "options": [
+            "come up with",
+            "come out of",
+            "come across"
+          ],
+          "answer": "come up with",
+          "explain": {
+            "ua": "Придумати → come up with.",
+            "ru": "Придумать → come up with."
+          },
+          "id": "b2-u16-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "They offered him a job in London, but he ___ it ___ .",
+          "options": [
+            "turned / down",
+            "turned / off",
+            "put / off"
+          ],
+          "answer": "turned / down",
+          "explain": {
+            "ua": "Відхилити → turn down.",
+            "ru": "Отклонить → turn down."
+          },
+          "id": "b2-u16-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-work",
+          "question": "Scientists ___ a lot of experiments.",
+          "options": [
+            "carried out",
+            "carried on",
+            "took over"
+          ],
+          "answer": "carried out",
+          "explain": {
+            "ua": "Проводити → carry out.",
+            "ru": "Проводить → carry out."
+          },
+          "id": "b2-u16-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "phrasal-work",
+          "pairs": [
+            {
+              "left": "put off",
+              "right": {
+                "ua": "відкласти",
+                "ru": "отложить"
+              }
+            },
+            {
+              "left": "call off",
+              "right": {
+                "ua": "скасувати",
+                "ru": "отменить"
+              }
+            },
+            {
+              "left": "turn down",
+              "right": {
+                "ua": "відхилити",
+                "ru": "отклонить"
+              }
+            },
+            {
+              "left": "take over",
+              "right": {
+                "ua": "перейняти",
+                "ru": "перенять"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "b2-u16-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-work",
+          "sentence": "Don't put off it!",
+          "answer": "Don't put it off!",
+          "accept": [],
+          "explain": {
+            "ua": "Займенник посередині.",
+            "ru": "Местоимение посередине."
+          },
+          "id": "b2-u16-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-work",
+          "prompt": {
+            "ua": "Я з цим розберуся.",
+            "ru": "Я с этим разберусь."
+          },
+          "answer": "I'll deal with it.",
+          "accept": [
+            "I will deal with it.",
+            "I'll handle it.",
+            "I'll take care of it."
+          ],
+          "explain": {
+            "ua": "Deal with.",
+            "ru": "Deal with."
+          },
+          "id": "b2-u16-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u16-l02",
+      "title": {
+        "en": "Relationships",
+        "ua": "Стосунки",
+        "ru": "Отношения"
+      },
+      "recap": {
+        "from": "b2-u16-l01",
+        "note": {
+          "ua": "Згадаймо: set up · take over · carry out · put off · call off · come up with · deal with · turn down",
+          "ru": "Вспомним: set up · take over · carry out · put off · call off · come up with · deal with · turn down"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-work",
+            "question": "The meeting is ___ until next week.",
+            "options": [
+              "put off",
+              "called off",
+              "set up"
+            ],
+            "answer": "put off",
+            "explain": {
+              "ua": "Відкласти → put off.",
+              "ru": "Отложить → put off."
+            },
+            "id": "b2-u16-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-work",
+            "question": "They offered him a job in London, but he ___ it ___ .",
+            "options": [
+              "turned / down",
+              "turned / off",
+              "put / off"
+            ],
+            "answer": "turned / down",
+            "explain": {
+              "ua": "Відхилити → turn down.",
+              "ru": "Отклонить → turn down."
+            },
+            "id": "b2-u16-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "get on with · fall out with · make up · let down · look up to · count on · bring up",
+        "explain": {
+          "ua": "Fall out — посваритися, make up — помиритися. Let someone down — підвести. Look up to — захоплюватися, рівнятися. Count on — розраховувати.",
+          "ru": "Fall out — поссориться, make up — помириться. Let someone down — подвести. Look up to — восхищаться, равняться. Count on — рассчитывать."
+        },
+        "examples": [
+          {
+            "en": "They fell out over money.",
+            "ua": "Вони посварилися через гроші.",
+            "ru": "Они поссорились из-за денег."
+          },
+          {
+            "en": "We argued, but then we made up.",
+            "ua": "Ми посперечалися, але потім помирилися.",
+            "ru": "Мы поспорили, но потом помирились."
+          },
+          {
+            "en": "You can always count on me.",
+            "ua": "Ти завжди можеш на мене розраховувати.",
+            "ru": "Ты всегда можешь на меня рассчитывать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "phrasal-relationships",
+          "question": "I ___ well with my sister-in-law.",
+          "options": [
+            "get on",
+            "get over",
+            "get off"
+          ],
+          "answer": "get on",
+          "explain": {
+            "ua": "Get on with.",
+            "ru": "Get on with."
+          },
+          "id": "b2-u16-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-relationships",
+          "question": "They ___ last year and haven't spoken since.",
+          "options": [
+            "fell out",
+            "made up",
+            "got on"
+          ],
+          "answer": "fell out",
+          "explain": {
+            "ua": "Fall out.",
+            "ru": "Fall out."
+          },
+          "id": "b2-u16-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-relationships",
+          "question": "After the argument, they kissed and ___ .",
+          "options": [
+            "made up",
+            "fell out",
+            "let down"
+          ],
+          "answer": "made up",
+          "explain": {
+            "ua": "Make up.",
+            "ru": "Make up."
+          },
+          "id": "b2-u16-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-relationships",
+          "question": "You promised to come! You really ___ me ___ .",
+          "options": [
+            "let / down",
+            "put / off",
+            "turned / down"
+          ],
+          "answer": "let / down",
+          "explain": {
+            "ua": "Let down.",
+            "ru": "Let down."
+          },
+          "id": "b2-u16-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-relationships",
+          "question": "I've always ___ my grandfather. He's so wise.",
+          "options": [
+            "looked up to",
+            "looked down on",
+            "looked after"
+          ],
+          "answer": "looked up to",
+          "explain": {
+            "ua": "Look up to.",
+            "ru": "Look up to."
+          },
+          "id": "b2-u16-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "phrasal-relationships",
+          "bank": [
+            "count on",
+            "fall out",
+            "make up",
+            "let down"
+          ],
+          "reuse": false,
+          "sentences": [
+            "You can always ___ me.",
+            "Friends sometimes ___.",
+            "But they always ___ in the end.",
+            "I'll never ___ you ___."
+          ],
+          "answers": [
+            "count on",
+            "fall out",
+            "make up",
+            "let down"
+          ],
+          "explain": {
+            "ua": "Стосунки.",
+            "ru": "Отношения."
+          },
+          "id": "b2-u16-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-relationships",
+          "sentence": "We fell out and then we made it up.",
+          "answer": "We fell out and then we made up.",
+          "accept": [],
+          "explain": {
+            "ua": "Make up — без it.",
+            "ru": "Make up — без it."
+          },
+          "id": "b2-u16-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "phrasal-relationships",
+          "audio_text": "Don't let me down.",
+          "options": [
+            "Don't let me down.",
+            "Don't let me go.",
+            "Don't let down me."
+          ],
+          "answer": "Don't let me down.",
+          "audio": "",
+          "explain": {
+            "ua": "Let me down.",
+            "ru": "Let me down."
+          },
+          "id": "b2-u16-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-relationships",
+          "prompt": {
+            "ua": "Я завжди рівнялася на маму.",
+            "ru": "Я всегда равнялась на маму."
+          },
+          "answer": "I've always looked up to my mum.",
+          "accept": [
+            "I have always looked up to my mum.",
+            "I always looked up to my mother.",
+            "I've always looked up to my mother."
+          ],
+          "explain": {
+            "ua": "Look up to.",
+            "ru": "Look up to."
+          },
+          "id": "b2-u16-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u16-l03",
+      "title": {
+        "en": "Practice: at the office",
+        "ua": "Практика: в офісі",
+        "ru": "Практика: в офисе"
+      },
+      "recap": {
+        "from": "b2-u16-l02",
+        "note": {
+          "ua": "Згадаймо: get on with · fall out with · make up · let down · look up to · count on · bring up",
+          "ru": "Вспомним: get on with · fall out with · make up · let down · look up to · count on · bring up"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-relationships",
+            "question": "I ___ well with my sister-in-law.",
+            "options": [
+              "get on",
+              "get over",
+              "get off"
+            ],
+            "answer": "get on",
+            "explain": {
+              "ua": "Get on with.",
+              "ru": "Get on with."
+            },
+            "id": "b2-u16-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-relationships",
+            "question": "You promised to come! You really ___ me ___ .",
+            "options": [
+              "let / down",
+              "put / off",
+              "turned / down"
+            ],
+            "answer": "let / down",
+            "explain": {
+              "ua": "Let down.",
+              "ru": "Let down."
+            },
+            "id": "b2-u16-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The meeting was called off.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Olena came up with a new idea.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "Who took over the project?",
+              "options": [
+                "Olena",
+                "the boss",
+                "Max"
+              ],
+              "answer": "Olena"
+            }
+          ],
+          "text": "Last week was difficult. Our big meeting was put off until Monday because the client was ill. Then Max, who was in charge of the project, let the whole team down — he left without finishing his part. Olena took over the project and came up with a brilliant new idea. We carried out the plan in two days. Max and Olena fell out, but they made up on Friday.",
+          "explain": {
+            "ua": "Meeting put off; Max let the team down; Olena took over, came up with an idea.",
+            "ru": "Meeting put off; Max let the team down; Olena took over, came up with an idea."
+          },
+          "id": "b2-u16-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "phrasal-verbs-advanced",
+          "bank": [
+            "put off",
+            "let down",
+            "took over",
+            "came up with",
+            "made up"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The meeting was ___.",
+            "Max ___ the team ___.",
+            "Olena ___ the project.",
+            "She ___ a new idea.",
+            "Max and Olena ___ on Friday."
+          ],
+          "answers": [
+            "put off",
+            "let down",
+            "took over",
+            "came up with",
+            "made up"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u16-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs-advanced",
+          "question": "We've ___ time. We need to finish now.",
+          "options": [
+            "run out of",
+            "run into",
+            "run over"
+          ],
+          "answer": "run out of",
+          "explain": {
+            "ua": "Run out of.",
+            "ru": "Run out of."
+          },
+          "id": "b2-u16-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-verbs-advanced",
+          "sentence": "She turned down him.",
+          "answer": "She turned him down.",
+          "accept": [],
+          "explain": {
+            "ua": "Займенник посередині.",
+            "ru": "Местоимение посередине."
+          },
+          "id": "b2-u16-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-verbs-advanced",
+          "sentence": "I can count with you.",
+          "answer": "I can count on you.",
+          "accept": [],
+          "explain": {
+            "ua": "Count ON.",
+            "ru": "Count ON."
+          },
+          "id": "b2-u16-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "a",
+            "She",
+            "up",
+            "idea",
+            "came",
+            "brilliant",
+            "with"
+          ],
+          "answer": "She came up with a brilliant idea",
+          "explain": {
+            "ua": "Came up with → a brilliant idea.",
+            "ru": "Came up with → a brilliant idea."
+          },
+          "id": "b2-u16-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "phrasal-verbs-advanced",
+          "audio_text": "We've had to call off the meeting.",
+          "options": [
+            "We've had to call off the meeting.",
+            "We've had to put off the meeting.",
+            "We had to call of the meeting."
+          ],
+          "answer": "We've had to call off the meeting.",
+          "audio": "",
+          "explain": {
+            "ua": "Call off.",
+            "ru": "Call off."
+          },
+          "id": "b2-u16-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-verbs-advanced",
+          "prompt": {
+            "ua": "Не відкладай це на завтра!",
+            "ru": "Не откладывай это на завтра!"
+          },
+          "answer": "Don't put it off until tomorrow!",
+          "accept": [
+            "Don't put it off till tomorrow!",
+            "Don't put it off!"
+          ],
+          "explain": {
+            "ua": "Put off.",
+            "ru": "Put off."
+          },
+          "id": "b2-u16-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "phrasal-work",
+      "question": "The concert was ___ — it will happen next month instead.",
+      "options": [
+        "put off",
+        "called off",
+        "taken over"
+      ],
+      "answer": "put off",
+      "explain": {
+        "ua": "Put off.",
+        "ru": "Put off."
+      },
+      "id": "b2-u16-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-work",
+      "question": "They ___ the wedding. It won't happen.",
+      "options": [
+        "called off",
+        "put off",
+        "set up"
+      ],
+      "answer": "called off",
+      "explain": {
+        "ua": "Call off.",
+        "ru": "Call off."
+      },
+      "id": "b2-u16-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-work",
+      "question": "He ___ his own company in 2020.",
+      "options": [
+        "set up",
+        "took up",
+        "made up"
+      ],
+      "answer": "set up",
+      "explain": {
+        "ua": "Set up.",
+        "ru": "Set up."
+      },
+      "id": "b2-u16-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-relationships",
+      "question": "I ___ really well with my boss.",
+      "options": [
+        "get on",
+        "get off",
+        "get over"
+      ],
+      "answer": "get on",
+      "explain": {
+        "ua": "Get on.",
+        "ru": "Get on."
+      },
+      "id": "b2-u16-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-relationships",
+      "question": "You can always ___ me.",
+      "options": [
+        "count on",
+        "count in",
+        "count up"
+      ],
+      "answer": "count on",
+      "explain": {
+        "ua": "Count on.",
+        "ru": "Count on."
+      },
+      "id": "b2-u16-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "phrasal-work",
+      "question": "She turned ___ the offer.",
+      "answer": "down",
+      "accept": [],
+      "explain": {
+        "ua": "Turn down.",
+        "ru": "Turn down."
+      },
+      "id": "b2-u16-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "phrasal-work",
+      "question": "We need to come up ___ a solution.",
+      "answer": "with",
+      "accept": [],
+      "explain": {
+        "ua": "Come up with.",
+        "ru": "Come up with."
+      },
+      "id": "b2-u16-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "phrasal-relationships",
+      "sentence": "They made out after the argument.",
+      "answer": "They made up after the argument.",
+      "accept": [],
+      "explain": {
+        "ua": "Make up.",
+        "ru": "Make up."
+      },
+      "id": "b2-u16-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "phrasal-relationships",
+      "sentence": "Don't let down me.",
+      "answer": "Don't let me down.",
+      "accept": [],
+      "explain": {
+        "ua": "Займенник посередині.",
+        "ru": "Местоимение посередине."
+      },
+      "id": "b2-u16-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "phrasal-work",
+      "words": [
+        "the",
+        "project",
+        "took",
+        "month",
+        "last",
+        "She",
+        "over"
+      ],
+      "answer": "She took over the project last month",
+      "explain": {
+        "ua": "Took over → the project.",
+        "ru": "Took over → the project."
+      },
+      "id": "b2-u16-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "phrasal-relationships",
+      "prompt": {
+        "ua": "Вони посварилися через гроші.",
+        "ru": "Они поссорились из-за денег."
+      },
+      "answer": "They fell out over money.",
+      "accept": [
+        "They fell out because of money."
+      ],
+      "explain": {
+        "ua": "Fall out.",
+        "ru": "Fall out."
+      },
+      "id": "b2-u16-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "phrasal-work",
+      "audio_text": "I'll deal with it tomorrow.",
+      "options": [
+        "I'll deal with it tomorrow.",
+        "I'll deal it tomorrow.",
+        "I'll feel with it tomorrow."
+      ],
+      "answer": "I'll deal with it tomorrow.",
+      "audio": "",
+      "explain": {
+        "ua": "Deal with.",
+        "ru": "Deal with."
+      },
+      "id": "b2-u16-cp12"
+    }
+  ]
+}

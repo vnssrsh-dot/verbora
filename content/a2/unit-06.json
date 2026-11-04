@@ -1,0 +1,1038 @@
+{
+  "id": "a2-u06",
+  "level": "A2",
+  "order": 6,
+  "kind": "grammar",
+  "title": {
+    "en": "Some, any, no",
+    "ua": "Some, any, no",
+    "ru": "Some, any, no"
+  },
+  "rule": {
+    "formula": {
+      "ua": "some — у ствердженні · any — у питаннях і запереченнях · no = not any",
+      "ru": "some — в утверждении · any — в вопросах и отрицаниях · no = not any"
+    },
+    "explain": {
+      "ua": "Some — «трохи, кілька» у ствердженнях. Any — у питаннях і запереченнях. No = not any. Some також у проханнях і пропозиціях: Would you like some tea?",
+      "ru": "Some — «немного, несколько» в утверждениях. Any — в вопросах и отрицаниях. No = not any. Some также в просьбах и предложениях: Would you like some tea?"
+    },
+    "examples": [
+      {
+        "en": "I've got some apples.",
+        "ua": "У мене є кілька яблук.",
+        "ru": "У меня есть несколько яблок."
+      },
+      {
+        "en": "Is there any milk?",
+        "ua": "Є молоко?",
+        "ru": "Есть молоко?"
+      },
+      {
+        "en": "There's no sugar.",
+        "ua": "Цукру немає.",
+        "ru": "Сахара нет."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "some",
+      "ipa": "/sʌm/",
+      "ua": "трохи, кілька",
+      "ru": "немного, несколько",
+      "example": "some water",
+      "audio": ""
+    },
+    {
+      "word": "any",
+      "ipa": "/ˈeni/",
+      "ua": "якийсь, скільки-небудь",
+      "ru": "какой-нибудь, сколько-нибудь",
+      "example": "any questions?",
+      "audio": ""
+    },
+    {
+      "word": "no",
+      "ipa": "/nəʊ/",
+      "ua": "жодного, немає",
+      "ru": "никакого, нет",
+      "example": "no time",
+      "audio": ""
+    },
+    {
+      "word": "something",
+      "ipa": "/ˈsʌmθɪŋ/",
+      "ua": "щось",
+      "ru": "что-то",
+      "example": "I want something sweet.",
+      "audio": ""
+    },
+    {
+      "word": "anything",
+      "ipa": "/ˈeniθɪŋ/",
+      "ua": "що-небудь, нічого (з not)",
+      "ru": "что-нибудь, ничего (с not)",
+      "example": "I didn't buy anything.",
+      "audio": ""
+    },
+    {
+      "word": "nothing",
+      "ipa": "/ˈnʌθɪŋ/",
+      "ua": "нічого",
+      "ru": "ничего",
+      "example": "There's nothing in the fridge.",
+      "audio": ""
+    },
+    {
+      "word": "somebody",
+      "ipa": "/ˈsʌmbədi/",
+      "ua": "хтось",
+      "ru": "кто-то",
+      "example": "Somebody called.",
+      "audio": ""
+    },
+    {
+      "word": "anybody",
+      "ipa": "/ˈenibɒdi/",
+      "ua": "хто-небудь, ніхто (з not)",
+      "ru": "кто-нибудь, никто (с not)",
+      "example": "Is anybody here?",
+      "audio": ""
+    },
+    {
+      "word": "nobody",
+      "ipa": "/ˈnəʊbədi/",
+      "ua": "ніхто",
+      "ru": "никто",
+      "example": "Nobody knows.",
+      "audio": ""
+    },
+    {
+      "word": "somewhere",
+      "ipa": "/ˈsʌmweə/",
+      "ua": "десь, кудись",
+      "ru": "где-то, куда-то",
+      "example": "Let's go somewhere.",
+      "audio": ""
+    },
+    {
+      "word": "nowhere",
+      "ipa": "/ˈnəʊweə/",
+      "ua": "ніде, нікуди",
+      "ru": "нигде, никуда",
+      "example": "There's nowhere to park.",
+      "audio": ""
+    },
+    {
+      "word": "sugar",
+      "ipa": "/ˈʃʊɡə/",
+      "ua": "цукор",
+      "ru": "сахар",
+      "example": "No sugar, please.",
+      "audio": ""
+    },
+    {
+      "word": "advice",
+      "ipa": "/ədˈvaɪs/",
+      "ua": "порада (незлічуване)",
+      "ru": "совет (неисчисляемое)",
+      "example": "some advice",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u06-l01",
+      "title": {
+        "en": "some / any",
+        "ua": "some / any",
+        "ru": "some / any"
+      },
+      "recap": {
+        "from": "a2-u05-l03",
+        "note": {
+          "ua": "Згадаймо: Оплата",
+          "ru": "Вспомним: Оплата"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Can I pay ___ card?",
+            "options": [
+              "by",
+              "with",
+              "on"
+            ],
+            "answer": "by",
+            "explain": {
+              "ua": "Pay by card.",
+              "ru": "Pay by card."
+            },
+            "id": "a2-u06-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "It's 50% off — it's on ___!",
+            "options": [
+              "sale",
+              "cash",
+              "size"
+            ],
+            "answer": "sale",
+            "explain": {
+              "ua": "On sale — зі знижкою.",
+              "ru": "On sale — со скидкой."
+            },
+            "id": "a2-u06-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "+ some · − any · ? any (але Would you like some…?)",
+          "ru": "+ some · − any · ? any (но Would you like some…?)"
+        },
+        "explain": {
+          "ua": "Some — коли «так, є». Any — коли питаємо або кажемо «немає». Пропонуючи щось — some.",
+          "ru": "Some — когда «да, есть». Any — когда спрашиваем или говорим «нет». Предлагая что-то — some."
+        },
+        "examples": [
+          {
+            "en": "There are some eggs.",
+            "ua": "Є кілька яєць.",
+            "ru": "Есть несколько яиц."
+          },
+          {
+            "en": "I haven't got any money.",
+            "ua": "У мене немає грошей.",
+            "ru": "У меня нет денег."
+          },
+          {
+            "en": "Would you like some coffee?",
+            "ua": "Хочеш кави?",
+            "ru": "Хочешь кофе?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "some-any",
+          "question": "I've got ___ friends in London.",
+          "options": [
+            "some",
+            "any",
+            "no any"
+          ],
+          "answer": "some",
+          "explain": {
+            "ua": "Ствердження → some.",
+            "ru": "Утверждение → some."
+          },
+          "id": "a2-u06-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any",
+          "question": "Have you got ___ questions?",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "answer": "any",
+          "explain": {
+            "ua": "Питання → any.",
+            "ru": "Вопрос → any."
+          },
+          "id": "a2-u06-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any",
+          "question": "We haven't got ___ bread.",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "answer": "any",
+          "explain": {
+            "ua": "Заперечення → any.",
+            "ru": "Отрицание → any."
+          },
+          "id": "a2-u06-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any",
+          "question": "Would you like ___ tea?",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "answer": "some",
+          "explain": {
+            "ua": "Пропозиція → some.",
+            "ru": "Предложение → some."
+          },
+          "id": "a2-u06-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "some-any",
+          "bank": [
+            "some",
+            "any"
+          ],
+          "reuse": true,
+          "sentences": [
+            "There's ___ milk in the fridge.",
+            "Is there ___ cheese?",
+            "I don't want ___ sugar.",
+            "Can I have ___ water, please?"
+          ],
+          "answers": [
+            "some",
+            "any",
+            "any",
+            "some"
+          ],
+          "explain": {
+            "ua": "+ some, ? / − any, прохання → some.",
+            "ru": "+ some, ? / − any, просьба → some."
+          },
+          "id": "a2-u06-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any",
+          "sentence": "I didn't buy some bread.",
+          "answer": "I didn't buy any bread.",
+          "accept": [
+            "I did not buy any bread."
+          ],
+          "explain": {
+            "ua": "Заперечення → any.",
+            "ru": "Отрицание → any."
+          },
+          "id": "a2-u06-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any",
+          "sentence": "There are any apples on the table.",
+          "answer": "There are some apples on the table.",
+          "accept": [],
+          "explain": {
+            "ua": "Ствердження → some.",
+            "ru": "Утверждение → some."
+          },
+          "id": "a2-u06-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "some-any",
+          "audio_text": "Are there any eggs?",
+          "options": [
+            "Are there any eggs?",
+            "Are there some eggs?",
+            "Are there any legs?"
+          ],
+          "answer": "Are there any eggs?",
+          "audio": "",
+          "explain": {
+            "ua": "Any — «ені».",
+            "ru": "Any — «эни»."
+          },
+          "id": "a2-u06-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "some-any",
+          "prompt": {
+            "ua": "Мені потрібна порада.",
+            "ru": "Мне нужен совет."
+          },
+          "answer": "I need some advice.",
+          "accept": [
+            "I need advice."
+          ],
+          "explain": {
+            "ua": "Advice — незлічуване: some advice.",
+            "ru": "Advice — неисчисляемое: some advice."
+          },
+          "id": "a2-u06-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u06-l02",
+      "title": {
+        "en": "no / not any",
+        "ua": "no / not any",
+        "ru": "no / not any"
+      },
+      "recap": {
+        "from": "a2-u06-l01",
+        "note": {
+          "ua": "Згадаймо: + some · − any · ? any (але Would you like some…?)",
+          "ru": "Вспомним: + some · − any · ? any (но Would you like some…?)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "some-any",
+            "question": "I've got ___ friends in London.",
+            "options": [
+              "some",
+              "any",
+              "no any"
+            ],
+            "answer": "some",
+            "explain": {
+              "ua": "Ствердження → some.",
+              "ru": "Утверждение → some."
+            },
+            "id": "a2-u06-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "some-any",
+            "question": "Would you like ___ tea?",
+            "options": [
+              "some",
+              "any",
+              "no"
+            ],
+            "answer": "some",
+            "explain": {
+              "ua": "Пропозиція → some.",
+              "ru": "Предложение → some."
+            },
+            "id": "a2-u06-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "There isn't any… = There's no… · no + іменник без артикля",
+          "ru": "There isn't any… = There's no… · no + существительное без артикля"
+        },
+        "explain": {
+          "ua": "No = not any. Після no дієслово стверджувальне: There's no milk (не There isn't no milk). I have no time = I haven't got any time.",
+          "ru": "No = not any. После no глагол утвердительный: There's no milk (не There isn't no milk). I have no time = I haven't got any time."
+        },
+        "examples": [
+          {
+            "en": "There's no milk.",
+            "ua": "Немає молока.",
+            "ru": "Нет молока."
+          },
+          {
+            "en": "I have no time.",
+            "ua": "У мене немає часу.",
+            "ru": "У меня нет времени."
+          },
+          {
+            "en": "No problem!",
+            "ua": "Без проблем!",
+            "ru": "Без проблем!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "some-any-no",
+          "question": "There's ___ sugar. (= there isn't any)",
+          "options": [
+            "no",
+            "any",
+            "not"
+          ],
+          "answer": "no",
+          "explain": {
+            "ua": "No = not any.",
+            "ru": "No = not any."
+          },
+          "id": "a2-u06-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-no",
+          "question": "There isn't ___ coffee.",
+          "options": [
+            "any",
+            "no",
+            "some"
+          ],
+          "answer": "any",
+          "explain": {
+            "ua": "Isn't + any.",
+            "ru": "Isn't + any."
+          },
+          "id": "a2-u06-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-no",
+          "question": "I've got ___ idea!",
+          "options": [
+            "no",
+            "any",
+            "not"
+          ],
+          "answer": "no",
+          "explain": {
+            "ua": "I've got no idea — гадки не маю.",
+            "ru": "I've got no idea — понятия не имею."
+          },
+          "id": "a2-u06-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-no",
+          "question": "There are ___ shops near here.",
+          "options": [
+            "no",
+            "any",
+            "not"
+          ],
+          "answer": "no",
+          "explain": {
+            "ua": "Are + no = aren't any.",
+            "ru": "Are + no = aren't any."
+          },
+          "id": "a2-u06-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "some-any-no",
+          "pairs": [
+            {
+              "left": "There isn't any milk.",
+              "right": "There's no milk."
+            },
+            {
+              "left": "I haven't got any time.",
+              "right": "I've got no time."
+            },
+            {
+              "left": "There aren't any chairs.",
+              "right": "There are no chairs."
+            }
+          ],
+          "explain": {
+            "ua": "Not any = no.",
+            "ru": "Not any = no."
+          },
+          "id": "a2-u06-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any-no",
+          "sentence": "There isn't no bread.",
+          "answer": "There isn't any bread.",
+          "accept": [
+            "There is no bread.",
+            "There's no bread."
+          ],
+          "explain": {
+            "ua": "Не два заперечення: isn't any або is no.",
+            "ru": "Не два отрицания: isn't any или is no."
+          },
+          "id": "a2-u06-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any-no",
+          "sentence": "I have not money.",
+          "answer": "I have no money.",
+          "accept": [
+            "I haven't got any money.",
+            "I don't have any money.",
+            "I've got no money."
+          ],
+          "explain": {
+            "ua": "No + іменник.",
+            "ru": "No + существительное."
+          },
+          "id": "a2-u06-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "some-any-no",
+          "audio_text": "No problem!",
+          "options": [
+            "No problem!",
+            "Know problem!",
+            "Not problem!"
+          ],
+          "answer": "No problem!",
+          "audio": "",
+          "explain": {
+            "ua": "No problem — без проблем.",
+            "ru": "No problem — без проблем."
+          },
+          "id": "a2-u06-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "some-any-no",
+          "prompt": {
+            "ua": "У холодильнику немає сиру.",
+            "ru": "В холодильнике нет сыра."
+          },
+          "answer": "There's no cheese in the fridge.",
+          "accept": [
+            "There is no cheese in the fridge.",
+            "There isn't any cheese in the fridge."
+          ],
+          "explain": {
+            "ua": "There's no…",
+            "ru": "There's no…"
+          },
+          "id": "a2-u06-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u06-l03",
+      "title": {
+        "en": "something, anybody, nowhere + practice",
+        "ua": "something, anybody, nowhere + практика",
+        "ru": "something, anybody, nowhere + практика"
+      },
+      "recap": {
+        "from": "a2-u06-l02",
+        "note": {
+          "ua": "Згадаймо: There isn't any… = There's no… · no + іменник без артикля",
+          "ru": "Вспомним: There isn't any… = There's no… · no + существительное без артикля"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "some-any-no",
+            "question": "There's ___ sugar. (= there isn't any)",
+            "options": [
+              "no",
+              "any",
+              "not"
+            ],
+            "answer": "no",
+            "explain": {
+              "ua": "No = not any.",
+              "ru": "No = not any."
+            },
+            "id": "a2-u06-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "some-any-no",
+            "question": "There are ___ shops near here.",
+            "options": [
+              "no",
+              "any",
+              "not"
+            ],
+            "answer": "no",
+            "explain": {
+              "ua": "Are + no = aren't any.",
+              "ru": "Are + no = aren't any."
+            },
+            "id": "a2-u06-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "some- / any- / no- + thing (річ) · body (людина) · where (місце)",
+          "ru": "some- / any- / no- + thing (вещь) · body (человек) · where (место)"
+        },
+        "explain": {
+          "ua": "Ті самі правила: something / somebody / somewhere — у ствердженні; anything / anybody / anywhere — у питаннях і запереченнях; nothing / nobody / nowhere = not any-.",
+          "ru": "Те же правила: something / somebody / somewhere — в утверждении; anything / anybody / anywhere — в вопросах и отрицаниях; nothing / nobody / nowhere = not any-."
+        },
+        "examples": [
+          {
+            "en": "Somebody is at the door.",
+            "ua": "Хтось біля дверей.",
+            "ru": "Кто-то у двери."
+          },
+          {
+            "en": "I didn't see anything.",
+            "ua": "Я нічого не бачив.",
+            "ru": "Я ничего не видел."
+          },
+          {
+            "en": "Nobody knows.",
+            "ua": "Ніхто не знає.",
+            "ru": "Никто не знает."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "some-any-compounds",
+          "question": "I'm hungry. I want ___ to eat.",
+          "options": [
+            "something",
+            "anything",
+            "nothing"
+          ],
+          "answer": "something",
+          "explain": {
+            "ua": "Ствердження → something.",
+            "ru": "Утверждение → something."
+          },
+          "id": "a2-u06-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-compounds",
+          "question": "Is there ___ here? Hello?",
+          "options": [
+            "anybody",
+            "somebody",
+            "nobody"
+          ],
+          "answer": "anybody",
+          "explain": {
+            "ua": "Питання → anybody.",
+            "ru": "Вопрос → anybody."
+          },
+          "id": "a2-u06-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-compounds",
+          "question": "I didn't buy ___ .",
+          "options": [
+            "anything",
+            "something",
+            "nothing"
+          ],
+          "answer": "anything",
+          "explain": {
+            "ua": "Didn't + anything.",
+            "ru": "Didn't + anything."
+          },
+          "id": "a2-u06-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-compounds",
+          "question": "___ called you. I don't know who.",
+          "options": [
+            "Somebody",
+            "Anybody",
+            "Nobody"
+          ],
+          "answer": "Somebody",
+          "explain": {
+            "ua": "Хтось — somebody.",
+            "ru": "Кто-то — somebody."
+          },
+          "id": "a2-u06-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "some-any-compounds",
+          "question": "There's ___ to park here. Let's go.",
+          "options": [
+            "nowhere",
+            "anywhere",
+            "somewhere"
+          ],
+          "answer": "nowhere",
+          "explain": {
+            "ua": "Ніде — nowhere.",
+            "ru": "Нигде — nowhere."
+          },
+          "id": "a2-u06-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "some-any-compounds",
+          "pairs": [
+            {
+              "left": "something",
+              "right": {
+                "ua": "щось",
+                "ru": "что-то"
+              }
+            },
+            {
+              "left": "nobody",
+              "right": {
+                "ua": "ніхто",
+                "ru": "никто"
+              }
+            },
+            {
+              "left": "anywhere",
+              "right": {
+                "ua": "будь-де",
+                "ru": "где-нибудь"
+              }
+            },
+            {
+              "left": "nothing",
+              "right": {
+                "ua": "нічого",
+                "ru": "ничего"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Some- / any- / no-.",
+            "ru": "Some- / any- / no-."
+          },
+          "id": "a2-u06-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any-compounds",
+          "sentence": "I didn't see nothing.",
+          "answer": "I didn't see anything.",
+          "accept": [
+            "I saw nothing.",
+            "I did not see anything."
+          ],
+          "explain": {
+            "ua": "Не два заперечення.",
+            "ru": "Не два отрицания."
+          },
+          "id": "a2-u06-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "some-any-compounds",
+          "sentence": "Nobody don't know.",
+          "answer": "Nobody knows.",
+          "accept": [],
+          "explain": {
+            "ua": "Nobody + стверджувальне дієслово.",
+            "ru": "Nobody + утвердительный глагол."
+          },
+          "id": "a2-u06-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "some-any-compounds",
+          "prompt": {
+            "ua": "Давай поїдемо кудись на вихідних.",
+            "ru": "Давай поедем куда-нибудь на выходных."
+          },
+          "answer": "Let's go somewhere at the weekend.",
+          "accept": [
+            "Let's go somewhere on the weekend.",
+            "Let's go somewhere this weekend."
+          ],
+          "explain": {
+            "ua": "Somewhere.",
+            "ru": "Somewhere."
+          },
+          "id": "a2-u06-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "There's ___ milk in the fridge.",
+      "options": [
+        "some",
+        "any",
+        "no any"
+      ],
+      "answer": "some",
+      "explain": {
+        "ua": "+ → some.",
+        "ru": "+ → some."
+      },
+      "id": "a2-u06-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "Have you got ___ brothers?",
+      "options": [
+        "any",
+        "some",
+        "no"
+      ],
+      "answer": "any",
+      "explain": {
+        "ua": "? → any.",
+        "ru": "? → any."
+      },
+      "id": "a2-u06-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "There's ___ sugar. Sorry!",
+      "options": [
+        "no",
+        "any",
+        "not"
+      ],
+      "answer": "no",
+      "explain": {
+        "ua": "No = not any.",
+        "ru": "No = not any."
+      },
+      "id": "a2-u06-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "I didn't see ___ .",
+      "options": [
+        "anybody",
+        "somebody",
+        "nobody"
+      ],
+      "answer": "anybody",
+      "explain": {
+        "ua": "Didn't + anybody.",
+        "ru": "Didn't + anybody."
+      },
+      "id": "a2-u06-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "Would you like ___ cake?",
+      "options": [
+        "some",
+        "any",
+        "no"
+      ],
+      "answer": "some",
+      "explain": {
+        "ua": "Пропозиція → some.",
+        "ru": "Предложение → some."
+      },
+      "id": "a2-u06-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "some-any",
+      "question": "___ knows the answer. (no one)",
+      "answer": "Nobody",
+      "accept": [
+        "No one",
+        "Noone"
+      ],
+      "explain": {
+        "ua": "Ніхто — nobody.",
+        "ru": "Никто — nobody."
+      },
+      "id": "a2-u06-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "some-any",
+      "question": "I want ___ sweet. (some + thing)",
+      "answer": "something",
+      "accept": [],
+      "explain": {
+        "ua": "Щось — something.",
+        "ru": "Что-то — something."
+      },
+      "id": "a2-u06-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "some-any",
+      "sentence": "I haven't got no time.",
+      "answer": "I haven't got any time.",
+      "accept": [
+        "I've got no time.",
+        "I have no time."
+      ],
+      "explain": {
+        "ua": "Не два заперечення.",
+        "ru": "Не два отрицания."
+      },
+      "id": "a2-u06-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "some-any",
+      "sentence": "Is there somebody here?",
+      "answer": "Is there anybody here?",
+      "accept": [
+        "Is anybody here?"
+      ],
+      "explain": {
+        "ua": "Питання → anybody.",
+        "ru": "Вопрос → anybody."
+      },
+      "id": "a2-u06-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "shops",
+        "no",
+        "here",
+        "are",
+        "near",
+        "There"
+      ],
+      "answer": "There are no shops near here",
+      "explain": {
+        "ua": "There are → no shops → near here.",
+        "ru": "There are → no shops → near here."
+      },
+      "id": "a2-u06-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "some-any",
+      "prompt": {
+        "ua": "Я нічого не купила.",
+        "ru": "Я ничего не купила."
+      },
+      "answer": "I didn't buy anything.",
+      "accept": [
+        "I bought nothing.",
+        "I did not buy anything."
+      ],
+      "explain": {
+        "ua": "Didn't + anything.",
+        "ru": "Didn't + anything."
+      },
+      "id": "a2-u06-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "some-any",
+      "audio_text": "Is there anything in the fridge?",
+      "options": [
+        "Is there anything in the fridge?",
+        "Is there something in the fridge?",
+        "Is there anything in the bridge?"
+      ],
+      "answer": "Is there anything in the fridge?",
+      "audio": "",
+      "explain": {
+        "ua": "Anything.",
+        "ru": "Anything."
+      },
+      "id": "a2-u06-cp12"
+    }
+  ]
+}

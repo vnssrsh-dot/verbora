@@ -1,0 +1,1018 @@
+{
+  "id": "b2-u18",
+  "level": "B2",
+  "order": 18,
+  "kind": "grammar",
+  "title": {
+    "en": "Giving opinions and arguing",
+    "ua": "Аргументація й думка",
+    "ru": "Аргументация и мнение"
+  },
+  "rule": {
+    "formula": {
+      "ua": "думка: In my view…, I'd argue that… · згода: I couldn't agree more · незгода: I see your point, but… · протиставлення: whereas, while, despite",
+      "ru": "мнение: In my view…, I'd argue that… · согласие: I couldn't agree more · несогласие: I see your point, but… · противопоставление: whereas, while, despite"
+    },
+    "explain": {
+      "ua": "На рівні B2 важливо не лише сказати «я думаю», а й аргументувати, м'яко не погодитися й порівняти дві сторони.",
+      "ru": "На уровне B2 важно не только сказать «я думаю», но и аргументировать, мягко не согласиться и сравнить две стороны."
+    },
+    "examples": [
+      {
+        "en": "In my view, remote work is more productive.",
+        "ua": "На мою думку, віддалена робота продуктивніша.",
+        "ru": "По-моему, удалённая работа продуктивнее."
+      },
+      {
+        "en": "I see your point, but I'm not sure that's true.",
+        "ua": "Розумію твою думку, але не впевнений, що це правда.",
+        "ru": "Понимаю твою мысль, но не уверен, что это правда."
+      },
+      {
+        "en": "Despite the rain, we enjoyed the trip.",
+        "ua": "Попри дощ, нам сподобалася поїздка.",
+        "ru": "Несмотря на дождь, нам понравилась поездка."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "in my view",
+      "ipa": "/ɪn maɪ ˈvjuː/",
+      "ua": "на мою думку",
+      "ru": "на мой взгляд",
+      "example": "In my view, it's wrong.",
+      "audio": ""
+    },
+    {
+      "word": "I'd argue that",
+      "ipa": "/aɪd ˈɑːɡjuː ðæt/",
+      "ua": "я б стверджував, що",
+      "ru": "я бы утверждал, что",
+      "example": "I'd argue that it's too expensive.",
+      "audio": ""
+    },
+    {
+      "word": "as far as I'm concerned",
+      "ipa": "/əz ˌfɑːr əz aɪm kənˈsɜːnd/",
+      "ua": "що стосується мене",
+      "ru": "что касается меня",
+      "example": "As far as I'm concerned, it's fine.",
+      "audio": ""
+    },
+    {
+      "word": "I couldn't agree more",
+      "ipa": "/aɪ ˌkʊdnt əˈɡriː mɔː/",
+      "ua": "цілком згоден",
+      "ru": "полностью согласен",
+      "example": "— It's too hot. — I couldn't agree more.",
+      "audio": ""
+    },
+    {
+      "word": "I see your point, but…",
+      "ipa": "/aɪ ˌsiː jə ˈpɔɪnt bʌt/",
+      "ua": "розумію, але…",
+      "ru": "понимаю, но…",
+      "example": "I see your point, but it's risky.",
+      "audio": ""
+    },
+    {
+      "word": "I'm not so sure",
+      "ipa": "/aɪm ˌnɒt səʊ ˈʃʊə/",
+      "ua": "я не такий певний",
+      "ru": "я не так уверен",
+      "example": "I'm not so sure about that.",
+      "audio": ""
+    },
+    {
+      "word": "whereas",
+      "ipa": "/weərˈæz/",
+      "ua": "тоді як",
+      "ru": "тогда как",
+      "example": "I like tea, whereas he likes coffee.",
+      "audio": ""
+    },
+    {
+      "word": "despite / in spite of",
+      "ipa": "/dɪˈspaɪt/",
+      "ua": "попри",
+      "ru": "несмотря на",
+      "example": "despite the cold",
+      "audio": ""
+    },
+    {
+      "word": "advantage / disadvantage",
+      "ipa": "/ədˈvɑːntɪdʒ/",
+      "ua": "перевага / недолік",
+      "ru": "преимущество / недостаток",
+      "example": "the advantages of city life",
+      "audio": ""
+    },
+    {
+      "word": "pros and cons",
+      "ipa": "/ˌprəʊz ən ˈkɒnz/",
+      "ua": "за і проти",
+      "ru": "за и против",
+      "example": "Let's look at the pros and cons.",
+      "audio": ""
+    },
+    {
+      "word": "on the whole",
+      "ipa": "/ɒn ðə ˈhəʊl/",
+      "ua": "загалом",
+      "ru": "в целом",
+      "example": "On the whole, I agree.",
+      "audio": ""
+    },
+    {
+      "word": "it depends",
+      "ipa": "/ɪt dɪˈpendz/",
+      "ua": "залежить",
+      "ru": "зависит",
+      "example": "It depends on the situation.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u18-l01",
+      "title": {
+        "en": "Opinion and agreement",
+        "ua": "Думка й згода",
+        "ru": "Мнение и согласие"
+      },
+      "recap": {
+        "from": "b2-u17-l02",
+        "note": {
+          "ua": "Згадаймо: -ing (одночасно / причина) · Having + V3 (спочатку одне, потім інше) · V3 (пасивне значення)",
+          "ru": "Вспомним: -ing (одновременно / причина) · Having + V3 (сначала одно, потом другое) · V3 (пассивное значение)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "participle-clauses",
+            "question": "___ the door, she saw a big dog.",
+            "options": [
+              "Opening",
+              "Opened",
+              "Having open"
+            ],
+            "answer": "Opening",
+            "explain": {
+              "ua": "Одночасно → -ing.",
+              "ru": "Одновременно → -ing."
+            },
+            "id": "b2-u18-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "participle-clauses",
+            "question": "___ the news, she started crying.",
+            "options": [
+              "Having heard",
+              "Heard",
+              "Hear"
+            ],
+            "answer": "Having heard",
+            "explain": {
+              "ua": "Спочатку почула.",
+              "ru": "Сначала услышала."
+            },
+            "id": "b2-u18-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "In my view / opinion · As far as I'm concerned · I'd argue that · I (totally) agree · I couldn't agree more · I see your point, but… · I'm not so sure",
+        "explain": {
+          "ua": "Незгоду в англійській висловлюють м'яко: замість «You're wrong» — «I see your point, but…» або «I'm not so sure about that».",
+          "ru": "Несогласие в английском выражают мягко: вместо «You're wrong» — «I see your point, but…» или «I'm not so sure about that»."
+        },
+        "examples": [
+          {
+            "en": "As far as I'm concerned, it's a great idea.",
+            "ua": "Як на мене, це чудова ідея.",
+            "ru": "Как по мне, это отличная идея."
+          },
+          {
+            "en": "— Social media is dangerous. — I couldn't agree more.",
+            "ua": "— Соцмережі небезпечні. — Цілком згоден.",
+            "ru": "— Соцсети опасны. — Полностью согласен."
+          },
+          {
+            "en": "I see your point, but I think it depends.",
+            "ua": "Розумію, але думаю, що залежить від ситуації.",
+            "ru": "Понимаю, но думаю, что зависит от ситуации."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "opinions",
+          "question": "— Cities are too noisy. — I couldn't agree ___ .",
+          "options": [
+            "more",
+            "less",
+            "most"
+          ],
+          "answer": "more",
+          "explain": {
+            "ua": "I couldn't agree more = повністю згоден.",
+            "ru": "I couldn't agree more = полностью согласен."
+          },
+          "id": "b2-u18-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "opinions",
+          "question": "I see your ___ , but I don't think it'll work.",
+          "options": [
+            "point",
+            "view",
+            "idea"
+          ],
+          "answer": "point",
+          "explain": {
+            "ua": "I see your point.",
+            "ru": "I see your point."
+          },
+          "id": "b2-u18-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "opinions",
+          "question": "___ my view, we should leave earlier.",
+          "options": [
+            "In",
+            "On",
+            "At"
+          ],
+          "answer": "In",
+          "explain": {
+            "ua": "In my view.",
+            "ru": "In my view."
+          },
+          "id": "b2-u18-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "opinions",
+          "question": "As far as I'm ___ , the price is too high.",
+          "options": [
+            "concerned",
+            "concerning",
+            "concern"
+          ],
+          "answer": "concerned",
+          "explain": {
+            "ua": "As far as I'm concerned.",
+            "ru": "As far as I'm concerned."
+          },
+          "id": "b2-u18-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "opinions",
+          "question": {
+            "ua": "Яка відповідь — м'яка незгода?",
+            "ru": "Какой ответ — мягкое несогласие?"
+          },
+          "options": [
+            "I'm not so sure about that.",
+            "You're wrong!",
+            "No way!"
+          ],
+          "answer": "I'm not so sure about that.",
+          "explain": {
+            "ua": "М'яко.",
+            "ru": "Мягко."
+          },
+          "id": "b2-u18-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "opinions",
+          "pairs": [
+            {
+              "left": "I couldn't agree more.",
+              "right": {
+                "ua": "Цілком згоден.",
+                "ru": "Полностью согласен."
+              }
+            },
+            {
+              "left": "I see your point, but…",
+              "right": {
+                "ua": "Розумію, але…",
+                "ru": "Понимаю, но…"
+              }
+            },
+            {
+              "left": "I'm not so sure.",
+              "right": {
+                "ua": "Я не певен.",
+                "ru": "Я не уверен."
+              }
+            },
+            {
+              "left": "It depends.",
+              "right": {
+                "ua": "Залежить.",
+                "ru": "Зависит."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази.",
+            "ru": "Фразы."
+          },
+          "id": "b2-u18-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "opinions",
+          "sentence": "I am agree with you.",
+          "answer": "I agree with you.",
+          "accept": [],
+          "explain": {
+            "ua": "Agree — дієслово, без am.",
+            "ru": "Agree — глагол, без am."
+          },
+          "id": "b2-u18-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "opinions",
+          "sentence": "In my opinion, I think it's good.",
+          "answer": "In my opinion, it's good.",
+          "accept": [
+            "I think it's good."
+          ],
+          "explain": {
+            "ua": "Не подвоюй: in my opinion = I think.",
+            "ru": "Не дублируй: in my opinion = I think."
+          },
+          "id": "b2-u18-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "opinions",
+          "prompt": {
+            "ua": "Я з тобою повністю згодна.",
+            "ru": "Я с тобой полностью согласна."
+          },
+          "answer": "I completely agree with you.",
+          "accept": [
+            "I totally agree with you.",
+            "I couldn't agree more.",
+            "I agree with you completely.",
+            "I fully agree with you."
+          ],
+          "explain": {
+            "ua": "Agree.",
+            "ru": "Agree."
+          },
+          "id": "b2-u18-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u18-l02",
+      "title": {
+        "en": "Contrast",
+        "ua": "Протиставлення",
+        "ru": "Противопоставление"
+      },
+      "recap": {
+        "from": "b2-u18-l01",
+        "note": {
+          "ua": "Згадаймо: In my view / opinion · As far as I'm concerned · I'd argue that · I (totally) agree · I couldn't agree more · I see your point, but… · I'm not so sure",
+          "ru": "Вспомним: In my view / opinion · As far as I'm concerned · I'd argue that · I (totally) agree · I couldn't agree more · I see your point, but… · I'm not so sure"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "opinions",
+            "question": "— Cities are too noisy. — I couldn't agree ___ .",
+            "options": [
+              "more",
+              "less",
+              "most"
+            ],
+            "answer": "more",
+            "explain": {
+              "ua": "I couldn't agree more = повністю згоден.",
+              "ru": "I couldn't agree more = полностью согласен."
+            },
+            "id": "b2-u18-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "opinions",
+            "question": {
+              "ua": "Яка відповідь — м'яка незгода?",
+              "ru": "Какой ответ — мягкое несогласие?"
+            },
+            "options": [
+              "I'm not so sure about that.",
+              "You're wrong!",
+              "No way!"
+            ],
+            "answer": "I'm not so sure about that.",
+            "explain": {
+              "ua": "М'яко.",
+              "ru": "Мягко."
+            },
+            "id": "b2-u18-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "whereas / while + речення · despite / in spite of + іменник або -ing · although + речення",
+          "ru": "whereas / while + предложение · despite / in spite of + существительное или -ing · although + предложение"
+        },
+        "explain": {
+          "ua": "Despite the rain (іменник), despite being tired (-ing). Although it was raining (речення). Не можна: despite it was raining. Whereas — порівнюємо дві речі: She's tall, whereas her sister is short.",
+          "ru": "Despite the rain (существительное), despite being tired (-ing). Although it was raining (предложение). Нельзя: despite it was raining. Whereas — сравниваем две вещи: She's tall, whereas her sister is short."
+        },
+        "examples": [
+          {
+            "en": "Despite the traffic, we arrived on time.",
+            "ua": "Попри затори, ми приїхали вчасно.",
+            "ru": "Несмотря на пробки, мы приехали вовремя."
+          },
+          {
+            "en": "In spite of being ill, she went to work.",
+            "ua": "Попри хворобу, вона пішла на роботу.",
+            "ru": "Несмотря на болезнь, она пошла на работу."
+          },
+          {
+            "en": "I prefer the sea, whereas my husband loves the mountains.",
+            "ua": "Я люблю море, а мій чоловік — гори.",
+            "ru": "Я люблю море, а мой муж — горы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "contrast",
+          "question": "___ the rain, we went for a walk.",
+          "options": [
+            "Despite",
+            "Although",
+            "Whereas"
+          ],
+          "answer": "Despite",
+          "explain": {
+            "ua": "Despite + іменник.",
+            "ru": "Despite + существительное."
+          },
+          "id": "b2-u18-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "contrast",
+          "question": "___ it was raining, we went for a walk.",
+          "options": [
+            "Although",
+            "Despite",
+            "In spite of"
+          ],
+          "answer": "Although",
+          "explain": {
+            "ua": "Although + речення.",
+            "ru": "Although + предложение."
+          },
+          "id": "b2-u18-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "contrast",
+          "question": "In spite of ___ tired, he finished the race.",
+          "options": [
+            "being",
+            "he was",
+            "be"
+          ],
+          "answer": "being",
+          "explain": {
+            "ua": "In spite of + -ing.",
+            "ru": "In spite of + -ing."
+          },
+          "id": "b2-u18-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "contrast",
+          "question": "My sister is very sociable, ___ I'm quite shy.",
+          "options": [
+            "whereas",
+            "despite",
+            "in spite of"
+          ],
+          "answer": "whereas",
+          "explain": {
+            "ua": "Порівняння → whereas.",
+            "ru": "Сравнение → whereas."
+          },
+          "id": "b2-u18-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "contrast",
+          "question": "Despite ___ hard, he failed the exam.",
+          "options": [
+            "studying",
+            "he studied",
+            "study"
+          ],
+          "answer": "studying",
+          "explain": {
+            "ua": "Despite + -ing.",
+            "ru": "Despite + -ing."
+          },
+          "id": "b2-u18-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "contrast",
+          "bank": [
+            "Despite",
+            "Although",
+            "whereas",
+            "In spite of"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ the cold, we swam.",
+            "___ it was cold, we swam.",
+            "I like summer, ___ she likes winter.",
+            "___ having little money, they were happy."
+          ],
+          "answers": [
+            "Despite",
+            "Although",
+            "whereas",
+            "In spite of"
+          ],
+          "explain": {
+            "ua": "Іменник / речення / порівняння.",
+            "ru": "Существительное / предложение / сравнение."
+          },
+          "id": "b2-u18-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "contrast",
+          "sentence": "Despite it was late, we stayed.",
+          "answer": "Although it was late, we stayed.",
+          "accept": [
+            "Despite the late hour, we stayed.",
+            "Despite it being late, we stayed."
+          ],
+          "explain": {
+            "ua": "Речення → although.",
+            "ru": "Предложение → although."
+          },
+          "id": "b2-u18-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "contrast",
+          "sentence": "In spite of the rain, but we went out.",
+          "answer": "In spite of the rain, we went out.",
+          "accept": [],
+          "explain": {
+            "ua": "Без but.",
+            "ru": "Без but."
+          },
+          "id": "b2-u18-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "contrast",
+          "prompt": {
+            "ua": "Попри холод, ми купалися.",
+            "ru": "Несмотря на холод, мы купались."
+          },
+          "answer": "Despite the cold, we went swimming.",
+          "accept": [
+            "In spite of the cold, we went swimming.",
+            "Despite the cold, we swam.",
+            "In spite of the cold, we swam."
+          ],
+          "explain": {
+            "ua": "Despite.",
+            "ru": "Despite."
+          },
+          "id": "b2-u18-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u18-l03",
+      "title": {
+        "en": "Practice: pros and cons",
+        "ua": "Практика: за і проти",
+        "ru": "Практика: за и против"
+      },
+      "recap": {
+        "from": "b2-u18-l02",
+        "note": {
+          "ua": "Згадаймо: whereas / while + речення · despite / in spite of + іменник або -ing · although + речення",
+          "ru": "Вспомним: whereas / while + предложение · despite / in spite of + существительное или -ing · although + предложение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "contrast",
+            "question": "___ the rain, we went for a walk.",
+            "options": [
+              "Despite",
+              "Although",
+              "Whereas"
+            ],
+            "answer": "Despite",
+            "explain": {
+              "ua": "Despite + іменник.",
+              "ru": "Despite + существительное."
+            },
+            "id": "b2-u18-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "contrast",
+            "question": "Despite ___ hard, he failed the exam.",
+            "options": [
+              "studying",
+              "he studied",
+              "study"
+            ],
+            "answer": "studying",
+            "explain": {
+              "ua": "Despite + -ing.",
+              "ru": "Despite + -ing."
+            },
+            "id": "b2-u18-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The writer thinks remote work has only advantages.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "One disadvantage is feeling lonely.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What is the writer's conclusion?",
+              "options": [
+                "a mix of home and office is best",
+                "everyone should work in an office",
+                "remote work is terrible"
+              ],
+              "answer": "a mix of home and office is best"
+            }
+          ],
+          "text": "Remote work: pros and cons. On the one hand, working from home has clear advantages: there's no commute and you can organise your day more flexibly. On the other hand, many people feel lonely, and it's hard to switch off when your office is your kitchen. Despite these problems, I'd argue that remote work is here to stay. On the whole, as far as I'm concerned, a mix of home and office is the best solution.",
+          "explain": {
+            "ua": "Pros: no commute, flexible; cons: lonely, hard to switch off; conclusion: hybrid.",
+            "ru": "Pros: no commute, flexible; cons: lonely, hard to switch off; conclusion: hybrid."
+          },
+          "id": "b2-u18-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "argumentation",
+          "bank": [
+            "On the one hand",
+            "On the other hand",
+            "Despite",
+            "I'd argue",
+            "On the whole"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___, there's no commute.",
+            "___, many people feel lonely.",
+            "___ these problems, it's here to stay.",
+            "___ that remote work is the future.",
+            "___, a mix is best."
+          ],
+          "answers": [
+            "On the one hand",
+            "On the other hand",
+            "Despite",
+            "I'd argue",
+            "On the whole"
+          ],
+          "explain": {
+            "ua": "Структура аргументу.",
+            "ru": "Структура аргумента."
+          },
+          "id": "b2-u18-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "argumentation",
+          "question": "What does 'commute' mean?",
+          "options": [
+            "the journey to and from work",
+            "a meeting",
+            "a salary"
+          ],
+          "answer": "the journey to and from work",
+          "explain": {
+            "ua": "Commute — дорога на роботу.",
+            "ru": "Commute — дорога на работу."
+          },
+          "id": "b2-u18-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "argumentation",
+          "question": "What are the ___ and cons of living in a big city?",
+          "options": [
+            "pros",
+            "advantages",
+            "goods"
+          ],
+          "answer": "pros",
+          "explain": {
+            "ua": "Pros and cons.",
+            "ru": "Pros and cons."
+          },
+          "id": "b2-u18-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "argumentation",
+          "sentence": "In other hand, it's expensive.",
+          "answer": "On the other hand, it's expensive.",
+          "accept": [],
+          "explain": {
+            "ua": "ON the other hand.",
+            "ru": "ON the other hand."
+          },
+          "id": "b2-u18-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "argumentation",
+          "sentence": "Despite of the problems, it works.",
+          "answer": "Despite the problems, it works.",
+          "accept": [
+            "In spite of the problems, it works."
+          ],
+          "explain": {
+            "ua": "Despite — без of.",
+            "ru": "Despite — без of."
+          },
+          "id": "b2-u18-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "argumentation",
+          "audio_text": "On the whole, I agree.",
+          "options": [
+            "On the whole, I agree.",
+            "On the hole, I agree.",
+            "In the whole, I agree."
+          ],
+          "answer": "On the whole, I agree.",
+          "audio": "",
+          "explain": {
+            "ua": "On the whole.",
+            "ru": "On the whole."
+          },
+          "id": "b2-u18-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "argumentation",
+          "prompt": {
+            "ua": "З одного боку, це дешево. З іншого боку, це далеко.",
+            "ru": "С одной стороны, это дёшево. С другой стороны, это далеко."
+          },
+          "answer": "On the one hand, it's cheap. On the other hand, it's far.",
+          "accept": [
+            "On one hand, it's cheap. On the other hand, it's far.",
+            "On the one hand, it is cheap. On the other hand, it is far away.",
+            "On the one hand it's cheap, on the other hand it's far."
+          ],
+          "explain": {
+            "ua": "On the one hand… on the other hand.",
+            "ru": "On the one hand… on the other hand."
+          },
+          "id": "b2-u18-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "opinions",
+      "question": "— This film is brilliant. — I couldn't agree ___ .",
+      "options": [
+        "more",
+        "less",
+        "better"
+      ],
+      "answer": "more",
+      "explain": {
+        "ua": "I couldn't agree more.",
+        "ru": "I couldn't agree more."
+      },
+      "id": "b2-u18-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "opinions",
+      "question": "I see your ___ , but I disagree.",
+      "options": [
+        "point",
+        "opinion",
+        "idea"
+      ],
+      "answer": "point",
+      "explain": {
+        "ua": "I see your point.",
+        "ru": "I see your point."
+      },
+      "id": "b2-u18-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "contrast",
+      "question": "___ the noise, I slept well.",
+      "options": [
+        "Despite",
+        "Although",
+        "Whereas"
+      ],
+      "answer": "Despite",
+      "explain": {
+        "ua": "Despite.",
+        "ru": "Despite."
+      },
+      "id": "b2-u18-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "contrast",
+      "question": "I love cats, ___ my husband prefers dogs.",
+      "options": [
+        "whereas",
+        "despite",
+        "in spite"
+      ],
+      "answer": "whereas",
+      "explain": {
+        "ua": "Whereas.",
+        "ru": "Whereas."
+      },
+      "id": "b2-u18-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "opinions",
+      "question": "___ my view, it's too risky.",
+      "options": [
+        "In",
+        "On",
+        "From"
+      ],
+      "answer": "In",
+      "explain": {
+        "ua": "In my view.",
+        "ru": "In my view."
+      },
+      "id": "b2-u18-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "opinions",
+      "question": "___ the whole, it was a good year.",
+      "answer": "On",
+      "accept": [],
+      "explain": {
+        "ua": "On the whole.",
+        "ru": "On the whole."
+      },
+      "id": "b2-u18-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "contrast",
+      "question": "In spite ___ the weather, we had fun.",
+      "answer": "of",
+      "accept": [],
+      "explain": {
+        "ua": "In spite of.",
+        "ru": "In spite of."
+      },
+      "id": "b2-u18-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "contrast",
+      "sentence": "Despite it was expensive, I bought it.",
+      "answer": "Although it was expensive, I bought it.",
+      "accept": [
+        "Despite the price, I bought it.",
+        "Despite it being expensive, I bought it."
+      ],
+      "explain": {
+        "ua": "Although.",
+        "ru": "Although."
+      },
+      "id": "b2-u18-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "opinions",
+      "sentence": "I'm agree.",
+      "answer": "I agree.",
+      "accept": [],
+      "explain": {
+        "ua": "Без am.",
+        "ru": "Без am."
+      },
+      "id": "b2-u18-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "opinions",
+      "words": [
+        "it",
+        "I",
+        "is",
+        "far",
+        "idea",
+        "am",
+        "As",
+        "concerned",
+        "as",
+        "a",
+        "good"
+      ],
+      "answer": "As far as I am concerned it is a good idea",
+      "explain": {
+        "ua": "As far as I am concerned → it is a good idea.",
+        "ru": "As far as I am concerned → it is a good idea."
+      },
+      "id": "b2-u18-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "contrast",
+      "prompt": {
+        "ua": "Попри втому, вона закінчила роботу.",
+        "ru": "Несмотря на усталость, она закончила работу."
+      },
+      "answer": "Despite being tired, she finished the work.",
+      "accept": [
+        "In spite of being tired, she finished the work.",
+        "Despite her tiredness, she finished the work.",
+        "Although she was tired, she finished the work."
+      ],
+      "explain": {
+        "ua": "Despite + -ing.",
+        "ru": "Despite + -ing."
+      },
+      "id": "b2-u18-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "opinions",
+      "audio_text": "Let's look at the pros and cons.",
+      "options": [
+        "Let's look at the pros and cons.",
+        "Let's look at the prose and cons.",
+        "Let's look at the pros and cans."
+      ],
+      "answer": "Let's look at the pros and cons.",
+      "audio": "",
+      "explain": {
+        "ua": "Pros and cons.",
+        "ru": "Pros and cons."
+      },
+      "id": "b2-u18-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "id": "b1-u17",
+  "level": "B1",
+  "order": 17,
+  "kind": "grammar",
+  "title": {
+    "en": "Phrasal verbs: everyday life",
+    "ua": "Фразові дієслова: побут",
+    "ru": "Фразовые глаголы: быт"
+  },
+  "rule": {
+    "formula": {
+      "ua": "дієслово + частка (up, off, on, out…) = нове значення",
+      "ru": "глагол + частица (up, off, on, out…) = новое значение"
+    },
+    "explain": {
+      "ua": "Фразове дієслово — дієслово з часткою, що змінює значення: look (дивитися) → look for (шукати), look after (доглядати). Їх учать як окремі слова.",
+      "ru": "Фразовый глагол — глагол с частицей, которая меняет значение: look (смотреть) → look for (искать), look after (присматривать). Их учат как отдельные слова."
+    },
+    "examples": [
+      {
+        "en": "I'm looking for my keys.",
+        "ua": "Я шукаю ключі.",
+        "ru": "Я ищу ключи."
+      },
+      {
+        "en": "Turn off the light, please.",
+        "ua": "Вимкни світло, будь ласка.",
+        "ru": "Выключи свет, пожалуйста."
+      },
+      {
+        "en": "She gave up smoking.",
+        "ua": "Вона кинула курити.",
+        "ru": "Она бросила курить."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "get up",
+      "ipa": "/ˌɡet ˈʌp/",
+      "ua": "вставати",
+      "ru": "вставать",
+      "example": "I get up at 7.",
+      "audio": ""
+    },
+    {
+      "word": "wake up",
+      "ipa": "/ˌweɪk ˈʌp/",
+      "ua": "прокидатися",
+      "ru": "просыпаться",
+      "example": "Wake up!",
+      "audio": ""
+    },
+    {
+      "word": "look for",
+      "ipa": "/ˈlʊk fɔː/",
+      "ua": "шукати",
+      "ru": "искать",
+      "example": "I'm looking for a job.",
+      "audio": ""
+    },
+    {
+      "word": "look after",
+      "ipa": "/ˌlʊk ˈɑːftə/",
+      "ua": "доглядати",
+      "ru": "присматривать",
+      "example": "She looks after her grandma.",
+      "audio": ""
+    },
+    {
+      "word": "turn on / off",
+      "ipa": "/ˌtɜːn ˈɒn/",
+      "ua": "вмикати / вимикати",
+      "ru": "включать / выключать",
+      "example": "Turn off the TV.",
+      "audio": ""
+    },
+    {
+      "word": "put on",
+      "ipa": "/ˌpʊt ˈɒn/",
+      "ua": "вдягати",
+      "ru": "надевать",
+      "example": "Put on your coat.",
+      "audio": ""
+    },
+    {
+      "word": "take off",
+      "ipa": "/ˌteɪk ˈɒf/",
+      "ua": "знімати (одяг); злітати",
+      "ru": "снимать (одежду); взлетать",
+      "example": "Take off your shoes.",
+      "audio": ""
+    },
+    {
+      "word": "try on",
+      "ipa": "/ˌtraɪ ˈɒn/",
+      "ua": "приміряти",
+      "ru": "примерять",
+      "example": "Can I try it on?",
+      "audio": ""
+    },
+    {
+      "word": "give up",
+      "ipa": "/ˌɡɪv ˈʌp/",
+      "ua": "кинути (звичку), здатися",
+      "ru": "бросить (привычку), сдаться",
+      "example": "Don't give up!",
+      "audio": ""
+    },
+    {
+      "word": "find out",
+      "ipa": "/ˌfaɪnd ˈaʊt/",
+      "ua": "дізнатися",
+      "ru": "узнать",
+      "example": "I found out the truth.",
+      "audio": ""
+    },
+    {
+      "word": "pick up",
+      "ipa": "/ˌpɪk ˈʌp/",
+      "ua": "підняти; забрати (когось)",
+      "ru": "поднять; забрать (кого-то)",
+      "example": "I'll pick you up at 6.",
+      "audio": ""
+    },
+    {
+      "word": "throw away",
+      "ipa": "/ˌθrəʊ əˈweɪ/",
+      "ua": "викинути",
+      "ru": "выбросить",
+      "example": "Don't throw it away!",
+      "audio": ""
+    },
+    {
+      "word": "fill in",
+      "ipa": "/ˌfɪl ˈɪn/",
+      "ua": "заповнити (форму)",
+      "ru": "заполнить (форму)",
+      "example": "Fill in the form.",
+      "audio": ""
+    },
+    {
+      "word": "go out",
+      "ipa": "/ˌɡəʊ ˈaʊt/",
+      "ua": "виходити (розважатися)",
+      "ru": "выходить (развлекаться)",
+      "example": "Let's go out tonight.",
+      "audio": ""
+    },
+    {
+      "word": "run out of",
+      "ipa": "/ˌrʌn ˈaʊt əv/",
+      "ua": "закінчуватися (про запаси)",
+      "ru": "заканчиваться (о запасах)",
+      "example": "We've run out of milk.",
+      "audio": ""
+    },
+    {
+      "word": "look forward to",
+      "ipa": "/ˌlʊk ˈfɔːwəd tə/",
+      "ua": "з нетерпінням чекати",
+      "ru": "с нетерпением ждать",
+      "example": "I'm looking forward to the holiday.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u17-l01",
+      "title": {
+        "en": "Common phrasal verbs",
+        "ua": "Найчастіші фразові дієслова",
+        "ru": "Самые частые фразовые глаголы"
+      },
+      "recap": {
+        "from": "b1-u16-l03",
+        "note": {
+          "ua": "Згадаймо: Настрій і фрази",
+          "ru": "Вспомним: Настроение и фразы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm in a good ___ today!",
+            "options": [
+              "mood",
+              "feeling",
+              "emotion"
+            ],
+            "answer": "mood",
+            "explain": {
+              "ua": "In a good mood.",
+              "ru": "In a good mood."
+            },
+            "id": "b1-u17-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My son is scared ___ the dark.",
+            "options": [
+              "of",
+              "from",
+              "about"
+            ],
+            "answer": "of",
+            "explain": {
+              "ua": "Scared of.",
+              "ru": "Scared of."
+            },
+            "id": "b1-u17-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "look for · look after · give up · find out · run out of · look forward to (+ -ing)",
+        "explain": {
+          "ua": "Зверни увагу: look forward to + іменник або -ing: I'm looking forward to seeing you.",
+          "ru": "Обрати внимание: look forward to + существительное или -ing: I'm looking forward to seeing you."
+        },
+        "examples": [
+          {
+            "en": "We've run out of bread.",
+            "ua": "У нас закінчився хліб.",
+            "ru": "У нас закончился хлеб."
+          },
+          {
+            "en": "I found out that he was married.",
+            "ua": "Я дізналася, що він одружений.",
+            "ru": "Я узнала, что он женат."
+          },
+          {
+            "en": "I'm looking forward to seeing you.",
+            "ua": "Чекаю не дочекаюся зустрічі.",
+            "ru": "С нетерпением жду встречи."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "I'm ___ my glasses. Have you seen them?",
+          "options": [
+            "looking for",
+            "looking after",
+            "looking at"
+          ],
+          "answer": "looking for",
+          "explain": {
+            "ua": "Шукати — look for.",
+            "ru": "Искать — look for."
+          },
+          "id": "b1-u17-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "Who ___ your kids when you're at work?",
+          "options": [
+            "looks after",
+            "looks for",
+            "looks up"
+          ],
+          "answer": "looks after",
+          "explain": {
+            "ua": "Доглядати — look after.",
+            "ru": "Присматривать — look after."
+          },
+          "id": "b1-u17-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "He ___ smoking last year.",
+          "options": [
+            "gave up",
+            "gave in",
+            "gave off"
+          ],
+          "answer": "gave up",
+          "explain": {
+            "ua": "Кинути — give up.",
+            "ru": "Бросить — give up."
+          },
+          "id": "b1-u17-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "We've ___ coffee. Can you buy some?",
+          "options": [
+            "run out of",
+            "run away",
+            "run into"
+          ],
+          "answer": "run out of",
+          "explain": {
+            "ua": "Закінчилося — run out of.",
+            "ru": "Закончилось — run out of."
+          },
+          "id": "b1-u17-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "I'm looking forward to ___ you.",
+          "options": [
+            "seeing",
+            "see",
+            "saw"
+          ],
+          "answer": "seeing",
+          "explain": {
+            "ua": "Look forward to + -ing.",
+            "ru": "Look forward to + -ing."
+          },
+          "id": "b1-u17-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "How did you ___ about the party?",
+          "options": [
+            "find out",
+            "find up",
+            "look out"
+          ],
+          "answer": "find out",
+          "explain": {
+            "ua": "Дізнатися — find out.",
+            "ru": "Узнать — find out."
+          },
+          "id": "b1-u17-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "phrasal-verbs",
+          "pairs": [
+            {
+              "left": "look for",
+              "right": {
+                "ua": "шукати",
+                "ru": "искать"
+              }
+            },
+            {
+              "left": "give up",
+              "right": {
+                "ua": "кинути",
+                "ru": "бросить"
+              }
+            },
+            {
+              "left": "find out",
+              "right": {
+                "ua": "дізнатися",
+                "ru": "узнать"
+              }
+            },
+            {
+              "left": "run out of",
+              "right": {
+                "ua": "закінчитися",
+                "ru": "закончиться"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "b1-u17-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-verbs",
+          "sentence": "I'm looking forward to see you.",
+          "answer": "I'm looking forward to seeing you.",
+          "accept": [
+            "I am looking forward to seeing you."
+          ],
+          "explain": {
+            "ua": "Forward to + -ing.",
+            "ru": "Forward to + -ing."
+          },
+          "id": "b1-u17-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-verbs",
+          "prompt": {
+            "ua": "У нас закінчилося молоко.",
+            "ru": "У нас закончилось молоко."
+          },
+          "answer": "We've run out of milk.",
+          "accept": [
+            "We have run out of milk.",
+            "We ran out of milk."
+          ],
+          "explain": {
+            "ua": "Run out of.",
+            "ru": "Run out of."
+          },
+          "id": "b1-u17-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u17-l02",
+      "title": {
+        "en": "Separable or not?",
+        "ua": "Розділювані чи ні?",
+        "ru": "Разделяемые или нет?"
+      },
+      "recap": {
+        "from": "b1-u17-l01",
+        "note": {
+          "ua": "Згадаймо: look for · look after · give up · find out · run out of · look forward to (+ -ing)",
+          "ru": "Вспомним: look for · look after · give up · find out · run out of · look forward to (+ -ing)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-verbs",
+            "question": "I'm ___ my glasses. Have you seen them?",
+            "options": [
+              "looking for",
+              "looking after",
+              "looking at"
+            ],
+            "answer": "looking for",
+            "explain": {
+              "ua": "Шукати — look for.",
+              "ru": "Искать — look for."
+            },
+            "id": "b1-u17-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-verbs",
+            "question": "I'm looking forward to ___ you.",
+            "options": [
+              "seeing",
+              "see",
+              "saw"
+            ],
+            "answer": "seeing",
+            "explain": {
+              "ua": "Look forward to + -ing.",
+              "ru": "Look forward to + -ing."
+            },
+            "id": "b1-u17-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "turn it off ✓ (займенник — посередині) · look after it ✓ (не розділяється)",
+          "ru": "turn it off ✓ (местоимение — посередине) · look after it ✓ (не разделяется)"
+        },
+        "explain": {
+          "ua": "Деякі дієслова розділяються: turn off the TV = turn the TV off. Із займенником — тільки посередині: turn it off (не turn off it). Інші не розділяються: look for it, look after them.",
+          "ru": "Некоторые глаголы разделяются: turn off the TV = turn the TV off. С местоимением — только посередине: turn it off (не turn off it). Другие не разделяются: look for it, look after them."
+        },
+        "examples": [
+          {
+            "en": "Put your coat on. / Put it on.",
+            "ua": "Вдягни пальто. / Вдягни його.",
+            "ru": "Надень пальто. / Надень его."
+          },
+          {
+            "en": "Can you pick me up at 6?",
+            "ua": "Можеш забрати мене о шостій?",
+            "ru": "Можешь забрать меня в шесть?"
+          },
+          {
+            "en": "I'm looking for my phone. I'm looking for it.",
+            "ua": "Я шукаю телефон. Я його шукаю.",
+            "ru": "Я ищу телефон. Я его ищу."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "phrasal-separable",
+          "question": "It's cold. Put ___ .",
+          "options": [
+            "it on",
+            "on it",
+            "it"
+          ],
+          "answer": "it on",
+          "explain": {
+            "ua": "Займенник посередині.",
+            "ru": "Местоимение посередине."
+          },
+          "id": "b1-u17-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-separable",
+          "question": "The music is too loud. Turn ___ .",
+          "options": [
+            "it down",
+            "down it",
+            "it"
+          ],
+          "answer": "it down",
+          "explain": {
+            "ua": "Turn it down.",
+            "ru": "Turn it down."
+          },
+          "id": "b1-u17-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-separable",
+          "question": "Where are my keys? I'm looking ___ .",
+          "options": [
+            "for them",
+            "them for",
+            "them"
+          ],
+          "answer": "for them",
+          "explain": {
+            "ua": "Look for — не розділяється.",
+            "ru": "Look for — не разделяется."
+          },
+          "id": "b1-u17-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-separable",
+          "question": "Can you pick ___ at the station?",
+          "options": [
+            "me up",
+            "up me",
+            "me"
+          ],
+          "answer": "me up",
+          "explain": {
+            "ua": "Pick me up.",
+            "ru": "Pick me up."
+          },
+          "id": "b1-u17-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-separable",
+          "question": "This milk is old. Throw ___ .",
+          "options": [
+            "it away",
+            "away it",
+            "it"
+          ],
+          "answer": "it away",
+          "explain": {
+            "ua": "Throw it away.",
+            "ru": "Throw it away."
+          },
+          "id": "b1-u17-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "phrasal-separable",
+          "bank": [
+            "it on",
+            "it off",
+            "them up",
+            "after them"
+          ],
+          "reuse": false,
+          "sentences": [
+            "This dress is nice. Can I try ___ ?",
+            "The TV is on. Turn ___.",
+            "Your toys are on the floor. Pick ___.",
+            "Who will look ___ when you're away?"
+          ],
+          "answers": [
+            "it on",
+            "it off",
+            "them up",
+            "after them"
+          ],
+          "explain": {
+            "ua": "Розділювані — займенник посередині.",
+            "ru": "Разделяемые — местоимение посередине."
+          },
+          "id": "b1-u17-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-separable",
+          "sentence": "Turn off it, please.",
+          "answer": "Turn it off, please.",
+          "accept": [],
+          "explain": {
+            "ua": "Займенник посередині.",
+            "ru": "Местоимение посередине."
+          },
+          "id": "b1-u17-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-separable",
+          "sentence": "Please fill in it.",
+          "answer": "Please fill it in.",
+          "accept": [],
+          "explain": {
+            "ua": "Fill it in.",
+            "ru": "Fill it in."
+          },
+          "id": "b1-u17-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-separable",
+          "prompt": {
+            "ua": "Зніми взуття, будь ласка.",
+            "ru": "Сними обувь, пожалуйста."
+          },
+          "answer": "Take off your shoes, please.",
+          "accept": [
+            "Take your shoes off, please.",
+            "Please take off your shoes.",
+            "Please take your shoes off."
+          ],
+          "explain": {
+            "ua": "Take off.",
+            "ru": "Take off."
+          },
+          "id": "b1-u17-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u17-l03",
+      "title": {
+        "en": "Practice: a busy morning",
+        "ua": "Практика: ранок",
+        "ru": "Практика: утро"
+      },
+      "recap": {
+        "from": "b1-u17-l02",
+        "note": {
+          "ua": "Згадаймо: turn it off ✓ (займенник — посередині) · look after it ✓ (не розділяється)",
+          "ru": "Вспомним: turn it off ✓ (местоимение — посередине) · look after it ✓ (не разделяется)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-separable",
+            "question": "It's cold. Put ___ .",
+            "options": [
+              "it on",
+              "on it",
+              "it"
+            ],
+            "answer": "it on",
+            "explain": {
+              "ua": "Займенник посередині.",
+              "ru": "Местоимение посередине."
+            },
+            "id": "b1-u17-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-separable",
+            "question": "This milk is old. Throw ___ .",
+            "options": [
+              "it away",
+              "away it",
+              "it"
+            ],
+            "answer": "it away",
+            "explain": {
+              "ua": "Throw it away.",
+              "ru": "Throw it away."
+            },
+            "id": "b1-u17-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "phrasal-verbs",
+          "bank": [
+            "woke up",
+            "got up",
+            "put on",
+            "ran out of",
+            "picked up"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ at 6 when the alarm rang.",
+            "I ___ at 6:15.",
+            "I ___ my jeans and a sweater.",
+            "We'd ___ coffee, so I had tea.",
+            "I ___ my son from school at 3."
+          ],
+          "answers": [
+            "woke up",
+            "got up",
+            "put on",
+            "ran out of",
+            "picked up"
+          ],
+          "explain": {
+            "ua": "Порядок дня.",
+            "ru": "Порядок дня."
+          },
+          "id": "b1-u17-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "phrasal-verbs",
+          "question": "Don't ___ ! You can do it!",
+          "options": [
+            "give up",
+            "give in up",
+            "give off"
+          ],
+          "answer": "give up",
+          "explain": {
+            "ua": "Don't give up — не здавайся!",
+            "ru": "Don't give up — не сдавайся!"
+          },
+          "id": "b1-u17-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Max overslept.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "He found his keys quickly.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did they run out of?",
+              "options": [
+                "milk",
+                "bread",
+                "coffee"
+              ],
+              "answer": "milk"
+            }
+          ],
+          "text": "This morning I didn't wake up on time. I got up at 8:15! I put on my clothes very fast and looked for my keys for ten minutes — they were in my coat pocket. We'd run out of milk, so I had black coffee. Then I picked up my colleague and we went to work. I'm looking forward to the weekend!",
+          "explain": {
+            "ua": "Overslept, looked for keys 10 min, ran out of milk, picked up colleague.",
+            "ru": "Overslept, looked for keys 10 min, ran out of milk, picked up colleague."
+          },
+          "id": "b1-u17-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-verbs",
+          "sentence": "I'm looking forward to the weekend come.",
+          "answer": "I'm looking forward to the weekend.",
+          "accept": [
+            "I am looking forward to the weekend."
+          ],
+          "explain": {
+            "ua": "Forward to + іменник.",
+            "ru": "Forward to + существительное."
+          },
+          "id": "b1-u17-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "phrasal-verbs",
+          "sentence": "Please fill in this form and give back it.",
+          "answer": "Please fill in this form and give it back.",
+          "accept": [
+            "Please fill this form in and give it back."
+          ],
+          "explain": {
+            "ua": "Give it back.",
+            "ru": "Give it back."
+          },
+          "id": "b1-u17-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "my",
+            "look",
+            "Can",
+            "you",
+            "weekend",
+            "this",
+            "cat",
+            "after"
+          ],
+          "answer": "Can you look after my cat this weekend",
+          "explain": {
+            "ua": "Look after → my cat.",
+            "ru": "Look after → my cat."
+          },
+          "id": "b1-u17-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "phrasal-verbs",
+          "audio_text": "Let's go out tonight.",
+          "options": [
+            "Let's go out tonight.",
+            "Let's go tonight.",
+            "Let's get out tonight."
+          ],
+          "answer": "Let's go out tonight.",
+          "audio": "",
+          "explain": {
+            "ua": "Go out.",
+            "ru": "Go out."
+          },
+          "id": "b1-u17-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-verbs",
+          "prompt": {
+            "ua": "Я дізналася правду.",
+            "ru": "Я узнала правду."
+          },
+          "answer": "I found out the truth.",
+          "accept": [
+            "I've found out the truth."
+          ],
+          "explain": {
+            "ua": "Find out.",
+            "ru": "Find out."
+          },
+          "id": "b1-u17-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "phrasal-verbs",
+          "prompt": {
+            "ua": "Чекаю не дочекаюся відпустки!",
+            "ru": "С нетерпением жду отпуска!"
+          },
+          "answer": "I'm looking forward to my holiday!",
+          "accept": [
+            "I am looking forward to my holiday!",
+            "I'm looking forward to the holiday!",
+            "I'm looking forward to my vacation!"
+          ],
+          "explain": {
+            "ua": "Look forward to.",
+            "ru": "Look forward to."
+          },
+          "id": "b1-u17-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "phrasal-verbs",
+      "question": "I'm ___ a new flat.",
+      "options": [
+        "looking for",
+        "looking after",
+        "looking forward"
+      ],
+      "answer": "looking for",
+      "explain": {
+        "ua": "Look for.",
+        "ru": "Look for."
+      },
+      "id": "b1-u17-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-verbs",
+      "question": "He ___ sugar. He doesn't eat sweets now.",
+      "options": [
+        "gave up",
+        "gave in",
+        "gave out"
+      ],
+      "answer": "gave up",
+      "explain": {
+        "ua": "Give up.",
+        "ru": "Give up."
+      },
+      "id": "b1-u17-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-separable",
+      "question": "It's dark. Turn ___ , please.",
+      "options": [
+        "it on",
+        "on it",
+        "it"
+      ],
+      "answer": "it on",
+      "explain": {
+        "ua": "Turn it on.",
+        "ru": "Turn it on."
+      },
+      "id": "b1-u17-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-verbs",
+      "question": "I'm looking forward to ___ you.",
+      "options": [
+        "meeting",
+        "meet",
+        "met"
+      ],
+      "answer": "meeting",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u17-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "phrasal-verbs",
+      "question": "We've ___ bread.",
+      "options": [
+        "run out of",
+        "run away",
+        "run off"
+      ],
+      "answer": "run out of",
+      "explain": {
+        "ua": "Run out of.",
+        "ru": "Run out of."
+      },
+      "id": "b1-u17-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "phrasal-verbs",
+      "question": "Please fill ___ the form.",
+      "answer": "in",
+      "accept": [
+        "out"
+      ],
+      "explain": {
+        "ua": "Fill in.",
+        "ru": "Fill in."
+      },
+      "id": "b1-u17-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "phrasal-verbs",
+      "question": "I'll pick you ___ at 7.",
+      "answer": "up",
+      "accept": [],
+      "explain": {
+        "ua": "Pick up.",
+        "ru": "Pick up."
+      },
+      "id": "b1-u17-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "phrasal-separable",
+      "sentence": "Take off them.",
+      "answer": "Take them off.",
+      "accept": [],
+      "explain": {
+        "ua": "Займенник посередині.",
+        "ru": "Местоимение посередине."
+      },
+      "id": "b1-u17-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "phrasal-verbs",
+      "sentence": "I'm looking after my keys.",
+      "answer": "I'm looking for my keys.",
+      "accept": [
+        "I am looking for my keys."
+      ],
+      "explain": {
+        "ua": "Шукати — look for.",
+        "ru": "Искать — look for."
+      },
+      "id": "b1-u17-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "phrasal-verbs",
+      "words": [
+        "after",
+        "looks",
+        "grandmother",
+        "She",
+        "her"
+      ],
+      "answer": "She looks after her grandmother",
+      "explain": {
+        "ua": "Looks after → her grandmother.",
+        "ru": "Looks after → her grandmother."
+      },
+      "id": "b1-u17-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "phrasal-separable",
+      "prompt": {
+        "ua": "Вдягни куртку.",
+        "ru": "Надень куртку."
+      },
+      "answer": "Put on your jacket.",
+      "accept": [
+        "Put your jacket on."
+      ],
+      "explain": {
+        "ua": "Put on.",
+        "ru": "Put on."
+      },
+      "id": "b1-u17-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "phrasal-separable",
+      "audio_text": "Don't throw it away!",
+      "options": [
+        "Don't throw it away!",
+        "Don't throw away it!",
+        "Don't through it away!"
+      ],
+      "answer": "Don't throw it away!",
+      "audio": "",
+      "explain": {
+        "ua": "Throw it away.",
+        "ru": "Throw it away."
+      },
+      "id": "b1-u17-cp12"
+    }
+  ]
+}

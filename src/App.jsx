@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useStore } from './lib/store.jsx';
 import { makeT } from './lib/i18n.js';
-import { getUnit, findLesson, levelPath, findExercise } from './lib/content.js';
-import { buildRecap, levelTestExercises } from './lib/progress.js';
+import { loadUnit, findLessonMeta, levelPath, loadExercises, loadFinalTest } from './lib/content.js';
+import { buildRecap } from './lib/progress.js';
 import { loc } from './lib/loc.js';
-import { Icon } from './components.jsx';
+import { Icon, Mascot } from './components.jsx';
 import Onboarding from './screens/Onboarding.jsx';
 import Home from './screens/Home.jsx';
 import Lesson from './screens/Lesson.jsx';
@@ -89,34 +89,57 @@ export default function App() {
   );
 }
 
-// Resolves a lesson route into the data the player needs.
+// Resolves a lesson route into the data the player needs (units are loaded on demand).
+async function resolveRoute(route, state, t, lang) {
+  if (route.mode === 'lesson') {
+    const f = findLessonMeta(route.lessonId);
+    if (!f) return null;
+    const unit = await loadUnit(f.unit.id);
+    let prevUnit = null;
+    if (f.index === 0 && f.unit.level !== 'extra') {
+      const path = levelPath(f.unit.level);
+      const pos = path.findIndex((u) => u.id === f.unit.id);
+      if (pos > 0) prevUnit = await loadUnit(path[pos - 1].id);
+    }
+    const lesson = unit.lessons[f.index];
+    return {
+      unit,
+      lesson,
+      recap: buildRecap(state, unit, f.index, prevUnit),
+      title: `${t('lesson')} ${f.index + 1} · ${loc(lesson.title, lang)}`,
+    };
+  }
+  if (route.mode === 'checkpoint') {
+    const u = await loadUnit(route.unitId);
+    return u && { unit: u, exercises: u.checkpoint, title: `${u.kind === 'course' ? t('finalChallenge') : t('checkpoint')} · ${loc(u.title, lang)}` };
+  }
+  if (route.mode === 'level') {
+    const f = await loadFinalTest(route.level);
+    return f && { exercises: f.exercises, pass: f.pass_score ?? 0.8, level: route.level, title: loc(f.title, lang) || `${t('levelTest')} ${route.level}` };
+  }
+  if (route.mode === 'mistakes') {
+    return { exercises: (await loadExercises(state.mistakes.slice(0, 10))), title: t('workOnMistakes') };
+  }
+  return null;
+}
+
 function LessonRoute({ route, state, nav, t, lang }) {
-  const data = useMemo(() => {
-    if (route.mode === 'lesson') {
-      const f = findLesson(route.lessonId);
-      if (!f) return null;
-      const levelUnits = f.unit.level === 'extra' ? [] : levelPath(f.unit.level);
-      return {
-        unit: f.unit,
-        lesson: f.lesson,
-        recap: buildRecap(state, f.unit, f.index, levelUnits),
-        title: `${t('lesson')} ${f.index + 1} · ${loc(f.lesson.title, lang)}`,
-      };
-    }
-    if (route.mode === 'checkpoint') {
-      const u = getUnit(route.unitId);
-      return { unit: u, exercises: u.checkpoint, title: `${u.kind === 'course' ? t('finalChallenge') : t('checkpoint')} · ${loc(u.title, lang)}` };
-    }
-    if (route.mode === 'level') {
-      return { exercises: levelTestExercises(route.level), level: route.level, title: `${t('levelTest')} ${route.level}` };
-    }
-    if (route.mode === 'mistakes') {
-      return { exercises: state.mistakes.map(findExercise).filter(Boolean).slice(0, 10), title: t('workOnMistakes') };
-    }
-    return null;
+  const [data, setData] = useState(undefined);
+  useEffect(() => {
+    let alive = true;
+    resolveRoute(route, state, t, lang).then((d) => alive && setData(d || null)).catch(() => alive && setData(null));
+    return () => { alive = false; };
   }, [route.key]);
-  const empty = !data || (data.exercises && !data.exercises.length);
+  const empty = data === null || (data && data.exercises && !data.exercises.length);
   useEffect(() => { if (empty) nav.back(); }, [empty]);
+  if (data === undefined) {
+    return (
+      <div className="screen center">
+        <Mascot emotion="searching" size={150} />
+        <div className="small">{t('loading')}</div>
+      </div>
+    );
+  }
   if (empty) return null;
   return <Lesson mode={route.mode} {...data} nav={nav} t={t} lang={lang} />;
 }

@@ -1,0 +1,1448 @@
+{
+  "id": "a1-u17",
+  "level": "A1",
+  "order": 17,
+  "kind": "vocab",
+  "title": {
+    "en": "My day",
+    "ua": "Мій день",
+    "ru": "Мой день"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "wake up",
+      "ipa": "/ˌweɪk ˈʌp/",
+      "ua": "прокидатися",
+      "ru": "просыпаться",
+      "example": "I wake up at 7.",
+      "audio": ""
+    },
+    {
+      "word": "get up",
+      "ipa": "/ˌɡet ˈʌp/",
+      "ua": "вставати",
+      "ru": "вставать",
+      "example": "She gets up early.",
+      "audio": ""
+    },
+    {
+      "word": "take a shower",
+      "ipa": "/ˌteɪk ə ˈʃaʊə/",
+      "ua": "приймати душ",
+      "ru": "принимать душ",
+      "example": "I take a shower every morning.",
+      "audio": ""
+    },
+    {
+      "word": "brush my teeth",
+      "ipa": "/ˌbrʌʃ maɪ ˈtiːθ/",
+      "ua": "чистити зуби",
+      "ru": "чистить зубы",
+      "example": "I brush my teeth twice a day.",
+      "audio": ""
+    },
+    {
+      "word": "get dressed",
+      "ipa": "/ˌɡet ˈdrest/",
+      "ua": "одягатися",
+      "ru": "одеваться",
+      "example": "He gets dressed quickly.",
+      "audio": ""
+    },
+    {
+      "word": "have breakfast",
+      "ipa": "/hæv ˈbrekfəst/",
+      "ua": "снідати",
+      "ru": "завтракать",
+      "example": "We have breakfast at 8.",
+      "audio": ""
+    },
+    {
+      "word": "go to work",
+      "ipa": "/ˌɡəʊ tə ˈwɜːk/",
+      "ua": "іти на роботу",
+      "ru": "идти на работу",
+      "example": "I go to work by bus.",
+      "audio": ""
+    },
+    {
+      "word": "start work",
+      "ipa": "/ˌstɑːt ˈwɜːk/",
+      "ua": "починати роботу",
+      "ru": "начинать работу",
+      "example": "She starts work at 9.",
+      "audio": ""
+    },
+    {
+      "word": "finish work",
+      "ipa": "/ˌfɪnɪʃ ˈwɜːk/",
+      "ua": "закінчувати роботу",
+      "ru": "заканчивать работу",
+      "example": "Dad finishes work at 6.",
+      "audio": ""
+    },
+    {
+      "word": "come home",
+      "ipa": "/ˌkʌm ˈhəʊm/",
+      "ua": "приходити додому",
+      "ru": "приходить домой",
+      "example": "I come home at 7.",
+      "audio": ""
+    },
+    {
+      "word": "cook dinner",
+      "ipa": "/ˌkʊk ˈdɪnə/",
+      "ua": "готувати вечерю",
+      "ru": "готовить ужин",
+      "example": "My husband cooks dinner.",
+      "audio": ""
+    },
+    {
+      "word": "walk the dog",
+      "ipa": "/ˌwɔːk ðə ˈdɒɡ/",
+      "ua": "вигулювати собаку",
+      "ru": "выгуливать собаку",
+      "example": "I walk the dog in the evening.",
+      "audio": ""
+    },
+    {
+      "word": "relax",
+      "ipa": "/rɪˈlæks/",
+      "ua": "відпочивати",
+      "ru": "отдыхать",
+      "example": "We relax at the weekend.",
+      "audio": ""
+    },
+    {
+      "word": "go to bed",
+      "ipa": "/ˌɡəʊ tə ˈbed/",
+      "ua": "лягати спати",
+      "ru": "ложиться спать",
+      "example": "I go to bed at 11.",
+      "audio": ""
+    },
+    {
+      "word": "sleep",
+      "ipa": "/sliːp/",
+      "ua": "спати",
+      "ru": "спать",
+      "example": "The baby sleeps a lot.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u17-l01",
+      "title": {
+        "en": "Morning",
+        "ua": "Ранок",
+        "ru": "Утро"
+      },
+      "recap": {
+        "from": "a1-u16-l06",
+        "note": {
+          "ua": "Згадаймо: Питальне слово + do / does + хто + дієслово?",
+          "ru": "Вспомним: Вопросительное слово + do / does + кто + глагол?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-wh",
+            "question": "___ do you live? — In Odesa.",
+            "options": [
+              "Where",
+              "What",
+              "When"
+            ],
+            "answer": "Where",
+            "explain": {
+              "ua": "Where — де.",
+              "ru": "Where — где."
+            },
+            "id": "a1-u17-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-wh",
+            "question": "Why ___ you study English?",
+            "options": [
+              "do",
+              "does",
+              "are"
+            ],
+            "answer": "do",
+            "explain": {
+              "ua": "You → do.",
+              "ru": "You → do."
+            },
+            "id": "a1-u17-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "wake up",
+              "right": {
+                "ua": "прокидатися",
+                "ru": "просыпаться"
+              }
+            },
+            {
+              "left": "get up",
+              "right": {
+                "ua": "вставати",
+                "ru": "вставать"
+              }
+            },
+            {
+              "left": "get dressed",
+              "right": {
+                "ua": "одягатися",
+                "ru": "одеваться"
+              }
+            },
+            {
+              "left": "take a shower",
+              "right": {
+                "ua": "приймати душ",
+                "ru": "принимать душ"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u17-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "First you ___, then you get up.",
+          "options": [
+            "wake up",
+            "go to bed",
+            "come home"
+          ],
+          "answer": "wake up",
+          "explain": {
+            "ua": "Спершу прокидаємося.",
+            "ru": "Сначала просыпаемся."
+          },
+          "id": "a1-u17-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ my teeth every morning.",
+          "options": [
+            "brush",
+            "wash",
+            "take"
+          ],
+          "answer": "brush",
+          "explain": {
+            "ua": "Brush my teeth — чистити зуби.",
+            "ru": "Brush my teeth — чистить зубы."
+          },
+          "id": "a1-u17-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I take a ___ in the bathroom.",
+          "options": [
+            "shower",
+            "breakfast",
+            "bed"
+          ],
+          "answer": "shower",
+          "explain": {
+            "ua": "Take a shower — приймати душ.",
+            "ru": "Take a shower — принимать душ."
+          },
+          "id": "a1-u17-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "wake up",
+            "get up",
+            "get dressed",
+            "have breakfast"
+          ],
+          "reuse": false,
+          "sentences": [
+            "1. I ___ at 7.",
+            "2. I ___ at 7:10.",
+            "3. I ___ — jeans and a T-shirt.",
+            "4. I ___ — coffee and eggs."
+          ],
+          "answers": [
+            "wake up",
+            "get up",
+            "get dressed",
+            "have breakfast"
+          ],
+          "explain": {
+            "ua": "Порядок ранку.",
+            "ru": "Порядок утра."
+          },
+          "id": "a1-u17-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-3rd",
+          "sentence": "She wake up at 6.",
+          "answer": "She wakes up at 6.",
+          "accept": [],
+          "explain": {
+            "ua": "She → wakes up.",
+            "ru": "She → wakes up."
+          },
+          "id": "a1-u17-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I make a shower.",
+          "answer": "I take a shower.",
+          "accept": [],
+          "explain": {
+            "ua": "Душ — take, не make.",
+            "ru": "Душ — take, не make."
+          },
+          "id": "a1-u17-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈʃaʊə/",
+          "options": [
+            "shower",
+            "sugar",
+            "show"
+          ],
+          "answer": "shower",
+          "explain": {
+            "ua": "/aʊə/ — «ауе».",
+            "ru": "/aʊə/ — «ауэ»."
+          },
+          "id": "a1-u17-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я встаю о сьомій.",
+            "ru": "Я встаю в семь."
+          },
+          "answer": "I get up at 7.",
+          "accept": [
+            "I get up at seven."
+          ],
+          "explain": {
+            "ua": "Вставати — get up.",
+            "ru": "Вставати — get up."
+          },
+          "id": "a1-u17-l01-e09"
+        }
+      ],
+      "words": [
+        "wake up",
+        "get up",
+        "take a shower",
+        "brush my teeth",
+        "get dressed",
+        "have breakfast"
+      ]
+    },
+    {
+      "id": "a1-u17-l02",
+      "title": {
+        "en": "Day and evening",
+        "ua": "День і вечір",
+        "ru": "День и вечер"
+      },
+      "recap": {
+        "from": "a1-u17-l01",
+        "note": {
+          "ua": "Згадаймо: Ранок",
+          "ru": "Вспомним: Утро"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "First you ___, then you get up.",
+            "options": [
+              "wake up",
+              "go to bed",
+              "come home"
+            ],
+            "answer": "wake up",
+            "explain": {
+              "ua": "Спершу прокидаємося.",
+              "ru": "Сначала просыпаемся."
+            },
+            "id": "a1-u17-l02-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "present-simple-3rd",
+            "sentence": "She wake up at 6.",
+            "answer": "She wakes up at 6.",
+            "accept": [],
+            "explain": {
+              "ua": "She → wakes up.",
+              "ru": "She → wakes up."
+            },
+            "id": "a1-u17-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "go to work",
+              "right": {
+                "ua": "іти на роботу",
+                "ru": "идти на работу"
+              }
+            },
+            {
+              "left": "come home",
+              "right": {
+                "ua": "приходити додому",
+                "ru": "приходить домой"
+              }
+            },
+            {
+              "left": "go to bed",
+              "right": {
+                "ua": "лягати спати",
+                "ru": "ложиться спать"
+              }
+            },
+            {
+              "left": "relax",
+              "right": {
+                "ua": "відпочивати",
+                "ru": "отдыхать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u17-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ work at 9 and finish at 6.",
+          "options": [
+            "start",
+            "go",
+            "come"
+          ],
+          "answer": "start",
+          "explain": {
+            "ua": "Start work — починати роботу.",
+            "ru": "Start work — начинать работу."
+          },
+          "id": "a1-u17-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "After work I ___ home.",
+          "options": [
+            "come",
+            "go to bed",
+            "wake"
+          ],
+          "answer": "come",
+          "explain": {
+            "ua": "Come home — приходити додому.",
+            "ru": "Come home — приходить домой."
+          },
+          "id": "a1-u17-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "At 11 pm I ___.",
+          "options": [
+            "go to bed",
+            "get up",
+            "go to work"
+          ],
+          "answer": "go to bed",
+          "explain": {
+            "ua": "Go to bed — лягати спати.",
+            "ru": "Go to bed — ложиться спать."
+          },
+          "id": "a1-u17-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You do it with your dog in the park.",
+          "answer": "walk the dog",
+          "accept": [],
+          "explain": {
+            "ua": "Walk the dog — вигулювати собаку.",
+            "ru": "Walk the dog — выгуливать собаку."
+          },
+          "id": "a1-u17-l02-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "kitchen",
+          "answer": "cook dinner",
+          "accept": [
+            "cook"
+          ],
+          "explain": {
+            "ua": "Кухня → готувати вечерю.",
+            "ru": "Кухня → готовить ужин."
+          },
+          "id": "a1-u17-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I go to home at 7.",
+          "answer": "I go home at 7.",
+          "accept": [],
+          "explain": {
+            "ua": "Home — без to: go home, come home.",
+            "ru": "Home — без to: go home, come home."
+          },
+          "id": "a1-u17-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-spelling",
+          "sentence": "He finish work at 5.",
+          "answer": "He finishes work at 5.",
+          "accept": [],
+          "explain": {
+            "ua": "He → finishes.",
+            "ru": "He → finishes."
+          },
+          "id": "a1-u17-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я лягаю спати об одинадцятій.",
+            "ru": "Я ложусь спать в одиннадцать."
+          },
+          "answer": "I go to bed at 11.",
+          "accept": [
+            "I go to bed at eleven."
+          ],
+          "explain": {
+            "ua": "Go to bed.",
+            "ru": "Go to bed."
+          },
+          "id": "a1-u17-l02-e09"
+        }
+      ],
+      "words": [
+        "go to work",
+        "start work",
+        "finish work",
+        "come home",
+        "cook dinner",
+        "walk the dog",
+        "relax",
+        "go to bed",
+        "sleep"
+      ]
+    },
+    {
+      "id": "a1-u17-l03",
+      "title": {
+        "en": "Talking about my day",
+        "ua": "Розповідаємо про свій день",
+        "ru": "Рассказываем о своём дне"
+      },
+      "recap": {
+        "from": "a1-u17-l02",
+        "note": {
+          "ua": "Згадаймо: День і вечір",
+          "ru": "Вспомним: День и вечер"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ work at 9 and finish at 6.",
+            "options": [
+              "start",
+              "go",
+              "come"
+            ],
+            "answer": "start",
+            "explain": {
+              "ua": "Start work — починати роботу.",
+              "ru": "Start work — начинать работу."
+            },
+            "id": "a1-u17-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You do it with your dog in the park.",
+            "answer": "walk the dog",
+            "accept": [],
+            "explain": {
+              "ua": "Walk the dog — вигулювати собаку.",
+              "ru": "Walk the dog — выгуливать собаку."
+            },
+            "id": "a1-u17-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "She ___ up at 6.",
+          "options": [
+            "gets",
+            "get",
+            "is get"
+          ],
+          "answer": "gets",
+          "explain": {
+            "ua": "She → gets up.",
+            "ru": "She → gets up."
+          },
+          "id": "a1-u17-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "What time ___ you get up?",
+          "options": [
+            "do",
+            "does",
+            "are"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "You → do.",
+            "ru": "You → do."
+          },
+          "id": "a1-u17-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "He ___ go to work on Sunday.",
+          "options": [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "doesn't",
+          "explain": {
+            "ua": "He → doesn't.",
+            "ru": "He → doesn't."
+          },
+          "id": "a1-u17-l03-e03"
+        },
+        {
+          "type": "match",
+          "topic": "present-simple-questions",
+          "pairs": [
+            {
+              "left": "What time do you get up?",
+              "right": "At 7."
+            },
+            {
+              "left": "Do you walk the dog?",
+              "right": "Yes, I do."
+            },
+            {
+              "left": "When does she finish work?",
+              "right": "At 5."
+            },
+            {
+              "left": "Does he cook?",
+              "right": "No, he doesn't."
+            }
+          ],
+          "explain": {
+            "ua": "Питання — відповідь.",
+            "ru": "Вопрос — ответ."
+          },
+          "id": "a1-u17-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple-3rd",
+          "bank": [
+            "gets up",
+            "goes",
+            "comes",
+            "walks"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Max ___ at 7.",
+            "He ___ to work by bike.",
+            "He ___ home at 6.",
+            "He ___ the dog in the park."
+          ],
+          "answers": [
+            "gets up",
+            "goes",
+            "comes",
+            "walks"
+          ],
+          "explain": {
+            "ua": "Max = he → -s.",
+            "ru": "Max = he → -s."
+          },
+          "id": "a1-u17-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-wh",
+          "sentence": "What time you go to bed?",
+          "answer": "What time do you go to bed?",
+          "accept": [],
+          "explain": {
+            "ua": "Не забувай do.",
+            "ru": "Не забывай do."
+          },
+          "id": "a1-u17-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "takes",
+            "in",
+            "the",
+            "She",
+            "evening",
+            "shower",
+            "a"
+          ],
+          "answer": "She takes a shower in the evening",
+          "explain": {
+            "ua": "She → takes → a shower → in the evening.",
+            "ru": "She → takes → a shower → in the evening."
+          },
+          "id": "a1-u17-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I walk the dog every morning.",
+          "options": [
+            "I walk the dog every morning.",
+            "I work the dog every morning.",
+            "I walk the dog every evening."
+          ],
+          "answer": "I walk the dog every morning.",
+          "audio": "",
+          "explain": {
+            "ua": "Walk — «вок», work — «ворк».",
+            "ru": "Walk — «уок», work — «уорк»."
+          },
+          "id": "a1-u17-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-wh",
+          "prompt": {
+            "ua": "О котрій ти прокидаєшся?",
+            "ru": "Во сколько ты просыпаешься?"
+          },
+          "answer": "What time do you wake up?",
+          "accept": [
+            "When do you wake up?"
+          ],
+          "explain": {
+            "ua": "What time do you…?",
+            "ru": "What time do you…?"
+          },
+          "id": "a1-u17-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u17-l04",
+      "title": {
+        "en": "In context: a day with Dana",
+        "ua": "У контексті: день з Даною",
+        "ru": "В контексте: день с Даной"
+      },
+      "recap": {
+        "from": "a1-u17-l03",
+        "note": {
+          "ua": "Згадаймо: Розповідаємо про свій день",
+          "ru": "Вспомним: Рассказываем о своём дне"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-3rd",
+            "question": "She ___ up at 6.",
+            "options": [
+              "gets",
+              "get",
+              "is get"
+            ],
+            "answer": "gets",
+            "explain": {
+              "ua": "She → gets up.",
+              "ru": "She → gets up."
+            },
+            "id": "a1-u17-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-negative",
+            "question": "He ___ go to work on Sunday.",
+            "options": [
+              "doesn't",
+              "don't",
+              "isn't"
+            ],
+            "answer": "doesn't",
+            "explain": {
+              "ua": "He → doesn't.",
+              "ru": "He → doesn't."
+            },
+            "id": "a1-u17-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What time does Dana get up?",
+              "options": [
+                "at 6:30",
+                "at 8",
+                "at 7:30"
+              ],
+              "answer": "at 6:30"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Dana goes to work by car.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Her husband cooks dinner.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does Dana do after dinner?",
+              "options": [
+                "walks the dog",
+                "goes to the gym",
+                "works"
+              ],
+              "answer": "walks the dog"
+            }
+          ],
+          "text": "Dana is a designer. She gets up at 6:30, takes a shower and has breakfast. She goes to work by bus and starts work at 9. She finishes work at 6 and comes home at 7. Her husband cooks dinner. After dinner Dana walks the dog. She goes to bed at 11.",
+          "explain": {
+            "ua": "6:30, by bus, husband cooks, walks the dog.",
+            "ru": "6:30, by bus, husband cooks, walks the dog."
+          },
+          "id": "a1-u17-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "starts",
+            "finishes",
+            "comes",
+            "goes"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Dana ___ work at 9.",
+            "She ___ work at 6.",
+            "She ___ home at 7.",
+            "She ___ to bed at 11."
+          ],
+          "answers": [
+            "starts",
+            "finishes",
+            "comes",
+            "goes"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u17-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Who cooks dinner?",
+          "options": [
+            "her husband",
+            "Dana",
+            "her mum"
+          ],
+          "answer": "her husband",
+          "explain": {
+            "ua": "Її чоловік.",
+            "ru": "Её муж."
+          },
+          "id": "a1-u17-l04-e03"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "Dana goes to work by ___.",
+          "answer": "bus",
+          "accept": [],
+          "explain": {
+            "ua": "By bus — автобусом.",
+            "ru": "By bus — на автобусе."
+          },
+          "id": "a1-u17-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-irregular",
+          "sentence": "Dana go to bed at 11.",
+          "answer": "Dana goes to bed at 11.",
+          "accept": [],
+          "explain": {
+            "ua": "Dana → goes.",
+            "ru": "Dana → goes."
+          },
+          "id": "a1-u17-l04-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "To rest, to do nothing after work.",
+          "answer": "relax",
+          "accept": [],
+          "explain": {
+            "ua": "Relax — відпочивати.",
+            "ru": "Relax — отдыхать."
+          },
+          "id": "a1-u17-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "husband",
+            "cooks",
+            "dinner",
+            "Her"
+          ],
+          "answer": "Her husband cooks dinner",
+          "explain": {
+            "ua": "Her husband → cooks → dinner.",
+            "ru": "Her husband → cooks → dinner."
+          },
+          "id": "a1-u17-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вона закінчує роботу о шостій.",
+            "ru": "Она заканчивает работу в шесть."
+          },
+          "answer": "She finishes work at 6.",
+          "accept": [
+            "She finishes work at six."
+          ],
+          "explain": {
+            "ua": "Finish → finishes.",
+            "ru": "Finish → finishes."
+          },
+          "id": "a1-u17-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u17-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u17-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: день з Даною",
+          "ru": "Вспомним: В контексте: день с Даной"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Who cooks dinner?",
+            "options": [
+              "her husband",
+              "Dana",
+              "her mum"
+            ],
+            "answer": "her husband",
+            "explain": {
+              "ua": "Її чоловік.",
+              "ru": "Её муж."
+            },
+            "id": "a1-u17-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "present-simple-irregular",
+            "sentence": "Dana go to bed at 11.",
+            "answer": "Dana goes to bed at 11.",
+            "accept": [],
+            "explain": {
+              "ua": "Dana → goes.",
+              "ru": "Dana → goes."
+            },
+            "id": "a1-u17-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "sleep",
+              "right": {
+                "ua": "спати",
+                "ru": "спать"
+              }
+            },
+            {
+              "left": "brush my teeth",
+              "right": {
+                "ua": "чистити зуби",
+                "ru": "чистить зубы"
+              }
+            },
+            {
+              "left": "cook dinner",
+              "right": {
+                "ua": "готувати вечерю",
+                "ru": "готовить ужин"
+              }
+            },
+            {
+              "left": "finish work",
+              "right": {
+                "ua": "закінчувати роботу",
+                "ru": "заканчивать работу"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u17-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Wake up ↔ ___",
+          "options": [
+            "go to bed",
+            "get dressed",
+            "relax"
+          ],
+          "answer": "go to bed",
+          "explain": {
+            "ua": "Прокидатися ↔ лягати спати.",
+            "ru": "Просыпаться ↔ ложиться спать."
+          },
+          "id": "a1-u17-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Start work ↔ ___",
+          "options": [
+            "finish work",
+            "go to work",
+            "come home"
+          ],
+          "answer": "finish work",
+          "explain": {
+            "ua": "Починати ↔ закінчувати.",
+            "ru": "Начинать ↔ заканчивать."
+          },
+          "id": "a1-u17-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You put on your clothes.",
+          "answer": "get dressed",
+          "accept": [],
+          "explain": {
+            "ua": "Get dressed — одягатися.",
+            "ru": "Get dressed — одеваться."
+          },
+          "id": "a1-u17-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "toothbrush",
+          "answer": "brush my teeth",
+          "accept": [
+            "brush your teeth",
+            "teeth"
+          ],
+          "explain": {
+            "ua": "Зубна щітка → чистити зуби.",
+            "ru": "Зубная щётка → чистить зубы."
+          },
+          "id": "a1-u17-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I go to the bed at 10.",
+          "answer": "I go to bed at 10.",
+          "accept": [
+            "I go to bed at ten."
+          ],
+          "explain": {
+            "ua": "Go to bed — без the.",
+            "ru": "Go to bed — без the."
+          },
+          "id": "a1-u17-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-3rd",
+          "sentence": "My son wake up at 7.",
+          "answer": "My son wakes up at 7.",
+          "accept": [],
+          "explain": {
+            "ua": "Son → wakes.",
+            "ru": "Son → wakes."
+          },
+          "id": "a1-u17-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "He gets dressed and goes to work.",
+          "options": [
+            "He gets dressed and goes to work.",
+            "He gets dressed and goes to bed.",
+            "He get dressed and go to work."
+          ],
+          "answer": "He gets dressed and goes to work.",
+          "audio": "",
+          "explain": {
+            "ua": "Go to work.",
+            "ru": "Go to work."
+          },
+          "id": "a1-u17-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я вигулюю собаку щовечора.",
+            "ru": "Я выгуливаю собаку каждый вечер."
+          },
+          "answer": "I walk the dog every evening.",
+          "accept": [
+            "I walk my dog every evening."
+          ],
+          "explain": {
+            "ua": "Walk the dog.",
+            "ru": "Walk the dog."
+          },
+          "id": "a1-u17-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми відпочиваємо на вихідних.",
+            "ru": "Мы отдыхаем на выходных."
+          },
+          "answer": "We relax at the weekend.",
+          "accept": [
+            "We relax on the weekend.",
+            "We relax at weekends."
+          ],
+          "explain": {
+            "ua": "Relax.",
+            "ru": "Relax."
+          },
+          "id": "a1-u17-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I ___ my teeth.",
+      "options": [
+        "brush",
+        "take",
+        "make"
+      ],
+      "answer": "brush",
+      "explain": {
+        "ua": "Brush my teeth.",
+        "ru": "Brush my teeth."
+      },
+      "id": "a1-u17-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "After work I ___ home.",
+      "options": [
+        "come",
+        "go to",
+        "get"
+      ],
+      "answer": "come",
+      "explain": {
+        "ua": "Come home.",
+        "ru": "Come home."
+      },
+      "id": "a1-u17-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "She ___ up at 7.",
+      "options": [
+        "gets",
+        "get",
+        "is get"
+      ],
+      "answer": "gets",
+      "explain": {
+        "ua": "She → gets.",
+        "ru": "She → gets."
+      },
+      "id": "a1-u17-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You do it when you stop sleeping.",
+      "answer": "wake up",
+      "accept": [
+        "get up"
+      ],
+      "explain": {
+        "ua": "Wake up.",
+        "ru": "Wake up."
+      },
+      "id": "a1-u17-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You do it with your dog.",
+      "answer": "walk the dog",
+      "accept": [
+        "walk"
+      ],
+      "explain": {
+        "ua": "Walk the dog.",
+        "ru": "Walk the dog."
+      },
+      "id": "a1-u17-cp05"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "get dressed",
+          "right": {
+            "ua": "одягатися",
+            "ru": "одеваться"
+          }
+        },
+        {
+          "left": "relax",
+          "right": {
+            "ua": "відпочивати",
+            "ru": "отдыхать"
+          }
+        },
+        {
+          "left": "go to bed",
+          "right": {
+            "ua": "лягати спати",
+            "ru": "ложиться спать"
+          }
+        },
+        {
+          "left": "start work",
+          "right": {
+            "ua": "починати роботу",
+            "ru": "начинать работу"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u17-cp06"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "take",
+        "go",
+        "cook"
+      ],
+      "reuse": false,
+      "sentences": [
+        "___ a shower.",
+        "___ to bed.",
+        "___ dinner."
+      ],
+      "answers": [
+        "take",
+        "go",
+        "cook"
+      ],
+      "explain": {
+        "ua": "take a shower, go to bed, cook dinner.",
+        "ru": "take a shower, go to bed, cook dinner."
+      },
+      "id": "a1-u17-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I go to home at 6.",
+      "answer": "I go home at 6.",
+      "accept": [],
+      "explain": {
+        "ua": "Go home — без to.",
+        "ru": "Go home — без to."
+      },
+      "id": "a1-u17-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "He take a shower.",
+      "answer": "He takes a shower.",
+      "accept": [],
+      "explain": {
+        "ua": "He → takes.",
+        "ru": "He → takes."
+      },
+      "id": "a1-u17-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "do",
+        "to",
+        "bed",
+        "you",
+        "time",
+        "What",
+        "go"
+      ],
+      "answer": "What time do you go to bed",
+      "explain": {
+        "ua": "What time → do you → go to bed?",
+        "ru": "What time → do you → go to bed?"
+      },
+      "id": "a1-u17-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я снідаю о восьмій.",
+        "ru": "Я завтракаю в восемь."
+      },
+      "answer": "I have breakfast at 8.",
+      "accept": [
+        "I have breakfast at eight."
+      ],
+      "explain": {
+        "ua": "Have breakfast.",
+        "ru": "Have breakfast."
+      },
+      "id": "a1-u17-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "She finishes work at five.",
+      "options": [
+        "She finishes work at five.",
+        "She finish work at five.",
+        "She finishes work at nine."
+      ],
+      "answer": "She finishes work at five.",
+      "audio": "",
+      "explain": {
+        "ua": "Finishes.",
+        "ru": "Finishes."
+      },
+      "id": "a1-u17-cp12"
+    }
+  ]
+}

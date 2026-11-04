@@ -1,0 +1,1516 @@
+{
+  "id": "a2-u05",
+  "level": "A2",
+  "order": 5,
+  "kind": "vocab",
+  "title": {
+    "en": "Clothes and shopping",
+    "ua": "Одяг і покупки",
+    "ru": "Одежда и покупки"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "jacket",
+      "ipa": "/ˈdʒækɪt/",
+      "ua": "куртка, піджак",
+      "ru": "куртка, пиджак",
+      "example": "A warm jacket.",
+      "audio": ""
+    },
+    {
+      "word": "coat",
+      "ipa": "/kəʊt/",
+      "ua": "пальто",
+      "ru": "пальто",
+      "example": "Take your coat.",
+      "audio": ""
+    },
+    {
+      "word": "jeans",
+      "ipa": "/dʒiːnz/",
+      "ua": "джинси",
+      "ru": "джинсы",
+      "example": "My jeans are blue.",
+      "audio": ""
+    },
+    {
+      "word": "trousers",
+      "ipa": "/ˈtraʊzəz/",
+      "ua": "штани",
+      "ru": "брюки",
+      "example": "Black trousers.",
+      "audio": ""
+    },
+    {
+      "word": "shirt",
+      "ipa": "/ʃɜːt/",
+      "ua": "сорочка",
+      "ru": "рубашка",
+      "example": "A white shirt.",
+      "audio": ""
+    },
+    {
+      "word": "skirt",
+      "ipa": "/skɜːt/",
+      "ua": "спідниця",
+      "ru": "юбка",
+      "example": "A long skirt.",
+      "audio": ""
+    },
+    {
+      "word": "sweater",
+      "ipa": "/ˈswetə/",
+      "ua": "светр",
+      "ru": "свитер",
+      "example": "A warm sweater.",
+      "audio": ""
+    },
+    {
+      "word": "boots",
+      "ipa": "/buːts/",
+      "ua": "черевики, чоботи",
+      "ru": "ботинки, сапоги",
+      "example": "Winter boots.",
+      "audio": ""
+    },
+    {
+      "word": "trainers",
+      "ipa": "/ˈtreɪnəz/",
+      "ua": "кросівки",
+      "ru": "кроссовки",
+      "example": "New trainers.",
+      "audio": ""
+    },
+    {
+      "word": "hat",
+      "ipa": "/hæt/",
+      "ua": "шапка, капелюх",
+      "ru": "шапка, шляпа",
+      "example": "A funny hat.",
+      "audio": ""
+    },
+    {
+      "word": "size",
+      "ipa": "/saɪz/",
+      "ua": "розмір",
+      "ru": "размер",
+      "example": "What size are you?",
+      "audio": ""
+    },
+    {
+      "word": "try on",
+      "ipa": "/ˌtraɪ ˈɒn/",
+      "ua": "приміряти",
+      "ru": "примерять",
+      "example": "Can I try it on?",
+      "audio": ""
+    },
+    {
+      "word": "fitting room",
+      "ipa": "/ˈfɪtɪŋ ruːm/",
+      "ua": "примірочна",
+      "ru": "примерочная",
+      "example": "Where's the fitting room?",
+      "audio": ""
+    },
+    {
+      "word": "fit",
+      "ipa": "/fɪt/",
+      "ua": "пасувати за розміром",
+      "ru": "подходить по размеру",
+      "example": "It doesn't fit.",
+      "audio": ""
+    },
+    {
+      "word": "suit",
+      "ipa": "/suːt/",
+      "ua": "личити, пасувати",
+      "ru": "идти, подходить (по стилю)",
+      "example": "Blue suits you.",
+      "audio": ""
+    },
+    {
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "ua": "розпродаж",
+      "ru": "распродажа",
+      "example": "It's on sale.",
+      "audio": ""
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "ua": "чек",
+      "ru": "чек",
+      "example": "Keep the receipt.",
+      "audio": ""
+    },
+    {
+      "word": "pay by card",
+      "ipa": "/ˌpeɪ baɪ ˈkɑːd/",
+      "ua": "платити карткою",
+      "ru": "платить картой",
+      "example": "Can I pay by card?",
+      "audio": ""
+    },
+    {
+      "word": "cash",
+      "ipa": "/kæʃ/",
+      "ua": "готівка",
+      "ru": "наличные",
+      "example": "I only have cash.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u05-l01",
+      "title": {
+        "en": "Clothes",
+        "ua": "Одяг",
+        "ru": "Одежда"
+      },
+      "recap": {
+        "from": "a2-u04-l03",
+        "note": {
+          "ua": "Згадаймо: good → better → the best · bad → worse → the worst · far → further → the furthest · as … as",
+          "ru": "Вспомним: good → better → the best · bad → worse → the worst · far → further → the furthest · as … as"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "comparatives-irregular",
+            "question": "This pizza is ___ than that one.",
+            "options": [
+              "better",
+              "gooder",
+              "more good"
+            ],
+            "answer": "better",
+            "explain": {
+              "ua": "Good → better.",
+              "ru": "Good → better."
+            },
+            "id": "a2-u05-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "as-as",
+            "question": "My flat is as big ___ yours.",
+            "options": [
+              "as",
+              "than",
+              "like"
+            ],
+            "answer": "as",
+            "explain": {
+              "ua": "As … as.",
+              "ru": "As … as."
+            },
+            "id": "a2-u05-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "jacket",
+              "right": {
+                "ua": "куртка",
+                "ru": "куртка"
+              }
+            },
+            {
+              "left": "skirt",
+              "right": {
+                "ua": "спідниця",
+                "ru": "юбка"
+              }
+            },
+            {
+              "left": "trousers",
+              "right": {
+                "ua": "штани",
+                "ru": "брюки"
+              }
+            },
+            {
+              "left": "sweater",
+              "right": {
+                "ua": "светр",
+                "ru": "свитер"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u05-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You wear them on your feet when it's cold.",
+          "options": [
+            "boots",
+            "jeans",
+            "hat"
+          ],
+          "answer": "boots",
+          "explain": {
+            "ua": "Boots.",
+            "ru": "Boots."
+          },
+          "id": "a2-u05-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You wear it on your head.",
+          "options": [
+            "hat",
+            "skirt",
+            "shirt"
+          ],
+          "answer": "hat",
+          "explain": {
+            "ua": "Hat.",
+            "ru": "Hat."
+          },
+          "id": "a2-u05-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Jeans ___ blue.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Jeans, trousers — завжди множина → are.",
+            "ru": "Jeans, trousers — всегда множественное → are."
+          },
+          "id": "a2-u05-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Sport shoes.",
+          "answer": "trainers",
+          "accept": [
+            "sneakers"
+          ],
+          "explain": {
+            "ua": "Trainers — кросівки.",
+            "ru": "Trainers — кроссовки."
+          },
+          "id": "a2-u05-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A long warm thing you wear over your clothes in winter.",
+          "answer": "coat",
+          "accept": [
+            "a coat",
+            "jacket"
+          ],
+          "explain": {
+            "ua": "Coat — пальто.",
+            "ru": "Coat — пальто."
+          },
+          "id": "a2-u05-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My trousers is black.",
+          "answer": "My trousers are black.",
+          "accept": [],
+          "explain": {
+            "ua": "Trousers → are.",
+            "ru": "Trousers → are."
+          },
+          "id": "a2-u05-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ʃɜːt/",
+          "options": [
+            "shirt",
+            "short",
+            "skirt"
+          ],
+          "answer": "shirt",
+          "explain": {
+            "ua": "/ɜː/ — як «йо» без й.",
+            "ru": "/ɜː/ — как «ё» без й."
+          },
+          "id": "a2-u05-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені потрібен теплий светр.",
+            "ru": "Мне нужен тёплый свитер."
+          },
+          "answer": "I need a warm sweater.",
+          "accept": [
+            "I need a warm jumper."
+          ],
+          "explain": {
+            "ua": "Need + a sweater.",
+            "ru": "Need + a sweater."
+          },
+          "id": "a2-u05-l01-e09"
+        }
+      ],
+      "words": [
+        "jacket",
+        "coat",
+        "jeans",
+        "trousers",
+        "shirt",
+        "skirt",
+        "sweater",
+        "boots",
+        "trainers",
+        "hat"
+      ]
+    },
+    {
+      "id": "a2-u05-l02",
+      "title": {
+        "en": "In the shop",
+        "ua": "У магазині",
+        "ru": "В магазине"
+      },
+      "recap": {
+        "from": "a2-u05-l01",
+        "note": {
+          "ua": "Згадаймо: Одяг",
+          "ru": "Вспомним: Одежда"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You wear them on your feet when it's cold.",
+            "options": [
+              "boots",
+              "jeans",
+              "hat"
+            ],
+            "answer": "boots",
+            "explain": {
+              "ua": "Boots.",
+              "ru": "Boots."
+            },
+            "id": "a2-u05-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Sport shoes.",
+            "answer": "trainers",
+            "accept": [
+              "sneakers"
+            ],
+            "explain": {
+              "ua": "Trainers — кросівки.",
+              "ru": "Trainers — кроссовки."
+            },
+            "id": "a2-u05-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "size",
+              "right": {
+                "ua": "розмір",
+                "ru": "размер"
+              }
+            },
+            {
+              "left": "try on",
+              "right": {
+                "ua": "приміряти",
+                "ru": "примерять"
+              }
+            },
+            {
+              "left": "fitting room",
+              "right": {
+                "ua": "примірочна",
+                "ru": "примерочная"
+              }
+            },
+            {
+              "left": "sale",
+              "right": {
+                "ua": "розпродаж",
+                "ru": "распродажа"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u05-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Can I ___ this dress?",
+          "options": [
+            "try on",
+            "fit",
+            "suit"
+          ],
+          "answer": "try on",
+          "explain": {
+            "ua": "Try on — приміряти.",
+            "ru": "Try on — примерять."
+          },
+          "id": "a2-u05-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's too small. It doesn't ___ .",
+          "options": [
+            "fit",
+            "suit",
+            "try"
+          ],
+          "answer": "fit",
+          "explain": {
+            "ua": "Fit — за розміром.",
+            "ru": "Fit — по размеру."
+          },
+          "id": "a2-u05-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Red really ___ you!",
+          "options": [
+            "suits",
+            "fits",
+            "tries"
+          ],
+          "answer": "suits",
+          "explain": {
+            "ua": "Suit — личить.",
+            "ru": "Suit — идёт."
+          },
+          "id": "a2-u05-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What ___ are you? — Medium.",
+          "options": [
+            "size",
+            "price",
+            "sale"
+          ],
+          "answer": "size",
+          "explain": {
+            "ua": "Size — розмір.",
+            "ru": "Size — размер."
+          },
+          "id": "a2-u05-l02-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A small room in a shop where you try clothes on.",
+          "answer": "fitting room",
+          "accept": [
+            "changing room",
+            "a fitting room"
+          ],
+          "explain": {
+            "ua": "Fitting room.",
+            "ru": "Fitting room."
+          },
+          "id": "a2-u05-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Can I try it?",
+          "answer": "Can I try it on?",
+          "accept": [],
+          "explain": {
+            "ua": "Приміряти — try on.",
+            "ru": "Примерять — try on."
+          },
+          "id": "a2-u05-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It doesn't fit me.",
+          "options": [
+            "It doesn't fit me.",
+            "It doesn't suit me.",
+            "It doesn't fit you."
+          ],
+          "answer": "It doesn't fit me.",
+          "audio": "",
+          "explain": {
+            "ua": "Fit — розмір.",
+            "ru": "Fit — размер."
+          },
+          "id": "a2-u05-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Можна приміряти?",
+            "ru": "Можно примерить?"
+          },
+          "answer": "Can I try it on?",
+          "accept": [
+            "Can I try this on?"
+          ],
+          "explain": {
+            "ua": "Try it on.",
+            "ru": "Try it on."
+          },
+          "id": "a2-u05-l02-e09"
+        }
+      ],
+      "words": [
+        "size",
+        "try on",
+        "fitting room",
+        "fit",
+        "suit",
+        "sale"
+      ]
+    },
+    {
+      "id": "a2-u05-l03",
+      "title": {
+        "en": "Paying",
+        "ua": "Оплата",
+        "ru": "Оплата"
+      },
+      "recap": {
+        "from": "a2-u05-l02",
+        "note": {
+          "ua": "Згадаймо: У магазині",
+          "ru": "Вспомним: В магазине"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Can I ___ this dress?",
+            "options": [
+              "try on",
+              "fit",
+              "suit"
+            ],
+            "answer": "try on",
+            "explain": {
+              "ua": "Try on — приміряти.",
+              "ru": "Try on — примерять."
+            },
+            "id": "a2-u05-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What ___ are you? — Medium.",
+            "options": [
+              "size",
+              "price",
+              "sale"
+            ],
+            "answer": "size",
+            "explain": {
+              "ua": "Size — розмір.",
+              "ru": "Size — размер."
+            },
+            "id": "a2-u05-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "receipt",
+              "right": {
+                "ua": "чек",
+                "ru": "чек"
+              }
+            },
+            {
+              "left": "cash",
+              "right": {
+                "ua": "готівка",
+                "ru": "наличные"
+              }
+            },
+            {
+              "left": "pay by card",
+              "right": {
+                "ua": "платити карткою",
+                "ru": "платить картой"
+              }
+            },
+            {
+              "left": "on sale",
+              "right": {
+                "ua": "зі знижкою",
+                "ru": "со скидкой"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u05-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Can I pay ___ card?",
+          "options": [
+            "by",
+            "with",
+            "on"
+          ],
+          "answer": "by",
+          "explain": {
+            "ua": "Pay by card.",
+            "ru": "Pay by card."
+          },
+          "id": "a2-u05-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I don't have a card. I'll pay in ___.",
+          "options": [
+            "cash",
+            "receipt",
+            "sale"
+          ],
+          "answer": "cash",
+          "explain": {
+            "ua": "In cash.",
+            "ru": "In cash."
+          },
+          "id": "a2-u05-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Keep the ___ if you want to return it.",
+          "options": [
+            "receipt",
+            "size",
+            "fitting room"
+          ],
+          "answer": "receipt",
+          "explain": {
+            "ua": "Receipt — чек.",
+            "ru": "Receipt — чек."
+          },
+          "id": "a2-u05-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's 50% off — it's on ___!",
+          "options": [
+            "sale",
+            "cash",
+            "size"
+          ],
+          "answer": "sale",
+          "explain": {
+            "ua": "On sale — зі знижкою.",
+            "ru": "On sale — со скидкой."
+          },
+          "id": "a2-u05-l03-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "demonstratives",
+          "question": "— How much ___ these jeans? — 40 dollars.",
+          "answer": "are",
+          "accept": [],
+          "explain": {
+            "ua": "Jeans → are.",
+            "ru": "Jeans → are."
+          },
+          "id": "a2-u05-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Can I pay with cash?",
+          "answer": "Can I pay in cash?",
+          "accept": [
+            "Can I pay cash?"
+          ],
+          "explain": {
+            "ua": "In cash, by card.",
+            "ru": "In cash, by card."
+          },
+          "id": "a2-u05-l03-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/rɪˈsiːt/",
+          "options": [
+            "receipt",
+            "recipe",
+            "reset"
+          ],
+          "answer": "receipt",
+          "explain": {
+            "ua": "p у receipt не читається!",
+            "ru": "p в receipt не читается!"
+          },
+          "id": "a2-u05-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Можна оплатити карткою?",
+            "ru": "Можно оплатить картой?"
+          },
+          "answer": "Can I pay by card?",
+          "accept": [],
+          "explain": {
+            "ua": "Pay by card.",
+            "ru": "Pay by card."
+          },
+          "id": "a2-u05-l03-e09"
+        }
+      ],
+      "words": [
+        "receipt",
+        "pay by card",
+        "cash"
+      ]
+    },
+    {
+      "id": "a2-u05-l04",
+      "title": {
+        "en": "In context: buying a jacket",
+        "ua": "У контексті: купуємо куртку",
+        "ru": "В контексте: покупаем куртку"
+      },
+      "recap": {
+        "from": "a2-u05-l03",
+        "note": {
+          "ua": "Згадаймо: Оплата",
+          "ru": "Вспомним: Оплата"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Can I pay ___ card?",
+            "options": [
+              "by",
+              "with",
+              "on"
+            ],
+            "answer": "by",
+            "explain": {
+              "ua": "Pay by card.",
+              "ru": "Pay by card."
+            },
+            "id": "a2-u05-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "It's 50% off — it's on ___!",
+            "options": [
+              "sale",
+              "cash",
+              "size"
+            ],
+            "answer": "sale",
+            "explain": {
+              "ua": "On sale — зі знижкою.",
+              "ru": "On sale — со скидкой."
+            },
+            "id": "a2-u05-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The first jacket was too small.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "The jacket was on sale.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "How did Ann pay?",
+              "options": [
+                "by card",
+                "in cash",
+                "she didn't pay"
+              ],
+              "answer": "by card"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ann",
+              "line": "Excuse me, can I try on this jacket?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "Of course. The fitting room is over there."
+            },
+            {
+              "speaker": "Ann",
+              "line": "Hmm, it's too big. Have you got a smaller size?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "Here you are — size S."
+            },
+            {
+              "speaker": "Ann",
+              "line": "It fits! And the colour suits me. How much is it?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "It's on sale — just 35 dollars."
+            },
+            {
+              "speaker": "Ann",
+              "line": "Great! Can I pay by card?"
+            },
+            {
+              "speaker": "Assistant",
+              "line": "Sure. Here's your receipt."
+            }
+          ],
+          "explain": {
+            "ua": "First too big, smaller fits, on sale, by card.",
+            "ru": "First too big, smaller fits, on sale, by card."
+          },
+          "id": "a2-u05-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "try on",
+            "too big",
+            "fits",
+            "on sale",
+            "receipt"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ann wants to ___ a jacket.",
+            "The first one is ___.",
+            "The size S ___.",
+            "The jacket is ___.",
+            "The assistant gives her the ___."
+          ],
+          "answers": [
+            "try on",
+            "too big",
+            "fits",
+            "on sale",
+            "receipt"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u05-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "Have you got a ___ size?",
+          "options": [
+            "smaller",
+            "more small",
+            "smallest"
+          ],
+          "answer": "smaller",
+          "explain": {
+            "ua": "Small → smaller.",
+            "ru": "Small → smaller."
+          },
+          "id": "a2-u05-l04-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Excuse me",
+              "right": {
+                "ua": "Перепрошую",
+                "ru": "Извините"
+              }
+            },
+            {
+              "left": "Of course.",
+              "right": {
+                "ua": "Звісно.",
+                "ru": "Конечно."
+              }
+            },
+            {
+              "left": "over there",
+              "right": {
+                "ua": "он там",
+                "ru": "вон там"
+              }
+            },
+            {
+              "left": "Here's your receipt.",
+              "right": {
+                "ua": "Ось ваш чек.",
+                "ru": "Вот ваш чек."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u05-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "This colour fits me.",
+          "answer": "This colour suits me.",
+          "accept": [],
+          "explain": {
+            "ua": "Колір — suit, розмір — fit.",
+            "ru": "Цвет — suit, размер — fit."
+          },
+          "id": "a2-u05-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It's too much big.",
+          "answer": "It's too big.",
+          "accept": [],
+          "explain": {
+            "ua": "Too + прикметник.",
+            "ru": "Too + прилагательное."
+          },
+          "id": "a2-u05-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Have you got a smaller size?",
+          "options": [
+            "Have you got a smaller size?",
+            "Have you got a smaller sign?",
+            "Have you got the smallest size?"
+          ],
+          "answer": "Have you got a smaller size?",
+          "audio": "",
+          "explain": {
+            "ua": "Smaller size.",
+            "ru": "Smaller size."
+          },
+          "id": "a2-u05-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вона мені завелика.",
+            "ru": "Она мне велика."
+          },
+          "answer": "It's too big for me.",
+          "accept": [
+            "It is too big for me.",
+            "It's too big."
+          ],
+          "explain": {
+            "ua": "Too big.",
+            "ru": "Too big."
+          },
+          "id": "a2-u05-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u05-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u05-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: купуємо куртку",
+          "ru": "Вспомним: В контексте: покупаем куртку"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "comparatives",
+            "question": "Have you got a ___ size?",
+            "options": [
+              "smaller",
+              "more small",
+              "smallest"
+            ],
+            "answer": "smaller",
+            "explain": {
+              "ua": "Small → smaller.",
+              "ru": "Small → smaller."
+            },
+            "id": "a2-u05-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "It's too much big.",
+            "answer": "It's too big.",
+            "accept": [],
+            "explain": {
+              "ua": "Too + прикметник.",
+              "ru": "Too + прилагательное."
+            },
+            "id": "a2-u05-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "coat",
+              "right": {
+                "ua": "пальто",
+                "ru": "пальто"
+              }
+            },
+            {
+              "left": "boots",
+              "right": {
+                "ua": "черевики",
+                "ru": "ботинки"
+              }
+            },
+            {
+              "left": "shirt",
+              "right": {
+                "ua": "сорочка",
+                "ru": "рубашка"
+              }
+            },
+            {
+              "left": "trainers",
+              "right": {
+                "ua": "кросівки",
+                "ru": "кроссовки"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u05-l05-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "fit",
+            "suit",
+            "try on"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Can I ___ these shoes?",
+            "They don't ___ — they're too small.",
+            "Green doesn't ___ me."
+          ],
+          "answers": [
+            "try on",
+            "fit",
+            "suit"
+          ],
+          "explain": {
+            "ua": "try on, fit (розмір), suit (стиль).",
+            "ru": "try on, fit (размер), suit (стиль)."
+          },
+          "id": "a2-u05-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT clothes?",
+          "options": [
+            "receipt",
+            "skirt",
+            "jacket"
+          ],
+          "answer": "receipt",
+          "explain": {
+            "ua": "Receipt — чек.",
+            "ru": "Receipt — чек."
+          },
+          "id": "a2-u05-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Blue trousers made of strong cotton.",
+          "answer": "jeans",
+          "accept": [],
+          "explain": {
+            "ua": "Jeans.",
+            "ru": "Jeans."
+          },
+          "id": "a2-u05-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Paper money and coins.",
+          "answer": "cash",
+          "accept": [],
+          "explain": {
+            "ua": "Cash.",
+            "ru": "Cash."
+          },
+          "id": "a2-u05-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "winter",
+          "answer": "coat",
+          "accept": [
+            "boots",
+            "sweater",
+            "hat",
+            "jacket"
+          ],
+          "explain": {
+            "ua": "Зима → пальто.",
+            "ru": "Зима → пальто."
+          },
+          "id": "a2-u05-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My jeans is new.",
+          "answer": "My jeans are new.",
+          "accept": [],
+          "explain": {
+            "ua": "Jeans → are.",
+            "ru": "Jeans → are."
+          },
+          "id": "a2-u05-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Where's the fitting room?",
+          "options": [
+            "Where's the fitting room?",
+            "Where's the sitting room?",
+            "Where's the fitness room?"
+          ],
+          "answer": "Where's the fitting room?",
+          "audio": "",
+          "explain": {
+            "ua": "Fitting room.",
+            "ru": "Fitting room."
+          },
+          "id": "a2-u05-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Цей колір тобі личить.",
+            "ru": "Этот цвет тебе идёт."
+          },
+          "answer": "This colour suits you.",
+          "accept": [
+            "This color suits you."
+          ],
+          "explain": {
+            "ua": "Suit.",
+            "ru": "Suit."
+          },
+          "id": "a2-u05-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Can I ___ this dress?",
+      "options": [
+        "try on",
+        "fit",
+        "pay"
+      ],
+      "answer": "try on",
+      "explain": {
+        "ua": "Try on.",
+        "ru": "Try on."
+      },
+      "id": "a2-u05-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "It's too small. It doesn't ___.",
+      "options": [
+        "fit",
+        "suit",
+        "sale"
+      ],
+      "answer": "fit",
+      "explain": {
+        "ua": "Fit.",
+        "ru": "Fit."
+      },
+      "id": "a2-u05-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Can I pay ___ card?",
+      "options": [
+        "by",
+        "with",
+        "in"
+      ],
+      "answer": "by",
+      "explain": {
+        "ua": "By card.",
+        "ru": "By card."
+      },
+      "id": "a2-u05-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A room where you try on clothes.",
+      "answer": "fitting room",
+      "accept": [
+        "changing room",
+        "a fitting room"
+      ],
+      "explain": {
+        "ua": "Fitting room.",
+        "ru": "Fitting room."
+      },
+      "id": "a2-u05-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A paper from the shop after you pay.",
+      "answer": "receipt",
+      "accept": [
+        "a receipt"
+      ],
+      "explain": {
+        "ua": "Receipt.",
+        "ru": "Receipt."
+      },
+      "id": "a2-u05-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Pink really ___ you!",
+      "answer": "suits",
+      "accept": [],
+      "explain": {
+        "ua": "Suit — личить.",
+        "ru": "Suit — идёт."
+      },
+      "id": "a2-u05-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "sweater",
+          "right": {
+            "ua": "светр",
+            "ru": "свитер"
+          }
+        },
+        {
+          "left": "size",
+          "right": {
+            "ua": "розмір",
+            "ru": "размер"
+          }
+        },
+        {
+          "left": "sale",
+          "right": {
+            "ua": "розпродаж",
+            "ru": "распродажа"
+          }
+        },
+        {
+          "left": "hat",
+          "right": {
+            "ua": "шапка",
+            "ru": "шапка"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u05-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "These trousers is cheap.",
+      "answer": "These trousers are cheap.",
+      "accept": [],
+      "explain": {
+        "ua": "Trousers → are.",
+        "ru": "Trousers → are."
+      },
+      "id": "a2-u05-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Can I pay with cash?",
+      "answer": "Can I pay in cash?",
+      "accept": [
+        "Can I pay cash?"
+      ],
+      "explain": {
+        "ua": "In cash.",
+        "ru": "In cash."
+      },
+      "id": "a2-u05-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "you",
+        "got",
+        "size",
+        "a",
+        "bigger",
+        "Have"
+      ],
+      "answer": "Have you got a bigger size",
+      "explain": {
+        "ua": "Have you got → a bigger size?",
+        "ru": "Have you got → a bigger size?"
+      },
+      "id": "a2-u05-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Ці джинси зі знижкою.",
+        "ru": "Эти джинсы со скидкой."
+      },
+      "answer": "These jeans are on sale.",
+      "accept": [],
+      "explain": {
+        "ua": "On sale.",
+        "ru": "On sale."
+      },
+      "id": "a2-u05-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "It's on sale.",
+      "options": [
+        "It's on sale.",
+        "It's for sale.",
+        "It's on sail."
+      ],
+      "answer": "It's on sale.",
+      "audio": "",
+      "explain": {
+        "ua": "On sale — зі знижкою.",
+        "ru": "On sale — со скидкой."
+      },
+      "id": "a2-u05-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "id": "a1-u08",
+  "level": "A1",
+  "order": 8,
+  "kind": "grammar",
+  "title": {
+    "en": "Plurals",
+    "ua": "Множина",
+    "ru": "Множественное число"
+  },
+  "rule": {
+    "formula": "one cat → two cats · one box → two boxes · one city → two cities · one man → two men",
+    "explain": {
+      "ua": "Множину зазвичай утворюємо через -s. Після s, x, sh, ch — -es. Приголосний + y → -ies. Є слова-винятки, їх треба запам'ятати.",
+      "ru": "Множественное обычно образуем через -s. После s, x, sh, ch — -es. Согласный + y → -ies. Есть слова-исключения, их нужно запомнить."
+    },
+    "examples": [
+      {
+        "en": "two apples",
+        "ua": "два яблука",
+        "ru": "два яблока"
+      },
+      {
+        "en": "three boxes",
+        "ua": "три коробки",
+        "ru": "три коробки"
+      },
+      {
+        "en": "five children",
+        "ua": "п'ятеро дітей",
+        "ru": "пятеро детей"
+      }
+    ],
+    "compare": {
+      "ua": "В українській закінчення множини різні (-и, -і, -а). В англійській майже завжди просто -s: books, cars, friends.",
+      "ru": "В русском окончания множественного разные (-ы, -и, -а). В английском почти всегда просто -s: books, cars, friends."
+    }
+  },
+  "vocab": [
+    {
+      "word": "box",
+      "ipa": "/bɒks/",
+      "ua": "коробка",
+      "ru": "коробка",
+      "example": "Two boxes, please.",
+      "audio": ""
+    },
+    {
+      "word": "bus",
+      "ipa": "/bʌs/",
+      "ua": "автобус",
+      "ru": "автобус",
+      "example": "The buses are red.",
+      "audio": ""
+    },
+    {
+      "word": "glass",
+      "ipa": "/ɡlɑːs/",
+      "ua": "склянка",
+      "ru": "стакан",
+      "example": "Two glasses of water.",
+      "audio": ""
+    },
+    {
+      "word": "watch",
+      "ipa": "/wɒtʃ/",
+      "ua": "годинник (наручний)",
+      "ru": "часы (наручные)",
+      "example": "I have two watches.",
+      "audio": ""
+    },
+    {
+      "word": "dish",
+      "ipa": "/dɪʃ/",
+      "ua": "страва; тарілка",
+      "ru": "блюдо; тарелка",
+      "example": "The dishes are on the table.",
+      "audio": ""
+    },
+    {
+      "word": "baby",
+      "ipa": "/ˈbeɪbi/",
+      "ua": "немовля",
+      "ru": "малыш",
+      "example": "The babies are happy.",
+      "audio": ""
+    },
+    {
+      "word": "city",
+      "ipa": "/ˈsɪti/",
+      "ua": "місто",
+      "ru": "город",
+      "example": "Kyiv and Lviv are cities.",
+      "audio": ""
+    },
+    {
+      "word": "knife",
+      "ipa": "/naɪf/",
+      "ua": "ніж",
+      "ru": "нож",
+      "example": "The knives are sharp.",
+      "audio": ""
+    },
+    {
+      "word": "man",
+      "ipa": "/mæn/",
+      "ua": "чоловік",
+      "ru": "мужчина",
+      "example": "Two men are here.",
+      "audio": ""
+    },
+    {
+      "word": "woman",
+      "ipa": "/ˈwʊmən/",
+      "ua": "жінка",
+      "ru": "женщина",
+      "example": "The women are doctors.",
+      "audio": ""
+    },
+    {
+      "word": "person",
+      "ipa": "/ˈpɜːsn/",
+      "ua": "людина",
+      "ru": "человек",
+      "example": "Ten people are here.",
+      "audio": ""
+    },
+    {
+      "word": "tooth",
+      "ipa": "/tuːθ/",
+      "ua": "зуб",
+      "ru": "зуб",
+      "example": "My teeth are white.",
+      "audio": ""
+    },
+    {
+      "word": "foot",
+      "ipa": "/fʊt/",
+      "ua": "стопа, ступня",
+      "ru": "стопа, ступня",
+      "example": "My feet are cold.",
+      "audio": ""
+    },
+    {
+      "word": "mouse",
+      "ipa": "/maʊs/",
+      "ua": "миша",
+      "ru": "мышь",
+      "example": "Two mice!",
+      "audio": ""
+    },
+    {
+      "word": "tomato",
+      "ipa": "/təˈmɑːtəʊ/",
+      "ua": "помідор",
+      "ru": "помидор",
+      "example": "Three tomatoes, please.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u08-l01",
+      "title": {
+        "en": "-s and -es",
+        "ua": "-s і -es",
+        "ru": "-s и -es"
+      },
+      "recap": {
+        "from": "a1-u07-l03",
+        "note": {
+          "ua": "Згадаймо: Ким ти працюєш?",
+          "ru": "Вспомним: Кем ты работаешь?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's your ___? — I'm a teacher.",
+            "options": [
+              "job",
+              "work as",
+              "name"
+            ],
+            "answer": "job",
+            "explain": {
+              "ua": "What's your job? — ким ти працюєш?",
+              "ru": "What's your job? — кем ты работаешь?"
+            },
+            "id": "a1-u08-l01-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "I'm ___ programmer.",
+            "answer": "a",
+            "accept": [],
+            "explain": {
+              "ua": "Професія — з a / an.",
+              "ru": "Профессия — с a / an."
+            },
+            "id": "a1-u08-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "+s: cats, books · +es після s, x, sh, ch, o: buses, boxes, dishes, watches, tomatoes",
+          "ru": "+s: cats, books · +es после s, x, sh, ch, o: buses, boxes, dishes, watches, tomatoes"
+        },
+        "explain": {
+          "ua": "Більшість слів: просто +s. Якщо слово закінчується на s, x, sh, ch — додаємо -es (так легше вимовити). Деякі слова на -o теж: tomatoes, potatoes.",
+          "ru": "Большинство слов: просто +s. Если слово заканчивается на s, x, sh, ch — добавляем -es (так легче произнести). Некоторые слова на -o тоже: tomatoes, potatoes."
+        },
+        "examples": [
+          {
+            "en": "a book → books",
+            "ua": "книжка → книжки",
+            "ru": "книга → книги"
+          },
+          {
+            "en": "a box → boxes",
+            "ua": "коробка → коробки",
+            "ru": "коробка → коробки"
+          },
+          {
+            "en": "a watch → watches",
+            "ua": "годинник → годинники",
+            "ru": "часы → несколько часов"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "plural-s-es",
+          "question": "one car → two ___",
+          "options": [
+            "cars",
+            "cares",
+            "car"
+          ],
+          "answer": "cars",
+          "explain": {
+            "ua": "Звичайне слово → +s.",
+            "ru": "Обычное слово → +s."
+          },
+          "id": "a1-u08-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-s-es",
+          "question": "one box → two ___",
+          "options": [
+            "boxes",
+            "boxs",
+            "box"
+          ],
+          "answer": "boxes",
+          "explain": {
+            "ua": "Після x → -es.",
+            "ru": "После x → -es."
+          },
+          "id": "a1-u08-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-s-es",
+          "question": "one bus → two ___",
+          "options": [
+            "buses",
+            "buss",
+            "bus"
+          ],
+          "answer": "buses",
+          "explain": {
+            "ua": "Після s → -es.",
+            "ru": "После s → -es."
+          },
+          "id": "a1-u08-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-s-es",
+          "question": "one dish → two ___",
+          "options": [
+            "dishes",
+            "dishs",
+            "dish"
+          ],
+          "answer": "dishes",
+          "explain": {
+            "ua": "Після sh → -es.",
+            "ru": "После sh → -es."
+          },
+          "id": "a1-u08-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "plural-s-es",
+          "question": "one watch → two ___",
+          "answer": "watches",
+          "accept": [],
+          "explain": {
+            "ua": "Після ch → -es.",
+            "ru": "После ch → -es."
+          },
+          "id": "a1-u08-l01-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "plural-s-es",
+          "question": "one tomato → three ___",
+          "answer": "tomatoes",
+          "accept": [],
+          "explain": {
+            "ua": "Tomato → tomatoes.",
+            "ru": "Tomato → tomatoes."
+          },
+          "id": "a1-u08-l01-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "plural-s-es",
+          "bank": [
+            "-s",
+            "-es"
+          ],
+          "reuse": true,
+          "sentences": [
+            "glass___",
+            "friend___",
+            "watch___",
+            "phone___"
+          ],
+          "answers": [
+            "-es",
+            "-s",
+            "-es",
+            "-s"
+          ],
+          "explain": {
+            "ua": "glasses, friends, watches, phones.",
+            "ru": "glasses, friends, watches, phones."
+          },
+          "id": "a1-u08-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "plural-s-es",
+          "sentence": "I have two bag.",
+          "answer": "I have two bags.",
+          "accept": [],
+          "explain": {
+            "ua": "Дві — множина → bags.",
+            "ru": "Две — множественное → bags."
+          },
+          "id": "a1-u08-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "plural-s-es",
+          "prompt": {
+            "ua": "У мене дві коробки.",
+            "ru": "У меня две коробки."
+          },
+          "answer": "I have two boxes.",
+          "accept": [],
+          "explain": {
+            "ua": "Box → boxes.",
+            "ru": "Box → boxes."
+          },
+          "id": "a1-u08-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u08-l02",
+      "title": {
+        "en": "-ies and -ves",
+        "ua": "-ies і -ves",
+        "ru": "-ies и -ves"
+      },
+      "recap": {
+        "from": "a1-u08-l01",
+        "note": {
+          "ua": "Згадаймо: +s: cats, books · +es після s, x, sh, ch, o: buses, boxes, dishes, watches, tomatoes",
+          "ru": "Вспомним: +s: cats, books · +es после s, x, sh, ch, o: buses, boxes, dishes, watches, tomatoes"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "plural-s-es",
+            "question": "one car → two ___",
+            "options": [
+              "cars",
+              "cares",
+              "car"
+            ],
+            "answer": "cars",
+            "explain": {
+              "ua": "Звичайне слово → +s.",
+              "ru": "Обычное слово → +s."
+            },
+            "id": "a1-u08-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "plural-s-es",
+            "question": "one watch → two ___",
+            "answer": "watches",
+            "accept": [],
+            "explain": {
+              "ua": "Після ch → -es.",
+              "ru": "После ch → -es."
+            },
+            "id": "a1-u08-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "приголосний + y → -ies: city → cities · голосний + y → -s: boy → boys · f / fe → -ves: knife → knives",
+          "ru": "согласный + y → -ies: city → cities · гласный + y → -s: boy → boys · f / fe → -ves: knife → knives"
+        },
+        "explain": {
+          "ua": "Якщо перед y приголосний — y змінюється на i + es. Якщо перед y голосний (a, o, e) — просто +s. Багато слів на f / fe → -ves.",
+          "ru": "Если перед y согласный — y меняется на i + es. Если перед y гласный (a, o, e) — просто +s. Многие слова на f / fe → -ves."
+        },
+        "examples": [
+          {
+            "en": "a baby → babies",
+            "ua": "немовля → немовлята",
+            "ru": "малыш → малыши"
+          },
+          {
+            "en": "a boy → boys",
+            "ua": "хлопчик → хлопчики",
+            "ru": "мальчик → мальчики"
+          },
+          {
+            "en": "a knife → knives",
+            "ua": "ніж → ножі",
+            "ru": "нож → ножи"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "plural-ies-ves",
+          "question": "one city → two ___",
+          "options": [
+            "cities",
+            "citys",
+            "cityes"
+          ],
+          "answer": "cities",
+          "explain": {
+            "ua": "Приголосний t + y → -ies.",
+            "ru": "Согласный t + y → -ies."
+          },
+          "id": "a1-u08-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-ies-ves",
+          "question": "one boy → two ___",
+          "options": [
+            "boys",
+            "boies",
+            "boyes"
+          ],
+          "answer": "boys",
+          "explain": {
+            "ua": "Голосний o + y → просто +s.",
+            "ru": "Гласный o + y → просто +s."
+          },
+          "id": "a1-u08-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-ies-ves",
+          "question": "one baby → two ___",
+          "options": [
+            "babies",
+            "babys",
+            "babyes"
+          ],
+          "answer": "babies",
+          "explain": {
+            "ua": "b + y → -ies.",
+            "ru": "b + y → -ies."
+          },
+          "id": "a1-u08-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-ies-ves",
+          "question": "one knife → two ___",
+          "options": [
+            "knives",
+            "knifes",
+            "knifs"
+          ],
+          "answer": "knives",
+          "explain": {
+            "ua": "fe → -ves.",
+            "ru": "fe → -ves."
+          },
+          "id": "a1-u08-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-ies-ves",
+          "question": "one key → two ___",
+          "options": [
+            "keys",
+            "kies",
+            "keyes"
+          ],
+          "answer": "keys",
+          "explain": {
+            "ua": "Голосний e + y → +s.",
+            "ru": "Гласный e + y → +s."
+          },
+          "id": "a1-u08-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "plural-ies-ves",
+          "question": "one family → two ___",
+          "answer": "families",
+          "accept": [],
+          "explain": {
+            "ua": "l + y → -ies.",
+            "ru": "l + y → -ies."
+          },
+          "id": "a1-u08-l02-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "plural-ies-ves",
+          "question": "one wife → two ___",
+          "answer": "wives",
+          "accept": [],
+          "explain": {
+            "ua": "fe → -ves.",
+            "ru": "fe → -ves."
+          },
+          "id": "a1-u08-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "plural-ies-ves",
+          "sentence": "Kyiv and Odesa are big citys.",
+          "answer": "Kyiv and Odesa are big cities.",
+          "accept": [],
+          "explain": {
+            "ua": "City → cities.",
+            "ru": "City → cities."
+          },
+          "id": "a1-u08-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "plural-ies-ves",
+          "prompt": {
+            "ua": "Ножі на столі.",
+            "ru": "Ножи на столе."
+          },
+          "answer": "The knives are on the table.",
+          "accept": [],
+          "explain": {
+            "ua": "Knife → knives.",
+            "ru": "Knife → knives."
+          },
+          "id": "a1-u08-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u08-l03",
+      "title": {
+        "en": "Irregular plurals + practice",
+        "ua": "Винятки + практика",
+        "ru": "Исключения + практика"
+      },
+      "recap": {
+        "from": "a1-u08-l02",
+        "note": {
+          "ua": "Згадаймо: приголосний + y → -ies: city → cities · голосний + y → -s: boy → boys · f / fe → -ves: knife → knives",
+          "ru": "Вспомним: согласный + y → -ies: city → cities · гласный + y → -s: boy → boys · f / fe → -ves: knife → knives"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "plural-ies-ves",
+            "question": "one city → two ___",
+            "options": [
+              "cities",
+              "citys",
+              "cityes"
+            ],
+            "answer": "cities",
+            "explain": {
+              "ua": "Приголосний t + y → -ies.",
+              "ru": "Согласный t + y → -ies."
+            },
+            "id": "a1-u08-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "plural-ies-ves",
+            "question": "one key → two ___",
+            "options": [
+              "keys",
+              "kies",
+              "keyes"
+            ],
+            "answer": "keys",
+            "explain": {
+              "ua": "Голосний e + y → +s.",
+              "ru": "Гласный e + y → +s."
+            },
+            "id": "a1-u08-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "man → men · woman → women · child → children · person → people · tooth → teeth · foot → feet · mouse → mice",
+        "explain": {
+          "ua": "Ці слова утворюють множину по-своєму — їх просто запам'ятовуємо. Увага: person → people (люди).",
+          "ru": "Эти слова образуют множественное по-своему — их просто запоминаем. Внимание: person → people (люди)."
+        },
+        "examples": [
+          {
+            "en": "two men",
+            "ua": "двоє чоловіків",
+            "ru": "двое мужчин"
+          },
+          {
+            "en": "three children",
+            "ua": "троє дітей",
+            "ru": "трое детей"
+          },
+          {
+            "en": "many people",
+            "ua": "багато людей",
+            "ru": "много людей"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "plural-irregular",
+          "question": "one man → two ___",
+          "options": [
+            "men",
+            "mans",
+            "mens"
+          ],
+          "answer": "men",
+          "explain": {
+            "ua": "Man → men.",
+            "ru": "Man → men."
+          },
+          "id": "a1-u08-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-irregular",
+          "question": "one child → three ___",
+          "options": [
+            "children",
+            "childs",
+            "childrens"
+          ],
+          "answer": "children",
+          "explain": {
+            "ua": "Child → children.",
+            "ru": "Child → children."
+          },
+          "id": "a1-u08-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-irregular",
+          "question": "one person → ten ___",
+          "options": [
+            "people",
+            "persons",
+            "peoples"
+          ],
+          "answer": "people",
+          "explain": {
+            "ua": "Person → people.",
+            "ru": "Person → people."
+          },
+          "id": "a1-u08-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "plural-irregular",
+          "question": "one tooth → many ___",
+          "options": [
+            "teeth",
+            "tooths",
+            "teeths"
+          ],
+          "answer": "teeth",
+          "explain": {
+            "ua": "Tooth → teeth.",
+            "ru": "Tooth → teeth."
+          },
+          "id": "a1-u08-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "plural-irregular",
+          "pairs": [
+            {
+              "left": "woman",
+              "right": "women"
+            },
+            {
+              "left": "foot",
+              "right": "feet"
+            },
+            {
+              "left": "mouse",
+              "right": "mice"
+            },
+            {
+              "left": "child",
+              "right": "children"
+            }
+          ],
+          "explain": {
+            "ua": "Винятки треба знати напам'ять.",
+            "ru": "Исключения нужно знать наизусть."
+          },
+          "id": "a1-u08-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "plural",
+          "bank": [
+            "men",
+            "boxes",
+            "cities",
+            "people"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Two ___ are at the door.",
+            "Ten ___ are in the room.",
+            "Lviv and Lutsk are ___.",
+            "The ___ are big."
+          ],
+          "answers": [
+            "men",
+            "people",
+            "cities",
+            "boxes"
+          ],
+          "explain": {
+            "ua": "men, people — винятки; cities — -ies; boxes — -es.",
+            "ru": "men, people — исключения; cities — -ies; boxes — -es."
+          },
+          "id": "a1-u08-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "plural-irregular",
+          "sentence": "The womans are teachers.",
+          "answer": "The women are teachers.",
+          "accept": [],
+          "explain": {
+            "ua": "Woman → women.",
+            "ru": "Woman → women."
+          },
+          "id": "a1-u08-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "plural-irregular",
+          "sentence": "My foots are cold.",
+          "answer": "My feet are cold.",
+          "accept": [],
+          "explain": {
+            "ua": "Foot → feet.",
+            "ru": "Foot → feet."
+          },
+          "id": "a1-u08-l03-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "plural-irregular",
+          "audio_text": "The children are happy.",
+          "options": [
+            "The children are happy.",
+            "The child is happy.",
+            "The chicken are happy."
+          ],
+          "answer": "The children are happy.",
+          "audio": "",
+          "explain": {
+            "ua": "Children — «чілдрен».",
+            "ru": "Children — «чилдрен»."
+          },
+          "id": "a1-u08-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "plural-irregular",
+          "prompt": {
+            "ua": "Тут троє чоловіків.",
+            "ru": "Здесь трое мужчин."
+          },
+          "answer": "Three men are here.",
+          "accept": [
+            "There are three men here."
+          ],
+          "explain": {
+            "ua": "Man → men.",
+            "ru": "Man → men."
+          },
+          "id": "a1-u08-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "plural-s-es",
+      "question": "one box → two ___",
+      "options": [
+        "boxes",
+        "boxs",
+        "box"
+      ],
+      "answer": "boxes",
+      "explain": {
+        "ua": "x → -es.",
+        "ru": "x → -es."
+      },
+      "id": "a1-u08-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "plural-ies-ves",
+      "question": "one baby → two ___",
+      "options": [
+        "babies",
+        "babys",
+        "babyes"
+      ],
+      "answer": "babies",
+      "explain": {
+        "ua": "y → -ies.",
+        "ru": "y → -ies."
+      },
+      "id": "a1-u08-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "plural-ies-ves",
+      "question": "one day → two ___",
+      "options": [
+        "days",
+        "daies",
+        "dayes"
+      ],
+      "answer": "days",
+      "explain": {
+        "ua": "Голосний + y → +s.",
+        "ru": "Гласный + y → +s."
+      },
+      "id": "a1-u08-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "plural-irregular",
+      "question": "one person → five ___",
+      "options": [
+        "people",
+        "persons",
+        "peoples"
+      ],
+      "answer": "people",
+      "explain": {
+        "ua": "Person → people.",
+        "ru": "Person → people."
+      },
+      "id": "a1-u08-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "plural-ies-ves",
+      "question": "one knife → two ___",
+      "answer": "knives",
+      "accept": [],
+      "explain": {
+        "ua": "fe → -ves.",
+        "ru": "fe → -ves."
+      },
+      "id": "a1-u08-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "plural-irregular",
+      "question": "one woman → two ___",
+      "answer": "women",
+      "accept": [],
+      "explain": {
+        "ua": "Woman → women.",
+        "ru": "Woman → women."
+      },
+      "id": "a1-u08-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "plural-s-es",
+      "question": "one glass → two ___",
+      "answer": "glasses",
+      "accept": [],
+      "explain": {
+        "ua": "s → -es.",
+        "ru": "s → -es."
+      },
+      "id": "a1-u08-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "plural",
+      "pairs": [
+        {
+          "left": "man",
+          "right": "men"
+        },
+        {
+          "left": "tooth",
+          "right": "teeth"
+        },
+        {
+          "left": "city",
+          "right": "cities"
+        },
+        {
+          "left": "watch",
+          "right": "watches"
+        }
+      ],
+      "explain": {
+        "ua": "Множина.",
+        "ru": "Множественное."
+      },
+      "id": "a1-u08-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "plural-irregular",
+      "sentence": "I have three childs.",
+      "answer": "I have three children.",
+      "accept": [],
+      "explain": {
+        "ua": "Child → children.",
+        "ru": "Child → children."
+      },
+      "id": "a1-u08-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "plural-s-es",
+      "sentence": "Two bus are here.",
+      "answer": "Two buses are here.",
+      "accept": [],
+      "explain": {
+        "ua": "Bus → buses.",
+        "ru": "Bus → buses."
+      },
+      "id": "a1-u08-cp10"
+    },
+    {
+      "type": "build",
+      "topic": "plural-s-es",
+      "words": [
+        "are",
+        "red",
+        "The",
+        "tomatoes"
+      ],
+      "answer": "The tomatoes are red",
+      "explain": {
+        "ua": "The tomatoes → are → red.",
+        "ru": "The tomatoes → are → red."
+      },
+      "id": "a1-u08-cp11"
+    },
+    {
+      "type": "translate",
+      "topic": "plural-irregular",
+      "prompt": {
+        "ua": "Мої зуби білі.",
+        "ru": "Мои зубы белые."
+      },
+      "answer": "My teeth are white.",
+      "accept": [],
+      "explain": {
+        "ua": "Tooth → teeth.",
+        "ru": "Tooth → teeth."
+      },
+      "id": "a1-u08-cp12"
+    }
+  ]
+}

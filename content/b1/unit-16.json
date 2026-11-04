@@ -1,0 +1,1534 @@
+{
+  "id": "b1-u16",
+  "level": "B1",
+  "order": 16,
+  "kind": "vocab",
+  "title": {
+    "en": "Feelings and emotions",
+    "ua": "Почуття й емоції",
+    "ru": "Чувства и эмоции"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "excited",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "ua": "схвильований (радісно)",
+      "ru": "в предвкушении, взволнован (радостно)",
+      "example": "I'm excited about the trip.",
+      "audio": ""
+    },
+    {
+      "word": "nervous",
+      "ipa": "/ˈnɜːvəs/",
+      "ua": "знервований, хвилюється",
+      "ru": "нервничает",
+      "example": "I'm nervous before exams.",
+      "audio": ""
+    },
+    {
+      "word": "upset",
+      "ipa": "/ʌpˈset/",
+      "ua": "засмучений",
+      "ru": "расстроен",
+      "example": "She was upset about the news.",
+      "audio": ""
+    },
+    {
+      "word": "annoyed",
+      "ipa": "/əˈnɔɪd/",
+      "ua": "роздратований",
+      "ru": "раздражён",
+      "example": "I'm annoyed with him.",
+      "audio": ""
+    },
+    {
+      "word": "embarrassed",
+      "ipa": "/ɪmˈbærəst/",
+      "ua": "збентежений, соромно",
+      "ru": "смущён, стыдно",
+      "example": "I felt embarrassed.",
+      "audio": ""
+    },
+    {
+      "word": "relieved",
+      "ipa": "/rɪˈliːvd/",
+      "ua": "відчуває полегшення",
+      "ru": "испытывает облегчение",
+      "example": "I was relieved when he called.",
+      "audio": ""
+    },
+    {
+      "word": "proud",
+      "ipa": "/praʊd/",
+      "ua": "гордий",
+      "ru": "гордый",
+      "example": "I'm proud of you.",
+      "audio": ""
+    },
+    {
+      "word": "jealous",
+      "ipa": "/ˈdʒeləs/",
+      "ua": "ревнивий, заздрісний",
+      "ru": "ревнивый, завидует",
+      "example": "He's jealous of his brother.",
+      "audio": ""
+    },
+    {
+      "word": "lonely",
+      "ipa": "/ˈləʊnli/",
+      "ua": "самотній",
+      "ru": "одинокий",
+      "example": "I felt lonely in a new city.",
+      "audio": ""
+    },
+    {
+      "word": "disappointed",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "ua": "розчарований",
+      "ru": "разочарован",
+      "example": "I'm disappointed with the result.",
+      "audio": ""
+    },
+    {
+      "word": "scared",
+      "ipa": "/skeəd/",
+      "ua": "наляканий",
+      "ru": "напуган",
+      "example": "I'm scared of spiders.",
+      "audio": ""
+    },
+    {
+      "word": "confused",
+      "ipa": "/kənˈfjuːzd/",
+      "ua": "спантеличений",
+      "ru": "сбит с толку",
+      "example": "I'm confused.",
+      "audio": ""
+    },
+    {
+      "word": "bored / boring",
+      "ipa": "/bɔːd/ /ˈbɔːrɪŋ/",
+      "ua": "нудьгує / нудний",
+      "ru": "скучает / скучный",
+      "example": "I'm bored. The film is boring.",
+      "audio": ""
+    },
+    {
+      "word": "interested / interesting",
+      "ipa": "/ˈɪntrəstɪd/",
+      "ua": "зацікавлений / цікавий",
+      "ru": "заинтересован / интересный",
+      "example": "I'm interested. It's interesting.",
+      "audio": ""
+    },
+    {
+      "word": "tired / tiring",
+      "ipa": "/ˈtaɪəd/ /ˈtaɪərɪŋ/",
+      "ua": "втомлений / втомливий",
+      "ru": "уставший / утомительный",
+      "example": "a tiring day",
+      "audio": ""
+    },
+    {
+      "word": "cheer up",
+      "ipa": "/ˌtʃɪər ˈʌp/",
+      "ua": "підбадьорити(ся)",
+      "ru": "подбодрить(ся)",
+      "example": "Cheer up!",
+      "audio": ""
+    },
+    {
+      "word": "calm down",
+      "ipa": "/ˌkɑːm ˈdaʊn/",
+      "ua": "заспокоїтися",
+      "ru": "успокоиться",
+      "example": "Calm down, please.",
+      "audio": ""
+    },
+    {
+      "word": "mood",
+      "ipa": "/muːd/",
+      "ua": "настрій",
+      "ru": "настроение",
+      "example": "I'm in a good mood.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u16-l01",
+      "title": {
+        "en": "Positive and negative feelings",
+        "ua": "Позитивні й негативні почуття",
+        "ru": "Позитивные и негативные чувства"
+      },
+      "recap": {
+        "from": "b1-u15-l03",
+        "note": {
+          "ua": "Згадаймо: пропускаємо, якщо після нього є інший підмет: the book (that) I read",
+          "ru": "Вспомним: опускаем, если после него есть другое подлежащее: the book (that) I read"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-omission",
+            "question": "Can we leave out the word? → The jacket that I bought was cheap.",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "answer": "Yes",
+            "explain": {
+              "ua": "Після that іде I → можна.",
+              "ru": "После that идёт I → можно."
+            },
+            "id": "b1-u16-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-omission",
+            "question": "Can we leave out the word? → The bus that goes to the airport is late.",
+            "options": [
+              "No",
+              "Yes"
+            ],
+            "answer": "No",
+            "explain": {
+              "ua": "Після that одразу дієслово.",
+              "ru": "После that сразу глагол."
+            },
+            "id": "b1-u16-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "excited",
+              "right": {
+                "ua": "радісно схвильований",
+                "ru": "в предвкушении"
+              }
+            },
+            {
+              "left": "nervous",
+              "right": {
+                "ua": "знервований",
+                "ru": "нервничает"
+              }
+            },
+            {
+              "left": "upset",
+              "right": {
+                "ua": "засмучений",
+                "ru": "расстроен"
+              }
+            },
+            {
+              "left": "relieved",
+              "right": {
+                "ua": "полегшення",
+                "ru": "облегчение"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u16-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Tomorrow I'm going to Paris! I'm so ___ !",
+          "options": [
+            "excited",
+            "upset",
+            "bored"
+          ],
+          "answer": "excited",
+          "explain": {
+            "ua": "Excited — чекаю з радістю.",
+            "ru": "Excited — жду с радостью."
+          },
+          "id": "b1-u16-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I have an exam in an hour. I'm a bit ___ .",
+          "options": [
+            "nervous",
+            "proud",
+            "relieved"
+          ],
+          "answer": "nervous",
+          "explain": {
+            "ua": "Nervous.",
+            "ru": "Nervous."
+          },
+          "id": "b1-u16-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I found my lost passport! I'm so ___ .",
+          "options": [
+            "relieved",
+            "jealous",
+            "lonely"
+          ],
+          "answer": "relieved",
+          "explain": {
+            "ua": "Relieved — полегшення.",
+            "ru": "Relieved — облегчение."
+          },
+          "id": "b1-u16-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My daughter won the competition. I'm very ___ of her.",
+          "options": [
+            "proud",
+            "scared",
+            "annoyed"
+          ],
+          "answer": "proud",
+          "explain": {
+            "ua": "Proud of.",
+            "ru": "Proud of."
+          },
+          "id": "b1-u16-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I fell over in front of everybody. I was so ___ !",
+          "options": [
+            "embarrassed",
+            "excited",
+            "proud"
+          ],
+          "answer": "embarrassed",
+          "explain": {
+            "ua": "Embarrassed — соромно.",
+            "ru": "Embarrassed — стыдно."
+          },
+          "id": "b1-u16-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You feel this when you are alone and sad.",
+          "answer": "lonely",
+          "accept": [
+            "alone",
+            "sad"
+          ],
+          "explain": {
+            "ua": "Lonely.",
+            "ru": "Lonely."
+          },
+          "id": "b1-u16-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm exciting about the holiday.",
+          "answer": "I'm excited about the holiday.",
+          "accept": [
+            "I am excited about the holiday."
+          ],
+          "explain": {
+            "ua": "Почуття людини — -ed.",
+            "ru": "Чувство человека — -ed."
+          },
+          "id": "b1-u16-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я пишаюся тобою.",
+            "ru": "Я горжусь тобой."
+          },
+          "answer": "I'm proud of you.",
+          "accept": [
+            "I am proud of you."
+          ],
+          "explain": {
+            "ua": "Proud of.",
+            "ru": "Proud of."
+          },
+          "id": "b1-u16-l01-e09"
+        }
+      ],
+      "words": [
+        "excited",
+        "nervous",
+        "upset",
+        "annoyed",
+        "embarrassed",
+        "relieved",
+        "proud",
+        "jealous",
+        "lonely",
+        "disappointed",
+        "scared",
+        "confused"
+      ]
+    },
+    {
+      "id": "b1-u16-l02",
+      "title": {
+        "en": "-ed or -ing?",
+        "ua": "-ed чи -ing?",
+        "ru": "-ed или -ing?"
+      },
+      "recap": {
+        "from": "b1-u16-l01",
+        "note": {
+          "ua": "Згадаймо: Позитивні й негативні почуття",
+          "ru": "Вспомним: Позитивные и негативные чувства"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Tomorrow I'm going to Paris! I'm so ___ !",
+            "options": [
+              "excited",
+              "upset",
+              "bored"
+            ],
+            "answer": "excited",
+            "explain": {
+              "ua": "Excited — чекаю з радістю.",
+              "ru": "Excited — жду с радостью."
+            },
+            "id": "b1-u16-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I fell over in front of everybody. I was so ___ !",
+            "options": [
+              "embarrassed",
+              "excited",
+              "proud"
+            ],
+            "answer": "embarrassed",
+            "explain": {
+              "ua": "Embarrassed — соромно.",
+              "ru": "Embarrassed — стыдно."
+            },
+            "id": "b1-u16-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "bored",
+              "right": {
+                "ua": "нудьгую",
+                "ru": "скучаю"
+              }
+            },
+            {
+              "left": "boring",
+              "right": {
+                "ua": "нудний",
+                "ru": "скучный"
+              }
+            },
+            {
+              "left": "interested",
+              "right": {
+                "ua": "зацікавлений",
+                "ru": "заинтересован"
+              }
+            },
+            {
+              "left": "interesting",
+              "right": {
+                "ua": "цікавий",
+                "ru": "интересный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "-ed — як я почуваюся, -ing — яке воно.",
+            "ru": "-ed — как я себя чувствую, -ing — какое оно."
+          },
+          "id": "b1-u16-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "This film is so ___ . Let's watch something else.",
+          "options": [
+            "boring",
+            "bored",
+            "bore"
+          ],
+          "answer": "boring",
+          "explain": {
+            "ua": "Фільм який? → -ing.",
+            "ru": "Фильм какой? → -ing."
+          },
+          "id": "b1-u16-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "I'm ___ . There's nothing to do.",
+          "options": [
+            "bored",
+            "boring",
+            "bore"
+          ],
+          "answer": "bored",
+          "explain": {
+            "ua": "Я почуваюся → -ed.",
+            "ru": "Я чувствую → -ed."
+          },
+          "id": "b1-u16-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "It was a very ___ day. I need to sleep.",
+          "options": [
+            "tiring",
+            "tired",
+            "tire"
+          ],
+          "answer": "tiring",
+          "explain": {
+            "ua": "День який? → -ing.",
+            "ru": "День какой? → -ing."
+          },
+          "id": "b1-u16-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "Are you ___ in history?",
+          "options": [
+            "interested",
+            "interesting",
+            "interest"
+          ],
+          "answer": "interested",
+          "explain": {
+            "ua": "Людина → -ed.",
+            "ru": "Человек → -ed."
+          },
+          "id": "b1-u16-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "The instructions were ___ . I didn't understand anything.",
+          "options": [
+            "confusing",
+            "confused",
+            "confuse"
+          ],
+          "answer": "confusing",
+          "explain": {
+            "ua": "Інструкції які? → -ing.",
+            "ru": "Инструкции какие? → -ing."
+          },
+          "id": "b1-u16-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "ed-ing-adjectives",
+          "bank": [
+            "boring",
+            "bored",
+            "exciting",
+            "excited"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The lesson was ___.",
+            "The students were ___.",
+            "The match was ___!",
+            "The fans were very ___."
+          ],
+          "answers": [
+            "boring",
+            "bored",
+            "exciting",
+            "excited"
+          ],
+          "explain": {
+            "ua": "Річ → -ing, люди → -ed.",
+            "ru": "Вещь → -ing, люди → -ed."
+          },
+          "id": "b1-u16-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "ed-ing-adjectives",
+          "sentence": "I'm boring. Let's go out.",
+          "answer": "I'm bored. Let's go out.",
+          "accept": [
+            "I am bored. Let's go out."
+          ],
+          "explain": {
+            "ua": "Я почуваюся → bored. (I'm boring = я нудний!)",
+            "ru": "Я чувствую → bored. (I'm boring = я скучный!)"
+          },
+          "id": "b1-u16-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "ed-ing-adjectives",
+          "audio_text": "The news was really disappointing.",
+          "options": [
+            "The news was really disappointing.",
+            "The news was really disappointed.",
+            "The news was really appointing."
+          ],
+          "answer": "The news was really disappointing.",
+          "audio": "",
+          "explain": {
+            "ua": "Новина яка? → -ing.",
+            "ru": "Новость какая? → -ing."
+          },
+          "id": "b1-u16-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "ed-ing-adjectives",
+          "prompt": {
+            "ua": "Мені нудно.",
+            "ru": "Мне скучно."
+          },
+          "answer": "I'm bored.",
+          "accept": [
+            "I am bored."
+          ],
+          "explain": {
+            "ua": "Почуваюся → -ed.",
+            "ru": "Чувствую → -ed."
+          },
+          "id": "b1-u16-l02-e10"
+        }
+      ],
+      "words": [
+        "bored / boring",
+        "interested / interesting",
+        "tired / tiring"
+      ]
+    },
+    {
+      "id": "b1-u16-l03",
+      "title": {
+        "en": "Mood and phrases",
+        "ua": "Настрій і фрази",
+        "ru": "Настроение и фразы"
+      },
+      "recap": {
+        "from": "b1-u16-l02",
+        "note": {
+          "ua": "Згадаймо: -ed чи -ing?",
+          "ru": "Вспомним: -ed или -ing?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ed-ing-adjectives",
+            "question": "This film is so ___ . Let's watch something else.",
+            "options": [
+              "boring",
+              "bored",
+              "bore"
+            ],
+            "answer": "boring",
+            "explain": {
+              "ua": "Фільм який? → -ing.",
+              "ru": "Фильм какой? → -ing."
+            },
+            "id": "b1-u16-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ed-ing-adjectives",
+            "question": "Are you ___ in history?",
+            "options": [
+              "interested",
+              "interesting",
+              "interest"
+            ],
+            "answer": "interested",
+            "explain": {
+              "ua": "Людина → -ed.",
+              "ru": "Человек → -ed."
+            },
+            "id": "b1-u16-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "cheer up",
+              "right": {
+                "ua": "підбадьоритися",
+                "ru": "приободриться"
+              }
+            },
+            {
+              "left": "calm down",
+              "right": {
+                "ua": "заспокоїтися",
+                "ru": "успокоиться"
+              }
+            },
+            {
+              "left": "mood",
+              "right": {
+                "ua": "настрій",
+                "ru": "настроение"
+              }
+            },
+            {
+              "left": "scared of",
+              "right": {
+                "ua": "боїться",
+                "ru": "боится"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u16-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm in a good ___ today!",
+          "options": [
+            "mood",
+            "feeling",
+            "emotion"
+          ],
+          "answer": "mood",
+          "explain": {
+            "ua": "In a good mood.",
+            "ru": "In a good mood."
+          },
+          "id": "b1-u16-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ up! Everything will be OK.",
+          "options": [
+            "Cheer",
+            "Calm",
+            "Look"
+          ],
+          "answer": "Cheer",
+          "explain": {
+            "ua": "Cheer up — не сумуй!",
+            "ru": "Cheer up — не грусти!"
+          },
+          "id": "b1-u16-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please ___ down. Shouting won't help.",
+          "options": [
+            "calm",
+            "cheer",
+            "sit"
+          ],
+          "answer": "calm",
+          "explain": {
+            "ua": "Calm down.",
+            "ru": "Calm down."
+          },
+          "id": "b1-u16-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My son is scared ___ the dark.",
+          "options": [
+            "of",
+            "from",
+            "about"
+          ],
+          "answer": "of",
+          "explain": {
+            "ua": "Scared of.",
+            "ru": "Scared of."
+          },
+          "id": "b1-u16-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She's upset ___ the exam results.",
+          "options": [
+            "about",
+            "of",
+            "with"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "Upset about.",
+            "ru": "Upset about."
+          },
+          "id": "b1-u16-l03-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "of",
+            "about",
+            "with",
+            "in"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I'm proud ___ my team.",
+            "I'm annoyed ___ my brother.",
+            "She's excited ___ the wedding.",
+            "He's interested ___ art."
+          ],
+          "answers": [
+            "of",
+            "with",
+            "about",
+            "in"
+          ],
+          "explain": {
+            "ua": "Прийменники.",
+            "ru": "Предлоги."
+          },
+          "id": "b1-u16-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm scared from spiders.",
+          "answer": "I'm scared of spiders.",
+          "accept": [
+            "I am scared of spiders.",
+            "I'm afraid of spiders."
+          ],
+          "explain": {
+            "ua": "Scared OF.",
+            "ru": "Scared OF."
+          },
+          "id": "b1-u16-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Не сумуй!",
+            "ru": "Не грусти!"
+          },
+          "answer": "Cheer up!",
+          "accept": [
+            "Cheer up",
+            "Don't be sad!"
+          ],
+          "explain": {
+            "ua": "Cheer up.",
+            "ru": "Cheer up."
+          },
+          "id": "b1-u16-l03-e09"
+        }
+      ],
+      "words": [
+        "cheer up",
+        "calm down",
+        "mood"
+      ]
+    },
+    {
+      "id": "b1-u16-l04",
+      "title": {
+        "en": "In context: a difficult week",
+        "ua": "У контексті: важкий тиждень",
+        "ru": "В контексте: тяжёлая неделя"
+      },
+      "recap": {
+        "from": "b1-u16-l03",
+        "note": {
+          "ua": "Згадаймо: Настрій і фрази",
+          "ru": "Вспомним: Настроение и фразы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm in a good ___ today!",
+            "options": [
+              "mood",
+              "feeling",
+              "emotion"
+            ],
+            "answer": "mood",
+            "explain": {
+              "ua": "In a good mood.",
+              "ru": "In a good mood."
+            },
+            "id": "b1-u16-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My son is scared ___ the dark.",
+            "options": [
+              "of",
+              "from",
+              "about"
+            ],
+            "answer": "of",
+            "explain": {
+              "ua": "Scared of.",
+              "ru": "Scared of."
+            },
+            "id": "b1-u16-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "How did Sofia feel before the interview?",
+              "options": [
+                "nervous",
+                "bored",
+                "proud"
+              ],
+              "answer": "nervous"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Sofia got the job.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Her friend was jealous.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Why was Sofia embarrassed?",
+              "options": [
+                "she called the manager by the wrong name",
+                "she was late",
+                "she fell over"
+              ],
+              "answer": "she called the manager by the wrong name"
+            }
+          ],
+          "text": "Last week was very emotional. On Monday I had a job interview and I was really nervous. During the interview I called the manager by the wrong name — I was so embarrassed! I thought I'd failed and I was very disappointed. But on Friday they called me: I got the job! I was so relieved. My best friend was really happy for me. She said she was proud of me.",
+          "explain": {
+            "ua": "Nervous → embarrassed (wrong name) → relieved, got job; friend happy and proud.",
+            "ru": "Nervous → embarrassed (wrong name) → relieved, got job; friend happy and proud."
+          },
+          "id": "b1-u16-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "nervous",
+            "embarrassed",
+            "disappointed",
+            "relieved",
+            "proud"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Before the interview Sofia was ___.",
+            "When she said the wrong name, she was ___.",
+            "She thought she'd failed and felt ___.",
+            "When they called, she was ___.",
+            "Her friend was ___ of her."
+          ],
+          "answers": [
+            "nervous",
+            "embarrassed",
+            "disappointed",
+            "relieved",
+            "proud"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u16-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "It was very emotional.",
+              "right": {
+                "ua": "Це було дуже емоційно.",
+                "ru": "Это было очень эмоционально."
+              }
+            },
+            {
+              "left": "I thought I'd failed.",
+              "right": {
+                "ua": "Я думала, що провалилася.",
+                "ru": "Я думала, что провалилась."
+              }
+            },
+            {
+              "left": "happy for me",
+              "right": {
+                "ua": "радіти за мене",
+                "ru": "рад за меня"
+              }
+            },
+            {
+              "left": "so relieved",
+              "right": {
+                "ua": "таке полегшення",
+                "ru": "такое облегчение"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "b1-u16-l04-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You feel this when somebody has something that you want.",
+          "answer": "jealous",
+          "accept": [
+            "envious"
+          ],
+          "explain": {
+            "ua": "Jealous.",
+            "ru": "Jealous."
+          },
+          "id": "b1-u16-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "ed-ing-adjectives",
+          "sentence": "I was very embarrassing when I said the wrong name.",
+          "answer": "I was very embarrassed when I said the wrong name.",
+          "accept": [],
+          "explain": {
+            "ua": "Почуття → -ed.",
+            "ru": "Чувство → -ed."
+          },
+          "id": "b1-u16-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She was happy about me.",
+          "answer": "She was happy for me.",
+          "accept": [],
+          "explain": {
+            "ua": "Радіти за когось — happy for.",
+            "ru": "Радоваться за кого-то — happy for."
+          },
+          "id": "b1-u16-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I was so relieved.",
+          "options": [
+            "I was so relieved.",
+            "I was so relaxed.",
+            "I was so believed."
+          ],
+          "answer": "I was so relieved.",
+          "audio": "",
+          "explain": {
+            "ua": "Relieved — полегшення.",
+            "ru": "Relieved — облегчение."
+          },
+          "id": "b1-u16-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я розчарована результатом.",
+            "ru": "Я разочарована результатом."
+          },
+          "answer": "I'm disappointed with the result.",
+          "accept": [
+            "I am disappointed with the result.",
+            "I'm disappointed by the result.",
+            "I'm disappointed in the result."
+          ],
+          "explain": {
+            "ua": "Disappointed with.",
+            "ru": "Disappointed with."
+          },
+          "id": "b1-u16-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u16-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u16-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: важкий тиждень",
+          "ru": "Вспомним: В контексте: тяжёлая неделя"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You feel this when somebody has something that you want.",
+            "answer": "jealous",
+            "accept": [
+              "envious"
+            ],
+            "explain": {
+              "ua": "Jealous.",
+              "ru": "Jealous."
+            },
+            "id": "b1-u16-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "She was happy about me.",
+            "answer": "She was happy for me.",
+            "accept": [],
+            "explain": {
+              "ua": "Радіти за когось — happy for.",
+              "ru": "Радоваться за кого-то — happy for."
+            },
+            "id": "b1-u16-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "jealous",
+              "right": {
+                "ua": "заздрісний",
+                "ru": "завидует"
+              }
+            },
+            {
+              "left": "confused",
+              "right": {
+                "ua": "спантеличений",
+                "ru": "сбит с толку"
+              }
+            },
+            {
+              "left": "lonely",
+              "right": {
+                "ua": "самотній",
+                "ru": "одинокий"
+              }
+            },
+            {
+              "left": "annoyed",
+              "right": {
+                "ua": "роздратований",
+                "ru": "раздражён"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u16-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a positive feeling?",
+          "options": [
+            "relieved",
+            "lonely",
+            "annoyed"
+          ],
+          "answer": "relieved",
+          "explain": {
+            "ua": "Relieved — приємно.",
+            "ru": "Relieved — приятно."
+          },
+          "id": "b1-u16-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ed-ing-adjectives",
+          "question": "The trip was really ___ . I loved it!",
+          "options": [
+            "exciting",
+            "excited",
+            "excite"
+          ],
+          "answer": "exciting",
+          "explain": {
+            "ua": "-ing.",
+            "ru": "-ing."
+          },
+          "id": "b1-u16-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You feel this when you don't understand something.",
+          "answer": "confused",
+          "accept": [],
+          "explain": {
+            "ua": "Confused.",
+            "ru": "Confused."
+          },
+          "id": "b1-u16-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You feel this before an important exam.",
+          "answer": "nervous",
+          "accept": [
+            "stressed",
+            "worried",
+            "anxious"
+          ],
+          "explain": {
+            "ua": "Nervous.",
+            "ru": "Nervous."
+          },
+          "id": "b1-u16-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "spider",
+          "answer": "scared",
+          "accept": [
+            "afraid",
+            "frightened"
+          ],
+          "explain": {
+            "ua": "Павук → страшно.",
+            "ru": "Паук → страшно."
+          },
+          "id": "b1-u16-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "ed-ing-adjectives",
+          "sentence": "The film was very interested.",
+          "answer": "The film was very interesting.",
+          "accept": [],
+          "explain": {
+            "ua": "Фільм → -ing.",
+            "ru": "Фильм → -ing."
+          },
+          "id": "b1-u16-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Calm down, it's not a big problem.",
+          "options": [
+            "Calm down, it's not a big problem.",
+            "Come down, it's not a big problem.",
+            "Calm down, it's a big problem."
+          ],
+          "answer": "Calm down, it's not a big problem.",
+          "audio": "",
+          "explain": {
+            "ua": "Calm down.",
+            "ru": "Calm down."
+          },
+          "id": "b1-u16-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене сьогодні поганий настрій.",
+            "ru": "У меня сегодня плохое настроение."
+          },
+          "answer": "I'm in a bad mood today.",
+          "accept": [
+            "I am in a bad mood today.",
+            "Today I'm in a bad mood."
+          ],
+          "explain": {
+            "ua": "In a bad mood.",
+            "ru": "In a bad mood."
+          },
+          "id": "b1-u16-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I've got an exam tomorrow. I'm ___ .",
+      "options": [
+        "nervous",
+        "relieved",
+        "proud"
+      ],
+      "answer": "nervous",
+      "explain": {
+        "ua": "Nervous.",
+        "ru": "Nervous."
+      },
+      "id": "b1-u16-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "ed-ing-adjectives",
+      "question": "The lesson was ___ . I nearly fell asleep.",
+      "options": [
+        "boring",
+        "bored",
+        "bore"
+      ],
+      "answer": "boring",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u16-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I'm proud ___ my son.",
+      "options": [
+        "of",
+        "about",
+        "with"
+      ],
+      "answer": "of",
+      "explain": {
+        "ua": "Proud of.",
+        "ru": "Proud of."
+      },
+      "id": "b1-u16-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You feel this when you are alone.",
+      "answer": "lonely",
+      "accept": [],
+      "explain": {
+        "ua": "Lonely.",
+        "ru": "Lonely."
+      },
+      "id": "b1-u16-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You feel this when a problem has gone away.",
+      "answer": "relieved",
+      "accept": [],
+      "explain": {
+        "ua": "Relieved.",
+        "ru": "Relieved."
+      },
+      "id": "b1-u16-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I'm ___ of the dark. (afraid)",
+      "answer": "scared",
+      "accept": [
+        "afraid",
+        "frightened"
+      ],
+      "explain": {
+        "ua": "Scared of.",
+        "ru": "Scared of."
+      },
+      "id": "b1-u16-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "upset",
+          "right": {
+            "ua": "засмучений",
+            "ru": "расстроен"
+          }
+        },
+        {
+          "left": "embarrassed",
+          "right": {
+            "ua": "збентежений",
+            "ru": "смущён"
+          }
+        },
+        {
+          "left": "excited",
+          "right": {
+            "ua": "радісно схвильований",
+            "ru": "в предвкушении"
+          }
+        },
+        {
+          "left": "mood",
+          "right": {
+            "ua": "настрій",
+            "ru": "настроение"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u16-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "ed-ing-adjectives",
+      "sentence": "I'm interesting in music.",
+      "answer": "I'm interested in music.",
+      "accept": [
+        "I am interested in music."
+      ],
+      "explain": {
+        "ua": "Людина → -ed.",
+        "ru": "Человек → -ed."
+      },
+      "id": "b1-u16-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Cheer down!",
+      "answer": "Cheer up!",
+      "accept": [
+        "Calm down!"
+      ],
+      "explain": {
+        "ua": "Cheer up.",
+        "ru": "Cheer up."
+      },
+      "id": "b1-u16-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "upset",
+        "news",
+        "about",
+        "She",
+        "was",
+        "the"
+      ],
+      "answer": "She was upset about the news",
+      "explain": {
+        "ua": "Was upset → about the news.",
+        "ru": "Was upset → about the news."
+      },
+      "id": "b1-u16-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Мені соромно.",
+        "ru": "Мне стыдно."
+      },
+      "answer": "I'm embarrassed.",
+      "accept": [
+        "I am embarrassed.",
+        "I feel embarrassed.",
+        "I'm ashamed."
+      ],
+      "explain": {
+        "ua": "Embarrassed.",
+        "ru": "Embarrassed."
+      },
+      "id": "b1-u16-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "ed-ing-adjectives",
+      "audio_text": "It was a really tiring day.",
+      "options": [
+        "It was a really tiring day.",
+        "It was a really tired day.",
+        "It was a really tiny day."
+      ],
+      "answer": "It was a really tiring day.",
+      "audio": "",
+      "explain": {
+        "ua": "Tiring.",
+        "ru": "Tiring."
+      },
+      "id": "b1-u16-cp12"
+    }
+  ]
+}

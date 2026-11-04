@@ -1,0 +1,1037 @@
+{
+  "id": "c1-u15",
+  "level": "C1",
+  "order": 15,
+  "kind": "grammar",
+  "title": {
+    "en": "Advanced speaking: hedging and paraphrasing",
+    "ua": "Просунуте мовлення: обережність і перефразування",
+    "ru": "Продвинутая речь: осторожность и перефразирование"
+  },
+  "rule": {
+    "formula": {
+      "ua": "обережно: It seems that, tend to, arguably, to some extent · перефразувати: In other words, What I mean is, To put it another way",
+      "ru": "осторожно: It seems that, tend to, arguably, to some extent · перефразировать: In other words, What I mean is, To put it another way"
+    },
+    "explain": {
+      "ua": "Носії рідко кажуть категорично «X is bad». Вони пом'якшують: X tends to be… / It could be argued that… Це звучить розумно й переконливо. А вміння пояснити іншими словами рятує, коли не знаєш потрібного слова.",
+      "ru": "Носители редко говорят категорично «X is bad». Они смягчают: X tends to be… / It could be argued that… Это звучит разумно и убедительно. А умение объяснить другими словами спасает, когда не знаешь нужного слова."
+    },
+    "examples": [
+      {
+        "en": "It seems that more people are working from home.",
+        "ua": "Схоже, що більше людей працює з дому.",
+        "ru": "Похоже, что больше людей работает из дома."
+      },
+      {
+        "en": "Young people tend to spend more time online.",
+        "ua": "Молодь зазвичай проводить більше часу онлайн.",
+        "ru": "Молодёжь обычно проводит больше времени онлайн."
+      },
+      {
+        "en": "In other words, we need more time.",
+        "ua": "Іншими словами, нам потрібно більше часу.",
+        "ru": "Другими словами, нам нужно больше времени."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "it seems / appears that",
+      "ipa": "/ɪt ˈsiːmz ðæt/",
+      "ua": "схоже, що",
+      "ru": "похоже, что",
+      "example": "It seems that he's left.",
+      "audio": ""
+    },
+    {
+      "word": "tend to",
+      "ipa": "/ˈtend tə/",
+      "ua": "схильний, зазвичай",
+      "ru": "склонен, обычно",
+      "example": "Prices tend to rise in summer.",
+      "audio": ""
+    },
+    {
+      "word": "arguably",
+      "ipa": "/ˈɑːɡjuəbli/",
+      "ua": "можна стверджувати, що",
+      "ru": "пожалуй, можно сказать",
+      "example": "Arguably, it's the best film ever.",
+      "audio": ""
+    },
+    {
+      "word": "to some extent",
+      "ipa": "/tə ˌsʌm ɪkˈstent/",
+      "ua": "до певної міри",
+      "ru": "в некоторой степени",
+      "example": "I agree to some extent.",
+      "audio": ""
+    },
+    {
+      "word": "it could be argued that",
+      "ipa": "/ɪt kʊd bi ˈɑːɡjuːd ðæt/",
+      "ua": "можна стверджувати, що",
+      "ru": "можно утверждать, что",
+      "example": "It could be argued that…",
+      "audio": ""
+    },
+    {
+      "word": "apparently",
+      "ipa": "/əˈpærəntli/",
+      "ua": "як виявилося, кажуть",
+      "ru": "по-видимому, говорят",
+      "example": "Apparently, she's moving abroad.",
+      "audio": ""
+    },
+    {
+      "word": "in most cases",
+      "ipa": "/ɪn ˌməʊst ˈkeɪsɪz/",
+      "ua": "у більшості випадків",
+      "ru": "в большинстве случаев",
+      "example": "In most cases, it works.",
+      "audio": ""
+    },
+    {
+      "word": "in other words",
+      "ipa": "/ɪn ˌʌðə ˈwɜːdz/",
+      "ua": "іншими словами",
+      "ru": "другими словами",
+      "example": "In other words, no.",
+      "audio": ""
+    },
+    {
+      "word": "what I mean is",
+      "ipa": "/wɒt aɪ ˈmiːn ɪz/",
+      "ua": "я маю на увазі",
+      "ru": "я имею в виду",
+      "example": "What I mean is, it's too early.",
+      "audio": ""
+    },
+    {
+      "word": "to put it another way",
+      "ipa": "/tə ˌpʊt ɪt əˌnʌðə ˈweɪ/",
+      "ua": "інакше кажучи",
+      "ru": "иначе говоря",
+      "example": "To put it another way, we failed.",
+      "audio": ""
+    },
+    {
+      "word": "could you elaborate",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "ua": "чи не могли б ви пояснити детальніше",
+      "ru": "не могли бы вы пояснить подробнее",
+      "example": "Could you elaborate on that?",
+      "audio": ""
+    },
+    {
+      "word": "it's a kind of…",
+      "ipa": "/ɪts ə ˈkaɪnd əv/",
+      "ua": "це щось на зразок…",
+      "ru": "это что-то вроде…",
+      "example": "It's a kind of tool for cutting.",
+      "audio": ""
+    },
+    {
+      "word": "what's the word…",
+      "ipa": "/wɒts ðə ˈwɜːd/",
+      "ua": "як же це слово…",
+      "ru": "как же это слово…",
+      "example": "It's — what's the word — a ladle!",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u15-l01",
+      "title": {
+        "en": "Hedging",
+        "ua": "Пом'якшення",
+        "ru": "Смягчение"
+      },
+      "recap": {
+        "from": "c1-u14-l02",
+        "note": {
+          "ua": "Згадаймо: heavy rain / traffic / smoker · strong coffee / wind / accent · high price / speed · deep sleep · deeply concerned · highly unlikely · fully aware · bitterly disappointed · utterly ridiculous",
+          "ru": "Вспомним: heavy rain / traffic / smoker · strong coffee / wind / accent · high price / speed · deep sleep · deeply concerned · highly unlikely · fully aware · bitterly disappointed · utterly ridiculous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "collocations-adj",
+            "question": "We stayed at home because of the ___ rain.",
+            "options": [
+              "heavy",
+              "strong",
+              "big"
+            ],
+            "answer": "heavy",
+            "explain": {
+              "ua": "Heavy rain.",
+              "ru": "Heavy rain."
+            },
+            "id": "c1-u15-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "collocations-adj",
+            "question": "I'm ___ aware of the problem.",
+            "options": [
+              "fully",
+              "highly",
+              "deeply"
+            ],
+            "answer": "fully",
+            "explain": {
+              "ua": "Fully aware.",
+              "ru": "Fully aware."
+            },
+            "id": "c1-u15-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "It seems / appears that… · S + tend(s) to · arguably · to some extent · It could be argued that… · may / might · there is some evidence that…",
+          "ru": "It seems / appears that… · S + tend(s) to · arguably · to some extent · It could be argued that… · may / might · there is some evidence that…"
+        },
+        "explain": {
+          "ua": "Замість Men are bad drivers → Men tend to take more risks on the road. Замість This is wrong → It could be argued that this is not the best approach. Так говорять у дискусіях, на співбесідах, в есе.",
+          "ru": "Вместо Men are bad drivers → Men tend to take more risks on the road. Вместо This is wrong → It could be argued that this is not the best approach. Так говорят в дискуссиях, на собеседованиях, в эссе."
+        },
+        "examples": [
+          {
+            "en": "It appears that the plan isn't working.",
+            "ua": "Схоже, план не працює.",
+            "ru": "Похоже, план не работает."
+          },
+          {
+            "en": "Arguably, this is the most important invention of the century.",
+            "ua": "Можна стверджувати, що це найважливіший винахід століття.",
+            "ru": "Пожалуй, это самое важное изобретение века."
+          },
+          {
+            "en": "I agree with you to some extent.",
+            "ua": "Я до певної міри з тобою згодна.",
+            "ru": "Я в некоторой степени с тобой согласна."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": "Children ___ to learn languages faster than adults.",
+          "options": [
+            "tend",
+            "tends",
+            "are tend"
+          ],
+          "answer": "tend",
+          "explain": {
+            "ua": "Tend to.",
+            "ru": "Tend to."
+          },
+          "id": "c1-u15-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": "It ___ that nobody read my email.",
+          "options": [
+            "seems",
+            "is seeming",
+            "seem"
+          ],
+          "answer": "seems",
+          "explain": {
+            "ua": "It seems that.",
+            "ru": "It seems that."
+          },
+          "id": "c1-u15-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": "I agree with you to some ___ .",
+          "options": [
+            "extent",
+            "degree of",
+            "level"
+          ],
+          "answer": "extent",
+          "explain": {
+            "ua": "To some extent.",
+            "ru": "To some extent."
+          },
+          "id": "c1-u15-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": "It could be ___ that social media does more harm than good.",
+          "options": [
+            "argued",
+            "arguing",
+            "argue"
+          ],
+          "answer": "argued",
+          "explain": {
+            "ua": "It could be argued.",
+            "ru": "It could be argued."
+          },
+          "id": "c1-u15-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": "___ , she's the best writer of her generation.",
+          "options": [
+            "Arguably",
+            "Argue",
+            "Arguing"
+          ],
+          "answer": "Arguably",
+          "explain": {
+            "ua": "Arguably.",
+            "ru": "Arguably."
+          },
+          "id": "c1-u15-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "hedging",
+          "question": {
+            "ua": "Яке речення найобережніше?",
+            "ru": "Какое предложение самое осторожное?"
+          },
+          "options": [
+            "Remote work may reduce stress for some people.",
+            "Remote work reduces stress.",
+            "Remote work always reduces stress."
+          ],
+          "answer": "Remote work may reduce stress for some people.",
+          "explain": {
+            "ua": "May + for some people.",
+            "ru": "May + for some people."
+          },
+          "id": "c1-u15-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "hedging",
+          "pairs": [
+            {
+              "left": "All politicians lie.",
+              "right": "Politicians tend to avoid direct answers."
+            },
+            {
+              "left": "This is wrong.",
+              "right": "This may not be the best approach."
+            },
+            {
+              "left": "He left.",
+              "right": "It seems that he has left."
+            },
+            {
+              "left": "I agree.",
+              "right": "I agree to some extent."
+            }
+          ],
+          "explain": {
+            "ua": "Категорично → обережно.",
+            "ru": "Категорично → осторожно."
+          },
+          "id": "c1-u15-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "hedging",
+          "sentence": "Prices are tending to rise in summer.",
+          "answer": "Prices tend to rise in summer.",
+          "accept": [],
+          "explain": {
+            "ua": "Tend — без Continuous.",
+            "ru": "Tend — без Continuous."
+          },
+          "id": "c1-u15-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "hedging",
+          "prompt": {
+            "ua": "Схоже, що він забув.",
+            "ru": "Похоже, что он забыл."
+          },
+          "answer": "It seems that he has forgotten.",
+          "accept": [
+            "It seems that he forgot.",
+            "It seems he has forgotten.",
+            "It seems he forgot.",
+            "It appears that he has forgotten.",
+            "He seems to have forgotten."
+          ],
+          "explain": {
+            "ua": "It seems that.",
+            "ru": "It seems that."
+          },
+          "id": "c1-u15-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u15-l02",
+      "title": {
+        "en": "Paraphrasing",
+        "ua": "Перефразування",
+        "ru": "Перефразирование"
+      },
+      "recap": {
+        "from": "c1-u15-l01",
+        "note": {
+          "ua": "Згадаймо: It seems / appears that… · S + tend(s) to · arguably · to some extent · It could be argued that… · may / might · there is some evidence that…",
+          "ru": "Вспомним: It seems / appears that… · S + tend(s) to · arguably · to some extent · It could be argued that… · may / might · there is some evidence that…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "hedging",
+            "question": "Children ___ to learn languages faster than adults.",
+            "options": [
+              "tend",
+              "tends",
+              "are tend"
+            ],
+            "answer": "tend",
+            "explain": {
+              "ua": "Tend to.",
+              "ru": "Tend to."
+            },
+            "id": "c1-u15-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "hedging",
+            "question": "___ , she's the best writer of her generation.",
+            "options": [
+              "Arguably",
+              "Argue",
+              "Arguing"
+            ],
+            "answer": "Arguably",
+            "explain": {
+              "ua": "Arguably.",
+              "ru": "Arguably."
+            },
+            "id": "c1-u15-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "In other words… · What I mean is… · To put it another way… · Let me rephrase that. · It's a kind of… · It's something you use for… · Could you elaborate?",
+        "explain": {
+          "ua": "Коли не знаєш слова — опиши: It's a kind of… / It's something you use to… / It's like…, but… Коли тебе не зрозуміли — перефразуй: What I mean is… Коли не зрозуміла ти — попроси: Could you elaborate on that?",
+          "ru": "Когда не знаешь слова — опиши: It's a kind of… / It's something you use to… / It's like…, but… Когда тебя не поняли — перефразируй: What I mean is… Когда не поняла ты — попроси: Could you elaborate on that?"
+        },
+        "examples": [
+          {
+            "en": "It's a kind of big spoon for soup.",
+            "ua": "Це така велика ложка для супу.",
+            "ru": "Это такая большая ложка для супа."
+          },
+          {
+            "en": "What I mean is, we need a clear plan.",
+            "ua": "Я маю на увазі, що нам потрібен чіткий план.",
+            "ru": "Я имею в виду, что нам нужен чёткий план."
+          },
+          {
+            "en": "Could you elaborate on that point?",
+            "ua": "Чи не могли б ви пояснити цей пункт детальніше?",
+            "ru": "Не могли бы вы пояснить этот пункт подробнее?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "In other ___ , the answer is no.",
+          "options": [
+            "words",
+            "terms",
+            "ways"
+          ],
+          "answer": "words",
+          "explain": {
+            "ua": "In other words.",
+            "ru": "In other words."
+          },
+          "id": "c1-u15-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "To put it another ___ , we can't afford it.",
+          "options": [
+            "way",
+            "word",
+            "time"
+          ],
+          "answer": "way",
+          "explain": {
+            "ua": "To put it another way.",
+            "ru": "To put it another way."
+          },
+          "id": "c1-u15-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "What I ___ is, it's too early to decide.",
+          "options": [
+            "mean",
+            "say",
+            "think"
+          ],
+          "answer": "mean",
+          "explain": {
+            "ua": "What I mean is.",
+            "ru": "What I mean is."
+          },
+          "id": "c1-u15-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "Could you ___ on that? I don't quite follow.",
+          "options": [
+            "elaborate",
+            "explain me",
+            "describe"
+          ],
+          "answer": "elaborate",
+          "explain": {
+            "ua": "Elaborate on.",
+            "ru": "Elaborate on."
+          },
+          "id": "c1-u15-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "It's a ___ of machine for making coffee.",
+          "options": [
+            "kind",
+            "type of",
+            "sort to"
+          ],
+          "answer": "kind",
+          "explain": {
+            "ua": "It's a kind of…",
+            "ru": "It's a kind of…"
+          },
+          "id": "c1-u15-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "paraphrasing",
+          "question": "It's something you use ___ open bottles.",
+          "options": [
+            "to",
+            "for to",
+            "for"
+          ],
+          "answer": "to",
+          "explain": {
+            "ua": "Use to + дієслово.",
+            "ru": "Use to + глагол."
+          },
+          "id": "c1-u15-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "paraphrasing",
+          "bank": [
+            "In other words",
+            "What I mean is",
+            "elaborate",
+            "kind of"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___, the project is cancelled.",
+            "___, we need more people.",
+            "Could you ___ on that?",
+            "It's a ___ tool for gardens."
+          ],
+          "answers": [
+            "In other words",
+            "What I mean is",
+            "elaborate",
+            "kind of"
+          ],
+          "explain": {
+            "ua": "Перефразування.",
+            "ru": "Перефразирование."
+          },
+          "id": "c1-u15-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "paraphrasing",
+          "sentence": "Could you elaborate that?",
+          "answer": "Could you elaborate on that?",
+          "accept": [],
+          "explain": {
+            "ua": "Elaborate ON.",
+            "ru": "Elaborate ON."
+          },
+          "id": "c1-u15-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "paraphrasing",
+          "prompt": {
+            "ua": "Іншими словами, нам потрібно більше часу.",
+            "ru": "Другими словами, нам нужно больше времени."
+          },
+          "answer": "In other words, we need more time.",
+          "accept": [
+            "To put it another way, we need more time.",
+            "In other words we need more time."
+          ],
+          "explain": {
+            "ua": "In other words.",
+            "ru": "In other words."
+          },
+          "id": "c1-u15-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u15-l03",
+      "title": {
+        "en": "Practice: a discussion",
+        "ua": "Практика: дискусія",
+        "ru": "Практика: дискуссия"
+      },
+      "recap": {
+        "from": "c1-u15-l02",
+        "note": {
+          "ua": "Згадаймо: In other words… · What I mean is… · To put it another way… · Let me rephrase that. · It's a kind of… · It's something you use for… · Could you elaborate?",
+          "ru": "Вспомним: In other words… · What I mean is… · To put it another way… · Let me rephrase that. · It's a kind of… · It's something you use for… · Could you elaborate?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "paraphrasing",
+            "question": "In other ___ , the answer is no.",
+            "options": [
+              "words",
+              "terms",
+              "ways"
+            ],
+            "answer": "words",
+            "explain": {
+              "ua": "In other words.",
+              "ru": "In other words."
+            },
+            "id": "c1-u15-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "paraphrasing",
+            "question": "It's a ___ of machine for making coffee.",
+            "options": [
+              "kind",
+              "type of",
+              "sort to"
+            ],
+            "answer": "kind",
+            "explain": {
+              "ua": "It's a kind of…",
+              "ru": "It's a kind of…"
+            },
+            "id": "c1-u15-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ivan thinks AI will definitely replace all teachers.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kate asks Ivan to explain his point.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does Ivan mean in the end?",
+              "options": [
+                "AI will change teachers' role, not replace them",
+                "teachers will disappear",
+                "AI is useless in schools"
+              ],
+              "answer": "AI will change teachers' role, not replace them"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Kate",
+              "line": "Do you think AI will replace teachers?"
+            },
+            {
+              "speaker": "Ivan",
+              "line": "Not completely. It seems that AI is good at explaining facts, but students tend to need a human for motivation."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Could you elaborate on that?"
+            },
+            {
+              "speaker": "Ivan",
+              "line": "What I mean is, the teacher's role will change. In other words, teachers will become more like coaches."
+            },
+            {
+              "speaker": "Kate",
+              "line": "I agree to some extent. Arguably, though, some schools will try to save money with AI."
+            },
+            {
+              "speaker": "Ivan",
+              "line": "That's a fair point."
+            }
+          ],
+          "explain": {
+            "ua": "Ivan hedges: AI may change teaching; Kate asks to elaborate; Ivan paraphrases: role changes; Kate agrees to some extent.",
+            "ru": "Ivan hedges: AI may change teaching; Kate asks to elaborate; Ivan paraphrases: role changes; Kate agrees to some extent."
+          },
+          "id": "c1-u15-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "advanced-speaking",
+          "bank": [
+            "seems",
+            "tend",
+            "elaborate",
+            "In other words",
+            "extent"
+          ],
+          "reuse": false,
+          "sentences": [
+            "It ___ that AI is good at facts.",
+            "Students ___ to need a human.",
+            "Could you ___ on that?",
+            "___, teachers will be coaches.",
+            "I agree to some ___."
+          ],
+          "answers": [
+            "seems",
+            "tend",
+            "elaborate",
+            "In other words",
+            "extent"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "c1-u15-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "advanced-speaking",
+          "question": "'That's a fair point' means…",
+          "options": [
+            "you're partly right",
+            "you're completely wrong",
+            "I don't understand"
+          ],
+          "answer": "you're partly right",
+          "explain": {
+            "ua": "Fair point — слушна думка.",
+            "ru": "Fair point — справедливое замечание."
+          },
+          "id": "c1-u15-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "advanced-speaking",
+          "sentence": "Students are tend to need motivation.",
+          "answer": "Students tend to need motivation.",
+          "accept": [],
+          "explain": {
+            "ua": "Tend — дієслово.",
+            "ru": "Tend — глагол."
+          },
+          "id": "c1-u15-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "advanced-speaking",
+          "sentence": "What I mean it is, we need help.",
+          "answer": "What I mean is, we need help.",
+          "accept": [],
+          "explain": {
+            "ua": "Без it.",
+            "ru": "Без it."
+          },
+          "id": "c1-u15-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "argued",
+            "a",
+            "mistake",
+            "could",
+            "It",
+            "is",
+            "that",
+            "this",
+            "be"
+          ],
+          "answer": "It could be argued that this is a mistake",
+          "explain": {
+            "ua": "It could be argued that…",
+            "ru": "It could be argued that…"
+          },
+          "id": "c1-u15-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "advanced-speaking",
+          "audio_text": "I agree to some extent.",
+          "options": [
+            "I agree to some extent.",
+            "I agree to some extend.",
+            "I agreed to some extent."
+          ],
+          "answer": "I agree to some extent.",
+          "audio": "",
+          "explain": {
+            "ua": "To some extent.",
+            "ru": "To some extent."
+          },
+          "id": "c1-u15-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "paraphrasing",
+          "prompt": {
+            "ua": "Це такий інструмент для саду.",
+            "ru": "Это такой инструмент для сада."
+          },
+          "answer": "It's a kind of tool for the garden.",
+          "accept": [
+            "It's a kind of garden tool.",
+            "It's a sort of tool for the garden.",
+            "It's a kind of tool for gardening."
+          ],
+          "explain": {
+            "ua": "It's a kind of…",
+            "ru": "It's a kind of…"
+          },
+          "id": "c1-u15-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "hedging",
+      "question": "People ___ to eat more in winter.",
+      "options": [
+        "tend",
+        "tends",
+        "are tending"
+      ],
+      "answer": "tend",
+      "explain": {
+        "ua": "Tend to.",
+        "ru": "Tend to."
+      },
+      "id": "c1-u15-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "hedging",
+      "question": "It ___ that the meeting is cancelled.",
+      "options": [
+        "seems",
+        "seem",
+        "is seem"
+      ],
+      "answer": "seems",
+      "explain": {
+        "ua": "It seems.",
+        "ru": "It seems."
+      },
+      "id": "c1-u15-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "hedging",
+      "question": "I agree to some ___ .",
+      "options": [
+        "extent",
+        "extend",
+        "level"
+      ],
+      "answer": "extent",
+      "explain": {
+        "ua": "Extent.",
+        "ru": "Extent."
+      },
+      "id": "c1-u15-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "paraphrasing",
+      "question": "In other ___ , it's impossible.",
+      "options": [
+        "words",
+        "ways",
+        "terms"
+      ],
+      "answer": "words",
+      "explain": {
+        "ua": "In other words.",
+        "ru": "In other words."
+      },
+      "id": "c1-u15-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "paraphrasing",
+      "question": "Could you ___ on that?",
+      "options": [
+        "elaborate",
+        "explain",
+        "say"
+      ],
+      "answer": "elaborate",
+      "explain": {
+        "ua": "Elaborate on.",
+        "ru": "Elaborate on."
+      },
+      "id": "c1-u15-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "hedging",
+      "question": "It could be ___ that the plan is too risky. (argue)",
+      "answer": "argued",
+      "accept": [],
+      "explain": {
+        "ua": "Argued.",
+        "ru": "Argued."
+      },
+      "id": "c1-u15-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "paraphrasing",
+      "question": "To put it another ___ , we lost.",
+      "answer": "way",
+      "accept": [],
+      "explain": {
+        "ua": "Way.",
+        "ru": "Way."
+      },
+      "id": "c1-u15-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "hedging",
+      "sentence": "Prices are tending to fall.",
+      "answer": "Prices tend to fall.",
+      "accept": [],
+      "explain": {
+        "ua": "Tend to.",
+        "ru": "Tend to."
+      },
+      "id": "c1-u15-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "paraphrasing",
+      "sentence": "Could you elaborate this?",
+      "answer": "Could you elaborate on this?",
+      "accept": [],
+      "explain": {
+        "ua": "Elaborate on.",
+        "ru": "Elaborate on."
+      },
+      "id": "c1-u15-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "paraphrasing",
+      "words": [
+        "What",
+        "need",
+        "we",
+        "more",
+        "that",
+        "time",
+        "mean",
+        "is",
+        "I"
+      ],
+      "answer": "What I mean is that we need more time",
+      "explain": {
+        "ua": "What I mean is…",
+        "ru": "What I mean is…"
+      },
+      "id": "c1-u15-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "hedging",
+      "prompt": {
+        "ua": "Можна стверджувати, що це найкращий фільм року.",
+        "ru": "Пожалуй, это лучший фильм года."
+      },
+      "answer": "Arguably, it's the best film of the year.",
+      "accept": [
+        "Arguably, this is the best film of the year.",
+        "It could be argued that it's the best film of the year.",
+        "Arguably, it is the best film of the year."
+      ],
+      "explain": {
+        "ua": "Arguably.",
+        "ru": "Arguably."
+      },
+      "id": "c1-u15-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "hedging",
+      "audio_text": "It appears that he's right.",
+      "options": [
+        "It appears that he's right.",
+        "It appears that he's wrong.",
+        "It appeared that he's right."
+      ],
+      "answer": "It appears that he's right.",
+      "audio": "",
+      "explain": {
+        "ua": "It appears.",
+        "ru": "It appears."
+      },
+      "id": "c1-u15-cp12"
+    }
+  ]
+}

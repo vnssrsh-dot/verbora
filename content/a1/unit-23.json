@@ -1,0 +1,1071 @@
+{
+  "id": "a1-u23",
+  "level": "A1",
+  "order": 23,
+  "kind": "grammar",
+  "title": {
+    "en": "Prepositions",
+    "ua": "Прийменники",
+    "ru": "Предлоги"
+  },
+  "rule": {
+    "formula": "in · on · under · next to · between · behind · in front of",
+    "explain": {
+      "ua": "Прийменники місця показують, де щось лежить або стоїть. Прийменники часу (at / on / in) ти вже знаєш — тут повторимо і додамо from … to, before, after.",
+      "ru": "Предлоги места показывают, где что-то лежит или стоит. Предлоги времени (at / on / in) ты уже знаешь — здесь повторим и добавим from … to, before, after."
+    },
+    "examples": [
+      {
+        "en": "The keys are on the table.",
+        "ua": "Ключі на столі.",
+        "ru": "Ключи на столе."
+      },
+      {
+        "en": "The cat is under the bed.",
+        "ua": "Кіт під ліжком.",
+        "ru": "Кот под кроватью."
+      },
+      {
+        "en": "I work from 9 to 5.",
+        "ua": "Я працюю з 9 до 5.",
+        "ru": "Я работаю с 9 до 5."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "under",
+      "ipa": "/ˈʌndə/",
+      "ua": "під",
+      "ru": "под",
+      "example": "The dog is under the table.",
+      "audio": ""
+    },
+    {
+      "word": "next to",
+      "ipa": "/ˈnekst tə/",
+      "ua": "поруч з",
+      "ru": "рядом с",
+      "example": "The bank is next to the café.",
+      "audio": ""
+    },
+    {
+      "word": "between",
+      "ipa": "/bɪˈtwiːn/",
+      "ua": "між",
+      "ru": "между",
+      "example": "The shop is between the bank and the park.",
+      "audio": ""
+    },
+    {
+      "word": "behind",
+      "ipa": "/bɪˈhaɪnd/",
+      "ua": "позаду, за",
+      "ru": "сзади, за",
+      "example": "The car is behind the house.",
+      "audio": ""
+    },
+    {
+      "word": "in front of",
+      "ipa": "/ɪn ˈfrʌnt əv/",
+      "ua": "перед",
+      "ru": "перед",
+      "example": "Meet me in front of the cinema.",
+      "audio": ""
+    },
+    {
+      "word": "opposite",
+      "ipa": "/ˈɒpəzɪt/",
+      "ua": "навпроти",
+      "ru": "напротив",
+      "example": "The pharmacy is opposite the school.",
+      "audio": ""
+    },
+    {
+      "word": "from … to",
+      "ipa": "/frɒm … tə/",
+      "ua": "з … до",
+      "ru": "с … до",
+      "example": "from Monday to Friday",
+      "audio": ""
+    },
+    {
+      "word": "before",
+      "ipa": "/bɪˈfɔː/",
+      "ua": "перед, до",
+      "ru": "перед, до",
+      "example": "before dinner",
+      "audio": ""
+    },
+    {
+      "word": "after",
+      "ipa": "/ˈɑːftə/",
+      "ua": "після",
+      "ru": "после",
+      "example": "after work",
+      "audio": ""
+    },
+    {
+      "word": "shelf",
+      "ipa": "/ʃelf/",
+      "ua": "полиця",
+      "ru": "полка",
+      "example": "The books are on the shelf.",
+      "audio": ""
+    },
+    {
+      "word": "box",
+      "ipa": "/bɒks/",
+      "ua": "коробка",
+      "ru": "коробка",
+      "example": "The toys are in the box.",
+      "audio": ""
+    },
+    {
+      "word": "wall",
+      "ipa": "/wɔːl/",
+      "ua": "стіна",
+      "ru": "стена",
+      "example": "The photo is on the wall.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u23-l01",
+      "title": {
+        "en": "Prepositions of place",
+        "ua": "Прийменники місця",
+        "ru": "Предлоги места"
+      },
+      "recap": {
+        "from": "a1-u22-l06",
+        "note": {
+          "ua": "Згадаймо: like, love, want, know, need, understand — без -ing",
+          "ru": "Вспомним: like, love, want, know, need, understand — без -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "I ___ a glass of water now.",
+            "options": [
+              "want",
+              "am wanting",
+              "wanting"
+            ],
+            "answer": "want",
+            "explain": {
+              "ua": "Want — без -ing.",
+              "ru": "Want — без -ing."
+            },
+            "id": "a1-u23-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "We ___ a new car.",
+            "options": [
+              "need",
+              "are needing",
+              "needing"
+            ],
+            "answer": "need",
+            "explain": {
+              "ua": "Need — без -ing.",
+              "ru": "Need — без -ing."
+            },
+            "id": "a1-u23-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "in — в · on — на · under — під · next to — поруч · between — між · behind — за · in front of — перед",
+          "ru": "in — в · on — на · under — под · next to — рядом · between — между · behind — за · in front of — перед"
+        },
+        "explain": {
+          "ua": "In — всередині (in the box). On — на поверхні (on the table, on the wall). Under — під. Next to — поруч. Between — між двома.",
+          "ru": "In — внутри (in the box). On — на поверхности (on the table, on the wall). Under — под. Next to — рядом. Between — между двумя."
+        },
+        "examples": [
+          {
+            "en": "The toys are in the box.",
+            "ua": "Іграшки в коробці.",
+            "ru": "Игрушки в коробке."
+          },
+          {
+            "en": "The photo is on the wall.",
+            "ua": "Фото на стіні.",
+            "ru": "Фото на стене."
+          },
+          {
+            "en": "The cat is between the chairs.",
+            "ua": "Кіт між стільцями.",
+            "ru": "Кот между стульями."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "prepositions-place",
+          "question": "The milk is ___ the fridge.",
+          "options": [
+            "in",
+            "on",
+            "under"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Всередині — in.",
+            "ru": "Внутри — in."
+          },
+          "id": "a1-u23-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-place",
+          "question": "The photo is ___ the wall.",
+          "options": [
+            "on",
+            "in",
+            "under"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "На стіні — on.",
+            "ru": "На стене — on."
+          },
+          "id": "a1-u23-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-place",
+          "question": "The cat is ___ the bed. I can't see it!",
+          "options": [
+            "under",
+            "on",
+            "next to"
+          ],
+          "answer": "under",
+          "explain": {
+            "ua": "Під ліжком — under.",
+            "ru": "Под кроватью — under."
+          },
+          "id": "a1-u23-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-place",
+          "question": "The bank is ___ the café and the park.",
+          "options": [
+            "between",
+            "next to",
+            "behind"
+          ],
+          "answer": "between",
+          "explain": {
+            "ua": "Між двома — between.",
+            "ru": "Между двумя — between."
+          },
+          "id": "a1-u23-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-place",
+          "question": "The garden is ___ the house.",
+          "options": [
+            "behind",
+            "between",
+            "on"
+          ],
+          "answer": "behind",
+          "explain": {
+            "ua": "Позаду — behind.",
+            "ru": "Сзади — behind."
+          },
+          "id": "a1-u23-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "prepositions-place",
+          "pairs": [
+            {
+              "left": "in",
+              "right": {
+                "ua": "в",
+                "ru": "в"
+              }
+            },
+            {
+              "left": "on",
+              "right": {
+                "ua": "на",
+                "ru": "на"
+              }
+            },
+            {
+              "left": "under",
+              "right": {
+                "ua": "під",
+                "ru": "под"
+              }
+            },
+            {
+              "left": "next to",
+              "right": {
+                "ua": "поруч з",
+                "ru": "рядом с"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Прийменники.",
+            "ru": "Предлоги."
+          },
+          "id": "a1-u23-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-place",
+          "sentence": "The books are in the shelf.",
+          "answer": "The books are on the shelf.",
+          "accept": [],
+          "explain": {
+            "ua": "На полиці — on.",
+            "ru": "На полке — on."
+          },
+          "id": "a1-u23-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "prepositions-place",
+          "words": [
+            "cinema",
+            "front",
+            "of",
+            "the",
+            "in",
+            "me",
+            "Meet"
+          ],
+          "answer": "Meet me in front of the cinema",
+          "explain": {
+            "ua": "Meet me → in front of → the cinema.",
+            "ru": "Meet me → in front of → the cinema."
+          },
+          "id": "a1-u23-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-place",
+          "prompt": {
+            "ua": "Аптека навпроти школи.",
+            "ru": "Аптека напротив школы."
+          },
+          "answer": "The pharmacy is opposite the school.",
+          "accept": [],
+          "explain": {
+            "ua": "Opposite — без of.",
+            "ru": "Opposite — без of."
+          },
+          "id": "a1-u23-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u23-l02",
+      "title": {
+        "en": "Prepositions of time",
+        "ua": "Прийменники часу",
+        "ru": "Предлоги времени"
+      },
+      "recap": {
+        "from": "a1-u23-l01",
+        "note": {
+          "ua": "Згадаймо: in — в · on — на · under — під · next to — поруч · between — між · behind — за · in front of — перед",
+          "ru": "Вспомним: in — в · on — на · under — под · next to — рядом · between — между · behind — за · in front of — перед"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "prepositions-place",
+            "question": "The milk is ___ the fridge.",
+            "options": [
+              "in",
+              "on",
+              "under"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Всередині — in.",
+              "ru": "Внутри — in."
+            },
+            "id": "a1-u23-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "prepositions-place",
+            "question": "The bank is ___ the café and the park.",
+            "options": [
+              "between",
+              "next to",
+              "behind"
+            ],
+            "answer": "between",
+            "explain": {
+              "ua": "Між двома — between.",
+              "ru": "Между двумя — between."
+            },
+            "id": "a1-u23-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "at 7 · on Monday · in May · from 9 to 5 · before / after dinner",
+        "explain": {
+          "ua": "Повторюємо: at — година, on — день, in — місяць, пора року, частина дня. From … to — з … до. Before — перед, after — після.",
+          "ru": "Повторяем: at — час, on — день, in — месяц, время года, часть дня. From … to — с … до. Before — перед, after — после."
+        },
+        "examples": [
+          {
+            "en": "The shop is open from 8 to 10.",
+            "ua": "Магазин працює з 8 до 10.",
+            "ru": "Магазин работает с 8 до 10."
+          },
+          {
+            "en": "I read before bed.",
+            "ua": "Я читаю перед сном.",
+            "ru": "Я читаю перед сном."
+          },
+          {
+            "en": "We relax after work.",
+            "ua": "Ми відпочиваємо після роботи.",
+            "ru": "Мы отдыхаем после работы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I work ___ Monday ___ Friday.",
+          "options": [
+            "from / to",
+            "at / on",
+            "in / to"
+          ],
+          "answer": "from / to",
+          "explain": {
+            "ua": "З … до — from … to.",
+            "ru": "С … до — from … to."
+          },
+          "id": "a1-u23-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I brush my teeth ___ bed.",
+          "options": [
+            "before",
+            "after",
+            "between"
+          ],
+          "answer": "before",
+          "explain": {
+            "ua": "Перед сном — before bed.",
+            "ru": "Перед сном — before bed."
+          },
+          "id": "a1-u23-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "We go for a walk ___ dinner.",
+          "options": [
+            "after",
+            "before",
+            "at"
+          ],
+          "answer": "after",
+          "explain": {
+            "ua": "Після вечері — after dinner.",
+            "ru": "После ужина — after dinner."
+          },
+          "id": "a1-u23-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "My birthday is ___ March.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Місяць — in.",
+            "ru": "Месяц — in."
+          },
+          "id": "a1-u23-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "The film starts ___ 8 o'clock.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": "at",
+          "explain": {
+            "ua": "Година — at.",
+            "ru": "Час — at."
+          },
+          "id": "a1-u23-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "prepositions-time",
+          "bank": [
+            "at",
+            "on",
+            "in",
+            "from",
+            "after"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ Sunday",
+            "___ the evening",
+            "___ 9 to 6",
+            "___ midnight",
+            "___ lunch"
+          ],
+          "answers": [
+            "on",
+            "in",
+            "from",
+            "at",
+            "after"
+          ],
+          "explain": {
+            "ua": "on Sunday, in the evening, from 9 to 6, at midnight, after lunch.",
+            "ru": "on Sunday, in the evening, from 9 to 6, at midnight, after lunch."
+          },
+          "id": "a1-u23-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-time",
+          "sentence": "I'm free on the evening.",
+          "answer": "I'm free in the evening.",
+          "accept": [
+            "I am free in the evening."
+          ],
+          "explain": {
+            "ua": "In the evening.",
+            "ru": "In the evening."
+          },
+          "id": "a1-u23-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "prepositions-time",
+          "audio_text": "The café is open from nine to six.",
+          "options": [
+            "The café is open from nine to six.",
+            "The café is open from five to six.",
+            "The café is open on nine to six."
+          ],
+          "answer": "The café is open from nine to six.",
+          "audio": "",
+          "explain": {
+            "ua": "From … to.",
+            "ru": "From … to."
+          },
+          "id": "a1-u23-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-time",
+          "prompt": {
+            "ua": "Ми відпочиваємо після роботи.",
+            "ru": "Мы отдыхаем после работы."
+          },
+          "answer": "We relax after work.",
+          "accept": [],
+          "explain": {
+            "ua": "After work.",
+            "ru": "After work."
+          },
+          "id": "a1-u23-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u23-l03",
+      "title": {
+        "en": "Practice: where is it?",
+        "ua": "Практика: де це?",
+        "ru": "Практика: где это?"
+      },
+      "recap": {
+        "from": "a1-u23-l02",
+        "note": {
+          "ua": "Згадаймо: at 7 · on Monday · in May · from 9 to 5 · before / after dinner",
+          "ru": "Вспомним: at 7 · on Monday · in May · from 9 to 5 · before / after dinner"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I work ___ Monday ___ Friday.",
+            "options": [
+              "from / to",
+              "at / on",
+              "in / to"
+            ],
+            "answer": "from / to",
+            "explain": {
+              "ua": "З … до — from … to.",
+              "ru": "С … до — from … to."
+            },
+            "id": "a1-u23-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "My birthday is ___ March.",
+            "options": [
+              "in",
+              "on",
+              "at"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Місяць — in.",
+              "ru": "Месяц — in."
+            },
+            "id": "a1-u23-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "prepositions",
+          "question": "Where are my keys? — They're ___ your bag.",
+          "options": [
+            "in",
+            "on",
+            "between"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "У сумці — in.",
+            "ru": "В сумке — in."
+          },
+          "id": "a1-u23-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions",
+          "question": "The bus stop is ___ the bank. Just one step!",
+          "options": [
+            "next to",
+            "between",
+            "under"
+          ],
+          "answer": "next to",
+          "explain": {
+            "ua": "Поруч — next to.",
+            "ru": "Рядом — next to."
+          },
+          "id": "a1-u23-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Where is the phone?",
+              "options": [
+                "under the sofa",
+                "on the table",
+                "in the bag"
+              ],
+              "answer": "under the sofa"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The keys are on the shelf.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The bag is in the kitchen.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mum",
+              "line": "Kids, where is my phone?"
+            },
+            {
+              "speaker": "Mark",
+              "line": "It's under the sofa!"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Thanks! And the keys?"
+            },
+            {
+              "speaker": "Sofia",
+              "line": "They're on the shelf, next to the photo."
+            },
+            {
+              "speaker": "Mum",
+              "line": "And my bag?"
+            },
+            {
+              "speaker": "Mark",
+              "line": "It's next to the door, in front of the mirror."
+            }
+          ],
+          "explain": {
+            "ua": "Phone — under the sofa, keys — on the shelf, bag — next to the door.",
+            "ru": "Phone — under the sofa, keys — on the shelf, bag — next to the door."
+          },
+          "id": "a1-u23-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "prepositions",
+          "bank": [
+            "under",
+            "on",
+            "next to",
+            "in front of"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The phone is ___ the sofa.",
+            "The keys are ___ the shelf.",
+            "The bag is ___ the door.",
+            "The bag is ___ the mirror."
+          ],
+          "answers": [
+            "under",
+            "on",
+            "next to",
+            "in front of"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a1-u23-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions",
+          "sentence": "The cat is between the box.",
+          "answer": "The cat is in the box.",
+          "accept": [],
+          "explain": {
+            "ua": "Between — між двома; у коробці — in.",
+            "ru": "Between — между двумя; в коробке — in."
+          },
+          "id": "a1-u23-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-place",
+          "sentence": "Meet me in front the café.",
+          "answer": "Meet me in front of the café.",
+          "accept": [],
+          "explain": {
+            "ua": "In front OF.",
+            "ru": "In front OF."
+          },
+          "id": "a1-u23-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "the",
+            "bed",
+            "The",
+            "next",
+            "lamp",
+            "is",
+            "to"
+          ],
+          "answer": "The lamp is next to the bed",
+          "explain": {
+            "ua": "The lamp → is → next to the bed.",
+            "ru": "The lamp → is → next to the bed."
+          },
+          "id": "a1-u23-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "prepositions",
+          "audio_text": "The car is behind the house.",
+          "options": [
+            "The car is behind the house.",
+            "The car is in front of the house.",
+            "The cat is behind the house."
+          ],
+          "answer": "The car is behind the house.",
+          "audio": "",
+          "explain": {
+            "ua": "Behind — позаду.",
+            "ru": "Behind — сзади."
+          },
+          "id": "a1-u23-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions",
+          "prompt": {
+            "ua": "Ключі на столі.",
+            "ru": "Ключи на столе."
+          },
+          "answer": "The keys are on the table.",
+          "accept": [],
+          "explain": {
+            "ua": "Ключі — множина → are, на столі → on.",
+            "ru": "Ключи — множественное → are, на столе → on."
+          },
+          "id": "a1-u23-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-time",
+          "prompt": {
+            "ua": "Я працюю з понеділка до п'ятниці.",
+            "ru": "Я работаю с понедельника по пятницу."
+          },
+          "answer": "I work from Monday to Friday.",
+          "accept": [],
+          "explain": {
+            "ua": "From … to.",
+            "ru": "From … to."
+          },
+          "id": "a1-u23-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "prepositions-place",
+      "question": "The toys are ___ the box.",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer": "in",
+      "explain": {
+        "ua": "In.",
+        "ru": "In."
+      },
+      "id": "a1-u23-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-place",
+      "question": "The clock is ___ the wall.",
+      "options": [
+        "on",
+        "in",
+        "under"
+      ],
+      "answer": "on",
+      "explain": {
+        "ua": "On the wall.",
+        "ru": "On the wall."
+      },
+      "id": "a1-u23-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-place",
+      "question": "The dog is ___ the table. It's sleeping there.",
+      "options": [
+        "under",
+        "between",
+        "on"
+      ],
+      "answer": "under",
+      "explain": {
+        "ua": "Under.",
+        "ru": "Under."
+      },
+      "id": "a1-u23-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "I work ___ 9 ___ 5.",
+      "options": [
+        "from / to",
+        "at / at",
+        "in / on"
+      ],
+      "answer": "from / to",
+      "explain": {
+        "ua": "From … to.",
+        "ru": "From … to."
+      },
+      "id": "a1-u23-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "We have tea ___ dinner.",
+      "options": [
+        "after",
+        "under",
+        "between"
+      ],
+      "answer": "after",
+      "explain": {
+        "ua": "After dinner.",
+        "ru": "After dinner."
+      },
+      "id": "a1-u23-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "prepositions-place",
+      "question": "The shop is ___ the bank and the café.",
+      "answer": "between",
+      "accept": [],
+      "explain": {
+        "ua": "Між двома.",
+        "ru": "Между двумя."
+      },
+      "id": "a1-u23-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "prepositions-time",
+      "question": "I'm free ___ Sunday.",
+      "answer": "on",
+      "accept": [],
+      "explain": {
+        "ua": "On Sunday.",
+        "ru": "On Sunday."
+      },
+      "id": "a1-u23-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "prepositions-place",
+      "pairs": [
+        {
+          "left": "behind",
+          "right": {
+            "ua": "позаду",
+            "ru": "сзади"
+          }
+        },
+        {
+          "left": "opposite",
+          "right": {
+            "ua": "навпроти",
+            "ru": "напротив"
+          }
+        },
+        {
+          "left": "between",
+          "right": {
+            "ua": "між",
+            "ru": "между"
+          }
+        },
+        {
+          "left": "before",
+          "right": {
+            "ua": "перед",
+            "ru": "перед"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Прийменники.",
+        "ru": "Предлоги."
+      },
+      "id": "a1-u23-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "prepositions-place",
+      "sentence": "The books are in the shelf.",
+      "answer": "The books are on the shelf.",
+      "accept": [],
+      "explain": {
+        "ua": "On the shelf.",
+        "ru": "On the shelf."
+      },
+      "id": "a1-u23-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "prepositions-time",
+      "sentence": "See you in Friday.",
+      "answer": "See you on Friday.",
+      "accept": [],
+      "explain": {
+        "ua": "On Friday.",
+        "ru": "On Friday."
+      },
+      "id": "a1-u23-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "prepositions-place",
+      "prompt": {
+        "ua": "Кіт під ліжком.",
+        "ru": "Кот под кроватью."
+      },
+      "answer": "The cat is under the bed.",
+      "accept": [],
+      "explain": {
+        "ua": "Under.",
+        "ru": "Under."
+      },
+      "id": "a1-u23-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "prepositions-place",
+      "audio_text": "Meet me in front of the station.",
+      "options": [
+        "Meet me in front of the station.",
+        "Meet me behind the station.",
+        "Meet me in the station."
+      ],
+      "answer": "Meet me in front of the station.",
+      "audio": "",
+      "explain": {
+        "ua": "In front of — перед.",
+        "ru": "In front of — перед."
+      },
+      "id": "a1-u23-cp12"
+    }
+  ]
+}

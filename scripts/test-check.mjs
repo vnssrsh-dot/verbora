@@ -23,10 +23,15 @@ ok(!matches('I am', "I'm"), 'gap testing the short form stays strict');
 ok(matches('Anna is a student', 'is', gapSentences('Anna ___ a student.', ['is', "'s"])), 'gap typed as a whole sentence');
 ok(matches("Anna's a student.", 'is', gapSentences('Anna ___ a student.', ['is', "'s"])), "'s glued to the word before");
 ok(answerIndex(['TA-ble', 'ta-BLE'], 'TA-ble', 'ua') === 0 && answerIndex(['TA-ble', 'ta-BLE'], 'ta-BLE', 'ua') === 1, 'options differing only by case');
+ok(!matches('He is got brown eyes.', 'He has got brown eyes.', ["He's got brown eyes."], { shortForms: true }), "'s got = has got, not is got");
+ok(matches("He's got brown eyes", 'He has got brown eyes.', [], { shortForms: true }), "He's got accepted for has got");
+ok(!matches('See you on monday!', 'See you on Monday!', [], { exact: true }), 'capital-letter fix stays strict');
+ok(matches('See you on Monday!', 'See you on Monday!', [], { exact: true }), 'capital-letter fix accepts the answer');
 ok(answerIndex([{ ua: 'а', ru: 'а' }, { ua: 'б', ru: 'в' }], { ua: 'б', ru: 'в' }, 'ru') === 1, 'localized options');
 
 // ---- every exercise in content ----
 function exercises(u) {
+  if (u.kind === 'final-test') return u.exercises;
   const out = [];
   for (const l of u.lessons || []) out.push(...(l.exercises || []), ...(l.recap?.exercises || []));
   return [...out, ...(u.checkpoint || [])];
@@ -35,7 +40,7 @@ function walk(dir, files = []) {
   for (const f of readdirSync(dir)) {
     const p = join(dir, f);
     if (statSync(p).isDirectory()) walk(p, files);
-    else if (/unit-\d+\.json$/.test(f) || f === 'transcription.json') files.push(p);
+    else if (/unit-\d+\.json$/.test(f) || f === 'transcription.json' || f === 'final-test.json') files.push(p);
   }
   return files;
 }
@@ -58,9 +63,10 @@ for (const file of walk(root)) {
       ok(!matches('xyz', e.answer, acc), `${id}: junk accepted`);
     }
     if (e.type === 'fix') {
-      ok(matches(e.answer, e.answer, e.accept, { shortForms: true }), `${id}: answer rejected`);
-      ok(!matches(e.sentence, e.answer, e.accept, { shortForms: true }), `${id}: the original mistake is accepted`);
-      for (const a of e.accept || []) ok(matches(a, e.answer, e.accept, { shortForms: true }), `${id}: accept rejected`);
+      const o = { shortForms: true, exact: normalize(e.sentence) === normalize(e.answer) };
+      ok(matches(e.answer, e.answer, e.accept, o), `${id}: answer rejected`);
+      ok(!matches(e.sentence, e.answer, e.accept, o), `${id}: the original mistake is accepted`);
+      for (const a of e.accept || []) ok(matches(a, e.answer, e.accept, o), `${id}: accept rejected`);
     }
     if (e.type === 'translate') {
       ok(matches(e.answer.toLowerCase().replace(/\.$/, ''), e.answer, e.accept, { shortForms: true }), `${id}: answer rejected`);

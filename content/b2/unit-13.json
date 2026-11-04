@@ -1,0 +1,994 @@
+{
+  "id": "b2-u13",
+  "level": "B2",
+  "order": 13,
+  "kind": "grammar",
+  "title": {
+    "en": "Relative clauses: advanced",
+    "ua": "Підрядні означальні: просунутий рівень",
+    "ru": "Относительные придаточные: продвинутые"
+  },
+  "rule": {
+    "formula": {
+      "ua": "визначальні (без ком) — яке саме · невизначальні (з комами) — додаткова інформація, без that",
+      "ru": "определительные (без запятых) — какое именно · неопределительные (с запятыми) — дополнительная информация, без that"
+    },
+    "explain": {
+      "ua": "My sister who lives in Lviv… — у мене кілька сестер, мова про ту, що у Львові. My sister, who lives in Lviv, … — сестра одна, а «живе у Львові» — просто додаткова інформація. У реченнях з комами that не вживаємо!",
+      "ru": "My sister who lives in Lviv… — у меня несколько сестёр, речь о той, что во Львове. My sister, who lives in Lviv, … — сестра одна, а «живёт во Львове» — просто дополнительная информация. В предложениях с запятыми that не употребляем!"
+    },
+    "examples": [
+      {
+        "en": "The man who called you is my boss.",
+        "ua": "Чоловік, який тобі дзвонив, — мій начальник.",
+        "ru": "Мужчина, который тебе звонил, — мой начальник."
+      },
+      {
+        "en": "Kyiv, which is the capital of Ukraine, is very old.",
+        "ua": "Київ, який є столицею України, дуже давній.",
+        "ru": "Киев, который является столицей Украины, очень древний."
+      },
+      {
+        "en": "She passed the exam, which surprised everyone.",
+        "ua": "Вона склала іспит, що всіх здивувало.",
+        "ru": "Она сдала экзамен, что всех удивило."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "defining",
+      "ipa": "/dɪˈfaɪnɪŋ/",
+      "ua": "визначальний",
+      "ru": "определительный",
+      "example": "a defining clause",
+      "audio": ""
+    },
+    {
+      "word": "non-defining",
+      "ipa": "/ˌnɒn dɪˈfaɪnɪŋ/",
+      "ua": "невизначальний (додатковий)",
+      "ru": "неопределительный (дополнительный)",
+      "example": "a non-defining clause",
+      "audio": ""
+    },
+    {
+      "word": "whom",
+      "ipa": "/huːm/",
+      "ua": "якого / кому (формально)",
+      "ru": "которого / которому (формально)",
+      "example": "the man to whom I spoke",
+      "audio": ""
+    },
+    {
+      "word": "whose",
+      "ipa": "/huːz/",
+      "ua": "чий",
+      "ru": "чей",
+      "example": "the writer whose books I love",
+      "audio": ""
+    },
+    {
+      "word": "which",
+      "ipa": "/wɪtʃ/",
+      "ua": "що (про все речення)",
+      "ru": "что (обо всём предложении)",
+      "example": "He was late, which annoyed me.",
+      "audio": ""
+    },
+    {
+      "word": "capital",
+      "ipa": "/ˈkæpɪtl/",
+      "ua": "столиця",
+      "ru": "столица",
+      "example": "the capital of Ukraine",
+      "audio": ""
+    },
+    {
+      "word": "surprise",
+      "ipa": "/səˈpraɪz/",
+      "ua": "дивувати",
+      "ru": "удивлять",
+      "example": "which surprised everyone",
+      "audio": ""
+    },
+    {
+      "word": "author",
+      "ipa": "/ˈɔːθə/",
+      "ua": "автор",
+      "ru": "автор",
+      "example": "the author whose book won",
+      "audio": ""
+    },
+    {
+      "word": "rely on",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "ua": "покладатися на",
+      "ru": "полагаться на",
+      "example": "the person on whom I rely",
+      "audio": ""
+    },
+    {
+      "word": "depend on",
+      "ipa": "/dɪˈpend ɒn/",
+      "ua": "залежати від",
+      "ru": "зависеть от",
+      "example": "the job which I depend on",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u13-l01",
+      "title": {
+        "en": "Defining and non-defining",
+        "ua": "Визначальні й невизначальні",
+        "ru": "Определительные и неопределительные"
+      },
+      "recap": {
+        "from": "b2-u12-l03",
+        "note": {
+          "ua": "Згадаймо: advise / warn / remind + sb + to · promise / refuse / agree + to · suggest / admit / deny + -ing · apologise for + -ing",
+          "ru": "Вспомним: advise / warn / remind + sb + to · promise / refuse / agree + to · suggest / admit / deny + -ing · apologise for + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "reporting-verbs",
+            "question": "'I'll definitely come.' → He ___ to come.",
+            "options": [
+              "promised",
+              "suggested",
+              "denied"
+            ],
+            "answer": "promised",
+            "explain": {
+              "ua": "Promise + to.",
+              "ru": "Promise + to."
+            },
+            "id": "b2-u13-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "reporting-verbs",
+            "question": "'Sorry I'm late.' → He apologised ___ late.",
+            "options": [
+              "for being",
+              "to be",
+              "being"
+            ],
+            "answer": "for being",
+            "explain": {
+              "ua": "Apologise for + -ing.",
+              "ru": "Apologise for + -ing."
+            },
+            "id": "b2-u13-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "без ком: who / which / that — потрібно, щоб зрозуміти, про кого · з комами: who / which (не that) — додаткова інформація",
+          "ru": "без запятых: who / which / that — нужно, чтобы понять, о ком · с запятыми: who / which (не that) — дополнительная информация"
+        },
+        "explain": {
+          "ua": "Якщо прибрати частину з комами, речення все одно має сенс: My mother, who is a doctor, lives in Odesa → My mother lives in Odesa. Перед власними назвами й «унікальними» людьми (my mother) — завжди коми.",
+          "ru": "Если убрать часть с запятыми, предложение всё равно имеет смысл: My mother, who is a doctor, lives in Odesa → My mother lives in Odesa. Перед именами собственными и «уникальными» людьми (my mother) — всегда запятые."
+        },
+        "examples": [
+          {
+            "en": "The book that I'm reading is great.",
+            "ua": "Книжка, яку я читаю, чудова.",
+            "ru": "Книга, которую я читаю, отличная."
+          },
+          {
+            "en": "My father, who is 70, still works.",
+            "ua": "Мій тато, якому 70, досі працює.",
+            "ru": "Мой отец, которому 70, всё ещё работает."
+          },
+          {
+            "en": "Lviv, which I visited last year, is beautiful.",
+            "ua": "Львів, де я був торік, гарний.",
+            "ru": "Львов, где я был в прошлом году, красивый."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-non-defining",
+          "question": "My mother, ___ is a nurse, works at night.",
+          "options": [
+            "who",
+            "that",
+            "which"
+          ],
+          "answer": "who",
+          "explain": {
+            "ua": "З комами — who, не that.",
+            "ru": "С запятыми — who, не that."
+          },
+          "id": "b2-u13-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-non-defining",
+          "question": "The Dnipro, ___ flows through Kyiv, is a long river.",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "З комами — which.",
+            "ru": "С запятыми — which."
+          },
+          "id": "b2-u13-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-non-defining",
+          "question": "The phone ___ I bought yesterday is broken.",
+          "options": [
+            "that",
+            "who",
+            "whose"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "Без ком — that / which.",
+            "ru": "Без запятых — that / which."
+          },
+          "id": "b2-u13-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-non-defining",
+          "question": "Which sentence needs commas?",
+          "options": [
+            "My wife who is a teacher loves books.",
+            "The woman who teaches us is nice.",
+            "The car that I want is red."
+          ],
+          "answer": "My wife who is a teacher loves books.",
+          "explain": {
+            "ua": "Дружина одна → додаткова інформація → коми.",
+            "ru": "Жена одна → дополнительная информация → запятые."
+          },
+          "id": "b2-u13-l01-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-non-defining",
+          "sentence": "Taras Shevchenko, that was a poet, was born in 1814.",
+          "answer": "Taras Shevchenko, who was a poet, was born in 1814.",
+          "accept": [],
+          "explain": {
+            "ua": "З комами — who.",
+            "ru": "С запятыми — who."
+          },
+          "id": "b2-u13-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-non-defining",
+          "sentence": "Paris, that is the capital of France, is beautiful.",
+          "answer": "Paris, which is the capital of France, is beautiful.",
+          "accept": [],
+          "explain": {
+            "ua": "З комами — which.",
+            "ru": "С запятыми — which."
+          },
+          "id": "b2-u13-l01-e06"
+        },
+        {
+          "type": "build",
+          "topic": "relative-non-defining",
+          "words": [
+            "a",
+            "brother",
+            "My",
+            "lives",
+            "who",
+            "in",
+            "doctor",
+            "is",
+            "Canada"
+          ],
+          "answer": "My brother who lives in Canada is a doctor",
+          "explain": {
+            "ua": "Кілька братів → без ком.",
+            "ru": "Несколько братьев → без запятых."
+          },
+          "id": "b2-u13-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "relative-non-defining",
+          "audio_text": "My grandmother, who is 90, still cooks every day.",
+          "options": [
+            "My grandmother, who is 90, still cooks every day.",
+            "My grandmother, that is 90, still cooks every day.",
+            "My grandmother who is 19 still cooks every day."
+          ],
+          "answer": "My grandmother, who is 90, still cooks every day.",
+          "audio": "",
+          "explain": {
+            "ua": "Who is 90.",
+            "ru": "Who is 90."
+          },
+          "id": "b2-u13-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-non-defining",
+          "prompt": {
+            "ua": "Мій чоловік, який працює в IT, часто подорожує.",
+            "ru": "Мой муж, который работает в IT, часто путешествует."
+          },
+          "answer": "My husband, who works in IT, often travels.",
+          "accept": [
+            "My husband, who works in IT, travels a lot."
+          ],
+          "explain": {
+            "ua": "Коми + who.",
+            "ru": "Запятые + who."
+          },
+          "id": "b2-u13-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u13-l02",
+      "title": {
+        "en": "Prepositions in relative clauses",
+        "ua": "Прийменники в підрядних",
+        "ru": "Предлоги в придаточных"
+      },
+      "recap": {
+        "from": "b2-u13-l01",
+        "note": {
+          "ua": "Згадаймо: без ком: who / which / that — потрібно, щоб зрозуміти, про кого · з комами: who / which (не that) — додаткова інформація",
+          "ru": "Вспомним: без запятых: who / which / that — нужно, чтобы понять, о ком · с запятыми: who / which (не that) — дополнительная информация"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-non-defining",
+            "question": "My mother, ___ is a nurse, works at night.",
+            "options": [
+              "who",
+              "that",
+              "which"
+            ],
+            "answer": "who",
+            "explain": {
+              "ua": "З комами — who, не that.",
+              "ru": "С запятыми — who, не that."
+            },
+            "id": "b2-u13-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-non-defining",
+            "question": "Which sentence needs commas?",
+            "options": [
+              "My wife who is a teacher loves books.",
+              "The woman who teaches us is nice.",
+              "The car that I want is red."
+            ],
+            "answer": "My wife who is a teacher loves books.",
+            "explain": {
+              "ua": "Дружина одна → додаткова інформація → коми.",
+              "ru": "Жена одна → дополнительная информация → запятые."
+            },
+            "id": "b2-u13-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "розмовне: the person (who) I spoke to · формальне: the person to whom I spoke",
+          "ru": "разговорное: the person (who) I spoke to · формальное: the person to whom I spoke"
+        },
+        "explain": {
+          "ua": "У розмові прийменник іде в кінець: the house I grew up in, the man I work with. Формально — перед whom / which: the house in which I grew up, the man with whom I work.",
+          "ru": "В разговоре предлог идёт в конец: the house I grew up in, the man I work with. Формально — перед whom / which: the house in which I grew up, the man with whom I work."
+        },
+        "examples": [
+          {
+            "en": "That's the girl I told you about.",
+            "ua": "Це та дівчина, про яку я тобі казав.",
+            "ru": "Это та девушка, о которой я тебе говорил."
+          },
+          {
+            "en": "The company for which I work is in Kyiv.",
+            "ua": "Компанія, на яку я працюю, у Києві.",
+            "ru": "Компания, на которую я работаю, в Киеве."
+          },
+          {
+            "en": "He's the man to whom I owe everything.",
+            "ua": "Це людина, якій я завдячую всім.",
+            "ru": "Это человек, которому я обязан всем."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-prepositions",
+          "question": "This is the house ___ I grew up.",
+          "options": [
+            "in which",
+            "which",
+            "in that"
+          ],
+          "answer": "in which",
+          "explain": {
+            "ua": "In which (або: that I grew up in).",
+            "ru": "In which (или: that I grew up in)."
+          },
+          "id": "b2-u13-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-prepositions",
+          "question": "She's the colleague ___ I work.",
+          "options": [
+            "with whom",
+            "with who",
+            "whom"
+          ],
+          "answer": "with whom",
+          "explain": {
+            "ua": "Після прийменника — whom.",
+            "ru": "После предлога — whom."
+          },
+          "id": "b2-u13-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-prepositions",
+          "question": "Is this the book you were talking ___ ?",
+          "options": [
+            "about",
+            "of which",
+            "—"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "Прийменник у кінці.",
+            "ru": "Предлог в конце."
+          },
+          "id": "b2-u13-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-prepositions",
+          "question": "The people ___ we stayed were very kind.",
+          "options": [
+            "with whom",
+            "with which",
+            "whom with"
+          ],
+          "answer": "with whom",
+          "explain": {
+            "ua": "With whom.",
+            "ru": "With whom."
+          },
+          "id": "b2-u13-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "relative-prepositions",
+          "pairs": [
+            {
+              "left": "the hotel we stayed in",
+              "right": "the hotel in which we stayed"
+            },
+            {
+              "left": "the man I spoke to",
+              "right": "the man to whom I spoke"
+            },
+            {
+              "left": "the job I applied for",
+              "right": "the job for which I applied"
+            }
+          ],
+          "explain": {
+            "ua": "Розмовне → формальне.",
+            "ru": "Разговорное → формальное."
+          },
+          "id": "b2-u13-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-prepositions",
+          "sentence": "The man to who I spoke was rude.",
+          "answer": "The man to whom I spoke was rude.",
+          "accept": [
+            "The man I spoke to was rude.",
+            "The man who I spoke to was rude."
+          ],
+          "explain": {
+            "ua": "Після прийменника — whom.",
+            "ru": "После предлога — whom."
+          },
+          "id": "b2-u13-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-prepositions",
+          "sentence": "This is the city in that I was born.",
+          "answer": "This is the city in which I was born.",
+          "accept": [
+            "This is the city where I was born.",
+            "This is the city that I was born in."
+          ],
+          "explain": {
+            "ua": "Після прийменника — which, не that.",
+            "ru": "После предлога — which, не that."
+          },
+          "id": "b2-u13-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "relative-prepositions",
+          "audio_text": "That's the man I told you about.",
+          "options": [
+            "That's the man I told you about.",
+            "That's the man I told you.",
+            "That's the man about I told you."
+          ],
+          "answer": "That's the man I told you about.",
+          "audio": "",
+          "explain": {
+            "ua": "Прийменник у кінці.",
+            "ru": "Предлог в конце."
+          },
+          "id": "b2-u13-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-prepositions",
+          "prompt": {
+            "ua": "Компанія, на яку я працюю, дуже велика.",
+            "ru": "Компания, на которую я работаю, очень большая."
+          },
+          "answer": "The company I work for is very big.",
+          "accept": [
+            "The company that I work for is very big.",
+            "The company for which I work is very big.",
+            "The company which I work for is very big."
+          ],
+          "explain": {
+            "ua": "Прийменник у кінці.",
+            "ru": "Предлог в конце."
+          },
+          "id": "b2-u13-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u13-l03",
+      "title": {
+        "en": "which for the whole sentence",
+        "ua": "which для всього речення",
+        "ru": "which для всего предложения"
+      },
+      "recap": {
+        "from": "b2-u13-l02",
+        "note": {
+          "ua": "Згадаймо: розмовне: the person (who) I spoke to · формальне: the person to whom I spoke",
+          "ru": "Вспомним: разговорное: the person (who) I spoke to · формальное: the person to whom I spoke"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-prepositions",
+            "question": "This is the house ___ I grew up.",
+            "options": [
+              "in which",
+              "which",
+              "in that"
+            ],
+            "answer": "in which",
+            "explain": {
+              "ua": "In which (або: that I grew up in).",
+              "ru": "In which (или: that I grew up in)."
+            },
+            "id": "b2-u13-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-prepositions",
+            "question": "The people ___ we stayed were very kind.",
+            "options": [
+              "with whom",
+              "with which",
+              "whom with"
+            ],
+            "answer": "with whom",
+            "explain": {
+              "ua": "With whom.",
+              "ru": "With whom."
+            },
+            "id": "b2-u13-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": ", which… — коментар до всієї попередньої думки",
+          "ru": ", which… — комментарий ко всей предыдущей мысли"
+        },
+        "explain": {
+          "ua": "Which може стосуватися не одного слова, а всієї ситуації: He didn't call, which made me angry (те, що він не подзвонив, мене розлютило). Тільки which і тільки з комою.",
+          "ru": "Which может относиться не к одному слову, а ко всей ситуации: He didn't call, which made me angry (то, что он не позвонил, меня разозлило). Только which и только с запятой."
+        },
+        "examples": [
+          {
+            "en": "She got the job, which was great news.",
+            "ua": "Вона отримала роботу, що було чудовою новиною.",
+            "ru": "Она получила работу, что было отличной новостью."
+          },
+          {
+            "en": "It rained all week, which ruined our holiday.",
+            "ua": "Цілий тиждень ішов дощ, що зіпсувало відпустку.",
+            "ru": "Всю неделю шёл дождь, что испортило отпуск."
+          },
+          {
+            "en": "He apologised, which surprised me.",
+            "ua": "Він вибачився, що мене здивувало.",
+            "ru": "Он извинился, что меня удивило."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "relative-which-sentence",
+          "question": "He forgot my birthday, ___ upset me.",
+          "options": [
+            "which",
+            "that",
+            "what"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Про всю ситуацію → which.",
+            "ru": "Обо всей ситуации → which."
+          },
+          "id": "b2-u13-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-which-sentence",
+          "question": "The train was late, ___ meant we missed the meeting.",
+          "options": [
+            "which",
+            "what",
+            "that"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Which.",
+            "ru": "Which."
+          },
+          "id": "b2-u13-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-which-sentence",
+          "question": "She passed all her exams, ___ was amazing.",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Which.",
+            "ru": "Which."
+          },
+          "id": "b2-u13-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "relative-which-sentence",
+          "question": "We won the match, ___ nobody expected.",
+          "options": [
+            "which",
+            "what",
+            "that"
+          ],
+          "answer": "which",
+          "explain": {
+            "ua": "Which.",
+            "ru": "Which."
+          },
+          "id": "b2-u13-l03-e04"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Nina's flight was cancelled.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Nina was happy that the hotel was full.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did the airline do?",
+              "options": [
+                "paid for a hotel",
+                "sent her home",
+                "gave her a new phone"
+              ],
+              "answer": "paid for a hotel"
+            }
+          ],
+          "text": "My flight to Rome, which was supposed to leave at 8, was cancelled, which really annoyed me. The airport hotel, where I wanted to stay, was full. Luckily, the airline paid for a room in another hotel, which was very kind of them. The woman at the desk, whose name was Maria, was really helpful.",
+          "explain": {
+            "ua": "Flight cancelled → annoyed; hotel full; airline paid for another hotel, which was kind.",
+            "ru": "Flight cancelled → annoyed; hotel full; airline paid for another hotel, which was kind."
+          },
+          "id": "b2-u13-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-which-sentence",
+          "sentence": "He didn't come, what was strange.",
+          "answer": "He didn't come, which was strange.",
+          "accept": [],
+          "explain": {
+            "ua": "Про ситуацію → which.",
+            "ru": "О ситуации → which."
+          },
+          "id": "b2-u13-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "relative-which-sentence",
+          "sentence": "She lost her phone that made her angry.",
+          "answer": "She lost her phone, which made her angry.",
+          "accept": [],
+          "explain": {
+            "ua": "Кома + which.",
+            "ru": "Запятая + which."
+          },
+          "id": "b2-u13-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "relative-which-sentence",
+          "audio_text": "It rained all week, which ruined our holiday.",
+          "options": [
+            "It rained all week, which ruined our holiday.",
+            "It rained all week, what ruined our holiday.",
+            "It rained all week, which rained our holiday."
+          ],
+          "answer": "It rained all week, which ruined our holiday.",
+          "audio": "",
+          "explain": {
+            "ua": "Which.",
+            "ru": "Which."
+          },
+          "id": "b2-u13-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "relative-which-sentence",
+          "prompt": {
+            "ua": "Він вибачився, що мене здивувало.",
+            "ru": "Он извинился, что меня удивило."
+          },
+          "answer": "He apologised, which surprised me.",
+          "accept": [
+            "He apologized, which surprised me."
+          ],
+          "explain": {
+            "ua": "Which.",
+            "ru": "Which."
+          },
+          "id": "b2-u13-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "relative-non-defining",
+      "question": "My father, ___ is 65, still works.",
+      "options": [
+        "who",
+        "that",
+        "which"
+      ],
+      "answer": "who",
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b2-u13-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-non-defining",
+      "question": "Odesa, ___ is on the Black Sea, is my hometown.",
+      "options": [
+        "which",
+        "that",
+        "who"
+      ],
+      "answer": "which",
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-u13-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-prepositions",
+      "question": "The woman ___ I spoke was very helpful.",
+      "options": [
+        "to whom",
+        "to who",
+        "whom to"
+      ],
+      "answer": "to whom",
+      "explain": {
+        "ua": "To whom.",
+        "ru": "To whom."
+      },
+      "id": "b2-u13-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-which-sentence",
+      "question": "He arrived late, ___ annoyed everyone.",
+      "options": [
+        "which",
+        "that",
+        "what"
+      ],
+      "answer": "which",
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-u13-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "relative-prepositions",
+      "question": "That's the café we met ___ .",
+      "options": [
+        "in",
+        "where",
+        "—"
+      ],
+      "answer": "in",
+      "explain": {
+        "ua": "Прийменник у кінці.",
+        "ru": "Предлог в конце."
+      },
+      "id": "b2-u13-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "relative-clauses",
+      "question": "The writer ___ books I love is coming to Kyiv.",
+      "answer": "whose",
+      "accept": [],
+      "explain": {
+        "ua": "Whose.",
+        "ru": "Whose."
+      },
+      "id": "b2-u13-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "relative-which-sentence",
+      "question": "She won the prize, ___ surprised nobody.",
+      "answer": "which",
+      "accept": [],
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-u13-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "relative-non-defining",
+      "sentence": "My wife, that is a doctor, works a lot.",
+      "answer": "My wife, who is a doctor, works a lot.",
+      "accept": [],
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "b2-u13-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "relative-prepositions",
+      "sentence": "The hotel in that we stayed was nice.",
+      "answer": "The hotel in which we stayed was nice.",
+      "accept": [
+        "The hotel that we stayed in was nice.",
+        "The hotel we stayed in was nice."
+      ],
+      "explain": {
+        "ua": "In which.",
+        "ru": "In which."
+      },
+      "id": "b2-u13-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "relative-prepositions",
+      "words": [
+        "we",
+        "stayed",
+        "people",
+        "The",
+        "kind",
+        "were",
+        "with",
+        "whom"
+      ],
+      "answer": "The people with whom we stayed were kind",
+      "explain": {
+        "ua": "With whom.",
+        "ru": "With whom."
+      },
+      "id": "b2-u13-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "relative-non-defining",
+      "prompt": {
+        "ua": "Київ, який є столицею, дуже великий.",
+        "ru": "Киев, который является столицей, очень большой."
+      },
+      "answer": "Kyiv, which is the capital, is very big.",
+      "accept": [
+        "Kyiv, which is the capital, is very large."
+      ],
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-u13-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "relative-which-sentence",
+      "audio_text": "She passed, which was great news.",
+      "options": [
+        "She passed, which was great news.",
+        "She passed, that was great news.",
+        "She passed, what was great news."
+      ],
+      "answer": "She passed, which was great news.",
+      "audio": "",
+      "explain": {
+        "ua": "Which.",
+        "ru": "Which."
+      },
+      "id": "b2-u13-cp12"
+    }
+  ]
+}

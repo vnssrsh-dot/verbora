@@ -1,0 +1,1519 @@
+{
+  "id": "a2-u08",
+  "level": "A2",
+  "order": 8,
+  "kind": "vocab",
+  "title": {
+    "en": "Cooking",
+    "ua": "Кулінарія",
+    "ru": "Кулинария"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "boil",
+      "ipa": "/bɔɪl/",
+      "ua": "варити, кип'ятити",
+      "ru": "варить, кипятить",
+      "example": "Boil the water.",
+      "audio": ""
+    },
+    {
+      "word": "fry",
+      "ipa": "/fraɪ/",
+      "ua": "смажити (на пательні)",
+      "ru": "жарить (на сковороде)",
+      "example": "Fry the onion.",
+      "audio": ""
+    },
+    {
+      "word": "bake",
+      "ipa": "/beɪk/",
+      "ua": "пекти",
+      "ru": "печь",
+      "example": "I bake bread.",
+      "audio": ""
+    },
+    {
+      "word": "roast",
+      "ipa": "/rəʊst/",
+      "ua": "запікати (в духовці)",
+      "ru": "запекать (в духовке)",
+      "example": "Roast the chicken.",
+      "audio": ""
+    },
+    {
+      "word": "peel",
+      "ipa": "/piːl/",
+      "ua": "чистити (від шкірки)",
+      "ru": "чистить (от кожуры)",
+      "example": "Peel the potatoes.",
+      "audio": ""
+    },
+    {
+      "word": "cut",
+      "ipa": "/kʌt/",
+      "ua": "різати",
+      "ru": "резать",
+      "example": "Cut the bread.",
+      "audio": ""
+    },
+    {
+      "word": "chop",
+      "ipa": "/tʃɒp/",
+      "ua": "дрібно нарізати",
+      "ru": "мелко нарезать",
+      "example": "Chop the onion.",
+      "audio": ""
+    },
+    {
+      "word": "mix",
+      "ipa": "/mɪks/",
+      "ua": "змішувати",
+      "ru": "смешивать",
+      "example": "Mix the eggs and sugar.",
+      "audio": ""
+    },
+    {
+      "word": "pour",
+      "ipa": "/pɔː/",
+      "ua": "наливати",
+      "ru": "наливать",
+      "example": "Pour the milk.",
+      "audio": ""
+    },
+    {
+      "word": "add",
+      "ipa": "/æd/",
+      "ua": "додавати",
+      "ru": "добавлять",
+      "example": "Add some salt.",
+      "audio": ""
+    },
+    {
+      "word": "grate",
+      "ipa": "/ɡreɪt/",
+      "ua": "терти (на тертці)",
+      "ru": "тереть (на тёрке)",
+      "example": "Grate the cheese.",
+      "audio": ""
+    },
+    {
+      "word": "pan",
+      "ipa": "/pæn/",
+      "ua": "пательня, каструля",
+      "ru": "сковорода, кастрюля",
+      "example": "Heat the pan.",
+      "audio": ""
+    },
+    {
+      "word": "oven",
+      "ipa": "/ˈʌvn/",
+      "ua": "духовка",
+      "ru": "духовка",
+      "example": "Put it in the oven.",
+      "audio": ""
+    },
+    {
+      "word": "fresh",
+      "ipa": "/freʃ/",
+      "ua": "свіжий",
+      "ru": "свежий",
+      "example": "fresh bread",
+      "audio": ""
+    },
+    {
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "ua": "гострий, пряний",
+      "ru": "острый, пряный",
+      "example": "spicy food",
+      "audio": ""
+    },
+    {
+      "word": "salty",
+      "ipa": "/ˈsɔːlti/",
+      "ua": "солоний",
+      "ru": "солёный",
+      "example": "too salty",
+      "audio": ""
+    },
+    {
+      "word": "juicy",
+      "ipa": "/ˈdʒuːsi/",
+      "ua": "соковитий",
+      "ru": "сочный",
+      "example": "a juicy peach",
+      "audio": ""
+    },
+    {
+      "word": "delicious",
+      "ipa": "/dɪˈlɪʃəs/",
+      "ua": "дуже смачний",
+      "ru": "очень вкусный",
+      "example": "It's delicious!",
+      "audio": ""
+    },
+    {
+      "word": "raw",
+      "ipa": "/rɔː/",
+      "ua": "сирий (не готовий)",
+      "ru": "сырой (не приготовленный)",
+      "example": "raw fish",
+      "audio": ""
+    },
+    {
+      "word": "frozen",
+      "ipa": "/ˈfrəʊzn/",
+      "ua": "заморожений",
+      "ru": "замороженный",
+      "example": "frozen vegetables",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u08-l01",
+      "title": {
+        "en": "Ways of cooking",
+        "ua": "Способи готування",
+        "ru": "Способы приготовления"
+      },
+      "recap": {
+        "from": "a2-u07-l02",
+        "note": {
+          "ua": "Згадаймо: a few + злічувані · a little + незлічувані = трохи, кілька",
+          "ru": "Вспомним: a few + исчисляемые · a little + неисчисляемые = немного, несколько"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "a-few-a-little",
+            "question": "Add ___ salt.",
+            "options": [
+              "a little",
+              "a few",
+              "many"
+            ],
+            "answer": "a little",
+            "explain": {
+              "ua": "Salt → a little.",
+              "ru": "Salt → a little."
+            },
+            "id": "a2-u08-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "a-few-a-little",
+            "question": "I have ___ questions.",
+            "options": [
+              "a few",
+              "a little",
+              "much"
+            ],
+            "answer": "a few",
+            "explain": {
+              "ua": "Questions → a few.",
+              "ru": "Questions → a few."
+            },
+            "id": "a2-u08-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "boil",
+              "right": {
+                "ua": "варити",
+                "ru": "варить"
+              }
+            },
+            {
+              "left": "fry",
+              "right": {
+                "ua": "смажити",
+                "ru": "жарить"
+              }
+            },
+            {
+              "left": "bake",
+              "right": {
+                "ua": "пекти",
+                "ru": "печь"
+              }
+            },
+            {
+              "left": "roast",
+              "right": {
+                "ua": "запікати",
+                "ru": "запекать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u08-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You ___ eggs in water.",
+          "options": [
+            "boil",
+            "fry",
+            "bake"
+          ],
+          "answer": "boil",
+          "explain": {
+            "ua": "У воді — boil.",
+            "ru": "В воде — boil."
+          },
+          "id": "a2-u08-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You ___ a cake in the oven.",
+          "options": [
+            "bake",
+            "boil",
+            "fry"
+          ],
+          "answer": "bake",
+          "explain": {
+            "ua": "Торт — bake.",
+            "ru": "Торт — bake."
+          },
+          "id": "a2-u08-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You ___ chips in a pan with oil.",
+          "options": [
+            "fry",
+            "boil",
+            "bake"
+          ],
+          "answer": "fry",
+          "explain": {
+            "ua": "В олії — fry.",
+            "ru": "В масле — fry."
+          },
+          "id": "a2-u08-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "What can you do with eggs?",
+          "options": [
+            "boil, fry",
+            "peel, grate",
+            "pour, bake"
+          ],
+          "answer": "boil, fry",
+          "explain": {
+            "ua": "Яйця варять або смажать.",
+            "ru": "Яйца варят или жарят."
+          },
+          "id": "a2-u08-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You cook meat in the oven, often a big piece or a whole chicken.",
+          "answer": "roast",
+          "accept": [],
+          "explain": {
+            "ua": "Roast — запікати.",
+            "ru": "Roast — запекать."
+          },
+          "id": "a2-u08-l01-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "cake",
+          "answer": "bake",
+          "accept": [
+            "oven"
+          ],
+          "explain": {
+            "ua": "Торт → пекти.",
+            "ru": "Торт → печь."
+          },
+          "id": "a2-u08-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I baked eggs for breakfast.",
+          "answer": "I boiled eggs for breakfast.",
+          "accept": [
+            "I fried eggs for breakfast."
+          ],
+          "explain": {
+            "ua": "Яйця варять (boil), не печуть.",
+            "ru": "Яйца варят (boil), не пекут."
+          },
+          "id": "a2-u08-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Відвари картоплю.",
+            "ru": "Отвари картошку."
+          },
+          "answer": "Boil the potatoes.",
+          "accept": [
+            "Boil the potatoes, please."
+          ],
+          "explain": {
+            "ua": "Boil.",
+            "ru": "Boil."
+          },
+          "id": "a2-u08-l01-e09"
+        }
+      ],
+      "words": [
+        "boil",
+        "fry",
+        "bake",
+        "roast",
+        "pan",
+        "oven"
+      ]
+    },
+    {
+      "id": "a2-u08-l02",
+      "title": {
+        "en": "In the kitchen",
+        "ua": "На кухні",
+        "ru": "На кухне"
+      },
+      "recap": {
+        "from": "a2-u08-l01",
+        "note": {
+          "ua": "Згадаймо: Способи готування",
+          "ru": "Вспомним: Способы приготовления"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You ___ eggs in water.",
+            "options": [
+              "boil",
+              "fry",
+              "bake"
+            ],
+            "answer": "boil",
+            "explain": {
+              "ua": "У воді — boil.",
+              "ru": "В воде — boil."
+            },
+            "id": "a2-u08-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "What can you do with eggs?",
+            "options": [
+              "boil, fry",
+              "peel, grate",
+              "pour, bake"
+            ],
+            "answer": "boil, fry",
+            "explain": {
+              "ua": "Яйця варять або смажать.",
+              "ru": "Яйца варят или жарят."
+            },
+            "id": "a2-u08-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "peel",
+              "right": {
+                "ua": "чистити",
+                "ru": "чистить"
+              }
+            },
+            {
+              "left": "chop",
+              "right": {
+                "ua": "нарізати",
+                "ru": "нарезать"
+              }
+            },
+            {
+              "left": "grate",
+              "right": {
+                "ua": "терти",
+                "ru": "тереть"
+              }
+            },
+            {
+              "left": "pour",
+              "right": {
+                "ua": "наливати",
+                "ru": "наливать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u08-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ the potatoes before you boil them.",
+          "options": [
+            "Peel",
+            "Pour",
+            "Grate"
+          ],
+          "answer": "Peel",
+          "explain": {
+            "ua": "Peel — чистити.",
+            "ru": "Peel — чистить."
+          },
+          "id": "a2-u08-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ the cheese for the pizza.",
+          "options": [
+            "Grate",
+            "Pour",
+            "Boil"
+          ],
+          "answer": "Grate",
+          "explain": {
+            "ua": "Сир — натерти.",
+            "ru": "Сыр — натереть."
+          },
+          "id": "a2-u08-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ the milk into a glass.",
+          "options": [
+            "Pour",
+            "Chop",
+            "Peel"
+          ],
+          "answer": "Pour",
+          "explain": {
+            "ua": "Рідина — pour.",
+            "ru": "Жидкость — pour."
+          },
+          "id": "a2-u08-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ the eggs and sugar together.",
+          "options": [
+            "Mix",
+            "Peel",
+            "Grate"
+          ],
+          "answer": "Mix",
+          "explain": {
+            "ua": "Mix — змішати.",
+            "ru": "Mix — смешать."
+          },
+          "id": "a2-u08-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "peel",
+            "chop",
+            "add",
+            "mix"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ the onion.",
+            "___ it into small pieces.",
+            "___ some salt.",
+            "___ everything."
+          ],
+          "answers": [
+            "peel",
+            "chop",
+            "add",
+            "mix"
+          ],
+          "explain": {
+            "ua": "Порядок рецепта.",
+            "ru": "Порядок рецепта."
+          },
+          "id": "a2-u08-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Poor the water into the pan.",
+          "answer": "Pour the water into the pan.",
+          "accept": [],
+          "explain": {
+            "ua": "Наливати — pour (poor — бідний!).",
+            "ru": "Наливать — pour (poor — бедный!)."
+          },
+          "id": "a2-u08-l02-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈʌvn/",
+          "options": [
+            "oven",
+            "open",
+            "over"
+          ],
+          "answer": "oven",
+          "explain": {
+            "ua": "o тут — /ʌ/, «а».",
+            "ru": "o здесь — /ʌ/, «а»."
+          },
+          "id": "a2-u08-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Додай трохи солі.",
+            "ru": "Добавь немного соли."
+          },
+          "answer": "Add some salt.",
+          "accept": [
+            "Add a little salt."
+          ],
+          "explain": {
+            "ua": "Add a little / some salt.",
+            "ru": "Add a little / some salt."
+          },
+          "id": "a2-u08-l02-e09"
+        }
+      ],
+      "words": [
+        "peel",
+        "cut",
+        "chop",
+        "mix",
+        "pour",
+        "add",
+        "grate"
+      ]
+    },
+    {
+      "id": "a2-u08-l03",
+      "title": {
+        "en": "How does it taste?",
+        "ua": "Який смак?",
+        "ru": "Какой вкус?"
+      },
+      "recap": {
+        "from": "a2-u08-l02",
+        "note": {
+          "ua": "Згадаймо: На кухні",
+          "ru": "Вспомним: На кухне"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "___ the potatoes before you boil them.",
+            "options": [
+              "Peel",
+              "Pour",
+              "Grate"
+            ],
+            "answer": "Peel",
+            "explain": {
+              "ua": "Peel — чистити.",
+              "ru": "Peel — чистить."
+            },
+            "id": "a2-u08-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "___ the eggs and sugar together.",
+            "options": [
+              "Mix",
+              "Peel",
+              "Grate"
+            ],
+            "answer": "Mix",
+            "explain": {
+              "ua": "Mix — змішати.",
+              "ru": "Mix — смешать."
+            },
+            "id": "a2-u08-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "fresh",
+              "right": {
+                "ua": "свіжий",
+                "ru": "свежий"
+              }
+            },
+            {
+              "left": "spicy",
+              "right": {
+                "ua": "гострий",
+                "ru": "острый"
+              }
+            },
+            {
+              "left": "juicy",
+              "right": {
+                "ua": "соковитий",
+                "ru": "сочный"
+              }
+            },
+            {
+              "left": "raw",
+              "right": {
+                "ua": "сирий",
+                "ru": "сырой"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u08-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "This soup has too much salt. It's too ___.",
+          "options": [
+            "salty",
+            "sweet",
+            "fresh"
+          ],
+          "answer": "salty",
+          "explain": {
+            "ua": "Salty — солоний.",
+            "ru": "Salty — солёный."
+          },
+          "id": "a2-u08-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Chilli pepper is very ___.",
+          "options": [
+            "spicy",
+            "juicy",
+            "frozen"
+          ],
+          "answer": "spicy",
+          "explain": {
+            "ua": "Spicy — гострий.",
+            "ru": "Spicy — острый."
+          },
+          "id": "a2-u08-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which food can be juicy?",
+          "options": [
+            "a peach",
+            "bread",
+            "rice"
+          ],
+          "answer": "a peach",
+          "explain": {
+            "ua": "Juicy — фрукти, м'ясо.",
+            "ru": "Juicy — фрукты, мясо."
+          },
+          "id": "a2-u08-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Sushi is made with ___ fish.",
+          "options": [
+            "raw",
+            "frozen",
+            "fried"
+          ],
+          "answer": "raw",
+          "explain": {
+            "ua": "Raw — не приготований.",
+            "ru": "Raw — не приготовленный."
+          },
+          "id": "a2-u08-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Mmm, this cake is ___!",
+          "options": [
+            "delicious",
+            "raw",
+            "frozen"
+          ],
+          "answer": "delicious",
+          "explain": {
+            "ua": "Delicious — дуже смачний.",
+            "ru": "Delicious — очень вкусный."
+          },
+          "id": "a2-u08-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Not old. Made or picked today.",
+          "answer": "fresh",
+          "accept": [],
+          "explain": {
+            "ua": "Fresh — свіжий.",
+            "ru": "Fresh — свежий."
+          },
+          "id": "a2-u08-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "This pizza is very delicious.",
+          "answer": "This pizza is delicious.",
+          "accept": [
+            "This pizza is really delicious."
+          ],
+          "explain": {
+            "ua": "Delicious вже означає «дуже смачний» — без very.",
+            "ru": "Delicious уже значит «очень вкусный» — без very."
+          },
+          "id": "a2-u08-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Цей суп занадто гострий.",
+            "ru": "Этот суп слишком острый."
+          },
+          "answer": "This soup is too spicy.",
+          "accept": [
+            "The soup is too spicy."
+          ],
+          "explain": {
+            "ua": "Too spicy.",
+            "ru": "Too spicy."
+          },
+          "id": "a2-u08-l03-e09"
+        }
+      ],
+      "words": [
+        "fresh",
+        "spicy",
+        "salty",
+        "juicy",
+        "delicious",
+        "raw",
+        "frozen"
+      ]
+    },
+    {
+      "id": "a2-u08-l04",
+      "title": {
+        "en": "In context: pancakes",
+        "ua": "У контексті: млинці",
+        "ru": "В контексте: блины"
+      },
+      "recap": {
+        "from": "a2-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Який смак?",
+          "ru": "Вспомним: Какой вкус?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This soup has too much salt. It's too ___.",
+            "options": [
+              "salty",
+              "sweet",
+              "fresh"
+            ],
+            "answer": "salty",
+            "explain": {
+              "ua": "Salty — солоний.",
+              "ru": "Salty — солёный."
+            },
+            "id": "a2-u08-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Mmm, this cake is ___!",
+            "options": [
+              "delicious",
+              "raw",
+              "frozen"
+            ],
+            "answer": "delicious",
+            "explain": {
+              "ua": "Delicious — дуже смачний.",
+              "ru": "Delicious — очень вкусный."
+            },
+            "id": "a2-u08-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "How many eggs do you need?",
+              "options": [
+                "three",
+                "two",
+                "five"
+              ],
+              "answer": "three"
+            },
+            {
+              "type": "truefalse",
+              "statement": "You cook the pancakes in the oven.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "You add the butter at the end.",
+              "answer": true
+            }
+          ],
+          "text": "Today I'm making pancakes. You need 3 eggs, 500 ml of milk, 200 g of flour, 30 g of butter, a little sugar and salt. First, mix the eggs, sugar and salt in a bowl. Then pour in half of the milk and add the flour. Mix well. At the end, add the rest of the milk and the melted butter. Heat a pan, pour in a little batter and cook each pancake until it's golden on both sides.",
+          "explain": {
+            "ua": "3 eggs, pan not oven, butter at the end.",
+            "ru": "3 eggs, pan not oven, butter at the end."
+          },
+          "id": "a2-u08-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "mix",
+            "pour",
+            "add",
+            "heat",
+            "cook"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ the eggs and sugar.",
+            "___ in half of the milk.",
+            "___ the flour.",
+            "___ a pan.",
+            "___ each pancake until it's golden."
+          ],
+          "answers": [
+            "mix",
+            "pour",
+            "add",
+            "heat",
+            "cook"
+          ],
+          "explain": {
+            "ua": "Порядок рецепта.",
+            "ru": "Порядок рецепта."
+          },
+          "id": "a2-u08-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The liquid mix for pancakes is called ___.",
+          "options": [
+            "batter",
+            "dough",
+            "butter"
+          ],
+          "answer": "batter",
+          "explain": {
+            "ua": "Рідке тісто — batter. Тверде — dough.",
+            "ru": "Жидкое тесто — batter. Твёрдое — dough."
+          },
+          "id": "a2-u08-l04-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "First,",
+              "right": {
+                "ua": "Спочатку",
+                "ru": "Сначала"
+              }
+            },
+            {
+              "left": "Then",
+              "right": {
+                "ua": "Потім",
+                "ru": "Потом"
+              }
+            },
+            {
+              "left": "At the end,",
+              "right": {
+                "ua": "Наприкінці",
+                "ru": "В конце"
+              }
+            },
+            {
+              "left": "until it's golden",
+              "right": {
+                "ua": "до золотистого кольору",
+                "ru": "до золотистого цвета"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Слова для рецепта.",
+            "ru": "Слова для рецепта."
+          },
+          "id": "a2-u08-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Bake the pancakes in a pan.",
+          "answer": "Cook the pancakes in a pan.",
+          "accept": [
+            "Fry the pancakes in a pan."
+          ],
+          "explain": {
+            "ua": "На пательні — cook / fry, не bake.",
+            "ru": "На сковороде — cook / fry, не bake."
+          },
+          "id": "a2-u08-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Put the flour in the batter until edges don't be dark.",
+          "answer": "Cook until the edges are golden.",
+          "accept": [
+            "Cook until it's golden.",
+            "Cook until the edges turn golden."
+          ],
+          "explain": {
+            "ua": "Until + звичайне речення.",
+            "ru": "Until + обычное предложение."
+          },
+          "id": "a2-u08-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Heat a pan and pour in a little batter.",
+          "options": [
+            "Heat a pan and pour in a little batter.",
+            "Eat a pan and pour in a little butter.",
+            "Heat a pan and pour in a lot of batter."
+          ],
+          "answer": "Heat a pan and pour in a little batter.",
+          "audio": "",
+          "explain": {
+            "ua": "Heat — гріти, batter — рідке тісто.",
+            "ru": "Heat — греть, batter — жидкое тесто."
+          },
+          "id": "a2-u08-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Спочатку змішай яйця з цукром.",
+            "ru": "Сначала смешай яйца с сахаром."
+          },
+          "answer": "First, mix the eggs and sugar.",
+          "accept": [
+            "First, mix the eggs with the sugar.",
+            "First mix the eggs and sugar."
+          ],
+          "explain": {
+            "ua": "First, mix…",
+            "ru": "First, mix…"
+          },
+          "id": "a2-u08-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u08-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u08-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: млинці",
+          "ru": "Вспомним: В контексте: блины"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The liquid mix for pancakes is called ___.",
+            "options": [
+              "batter",
+              "dough",
+              "butter"
+            ],
+            "answer": "batter",
+            "explain": {
+              "ua": "Рідке тісто — batter. Тверде — dough.",
+              "ru": "Жидкое тесто — batter. Твёрдое — dough."
+            },
+            "id": "a2-u08-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Put the flour in the batter until edges don't be dark.",
+            "answer": "Cook until the edges are golden.",
+            "accept": [
+              "Cook until it's golden.",
+              "Cook until the edges turn golden."
+            ],
+            "explain": {
+              "ua": "Until + звичайне речення.",
+              "ru": "Until + обычное предложение."
+            },
+            "id": "a2-u08-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "oven",
+              "right": {
+                "ua": "духовка",
+                "ru": "духовка"
+              }
+            },
+            {
+              "left": "pan",
+              "right": {
+                "ua": "пательня",
+                "ru": "сковорода"
+              }
+            },
+            {
+              "left": "salty",
+              "right": {
+                "ua": "солоний",
+                "ru": "солёный"
+              }
+            },
+            {
+              "left": "frozen",
+              "right": {
+                "ua": "заморожений",
+                "ru": "замороженный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u08-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "What can you do with apples?",
+          "options": [
+            "peel, cut, bake",
+            "boil, pour, grate",
+            "fry, pour, boil"
+          ],
+          "answer": "peel, cut, bake",
+          "explain": {
+            "ua": "Яблука чистять, ріжуть, печуть.",
+            "ru": "Яблоки чистят, режут, пекут."
+          },
+          "id": "a2-u08-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "What can you do with cheese?",
+          "options": [
+            "grate, cut",
+            "peel, pour",
+            "boil, pour"
+          ],
+          "answer": "grate, cut",
+          "explain": {
+            "ua": "Сир — терти, різати.",
+            "ru": "Сыр — тереть, резать."
+          },
+          "id": "a2-u08-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which food can be frozen?",
+          "options": [
+            "vegetables",
+            "salt",
+            "sugar"
+          ],
+          "answer": "vegetables",
+          "explain": {
+            "ua": "Заморожені овочі.",
+            "ru": "Замороженные овощи."
+          },
+          "id": "a2-u08-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A hot box in the kitchen for baking and roasting.",
+          "answer": "oven",
+          "accept": [
+            "an oven"
+          ],
+          "explain": {
+            "ua": "Oven — духовка.",
+            "ru": "Oven — духовка."
+          },
+          "id": "a2-u08-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "chilli",
+          "answer": "spicy",
+          "accept": [
+            "hot"
+          ],
+          "explain": {
+            "ua": "Чилі → гострий.",
+            "ru": "Чили → острый."
+          },
+          "id": "a2-u08-l05-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "sushi",
+          "answer": "raw",
+          "accept": [
+            "fish",
+            "rice"
+          ],
+          "explain": {
+            "ua": "Суші → сира риба.",
+            "ru": "Суши → сырая рыба."
+          },
+          "id": "a2-u08-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Peel the milk.",
+          "answer": "Pour the milk.",
+          "accept": [],
+          "explain": {
+            "ua": "Молоко наливають — pour.",
+            "ru": "Молоко наливают — pour."
+          },
+          "id": "a2-u08-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The peaches are so juicy!",
+          "options": [
+            "The peaches are so juicy!",
+            "The peaches are so juicer!",
+            "The pieces are so juicy!"
+          ],
+          "answer": "The peaches are so juicy!",
+          "audio": "",
+          "explain": {
+            "ua": "Juicy — «джусі».",
+            "ru": "Juicy — «джуси»."
+          },
+          "id": "a2-u08-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Запечи курку в духовці.",
+            "ru": "Запеки курицу в духовке."
+          },
+          "answer": "Roast the chicken in the oven.",
+          "accept": [
+            "Bake the chicken in the oven."
+          ],
+          "explain": {
+            "ua": "Roast.",
+            "ru": "Roast."
+          },
+          "id": "a2-u08-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "You ___ water.",
+      "options": [
+        "boil",
+        "bake",
+        "peel"
+      ],
+      "answer": "boil",
+      "explain": {
+        "ua": "Boil water.",
+        "ru": "Boil water."
+      },
+      "id": "a2-u08-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "You ___ bread in the oven.",
+      "options": [
+        "bake",
+        "fry",
+        "pour"
+      ],
+      "answer": "bake",
+      "explain": {
+        "ua": "Bake.",
+        "ru": "Bake."
+      },
+      "id": "a2-u08-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "This food is too ___. I need water!",
+      "options": [
+        "spicy",
+        "fresh",
+        "juicy"
+      ],
+      "answer": "spicy",
+      "explain": {
+        "ua": "Spicy.",
+        "ru": "Spicy."
+      },
+      "id": "a2-u08-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "To take the skin off a potato.",
+      "answer": "peel",
+      "accept": [],
+      "explain": {
+        "ua": "Peel.",
+        "ru": "Peel."
+      },
+      "id": "a2-u08-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "To put liquid into a glass.",
+      "answer": "pour",
+      "accept": [],
+      "explain": {
+        "ua": "Pour.",
+        "ru": "Pour."
+      },
+      "id": "a2-u08-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "___ the cheese for the pasta.",
+      "answer": "Grate",
+      "accept": [],
+      "explain": {
+        "ua": "Grate — терти.",
+        "ru": "Grate — тереть."
+      },
+      "id": "a2-u08-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "chop",
+          "right": {
+            "ua": "нарізати",
+            "ru": "нарезать"
+          }
+        },
+        {
+          "left": "mix",
+          "right": {
+            "ua": "змішувати",
+            "ru": "смешивать"
+          }
+        },
+        {
+          "left": "raw",
+          "right": {
+            "ua": "сирий",
+            "ru": "сырой"
+          }
+        },
+        {
+          "left": "delicious",
+          "right": {
+            "ua": "дуже смачний",
+            "ru": "очень вкусный"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u08-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Boil the cake in the oven.",
+      "answer": "Bake the cake in the oven.",
+      "accept": [],
+      "explain": {
+        "ua": "Торт — bake.",
+        "ru": "Торт — bake."
+      },
+      "id": "a2-u08-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "It's very delicious.",
+      "answer": "It's delicious.",
+      "accept": [
+        "It's really delicious."
+      ],
+      "explain": {
+        "ua": "Без very.",
+        "ru": "Без very."
+      },
+      "id": "a2-u08-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "little",
+        "a",
+        "Add",
+        "mix",
+        "and",
+        "salt"
+      ],
+      "answer": "Add a little salt and mix",
+      "explain": {
+        "ua": "Add → a little salt → and mix.",
+        "ru": "Add → a little salt → and mix."
+      },
+      "id": "a2-u08-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Цей хліб свіжий?",
+        "ru": "Этот хлеб свежий?"
+      },
+      "answer": "Is this bread fresh?",
+      "accept": [],
+      "explain": {
+        "ua": "Is … fresh?",
+        "ru": "Is … fresh?"
+      },
+      "id": "a2-u08-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Fry the onion in a pan.",
+      "options": [
+        "Fry the onion in a pan.",
+        "Fry the onion in a pen.",
+        "Free the onion in a pan."
+      ],
+      "answer": "Fry the onion in a pan.",
+      "audio": "",
+      "explain": {
+        "ua": "Fry.",
+        "ru": "Fry."
+      },
+      "id": "a2-u08-cp12"
+    }
+  ]
+}

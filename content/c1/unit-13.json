@@ -1,0 +1,1024 @@
+{
+  "id": "c1-u13",
+  "level": "C1",
+  "order": 13,
+  "kind": "grammar",
+  "title": {
+    "en": "Idioms",
+    "ua": "Ідіоми",
+    "ru": "Идиомы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "ідіома = значення не дорівнює сумі слів: cost an arm and a leg = дуже дорого",
+      "ru": "идиома = значение не равно сумме слов: cost an arm and a leg = очень дорого"
+    },
+    "explain": {
+      "ua": "Ідіоми не перекладають дослівно. Вчимо їх фразою, з прикладом, і вживаємо в розмовній мові. В офіційних листах ідіом краще уникати.",
+      "ru": "Идиомы не переводят дословно. Учим их фразой, с примером, и используем в разговорной речи. В официальных письмах идиом лучше избегать."
+    },
+    "examples": [
+      {
+        "en": "This bag cost an arm and a leg.",
+        "ua": "Ця сумка коштувала шалених грошей.",
+        "ru": "Эта сумка стоила бешеных денег."
+      },
+      {
+        "en": "I was over the moon when I got the job.",
+        "ua": "Я була на сьомому небі, коли отримала роботу.",
+        "ru": "Я была на седьмом небе, когда получила работу."
+      },
+      {
+        "en": "Let's call it a day.",
+        "ua": "На сьогодні досить.",
+        "ru": "На сегодня хватит."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ˌɑːm ənd ə ˈleɡ/",
+      "ua": "коштувати шалених грошей",
+      "ru": "стоить бешеных денег",
+      "example": "That car cost an arm and a leg.",
+      "audio": ""
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk ˌendz ˈmiːt/",
+      "ua": "зводити кінці з кінцями",
+      "ru": "сводить концы с концами",
+      "example": "It's hard to make ends meet.",
+      "audio": ""
+    },
+    {
+      "word": "back to square one",
+      "ipa": "/ˌbæk tə ˌskweə ˈwʌn/",
+      "ua": "назад до початку",
+      "ru": "назад к началу",
+      "example": "The plan failed — back to square one.",
+      "audio": ""
+    },
+    {
+      "word": "cut corners",
+      "ipa": "/kʌt ˈkɔːnəz/",
+      "ua": "халтурити, економити на якості",
+      "ru": "халтурить, экономить на качестве",
+      "example": "Don't cut corners on safety.",
+      "audio": ""
+    },
+    {
+      "word": "get the ball rolling",
+      "ipa": "/ɡet ðə ˈbɔːl ˌrəʊlɪŋ/",
+      "ua": "почати справу",
+      "ru": "начать дело",
+      "example": "Let's get the ball rolling.",
+      "audio": ""
+    },
+    {
+      "word": "call it a day",
+      "ipa": "/ˌkɔːl ɪt ə ˈdeɪ/",
+      "ua": "на сьогодні досить",
+      "ru": "на сегодня хватит",
+      "example": "We're tired — let's call it a day.",
+      "audio": ""
+    },
+    {
+      "word": "in the red",
+      "ipa": "/ɪn ðə ˈred/",
+      "ua": "у мінусі, у боргах",
+      "ru": "в минусе, в долгах",
+      "example": "The company is in the red.",
+      "audio": ""
+    },
+    {
+      "word": "over the moon",
+      "ipa": "/ˌəʊvə ðə ˈmuːn/",
+      "ua": "на сьомому небі",
+      "ru": "на седьмом небе",
+      "example": "She was over the moon.",
+      "audio": ""
+    },
+    {
+      "word": "down in the dumps",
+      "ipa": "/ˌdaʊn ɪn ðə ˈdʌmps/",
+      "ua": "у депресивному настрої",
+      "ru": "в подавленном настроении",
+      "example": "He's been down in the dumps lately.",
+      "audio": ""
+    },
+    {
+      "word": "a bundle of nerves",
+      "ipa": "/ə ˌbʌndl əv ˈnɜːvz/",
+      "ua": "клубок нервів",
+      "ru": "комок нервов",
+      "example": "I was a bundle of nerves before the interview.",
+      "audio": ""
+    },
+    {
+      "word": "get cold feet",
+      "ipa": "/ɡet ˌkəʊld ˈfiːt/",
+      "ua": "злякатися в останній момент",
+      "ru": "струсить в последний момент",
+      "example": "He got cold feet before the wedding.",
+      "audio": ""
+    },
+    {
+      "word": "let off steam",
+      "ipa": "/let ˌɒf ˈstiːm/",
+      "ua": "випустити пару",
+      "ru": "выпустить пар",
+      "example": "I go running to let off steam.",
+      "audio": ""
+    },
+    {
+      "word": "sick and tired of",
+      "ipa": "/ˌsɪk ən ˈtaɪəd əv/",
+      "ua": "до смерті набридло",
+      "ru": "до смерти надоело",
+      "example": "I'm sick and tired of waiting.",
+      "audio": ""
+    },
+    {
+      "word": "butterflies in my stomach",
+      "ipa": "/ˈbʌtəflaɪz/",
+      "ua": "метелики в животі (хвилювання)",
+      "ru": "бабочки в животе (волнение)",
+      "example": "I had butterflies in my stomach.",
+      "audio": ""
+    },
+    {
+      "word": "at the end of my tether",
+      "ipa": "/ˈteðə/",
+      "ua": "на межі терпіння",
+      "ru": "на пределе терпения",
+      "example": "I'm at the end of my tether with this.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u13-l01",
+      "title": {
+        "en": "Work and money",
+        "ua": "Робота й гроші",
+        "ru": "Работа и деньги"
+      },
+      "recap": {
+        "from": "c1-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Переговори",
+          "ru": "Вспомним: Переговоры"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "After three hours we finally reached a ___ .",
+            "options": [
+              "compromise",
+              "deadline",
+              "pitch"
+            ],
+            "answer": "compromise",
+            "explain": {
+              "ua": "Reach a compromise.",
+              "ru": "Reach a compromise."
+            },
+            "id": "c1-u13-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The delivery date is ___ . We can't change it.",
+            "options": [
+              "non-negotiable",
+              "quarterly",
+              "win-win"
+            ],
+            "answer": "non-negotiable",
+            "explain": {
+              "ua": "Non-negotiable.",
+              "ru": "Non-negotiable."
+            },
+            "id": "c1-u13-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "cost an arm and a leg · make ends meet · in the red · cut corners · get the ball rolling · back to square one · call it a day",
+        "explain": {
+          "ua": "Ідіоми часто мають фіксовану форму: не «cost a leg and an arm», а саме cost an arm and a leg. Змінювати можна лише час дієслова: It cost / It'll cost an arm and a leg.",
+          "ru": "Идиомы часто имеют фиксированную форму: не «cost a leg and an arm», а именно cost an arm and a leg. Менять можно только время глагола: It cost / It'll cost an arm and a leg."
+        },
+        "examples": [
+          {
+            "en": "Many families struggle to make ends meet.",
+            "ua": "Багатьом сім'ям важко зводити кінці з кінцями.",
+            "ru": "Многим семьям трудно сводить концы с концами."
+          },
+          {
+            "en": "The client rejected our idea, so we're back to square one.",
+            "ua": "Клієнт відхилив ідею, тож починаємо спочатку.",
+            "ru": "Клиент отклонил идею, так что начинаем сначала."
+          },
+          {
+            "en": "They cut corners, and the building is falling apart.",
+            "ua": "Вони схалтурили, і будівля розвалюється.",
+            "ru": "Они схалтурили, и здание разваливается."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "A flat in the centre costs ___ .",
+          "options": [
+            "an arm and a leg",
+            "a leg and an arm",
+            "an arm and a foot"
+          ],
+          "answer": "an arm and a leg",
+          "explain": {
+            "ua": "Фіксована форма.",
+            "ru": "Фиксированная форма."
+          },
+          "id": "c1-u13-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "With two jobs, she can just about make ends ___ .",
+          "options": [
+            "meet",
+            "meat",
+            "meeting"
+          ],
+          "answer": "meet",
+          "explain": {
+            "ua": "Make ends meet.",
+            "ru": "Make ends meet."
+          },
+          "id": "c1-u13-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "The project failed. We're back to square ___ .",
+          "options": [
+            "one",
+            "first",
+            "zero"
+          ],
+          "answer": "one",
+          "explain": {
+            "ua": "Back to square one.",
+            "ru": "Back to square one."
+          },
+          "id": "c1-u13-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "It's 8 pm. Let's call it a ___ .",
+          "options": [
+            "day",
+            "night",
+            "time"
+          ],
+          "answer": "day",
+          "explain": {
+            "ua": "Call it a day.",
+            "ru": "Call it a day."
+          },
+          "id": "c1-u13-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "The company has been in the ___ for two years.",
+          "options": [
+            "red",
+            "black",
+            "minus"
+          ],
+          "answer": "red",
+          "explain": {
+            "ua": "In the red = у мінусі.",
+            "ru": "In the red = в минусе."
+          },
+          "id": "c1-u13-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-work",
+          "question": "Don't cut ___ — do it properly.",
+          "options": [
+            "corners",
+            "edges",
+            "costs"
+          ],
+          "answer": "corners",
+          "explain": {
+            "ua": "Cut corners.",
+            "ru": "Cut corners."
+          },
+          "id": "c1-u13-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "idioms-work",
+          "pairs": [
+            {
+              "left": "cost an arm and a leg",
+              "right": {
+                "ua": "дуже дорого",
+                "ru": "очень дорого"
+              }
+            },
+            {
+              "left": "make ends meet",
+              "right": {
+                "ua": "ледве вистачає грошей",
+                "ru": "еле хватает денег"
+              }
+            },
+            {
+              "left": "get the ball rolling",
+              "right": {
+                "ua": "почати",
+                "ru": "начать"
+              }
+            },
+            {
+              "left": "call it a day",
+              "right": {
+                "ua": "закінчити на сьогодні",
+                "ru": "закончить на сегодня"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "c1-u13-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "idioms-work",
+          "sentence": "Let's get the ball running.",
+          "answer": "Let's get the ball rolling.",
+          "accept": [],
+          "explain": {
+            "ua": "Rolling.",
+            "ru": "Rolling."
+          },
+          "id": "c1-u13-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "idioms-work",
+          "prompt": {
+            "ua": "Цей ремонт коштував шалених грошей.",
+            "ru": "Этот ремонт стоил бешеных денег."
+          },
+          "answer": "This renovation cost an arm and a leg.",
+          "accept": [
+            "The renovation cost an arm and a leg.",
+            "This repair cost an arm and a leg."
+          ],
+          "explain": {
+            "ua": "Cost an arm and a leg.",
+            "ru": "Cost an arm and a leg."
+          },
+          "id": "c1-u13-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u13-l02",
+      "title": {
+        "en": "Feelings",
+        "ua": "Почуття",
+        "ru": "Чувства"
+      },
+      "recap": {
+        "from": "c1-u13-l01",
+        "note": {
+          "ua": "Згадаймо: cost an arm and a leg · make ends meet · in the red · cut corners · get the ball rolling · back to square one · call it a day",
+          "ru": "Вспомним: cost an arm and a leg · make ends meet · in the red · cut corners · get the ball rolling · back to square one · call it a day"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "idioms-work",
+            "question": "A flat in the centre costs ___ .",
+            "options": [
+              "an arm and a leg",
+              "a leg and an arm",
+              "an arm and a foot"
+            ],
+            "answer": "an arm and a leg",
+            "explain": {
+              "ua": "Фіксована форма.",
+              "ru": "Фиксированная форма."
+            },
+            "id": "c1-u13-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "idioms-work",
+            "question": "The company has been in the ___ for two years.",
+            "options": [
+              "red",
+              "black",
+              "minus"
+            ],
+            "answer": "red",
+            "explain": {
+              "ua": "In the red = у мінусі.",
+              "ru": "In the red = в минусе."
+            },
+            "id": "c1-u13-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "over the moon / on cloud nine (щастя) · down in the dumps (сум) · a bundle of nerves / butterflies (хвилювання) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether",
+          "ru": "over the moon / on cloud nine (счастье) · down in the dumps (грусть) · a bundle of nerves / butterflies (волнение) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether"
+        },
+        "explain": {
+          "ua": "Ідіоми про почуття дуже живі в розмові: — How are you? — Over the moon! I passed my exam. Sick and tired of + -ing / іменник: I'm sick and tired of cleaning.",
+          "ru": "Идиомы о чувствах очень живые в разговоре: — How are you? — Over the moon! I passed my exam. Sick and tired of + -ing / существительное: I'm sick and tired of cleaning."
+        },
+        "examples": [
+          {
+            "en": "She's been down in the dumps since she lost her job.",
+            "ua": "Вона в пригніченому настрої відтоді, як втратила роботу.",
+            "ru": "Она в подавленном настроении с тех пор, как потеряла работу."
+          },
+          {
+            "en": "I had butterflies in my stomach before the concert.",
+            "ua": "Перед концертом у мене всередині все тремтіло.",
+            "ru": "Перед концертом у меня всё внутри дрожало."
+          },
+          {
+            "en": "I'm sick and tired of your excuses!",
+            "ua": "Мені набридли твої відмовки!",
+            "ru": "Мне надоели твои отговорки!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "I got the job! I'm over the ___ !",
+          "options": [
+            "moon",
+            "sun",
+            "sky"
+          ],
+          "answer": "moon",
+          "explain": {
+            "ua": "Over the moon.",
+            "ru": "Over the moon."
+          },
+          "id": "c1-u13-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "He's been down in the ___ all week.",
+          "options": [
+            "dumps",
+            "dust",
+            "dark"
+          ],
+          "answer": "dumps",
+          "explain": {
+            "ua": "Down in the dumps.",
+            "ru": "Down in the dumps."
+          },
+          "id": "c1-u13-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "Before my driving test I was a ___ of nerves.",
+          "options": [
+            "bundle",
+            "bag",
+            "box"
+          ],
+          "answer": "bundle",
+          "explain": {
+            "ua": "A bundle of nerves.",
+            "ru": "A bundle of nerves."
+          },
+          "id": "c1-u13-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "She was going to jump, but she got cold ___ .",
+          "options": [
+            "feet",
+            "hands",
+            "legs"
+          ],
+          "answer": "feet",
+          "explain": {
+            "ua": "Get cold feet.",
+            "ru": "Get cold feet."
+          },
+          "id": "c1-u13-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "I go to the gym to let off ___ .",
+          "options": [
+            "steam",
+            "smoke",
+            "air"
+          ],
+          "answer": "steam",
+          "explain": {
+            "ua": "Let off steam.",
+            "ru": "Let off steam."
+          },
+          "id": "c1-u13-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms-feelings",
+          "question": "I'm sick and tired ___ this noise!",
+          "options": [
+            "of",
+            "from",
+            "with"
+          ],
+          "answer": "of",
+          "explain": {
+            "ua": "Sick and tired of.",
+            "ru": "Sick and tired of."
+          },
+          "id": "c1-u13-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "idioms-feelings",
+          "bank": [
+            "over the moon",
+            "cold feet",
+            "butterflies",
+            "end of my tether"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We won! I'm ___!",
+            "He got ___ and didn't propose.",
+            "I always get ___ before a speech.",
+            "Three weeks without sleep — I'm at the ___."
+          ],
+          "answers": [
+            "over the moon",
+            "cold feet",
+            "butterflies",
+            "end of my tether"
+          ],
+          "explain": {
+            "ua": "Почуття.",
+            "ru": "Чувства."
+          },
+          "id": "c1-u13-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "idioms-feelings",
+          "sentence": "I'm sick and tired from waiting.",
+          "answer": "I'm sick and tired of waiting.",
+          "accept": [],
+          "explain": {
+            "ua": "Sick and tired OF.",
+            "ru": "Sick and tired OF."
+          },
+          "id": "c1-u13-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "idioms-feelings",
+          "prompt": {
+            "ua": "Я була на сьомому небі.",
+            "ru": "Я была на седьмом небе."
+          },
+          "answer": "I was over the moon.",
+          "accept": [
+            "I was on cloud nine.",
+            "I was in seventh heaven."
+          ],
+          "explain": {
+            "ua": "Over the moon.",
+            "ru": "Over the moon."
+          },
+          "id": "c1-u13-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u13-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u13-l02",
+        "note": {
+          "ua": "Згадаймо: over the moon / on cloud nine (щастя) · down in the dumps (сум) · a bundle of nerves / butterflies (хвилювання) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether",
+          "ru": "Вспомним: over the moon / on cloud nine (счастье) · down in the dumps (грусть) · a bundle of nerves / butterflies (волнение) · get cold feet (страх) · let off steam · sick and tired of · at the end of my tether"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "idioms-feelings",
+            "question": "I got the job! I'm over the ___ !",
+            "options": [
+              "moon",
+              "sun",
+              "sky"
+            ],
+            "answer": "moon",
+            "explain": {
+              "ua": "Over the moon.",
+              "ru": "Over the moon."
+            },
+            "id": "c1-u13-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "idioms-feelings",
+            "question": "I go to the gym to let off ___ .",
+            "options": [
+              "steam",
+              "smoke",
+              "air"
+            ],
+            "answer": "steam",
+            "explain": {
+              "ua": "Let off steam.",
+              "ru": "Let off steam."
+            },
+            "id": "c1-u13-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Sasha's first business was successful.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Before the meeting with investors she was very nervous.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "How does she feel now?",
+              "options": [
+                "over the moon",
+                "down in the dumps",
+                "sick and tired"
+              ],
+              "answer": "over the moon"
+            }
+          ],
+          "text": "Sasha's first café was a disaster. Rent cost an arm and a leg, and after a year the business was in the red. She was down in the dumps for months. Then she decided to get the ball rolling again with a new idea — a coffee truck. Before meeting investors, she was a bundle of nerves and almost got cold feet. But the pitch went perfectly. Now she's over the moon: the truck is a success and she never cuts corners on quality.",
+          "explain": {
+            "ua": "First café in the red; back to square one; nearly got cold feet; bundle of nerves; got investment; over the moon.",
+            "ru": "First café in the red; back to square one; nearly got cold feet; bundle of nerves; got investment; over the moon."
+          },
+          "id": "c1-u13-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "idioms",
+          "bank": [
+            "an arm and a leg",
+            "in the red",
+            "cold feet",
+            "over the moon",
+            "cuts corners"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Rent cost ___.",
+            "The business was ___.",
+            "She almost got ___.",
+            "Now she's ___.",
+            "She never ___ on quality."
+          ],
+          "answers": [
+            "an arm and a leg",
+            "in the red",
+            "cold feet",
+            "over the moon",
+            "cuts corners"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u13-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms",
+          "question": "Which idiom means 'start'?",
+          "options": [
+            "get the ball rolling",
+            "call it a day",
+            "let off steam"
+          ],
+          "answer": "get the ball rolling",
+          "explain": {
+            "ua": "Get the ball rolling.",
+            "ru": "Get the ball rolling."
+          },
+          "id": "c1-u13-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "idioms",
+          "question": "Which idiom means 'very nervous'?",
+          "options": [
+            "a bundle of nerves",
+            "over the moon",
+            "in the red"
+          ],
+          "answer": "a bundle of nerves",
+          "explain": {
+            "ua": "A bundle of nerves.",
+            "ru": "A bundle of nerves."
+          },
+          "id": "c1-u13-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "idioms",
+          "sentence": "Let's call it the day.",
+          "answer": "Let's call it a day.",
+          "accept": [],
+          "explain": {
+            "ua": "A day.",
+            "ru": "A day."
+          },
+          "id": "c1-u13-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "idioms",
+          "sentence": "I'm at the end of my teeth.",
+          "answer": "I'm at the end of my tether.",
+          "accept": [
+            "I'm at the end of my rope."
+          ],
+          "explain": {
+            "ua": "At the end of my tether.",
+            "ru": "At the end of my tether."
+          },
+          "id": "c1-u13-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "idioms",
+          "audio_text": "We're back to square one.",
+          "options": [
+            "We're back to square one.",
+            "We're back to square won.",
+            "We're back in square one."
+          ],
+          "answer": "We're back to square one.",
+          "audio": "",
+          "explain": {
+            "ua": "Back to square one.",
+            "ru": "Back to square one."
+          },
+          "id": "c1-u13-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "idioms",
+          "prompt": {
+            "ua": "Мені до смерті набридло чекати.",
+            "ru": "Мне до смерти надоело ждать."
+          },
+          "answer": "I'm sick and tired of waiting.",
+          "accept": [
+            "I am sick and tired of waiting."
+          ],
+          "explain": {
+            "ua": "Sick and tired of.",
+            "ru": "Sick and tired of."
+          },
+          "id": "c1-u13-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "idioms-work",
+      "question": "That watch cost an arm and a ___ .",
+      "options": [
+        "leg",
+        "hand",
+        "foot"
+      ],
+      "answer": "leg",
+      "explain": {
+        "ua": "An arm and a leg.",
+        "ru": "An arm and a leg."
+      },
+      "id": "c1-u13-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "idioms-work",
+      "question": "It's hard to make ends ___ on one salary.",
+      "options": [
+        "meet",
+        "end",
+        "match"
+      ],
+      "answer": "meet",
+      "explain": {
+        "ua": "Make ends meet.",
+        "ru": "Make ends meet."
+      },
+      "id": "c1-u13-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "idioms-work",
+      "question": "I'm exhausted. Let's call it a ___ .",
+      "options": [
+        "day",
+        "night",
+        "rest"
+      ],
+      "answer": "day",
+      "explain": {
+        "ua": "Call it a day.",
+        "ru": "Call it a day."
+      },
+      "id": "c1-u13-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "idioms-feelings",
+      "question": "She was over the ___ with her results.",
+      "options": [
+        "moon",
+        "stars",
+        "top"
+      ],
+      "answer": "moon",
+      "explain": {
+        "ua": "Over the moon.",
+        "ru": "Over the moon."
+      },
+      "id": "c1-u13-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "idioms-feelings",
+      "question": "He got cold ___ and cancelled the trip.",
+      "options": [
+        "feet",
+        "hands",
+        "toes"
+      ],
+      "answer": "feet",
+      "explain": {
+        "ua": "Cold feet.",
+        "ru": "Cold feet."
+      },
+      "id": "c1-u13-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "idioms-feelings",
+      "question": "I'm sick and tired ___ your complaints.",
+      "answer": "of",
+      "accept": [],
+      "explain": {
+        "ua": "Of.",
+        "ru": "Of."
+      },
+      "id": "c1-u13-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "idioms-work",
+      "question": "The plan failed — we're back to square ___ .",
+      "answer": "one",
+      "accept": [],
+      "explain": {
+        "ua": "One.",
+        "ru": "One."
+      },
+      "id": "c1-u13-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "idioms-work",
+      "sentence": "Don't cut the corners.",
+      "answer": "Don't cut corners.",
+      "accept": [],
+      "explain": {
+        "ua": "Без the.",
+        "ru": "Без the."
+      },
+      "id": "c1-u13-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "idioms-feelings",
+      "sentence": "I had butterflies in my head.",
+      "answer": "I had butterflies in my stomach.",
+      "accept": [],
+      "explain": {
+        "ua": "In my stomach.",
+        "ru": "In my stomach."
+      },
+      "id": "c1-u13-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "idioms-work",
+      "words": [
+        "the",
+        "ball",
+        "Let's",
+        "rolling",
+        "get"
+      ],
+      "answer": "Let's get the ball rolling",
+      "explain": {
+        "ua": "Get the ball rolling.",
+        "ru": "Get the ball rolling."
+      },
+      "id": "c1-u13-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "idioms-feelings",
+      "prompt": {
+        "ua": "Перед співбесідою я була клубком нервів.",
+        "ru": "Перед собеседованием я была комком нервов."
+      },
+      "answer": "I was a bundle of nerves before the interview.",
+      "accept": [
+        "Before the interview I was a bundle of nerves.",
+        "Before the interview, I was a bundle of nerves."
+      ],
+      "explain": {
+        "ua": "A bundle of nerves.",
+        "ru": "A bundle of nerves."
+      },
+      "id": "c1-u13-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "idioms-work",
+      "audio_text": "The company is in the red.",
+      "options": [
+        "The company is in the red.",
+        "The company is in the bed.",
+        "The company is in the read."
+      ],
+      "answer": "The company is in the red.",
+      "audio": "",
+      "explain": {
+        "ua": "In the red.",
+        "ru": "In the red."
+      },
+      "id": "c1-u13-cp12"
+    }
+  ]
+}

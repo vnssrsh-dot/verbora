@@ -1,0 +1,1242 @@
+{
+  "id": "a2-u04",
+  "level": "A2",
+  "order": 4,
+  "kind": "grammar",
+  "title": {
+    "en": "Comparatives and superlatives",
+    "ua": "Порівняння прикметників",
+    "ru": "Сравнение прилагательных"
+  },
+  "rule": {
+    "formula": "cheap → cheaper → the cheapest · expensive → more expensive → the most expensive",
+    "explain": {
+      "ua": "Короткі прикметники: +er (cheaper) і the …est (the cheapest). Довгі: more … (more expensive) і the most … (the most expensive). Після порівняння — than: cheaper than.",
+      "ru": "Короткие прилагательные: +er (cheaper) и the …est (the cheapest). Длинные: more … (more expensive) и the most … (the most expensive). После сравнения — than: cheaper than."
+    },
+    "examples": [
+      {
+        "en": "Lviv is smaller than Kyiv.",
+        "ua": "Львів менший за Київ.",
+        "ru": "Львов меньше Киева."
+      },
+      {
+        "en": "This phone is more expensive.",
+        "ua": "Цей телефон дорожчий.",
+        "ru": "Этот телефон дороже."
+      },
+      {
+        "en": "It's the best café in town.",
+        "ua": "Це найкраще кафе в місті.",
+        "ru": "Это лучшее кафе в городе."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "big → bigger",
+      "ipa": "/ˈbɪɡə/",
+      "ua": "великий → більший",
+      "ru": "большой → больше",
+      "example": "Kyiv is bigger than Lviv.",
+      "audio": ""
+    },
+    {
+      "word": "cheap → cheaper",
+      "ipa": "/ˈtʃiːpə/",
+      "ua": "дешевий → дешевший",
+      "ru": "дешёвый → дешевле",
+      "example": "The bus is cheaper.",
+      "audio": ""
+    },
+    {
+      "word": "easy → easier",
+      "ipa": "/ˈiːziə/",
+      "ua": "легкий → легший",
+      "ru": "лёгкий → легче",
+      "example": "English is easier than Chinese.",
+      "audio": ""
+    },
+    {
+      "word": "good → better → the best",
+      "ipa": "/ˈbetə/",
+      "ua": "добрий → кращий → найкращий",
+      "ru": "хороший → лучше → лучший",
+      "example": "the best day",
+      "audio": ""
+    },
+    {
+      "word": "bad → worse → the worst",
+      "ipa": "/wɜːs/",
+      "ua": "поганий → гірший → найгірший",
+      "ru": "плохой → хуже → худший",
+      "example": "the worst film",
+      "audio": ""
+    },
+    {
+      "word": "far → further",
+      "ipa": "/ˈfɜːðə/",
+      "ua": "далеко → далі",
+      "ru": "далеко → дальше",
+      "example": "It's further than I thought.",
+      "audio": ""
+    },
+    {
+      "word": "interesting",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "ua": "цікавий",
+      "ru": "интересный",
+      "example": "more interesting",
+      "audio": ""
+    },
+    {
+      "word": "comfortable",
+      "ipa": "/ˈkʌmftəbl/",
+      "ua": "зручний",
+      "ru": "удобный",
+      "example": "more comfortable",
+      "audio": ""
+    },
+    {
+      "word": "dangerous",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "ua": "небезпечний",
+      "ru": "опасный",
+      "example": "the most dangerous",
+      "audio": ""
+    },
+    {
+      "word": "than",
+      "ipa": "/ðæn/",
+      "ua": "ніж, за",
+      "ru": "чем",
+      "example": "taller than me",
+      "audio": ""
+    },
+    {
+      "word": "as … as",
+      "ipa": "/æz … æz/",
+      "ua": "такий самий … як",
+      "ru": "такой же … как",
+      "example": "as tall as his dad",
+      "audio": ""
+    },
+    {
+      "word": "hot → hotter",
+      "ipa": "/ˈhɒtə/",
+      "ua": "гарячий → гарячіший",
+      "ru": "жаркий → жарче",
+      "example": "July is hotter than May.",
+      "audio": ""
+    },
+    {
+      "word": "fast → faster",
+      "ipa": "/ˈfɑːstə/",
+      "ua": "швидкий → швидший",
+      "ru": "быстрый → быстрее",
+      "example": "The train is faster.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u04-l01",
+      "title": {
+        "en": "-er / more",
+        "ua": "-er / more",
+        "ru": "-er / more"
+      },
+      "recap": {
+        "from": "a2-u03-l05",
+        "note": {
+          "ua": "Згадаймо: завершена подія → Simple · процес у момент → Continuous",
+          "ru": "Вспомним: законченное событие → Simple · процесс в момент → Continuous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-vs-continuous",
+            "question": "Yesterday I ___ my grandma.",
+            "options": [
+              "visited",
+              "was visiting",
+              "visit"
+            ],
+            "answer": "visited",
+            "explain": {
+              "ua": "Завершена подія → Simple.",
+              "ru": "Законченное событие → Simple."
+            },
+            "id": "a2-u04-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-vs-continuous",
+            "question": "— What happened? — I ___ off my bike.",
+            "options": [
+              "fell",
+              "was falling",
+              "fall"
+            ],
+            "answer": "fell",
+            "explain": {
+              "ua": "What happened? → Simple.",
+              "ru": "What happened? → Simple."
+            },
+            "id": "a2-u04-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "короткі: +er · -e: +r · голосний + приголосний: подвоєння · -y: -ier · довгі: more … · + than",
+          "ru": "короткие: +er · -e: +r · гласный + согласный: удвоение · -y: -ier · длинные: more … · + than"
+        },
+        "explain": {
+          "ua": "Cheap → cheaper, nice → nicer, big → bigger, easy → easier. Довгі (2–3+ склади): more interesting, more comfortable. Порівнюємо з чимось — than.",
+          "ru": "Cheap → cheaper, nice → nicer, big → bigger, easy → easier. Длинные (2–3+ слога): more interesting, more comfortable. Сравниваем с чем-то — than."
+        },
+        "examples": [
+          {
+            "en": "The train is faster than the bus.",
+            "ua": "Потяг швидший за автобус.",
+            "ru": "Поезд быстрее автобуса."
+          },
+          {
+            "en": "My bag is bigger than yours.",
+            "ua": "Моя сумка більша за твою.",
+            "ru": "Моя сумка больше твоей."
+          },
+          {
+            "en": "This book is more interesting.",
+            "ua": "Ця книжка цікавіша.",
+            "ru": "Эта книга интереснее."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "A plane is ___ than a train.",
+          "options": [
+            "faster",
+            "more fast",
+            "fastest"
+          ],
+          "answer": "faster",
+          "explain": {
+            "ua": "Fast → faster.",
+            "ru": "Fast → faster."
+          },
+          "id": "a2-u04-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "Kyiv is ___ than Odesa.",
+          "options": [
+            "bigger",
+            "biger",
+            "more big"
+          ],
+          "answer": "bigger",
+          "explain": {
+            "ua": "Big → bigger (подвоєння).",
+            "ru": "Big → bigger (удвоение)."
+          },
+          "id": "a2-u04-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "English is ___ than Chinese.",
+          "options": [
+            "easier",
+            "easyer",
+            "more easy"
+          ],
+          "answer": "easier",
+          "explain": {
+            "ua": "Easy → easier.",
+            "ru": "Easy → easier."
+          },
+          "id": "a2-u04-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "This sofa is ___ than that one.",
+          "options": [
+            "more comfortable",
+            "comfortabler",
+            "most comfortable"
+          ],
+          "answer": "more comfortable",
+          "explain": {
+            "ua": "Довге слово → more.",
+            "ru": "Длинное слово → more."
+          },
+          "id": "a2-u04-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "My brother is taller ___ me.",
+          "options": [
+            "than",
+            "that",
+            "as"
+          ],
+          "answer": "than",
+          "explain": {
+            "ua": "Порівняння — than.",
+            "ru": "Сравнение — than."
+          },
+          "id": "a2-u04-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "comparatives",
+          "pairs": [
+            {
+              "left": "cheap",
+              "right": "cheaper"
+            },
+            {
+              "left": "hot",
+              "right": "hotter"
+            },
+            {
+              "left": "nice",
+              "right": "nicer"
+            },
+            {
+              "left": "happy",
+              "right": "happier"
+            }
+          ],
+          "explain": {
+            "ua": "Правила -er.",
+            "ru": "Правила -er."
+          },
+          "id": "a2-u04-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "comparatives",
+          "sentence": "This film is more good.",
+          "answer": "This film is better.",
+          "accept": [],
+          "explain": {
+            "ua": "Good → better (виняток).",
+            "ru": "Good → better (исключение)."
+          },
+          "id": "a2-u04-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "comparatives",
+          "sentence": "She is more tall than me.",
+          "answer": "She is taller than me.",
+          "accept": [
+            "She's taller than me.",
+            "She is taller than I am."
+          ],
+          "explain": {
+            "ua": "Tall — коротке → taller.",
+            "ru": "Tall — короткое → taller."
+          },
+          "id": "a2-u04-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "comparatives",
+          "prompt": {
+            "ua": "Автобус дешевший за таксі.",
+            "ru": "Автобус дешевле такси."
+          },
+          "answer": "The bus is cheaper than a taxi.",
+          "accept": [
+            "The bus is cheaper than the taxi.",
+            "A bus is cheaper than a taxi."
+          ],
+          "explain": {
+            "ua": "Cheaper than.",
+            "ru": "Cheaper than."
+          },
+          "id": "a2-u04-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u04-l02",
+      "title": {
+        "en": "the -est / the most",
+        "ua": "the -est / the most",
+        "ru": "the -est / the most"
+      },
+      "recap": {
+        "from": "a2-u04-l01",
+        "note": {
+          "ua": "Згадаймо: короткі: +er · -e: +r · голосний + приголосний: подвоєння · -y: -ier · довгі: more … · + than",
+          "ru": "Вспомним: короткие: +er · -e: +r · гласный + согласный: удвоение · -y: -ier · длинные: more … · + than"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "comparatives",
+            "question": "A plane is ___ than a train.",
+            "options": [
+              "faster",
+              "more fast",
+              "fastest"
+            ],
+            "answer": "faster",
+            "explain": {
+              "ua": "Fast → faster.",
+              "ru": "Fast → faster."
+            },
+            "id": "a2-u04-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "comparatives",
+            "question": "My brother is taller ___ me.",
+            "options": [
+              "than",
+              "that",
+              "as"
+            ],
+            "answer": "than",
+            "explain": {
+              "ua": "Порівняння — than.",
+              "ru": "Сравнение — than."
+            },
+            "id": "a2-u04-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "the + …est · the most + довгий",
+          "ru": "the + …est · the most + длинное"
+        },
+        "explain": {
+          "ua": "Найвищий ступінь — серед усіх: the cheapest, the biggest, the easiest, the most interesting. Перед ним — the.",
+          "ru": "Превосходная степень — среди всех: the cheapest, the biggest, the easiest, the most interesting. Перед ней — the."
+        },
+        "examples": [
+          {
+            "en": "It's the cheapest hotel.",
+            "ua": "Це найдешевший готель.",
+            "ru": "Это самый дешёвый отель."
+          },
+          {
+            "en": "He's the tallest in the class.",
+            "ua": "Він найвищий у класі.",
+            "ru": "Он самый высокий в классе."
+          },
+          {
+            "en": "It's the most beautiful city.",
+            "ua": "Це найкрасивіше місто.",
+            "ru": "Это самый красивый город."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "superlatives",
+          "question": "It's ___ hotel in the city.",
+          "options": [
+            "the cheapest",
+            "cheapest",
+            "the cheaper"
+          ],
+          "answer": "the cheapest",
+          "explain": {
+            "ua": "The + -est.",
+            "ru": "The + -est."
+          },
+          "id": "a2-u04-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "superlatives",
+          "question": "Who is ___ in your family?",
+          "options": [
+            "the tallest",
+            "the most tall",
+            "taller"
+          ],
+          "answer": "the tallest",
+          "explain": {
+            "ua": "Tall → the tallest.",
+            "ru": "Tall → the tallest."
+          },
+          "id": "a2-u04-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "superlatives",
+          "question": "It's ___ film I know.",
+          "options": [
+            "the most interesting",
+            "the interestingest",
+            "more interesting"
+          ],
+          "answer": "the most interesting",
+          "explain": {
+            "ua": "Довге → the most.",
+            "ru": "Длинное → the most."
+          },
+          "id": "a2-u04-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "superlatives",
+          "question": "July is ___ month.",
+          "options": [
+            "the hottest",
+            "the hotest",
+            "the most hot"
+          ],
+          "answer": "the hottest",
+          "explain": {
+            "ua": "Hot → the hottest (подвоєння).",
+            "ru": "Hot → the hottest (удвоение)."
+          },
+          "id": "a2-u04-l02-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "superlatives",
+          "question": "It's the ___ day of my life! (happy)",
+          "answer": "happiest",
+          "accept": [],
+          "explain": {
+            "ua": "Happy → happiest.",
+            "ru": "Happy → happiest."
+          },
+          "id": "a2-u04-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "superlatives",
+          "pairs": [
+            {
+              "left": "big",
+              "right": "the biggest"
+            },
+            {
+              "left": "easy",
+              "right": "the easiest"
+            },
+            {
+              "left": "dangerous",
+              "right": "the most dangerous"
+            },
+            {
+              "left": "fast",
+              "right": "the fastest"
+            }
+          ],
+          "explain": {
+            "ua": "Найвищий ступінь.",
+            "ru": "Превосходная степень."
+          },
+          "id": "a2-u04-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "superlatives",
+          "sentence": "She is the most clever in the class.",
+          "answer": "She is the cleverest in the class.",
+          "accept": [
+            "She's the cleverest in the class."
+          ],
+          "explain": {
+            "ua": "Clever — the cleverest.",
+            "ru": "Clever — the cleverest."
+          },
+          "id": "a2-u04-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "superlatives",
+          "sentence": "It's most expensive restaurant.",
+          "answer": "It's the most expensive restaurant.",
+          "accept": [],
+          "explain": {
+            "ua": "Не забувай the.",
+            "ru": "Не забывай the."
+          },
+          "id": "a2-u04-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "superlatives",
+          "prompt": {
+            "ua": "Це найсмачніша піца!",
+            "ru": "Это самая вкусная пицца!"
+          },
+          "answer": "It's the most delicious pizza!",
+          "accept": [
+            "It's the tastiest pizza!",
+            "This is the most delicious pizza!",
+            "This is the tastiest pizza!"
+          ],
+          "explain": {
+            "ua": "The most delicious.",
+            "ru": "The most delicious."
+          },
+          "id": "a2-u04-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u04-l03",
+      "title": {
+        "en": "good, bad, far + as…as",
+        "ua": "good, bad, far + as…as",
+        "ru": "good, bad, far + as…as"
+      },
+      "recap": {
+        "from": "a2-u04-l02",
+        "note": {
+          "ua": "Згадаймо: the + …est · the most + довгий",
+          "ru": "Вспомним: the + …est · the most + длинное"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "superlatives",
+            "question": "It's ___ hotel in the city.",
+            "options": [
+              "the cheapest",
+              "cheapest",
+              "the cheaper"
+            ],
+            "answer": "the cheapest",
+            "explain": {
+              "ua": "The + -est.",
+              "ru": "The + -est."
+            },
+            "id": "a2-u04-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "superlatives",
+            "question": "It's the ___ day of my life! (happy)",
+            "answer": "happiest",
+            "accept": [],
+            "explain": {
+              "ua": "Happy → happiest.",
+              "ru": "Happy → happiest."
+            },
+            "id": "a2-u04-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "good → better → the best · bad → worse → the worst · far → further → the furthest · as … as",
+        "explain": {
+          "ua": "Три винятки треба запам'ятати. As … as — «такий самий, як»: She is as tall as her mum. Not as … as — «не такий, як».",
+          "ru": "Три исключения нужно запомнить. As … as — «такой же, как»: She is as tall as her mum. Not as … as — «не такой, как»."
+        },
+        "examples": [
+          {
+            "en": "This café is better.",
+            "ua": "Це кафе краще.",
+            "ru": "Это кафе лучше."
+          },
+          {
+            "en": "It was the worst day.",
+            "ua": "Це був найгірший день.",
+            "ru": "Это был худший день."
+          },
+          {
+            "en": "He's as tall as his dad.",
+            "ua": "Він такий самий високий, як тато.",
+            "ru": "Он такой же высокий, как папа."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "comparatives-irregular",
+          "question": "This pizza is ___ than that one.",
+          "options": [
+            "better",
+            "gooder",
+            "more good"
+          ],
+          "answer": "better",
+          "explain": {
+            "ua": "Good → better.",
+            "ru": "Good → better."
+          },
+          "id": "a2-u04-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives-irregular",
+          "question": "It was ___ film of the year.",
+          "options": [
+            "the worst",
+            "the baddest",
+            "the most bad"
+          ],
+          "answer": "the worst",
+          "explain": {
+            "ua": "Bad → the worst.",
+            "ru": "Bad → the worst."
+          },
+          "id": "a2-u04-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives-irregular",
+          "question": "The station is ___ than the bus stop.",
+          "options": [
+            "further",
+            "farer",
+            "more far"
+          ],
+          "answer": "further",
+          "explain": {
+            "ua": "Far → further.",
+            "ru": "Far → further."
+          },
+          "id": "a2-u04-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives-irregular",
+          "question": "She's ___ singer in the group.",
+          "options": [
+            "the best",
+            "the better",
+            "the goodest"
+          ],
+          "answer": "the best",
+          "explain": {
+            "ua": "Good → the best.",
+            "ru": "Good → the best."
+          },
+          "id": "a2-u04-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "as-as",
+          "question": "My flat is as big ___ yours.",
+          "options": [
+            "as",
+            "than",
+            "like"
+          ],
+          "answer": "as",
+          "explain": {
+            "ua": "As … as.",
+            "ru": "As … as."
+          },
+          "id": "a2-u04-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "as-as",
+          "question": "The bus is ___ fast as the train.",
+          "options": [
+            "not as",
+            "not than",
+            "no as"
+          ],
+          "answer": "not as",
+          "explain": {
+            "ua": "Not as … as — не такий, як.",
+            "ru": "Not as … as — не такой, как."
+          },
+          "id": "a2-u04-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "comparatives-irregular",
+          "sentence": "My English is more bad than yours.",
+          "answer": "My English is worse than yours.",
+          "accept": [],
+          "explain": {
+            "ua": "Bad → worse.",
+            "ru": "Bad → worse."
+          },
+          "id": "a2-u04-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "as-as",
+          "sentence": "She is as old than me.",
+          "answer": "She is as old as me.",
+          "accept": [
+            "She is as old as I am.",
+            "She's as old as me."
+          ],
+          "explain": {
+            "ua": "As … as.",
+            "ru": "As … as."
+          },
+          "id": "a2-u04-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "as-as",
+          "prompt": {
+            "ua": "Він такий самий розумний, як його сестра.",
+            "ru": "Он такой же умный, как его сестра."
+          },
+          "answer": "He is as clever as his sister.",
+          "accept": [
+            "He's as clever as his sister.",
+            "He is as smart as his sister."
+          ],
+          "explain": {
+            "ua": "As clever as.",
+            "ru": "As clever as."
+          },
+          "id": "a2-u04-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u04-l04",
+      "title": {
+        "en": "Practice: comparing cities",
+        "ua": "Практика: порівнюємо міста",
+        "ru": "Практика: сравниваем города"
+      },
+      "recap": {
+        "from": "a2-u04-l03",
+        "note": {
+          "ua": "Згадаймо: good → better → the best · bad → worse → the worst · far → further → the furthest · as … as",
+          "ru": "Вспомним: good → better → the best · bad → worse → the worst · far → further → the furthest · as … as"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "comparatives-irregular",
+            "question": "This pizza is ___ than that one.",
+            "options": [
+              "better",
+              "gooder",
+              "more good"
+            ],
+            "answer": "better",
+            "explain": {
+              "ua": "Good → better.",
+              "ru": "Good → better."
+            },
+            "id": "a2-u04-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "as-as",
+            "question": "My flat is as big ___ yours.",
+            "options": [
+              "as",
+              "than",
+              "like"
+            ],
+            "answer": "as",
+            "explain": {
+              "ua": "As … as.",
+              "ru": "As … as."
+            },
+            "id": "a2-u04-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "Kyiv is ___ city in Ukraine.",
+          "options": [
+            "the biggest",
+            "the bigger",
+            "biggest"
+          ],
+          "answer": "the biggest",
+          "explain": {
+            "ua": "The biggest.",
+            "ru": "The biggest."
+          },
+          "id": "a2-u04-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "Lviv is ___ than Kyiv.",
+          "options": [
+            "smaller",
+            "more small",
+            "the smallest"
+          ],
+          "answer": "smaller",
+          "explain": {
+            "ua": "Small → smaller.",
+            "ru": "Small → smaller."
+          },
+          "id": "a2-u04-l04-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Odesa is hotter than Lviv in summer.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kyiv is cheaper than Odesa.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Which city is the oldest?",
+              "options": [
+                "Lviv",
+                "Odesa",
+                "Kyiv"
+              ],
+              "answer": "Kyiv"
+            }
+          ],
+          "text": "I live in Odesa, but I often travel to Kyiv and Lviv. Kyiv is the biggest and the oldest city — it's more than 1,500 years old! It's also more expensive than Odesa. Lviv is smaller and quieter. In summer Odesa is hotter than Lviv, and the sea is the best thing about my city!",
+          "explain": {
+            "ua": "Odesa — hotter; Kyiv — more expensive, the oldest.",
+            "ru": "Odesa — hotter; Kyiv — more expensive, the oldest."
+          },
+          "id": "a2-u04-l04-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "comparatives",
+          "bank": [
+            "bigger",
+            "more expensive",
+            "the oldest",
+            "quieter"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Kyiv is ___ than Lviv.",
+            "Kyiv is ___ than Odesa.",
+            "Kyiv is ___ city.",
+            "Lviv is ___ than Kyiv."
+          ],
+          "answers": [
+            "bigger",
+            "more expensive",
+            "the oldest",
+            "quieter"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u04-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "comparatives",
+          "sentence": "Odesa is more hot than Lviv.",
+          "answer": "Odesa is hotter than Lviv.",
+          "accept": [],
+          "explain": {
+            "ua": "Hot → hotter.",
+            "ru": "Hot → hotter."
+          },
+          "id": "a2-u04-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "comparatives",
+          "sentence": "It's the more beautiful city.",
+          "answer": "It's the most beautiful city.",
+          "accept": [],
+          "explain": {
+            "ua": "Найвищий → the most.",
+            "ru": "Превосходная → the most."
+          },
+          "id": "a2-u04-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "the",
+            "thing",
+            "about",
+            "city",
+            "best",
+            "The",
+            "sea",
+            "is",
+            "my"
+          ],
+          "answer": "The sea is the best thing about my city",
+          "explain": {
+            "ua": "The best thing.",
+            "ru": "The best thing."
+          },
+          "id": "a2-u04-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "comparatives",
+          "audio_text": "It's further than I thought.",
+          "options": [
+            "It's further than I thought.",
+            "It's farther that I thought.",
+            "It's faster than I thought."
+          ],
+          "answer": "It's further than I thought.",
+          "audio": "",
+          "explain": {
+            "ua": "Further — «ферзе».",
+            "ru": "Further — «фёрзэ»."
+          },
+          "id": "a2-u04-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "comparatives",
+          "prompt": {
+            "ua": "Цей готель зручніший.",
+            "ru": "Этот отель удобнее."
+          },
+          "answer": "This hotel is more comfortable.",
+          "accept": [],
+          "explain": {
+            "ua": "More comfortable.",
+            "ru": "More comfortable."
+          },
+          "id": "a2-u04-l04-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "comparatives",
+          "prompt": {
+            "ua": "Це найгірший день!",
+            "ru": "Это худший день!"
+          },
+          "answer": "It's the worst day!",
+          "accept": [
+            "This is the worst day!"
+          ],
+          "explain": {
+            "ua": "Bad → the worst.",
+            "ru": "Bad → the worst."
+          },
+          "id": "a2-u04-l04-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "comparatives",
+      "question": "A taxi is ___ than a bus.",
+      "options": [
+        "faster",
+        "more fast",
+        "fastest"
+      ],
+      "answer": "faster",
+      "explain": {
+        "ua": "Fast → faster.",
+        "ru": "Fast → faster."
+      },
+      "id": "a2-u04-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "superlatives",
+      "question": "It's ___ restaurant in town.",
+      "options": [
+        "the most expensive",
+        "the expensivest",
+        "more expensive"
+      ],
+      "answer": "the most expensive",
+      "explain": {
+        "ua": "The most.",
+        "ru": "The most."
+      },
+      "id": "a2-u04-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "comparatives-irregular",
+      "question": "This book is ___ than the film.",
+      "options": [
+        "better",
+        "gooder",
+        "best"
+      ],
+      "answer": "better",
+      "explain": {
+        "ua": "Good → better.",
+        "ru": "Good → better."
+      },
+      "id": "a2-u04-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "as-as",
+      "question": "He is as tall ___ his brother.",
+      "options": [
+        "as",
+        "than",
+        "that"
+      ],
+      "answer": "as",
+      "explain": {
+        "ua": "As … as.",
+        "ru": "As … as."
+      },
+      "id": "a2-u04-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "comparatives",
+      "question": "Today is ___ than yesterday. (hot)",
+      "answer": "hotter",
+      "accept": [],
+      "explain": {
+        "ua": "Hot → hotter.",
+        "ru": "Hot → hotter."
+      },
+      "id": "a2-u04-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "comparatives-irregular",
+      "question": "It's the ___ day of the year. (bad)",
+      "answer": "worst",
+      "accept": [],
+      "explain": {
+        "ua": "Bad → worst.",
+        "ru": "Bad → worst."
+      },
+      "id": "a2-u04-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "comparatives",
+      "pairs": [
+        {
+          "left": "easy",
+          "right": "easier"
+        },
+        {
+          "left": "big",
+          "right": "the biggest"
+        },
+        {
+          "left": "good",
+          "right": "the best"
+        },
+        {
+          "left": "far",
+          "right": "further"
+        }
+      ],
+      "explain": {
+        "ua": "Порівняння.",
+        "ru": "Сравнение."
+      },
+      "id": "a2-u04-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "comparatives",
+      "sentence": "My flat is more small than yours.",
+      "answer": "My flat is smaller than yours.",
+      "accept": [],
+      "explain": {
+        "ua": "Small → smaller.",
+        "ru": "Small → smaller."
+      },
+      "id": "a2-u04-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "superlatives",
+      "sentence": "She is the most happy person.",
+      "answer": "She is the happiest person.",
+      "accept": [
+        "She's the happiest person."
+      ],
+      "explain": {
+        "ua": "Happy → the happiest.",
+        "ru": "Happy → the happiest."
+      },
+      "id": "a2-u04-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "comparatives",
+      "words": [
+        "than",
+        "Kyiv",
+        "Lviv",
+        "is",
+        "smaller"
+      ],
+      "answer": "Lviv is smaller than Kyiv",
+      "explain": {
+        "ua": "Smaller than.",
+        "ru": "Smaller than."
+      },
+      "id": "a2-u04-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "comparatives",
+      "prompt": {
+        "ua": "Англійська легша за китайську.",
+        "ru": "Английский легче китайского."
+      },
+      "answer": "English is easier than Chinese.",
+      "accept": [],
+      "explain": {
+        "ua": "Easier than.",
+        "ru": "Easier than."
+      },
+      "id": "a2-u04-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "superlatives",
+      "audio_text": "It's the cheapest hotel.",
+      "options": [
+        "It's the cheapest hotel.",
+        "It's the cheaper hotel.",
+        "It's the cheapest hostel."
+      ],
+      "answer": "It's the cheapest hotel.",
+      "audio": "",
+      "explain": {
+        "ua": "The cheapest.",
+        "ru": "The cheapest."
+      },
+      "id": "a2-u04-cp12"
+    }
+  ]
+}

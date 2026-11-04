@@ -1,0 +1,1497 @@
+{
+  "id": "a1-u25",
+  "level": "A1",
+  "order": 25,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Simple: regular verbs",
+    "ua": "Past Simple: правильні дієслова",
+    "ru": "Past Simple: правильные глаголы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "дієслово + -ed · didn't + дієслово · Did … + дієслово?",
+      "ru": "глагол + -ed · didn't + глагол · Did … + глагол?"
+    },
+    "explain": {
+      "ua": "Past Simple — завершена дія в минулому (yesterday, last week, ago). Правильні дієслова отримують -ed — однаково для всіх: I worked, she worked. Для заперечень і питань — did / didn't.",
+      "ru": "Past Simple — законченное действие в прошлом (yesterday, last week, ago). Правильные глаголы получают -ed — одинаково для всех: I worked, she worked. Для отрицаний и вопросов — did / didn't."
+    },
+    "examples": [
+      {
+        "en": "I worked yesterday.",
+        "ua": "Учора я працював.",
+        "ru": "Вчера я работал."
+      },
+      {
+        "en": "She didn't call me.",
+        "ua": "Вона мені не подзвонила.",
+        "ru": "Она мне не позвонила."
+      },
+      {
+        "en": "Did you watch the film?",
+        "ua": "Ти дивився фільм?",
+        "ru": "Ты смотрел фильм?"
+      }
+    ],
+    "compare": {
+      "ua": "В українській минулий час має рід (працював, працювала). В англійській форма одна для всіх: worked.",
+      "ru": "В русском прошедшее время имеет род (работал, работала). В английском форма одна для всех: worked."
+    }
+  },
+  "vocab": [
+    {
+      "word": "work → worked",
+      "ipa": "/wɜːkt/",
+      "ua": "працював",
+      "ru": "работал",
+      "example": "I worked a lot.",
+      "audio": ""
+    },
+    {
+      "word": "play → played",
+      "ipa": "/pleɪd/",
+      "ua": "грав",
+      "ru": "играл",
+      "example": "We played tennis.",
+      "audio": ""
+    },
+    {
+      "word": "watch → watched",
+      "ipa": "/wɒtʃt/",
+      "ua": "дивився",
+      "ru": "смотрел",
+      "example": "She watched a film.",
+      "audio": ""
+    },
+    {
+      "word": "cook → cooked",
+      "ipa": "/kʊkt/",
+      "ua": "готував",
+      "ru": "готовил",
+      "example": "He cooked dinner.",
+      "audio": ""
+    },
+    {
+      "word": "visit → visited",
+      "ipa": "/ˈvɪzɪtɪd/",
+      "ua": "відвідав",
+      "ru": "посетил",
+      "example": "We visited my grandma.",
+      "audio": ""
+    },
+    {
+      "word": "live → lived",
+      "ipa": "/lɪvd/",
+      "ua": "жив",
+      "ru": "жил",
+      "example": "They lived in Poland.",
+      "audio": ""
+    },
+    {
+      "word": "dance → danced",
+      "ipa": "/dɑːnst/",
+      "ua": "танцював",
+      "ru": "танцевал",
+      "example": "We danced all night.",
+      "audio": ""
+    },
+    {
+      "word": "study → studied",
+      "ipa": "/ˈstʌdid/",
+      "ua": "вчився",
+      "ru": "учился",
+      "example": "I studied English.",
+      "audio": ""
+    },
+    {
+      "word": "stop → stopped",
+      "ipa": "/stɒpt/",
+      "ua": "зупинився",
+      "ru": "остановился",
+      "example": "The bus stopped.",
+      "audio": ""
+    },
+    {
+      "word": "start → started",
+      "ipa": "/ˈstɑːtɪd/",
+      "ua": "почав",
+      "ru": "начал",
+      "example": "The film started at 8.",
+      "audio": ""
+    },
+    {
+      "word": "want → wanted",
+      "ipa": "/ˈwɒntɪd/",
+      "ua": "хотів",
+      "ru": "хотел",
+      "example": "I wanted a coffee.",
+      "audio": ""
+    },
+    {
+      "word": "call → called",
+      "ipa": "/kɔːld/",
+      "ua": "подзвонив",
+      "ru": "позвонил",
+      "example": "Mum called me.",
+      "audio": ""
+    },
+    {
+      "word": "walk → walked",
+      "ipa": "/wɔːkt/",
+      "ua": "гуляв, ішов пішки",
+      "ru": "гулял, шёл пешком",
+      "example": "We walked in the park.",
+      "audio": ""
+    },
+    {
+      "word": "clean → cleaned",
+      "ipa": "/kliːnd/",
+      "ua": "прибрав",
+      "ru": "убрал",
+      "example": "I cleaned the flat.",
+      "audio": ""
+    },
+    {
+      "word": "travel → travelled",
+      "ipa": "/ˈtrævld/",
+      "ua": "подорожував",
+      "ru": "путешествовал",
+      "example": "They travelled to Italy.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u25-l01",
+      "title": {
+        "en": "-ed and spelling",
+        "ua": "-ed і правопис",
+        "ru": "-ed и правописание"
+      },
+      "recap": {
+        "from": "a1-u24-l02",
+        "note": {
+          "ua": "Згадаймо: wasn't · weren't · Was he…? · Were you…?",
+          "ru": "Вспомним: wasn't · weren't · Was he…? · Were you…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "She ___ at home last night.",
+            "options": [
+              "wasn't",
+              "weren't",
+              "didn't"
+            ],
+            "answer": "wasn't",
+            "explain": {
+              "ua": "She → wasn't.",
+              "ru": "She → wasn't."
+            },
+            "id": "a1-u25-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "Was it cold? — No, it ___.",
+            "options": [
+              "wasn't",
+              "weren't",
+              "isn't"
+            ],
+            "answer": "wasn't",
+            "explain": {
+              "ua": "No, it wasn't.",
+              "ru": "No, it wasn't."
+            },
+            "id": "a1-u25-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "work → worked · live → lived · study → studied · stop → stopped",
+        "explain": {
+          "ua": "Зазвичай +ed. Якщо в кінці -e — тільки +d (live → lived). Приголосний + y → -ied (study → studied). Короткі слова подвоюють літеру (stop → stopped).",
+          "ru": "Обычно +ed. Если в конце -e — только +d (live → lived). Согласный + y → -ied (study → studied). Короткие слова удваивают букву (stop → stopped)."
+        },
+        "examples": [
+          {
+            "en": "I cooked dinner.",
+            "ua": "Я приготував вечерю.",
+            "ru": "Я приготовил ужин."
+          },
+          {
+            "en": "She lived in Kyiv.",
+            "ua": "Вона жила в Києві.",
+            "ru": "Она жила в Киеве."
+          },
+          {
+            "en": "He studied a lot.",
+            "ua": "Він багато вчився.",
+            "ru": "Он много учился."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-regular",
+          "question": "Yesterday I ___ (work) late.",
+          "options": [
+            "worked",
+            "work",
+            "workt"
+          ],
+          "answer": "worked",
+          "explain": {
+            "ua": "+ed.",
+            "ru": "+ed."
+          },
+          "id": "a1-u25-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-regular",
+          "question": "We ___ (live) in Lviv.",
+          "options": [
+            "lived",
+            "liveed",
+            "livd"
+          ],
+          "answer": "lived",
+          "explain": {
+            "ua": "-e → +d.",
+            "ru": "-e → +d."
+          },
+          "id": "a1-u25-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-regular",
+          "question": "She ___ (study) French.",
+          "options": [
+            "studied",
+            "studyed",
+            "studed"
+          ],
+          "answer": "studied",
+          "explain": {
+            "ua": "y → -ied.",
+            "ru": "y → -ied."
+          },
+          "id": "a1-u25-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-regular",
+          "question": "The bus ___ (stop).",
+          "options": [
+            "stopped",
+            "stoped",
+            "stopt"
+          ],
+          "answer": "stopped",
+          "explain": {
+            "ua": "Подвоюємо p.",
+            "ru": "Удваиваем p."
+          },
+          "id": "a1-u25-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-regular",
+          "question": "They ___ (play) football.",
+          "options": [
+            "played",
+            "plaied",
+            "playd"
+          ],
+          "answer": "played",
+          "explain": {
+            "ua": "Голосний + y → +ed.",
+            "ru": "Гласный + y → +ed."
+          },
+          "id": "a1-u25-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "past-simple-regular",
+          "pairs": [
+            {
+              "left": "dance",
+              "right": "danced"
+            },
+            {
+              "left": "cry",
+              "right": "cried"
+            },
+            {
+              "left": "clean",
+              "right": "cleaned"
+            },
+            {
+              "left": "plan",
+              "right": "planned"
+            }
+          ],
+          "explain": {
+            "ua": "Правила -ed.",
+            "ru": "Правила -ed."
+          },
+          "id": "a1-u25-l01-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "past-simple-regular",
+          "question": "I ___ the flat yesterday. (clean)",
+          "answer": "cleaned",
+          "accept": [],
+          "explain": {
+            "ua": "+ed.",
+            "ru": "+ed."
+          },
+          "id": "a1-u25-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-regular",
+          "sentence": "She cook dinner yesterday.",
+          "answer": "She cooked dinner yesterday.",
+          "accept": [],
+          "explain": {
+            "ua": "Yesterday → -ed.",
+            "ru": "Yesterday → -ed."
+          },
+          "id": "a1-u25-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-regular",
+          "prompt": {
+            "ua": "Учора я дивилася фільм.",
+            "ru": "Вчера я смотрела фильм."
+          },
+          "answer": "I watched a film yesterday.",
+          "accept": [
+            "Yesterday I watched a film.",
+            "I watched a movie yesterday.",
+            "Yesterday I watched a movie."
+          ],
+          "explain": {
+            "ua": "Watch → watched.",
+            "ru": "Watch → watched."
+          },
+          "id": "a1-u25-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u25-l02",
+      "title": {
+        "en": "Saying -ed",
+        "ua": "Вимова -ed",
+        "ru": "Произношение -ed"
+      },
+      "recap": {
+        "from": "a1-u25-l01",
+        "note": {
+          "ua": "Згадаймо: work → worked · live → lived · study → studied · stop → stopped",
+          "ru": "Вспомним: work → worked · live → lived · study → studied · stop → stopped"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-regular",
+            "question": "Yesterday I ___ (work) late.",
+            "options": [
+              "worked",
+              "work",
+              "workt"
+            ],
+            "answer": "worked",
+            "explain": {
+              "ua": "+ed.",
+              "ru": "+ed."
+            },
+            "id": "a1-u25-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-regular",
+            "question": "They ___ (play) football.",
+            "options": [
+              "played",
+              "plaied",
+              "playd"
+            ],
+            "answer": "played",
+            "explain": {
+              "ua": "Голосний + y → +ed.",
+              "ru": "Гласный + y → +ed."
+            },
+            "id": "a1-u25-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "/t/ — worked · /d/ — played · /ɪd/ — wanted",
+        "explain": {
+          "ua": "-ed звучить по-різному: /t/ після глухих (worked, watched), /d/ після дзвінких і голосних (played, lived), /ɪd/ — тільки після t і d (wanted, visited).",
+          "ru": "-ed звучит по-разному: /t/ после глухих (worked, watched), /d/ после звонких и гласных (played, lived), /ɪd/ — только после t и d (wanted, visited)."
+        },
+        "examples": [
+          {
+            "en": "worked /wɜːkt/",
+            "ua": "працював — звук /t/",
+            "ru": "работал — звук /t/"
+          },
+          {
+            "en": "played /pleɪd/",
+            "ua": "грав — звук /d/",
+            "ru": "играл — звук /d/"
+          },
+          {
+            "en": "wanted /ˈwɒntɪd/",
+            "ua": "хотів — звук /ɪd/",
+            "ru": "хотел — звук /ɪd/"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-pronunciation",
+          "question": "Which one has an extra syllable /ɪd/?",
+          "options": [
+            "started",
+            "played",
+            "cooked"
+          ],
+          "answer": "started",
+          "explain": {
+            "ua": "Після t → /ɪd/: star-ted.",
+            "ru": "После t → /ɪd/: star-ted."
+          },
+          "id": "a1-u25-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-pronunciation",
+          "question": "Which one has an extra syllable /ɪd/?",
+          "options": [
+            "visited",
+            "called",
+            "danced"
+          ],
+          "answer": "visited",
+          "explain": {
+            "ua": "Після t → /ɪd/.",
+            "ru": "После t → /ɪd/."
+          },
+          "id": "a1-u25-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-pronunciation",
+          "question": "Worked sounds like…",
+          "options": [
+            "/wɜːkt/",
+            "/ˈwɜːkɪd/",
+            "/wɜːkd/"
+          ],
+          "answer": "/wɜːkt/",
+          "explain": {
+            "ua": "Після k → /t/.",
+            "ru": "После k → /t/."
+          },
+          "id": "a1-u25-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-pronunciation",
+          "question": "Played sounds like…",
+          "options": [
+            "/pleɪd/",
+            "/ˈpleɪɪd/",
+            "/pleɪt/"
+          ],
+          "answer": "/pleɪd/",
+          "explain": {
+            "ua": "Після голосного → /d/.",
+            "ru": "После гласного → /d/."
+          },
+          "id": "a1-u25-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "past-simple-pronunciation",
+          "pairs": [
+            {
+              "left": "watched",
+              "right": "/t/"
+            },
+            {
+              "left": "lived",
+              "right": "/d/"
+            },
+            {
+              "left": "wanted",
+              "right": "/ɪd/"
+            },
+            {
+              "left": "cleaned",
+              "right": "/d/"
+            }
+          ],
+          "explain": {
+            "ua": "Звук -ed.",
+            "ru": "Звук -ed."
+          },
+          "id": "a1-u25-l02-e05"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈvɪzɪtɪd/",
+          "options": [
+            "visited",
+            "visit",
+            "visits"
+          ],
+          "answer": "visited",
+          "explain": {
+            "ua": "/ɪd/ у кінці — додатковий склад.",
+            "ru": "/ɪd/ в конце — дополнительный слог."
+          },
+          "id": "a1-u25-l02-e06"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/dɑːnst/",
+          "options": [
+            "danced",
+            "dance",
+            "dancer"
+          ],
+          "answer": "danced",
+          "explain": {
+            "ua": "-ed тут звучить як /t/.",
+            "ru": "-ed здесь звучит как /t/."
+          },
+          "id": "a1-u25-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-simple-pronunciation",
+          "audio_text": "We wanted to go.",
+          "options": [
+            "We wanted to go.",
+            "We want to go.",
+            "We waited to go."
+          ],
+          "answer": "We wanted to go.",
+          "audio": "",
+          "explain": {
+            "ua": "Wanted — «вонтід».",
+            "ru": "Wanted — «уонтид»."
+          },
+          "id": "a1-u25-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "past-simple-pronunciation",
+          "audio_text": "She cooked dinner.",
+          "options": [
+            "She cooked dinner.",
+            "She cooks dinner.",
+            "She cook dinner."
+          ],
+          "answer": "She cooked dinner.",
+          "audio": "",
+          "explain": {
+            "ua": "Cooked — «кукт».",
+            "ru": "Cooked — «кукт»."
+          },
+          "id": "a1-u25-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u25-l03",
+      "title": {
+        "en": "didn't",
+        "ua": "didn't",
+        "ru": "didn't"
+      },
+      "recap": {
+        "from": "a1-u25-l02",
+        "note": {
+          "ua": "Згадаймо: /t/ — worked · /d/ — played · /ɪd/ — wanted",
+          "ru": "Вспомним: /t/ — worked · /d/ — played · /ɪd/ — wanted"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-pronunciation",
+            "question": "Which one has an extra syllable /ɪd/?",
+            "options": [
+              "started",
+              "played",
+              "cooked"
+            ],
+            "answer": "started",
+            "explain": {
+              "ua": "Після t → /ɪd/: star-ted.",
+              "ru": "После t → /ɪd/: star-ted."
+            },
+            "id": "a1-u25-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-pronunciation",
+            "question": "Worked sounds like…",
+            "options": [
+              "/wɜːkt/",
+              "/ˈwɜːkɪd/",
+              "/wɜːkd/"
+            ],
+            "answer": "/wɜːkt/",
+            "explain": {
+              "ua": "Після k → /t/.",
+              "ru": "После k → /t/."
+            },
+            "id": "a1-u25-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "didn't + дієслово (без -ed!)",
+          "ru": "didn't + глагол (без -ed!)"
+        },
+        "explain": {
+          "ua": "Заперечення для всіх: didn't (= did not) + базове дієслово. -ed «переходить» у did: I didn't work (не didn't worked).",
+          "ru": "Отрицание для всех: didn't (= did not) + базовый глагол. -ed «переходит» в did: I didn't work (не didn't worked)."
+        },
+        "examples": [
+          {
+            "en": "I didn't call him.",
+            "ua": "Я йому не дзвонив.",
+            "ru": "Я ему не звонил."
+          },
+          {
+            "en": "She didn't like the film.",
+            "ua": "Їй не сподобався фільм.",
+            "ru": "Ей не понравился фильм."
+          },
+          {
+            "en": "We didn't travel last year.",
+            "ua": "Минулого року ми не подорожували.",
+            "ru": "В прошлом году мы не путешествовали."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "I ___ him yesterday.",
+          "options": [
+            "didn't call",
+            "didn't called",
+            "don't called"
+          ],
+          "answer": "didn't call",
+          "explain": {
+            "ua": "Didn't + без -ed.",
+            "ru": "Didn't + без -ed."
+          },
+          "id": "a1-u25-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "She didn't ___ the film.",
+          "options": [
+            "like",
+            "liked",
+            "likes"
+          ],
+          "answer": "like",
+          "explain": {
+            "ua": "Після didn't — базова форма.",
+            "ru": "После didn't — базовая форма."
+          },
+          "id": "a1-u25-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "We ___ to Italy last year.",
+          "options": [
+            "didn't travel",
+            "weren't travel",
+            "didn't travelled"
+          ],
+          "answer": "didn't travel",
+          "explain": {
+            "ua": "Didn't travel.",
+            "ru": "Didn't travel."
+          },
+          "id": "a1-u25-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "He ___ dinner. He was tired.",
+          "options": [
+            "didn't cook",
+            "doesn't cooked",
+            "not cooked"
+          ],
+          "answer": "didn't cook",
+          "explain": {
+            "ua": "Didn't cook.",
+            "ru": "Didn't cook."
+          },
+          "id": "a1-u25-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "past-simple-negative",
+          "question": "They ___ play yesterday. (not)",
+          "answer": "didn't",
+          "accept": [
+            "did not"
+          ],
+          "explain": {
+            "ua": "Didn't — для всіх.",
+            "ru": "Didn't — для всех."
+          },
+          "id": "a1-u25-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-negative",
+          "sentence": "I didn't watched TV.",
+          "answer": "I didn't watch TV.",
+          "accept": [
+            "I did not watch TV."
+          ],
+          "explain": {
+            "ua": "Після didn't — без -ed.",
+            "ru": "После didn't — без -ed."
+          },
+          "id": "a1-u25-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-negative",
+          "sentence": "She doesn't called me yesterday.",
+          "answer": "She didn't call me yesterday.",
+          "accept": [
+            "She did not call me yesterday."
+          ],
+          "explain": {
+            "ua": "Yesterday → didn't.",
+            "ru": "Yesterday → didn't."
+          },
+          "id": "a1-u25-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "past-simple-negative",
+          "words": [
+            "work",
+            "walk",
+            "to",
+            "didn't",
+            "We"
+          ],
+          "answer": "We didn't walk to work",
+          "explain": {
+            "ua": "We → didn't walk → to work.",
+            "ru": "We → didn't walk → to work."
+          },
+          "id": "a1-u25-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-negative",
+          "prompt": {
+            "ua": "Я не прибирала квартиру.",
+            "ru": "Я не убирала квартиру."
+          },
+          "answer": "I didn't clean the flat.",
+          "accept": [
+            "I did not clean the flat.",
+            "I didn't clean the apartment."
+          ],
+          "explain": {
+            "ua": "Didn't + clean.",
+            "ru": "Didn't + clean."
+          },
+          "id": "a1-u25-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u25-l04",
+      "title": {
+        "en": "Did…? and short answers",
+        "ua": "Did…? і короткі відповіді",
+        "ru": "Did…? и короткие ответы"
+      },
+      "recap": {
+        "from": "a1-u25-l03",
+        "note": {
+          "ua": "Згадаймо: didn't + дієслово (без -ed!)",
+          "ru": "Вспомним: didn't + глагол (без -ed!)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-negative",
+            "question": "I ___ him yesterday.",
+            "options": [
+              "didn't call",
+              "didn't called",
+              "don't called"
+            ],
+            "answer": "didn't call",
+            "explain": {
+              "ua": "Didn't + без -ed.",
+              "ru": "Didn't + без -ed."
+            },
+            "id": "a1-u25-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-simple-negative",
+            "question": "They ___ play yesterday. (not)",
+            "answer": "didn't",
+            "accept": [
+              "did not"
+            ],
+            "explain": {
+              "ua": "Didn't — для всіх.",
+              "ru": "Didn't — для всех."
+            },
+            "id": "a1-u25-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Did + хто + дієслово? · Yes, I did. / No, I didn't.",
+          "ru": "Did + кто + глагол? · Yes, I did. / No, I didn't."
+        },
+        "explain": {
+          "ua": "Питання: Did на початок, дієслово — базове: Did you call? Відповідь: Yes, I did. / No, she didn't. З питальними словами: What did you do?",
+          "ru": "Вопрос: Did в начало, глагол — базовый: Did you call? Ответ: Yes, I did. / No, she didn't. С вопросительными словами: What did you do?"
+        },
+        "examples": [
+          {
+            "en": "Did you watch the match? — Yes, I did.",
+            "ua": "Ти дивився матч? — Так.",
+            "ru": "Ты смотрел матч? — Да."
+          },
+          {
+            "en": "Did she call? — No, she didn't.",
+            "ua": "Вона дзвонила? — Ні.",
+            "ru": "Она звонила? — Нет."
+          },
+          {
+            "en": "What did you do yesterday?",
+            "ua": "Що ти робив учора?",
+            "ru": "Что ты делал вчера?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "___ you call your mum?",
+          "options": [
+            "Did",
+            "Do",
+            "Were"
+          ],
+          "answer": "Did",
+          "explain": {
+            "ua": "Минуле → Did.",
+            "ru": "Прошлое → Did."
+          },
+          "id": "a1-u25-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did she ___ the flat?",
+          "options": [
+            "clean",
+            "cleaned",
+            "cleans"
+          ],
+          "answer": "clean",
+          "explain": {
+            "ua": "Після did — базова форма.",
+            "ru": "После did — базовая форма."
+          },
+          "id": "a1-u25-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did they dance? — Yes, they ___.",
+          "options": [
+            "did",
+            "danced",
+            "were"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Yes, they did.",
+            "ru": "Yes, they did."
+          },
+          "id": "a1-u25-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did he cook? — No, he ___.",
+          "options": [
+            "didn't",
+            "doesn't",
+            "wasn't"
+          ],
+          "answer": "didn't",
+          "explain": {
+            "ua": "No, he didn't.",
+            "ru": "No, he didn't."
+          },
+          "id": "a1-u25-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "What ___ you do last weekend?",
+          "options": [
+            "did",
+            "do",
+            "were"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Минуле → did.",
+            "ru": "Прошлое → did."
+          },
+          "id": "a1-u25-l04-e05"
+        },
+        {
+          "type": "match",
+          "topic": "past-simple-questions",
+          "pairs": [
+            {
+              "left": "Did you walk?",
+              "right": "Yes, I did."
+            },
+            {
+              "left": "Was it cold?",
+              "right": "No, it wasn't."
+            },
+            {
+              "left": "Did she call?",
+              "right": "No, she didn't."
+            },
+            {
+              "left": "Were you there?",
+              "right": "Yes, I was."
+            }
+          ],
+          "explain": {
+            "ua": "Did → did, was → was.",
+            "ru": "Did → did, was → was."
+          },
+          "id": "a1-u25-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-questions",
+          "sentence": "Did you watched the film?",
+          "answer": "Did you watch the film?",
+          "accept": [],
+          "explain": {
+            "ua": "Після did — без -ed.",
+            "ru": "После did — без -ed."
+          },
+          "id": "a1-u25-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-questions",
+          "sentence": "Where you lived in 2020?",
+          "answer": "Where did you live in 2020?",
+          "accept": [],
+          "explain": {
+            "ua": "Не забувай did.",
+            "ru": "Не забывай did."
+          },
+          "id": "a1-u25-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-questions",
+          "prompt": {
+            "ua": "Що ти робила вчора?",
+            "ru": "Что ты делала вчера?"
+          },
+          "answer": "What did you do yesterday?",
+          "accept": [],
+          "explain": {
+            "ua": "What did you do…?",
+            "ru": "What did you do…?"
+          },
+          "id": "a1-u25-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u25-l05",
+      "title": {
+        "en": "Practice: my weekend",
+        "ua": "Практика: мої вихідні",
+        "ru": "Практика: мои выходные"
+      },
+      "recap": {
+        "from": "a1-u25-l04",
+        "note": {
+          "ua": "Згадаймо: Did + хто + дієслово? · Yes, I did. / No, I didn't.",
+          "ru": "Вспомним: Did + кто + глагол? · Yes, I did. / No, I didn't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "___ you call your mum?",
+            "options": [
+              "Did",
+              "Do",
+              "Were"
+            ],
+            "answer": "Did",
+            "explain": {
+              "ua": "Минуле → Did.",
+              "ru": "Прошлое → Did."
+            },
+            "id": "a1-u25-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "What ___ you do last weekend?",
+            "options": [
+              "did",
+              "do",
+              "were"
+            ],
+            "answer": "did",
+            "explain": {
+              "ua": "Минуле → did.",
+              "ru": "Прошлое → did."
+            },
+            "id": "a1-u25-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple",
+          "question": "Last Saturday we ___ my grandma.",
+          "options": [
+            "visited",
+            "visit",
+            "visits"
+          ],
+          "answer": "visited",
+          "explain": {
+            "ua": "Last Saturday → -ed.",
+            "ru": "Last Saturday → -ed."
+          },
+          "id": "a1-u25-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple",
+          "question": "___ you travel last summer?",
+          "options": [
+            "Did",
+            "Were",
+            "Do"
+          ],
+          "answer": "Did",
+          "explain": {
+            "ua": "Did + travel.",
+            "ru": "Did + travel."
+          },
+          "id": "a1-u25-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Max worked on Saturday.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Max and Kate visited their parents.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What did they do in the evening?",
+              "options": [
+                "watched a film",
+                "played tennis",
+                "cooked"
+              ],
+              "answer": "watched a film"
+            }
+          ],
+          "text": "On Saturday Max didn't work. He cleaned the flat and walked in the park with his dog. On Sunday Max and his wife Kate visited their parents. Kate's mum cooked a big lunch. In the evening they watched a film. They didn't go to bed late.",
+          "explain": {
+            "ua": "Saturday — cleaned, walked; Sunday — visited parents; evening — film.",
+            "ru": "Saturday — cleaned, walked; Sunday — visited parents; evening — film."
+          },
+          "id": "a1-u25-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-simple",
+          "bank": [
+            "cleaned",
+            "walked",
+            "visited",
+            "watched"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Max ___ the flat.",
+            "He ___ in the park.",
+            "They ___ their parents.",
+            "They ___ a film."
+          ],
+          "answers": [
+            "cleaned",
+            "walked",
+            "visited",
+            "watched"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u25-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple",
+          "question": "Did Max work on Saturday? — No, he ___.",
+          "options": [
+            "didn't",
+            "wasn't",
+            "doesn't"
+          ],
+          "answer": "didn't",
+          "explain": {
+            "ua": "No, he didn't.",
+            "ru": "No, he didn't."
+          },
+          "id": "a1-u25-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple",
+          "sentence": "We didn't went to bed late.",
+          "answer": "We didn't go to bed late.",
+          "accept": [],
+          "explain": {
+            "ua": "Після didn't — базова форма.",
+            "ru": "После didn't — базовая форма."
+          },
+          "id": "a1-u25-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple",
+          "sentence": "Yesterday I stay at home.",
+          "answer": "Yesterday I stayed at home.",
+          "accept": [
+            "I stayed at home yesterday."
+          ],
+          "explain": {
+            "ua": "Yesterday → -ed.",
+            "ru": "Yesterday → -ed."
+          },
+          "id": "a1-u25-l05-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "do",
+            "What",
+            "weekend",
+            "you",
+            "last",
+            "did"
+          ],
+          "answer": "What did you do last weekend",
+          "explain": {
+            "ua": "What → did → you → do → last weekend?",
+            "ru": "What → did → you → do → last weekend?"
+          },
+          "id": "a1-u25-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "past-simple",
+          "audio_text": "We danced all night.",
+          "options": [
+            "We danced all night.",
+            "We dance all night.",
+            "We danced all day."
+          ],
+          "answer": "We danced all night.",
+          "audio": "",
+          "explain": {
+            "ua": "Danced — «да:нст».",
+            "ru": "Danced — «да:нст»."
+          },
+          "id": "a1-u25-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple",
+          "prompt": {
+            "ua": "Минулого тижня ми не подорожували.",
+            "ru": "На прошлой неделе мы не путешествовали."
+          },
+          "answer": "We didn't travel last week.",
+          "accept": [
+            "We did not travel last week.",
+            "Last week we didn't travel."
+          ],
+          "explain": {
+            "ua": "Didn't + travel.",
+            "ru": "Didn't + travel."
+          },
+          "id": "a1-u25-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "Yesterday she ___ dinner.",
+      "options": [
+        "cooked",
+        "cook",
+        "cooks"
+      ],
+      "answer": "cooked",
+      "explain": {
+        "ua": "Yesterday → -ed.",
+        "ru": "Yesterday → -ed."
+      },
+      "id": "a1-u25-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "They ___ (study) a lot.",
+      "options": [
+        "studied",
+        "studyed",
+        "study"
+      ],
+      "answer": "studied",
+      "explain": {
+        "ua": "y → -ied.",
+        "ru": "y → -ied."
+      },
+      "id": "a1-u25-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "I didn't ___ him.",
+      "options": [
+        "call",
+        "called",
+        "calls"
+      ],
+      "answer": "call",
+      "explain": {
+        "ua": "Після didn't — базова.",
+        "ru": "После didn't — базовая."
+      },
+      "id": "a1-u25-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "___ you watch the match?",
+      "options": [
+        "Did",
+        "Do",
+        "Were"
+      ],
+      "answer": "Did",
+      "explain": {
+        "ua": "Did you…?",
+        "ru": "Did you…?"
+      },
+      "id": "a1-u25-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "Did she dance? — Yes, she ___.",
+      "options": [
+        "did",
+        "danced",
+        "was"
+      ],
+      "answer": "did",
+      "explain": {
+        "ua": "Yes, she did.",
+        "ru": "Yes, she did."
+      },
+      "id": "a1-u25-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "past-simple",
+      "question": "The film ___ at 8. (start)",
+      "answer": "started",
+      "accept": [],
+      "explain": {
+        "ua": "+ed.",
+        "ru": "+ed."
+      },
+      "id": "a1-u25-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "past-simple",
+      "question": "We ___ in a small flat. (live)",
+      "answer": "lived",
+      "accept": [],
+      "explain": {
+        "ua": "-e → +d.",
+        "ru": "-e → +d."
+      },
+      "id": "a1-u25-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "past-simple-regular",
+      "pairs": [
+        {
+          "left": "stop",
+          "right": "stopped"
+        },
+        {
+          "left": "travel",
+          "right": "travelled"
+        },
+        {
+          "left": "play",
+          "right": "played"
+        },
+        {
+          "left": "cry",
+          "right": "cried"
+        }
+      ],
+      "explain": {
+        "ua": "-ed.",
+        "ru": "-ed."
+      },
+      "id": "a1-u25-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "past-simple",
+      "sentence": "Did you cleaned the kitchen?",
+      "answer": "Did you clean the kitchen?",
+      "accept": [],
+      "explain": {
+        "ua": "Після did — без -ed.",
+        "ru": "После did — без -ed."
+      },
+      "id": "a1-u25-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "past-simple",
+      "sentence": "He didn't wanted coffee.",
+      "answer": "He didn't want coffee.",
+      "accept": [
+        "He did not want coffee."
+      ],
+      "explain": {
+        "ua": "Після didn't — без -ed.",
+        "ru": "После didn't — без -ed."
+      },
+      "id": "a1-u25-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "past-simple",
+      "prompt": {
+        "ua": "Учора ми гуляли в парку.",
+        "ru": "Вчера мы гуляли в парке."
+      },
+      "answer": "We walked in the park yesterday.",
+      "accept": [
+        "Yesterday we walked in the park."
+      ],
+      "explain": {
+        "ua": "Walk → walked.",
+        "ru": "Walk → walked."
+      },
+      "id": "a1-u25-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "past-simple",
+      "audio_text": "I visited my grandparents.",
+      "options": [
+        "I visited my grandparents.",
+        "I visit my grandparents.",
+        "I visited my parents."
+      ],
+      "answer": "I visited my grandparents.",
+      "audio": "",
+      "explain": {
+        "ua": "Visited — /ɪd/.",
+        "ru": "Visited — /ɪd/."
+      },
+      "id": "a1-u25-cp12"
+    }
+  ]
+}

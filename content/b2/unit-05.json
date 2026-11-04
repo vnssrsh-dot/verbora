@@ -1,0 +1,1015 @@
+{
+  "id": "b2-u05",
+  "level": "B2",
+  "order": 5,
+  "kind": "grammar",
+  "title": {
+    "en": "Third conditional",
+    "ua": "Third conditional",
+    "ru": "Third conditional"
+  },
+  "rule": {
+    "formula": {
+      "ua": "If + had + V3, would have + V3 — нереальне минуле",
+      "ru": "If + had + V3, would have + V3 — нереальное прошлое"
+    },
+    "explain": {
+      "ua": "Уявляємо інше минуле: If I had known, I would have helped (але я не знав і не допоміг). Змінити вже нічого не можна — це про жаль, докори, «якби тоді…».",
+      "ru": "Представляем другое прошлое: If I had known, I would have helped (но я не знал и не помог). Изменить уже ничего нельзя — это о сожалении, упрёках, «если бы тогда…»."
+    },
+    "examples": [
+      {
+        "en": "If I had left earlier, I wouldn't have missed the train.",
+        "ua": "Якби я вийшов раніше, я б не спізнився на потяг.",
+        "ru": "Если бы я вышел раньше, я бы не опоздал на поезд."
+      },
+      {
+        "en": "If she hadn't called, I would have forgotten.",
+        "ua": "Якби вона не подзвонила, я б забув.",
+        "ru": "Если бы она не позвонила, я бы забыл."
+      },
+      {
+        "en": "What would you have done if you'd lost your passport?",
+        "ua": "Що б ти зробив, якби загубив паспорт?",
+        "ru": "Что бы ты сделал, если бы потерял паспорт?"
+      }
+    ],
+    "compare": {
+      "ua": "В українській «якби я знав» — і про зараз, і про минуле. В англійській: про зараз — If I knew, про минуле — If I had known.",
+      "ru": "В русском «если бы я знал» — и о сейчас, и о прошлом. В английском: о сейчас — If I knew, о прошлом — If I had known."
+    }
+  },
+  "vocab": [
+    {
+      "word": "would have",
+      "ipa": "/ˈwʊd əv/",
+      "ua": "б (про минуле)",
+      "ru": "бы (о прошлом)",
+      "example": "I would have come.",
+      "audio": ""
+    },
+    {
+      "word": "could have",
+      "ipa": "/ˈkʊd əv/",
+      "ua": "міг би (у минулому)",
+      "ru": "мог бы (в прошлом)",
+      "example": "We could have won.",
+      "audio": ""
+    },
+    {
+      "word": "might have",
+      "ipa": "/ˈmaɪt əv/",
+      "ua": "можливо, б (у минулому)",
+      "ru": "возможно, бы (в прошлом)",
+      "example": "You might have been hurt.",
+      "audio": ""
+    },
+    {
+      "word": "regret",
+      "ipa": "/rɪˈɡret/",
+      "ua": "шкодувати",
+      "ru": "сожалеть",
+      "example": "I regret it.",
+      "audio": ""
+    },
+    {
+      "word": "miss",
+      "ipa": "/mɪs/",
+      "ua": "пропустити, не встигнути",
+      "ru": "пропустить, не успеть",
+      "example": "I missed my flight.",
+      "audio": ""
+    },
+    {
+      "word": "accident",
+      "ipa": "/ˈæksɪdənt/",
+      "ua": "аварія",
+      "ru": "авария",
+      "example": "If he'd been careful, there'd have been no accident.",
+      "audio": ""
+    },
+    {
+      "word": "warn",
+      "ipa": "/wɔːn/",
+      "ua": "попереджати",
+      "ru": "предупреждать",
+      "example": "If you'd warned me…",
+      "audio": ""
+    },
+    {
+      "word": "chance",
+      "ipa": "/tʃɑːns/",
+      "ua": "шанс",
+      "ru": "шанс",
+      "example": "If I'd had the chance…",
+      "audio": ""
+    },
+    {
+      "word": "blame",
+      "ipa": "/bleɪm/",
+      "ua": "звинувачувати",
+      "ru": "винить",
+      "example": "Don't blame yourself.",
+      "audio": ""
+    },
+    {
+      "word": "set the alarm",
+      "ipa": "/ˌset ði əˈlɑːm/",
+      "ua": "поставити будильник",
+      "ru": "поставить будильник",
+      "example": "If I'd set the alarm…",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u05-l01",
+      "title": {
+        "en": "Imaginary past",
+        "ua": "Уявне минуле",
+        "ru": "Воображаемое прошлое"
+      },
+      "recap": {
+        "from": "b2-u04-l03",
+        "note": {
+          "ua": "Згадаймо: Подаємо заявку",
+          "ru": "Вспомним: Подаём заявку"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Please send your CV and a ___ letter.",
+            "options": [
+              "cover",
+              "reference",
+              "notice"
+            ],
+            "answer": "cover",
+            "explain": {
+              "ua": "Cover letter.",
+              "ru": "Cover letter."
+            },
+            "id": "b2-u05-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Out of 100 people, they chose 5. I was ___ !",
+            "options": [
+              "shortlisted",
+              "resigned",
+              "hired off"
+            ],
+            "answer": "shortlisted",
+            "explain": {
+              "ua": "Shortlisted.",
+              "ru": "Shortlisted."
+            },
+            "id": "b2-u05-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If + had V3, would have V3 · скорочення: If I'd known, I'd have…",
+          "ru": "If + had V3, would have V3 · сокращения: If I'd known, I'd have…"
+        },
+        "explain": {
+          "ua": "Обидві частини — Perfect. If-частина: had + V3. Інша: would have + V3. У розмові: I'd have, wouldn't have (звучить як «вуднтев»).",
+          "ru": "Обе части — Perfect. If-часть: had + V3. Другая: would have + V3. В разговоре: I'd have, wouldn't have (звучит как «вуднтев»)."
+        },
+        "examples": [
+          {
+            "en": "If I'd seen you, I'd have said hello.",
+            "ua": "Якби я тебе побачив, я б привітався.",
+            "ru": "Если бы я тебя увидел, я бы поздоровался."
+          },
+          {
+            "en": "If we had taken a taxi, we would have arrived on time.",
+            "ua": "Якби ми взяли таксі, ми б приїхали вчасно.",
+            "ru": "Если бы мы взяли такси, мы бы приехали вовремя."
+          },
+          {
+            "en": "She wouldn't have passed if she hadn't studied.",
+            "ua": "Вона б не склала, якби не вчилася.",
+            "ru": "Она бы не сдала, если бы не училась."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "If I ___ about the party, I would have come.",
+          "options": [
+            "had known",
+            "knew",
+            "would know"
+          ],
+          "answer": "had known",
+          "explain": {
+            "ua": "If + had V3.",
+            "ru": "If + had V3."
+          },
+          "id": "b2-u05-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "If you had told me, I ___ you.",
+          "options": [
+            "would have helped",
+            "would help",
+            "had helped"
+          ],
+          "answer": "would have helped",
+          "explain": {
+            "ua": "Would have + V3.",
+            "ru": "Would have + V3."
+          },
+          "id": "b2-u05-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "If she ___ the alarm, she wouldn't have overslept.",
+          "options": [
+            "had set",
+            "set",
+            "would set"
+          ],
+          "answer": "had set",
+          "explain": {
+            "ua": "Had set.",
+            "ru": "Had set."
+          },
+          "id": "b2-u05-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "We would have won if Max ___ injured.",
+          "options": [
+            "hadn't been",
+            "wasn't",
+            "wouldn't be"
+          ],
+          "answer": "hadn't been",
+          "explain": {
+            "ua": "Hadn't been.",
+            "ru": "Hadn't been."
+          },
+          "id": "b2-u05-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "If they had left earlier, they ___ the plane.",
+          "options": [
+            "wouldn't have missed",
+            "didn't miss",
+            "won't miss"
+          ],
+          "answer": "wouldn't have missed",
+          "explain": {
+            "ua": "Wouldn't have + V3.",
+            "ru": "Wouldn't have + V3."
+          },
+          "id": "b2-u05-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "third-conditional",
+          "bank": [
+            "had known",
+            "would have",
+            "hadn't",
+            "'d have"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If I ___ , I'd have told you.",
+            "I ___ come if you'd invited me.",
+            "If he ___ been so rude, she'd have stayed.",
+            "If we'd had more time, we ___ visited the museum."
+          ],
+          "answers": [
+            "had known",
+            "would have",
+            "hadn't",
+            "'d have"
+          ],
+          "explain": {
+            "ua": "If + had V3; would have V3.",
+            "ru": "If + had V3; would have V3."
+          },
+          "id": "b2-u05-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "third-conditional",
+          "sentence": "If I would have known, I would have come.",
+          "answer": "If I had known, I would have come.",
+          "accept": [
+            "If I'd known, I'd have come."
+          ],
+          "explain": {
+            "ua": "Після if — had, не would have.",
+            "ru": "После if — had, не would have."
+          },
+          "id": "b2-u05-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "third-conditional",
+          "sentence": "If you had asked me, I would help you.",
+          "answer": "If you had asked me, I would have helped you.",
+          "accept": [
+            "If you'd asked me, I'd have helped you."
+          ],
+          "explain": {
+            "ua": "Минуле → would have V3.",
+            "ru": "Прошлое → would have V3."
+          },
+          "id": "b2-u05-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "third-conditional",
+          "prompt": {
+            "ua": "Якби я знала, я б тобі допомогла.",
+            "ru": "Если бы я знала, я бы тебе помогла."
+          },
+          "answer": "If I had known, I would have helped you.",
+          "accept": [
+            "If I'd known, I'd have helped you.",
+            "If I had known, I'd have helped you."
+          ],
+          "explain": {
+            "ua": "Third conditional.",
+            "ru": "Third conditional."
+          },
+          "id": "b2-u05-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u05-l02",
+      "title": {
+        "en": "Regrets and criticism",
+        "ua": "Жаль і докори",
+        "ru": "Сожаления и упрёки"
+      },
+      "recap": {
+        "from": "b2-u05-l01",
+        "note": {
+          "ua": "Згадаймо: If + had V3, would have V3 · скорочення: If I'd known, I'd have…",
+          "ru": "Вспомним: If + had V3, would have V3 · сокращения: If I'd known, I'd have…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "third-conditional",
+            "question": "If I ___ about the party, I would have come.",
+            "options": [
+              "had known",
+              "knew",
+              "would know"
+            ],
+            "answer": "had known",
+            "explain": {
+              "ua": "If + had V3.",
+              "ru": "If + had V3."
+            },
+            "id": "b2-u05-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "third-conditional",
+            "question": "If they had left earlier, they ___ the plane.",
+            "options": [
+              "wouldn't have missed",
+              "didn't miss",
+              "won't miss"
+            ],
+            "answer": "wouldn't have missed",
+            "explain": {
+              "ua": "Wouldn't have + V3.",
+              "ru": "Wouldn't have + V3."
+            },
+            "id": "b2-u05-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If only / I wish + had V3 · could have / might have — інші можливості в минулому",
+          "ru": "If only / I wish + had V3 · could have / might have — другие возможности в прошлом"
+        },
+        "explain": {
+          "ua": "Third conditional — часто про жаль: If I'd studied harder, I could have got a better job. Might have — можливо: If you'd driven faster, you might have crashed.",
+          "ru": "Third conditional — часто о сожалении: If I'd studied harder, I could have got a better job. Might have — возможно: If you'd driven faster, you might have crashed."
+        },
+        "examples": [
+          {
+            "en": "If you'd listened to me, this wouldn't have happened!",
+            "ua": "Якби ти мене послухав, цього б не сталося!",
+            "ru": "Если бы ты меня послушал, этого бы не случилось!"
+          },
+          {
+            "en": "If I'd had the chance, I could have studied abroad.",
+            "ua": "Якби в мене був шанс, я міг би вчитися за кордоном.",
+            "ru": "Если бы у меня был шанс, я мог бы учиться за границей."
+          },
+          {
+            "en": "If she hadn't been wearing a helmet, she might have been badly hurt.",
+            "ua": "Якби вона не була в шоломі, вона могла б сильно травмуватися.",
+            "ru": "Если бы она не была в шлеме, она могла бы сильно пострадать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "third-conditional-regret",
+          "question": "If you ___ me, I wouldn't have made this mistake!",
+          "options": [
+            "had warned",
+            "warned",
+            "would warn"
+          ],
+          "answer": "had warned",
+          "explain": {
+            "ua": "Had warned.",
+            "ru": "Had warned."
+          },
+          "id": "b2-u05-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional-regret",
+          "question": "If I'd practised more, I ___ won the competition.",
+          "options": [
+            "could have",
+            "can",
+            "could"
+          ],
+          "answer": "could have",
+          "explain": {
+            "ua": "Could have + V3.",
+            "ru": "Could have + V3."
+          },
+          "id": "b2-u05-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional-regret",
+          "question": "If he hadn't been so careful, he ___ have had an accident.",
+          "options": [
+            "might",
+            "may",
+            "will"
+          ],
+          "answer": "might",
+          "explain": {
+            "ua": "Might have.",
+            "ru": "Might have."
+          },
+          "id": "b2-u05-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional-regret",
+          "question": "If we ___ booked earlier, we'd have got cheaper tickets.",
+          "options": [
+            "had",
+            "have",
+            "would"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Had booked.",
+            "ru": "Had booked."
+          },
+          "id": "b2-u05-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "third-conditional-regret",
+          "pairs": [
+            {
+              "left": "I missed the bus.",
+              "right": "If I'd run, I'd have caught it."
+            },
+            {
+              "left": "I failed the test.",
+              "right": "If I'd studied, I would have passed."
+            },
+            {
+              "left": "We got lost.",
+              "right": "If we'd taken a map, we wouldn't have got lost."
+            },
+            {
+              "left": "I didn't call her.",
+              "right": "If I'd called her, she wouldn't have been upset."
+            }
+          ],
+          "explain": {
+            "ua": "Факт → уявне минуле.",
+            "ru": "Факт → воображаемое прошлое."
+          },
+          "id": "b2-u05-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "third-conditional-regret",
+          "sentence": "If I studied more, I would have passed.",
+          "answer": "If I had studied more, I would have passed.",
+          "accept": [
+            "If I'd studied more, I'd have passed."
+          ],
+          "explain": {
+            "ua": "Минуле → had studied.",
+            "ru": "Прошлое → had studied."
+          },
+          "id": "b2-u05-l02-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "third-conditional-regret",
+          "audio_text": "If you'd listened, this wouldn't have happened.",
+          "options": [
+            "If you'd listened, this wouldn't have happened.",
+            "If you listened, this wouldn't happen.",
+            "If you'd listened, this won't have happened."
+          ],
+          "answer": "If you'd listened, this wouldn't have happened.",
+          "audio": "",
+          "explain": {
+            "ua": "Wouldn't have happened.",
+            "ru": "Wouldn't have happened."
+          },
+          "id": "b2-u05-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "third-conditional-regret",
+          "words": [
+            "played",
+            "we",
+            "if",
+            "had",
+            "could",
+            "better",
+            "won",
+            "We",
+            "have"
+          ],
+          "answer": "We could have won if we had played better",
+          "explain": {
+            "ua": "Could have won → if we had played better.",
+            "ru": "Could have won → if we had played better."
+          },
+          "id": "b2-u05-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "third-conditional-regret",
+          "prompt": {
+            "ua": "Якби ти мене попередив, я б не прийшла.",
+            "ru": "Если бы ты меня предупредил, я бы не пришла."
+          },
+          "answer": "If you had warned me, I wouldn't have come.",
+          "accept": [
+            "If you'd warned me, I wouldn't have come.",
+            "If you had warned me, I would not have come."
+          ],
+          "explain": {
+            "ua": "Third conditional.",
+            "ru": "Third conditional."
+          },
+          "id": "b2-u05-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u05-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u05-l02",
+        "note": {
+          "ua": "Згадаймо: If only / I wish + had V3 · could have / might have — інші можливості в минулому",
+          "ru": "Вспомним: If only / I wish + had V3 · could have / might have — другие возможности в прошлом"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "third-conditional-regret",
+            "question": "If you ___ me, I wouldn't have made this mistake!",
+            "options": [
+              "had warned",
+              "warned",
+              "would warn"
+            ],
+            "answer": "had warned",
+            "explain": {
+              "ua": "Had warned.",
+              "ru": "Had warned."
+            },
+            "id": "b2-u05-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "third-conditional-regret",
+            "question": "If we ___ booked earlier, we'd have got cheaper tickets.",
+            "options": [
+              "had",
+              "have",
+              "would"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Had booked.",
+              "ru": "Had booked."
+            },
+            "id": "b2-u05-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Taras missed his flight.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "If he had set two alarms, he would have missed the flight anyway.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What happened because he missed the flight?",
+              "options": [
+                "he met his future wife",
+                "he lost his job",
+                "he went home"
+              ],
+              "answer": "he met his future wife"
+            }
+          ],
+          "text": "Five years ago I missed a flight to Berlin because I hadn't set my alarm. I was so angry! I went to the airport café, and there I met Lena. If I had set the alarm, I would have caught the plane, and I would never have met her. We got married two years later. Sometimes mistakes are the best things that happen to us!",
+          "explain": {
+            "ua": "Missed flight; met wife at airport café; if he'd caught it, he wouldn't have met her.",
+            "ru": "Missed flight; met wife at airport café; if he'd caught it, he wouldn't have met her."
+          },
+          "id": "b2-u05-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "third-conditional",
+          "bank": [
+            "hadn't set",
+            "had set",
+            "would have caught",
+            "would never have met"
+          ],
+          "reuse": false,
+          "sentences": [
+            "He missed the flight because he ___ his alarm.",
+            "If he ___ the alarm,",
+            "he ___ the plane,",
+            "and he ___ Lena."
+          ],
+          "answers": [
+            "hadn't set",
+            "had set",
+            "would have caught",
+            "would never have met"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u05-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "If it ___ so cold, we would have gone to the beach.",
+          "options": [
+            "hadn't been",
+            "wasn't",
+            "isn't"
+          ],
+          "answer": "hadn't been",
+          "explain": {
+            "ua": "Hadn't been.",
+            "ru": "Hadn't been."
+          },
+          "id": "b2-u05-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "third-conditional",
+          "question": "I ___ you if I had had your number.",
+          "options": [
+            "would have called",
+            "would call",
+            "called"
+          ],
+          "answer": "would have called",
+          "explain": {
+            "ua": "Would have called.",
+            "ru": "Would have called."
+          },
+          "id": "b2-u05-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "third-conditional",
+          "sentence": "If I would have seen him, I would have told him.",
+          "answer": "If I had seen him, I would have told him.",
+          "accept": [],
+          "explain": {
+            "ua": "If + had.",
+            "ru": "If + had."
+          },
+          "id": "b2-u05-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "third-conditional",
+          "sentence": "If she hadn't helped me, I didn't finish.",
+          "answer": "If she hadn't helped me, I wouldn't have finished.",
+          "accept": [
+            "If she hadn't helped me, I would not have finished."
+          ],
+          "explain": {
+            "ua": "Wouldn't have finished.",
+            "ru": "Wouldn't have finished."
+          },
+          "id": "b2-u05-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "had",
+            "would",
+            "If",
+            "I",
+            "I",
+            "come",
+            "known",
+            "have"
+          ],
+          "answer": "If I had known I would have come",
+          "explain": {
+            "ua": "If I had known → I would have come.",
+            "ru": "If I had known → I would have come."
+          },
+          "id": "b2-u05-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "third-conditional",
+          "audio_text": "I would never have met her.",
+          "options": [
+            "I would never have met her.",
+            "I would never meet her.",
+            "I would never have made her."
+          ],
+          "answer": "I would never have met her.",
+          "audio": "",
+          "explain": {
+            "ua": "Would never have met.",
+            "ru": "Would never have met."
+          },
+          "id": "b2-u05-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "third-conditional",
+          "prompt": {
+            "ua": "Якби не дощ, ми б пішли на прогулянку.",
+            "ru": "Если бы не дождь, мы бы пошли гулять."
+          },
+          "answer": "If it hadn't rained, we would have gone for a walk.",
+          "accept": [
+            "If it hadn't been raining, we would have gone for a walk.",
+            "If it hadn't rained, we'd have gone for a walk."
+          ],
+          "explain": {
+            "ua": "Third conditional.",
+            "ru": "Third conditional."
+          },
+          "id": "b2-u05-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "third-conditional",
+      "question": "If I ___ earlier, I'd have caught the bus.",
+      "options": [
+        "had left",
+        "left",
+        "would leave"
+      ],
+      "answer": "had left",
+      "explain": {
+        "ua": "Had left.",
+        "ru": "Had left."
+      },
+      "id": "b2-u05-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "third-conditional",
+      "question": "If you had asked, I ___ you.",
+      "options": [
+        "would have helped",
+        "would help",
+        "helped"
+      ],
+      "answer": "would have helped",
+      "explain": {
+        "ua": "Would have helped.",
+        "ru": "Would have helped."
+      },
+      "id": "b2-u05-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "third-conditional-regret",
+      "question": "If we'd booked earlier, we ___ got a better room.",
+      "options": [
+        "could have",
+        "can",
+        "could"
+      ],
+      "answer": "could have",
+      "explain": {
+        "ua": "Could have.",
+        "ru": "Could have."
+      },
+      "id": "b2-u05-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "third-conditional",
+      "question": "She wouldn't have failed if she ___ .",
+      "options": [
+        "had studied",
+        "studied",
+        "would study"
+      ],
+      "answer": "had studied",
+      "explain": {
+        "ua": "Had studied.",
+        "ru": "Had studied."
+      },
+      "id": "b2-u05-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "third-conditional-regret",
+      "question": "If he hadn't been wearing a seat belt, he ___ have died.",
+      "options": [
+        "might",
+        "will",
+        "may"
+      ],
+      "answer": "might",
+      "explain": {
+        "ua": "Might have.",
+        "ru": "Might have."
+      },
+      "id": "b2-u05-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "third-conditional",
+      "question": "If I had ___ (know), I would have come.",
+      "answer": "known",
+      "accept": [],
+      "explain": {
+        "ua": "V3 — known.",
+        "ru": "V3 — known."
+      },
+      "id": "b2-u05-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "third-conditional",
+      "question": "If you hadn't called, I ___ have forgotten.",
+      "answer": "would",
+      "accept": [
+        "'d"
+      ],
+      "explain": {
+        "ua": "Would have.",
+        "ru": "Would have."
+      },
+      "id": "b2-u05-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "third-conditional",
+      "sentence": "If I would have had money, I would have bought it.",
+      "answer": "If I had had money, I would have bought it.",
+      "accept": [
+        "If I'd had money, I'd have bought it."
+      ],
+      "explain": {
+        "ua": "If + had had.",
+        "ru": "If + had had."
+      },
+      "id": "b2-u05-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "third-conditional",
+      "sentence": "If we had won, we would celebrate all night.",
+      "answer": "If we had won, we would have celebrated all night.",
+      "accept": [
+        "If we'd won, we'd have celebrated all night."
+      ],
+      "explain": {
+        "ua": "Would have + V3.",
+        "ru": "Would have + V3."
+      },
+      "id": "b2-u05-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "third-conditional-regret",
+      "words": [
+        "listened",
+        "you",
+        "happened",
+        "not",
+        "If",
+        "this",
+        "have",
+        "had",
+        "would"
+      ],
+      "answer": "If you had listened this would not have happened",
+      "explain": {
+        "ua": "If you had listened → this would not have happened.",
+        "ru": "If you had listened → this would not have happened."
+      },
+      "id": "b2-u05-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "third-conditional",
+      "prompt": {
+        "ua": "Якби я тебе побачила, я б привіталася.",
+        "ru": "Если бы я тебя увидела, я бы поздоровалась."
+      },
+      "answer": "If I had seen you, I would have said hello.",
+      "accept": [
+        "If I'd seen you, I'd have said hello.",
+        "If I had seen you, I'd have said hello."
+      ],
+      "explain": {
+        "ua": "Third conditional.",
+        "ru": "Third conditional."
+      },
+      "id": "b2-u05-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "third-conditional",
+      "audio_text": "If I'd known, I'd have told you.",
+      "options": [
+        "If I'd known, I'd have told you.",
+        "If I knew, I'd tell you.",
+        "If I'd known, I'll have told you."
+      ],
+      "answer": "If I'd known, I'd have told you.",
+      "audio": "",
+      "explain": {
+        "ua": "Third conditional.",
+        "ru": "Third conditional."
+      },
+      "id": "b2-u05-cp12"
+    }
+  ]
+}

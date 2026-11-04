@@ -1,0 +1,1542 @@
+{
+  "id": "a2-u12",
+  "level": "A2",
+  "order": 12,
+  "kind": "vocab",
+  "title": {
+    "en": "Weather and seasons",
+    "ua": "Погода і пори року",
+    "ru": "Погода и времена года"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "weather",
+      "ipa": "/ˈweðə/",
+      "ua": "погода",
+      "ru": "погода",
+      "example": "What's the weather like?",
+      "audio": ""
+    },
+    {
+      "word": "sunny",
+      "ipa": "/ˈsʌni/",
+      "ua": "сонячно",
+      "ru": "солнечно",
+      "example": "It's sunny today.",
+      "audio": ""
+    },
+    {
+      "word": "cloudy",
+      "ipa": "/ˈklaʊdi/",
+      "ua": "хмарно",
+      "ru": "облачно",
+      "example": "It's cloudy.",
+      "audio": ""
+    },
+    {
+      "word": "rainy",
+      "ipa": "/ˈreɪni/",
+      "ua": "дощовий",
+      "ru": "дождливый",
+      "example": "a rainy day",
+      "audio": ""
+    },
+    {
+      "word": "windy",
+      "ipa": "/ˈwɪndi/",
+      "ua": "вітряно",
+      "ru": "ветрено",
+      "example": "It's very windy.",
+      "audio": ""
+    },
+    {
+      "word": "snowy",
+      "ipa": "/ˈsnəʊi/",
+      "ua": "сніжний",
+      "ru": "снежный",
+      "example": "a snowy winter",
+      "audio": ""
+    },
+    {
+      "word": "foggy",
+      "ipa": "/ˈfɒɡi/",
+      "ua": "туманно",
+      "ru": "туманно",
+      "example": "It's foggy this morning.",
+      "audio": ""
+    },
+    {
+      "word": "warm",
+      "ipa": "/wɔːm/",
+      "ua": "тепло",
+      "ru": "тепло",
+      "example": "It's warm today.",
+      "audio": ""
+    },
+    {
+      "word": "cool",
+      "ipa": "/kuːl/",
+      "ua": "прохолодно",
+      "ru": "прохладно",
+      "example": "a cool evening",
+      "audio": ""
+    },
+    {
+      "word": "freezing",
+      "ipa": "/ˈfriːzɪŋ/",
+      "ua": "дуже холодно, мороз",
+      "ru": "очень холодно, мороз",
+      "example": "It's freezing!",
+      "audio": ""
+    },
+    {
+      "word": "degrees",
+      "ipa": "/dɪˈɡriːz/",
+      "ua": "градуси",
+      "ru": "градусы",
+      "example": "It's 25 degrees.",
+      "audio": ""
+    },
+    {
+      "word": "forecast",
+      "ipa": "/ˈfɔːkɑːst/",
+      "ua": "прогноз",
+      "ru": "прогноз",
+      "example": "the weather forecast",
+      "audio": ""
+    },
+    {
+      "word": "storm",
+      "ipa": "/stɔːm/",
+      "ua": "буря, гроза",
+      "ru": "буря, гроза",
+      "example": "There's a storm.",
+      "audio": ""
+    },
+    {
+      "word": "umbrella",
+      "ipa": "/ʌmˈbrelə/",
+      "ua": "парасолька",
+      "ru": "зонт",
+      "example": "Take an umbrella.",
+      "audio": ""
+    },
+    {
+      "word": "sunglasses",
+      "ipa": "/ˈsʌnɡlɑːsɪz/",
+      "ua": "сонцезахисні окуляри",
+      "ru": "солнечные очки",
+      "example": "Don't forget your sunglasses.",
+      "audio": ""
+    },
+    {
+      "word": "wet",
+      "ipa": "/wet/",
+      "ua": "мокрий",
+      "ru": "мокрый",
+      "example": "I'm wet!",
+      "audio": ""
+    },
+    {
+      "word": "dry",
+      "ipa": "/draɪ/",
+      "ua": "сухий",
+      "ru": "сухой",
+      "example": "a dry summer",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u12-l01",
+      "title": {
+        "en": "What's the weather like?",
+        "ua": "Яка погода?",
+        "ru": "Какая погода?"
+      },
+      "recap": {
+        "from": "a2-u11-l05",
+        "note": {
+          "ua": "Згадаймо: вирішив раніше → going to · вирішую зараз → will · бачу ознаки → going to · думаю → will",
+          "ru": "Вспомним: решил раньше → going to · решаю сейчас → will · вижу признаки → going to · думаю → will"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-vs-going-to",
+            "question": "I've got the tickets. We ___ fly to Rome in June.",
+            "options": [
+              "are going to",
+              "will",
+              "'ll"
+            ],
+            "answer": "are going to",
+            "explain": {
+              "ua": "План уже є → going to.",
+              "ru": "План уже есть → going to."
+            },
+            "id": "a2-u12-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will-vs-going-to",
+            "question": "— Why are you buying paint? — I ___ paint my room.",
+            "options": [
+              "'m going to",
+              "'ll",
+              "will"
+            ],
+            "answer": "'m going to",
+            "explain": {
+              "ua": "План → going to.",
+              "ru": "План → going to."
+            },
+            "id": "a2-u12-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "sunny",
+              "right": {
+                "ua": "сонячно",
+                "ru": "солнечно"
+              }
+            },
+            {
+              "left": "cloudy",
+              "right": {
+                "ua": "хмарно",
+                "ru": "облачно"
+              }
+            },
+            {
+              "left": "windy",
+              "right": {
+                "ua": "вітряно",
+                "ru": "ветрено"
+              }
+            },
+            {
+              "left": "foggy",
+              "right": {
+                "ua": "туманно",
+                "ru": "туманно"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u12-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's the weather like? — It's ___.",
+          "options": [
+            "sunny",
+            "sun",
+            "a sun"
+          ],
+          "answer": "sunny",
+          "explain": {
+            "ua": "Про погоду — прикметник на -y: sunny, rainy.",
+            "ru": "О погоде — прилагательное на -y: sunny, rainy."
+          },
+          "id": "a2-u12-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I can't see anything. It's very ___.",
+          "options": [
+            "foggy",
+            "sunny",
+            "dry"
+          ],
+          "answer": "foggy",
+          "explain": {
+            "ua": "Foggy — туманно.",
+            "ru": "Foggy — туманно."
+          },
+          "id": "a2-u12-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Hold your hat! It's ___.",
+          "options": [
+            "windy",
+            "foggy",
+            "warm"
+          ],
+          "answer": "windy",
+          "explain": {
+            "ua": "Windy — вітряно.",
+            "ru": "Windy — ветрено."
+          },
+          "id": "a2-u12-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "sun",
+            "cloud",
+            "rain",
+            "wind"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ny → sunny",
+            "___y → cloudy",
+            "___y → rainy",
+            "___y → windy"
+          ],
+          "answers": [
+            "sun",
+            "cloud",
+            "rain",
+            "wind"
+          ],
+          "explain": {
+            "ua": "Іменник + -y = погода.",
+            "ru": "Существительное + -y = погода."
+          },
+          "id": "a2-u12-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Today is rain.",
+          "answer": "Today it's rainy.",
+          "accept": [
+            "It's raining today.",
+            "It's rainy today.",
+            "Today it is rainy."
+          ],
+          "explain": {
+            "ua": "Про погоду — It's + прикметник.",
+            "ru": "О погоде — It's + прилагательное."
+          },
+          "id": "a2-u12-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "What is the weather?",
+          "answer": "What's the weather like?",
+          "accept": [
+            "What is the weather like?"
+          ],
+          "explain": {
+            "ua": "Питаємо так: What's the weather like?",
+            "ru": "Спрашиваем так: What's the weather like?"
+          },
+          "id": "a2-u12-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈweðə/",
+          "options": [
+            "weather",
+            "water",
+            "winter"
+          ],
+          "answer": "weather",
+          "explain": {
+            "ua": "/ð/ — дзвінкий «з» між зубами.",
+            "ru": "/ð/ — звонкий «з» между зубами."
+          },
+          "id": "a2-u12-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Сьогодні хмарно.",
+            "ru": "Сегодня облачно."
+          },
+          "answer": "It's cloudy today.",
+          "accept": [
+            "It is cloudy today.",
+            "Today it's cloudy."
+          ],
+          "explain": {
+            "ua": "It's cloudy.",
+            "ru": "It's cloudy."
+          },
+          "id": "a2-u12-l01-e09"
+        }
+      ],
+      "words": [
+        "weather",
+        "sunny",
+        "cloudy",
+        "rainy",
+        "windy",
+        "snowy",
+        "foggy"
+      ]
+    },
+    {
+      "id": "a2-u12-l02",
+      "title": {
+        "en": "Hot and cold",
+        "ua": "Спекотно і холодно",
+        "ru": "Жарко и холодно"
+      },
+      "recap": {
+        "from": "a2-u12-l01",
+        "note": {
+          "ua": "Згадаймо: Яка погода?",
+          "ru": "Вспомним: Какая погода?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's the weather like? — It's ___.",
+            "options": [
+              "sunny",
+              "sun",
+              "a sun"
+            ],
+            "answer": "sunny",
+            "explain": {
+              "ua": "Про погоду — прикметник на -y: sunny, rainy.",
+              "ru": "О погоде — прилагательное на -y: sunny, rainy."
+            },
+            "id": "a2-u12-l02-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Today is rain.",
+            "answer": "Today it's rainy.",
+            "accept": [
+              "It's raining today.",
+              "It's rainy today.",
+              "Today it is rainy."
+            ],
+            "explain": {
+              "ua": "Про погоду — It's + прикметник.",
+              "ru": "О погоде — It's + прилагательное."
+            },
+            "id": "a2-u12-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "warm",
+              "right": {
+                "ua": "тепло",
+                "ru": "тепло"
+              }
+            },
+            {
+              "left": "cool",
+              "right": {
+                "ua": "прохолодно",
+                "ru": "прохладно"
+              }
+            },
+            {
+              "left": "freezing",
+              "right": {
+                "ua": "мороз",
+                "ru": "мороз"
+              }
+            },
+            {
+              "left": "degrees",
+              "right": {
+                "ua": "градуси",
+                "ru": "градусы"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u12-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "-10°C. It's ___!",
+          "options": [
+            "freezing",
+            "warm",
+            "cool"
+          ],
+          "answer": "freezing",
+          "explain": {
+            "ua": "Freezing — дуже холодно.",
+            "ru": "Freezing — очень холодно."
+          },
+          "id": "a2-u12-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "+35°C. It's very ___.",
+          "options": [
+            "hot",
+            "cool",
+            "freezing"
+          ],
+          "answer": "hot",
+          "explain": {
+            "ua": "Hot — спекотно.",
+            "ru": "Hot — жарко."
+          },
+          "id": "a2-u12-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "+15°C in the evening. It's ___.",
+          "options": [
+            "cool",
+            "freezing",
+            "hot"
+          ],
+          "answer": "cool",
+          "explain": {
+            "ua": "Cool — прохолодно.",
+            "ru": "Cool — прохладно."
+          },
+          "id": "a2-u12-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's 20 ___ today.",
+          "options": [
+            "degrees",
+            "grades",
+            "temperatures"
+          ],
+          "answer": "degrees",
+          "explain": {
+            "ua": "Градуси — degrees.",
+            "ru": "Градусы — degrees."
+          },
+          "id": "a2-u12-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "hot",
+              "right": "cold"
+            },
+            {
+              "left": "warm",
+              "right": "cool"
+            },
+            {
+              "left": "wet",
+              "right": "dry"
+            },
+            {
+              "left": "sunny",
+              "right": "cloudy"
+            }
+          ],
+          "explain": {
+            "ua": "Протилежності.",
+            "ru": "Противоположности."
+          },
+          "id": "a2-u12-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It's 30 grades.",
+          "answer": "It's 30 degrees.",
+          "accept": [],
+          "explain": {
+            "ua": "Градуси — degrees.",
+            "ru": "Градусы — degrees."
+          },
+          "id": "a2-u12-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It's freezing outside!",
+          "options": [
+            "It's freezing outside!",
+            "It's fleezing outside!",
+            "It's freezing inside!"
+          ],
+          "answer": "It's freezing outside!",
+          "audio": "",
+          "explain": {
+            "ua": "Outside — надворі.",
+            "ru": "Outside — на улице."
+          },
+          "id": "a2-u12-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Сьогодні тепло, двадцять градусів.",
+            "ru": "Сегодня тепло, двадцать градусов."
+          },
+          "answer": "It's warm today, 20 degrees.",
+          "accept": [
+            "It's warm today, twenty degrees.",
+            "Today it's warm, 20 degrees.",
+            "It is warm today, 20 degrees."
+          ],
+          "explain": {
+            "ua": "Warm + degrees.",
+            "ru": "Warm + degrees."
+          },
+          "id": "a2-u12-l02-e09"
+        }
+      ],
+      "words": [
+        "warm",
+        "cool",
+        "freezing",
+        "degrees",
+        "wet",
+        "dry"
+      ]
+    },
+    {
+      "id": "a2-u12-l03",
+      "title": {
+        "en": "Forecast and what to wear",
+        "ua": "Прогноз і що вдягнути",
+        "ru": "Прогноз и что надеть"
+      },
+      "recap": {
+        "from": "a2-u12-l02",
+        "note": {
+          "ua": "Згадаймо: Спекотно і холодно",
+          "ru": "Вспомним: Жарко и холодно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "-10°C. It's ___!",
+            "options": [
+              "freezing",
+              "warm",
+              "cool"
+            ],
+            "answer": "freezing",
+            "explain": {
+              "ua": "Freezing — дуже холодно.",
+              "ru": "Freezing — очень холодно."
+            },
+            "id": "a2-u12-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "It's 20 ___ today.",
+            "options": [
+              "degrees",
+              "grades",
+              "temperatures"
+            ],
+            "answer": "degrees",
+            "explain": {
+              "ua": "Градуси — degrees.",
+              "ru": "Градусы — degrees."
+            },
+            "id": "a2-u12-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "forecast",
+              "right": {
+                "ua": "прогноз",
+                "ru": "прогноз"
+              }
+            },
+            {
+              "left": "storm",
+              "right": {
+                "ua": "гроза",
+                "ru": "гроза"
+              }
+            },
+            {
+              "left": "umbrella",
+              "right": {
+                "ua": "парасолька",
+                "ru": "зонт"
+              }
+            },
+            {
+              "left": "sunglasses",
+              "right": {
+                "ua": "сонцезахисні окуляри",
+                "ru": "солнечные очки"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u12-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's going to rain. Take an ___.",
+          "options": [
+            "umbrella",
+            "sunglasses",
+            "T-shirt"
+          ],
+          "answer": "umbrella",
+          "explain": {
+            "ua": "Дощ → парасолька.",
+            "ru": "Дождь → зонт."
+          },
+          "id": "a2-u12-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's very sunny. Don't forget your ___.",
+          "options": [
+            "sunglasses",
+            "umbrella",
+            "boots"
+          ],
+          "answer": "sunglasses",
+          "explain": {
+            "ua": "Сонце → окуляри.",
+            "ru": "Солнце → очки."
+          },
+          "id": "a2-u12-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The weather ___ says it will snow.",
+          "options": [
+            "forecast",
+            "umbrella",
+            "storm"
+          ],
+          "answer": "forecast",
+          "explain": {
+            "ua": "Weather forecast — прогноз погоди.",
+            "ru": "Weather forecast — прогноз погоды."
+          },
+          "id": "a2-u12-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Thunder and lightning — it's a ___.",
+          "options": [
+            "storm",
+            "fog",
+            "forecast"
+          ],
+          "answer": "storm",
+          "explain": {
+            "ua": "Storm — гроза.",
+            "ru": "Storm — гроза."
+          },
+          "id": "a2-u12-l03-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You get it when you walk in the rain without an umbrella.",
+          "answer": "wet",
+          "accept": [],
+          "explain": {
+            "ua": "Wet — мокрий.",
+            "ru": "Wet — мокрый."
+          },
+          "id": "a2-u12-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to-prediction",
+          "sentence": "Take the umbrella, will rain.",
+          "answer": "Take an umbrella, it's going to rain.",
+          "accept": [
+            "Take an umbrella, it will rain.",
+            "Take an umbrella. It's going to rain."
+          ],
+          "explain": {
+            "ua": "Потрібне it: it's going to rain / it will rain.",
+            "ru": "Нужно it: it's going to rain / it will rain."
+          },
+          "id": "a2-u12-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The forecast says it will be windy.",
+          "options": [
+            "The forecast says it will be windy.",
+            "The forecast says it will be Wendy.",
+            "The forecast said it was windy."
+          ],
+          "answer": "The forecast says it will be windy.",
+          "audio": "",
+          "explain": {
+            "ua": "Windy.",
+            "ru": "Windy."
+          },
+          "id": "a2-u12-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Візьми парасольку, піде дощ.",
+            "ru": "Возьми зонт, пойдёт дождь."
+          },
+          "answer": "Take an umbrella, it's going to rain.",
+          "accept": [
+            "Take an umbrella, it will rain.",
+            "Take an umbrella. It's going to rain.",
+            "Take your umbrella, it's going to rain."
+          ],
+          "explain": {
+            "ua": "Going to rain.",
+            "ru": "Going to rain."
+          },
+          "id": "a2-u12-l03-e09"
+        }
+      ],
+      "words": [
+        "forecast",
+        "storm",
+        "umbrella",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": "a2-u12-l04",
+      "title": {
+        "en": "In context: a call from Lviv",
+        "ua": "У контексті: дзвінок зі Львова",
+        "ru": "В контексте: звонок из Львова"
+      },
+      "recap": {
+        "from": "a2-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Прогноз і що вдягнути",
+          "ru": "Вспомним: Прогноз и что надеть"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "It's going to rain. Take an ___.",
+            "options": [
+              "umbrella",
+              "sunglasses",
+              "T-shirt"
+            ],
+            "answer": "umbrella",
+            "explain": {
+              "ua": "Дощ → парасолька.",
+              "ru": "Дождь → зонт."
+            },
+            "id": "a2-u12-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Thunder and lightning — it's a ___.",
+            "options": [
+              "storm",
+              "fog",
+              "forecast"
+            ],
+            "answer": "storm",
+            "explain": {
+              "ua": "Storm — гроза.",
+              "ru": "Storm — гроза."
+            },
+            "id": "a2-u12-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What's the weather like in Lviv?",
+              "options": [
+                "rainy and cool",
+                "sunny and hot",
+                "snowy"
+              ],
+              "answer": "rainy and cool"
+            },
+            {
+              "type": "truefalse",
+              "statement": "It's hot in Odesa.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The forecast for tomorrow in Lviv is good.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mum",
+              "line": "Hi, Sasha! What's the weather like in Lviv?"
+            },
+            {
+              "speaker": "Sasha",
+              "line": "Terrible! It's rainy and cool — only 12 degrees. I'm wet!"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Oh no! Here in Odesa it's sunny and 28 degrees."
+            },
+            {
+              "speaker": "Sasha",
+              "line": "Lucky you! And the forecast for tomorrow says there's going to be a storm."
+            },
+            {
+              "speaker": "Mum",
+              "line": "Don't forget your umbrella!"
+            }
+          ],
+          "explain": {
+            "ua": "Lviv — rainy, 12 degrees, storm tomorrow. Odesa — sunny, 28.",
+            "ru": "Lviv — rainy, 12 degrees, storm tomorrow. Odesa — sunny, 28."
+          },
+          "id": "a2-u12-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "rainy",
+            "12 degrees",
+            "sunny",
+            "storm"
+          ],
+          "reuse": false,
+          "sentences": [
+            "In Lviv it's ___.",
+            "It's only ___.",
+            "In Odesa it's ___.",
+            "Tomorrow there's going to be a ___."
+          ],
+          "answers": [
+            "rainy",
+            "12 degrees",
+            "sunny",
+            "storm"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u12-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Terrible!",
+              "right": {
+                "ua": "Жахливо!",
+                "ru": "Ужасно!"
+              }
+            },
+            {
+              "left": "Lucky you!",
+              "right": {
+                "ua": "Щасливчик!",
+                "ru": "Везёт тебе!"
+              }
+            },
+            {
+              "left": "only 12 degrees",
+              "right": {
+                "ua": "лише 12 градусів",
+                "ru": "всего 12 градусов"
+              }
+            },
+            {
+              "left": "Don't forget…",
+              "right": {
+                "ua": "Не забудь…",
+                "ru": "Не забудь…"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u12-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "comparatives",
+          "question": "Odesa is ___ than Lviv today.",
+          "options": [
+            "hotter",
+            "colder",
+            "wetter"
+          ],
+          "answer": "hotter",
+          "explain": {
+            "ua": "28 > 12.",
+            "ru": "28 > 12."
+          },
+          "id": "a2-u12-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "It comes down from the sky in winter. It's white.",
+          "answer": "snow",
+          "accept": [],
+          "explain": {
+            "ua": "Snow — сніг.",
+            "ru": "Snow — снег."
+          },
+          "id": "a2-u12-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "In Lviv is rainy.",
+          "answer": "In Lviv it's rainy.",
+          "accept": [
+            "It's rainy in Lviv.",
+            "In Lviv it is rainy."
+          ],
+          "explain": {
+            "ua": "Потрібне it.",
+            "ru": "Нужно it."
+          },
+          "id": "a2-u12-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Lucky you!",
+          "options": [
+            "Lucky you!",
+            "Look at you!",
+            "Luck to you!"
+          ],
+          "answer": "Lucky you!",
+          "audio": "",
+          "explain": {
+            "ua": "Lucky you — щасливчик.",
+            "ru": "Lucky you — везёт тебе."
+          },
+          "id": "a2-u12-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Яка погода в Одесі?",
+            "ru": "Какая погода в Одессе?"
+          },
+          "answer": "What's the weather like in Odesa?",
+          "accept": [
+            "What is the weather like in Odesa?"
+          ],
+          "explain": {
+            "ua": "What's the weather like…?",
+            "ru": "What's the weather like…?"
+          },
+          "id": "a2-u12-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u12-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u12-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: дзвінок зі Львова",
+          "ru": "Вспомним: В контексте: звонок из Львова"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "comparatives",
+            "question": "Odesa is ___ than Lviv today.",
+            "options": [
+              "hotter",
+              "colder",
+              "wetter"
+            ],
+            "answer": "hotter",
+            "explain": {
+              "ua": "28 > 12.",
+              "ru": "28 > 12."
+            },
+            "id": "a2-u12-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "In Lviv is rainy.",
+            "answer": "In Lviv it's rainy.",
+            "accept": [
+              "It's rainy in Lviv.",
+              "In Lviv it is rainy."
+            ],
+            "explain": {
+              "ua": "Потрібне it.",
+              "ru": "Нужно it."
+            },
+            "id": "a2-u12-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "rainy",
+              "right": {
+                "ua": "дощовий",
+                "ru": "дождливый"
+              }
+            },
+            {
+              "left": "snowy",
+              "right": {
+                "ua": "сніжний",
+                "ru": "снежный"
+              }
+            },
+            {
+              "left": "dry",
+              "right": {
+                "ua": "сухий",
+                "ru": "сухой"
+              }
+            },
+            {
+              "left": "storm",
+              "right": {
+                "ua": "гроза",
+                "ru": "гроза"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u12-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT weather?",
+          "options": [
+            "umbrella",
+            "foggy",
+            "windy"
+          ],
+          "answer": "umbrella",
+          "explain": {
+            "ua": "Umbrella — річ.",
+            "ru": "Umbrella — вещь."
+          },
+          "id": "a2-u12-l05-e02"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "sunny",
+            "freezing",
+            "windy",
+            "foggy"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Wear sunglasses — it's ___.",
+            "Wear a warm coat — it's ___.",
+            "Hold your umbrella tight — it's ___.",
+            "Drive slowly — it's ___."
+          ],
+          "answers": [
+            "sunny",
+            "freezing",
+            "windy",
+            "foggy"
+          ],
+          "explain": {
+            "ua": "Погода → що робити.",
+            "ru": "Погода → что делать."
+          },
+          "id": "a2-u12-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Information about the weather tomorrow.",
+          "answer": "forecast",
+          "accept": [
+            "weather forecast",
+            "the forecast"
+          ],
+          "explain": {
+            "ua": "Forecast.",
+            "ru": "Forecast."
+          },
+          "id": "a2-u12-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "rain",
+          "answer": "umbrella",
+          "accept": [
+            "wet",
+            "rainy"
+          ],
+          "explain": {
+            "ua": "Дощ → парасолька.",
+            "ru": "Дождь → зонт."
+          },
+          "id": "a2-u12-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "summer",
+          "answer": "hot",
+          "accept": [
+            "sunny",
+            "warm"
+          ],
+          "explain": {
+            "ua": "Літо → спекотно.",
+            "ru": "Лето → жарко."
+          },
+          "id": "a2-u12-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It's a sunny.",
+          "answer": "It's sunny.",
+          "accept": [
+            "It is sunny."
+          ],
+          "explain": {
+            "ua": "Без a.",
+            "ru": "Без a."
+          },
+          "id": "a2-u12-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It's cloudy and cool.",
+          "options": [
+            "It's cloudy and cool.",
+            "It's cloudy and cold.",
+            "It's loudly and cool."
+          ],
+          "answer": "It's cloudy and cool.",
+          "audio": "",
+          "explain": {
+            "ua": "Cool — прохолодно.",
+            "ru": "Cool — прохладно."
+          },
+          "id": "a2-u12-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Тут дуже вітряно.",
+            "ru": "Здесь очень ветрено."
+          },
+          "answer": "It's very windy here.",
+          "accept": [
+            "It is very windy here."
+          ],
+          "explain": {
+            "ua": "Very windy.",
+            "ru": "Very windy."
+          },
+          "id": "a2-u12-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "— What's the weather like? — It's ___.",
+      "options": [
+        "rainy",
+        "rain",
+        "a rain"
+      ],
+      "answer": "rainy",
+      "explain": {
+        "ua": "It's rainy.",
+        "ru": "It's rainy."
+      },
+      "id": "a2-u12-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "-15°C. It's ___!",
+      "options": [
+        "freezing",
+        "warm",
+        "cool"
+      ],
+      "answer": "freezing",
+      "explain": {
+        "ua": "Freezing.",
+        "ru": "Freezing."
+      },
+      "id": "a2-u12-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "It's 25 ___.",
+      "options": [
+        "degrees",
+        "grades",
+        "points"
+      ],
+      "answer": "degrees",
+      "explain": {
+        "ua": "Degrees.",
+        "ru": "Degrees."
+      },
+      "id": "a2-u12-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You take it when it's raining.",
+      "answer": "umbrella",
+      "accept": [
+        "an umbrella"
+      ],
+      "explain": {
+        "ua": "Umbrella.",
+        "ru": "Umbrella."
+      },
+      "id": "a2-u12-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Thunder, lightning and strong rain.",
+      "answer": "storm",
+      "accept": [
+        "a storm"
+      ],
+      "explain": {
+        "ua": "Storm.",
+        "ru": "Storm."
+      },
+      "id": "a2-u12-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "It's very ___. I can't see the road. (fog)",
+      "answer": "foggy",
+      "accept": [],
+      "explain": {
+        "ua": "Fog → foggy.",
+        "ru": "Fog → foggy."
+      },
+      "id": "a2-u12-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "warm",
+          "right": {
+            "ua": "тепло",
+            "ru": "тепло"
+          }
+        },
+        {
+          "left": "wet",
+          "right": {
+            "ua": "мокрий",
+            "ru": "мокрый"
+          }
+        },
+        {
+          "left": "cloudy",
+          "right": {
+            "ua": "хмарно",
+            "ru": "облачно"
+          }
+        },
+        {
+          "left": "forecast",
+          "right": {
+            "ua": "прогноз",
+            "ru": "прогноз"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u12-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "What is the weather?",
+      "answer": "What's the weather like?",
+      "accept": [
+        "What is the weather like?"
+      ],
+      "explain": {
+        "ua": "What's the weather like?",
+        "ru": "What's the weather like?"
+      },
+      "id": "a2-u12-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Today is very wind.",
+      "answer": "Today it's very windy.",
+      "accept": [
+        "It's very windy today.",
+        "Today it is very windy."
+      ],
+      "explain": {
+        "ua": "It's windy.",
+        "ru": "It's windy."
+      },
+      "id": "a2-u12-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "snow",
+        "The",
+        "says",
+        "forecast",
+        "will",
+        "it"
+      ],
+      "answer": "The forecast says it will snow",
+      "explain": {
+        "ua": "The forecast says → it will snow.",
+        "ru": "The forecast says → it will snow."
+      },
+      "id": "a2-u12-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Надворі дуже холодно!",
+        "ru": "На улице очень холодно!"
+      },
+      "answer": "It's freezing outside!",
+      "accept": [
+        "It's very cold outside!",
+        "It is freezing outside!"
+      ],
+      "explain": {
+        "ua": "Freezing.",
+        "ru": "Freezing."
+      },
+      "id": "a2-u12-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Don't forget your sunglasses.",
+      "options": [
+        "Don't forget your sunglasses.",
+        "Don't forget your glasses.",
+        "Don't forget your sun classes."
+      ],
+      "answer": "Don't forget your sunglasses.",
+      "audio": "",
+      "explain": {
+        "ua": "Sunglasses.",
+        "ru": "Sunglasses."
+      },
+      "id": "a2-u12-cp12"
+    }
+  ]
+}

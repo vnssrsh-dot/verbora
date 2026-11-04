@@ -1,0 +1,1919 @@
+{
+  "id": "a2-u01",
+  "level": "A2",
+  "order": 1,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Simple: irregular verbs",
+    "ua": "Past Simple: неправильні дієслова",
+    "ru": "Past Simple: неправильные глаголы"
+  },
+  "rule": {
+    "formula": "go → went · see → saw · didn't go · Did you go?",
+    "explain": {
+      "ua": "Неправильні дієслова мають особливу минулу форму (went, saw, had). У запереченнях і питаннях — як завжди: didn't / did + базова форма (didn't go, did you see?).",
+      "ru": "Неправильные глаголы имеют особую прошедшую форму (went, saw, had). В отрицаниях и вопросах — как всегда: didn't / did + базовая форма (didn't go, did you see?)."
+    },
+    "examples": [
+      {
+        "en": "We went to the sea.",
+        "ua": "Ми поїхали на море.",
+        "ru": "Мы поехали на море."
+      },
+      {
+        "en": "I didn't see him.",
+        "ua": "Я його не бачив.",
+        "ru": "Я его не видел."
+      },
+      {
+        "en": "Did you buy bread?",
+        "ua": "Ти купив хліб?",
+        "ru": "Ты купил хлеб?"
+      }
+    ],
+    "compare": {
+      "ua": "Головна пастка: після didn't і did дієслово повертається в базову форму. Не «didn't went», а didn't go.",
+      "ru": "Главная ловушка: после didn't и did глагол возвращается в базовую форму. Не «didn't went», а didn't go."
+    }
+  },
+  "vocab": [
+    {
+      "word": "go → went",
+      "ipa": "/went/",
+      "ua": "іти → пішов",
+      "ru": "идти → пошёл",
+      "example": "We went home.",
+      "audio": ""
+    },
+    {
+      "word": "have → had",
+      "ipa": "/hæd/",
+      "ua": "мати → мав",
+      "ru": "иметь → имел",
+      "example": "I had a great time.",
+      "audio": ""
+    },
+    {
+      "word": "see → saw",
+      "ipa": "/sɔː/",
+      "ua": "бачити → бачив",
+      "ru": "видеть → видел",
+      "example": "I saw a film.",
+      "audio": ""
+    },
+    {
+      "word": "buy → bought",
+      "ipa": "/bɔːt/",
+      "ua": "купувати → купив",
+      "ru": "покупать → купил",
+      "example": "She bought a dress.",
+      "audio": ""
+    },
+    {
+      "word": "eat → ate",
+      "ipa": "/et/",
+      "ua": "їсти → їв",
+      "ru": "есть → ел",
+      "example": "We ate pizza.",
+      "audio": ""
+    },
+    {
+      "word": "meet → met",
+      "ipa": "/met/",
+      "ua": "зустрічати → зустрів",
+      "ru": "встречать → встретил",
+      "example": "I met Anna.",
+      "audio": ""
+    },
+    {
+      "word": "leave → left",
+      "ipa": "/left/",
+      "ua": "їхати, залишати → поїхав",
+      "ru": "уезжать, оставлять → уехал",
+      "example": "He left at 6.",
+      "audio": ""
+    },
+    {
+      "word": "think → thought",
+      "ipa": "/θɔːt/",
+      "ua": "думати → думав",
+      "ru": "думать → думал",
+      "example": "I thought so.",
+      "audio": ""
+    },
+    {
+      "word": "tell → told",
+      "ipa": "/təʊld/",
+      "ua": "розповідати → розповів",
+      "ru": "рассказывать → рассказал",
+      "example": "She told me.",
+      "audio": ""
+    },
+    {
+      "word": "lose → lost",
+      "ipa": "/lɒst/",
+      "ua": "губити → загубив",
+      "ru": "терять → потерял",
+      "example": "I lost my keys.",
+      "audio": ""
+    },
+    {
+      "word": "bring → brought",
+      "ipa": "/brɔːt/",
+      "ua": "приносити → приніс",
+      "ru": "приносить → принёс",
+      "example": "He brought flowers.",
+      "audio": ""
+    },
+    {
+      "word": "forget → forgot",
+      "ipa": "/fəˈɡɒt/",
+      "ua": "забувати → забув",
+      "ru": "забывать → забыл",
+      "example": "I forgot!",
+      "audio": ""
+    },
+    {
+      "word": "pay → paid",
+      "ipa": "/peɪd/",
+      "ua": "платити → заплатив",
+      "ru": "платить → заплатил",
+      "example": "We paid by card.",
+      "audio": ""
+    },
+    {
+      "word": "feel → felt",
+      "ipa": "/felt/",
+      "ua": "відчувати → відчув",
+      "ru": "чувствовать → почувствовал",
+      "example": "I felt tired.",
+      "audio": ""
+    },
+    {
+      "word": "become → became",
+      "ipa": "/bɪˈkeɪm/",
+      "ua": "ставати → став",
+      "ru": "становиться → стал",
+      "example": "She became a doctor.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u01-l01",
+      "title": {
+        "en": "Irregular verbs 1",
+        "ua": "Неправильні дієслова 1",
+        "ru": "Неправильные глаголы 1"
+      },
+      "recap": {
+        "from": "a1-u25-l04",
+        "note": {
+          "ua": "Згадаймо: Did + хто + дієслово? · Yes, I did. / No, I didn't.",
+          "ru": "Вспомним: Did + кто + глагол? · Yes, I did. / No, I didn't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "___ you call your mum?",
+            "options": [
+              "Did",
+              "Do",
+              "Were"
+            ],
+            "answer": "Did",
+            "explain": {
+              "ua": "Минуле → Did.",
+              "ru": "Прошлое → Did."
+            },
+            "id": "a2-u01-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "What ___ you do last weekend?",
+            "options": [
+              "did",
+              "do",
+              "were"
+            ],
+            "answer": "did",
+            "explain": {
+              "ua": "Минуле → did.",
+              "ru": "Прошлое → did."
+            },
+            "id": "a2-u01-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "go → went · have → had · see → saw · make → made · come → came …",
+        "explain": {
+          "ua": "Ці дієслова в минулому мають власну форму — без -ed. Її треба запам'ятати. Форма однакова для всіх: I went, she went.",
+          "ru": "Эти глаголы в прошедшем имеют свою форму — без -ed. Её нужно запомнить. Форма одинакова для всех: I went, she went."
+        },
+        "examples": [
+          {
+            "en": "go → went",
+            "ua": "минула форма: went",
+            "ru": "прошедшая форма: went"
+          },
+          {
+            "en": "have → had",
+            "ua": "минула форма: had",
+            "ru": "прошедшая форма: had"
+          },
+          {
+            "en": "see → saw",
+            "ua": "минула форма: saw",
+            "ru": "прошедшая форма: saw"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "go",
+              "right": "went"
+            },
+            {
+              "left": "have",
+              "right": "had"
+            },
+            {
+              "left": "see",
+              "right": "saw"
+            },
+            {
+              "left": "make",
+              "right": "made"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l01-e01"
+        },
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "come",
+              "right": "came"
+            },
+            {
+              "left": "get",
+              "right": "got"
+            },
+            {
+              "left": "take",
+              "right": "took"
+            },
+            {
+              "left": "do",
+              "right": "did"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "Yesterday I ___ to the gym.",
+          "options": [
+            "went",
+            "goed",
+            "go"
+          ],
+          "answer": "went",
+          "explain": {
+            "ua": "Go → went.",
+            "ru": "Go → went."
+          },
+          "id": "a2-u01-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "We ___ a great time.",
+          "options": [
+            "had",
+            "haved",
+            "have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Have → had.",
+            "ru": "Have → had."
+          },
+          "id": "a2-u01-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "I ___ Max in town.",
+          "options": [
+            "saw",
+            "seed",
+            "see"
+          ],
+          "answer": "saw",
+          "explain": {
+            "ua": "See → saw.",
+            "ru": "See → saw."
+          },
+          "id": "a2-u01-l01-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "She ___ a cake. (make)",
+          "answer": "made",
+          "accept": [],
+          "explain": {
+            "ua": "Make → made.",
+            "ru": "Make → made."
+          },
+          "id": "a2-u01-l01-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "They ___ home late. (come)",
+          "answer": "came",
+          "accept": [],
+          "explain": {
+            "ua": "Come → came.",
+            "ru": "Come → came."
+          },
+          "id": "a2-u01-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "He taked a taxi.",
+          "answer": "He took a taxi.",
+          "accept": [],
+          "explain": {
+            "ua": "Take → took.",
+            "ru": "Take → took."
+          },
+          "id": "a2-u01-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-irregular",
+          "prompt": {
+            "ua": "Я знала відповідь.",
+            "ru": "Я знала ответ."
+          },
+          "answer": "I knew the answer.",
+          "accept": [],
+          "explain": {
+            "ua": "Know → knew.",
+            "ru": "Know → knew."
+          },
+          "id": "a2-u01-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l02",
+      "title": {
+        "en": "Irregular verbs 2",
+        "ua": "Неправильні дієслова 2",
+        "ru": "Неправильные глаголы 2"
+      },
+      "recap": {
+        "from": "a2-u01-l01",
+        "note": {
+          "ua": "Згадаймо: go → went · have → had · see → saw · make → made · come → came …",
+          "ru": "Вспомним: go → went · have → had · see → saw · make → made · come → came …"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-irregular",
+            "question": "Yesterday I ___ to the gym.",
+            "options": [
+              "went",
+              "goed",
+              "go"
+            ],
+            "answer": "went",
+            "explain": {
+              "ua": "Go → went.",
+              "ru": "Go → went."
+            },
+            "id": "a2-u01-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-irregular",
+            "question": "She ___ a cake. (make)",
+            "answer": "made",
+            "accept": [],
+            "explain": {
+              "ua": "Make → made.",
+              "ru": "Make → made."
+            },
+            "id": "a2-u01-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "eat → ate · drink → drank · buy → bought · think → thought · give → gave …",
+        "explain": {
+          "ua": "Ці дієслова в минулому мають власну форму — без -ed. Її треба запам'ятати. Форма однакова для всіх: I went, she went.",
+          "ru": "Эти глаголы в прошедшем имеют свою форму — без -ed. Её нужно запомнить. Форма одинакова для всех: I went, she went."
+        },
+        "examples": [
+          {
+            "en": "eat → ate",
+            "ua": "минула форма: ate",
+            "ru": "прошедшая форма: ate"
+          },
+          {
+            "en": "drink → drank",
+            "ua": "минула форма: drank",
+            "ru": "прошедшая форма: drank"
+          },
+          {
+            "en": "buy → bought",
+            "ua": "минула форма: bought",
+            "ru": "прошедшая форма: bought"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "eat",
+              "right": "ate"
+            },
+            {
+              "left": "drink",
+              "right": "drank"
+            },
+            {
+              "left": "buy",
+              "right": "bought"
+            },
+            {
+              "left": "think",
+              "right": "thought"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l02-e01"
+        },
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "give",
+              "right": "gave"
+            },
+            {
+              "left": "find",
+              "right": "found"
+            },
+            {
+              "left": "leave",
+              "right": "left"
+            },
+            {
+              "left": "meet",
+              "right": "met"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "We ___ pizza last night.",
+          "options": [
+            "ate",
+            "eated",
+            "eat"
+          ],
+          "answer": "ate",
+          "explain": {
+            "ua": "Eat → ate.",
+            "ru": "Eat → ate."
+          },
+          "id": "a2-u01-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "She ___ a new phone.",
+          "options": [
+            "bought",
+            "buyed",
+            "buy"
+          ],
+          "answer": "bought",
+          "explain": {
+            "ua": "Buy → bought.",
+            "ru": "Buy → bought."
+          },
+          "id": "a2-u01-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "I ___ my friend at the station.",
+          "options": [
+            "met",
+            "meeted",
+            "meet"
+          ],
+          "answer": "met",
+          "explain": {
+            "ua": "Meet → met.",
+            "ru": "Meet → met."
+          },
+          "id": "a2-u01-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "He ___ for work at 7. (leave)",
+          "answer": "left",
+          "accept": [],
+          "explain": {
+            "ua": "Leave → left.",
+            "ru": "Leave → left."
+          },
+          "id": "a2-u01-l02-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "I ___ well. (sleep)",
+          "answer": "slept",
+          "accept": [],
+          "explain": {
+            "ua": "Sleep → slept.",
+            "ru": "Sleep → slept."
+          },
+          "id": "a2-u01-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "She writed a letter.",
+          "answer": "She wrote a letter.",
+          "accept": [],
+          "explain": {
+            "ua": "Write → wrote.",
+            "ru": "Write → wrote."
+          },
+          "id": "a2-u01-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-irregular",
+          "prompt": {
+            "ua": "Я знайшов ключі.",
+            "ru": "Я нашёл ключи."
+          },
+          "answer": "I found the keys.",
+          "accept": [
+            "I found my keys."
+          ],
+          "explain": {
+            "ua": "Find → found.",
+            "ru": "Find → found."
+          },
+          "id": "a2-u01-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l03",
+      "title": {
+        "en": "Irregular verbs 3",
+        "ua": "Неправильні дієслова 3",
+        "ru": "Неправильные глаголы 3"
+      },
+      "recap": {
+        "from": "a2-u01-l02",
+        "note": {
+          "ua": "Згадаймо: eat → ate · drink → drank · buy → bought · think → thought · give → gave …",
+          "ru": "Вспомним: eat → ate · drink → drank · buy → bought · think → thought · give → gave …"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-irregular",
+            "question": "We ___ pizza last night.",
+            "options": [
+              "ate",
+              "eated",
+              "eat"
+            ],
+            "answer": "ate",
+            "explain": {
+              "ua": "Eat → ate.",
+              "ru": "Eat → ate."
+            },
+            "id": "a2-u01-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-irregular",
+            "question": "He ___ for work at 7. (leave)",
+            "answer": "left",
+            "accept": [],
+            "explain": {
+              "ua": "Leave → left.",
+              "ru": "Leave → left."
+            },
+            "id": "a2-u01-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "speak → spoke · tell → told · sit → sat · stand → stood · run → ran …",
+        "explain": {
+          "ua": "Ці дієслова в минулому мають власну форму — без -ed. Її треба запам'ятати. Форма однакова для всіх: I went, she went.",
+          "ru": "Эти глаголы в прошедшем имеют свою форму — без -ed. Её нужно запомнить. Форма одинакова для всех: I went, she went."
+        },
+        "examples": [
+          {
+            "en": "speak → spoke",
+            "ua": "минула форма: spoke",
+            "ru": "прошедшая форма: spoke"
+          },
+          {
+            "en": "tell → told",
+            "ua": "минула форма: told",
+            "ru": "прошедшая форма: told"
+          },
+          {
+            "en": "sit → sat",
+            "ua": "минула форма: sat",
+            "ru": "прошедшая форма: sat"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "speak",
+              "right": "spoke"
+            },
+            {
+              "left": "tell",
+              "right": "told"
+            },
+            {
+              "left": "sit",
+              "right": "sat"
+            },
+            {
+              "left": "stand",
+              "right": "stood"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l03-e01"
+        },
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "run",
+              "right": "ran"
+            },
+            {
+              "left": "swim",
+              "right": "swam"
+            },
+            {
+              "left": "read",
+              "right": "read"
+            },
+            {
+              "left": "put",
+              "right": "put"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "He ___ to me in English.",
+          "options": [
+            "spoke",
+            "speaked",
+            "speak"
+          ],
+          "answer": "spoke",
+          "explain": {
+            "ua": "Speak → spoke.",
+            "ru": "Speak → spoke."
+          },
+          "id": "a2-u01-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "She ___ me a story.",
+          "options": [
+            "told",
+            "telled",
+            "tell"
+          ],
+          "answer": "told",
+          "explain": {
+            "ua": "Tell → told.",
+            "ru": "Tell → told."
+          },
+          "id": "a2-u01-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "The bag ___ 50 dollars.",
+          "options": [
+            "cost",
+            "costed",
+            "costs"
+          ],
+          "answer": "cost",
+          "explain": {
+            "ua": "Cost → cost (однакова форма).",
+            "ru": "Cost → cost (одинаковая форма)."
+          },
+          "id": "a2-u01-l03-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "I ___ my phone yesterday. (lose)",
+          "answer": "lost",
+          "accept": [],
+          "explain": {
+            "ua": "Lose → lost.",
+            "ru": "Lose → lost."
+          },
+          "id": "a2-u01-l03-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "We ___ in the sea. (swim)",
+          "answer": "swam",
+          "accept": [],
+          "explain": {
+            "ua": "Swim → swam.",
+            "ru": "Swim → swam."
+          },
+          "id": "a2-u01-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "They sitted near the window.",
+          "answer": "They sat near the window.",
+          "accept": [],
+          "explain": {
+            "ua": "Sit → sat.",
+            "ru": "Sit → sat."
+          },
+          "id": "a2-u01-l03-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/red/",
+          "options": [
+            "read (past)",
+            "read (now)",
+            "red"
+          ],
+          "answer": "read (past)",
+          "explain": {
+            "ua": "Read у минулому читається /red/, як red.",
+            "ru": "Read в прошедшем читается /red/, как red."
+          },
+          "id": "a2-u01-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l04",
+      "title": {
+        "en": "Irregular verbs 4",
+        "ua": "Неправильні дієслова 4",
+        "ru": "Неправильные глаголы 4"
+      },
+      "recap": {
+        "from": "a2-u01-l03",
+        "note": {
+          "ua": "Згадаймо: speak → spoke · tell → told · sit → sat · stand → stood · run → ran …",
+          "ru": "Вспомним: speak → spoke · tell → told · sit → sat · stand → stood · run → ran …"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-irregular",
+            "question": "He ___ to me in English.",
+            "options": [
+              "spoke",
+              "speaked",
+              "speak"
+            ],
+            "answer": "spoke",
+            "explain": {
+              "ua": "Speak → spoke.",
+              "ru": "Speak → spoke."
+            },
+            "id": "a2-u01-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-irregular",
+            "question": "I ___ my phone yesterday. (lose)",
+            "answer": "lost",
+            "accept": [],
+            "explain": {
+              "ua": "Lose → lost.",
+              "ru": "Lose → lost."
+            },
+            "id": "a2-u01-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "begin → began · bring → brought · feel → felt · forget → forgot · hear → heard …",
+        "explain": {
+          "ua": "Ці дієслова в минулому мають власну форму — без -ed. Її треба запам'ятати. Форма однакова для всіх: I went, she went.",
+          "ru": "Эти глаголы в прошедшем имеют свою форму — без -ed. Её нужно запомнить. Форма одинакова для всех: I went, she went."
+        },
+        "examples": [
+          {
+            "en": "begin → began",
+            "ua": "минула форма: began",
+            "ru": "прошедшая форма: began"
+          },
+          {
+            "en": "bring → brought",
+            "ua": "минула форма: brought",
+            "ru": "прошедшая форма: brought"
+          },
+          {
+            "en": "feel → felt",
+            "ua": "минула форма: felt",
+            "ru": "прошедшая форма: felt"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "begin",
+              "right": "began"
+            },
+            {
+              "left": "bring",
+              "right": "brought"
+            },
+            {
+              "left": "feel",
+              "right": "felt"
+            },
+            {
+              "left": "forget",
+              "right": "forgot"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l04-e01"
+        },
+        {
+          "type": "match",
+          "topic": "past-irregular",
+          "pairs": [
+            {
+              "left": "hear",
+              "right": "heard"
+            },
+            {
+              "left": "pay",
+              "right": "paid"
+            },
+            {
+              "left": "send",
+              "right": "sent"
+            },
+            {
+              "left": "sell",
+              "right": "sold"
+            }
+          ],
+          "explain": {
+            "ua": "Перша форма → минула.",
+            "ru": "Первая форма → прошедшая."
+          },
+          "id": "a2-u01-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "The film ___ at 8.",
+          "options": [
+            "began",
+            "begined",
+            "begin"
+          ],
+          "answer": "began",
+          "explain": {
+            "ua": "Begin → began.",
+            "ru": "Begin → began."
+          },
+          "id": "a2-u01-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "He ___ me flowers.",
+          "options": [
+            "brought",
+            "bringed",
+            "bring"
+          ],
+          "answer": "brought",
+          "explain": {
+            "ua": "Bring → brought.",
+            "ru": "Bring → brought."
+          },
+          "id": "a2-u01-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "I ___ my umbrella at home.",
+          "options": [
+            "forgot",
+            "forgetted",
+            "forget"
+          ],
+          "answer": "forgot",
+          "explain": {
+            "ua": "Forget → forgot.",
+            "ru": "Forget → forgot."
+          },
+          "id": "a2-u01-l04-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "We ___ by card. (pay)",
+          "answer": "paid",
+          "accept": [],
+          "explain": {
+            "ua": "Pay → paid.",
+            "ru": "Pay → paid."
+          },
+          "id": "a2-u01-l04-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "past-irregular",
+          "question": "I ___ a strange noise. (hear)",
+          "answer": "heard",
+          "accept": [],
+          "explain": {
+            "ua": "Hear → heard.",
+            "ru": "Hear → heard."
+          },
+          "id": "a2-u01-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "She feeled sick.",
+          "answer": "She felt sick.",
+          "accept": [],
+          "explain": {
+            "ua": "Feel → felt.",
+            "ru": "Feel → felt."
+          },
+          "id": "a2-u01-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-irregular",
+          "prompt": {
+            "ua": "Він став лікарем.",
+            "ru": "Он стал врачом."
+          },
+          "answer": "He became a doctor.",
+          "accept": [],
+          "explain": {
+            "ua": "Become → became.",
+            "ru": "Become → became."
+          },
+          "id": "a2-u01-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l05",
+      "title": {
+        "en": "didn't + verb",
+        "ua": "didn't + дієслово",
+        "ru": "didn't + глагол"
+      },
+      "recap": {
+        "from": "a2-u01-l04",
+        "note": {
+          "ua": "Згадаймо: begin → began · bring → brought · feel → felt · forget → forgot · hear → heard …",
+          "ru": "Вспомним: begin → began · bring → brought · feel → felt · forget → forgot · hear → heard …"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-irregular",
+            "question": "The film ___ at 8.",
+            "options": [
+              "began",
+              "begined",
+              "begin"
+            ],
+            "answer": "began",
+            "explain": {
+              "ua": "Begin → began.",
+              "ru": "Begin → began."
+            },
+            "id": "a2-u01-l05-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-irregular",
+            "question": "We ___ by card. (pay)",
+            "answer": "paid",
+            "accept": [],
+            "explain": {
+              "ua": "Pay → paid.",
+              "ru": "Pay → paid."
+            },
+            "id": "a2-u01-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "didn't + базова форма: went → didn't go",
+          "ru": "didn't + базовая форма: went → didn't go"
+        },
+        "explain": {
+          "ua": "Заперечення в минулому — didn't + базове дієслово для всіх: I didn't go, she didn't see. Минула форма «ховається» в did.",
+          "ru": "Отрицание в прошедшем — didn't + базовый глагол для всех: I didn't go, she didn't see. Прошедшая форма «прячется» в did."
+        },
+        "examples": [
+          {
+            "en": "I didn't go to work.",
+            "ua": "Я не пішов на роботу.",
+            "ru": "Я не пошёл на работу."
+          },
+          {
+            "en": "She didn't buy it.",
+            "ua": "Вона цього не купила.",
+            "ru": "Она этого не купила."
+          },
+          {
+            "en": "We didn't see the film.",
+            "ua": "Ми не бачили фільм.",
+            "ru": "Мы не видели фильм."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "I didn't ___ to the party.",
+          "options": [
+            "go",
+            "went",
+            "goes"
+          ],
+          "answer": "go",
+          "explain": {
+            "ua": "Після didn't — базова форма.",
+            "ru": "После didn't — базовая форма."
+          },
+          "id": "a2-u01-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "She didn't ___ anything.",
+          "options": [
+            "buy",
+            "bought",
+            "buys"
+          ],
+          "answer": "buy",
+          "explain": {
+            "ua": "Didn't buy.",
+            "ru": "Didn't buy."
+          },
+          "id": "a2-u01-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "We ___ him yesterday.",
+          "options": [
+            "didn't see",
+            "didn't saw",
+            "not saw"
+          ],
+          "answer": "didn't see",
+          "explain": {
+            "ua": "Didn't + see.",
+            "ru": "Didn't + see."
+          },
+          "id": "a2-u01-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-negative",
+          "question": "He ___ breakfast this morning.",
+          "options": [
+            "didn't have",
+            "didn't had",
+            "hadn't"
+          ],
+          "answer": "didn't have",
+          "explain": {
+            "ua": "Didn't have.",
+            "ru": "Didn't have."
+          },
+          "id": "a2-u01-l05-e04"
+        },
+        {
+          "type": "match",
+          "topic": "past-simple-negative",
+          "pairs": [
+            {
+              "left": "went",
+              "right": "didn't go"
+            },
+            {
+              "left": "saw",
+              "right": "didn't see"
+            },
+            {
+              "left": "ate",
+              "right": "didn't eat"
+            },
+            {
+              "left": "took",
+              "right": "didn't take"
+            }
+          ],
+          "explain": {
+            "ua": "Ствердження → заперечення.",
+            "ru": "Утверждение → отрицание."
+          },
+          "id": "a2-u01-l05-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "past-simple-negative",
+          "question": "I ___ sleep well. (not)",
+          "answer": "didn't",
+          "accept": [
+            "did not"
+          ],
+          "explain": {
+            "ua": "Didn't sleep.",
+            "ru": "Didn't sleep."
+          },
+          "id": "a2-u01-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-negative",
+          "sentence": "They didn't came.",
+          "answer": "They didn't come.",
+          "accept": [
+            "They did not come."
+          ],
+          "explain": {
+            "ua": "Після didn't — come.",
+            "ru": "После didn't — come."
+          },
+          "id": "a2-u01-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-negative",
+          "sentence": "I didn't knew.",
+          "answer": "I didn't know.",
+          "accept": [
+            "I did not know."
+          ],
+          "explain": {
+            "ua": "Після didn't — know.",
+            "ru": "После didn't — know."
+          },
+          "id": "a2-u01-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-negative",
+          "prompt": {
+            "ua": "Я не забула!",
+            "ru": "Я не забыла!"
+          },
+          "answer": "I didn't forget!",
+          "accept": [
+            "I did not forget!"
+          ],
+          "explain": {
+            "ua": "Didn't + forget.",
+            "ru": "Didn't + forget."
+          },
+          "id": "a2-u01-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l06",
+      "title": {
+        "en": "Did…?",
+        "ua": "Did…?",
+        "ru": "Did…?"
+      },
+      "recap": {
+        "from": "a2-u01-l05",
+        "note": {
+          "ua": "Згадаймо: didn't + базова форма: went → didn't go",
+          "ru": "Вспомним: didn't + базовая форма: went → didn't go"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-negative",
+            "question": "I didn't ___ to the party.",
+            "options": [
+              "go",
+              "went",
+              "goes"
+            ],
+            "answer": "go",
+            "explain": {
+              "ua": "Після didn't — базова форма.",
+              "ru": "После didn't — базовая форма."
+            },
+            "id": "a2-u01-l06-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-simple-negative",
+            "question": "I ___ sleep well. (not)",
+            "answer": "didn't",
+            "accept": [
+              "did not"
+            ],
+            "explain": {
+              "ua": "Didn't sleep.",
+              "ru": "Didn't sleep."
+            },
+            "id": "a2-u01-l06-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Did + хто + базова форма? · What did you do?",
+          "ru": "Did + кто + базовая форма? · What did you do?"
+        },
+        "explain": {
+          "ua": "Питання в минулому: Did + хто + базове дієслово. Did you see? (не Did you saw?). З питальними словами: Where did you go?",
+          "ru": "Вопрос в прошедшем: Did + кто + базовый глагол. Did you see? (не Did you saw?). С вопросительными словами: Where did you go?"
+        },
+        "examples": [
+          {
+            "en": "Did you go out?",
+            "ua": "Ти виходив?",
+            "ru": "Ты выходил?"
+          },
+          {
+            "en": "Where did she buy it?",
+            "ua": "Де вона це купила?",
+            "ru": "Где она это купила?"
+          },
+          {
+            "en": "What did they say?",
+            "ua": "Що вони сказали?",
+            "ru": "Что они сказали?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did you ___ the news?",
+          "options": [
+            "hear",
+            "heard",
+            "hears"
+          ],
+          "answer": "hear",
+          "explain": {
+            "ua": "Після did — базова.",
+            "ru": "После did — базовая."
+          },
+          "id": "a2-u01-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Where ___ you go?",
+          "options": [
+            "did",
+            "do",
+            "were"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Минуле → did.",
+            "ru": "Прошлое → did."
+          },
+          "id": "a2-u01-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "What did she ___?",
+          "options": [
+            "say",
+            "said",
+            "says"
+          ],
+          "answer": "say",
+          "explain": {
+            "ua": "Did … say.",
+            "ru": "Did … say."
+          },
+          "id": "a2-u01-l06-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did they come? — Yes, they ___.",
+          "options": [
+            "did",
+            "came",
+            "were"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Yes, they did.",
+            "ru": "Yes, they did."
+          },
+          "id": "a2-u01-l06-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-questions",
+          "question": "Did he pay? — No, he ___.",
+          "options": [
+            "didn't",
+            "wasn't",
+            "doesn't"
+          ],
+          "answer": "didn't",
+          "explain": {
+            "ua": "No, he didn't.",
+            "ru": "No, he didn't."
+          },
+          "id": "a2-u01-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-questions",
+          "sentence": "Did you ate breakfast?",
+          "answer": "Did you eat breakfast?",
+          "accept": [],
+          "explain": {
+            "ua": "Did + eat.",
+            "ru": "Did + eat."
+          },
+          "id": "a2-u01-l06-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-questions",
+          "sentence": "Where you went?",
+          "answer": "Where did you go?",
+          "accept": [],
+          "explain": {
+            "ua": "Потрібен did.",
+            "ru": "Нужен did."
+          },
+          "id": "a2-u01-l06-e07"
+        },
+        {
+          "type": "build",
+          "topic": "past-simple-questions",
+          "words": [
+            "did",
+            "leave",
+            "time",
+            "you",
+            "What"
+          ],
+          "answer": "What time did you leave",
+          "explain": {
+            "ua": "What time → did you → leave?",
+            "ru": "What time → did you → leave?"
+          },
+          "id": "a2-u01-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-questions",
+          "prompt": {
+            "ua": "Що ти купила?",
+            "ru": "Что ты купила?"
+          },
+          "answer": "What did you buy?",
+          "accept": [],
+          "explain": {
+            "ua": "What did … buy?",
+            "ru": "What did … buy?"
+          },
+          "id": "a2-u01-l06-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u01-l07",
+      "title": {
+        "en": "Practice: a trip",
+        "ua": "Практика: поїздка",
+        "ru": "Практика: поездка"
+      },
+      "recap": {
+        "from": "a2-u01-l06",
+        "note": {
+          "ua": "Згадаймо: Did + хто + базова форма? · What did you do?",
+          "ru": "Вспомним: Did + кто + базовая форма? · What did you do?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "Did you ___ the news?",
+            "options": [
+              "hear",
+              "heard",
+              "hears"
+            ],
+            "answer": "hear",
+            "explain": {
+              "ua": "Після did — базова.",
+              "ru": "После did — базовая."
+            },
+            "id": "a2-u01-l07-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "Did he pay? — No, he ___.",
+            "options": [
+              "didn't",
+              "wasn't",
+              "doesn't"
+            ],
+            "answer": "didn't",
+            "explain": {
+              "ua": "No, he didn't.",
+              "ru": "No, he didn't."
+            },
+            "id": "a2-u01-l07-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "Last summer we ___ to Spain.",
+          "options": [
+            "went",
+            "go",
+            "goed"
+          ],
+          "answer": "went",
+          "explain": {
+            "ua": "Go → went.",
+            "ru": "Go → went."
+          },
+          "id": "a2-u01-l07-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-irregular",
+          "question": "We didn't ___ a car.",
+          "options": [
+            "take",
+            "took",
+            "takes"
+          ],
+          "answer": "take",
+          "explain": {
+            "ua": "Didn't take.",
+            "ru": "Didn't take."
+          },
+          "id": "a2-u01-l07-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "They went to Spain by plane.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "They took a car.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did Olya lose?",
+              "options": [
+                "her sunglasses",
+                "her phone",
+                "her passport"
+              ],
+              "answer": "her sunglasses"
+            }
+          ],
+          "text": "Last summer my husband and I went to Spain. We flew there and didn't take a car — we walked a lot! We ate great food and met nice people. On the last day I lost my sunglasses, but we bought some souvenirs. We came home tired but happy.",
+          "explain": {
+            "ua": "Plane, no car, lost sunglasses, bought souvenirs.",
+            "ru": "Plane, no car, lost sunglasses, bought souvenirs."
+          },
+          "id": "a2-u01-l07-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-irregular",
+          "bank": [
+            "went",
+            "ate",
+            "met",
+            "lost",
+            "bought"
+          ],
+          "reuse": false,
+          "sentences": [
+            "They ___ to Spain.",
+            "They ___ great food.",
+            "They ___ nice people.",
+            "Olya ___ her sunglasses.",
+            "They ___ souvenirs."
+          ],
+          "answers": [
+            "went",
+            "ate",
+            "met",
+            "lost",
+            "bought"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u01-l07-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "We goed home on Sunday.",
+          "answer": "We went home on Sunday.",
+          "accept": [],
+          "explain": {
+            "ua": "Go → went.",
+            "ru": "Go → went."
+          },
+          "id": "a2-u01-l07-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-irregular",
+          "sentence": "Did you met her?",
+          "answer": "Did you meet her?",
+          "accept": [],
+          "explain": {
+            "ua": "Did + meet.",
+            "ru": "Did + meet."
+          },
+          "id": "a2-u01-l07-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "past-irregular",
+          "audio_text": "We didn't see the sea.",
+          "options": [
+            "We didn't see the sea.",
+            "We didn't saw the sea.",
+            "We didn't see the sun."
+          ],
+          "answer": "We didn't see the sea.",
+          "audio": "",
+          "explain": {
+            "ua": "Didn't see.",
+            "ru": "Didn't see."
+          },
+          "id": "a2-u01-l07-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "past-irregular",
+          "prompt": {
+            "ua": "Ми приїхали додому в неділю.",
+            "ru": "Мы приехали домой в воскресенье."
+          },
+          "answer": "We came home on Sunday.",
+          "accept": [
+            "We got home on Sunday.",
+            "We arrived home on Sunday."
+          ],
+          "explain": {
+            "ua": "Come → came.",
+            "ru": "Come → came."
+          },
+          "id": "a2-u01-l07-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-irregular",
+          "prompt": {
+            "ua": "Ти добре спав?",
+            "ru": "Ты хорошо спал?"
+          },
+          "answer": "Did you sleep well?",
+          "accept": [],
+          "explain": {
+            "ua": "Did + sleep.",
+            "ru": "Did + sleep."
+          },
+          "id": "a2-u01-l07-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "past-irregular",
+      "question": "She ___ a new bag.",
+      "options": [
+        "bought",
+        "buyed",
+        "buy"
+      ],
+      "answer": "bought",
+      "explain": {
+        "ua": "Buy → bought.",
+        "ru": "Buy → bought."
+      },
+      "id": "a2-u01-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "past-irregular",
+      "question": "I ___ him at the café.",
+      "options": [
+        "met",
+        "meeted",
+        "meet"
+      ],
+      "answer": "met",
+      "explain": {
+        "ua": "Meet → met.",
+        "ru": "Meet → met."
+      },
+      "id": "a2-u01-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "past-irregular",
+      "question": "We didn't ___ the film.",
+      "options": [
+        "see",
+        "saw",
+        "seen"
+      ],
+      "answer": "see",
+      "explain": {
+        "ua": "Didn't see.",
+        "ru": "Didn't see."
+      },
+      "id": "a2-u01-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "past-irregular",
+      "question": "___ you sleep well?",
+      "options": [
+        "Did",
+        "Were",
+        "Do"
+      ],
+      "answer": "Did",
+      "explain": {
+        "ua": "Did you…?",
+        "ru": "Did you…?"
+      },
+      "id": "a2-u01-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "past-irregular",
+      "question": "He ___ his keys. (lose)",
+      "answer": "lost",
+      "accept": [],
+      "explain": {
+        "ua": "Lose → lost.",
+        "ru": "Lose → lost."
+      },
+      "id": "a2-u01-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "past-irregular",
+      "question": "They ___ at 6. (leave)",
+      "answer": "left",
+      "accept": [],
+      "explain": {
+        "ua": "Leave → left.",
+        "ru": "Leave → left."
+      },
+      "id": "a2-u01-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "think",
+          "right": "thought"
+        },
+        {
+          "left": "bring",
+          "right": "brought"
+        },
+        {
+          "left": "pay",
+          "right": "paid"
+        },
+        {
+          "left": "write",
+          "right": "wrote"
+        }
+      ],
+      "explain": {
+        "ua": "Неправильні дієслова.",
+        "ru": "Неправильные глаголы."
+      },
+      "id": "a2-u01-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "past-irregular",
+      "sentence": "I didn't went out.",
+      "answer": "I didn't go out.",
+      "accept": [
+        "I did not go out."
+      ],
+      "explain": {
+        "ua": "Didn't + go.",
+        "ru": "Didn't + go."
+      },
+      "id": "a2-u01-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "past-irregular",
+      "sentence": "She speaked English.",
+      "answer": "She spoke English.",
+      "accept": [],
+      "explain": {
+        "ua": "Speak → spoke.",
+        "ru": "Speak → spoke."
+      },
+      "id": "a2-u01-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Where",
+        "did",
+        "buy",
+        "you",
+        "it"
+      ],
+      "answer": "Where did you buy it",
+      "explain": {
+        "ua": "Where → did you → buy it?",
+        "ru": "Where → did you → buy it?"
+      },
+      "id": "a2-u01-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "past-irregular",
+      "prompt": {
+        "ua": "Я забув парасольку.",
+        "ru": "Я забыл зонт."
+      },
+      "answer": "I forgot my umbrella.",
+      "accept": [
+        "I forgot the umbrella.",
+        "I forgot an umbrella."
+      ],
+      "explain": {
+        "ua": "Forget → forgot.",
+        "ru": "Forget → forgot."
+      },
+      "id": "a2-u01-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "past-irregular",
+      "audio_text": "He told me everything.",
+      "options": [
+        "He told me everything.",
+        "He tell me everything.",
+        "He sold me everything."
+      ],
+      "answer": "He told me everything.",
+      "audio": "",
+      "explain": {
+        "ua": "Told — розповів.",
+        "ru": "Told — рассказал."
+      },
+      "id": "a2-u01-cp12"
+    }
+  ]
+}

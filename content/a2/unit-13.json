@@ -1,0 +1,1071 @@
+{
+  "id": "a2-u13",
+  "level": "A2",
+  "order": 13,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Continuous for the future",
+    "ua": "Present Continuous для майбутнього",
+    "ru": "Present Continuous для будущего"
+  },
+  "rule": {
+    "formula": {
+      "ua": "am / is / are + -ing + час у майбутньому = домовленість",
+      "ru": "am / is / are + -ing + время в будущем = договорённость"
+    },
+    "explain": {
+      "ua": "Present Continuous може означати майбутнє — коли все вже домовлено (є час, квитки, зустріч): I'm meeting Anna tomorrow. Обов'язково з указанням часу.",
+      "ru": "Present Continuous может означать будущее — когда всё уже договорено (есть время, билеты, встреча): I'm meeting Anna tomorrow. Обязательно с указанием времени."
+    },
+    "examples": [
+      {
+        "en": "I'm meeting Anna at 6.",
+        "ua": "О шостій я зустрічаюся з Анною.",
+        "ru": "В шесть я встречаюсь с Анной."
+      },
+      {
+        "en": "We're flying to Rome on Friday.",
+        "ua": "У п'ятницю ми летимо до Рима.",
+        "ru": "В пятницу мы летим в Рим."
+      },
+      {
+        "en": "What are you doing tonight?",
+        "ua": "Що ти робиш сьогодні ввечері?",
+        "ru": "Что ты делаешь сегодня вечером?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "meet",
+      "ipa": "/miːt/",
+      "ua": "зустрічатися",
+      "ru": "встречаться",
+      "example": "I'm meeting friends.",
+      "audio": ""
+    },
+    {
+      "word": "fly",
+      "ipa": "/flaɪ/",
+      "ua": "летіти",
+      "ru": "лететь",
+      "example": "We're flying to Paris.",
+      "audio": ""
+    },
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "ua": "запис, прийом (до лікаря)",
+      "ru": "запись, приём (к врачу)",
+      "example": "a doctor's appointment",
+      "audio": ""
+    },
+    {
+      "word": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "ua": "зустріч, нарада",
+      "ru": "встреча, совещание",
+      "example": "I've got a meeting at 10.",
+      "audio": ""
+    },
+    {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "ua": "бронювати",
+      "ru": "бронировать",
+      "example": "I booked a table.",
+      "audio": ""
+    },
+    {
+      "word": "diary",
+      "ipa": "/ˈdaɪəri/",
+      "ua": "щоденник, ежедневник",
+      "ru": "ежедневник",
+      "example": "Let me check my diary.",
+      "audio": ""
+    },
+    {
+      "word": "free",
+      "ipa": "/friː/",
+      "ua": "вільний",
+      "ru": "свободный",
+      "example": "Are you free on Monday?",
+      "audio": ""
+    },
+    {
+      "word": "busy",
+      "ipa": "/ˈbɪzi/",
+      "ua": "зайнятий",
+      "ru": "занят",
+      "example": "Sorry, I'm busy.",
+      "audio": ""
+    },
+    {
+      "word": "invite",
+      "ipa": "/ɪnˈvaɪt/",
+      "ua": "запрошувати",
+      "ru": "приглашать",
+      "example": "Thanks for inviting me.",
+      "audio": ""
+    },
+    {
+      "word": "this weekend",
+      "ipa": "/ðɪs ˌwiːkˈend/",
+      "ua": "цими вихідними",
+      "ru": "в эти выходные",
+      "example": "What are you doing this weekend?",
+      "audio": ""
+    },
+    {
+      "word": "the day after tomorrow",
+      "ipa": "/ðə deɪ ˌɑːftə təˈmɒrəʊ/",
+      "ua": "післязавтра",
+      "ru": "послезавтра",
+      "example": "I'm leaving the day after tomorrow.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u13-l01",
+      "title": {
+        "en": "Arrangements",
+        "ua": "Домовленості",
+        "ru": "Договорённости"
+      },
+      "recap": {
+        "from": "a2-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Прогноз і що вдягнути",
+          "ru": "Вспомним: Прогноз и что надеть"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "It's going to rain. Take an ___.",
+            "options": [
+              "umbrella",
+              "sunglasses",
+              "T-shirt"
+            ],
+            "answer": "umbrella",
+            "explain": {
+              "ua": "Дощ → парасолька.",
+              "ru": "Дождь → зонт."
+            },
+            "id": "a2-u13-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Thunder and lightning — it's a ___.",
+            "options": [
+              "storm",
+              "fog",
+              "forecast"
+            ],
+            "answer": "storm",
+            "explain": {
+              "ua": "Storm — гроза.",
+              "ru": "Storm — гроза."
+            },
+            "id": "a2-u13-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'm + -ing + коли (tomorrow, on Friday, at 6)",
+          "ru": "I'm + -ing + когда (tomorrow, on Friday, at 6)"
+        },
+        "explain": {
+          "ua": "Домовилися, записали в ежедневник — Present Continuous + час: I'm seeing the doctor on Monday.",
+          "ru": "Договорились, записали в ежедневник — Present Continuous + время: I'm seeing the doctor on Monday."
+        },
+        "examples": [
+          {
+            "en": "I'm seeing the dentist on Monday.",
+            "ua": "У понеділок я йду до стоматолога.",
+            "ru": "В понедельник я иду к стоматологу."
+          },
+          {
+            "en": "She's leaving tomorrow.",
+            "ua": "Вона їде завтра.",
+            "ru": "Она уезжает завтра."
+          },
+          {
+            "en": "We're having a party on Saturday.",
+            "ua": "У суботу в нас вечірка.",
+            "ru": "В субботу у нас вечеринка."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous-future",
+          "question": "I ___ my parents on Sunday. It's all arranged.",
+          "options": [
+            "'m visiting",
+            "visit",
+            "visited"
+          ],
+          "answer": "'m visiting",
+          "explain": {
+            "ua": "Домовленість → -ing.",
+            "ru": "Договорённость → -ing."
+          },
+          "id": "a2-u13-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-future",
+          "question": "We ___ to Spain next Friday. We've got the tickets.",
+          "options": [
+            "'re flying",
+            "fly",
+            "flew"
+          ],
+          "answer": "'re flying",
+          "explain": {
+            "ua": "Квитки є → -ing.",
+            "ru": "Билеты есть → -ing."
+          },
+          "id": "a2-u13-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-future",
+          "question": "She's ___ Max at 7.",
+          "options": [
+            "meeting",
+            "meet",
+            "meets"
+          ],
+          "answer": "meeting",
+          "explain": {
+            "ua": "Is meeting.",
+            "ru": "Is meeting."
+          },
+          "id": "a2-u13-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-future",
+          "question": "They ___ a party tomorrow.",
+          "options": [
+            "are having",
+            "have",
+            "has"
+          ],
+          "answer": "are having",
+          "explain": {
+            "ua": "Are having.",
+            "ru": "Are having."
+          },
+          "id": "a2-u13-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "present-continuous-future",
+          "question": "I'm ___ the doctor on Tuesday. (see)",
+          "answer": "seeing",
+          "accept": [],
+          "explain": {
+            "ua": "See → seeing.",
+            "ru": "See → seeing."
+          },
+          "id": "a2-u13-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-future",
+          "sentence": "I meet my friends tonight. We booked a table.",
+          "answer": "I'm meeting my friends tonight. We booked a table.",
+          "accept": [
+            "I'm meeting my friends tonight."
+          ],
+          "explain": {
+            "ua": "Домовленість → -ing.",
+            "ru": "Договорённость → -ing."
+          },
+          "id": "a2-u13-l01-e06"
+        },
+        {
+          "type": "build",
+          "topic": "present-continuous-future",
+          "words": [
+            "the",
+            "tomorrow",
+            "after",
+            "day",
+            "We",
+            "leaving",
+            "are"
+          ],
+          "answer": "We are leaving the day after tomorrow",
+          "explain": {
+            "ua": "We are leaving → the day after tomorrow.",
+            "ru": "We are leaving → the day after tomorrow."
+          },
+          "id": "a2-u13-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-continuous-future",
+          "audio_text": "I'm working on Saturday.",
+          "options": [
+            "I'm working on Saturday.",
+            "I work on Saturday.",
+            "I'm walking on Saturday."
+          ],
+          "answer": "I'm working on Saturday.",
+          "audio": "",
+          "explain": {
+            "ua": "Working.",
+            "ru": "Working."
+          },
+          "id": "a2-u13-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous-future",
+          "prompt": {
+            "ua": "Завтра я зустрічаюся з другом.",
+            "ru": "Завтра я встречаюсь с другом."
+          },
+          "answer": "I'm meeting a friend tomorrow.",
+          "accept": [
+            "I am meeting a friend tomorrow.",
+            "Tomorrow I'm meeting a friend.",
+            "I'm meeting my friend tomorrow."
+          ],
+          "explain": {
+            "ua": "Am meeting.",
+            "ru": "Am meeting."
+          },
+          "id": "a2-u13-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u13-l02",
+      "title": {
+        "en": "Three ways to talk about the future",
+        "ua": "Три способи говорити про майбутнє",
+        "ru": "Три способа говорить о будущем"
+      },
+      "recap": {
+        "from": "a2-u13-l01",
+        "note": {
+          "ua": "Згадаймо: I'm + -ing + коли (tomorrow, on Friday, at 6)",
+          "ru": "Вспомним: I'm + -ing + когда (tomorrow, on Friday, at 6)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-continuous-future",
+            "question": "I ___ my parents on Sunday. It's all arranged.",
+            "options": [
+              "'m visiting",
+              "visit",
+              "visited"
+            ],
+            "answer": "'m visiting",
+            "explain": {
+              "ua": "Домовленість → -ing.",
+              "ru": "Договорённость → -ing."
+            },
+            "id": "a2-u13-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-continuous-future",
+            "question": "They ___ a party tomorrow.",
+            "options": [
+              "are having",
+              "have",
+              "has"
+            ],
+            "answer": "are having",
+            "explain": {
+              "ua": "Are having.",
+              "ru": "Are having."
+            },
+            "id": "a2-u13-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "домовленість → I'm meeting · план, намір → I'm going to · рішення / думка → I'll",
+          "ru": "договорённость → I'm meeting · план, намерение → I'm going to · решение / мнение → I'll"
+        },
+        "explain": {
+          "ua": "Present Continuous — усе домовлено (час, місце, інші люди знають). Going to — я так вирішив. Will — вирішую зараз або прогнозую.",
+          "ru": "Present Continuous — всё договорено (время, место, другие люди знают). Going to — я так решил. Will — решаю сейчас или прогнозирую."
+        },
+        "examples": [
+          {
+            "en": "I'm meeting Tom at 6 at the café.",
+            "ua": "О шостій я зустрічаюся з Томом у кафе.",
+            "ru": "В шесть я встречаюсь с Томом в кафе."
+          },
+          {
+            "en": "I'm going to call him one day.",
+            "ua": "Колись я йому подзвоню (маю намір).",
+            "ru": "Когда-нибудь я ему позвоню (собираюсь)."
+          },
+          {
+            "en": "OK, I'll come with you.",
+            "ua": "Гаразд, я піду з тобою.",
+            "ru": "Ладно, я пойду с тобой."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "My train ticket is for 8 am. I ___ at 8.",
+          "options": [
+            "'m leaving",
+            "'ll leave",
+            "leave"
+          ],
+          "answer": "'m leaving",
+          "explain": {
+            "ua": "Квиток є → домовленість.",
+            "ru": "Билет есть → договорённость."
+          },
+          "id": "a2-u13-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "— I'm hungry. — I ___ make you a sandwich.",
+          "options": [
+            "'ll",
+            "'m making",
+            "'m going to"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Пропозиція зараз → will.",
+            "ru": "Предложение сейчас → will."
+          },
+          "id": "a2-u13-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "One day I ___ learn to play the piano.",
+          "options": [
+            "'m going to",
+            "'m learning",
+            "'ll learning"
+          ],
+          "answer": "'m going to",
+          "explain": {
+            "ua": "Намір → going to.",
+            "ru": "Намерение → going to."
+          },
+          "id": "a2-u13-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "— Are you free on Friday? — Sorry, I ___ my grandma.",
+          "options": [
+            "'m visiting",
+            "'ll visit",
+            "visit"
+          ],
+          "answer": "'m visiting",
+          "explain": {
+            "ua": "Вже домовлено → -ing.",
+            "ru": "Уже договорено → -ing."
+          },
+          "id": "a2-u13-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "future-forms",
+          "pairs": [
+            {
+              "left": "I've got a ticket.",
+              "right": "I'm flying on Monday."
+            },
+            {
+              "left": "I've decided.",
+              "right": "I'm going to change my job."
+            },
+            {
+              "left": "Oh, it's raining!",
+              "right": "I'll take a taxi."
+            },
+            {
+              "left": "I think",
+              "right": "she'll like it."
+            }
+          ],
+          "explain": {
+            "ua": "Домовленість / намір / рішення / думка.",
+            "ru": "Договорённость / намерение / решение / мнение."
+          },
+          "id": "a2-u13-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "future-forms",
+          "sentence": "— Can you help me? — Sure, I'm helping you.",
+          "answer": "— Can you help me? — Sure, I'll help you.",
+          "accept": [
+            "Sure, I'll help you."
+          ],
+          "explain": {
+            "ua": "Рішення зараз → will.",
+            "ru": "Решение сейчас → will."
+          },
+          "id": "a2-u13-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-forms",
+          "sentence": "I will see the dentist at 3 tomorrow. I have an appointment.",
+          "answer": "I'm seeing the dentist at 3 tomorrow. I have an appointment.",
+          "accept": [
+            "I'm seeing the dentist at 3 tomorrow."
+          ],
+          "explain": {
+            "ua": "Запис є → -ing.",
+            "ru": "Запись есть → -ing."
+          },
+          "id": "a2-u13-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "future-forms",
+          "audio_text": "What are you doing this weekend?",
+          "options": [
+            "What are you doing this weekend?",
+            "What do you do this weekend?",
+            "What will you doing this weekend?"
+          ],
+          "answer": "What are you doing this weekend?",
+          "audio": "",
+          "explain": {
+            "ua": "What are you doing…?",
+            "ru": "What are you doing…?"
+          },
+          "id": "a2-u13-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-forms",
+          "prompt": {
+            "ua": "Що ти робиш у суботу?",
+            "ru": "Что ты делаешь в субботу?"
+          },
+          "answer": "What are you doing on Saturday?",
+          "accept": [],
+          "explain": {
+            "ua": "Плани з іншими → -ing.",
+            "ru": "Планы с другими → -ing."
+          },
+          "id": "a2-u13-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u13-l03",
+      "title": {
+        "en": "Practice: making plans",
+        "ua": "Практика: домовляємося",
+        "ru": "Практика: договариваемся"
+      },
+      "recap": {
+        "from": "a2-u13-l02",
+        "note": {
+          "ua": "Згадаймо: домовленість → I'm meeting · план, намір → I'm going to · рішення / думка → I'll",
+          "ru": "Вспомним: договорённость → I'm meeting · план, намерение → I'm going to · решение / мнение → I'll"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-forms",
+            "question": "My train ticket is for 8 am. I ___ at 8.",
+            "options": [
+              "'m leaving",
+              "'ll leave",
+              "leave"
+            ],
+            "answer": "'m leaving",
+            "explain": {
+              "ua": "Квиток є → домовленість.",
+              "ru": "Билет есть → договорённость."
+            },
+            "id": "a2-u13-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-forms",
+            "question": "— Are you free on Friday? — Sorry, I ___ my grandma.",
+            "options": [
+              "'m visiting",
+              "'ll visit",
+              "visit"
+            ],
+            "answer": "'m visiting",
+            "explain": {
+              "ua": "Вже домовлено → -ing.",
+              "ru": "Уже договорено → -ing."
+            },
+            "id": "a2-u13-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "Are you free on Thursday? — No, I ___ late.",
+          "options": [
+            "'m working",
+            "work",
+            "worked"
+          ],
+          "answer": "'m working",
+          "explain": {
+            "ua": "Домовлено → -ing.",
+            "ru": "Домовлено → -ing."
+          },
+          "id": "a2-u13-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-forms",
+          "question": "— Let's go to the cinema! — Great idea, I ___ the tickets.",
+          "options": [
+            "'ll book",
+            "'m booking",
+            "book"
+          ],
+          "answer": "'ll book",
+          "explain": {
+            "ua": "Рішення зараз → will.",
+            "ru": "Решение сейчас → will."
+          },
+          "id": "a2-u13-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Kate is free on Saturday.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "They are meeting on Sunday.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What is Kate doing on Saturday?",
+              "options": [
+                "visiting her parents",
+                "working",
+                "flying to Rome"
+              ],
+              "answer": "visiting her parents"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Dan",
+              "line": "Hi Kate! Are you free this weekend?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "Let me check my diary… On Saturday I'm visiting my parents."
+            },
+            {
+              "speaker": "Dan",
+              "line": "And on Sunday?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "Sunday is free!"
+            },
+            {
+              "speaker": "Dan",
+              "line": "Great. Let's go to the new café. I'll book a table for 3 o'clock."
+            },
+            {
+              "speaker": "Kate",
+              "line": "Perfect! See you on Sunday."
+            }
+          ],
+          "explain": {
+            "ua": "Saturday — parents, Sunday — free, meeting at 3.",
+            "ru": "Saturday — parents, Sunday — free, meeting at 3."
+          },
+          "id": "a2-u13-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "future-forms",
+          "bank": [
+            "'m visiting",
+            "free",
+            "'ll book",
+            "check"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Let me ___ my diary.",
+            "On Saturday I ___ my parents.",
+            "Sunday is ___.",
+            "I ___ a table for 3."
+          ],
+          "answers": [
+            "check",
+            "'m visiting",
+            "free",
+            "'ll book"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u13-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Are you free?",
+              "right": {
+                "ua": "Ти вільний?",
+                "ru": "Ты свободен?"
+              }
+            },
+            {
+              "left": "Let me check my diary.",
+              "right": {
+                "ua": "Зараз гляну в ежедневник.",
+                "ru": "Сейчас посмотрю в ежедневник."
+              }
+            },
+            {
+              "left": "Perfect!",
+              "right": {
+                "ua": "Чудово!",
+                "ru": "Отлично!"
+              }
+            },
+            {
+              "left": "I'm busy.",
+              "right": {
+                "ua": "Я зайнятий.",
+                "ru": "Я занят."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u13-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "future-forms",
+          "sentence": "I'm not free tomorrow. I see the doctor.",
+          "answer": "I'm not free tomorrow. I'm seeing the doctor.",
+          "accept": [
+            "I'm seeing the doctor."
+          ],
+          "explain": {
+            "ua": "Запис → -ing.",
+            "ru": "Запись → -ing."
+          },
+          "id": "a2-u13-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "ten",
+            "a",
+            "doctor's",
+            "appointment",
+            "at",
+            "got",
+            "I've"
+          ],
+          "answer": "I've got a doctor's appointment at ten",
+          "explain": {
+            "ua": "A doctor's appointment → at ten.",
+            "ru": "A doctor's appointment → at ten."
+          },
+          "id": "a2-u13-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "future-forms",
+          "audio_text": "Sorry, I'm busy tonight.",
+          "options": [
+            "Sorry, I'm busy tonight.",
+            "Sorry, I'm dizzy tonight.",
+            "Sorry, I was busy tonight."
+          ],
+          "answer": "Sorry, I'm busy tonight.",
+          "audio": "",
+          "explain": {
+            "ua": "Busy.",
+            "ru": "Busy."
+          },
+          "id": "a2-u13-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-forms",
+          "prompt": {
+            "ua": "Післязавтра ми летимо до Варшави.",
+            "ru": "Послезавтра мы летим в Варшаву."
+          },
+          "answer": "We're flying to Warsaw the day after tomorrow.",
+          "accept": [
+            "We are flying to Warsaw the day after tomorrow.",
+            "The day after tomorrow we're flying to Warsaw."
+          ],
+          "explain": {
+            "ua": "Are flying.",
+            "ru": "Are flying."
+          },
+          "id": "a2-u13-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "present-continuous-future",
+      "question": "I ___ Anna at 6. We arranged it yesterday.",
+      "options": [
+        "'m meeting",
+        "meet",
+        "'ll meet"
+      ],
+      "answer": "'m meeting",
+      "explain": {
+        "ua": "Домовленість.",
+        "ru": "Договорённость."
+      },
+      "id": "a2-u13-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "future-forms",
+      "question": "— It's cold. — I ___ close the window.",
+      "options": [
+        "'ll",
+        "'m closing",
+        "'m going to"
+      ],
+      "answer": "'ll",
+      "explain": {
+        "ua": "Рішення зараз.",
+        "ru": "Решение сейчас."
+      },
+      "id": "a2-u13-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "future-forms",
+      "question": "I've decided. I ___ learn Italian.",
+      "options": [
+        "'m going to",
+        "'m learning",
+        "will learning"
+      ],
+      "answer": "'m going to",
+      "explain": {
+        "ua": "Намір.",
+        "ru": "Намерение."
+      },
+      "id": "a2-u13-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "future-forms",
+      "question": "What ___ you doing tonight?",
+      "options": [
+        "are",
+        "do",
+        "will"
+      ],
+      "answer": "are",
+      "explain": {
+        "ua": "What are you doing…?",
+        "ru": "What are you doing…?"
+      },
+      "id": "a2-u13-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "future-forms",
+      "question": "We're ___ a party on Saturday. (have)",
+      "answer": "having",
+      "accept": [],
+      "explain": {
+        "ua": "Have → having.",
+        "ru": "Have → having."
+      },
+      "id": "a2-u13-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "future-forms",
+      "question": "She ___ leaving tomorrow.",
+      "answer": "is",
+      "accept": [
+        "'s"
+      ],
+      "explain": {
+        "ua": "She is.",
+        "ru": "She is."
+      },
+      "id": "a2-u13-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": {
+            "ua": "запис до лікаря",
+            "ru": "приём у врача"
+          }
+        },
+        {
+          "left": "diary",
+          "right": {
+            "ua": "ежедневник",
+            "ru": "ежедневник"
+          }
+        },
+        {
+          "left": "free",
+          "right": {
+            "ua": "вільний",
+            "ru": "свободный"
+          }
+        },
+        {
+          "left": "book",
+          "right": {
+            "ua": "бронювати",
+            "ru": "бронировать"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u13-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "future-forms",
+      "sentence": "I fly to Paris tomorrow. I have the ticket.",
+      "answer": "I'm flying to Paris tomorrow. I have the ticket.",
+      "accept": [
+        "I'm flying to Paris tomorrow."
+      ],
+      "explain": {
+        "ua": "Домовленість → -ing.",
+        "ru": "Договорённость → -ing."
+      },
+      "id": "a2-u13-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "future-forms",
+      "sentence": "Are you free on Friday? — No, I will work.",
+      "answer": "No, I'm working.",
+      "accept": [
+        "No, I'm working on Friday."
+      ],
+      "explain": {
+        "ua": "Домовлено → -ing.",
+        "ru": "Договорено → -ing."
+      },
+      "id": "a2-u13-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "you",
+        "weekend",
+        "this",
+        "free",
+        "Are"
+      ],
+      "answer": "Are you free this weekend",
+      "explain": {
+        "ua": "Are you free → this weekend?",
+        "ru": "Are you free → this weekend?"
+      },
+      "id": "a2-u13-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "future-forms",
+      "prompt": {
+        "ua": "У понеділок я йду до лікаря.",
+        "ru": "В понедельник я иду к врачу."
+      },
+      "answer": "I'm seeing the doctor on Monday.",
+      "accept": [
+        "I'm going to the doctor on Monday.",
+        "On Monday I'm seeing the doctor.",
+        "I am seeing the doctor on Monday."
+      ],
+      "explain": {
+        "ua": "Am seeing.",
+        "ru": "Am seeing."
+      },
+      "id": "a2-u13-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "future-forms",
+      "audio_text": "We're having dinner with my parents.",
+      "options": [
+        "We're having dinner with my parents.",
+        "We have dinner with my parents.",
+        "We're having dinner with my partners."
+      ],
+      "answer": "We're having dinner with my parents.",
+      "audio": "",
+      "explain": {
+        "ua": "We're having.",
+        "ru": "We're having."
+      },
+      "id": "a2-u13-cp12"
+    }
+  ]
+}

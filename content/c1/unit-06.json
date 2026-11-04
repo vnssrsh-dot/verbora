@@ -1,0 +1,1035 @@
+{
+  "id": "c1-u06",
+  "level": "C1",
+  "order": 6,
+  "kind": "grammar",
+  "title": {
+    "en": "Modals: shades of meaning",
+    "ua": "Модальні: відтінки значень",
+    "ru": "Модальные: оттенки значений"
+  },
+  "rule": {
+    "formula": {
+      "ua": "be bound to · be likely to · may well · can't possibly · shall · need not · will / would — звички й характер",
+      "ru": "be bound to · be likely to · may well · can't possibly · shall · need not · will / would — привычки и характер"
+    },
+    "explain": {
+      "ua": "C1 — це відтінки: may well (цілком можливо) сильніше за may; be bound to — «неодмінно»; He will leave his socks everywhere — дратівлива звичка; She would always sing in the kitchen — звичка в минулому.",
+      "ru": "C1 — это оттенки: may well (вполне возможно) сильнее, чем may; be bound to — «непременно»; He will leave his socks everywhere — раздражающая привычка; She would always sing in the kitchen — привычка в прошлом."
+    },
+    "examples": [
+      {
+        "en": "It's bound to rain — it always does on holidays.",
+        "ua": "Неодмінно піде дощ — так завжди у свята.",
+        "ru": "Обязательно пойдёт дождь — так всегда в праздники."
+      },
+      {
+        "en": "You need not worry.",
+        "ua": "Вам не варто хвилюватися.",
+        "ru": "Вам незачем беспокоиться."
+      },
+      {
+        "en": "My grandpa would tell us stories every night.",
+        "ua": "Дідусь щовечора розповідав нам історії.",
+        "ru": "Дедушка каждый вечер рассказывал нам истории."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "be bound to",
+      "ipa": "/biː ˈbaʊnd tə/",
+      "ua": "неодмінно, напевно",
+      "ru": "обязательно, наверняка",
+      "example": "He's bound to be late.",
+      "audio": ""
+    },
+    {
+      "word": "be likely to",
+      "ipa": "/biː ˈlaɪkli tə/",
+      "ua": "ймовірно",
+      "ru": "вероятно",
+      "example": "Prices are likely to rise.",
+      "audio": ""
+    },
+    {
+      "word": "be unlikely to",
+      "ipa": "/biː ʌnˈlaɪkli tə/",
+      "ua": "навряд чи",
+      "ru": "вряд ли",
+      "example": "She's unlikely to agree.",
+      "audio": ""
+    },
+    {
+      "word": "may well",
+      "ipa": "/meɪ ˈwel/",
+      "ua": "цілком можливо",
+      "ru": "вполне возможно",
+      "example": "You may well be right.",
+      "audio": ""
+    },
+    {
+      "word": "might as well",
+      "ipa": "/maɪt əz ˈwel/",
+      "ua": "можна й (немає причин не)",
+      "ru": "можно и (нет причин не)",
+      "example": "We might as well go home.",
+      "audio": ""
+    },
+    {
+      "word": "can't possibly",
+      "ipa": "/kɑːnt ˈpɒsəbli/",
+      "ua": "аж ніяк не може",
+      "ru": "никак не может",
+      "example": "I can't possibly finish today.",
+      "audio": ""
+    },
+    {
+      "word": "shall",
+      "ipa": "/ʃæl/",
+      "ua": "(офіційне) зобов'язаний; запропонувати",
+      "ru": "(официальное) обязан; предложить",
+      "example": "Shall I open the window?",
+      "audio": ""
+    },
+    {
+      "word": "need not / needn't",
+      "ipa": "/niːd nɒt/",
+      "ua": "не обов'язково",
+      "ru": "не обязательно",
+      "example": "You needn't come.",
+      "audio": ""
+    },
+    {
+      "word": "be to",
+      "ipa": "/biː tə/",
+      "ua": "мати (за наказом / планом)",
+      "ru": "должен (по приказу / плану)",
+      "example": "You are to report at 9.",
+      "audio": ""
+    },
+    {
+      "word": "will (habit)",
+      "ipa": "/wɪl/",
+      "ua": "(дратівлива звичка)",
+      "ru": "(раздражающая привычка)",
+      "example": "He will keep interrupting!",
+      "audio": ""
+    },
+    {
+      "word": "would (past habit)",
+      "ipa": "/wʊd/",
+      "ua": "бувало, (звичка в минулому)",
+      "ru": "бывало, (привычка в прошлом)",
+      "example": "We would play outside for hours.",
+      "audio": ""
+    },
+    {
+      "word": "dare",
+      "ipa": "/deə/",
+      "ua": "сміти, наважитися",
+      "ru": "сметь, осмелиться",
+      "example": "How dare you!",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u06-l01",
+      "title": {
+        "en": "Shades of probability",
+        "ua": "Відтінки ймовірності",
+        "ru": "Оттенки вероятности"
+      },
+      "recap": {
+        "from": "c1-u05-l03",
+        "note": {
+          "ua": "Згадаймо: look / sound / feel / act + as if / as though + речення · нереально → Past (were) · можливо правда → Present",
+          "ru": "Вспомним: look / sound / feel / act + as if / as though + предложение · нереально → Past (were) · возможно правда → Present"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "as-if",
+            "question": "He acts as if he ___ the boss. (but he isn't)",
+            "options": [
+              "were",
+              "is",
+              "be"
+            ],
+            "answer": "were",
+            "explain": {
+              "ua": "Нереально → were.",
+              "ru": "Нереально → were."
+            },
+            "id": "c1-u06-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "as-if",
+            "question": "I feel as if I ___ known you for years.",
+            "options": [
+              "had",
+              "have",
+              "would"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Нереальне минуле → had.",
+              "ru": "Нереальное прошлое → had."
+            },
+            "id": "c1-u06-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "bound to (≈100%) · likely to · may well · may / might · unlikely to · can't possibly (≈0%) · might as well — «можна й…»",
+          "ru": "bound to (≈100%) · likely to · may well · may / might · unlikely to · can't possibly (≈0%) · might as well — «можно и…»"
+        },
+        "explain": {
+          "ua": "Шкала впевненості: She's bound to win → She's likely to win → She may well win → She might win → She's unlikely to win → She can't possibly win. Might as well — нема кращого варіанту: The shop is closed, we might as well go home.",
+          "ru": "Шкала уверенности: She's bound to win → She's likely to win → She may well win → She might win → She's unlikely to win → She can't possibly win. Might as well — нет лучшего варианта: The shop is closed, we might as well go home."
+        },
+        "examples": [
+          {
+            "en": "Don't worry, he's bound to call.",
+            "ua": "Не хвилюйся, він обов'язково подзвонить.",
+            "ru": "Не волнуйся, он обязательно позвонит."
+          },
+          {
+            "en": "Prices are likely to go up next year.",
+            "ua": "Ціни, ймовірно, зростуть наступного року.",
+            "ru": "Цены, вероятно, вырастут в следующем году."
+          },
+          {
+            "en": "There's nothing on TV — we might as well go to bed.",
+            "ua": "По телевізору нічого — можна й спати лягати.",
+            "ru": "По телевизору ничего — можно и спать ложиться."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "She studied so hard — she's ___ to pass.",
+          "options": [
+            "bound",
+            "unlikely",
+            "possible"
+          ],
+          "answer": "bound",
+          "explain": {
+            "ua": "Майже напевно → bound to.",
+            "ru": "Почти наверняка → bound to."
+          },
+          "id": "c1-u06-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "It's very cloudy. It's ___ to rain later.",
+          "options": [
+            "likely",
+            "unlikely",
+            "can't"
+          ],
+          "answer": "likely",
+          "explain": {
+            "ua": "Likely to.",
+            "ru": "Likely to."
+          },
+          "id": "c1-u06-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "You may ___ be right. I hadn't thought of that.",
+          "options": [
+            "well",
+            "good",
+            "also"
+          ],
+          "answer": "well",
+          "explain": {
+            "ua": "May well — цілком можливо.",
+            "ru": "May well — вполне возможно."
+          },
+          "id": "c1-u06-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "He's very shy. He's ___ to speak at the meeting.",
+          "options": [
+            "unlikely",
+            "bound",
+            "likely"
+          ],
+          "answer": "unlikely",
+          "explain": {
+            "ua": "Навряд чи → unlikely.",
+            "ru": "Вряд ли → unlikely."
+          },
+          "id": "c1-u06-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "The bus has gone. We might ___ walk.",
+          "options": [
+            "as well",
+            "well",
+            "also"
+          ],
+          "answer": "as well",
+          "explain": {
+            "ua": "Might as well.",
+            "ru": "Might as well."
+          },
+          "id": "c1-u06-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-nuance",
+          "question": "I can't ___ eat all this!",
+          "options": [
+            "possibly",
+            "possible",
+            "maybe"
+          ],
+          "answer": "possibly",
+          "explain": {
+            "ua": "Can't possibly.",
+            "ru": "Can't possibly."
+          },
+          "id": "c1-u06-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "modals-nuance",
+          "pairs": [
+            {
+              "left": "bound to",
+              "right": "≈ 100%"
+            },
+            {
+              "left": "likely to",
+              "right": "≈ 70%"
+            },
+            {
+              "left": "unlikely to",
+              "right": "≈ 20%"
+            },
+            {
+              "left": "can't possibly",
+              "right": "≈ 0%"
+            }
+          ],
+          "explain": {
+            "ua": "Шкала ймовірності.",
+            "ru": "Шкала вероятности."
+          },
+          "id": "c1-u06-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-nuance",
+          "sentence": "He's bound to being late.",
+          "answer": "He's bound to be late.",
+          "accept": [],
+          "explain": {
+            "ua": "Bound to + дієслово.",
+            "ru": "Bound to + глагол."
+          },
+          "id": "c1-u06-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-nuance",
+          "prompt": {
+            "ua": "Він, імовірно, погодиться.",
+            "ru": "Он, вероятно, согласится."
+          },
+          "answer": "He's likely to agree.",
+          "accept": [
+            "He is likely to agree.",
+            "He'll probably agree.",
+            "He will probably agree."
+          ],
+          "explain": {
+            "ua": "Likely to.",
+            "ru": "Likely to."
+          },
+          "id": "c1-u06-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u06-l02",
+      "title": {
+        "en": "Formal modals",
+        "ua": "Офіційні модальні",
+        "ru": "Официальные модальные"
+      },
+      "recap": {
+        "from": "c1-u06-l01",
+        "note": {
+          "ua": "Згадаймо: bound to (≈100%) · likely to · may well · may / might · unlikely to · can't possibly (≈0%) · might as well — «можна й…»",
+          "ru": "Вспомним: bound to (≈100%) · likely to · may well · may / might · unlikely to · can't possibly (≈0%) · might as well — «можно и…»"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-nuance",
+            "question": "She studied so hard — she's ___ to pass.",
+            "options": [
+              "bound",
+              "unlikely",
+              "possible"
+            ],
+            "answer": "bound",
+            "explain": {
+              "ua": "Майже напевно → bound to.",
+              "ru": "Почти наверняка → bound to."
+            },
+            "id": "c1-u06-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-nuance",
+            "question": "The bus has gone. We might ___ walk.",
+            "options": [
+              "as well",
+              "well",
+              "also"
+            ],
+            "answer": "as well",
+            "explain": {
+              "ua": "Might as well.",
+              "ru": "Might as well."
+            },
+            "id": "c1-u06-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "shall (пропозиція / правило) · need not (не обов'язково) · be to (наказ, план) · may (офіційний дозвіл) · How dare…!",
+          "ru": "shall (предложение / правило) · need not (не обязательно) · be to (приказ, план) · may (официальное разрешение) · How dare…!"
+        },
+        "explain": {
+          "ua": "Shall I…? / Shall we…? — пропозиція. У документах shall — обов'язок: The tenant shall pay rent monthly. You are to arrive by 9 — інструкція. You need not reply — можна не відповідати.",
+          "ru": "Shall I…? / Shall we…? — предложение. В документах shall — обязанность: The tenant shall pay rent monthly. You are to arrive by 9 — инструкция. You need not reply — можно не отвечать."
+        },
+        "examples": [
+          {
+            "en": "Shall we start?",
+            "ua": "Почнімо?",
+            "ru": "Начнём?"
+          },
+          {
+            "en": "All visitors are to sign in at reception.",
+            "ua": "Усі відвідувачі мають зареєструватися на рецепції.",
+            "ru": "Все посетители должны зарегистрироваться на ресепшене."
+          },
+          {
+            "en": "You need not bring anything.",
+            "ua": "Нічого не треба приносити.",
+            "ru": "Ничего не нужно приносить."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "___ I help you with your bags?",
+          "options": [
+            "Shall",
+            "Will",
+            "Do"
+          ],
+          "answer": "Shall",
+          "explain": {
+            "ua": "Пропозиція → Shall I.",
+            "ru": "Предложение → Shall I."
+          },
+          "id": "c1-u06-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "You ___ not come if you're busy.",
+          "options": [
+            "need",
+            "must",
+            "should"
+          ],
+          "answer": "need",
+          "explain": {
+            "ua": "Need not — не обов'язково.",
+            "ru": "Need not — не обязательно."
+          },
+          "id": "c1-u06-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "All students ___ to wear uniforms.",
+          "options": [
+            "are",
+            "shall",
+            "must"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Be to — правило.",
+            "ru": "Be to — правило."
+          },
+          "id": "c1-u06-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "The tenant ___ pay the rent on the first of each month.",
+          "options": [
+            "shall",
+            "would",
+            "might"
+          ],
+          "answer": "shall",
+          "explain": {
+            "ua": "Документ → shall.",
+            "ru": "Документ → shall."
+          },
+          "id": "c1-u06-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "How ___ you speak to me like that!",
+          "options": [
+            "dare",
+            "dares",
+            "dared to"
+          ],
+          "answer": "dare",
+          "explain": {
+            "ua": "How dare you!",
+            "ru": "How dare you!"
+          },
+          "id": "c1-u06-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "modals-formal",
+          "question": "___ I ask you a personal question?",
+          "options": [
+            "May",
+            "Shall",
+            "Must"
+          ],
+          "answer": "May",
+          "explain": {
+            "ua": "Офіційний дозвіл → May.",
+            "ru": "Официальное разрешение → May."
+          },
+          "id": "c1-u06-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "modals-formal",
+          "bank": [
+            "Shall",
+            "need",
+            "are",
+            "dare"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ we go?",
+            "You ___ not worry.",
+            "You ___ to be here by 8.",
+            "How ___ he!"
+          ],
+          "answers": [
+            "Shall",
+            "need",
+            "are",
+            "dare"
+          ],
+          "explain": {
+            "ua": "Офіційні модальні.",
+            "ru": "Официальные модальные."
+          },
+          "id": "c1-u06-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "modals-formal",
+          "sentence": "You need not to bring food.",
+          "answer": "You need not bring food.",
+          "accept": [
+            "You needn't bring food.",
+            "You don't need to bring food."
+          ],
+          "explain": {
+            "ua": "Need not + дієслово.",
+            "ru": "Need not + глагол."
+          },
+          "id": "c1-u06-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "modals-formal",
+          "prompt": {
+            "ua": "Почнімо?",
+            "ru": "Начнём?"
+          },
+          "answer": "Shall we start?",
+          "accept": [
+            "Shall we begin?",
+            "Let's start, shall we?"
+          ],
+          "explain": {
+            "ua": "Shall we.",
+            "ru": "Shall we."
+          },
+          "id": "c1-u06-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u06-l03",
+      "title": {
+        "en": "will and would for habits",
+        "ua": "will і would для звичок",
+        "ru": "will и would для привычек"
+      },
+      "recap": {
+        "from": "c1-u06-l02",
+        "note": {
+          "ua": "Згадаймо: shall (пропозиція / правило) · need not (не обов'язково) · be to (наказ, план) · may (офіційний дозвіл) · How dare…!",
+          "ru": "Вспомним: shall (предложение / правило) · need not (не обязательно) · be to (приказ, план) · may (официальное разрешение) · How dare…!"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-formal",
+            "question": "___ I help you with your bags?",
+            "options": [
+              "Shall",
+              "Will",
+              "Do"
+            ],
+            "answer": "Shall",
+            "explain": {
+              "ua": "Пропозиція → Shall I.",
+              "ru": "Предложение → Shall I."
+            },
+            "id": "c1-u06-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-formal",
+            "question": "How ___ you speak to me like that!",
+            "options": [
+              "dare",
+              "dares",
+              "dared to"
+            ],
+            "answer": "dare",
+            "explain": {
+              "ua": "How dare you!",
+              "ru": "How dare you!"
+            },
+            "id": "c1-u06-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "will + дієслово — типова (часто дратівлива) звичка зараз · would + дієслово — звичка в минулому · He WILL… (з наголосом) — роздратування",
+          "ru": "will + глагол — типичная (часто раздражающая) привычка сейчас · would + глагол — привычка в прошлом · He WILL… (с ударением) — раздражение"
+        },
+        "explain": {
+          "ua": "My cat will sleep anywhere — така вже вона. He will keep interrupting! — дратує. When I was a kid, we would go to the village every summer. Would — лише для дій, не для станів: не we would live, а we used to live.",
+          "ru": "My cat will sleep anywhere — такая уж она. He will keep interrupting! — раздражает. When I was a kid, we would go to the village every summer. Would — только для действий, не для состояний: не we would live, а we used to live."
+        },
+        "examples": [
+          {
+            "en": "She'll talk for hours if you let her.",
+            "ua": "Вона може говорити годинами, якщо їй дозволити.",
+            "ru": "Она может говорить часами, если ей позволить."
+          },
+          {
+            "en": "He will leave his dirty socks on the floor!",
+            "ua": "Він постійно залишає брудні шкарпетки на підлозі!",
+            "ru": "Он вечно оставляет грязные носки на полу!"
+          },
+          {
+            "en": "Every Sunday my grandma would bake pies.",
+            "ua": "Щонеділі бабуся пекла пиріжки.",
+            "ru": "Каждое воскресенье бабушка пекла пирожки."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will-would-habits",
+          "question": "My dog ___ eat anything you give him.",
+          "options": [
+            "will",
+            "would",
+            "shall"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "Типова звичка зараз → will.",
+            "ru": "Типичная привычка сейчас → will."
+          },
+          "id": "c1-u06-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will-would-habits",
+          "question": "When I was little, my dad ___ read to me every night.",
+          "options": [
+            "would",
+            "will",
+            "was"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Звичка в минулому → would.",
+            "ru": "Привычка в прошлом → would."
+          },
+          "id": "c1-u06-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will-would-habits",
+          "question": "We ___ live in a small village. (state)",
+          "options": [
+            "used to",
+            "would",
+            "will"
+          ],
+          "answer": "used to",
+          "explain": {
+            "ua": "Стан → used to.",
+            "ru": "Состояние → used to."
+          },
+          "id": "c1-u06-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will-would-habits",
+          "question": "He ___ keep interrupting me! It's so annoying.",
+          "options": [
+            "will",
+            "would",
+            "is"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "Роздратування → will.",
+            "ru": "Раздражение → will."
+          },
+          "id": "c1-u06-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "will-would-habits",
+          "question": "Every summer we ___ swim in the river.",
+          "options": [
+            "would",
+            "will",
+            "were"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "c1-u06-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "will-would-habits",
+          "pairs": [
+            {
+              "left": "She'll sing in the shower.",
+              "right": {
+                "ua": "Типова звичка",
+                "ru": "Типичная привычка"
+              }
+            },
+            {
+              "left": "He WILL leave the door open!",
+              "right": {
+                "ua": "Дратує",
+                "ru": "Раздражает"
+              }
+            },
+            {
+              "left": "We would play outside.",
+              "right": {
+                "ua": "Звичка в минулому",
+                "ru": "Привычка в прошлом"
+              }
+            },
+            {
+              "left": "We used to have a dog.",
+              "right": {
+                "ua": "Стан у минулому",
+                "ru": "Состояние в прошлом"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "c1-u06-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "will-would-habits",
+          "sentence": "We would have a big house when I was a child.",
+          "answer": "We used to have a big house when I was a child.",
+          "accept": [],
+          "explain": {
+            "ua": "Стан → used to.",
+            "ru": "Состояние → used to."
+          },
+          "id": "c1-u06-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "will-would-habits",
+          "sentence": "My grandpa will tell us stories when we were kids.",
+          "answer": "My grandpa would tell us stories when we were kids.",
+          "accept": [
+            "My grandpa used to tell us stories when we were kids."
+          ],
+          "explain": {
+            "ua": "Минуле → would.",
+            "ru": "Прошлое → would."
+          },
+          "id": "c1-u06-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will-would-habits",
+          "prompt": {
+            "ua": "Щоліта ми їздили до бабусі.",
+            "ru": "Каждое лето мы ездили к бабушке."
+          },
+          "answer": "Every summer we would go to our grandma's.",
+          "accept": [
+            "Every summer we used to go to our grandma's.",
+            "Every summer we would visit our grandma.",
+            "Every summer we used to visit our grandma.",
+            "Every summer we would go to grandma's."
+          ],
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "c1-u06-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "modals-nuance",
+      "question": "Don't worry, she's ___ to find out.",
+      "options": [
+        "bound",
+        "unlikely",
+        "possibly"
+      ],
+      "answer": "bound",
+      "explain": {
+        "ua": "Bound to.",
+        "ru": "Bound to."
+      },
+      "id": "c1-u06-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-nuance",
+      "question": "It's ___ to snow in July.",
+      "options": [
+        "unlikely",
+        "bound",
+        "likely"
+      ],
+      "answer": "unlikely",
+      "explain": {
+        "ua": "Unlikely.",
+        "ru": "Unlikely."
+      },
+      "id": "c1-u06-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-nuance",
+      "question": "We've missed the film. We might ___ go home.",
+      "options": [
+        "as well",
+        "well",
+        "too"
+      ],
+      "answer": "as well",
+      "explain": {
+        "ua": "Might as well.",
+        "ru": "Might as well."
+      },
+      "id": "c1-u06-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-formal",
+      "question": "___ we dance?",
+      "options": [
+        "Shall",
+        "Will",
+        "Need"
+      ],
+      "answer": "Shall",
+      "explain": {
+        "ua": "Shall we.",
+        "ru": "Shall we."
+      },
+      "id": "c1-u06-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-formal",
+      "question": "You ___ not apologise.",
+      "options": [
+        "need",
+        "must",
+        "dare"
+      ],
+      "answer": "need",
+      "explain": {
+        "ua": "Need not.",
+        "ru": "Need not."
+      },
+      "id": "c1-u06-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "will-would-habits",
+      "question": "When I was a kid, we ___ play football every day.",
+      "answer": "would",
+      "accept": [
+        "used to"
+      ],
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "c1-u06-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "modals-nuance",
+      "question": "You may ___ be right.",
+      "answer": "well",
+      "accept": [],
+      "explain": {
+        "ua": "May well.",
+        "ru": "May well."
+      },
+      "id": "c1-u06-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "will-would-habits",
+      "sentence": "We would live in Kharkiv.",
+      "answer": "We used to live in Kharkiv.",
+      "accept": [],
+      "explain": {
+        "ua": "Стан → used to.",
+        "ru": "Состояние → used to."
+      },
+      "id": "c1-u06-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "modals-nuance",
+      "sentence": "I can't possible do it.",
+      "answer": "I can't possibly do it.",
+      "accept": [],
+      "explain": {
+        "ua": "Possibly.",
+        "ru": "Possibly."
+      },
+      "id": "c1-u06-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "modals-formal",
+      "words": [
+        "to",
+        "are",
+        "leave",
+        "All",
+        "by",
+        "noon",
+        "guests"
+      ],
+      "answer": "All guests are to leave by noon",
+      "explain": {
+        "ua": "Are to → leave.",
+        "ru": "Are to → leave."
+      },
+      "id": "c1-u06-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "modals-nuance",
+      "prompt": {
+        "ua": "Він неодмінно спізниться.",
+        "ru": "Он обязательно опоздает."
+      },
+      "answer": "He's bound to be late.",
+      "accept": [
+        "He is bound to be late.",
+        "He'll definitely be late.",
+        "He will definitely be late."
+      ],
+      "explain": {
+        "ua": "Bound to.",
+        "ru": "Bound to."
+      },
+      "id": "c1-u06-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "will-would-habits",
+      "audio_text": "He will keep interrupting me.",
+      "options": [
+        "He will keep interrupting me.",
+        "He would keep interrupting me.",
+        "He will keep interpreting me."
+      ],
+      "answer": "He will keep interrupting me.",
+      "audio": "",
+      "explain": {
+        "ua": "Will keep.",
+        "ru": "Will keep."
+      },
+      "id": "c1-u06-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "id": "b1-u20",
+  "level": "B1",
+  "order": 20,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Perfect",
+    "ua": "Past Perfect",
+    "ru": "Past Perfect"
+  },
+  "rule": {
+    "formula": {
+      "ua": "had + V3 — те, що сталося ДО іншої події в минулому",
+      "ru": "had + V3 — то, что произошло ДО другого события в прошлом"
+    },
+    "explain": {
+      "ua": "Past Perfect — «минуле в минулому». Коли розповідаємо про минуле й хочемо показати, що щось сталося ще раніше: When I arrived, the train had left (потяг поїхав раніше, ніж я прийшов).",
+      "ru": "Past Perfect — «прошлое в прошлом». Когда рассказываем о прошлом и хотим показать, что что-то произошло ещё раньше: When I arrived, the train had left (поезд ушёл раньше, чем я пришёл)."
+    },
+    "examples": [
+      {
+        "en": "When I got home, my wife had cooked dinner.",
+        "ua": "Коли я прийшов додому, дружина вже приготувала вечерю.",
+        "ru": "Когда я пришёл домой, жена уже приготовила ужин."
+      },
+      {
+        "en": "I had never seen the sea before that trip.",
+        "ua": "До тієї поїздки я ніколи не бачив моря.",
+        "ru": "До той поездки я никогда не видел моря."
+      },
+      {
+        "en": "She was sad because she had lost her keys.",
+        "ua": "Вона засмутилася, бо загубила ключі.",
+        "ru": "Она расстроилась, потому что потеряла ключи."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "had + V3",
+      "ipa": "/hæd/",
+      "ua": "уже зробив (до того)",
+      "ru": "уже сделал (до того)",
+      "example": "He had left.",
+      "audio": ""
+    },
+    {
+      "word": "by the time",
+      "ipa": "/baɪ ðə ˈtaɪm/",
+      "ua": "на той час, як",
+      "ru": "к тому времени, как",
+      "example": "By the time we arrived, …",
+      "audio": ""
+    },
+    {
+      "word": "already",
+      "ipa": "/ɔːlˈredi/",
+      "ua": "вже",
+      "ru": "уже",
+      "example": "The film had already started.",
+      "audio": ""
+    },
+    {
+      "word": "before",
+      "ipa": "/bɪˈfɔː/",
+      "ua": "до того, раніше",
+      "ru": "до того, раньше",
+      "example": "I had never been there before.",
+      "audio": ""
+    },
+    {
+      "word": "after",
+      "ipa": "/ˈɑːftə/",
+      "ua": "після того як",
+      "ru": "после того как",
+      "example": "after he had eaten",
+      "audio": ""
+    },
+    {
+      "word": "realise",
+      "ipa": "/ˈrɪəlaɪz/",
+      "ua": "усвідомити, зрозуміти",
+      "ru": "осознать, понять",
+      "example": "I realised I had forgotten my phone.",
+      "audio": ""
+    },
+    {
+      "word": "leave → left",
+      "ipa": "/left/",
+      "ua": "поїхати, піти → пішов",
+      "ru": "уехать, уйти → ушёл",
+      "example": "The bus had left.",
+      "audio": ""
+    },
+    {
+      "word": "forget → forgotten",
+      "ipa": "/fəˈɡɒtn/",
+      "ua": "забути → забув",
+      "ru": "забыть → забыл",
+      "example": "I had forgotten.",
+      "audio": ""
+    },
+    {
+      "word": "break in",
+      "ipa": "/ˌbreɪk ˈɪn/",
+      "ua": "вломитися (про злодія)",
+      "ru": "вломиться (о воре)",
+      "example": "Someone had broken in.",
+      "audio": ""
+    },
+    {
+      "word": "land",
+      "ipa": "/lænd/",
+      "ua": "приземлятися",
+      "ru": "приземляться",
+      "example": "The plane had landed.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u20-l01",
+      "title": {
+        "en": "had + V3",
+        "ua": "had + V3",
+        "ru": "had + V3"
+      },
+      "recap": {
+        "from": "b1-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Говоримо про фільми",
+          "ru": "Вспомним: Говорим о фильмах"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The film got great ___ . Everyone loves it.",
+            "options": [
+              "reviews",
+              "plots",
+              "adverts"
+            ],
+            "answer": "reviews",
+            "explain": {
+              "ua": "Reviews.",
+              "ru": "Reviews."
+            },
+            "id": "b1-u20-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "questions-prepositions",
+            "question": "— What's it ___ ? — It's about a family in Odesa.",
+            "options": [
+              "about",
+              "of",
+              "for"
+            ],
+            "answer": "about",
+            "explain": {
+              "ua": "What's it about?",
+              "ru": "What's it about?"
+            },
+            "id": "b1-u20-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "had + V3 — для всіх осіб",
+          "ru": "had + V3 — для всех лиц"
+        },
+        "explain": {
+          "ua": "Had однаковий для всіх: I had finished, she had left. Скорочено: I'd finished. Перша подія — Past Perfect, друга — Past Simple.",
+          "ru": "Had одинаковый для всех: I had finished, she had left. Сокращённо: I'd finished. Первое событие — Past Perfect, второе — Past Simple."
+        },
+        "examples": [
+          {
+            "en": "The film had started when we arrived.",
+            "ua": "Фільм уже почався, коли ми прийшли.",
+            "ru": "Фильм уже начался, когда мы пришли."
+          },
+          {
+            "en": "She'd finished work, so she went home.",
+            "ua": "Вона закінчила роботу й пішла додому.",
+            "ru": "Она закончила работу и пошла домой."
+          },
+          {
+            "en": "They had sold the house before we called.",
+            "ua": "Вони продали будинок ще до нашого дзвінка.",
+            "ru": "Они продали дом ещё до нашего звонка."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "When we got to the station, the train ___ .",
+          "options": [
+            "had left",
+            "left",
+            "has left"
+          ],
+          "answer": "had left",
+          "explain": {
+            "ua": "Поїхав раніше → had left.",
+            "ru": "Ушёл раньше → had left."
+          },
+          "id": "b1-u20-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "I ___ my keys, so I couldn't get in.",
+          "options": [
+            "had lost",
+            "have lost",
+            "lose"
+          ],
+          "answer": "had lost",
+          "explain": {
+            "ua": "Спочатку загубив → had lost.",
+            "ru": "Сначала потерял → had lost."
+          },
+          "id": "b1-u20-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "She ___ already eaten when I arrived.",
+          "options": [
+            "had",
+            "has",
+            "was"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Had + V3.",
+            "ru": "Had + V3."
+          },
+          "id": "b1-u20-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "He had ___ the email before the meeting.",
+          "options": [
+            "sent",
+            "send",
+            "sending"
+          ],
+          "answer": "sent",
+          "explain": {
+            "ua": "V3 — sent.",
+            "ru": "V3 — sent."
+          },
+          "id": "b1-u20-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "past-perfect",
+          "question": "When I woke up, my husband ___ already gone to work.",
+          "answer": "had",
+          "accept": [
+            "'d"
+          ],
+          "explain": {
+            "ua": "Had gone.",
+            "ru": "Had gone."
+          },
+          "id": "b1-u20-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "When I arrived, the film has started.",
+          "answer": "When I arrived, the film had started.",
+          "accept": [],
+          "explain": {
+            "ua": "Минуле в минулому → had.",
+            "ru": "Прошлое в прошлом → had."
+          },
+          "id": "b1-u20-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "She had went home.",
+          "answer": "She had gone home.",
+          "accept": [
+            "She'd gone home."
+          ],
+          "explain": {
+            "ua": "V3 — gone.",
+            "ru": "V3 — gone."
+          },
+          "id": "b1-u20-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-perfect",
+          "audio_text": "The plane had already landed.",
+          "options": [
+            "The plane had already landed.",
+            "The plane has already landed.",
+            "The plane had already left."
+          ],
+          "answer": "The plane had already landed.",
+          "audio": "",
+          "explain": {
+            "ua": "Had landed.",
+            "ru": "Had landed."
+          },
+          "id": "b1-u20-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-perfect",
+          "prompt": {
+            "ua": "Коли я прийшла, вони вже поїли.",
+            "ru": "Когда я пришла, они уже поели."
+          },
+          "answer": "When I arrived, they had already eaten.",
+          "accept": [
+            "When I came, they had already eaten.",
+            "When I got there, they had already eaten."
+          ],
+          "explain": {
+            "ua": "Had eaten.",
+            "ru": "Had eaten."
+          },
+          "id": "b1-u20-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u20-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "b1-u20-l01",
+        "note": {
+          "ua": "Згадаймо: had + V3 — для всіх осіб",
+          "ru": "Вспомним: had + V3 — для всех лиц"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-perfect",
+            "question": "When we got to the station, the train ___ .",
+            "options": [
+              "had left",
+              "left",
+              "has left"
+            ],
+            "answer": "had left",
+            "explain": {
+              "ua": "Поїхав раніше → had left.",
+              "ru": "Ушёл раньше → had left."
+            },
+            "id": "b1-u20-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-perfect",
+            "question": "When I woke up, my husband ___ already gone to work.",
+            "answer": "had",
+            "accept": [
+              "'d"
+            ],
+            "explain": {
+              "ua": "Had gone.",
+              "ru": "Had gone."
+            },
+            "id": "b1-u20-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "hadn't + V3 · Had you…? · I had never… before",
+        "explain": {
+          "ua": "Заперечення: hadn't. Питання: Had you…? Часто з never … before: I had never flown before.",
+          "ru": "Отрицание: hadn't. Вопрос: Had you…? Часто с never … before: I had never flown before."
+        },
+        "examples": [
+          {
+            "en": "I hadn't seen him before.",
+            "ua": "Я раніше його не бачив.",
+            "ru": "Я раньше его не видел."
+          },
+          {
+            "en": "Had you been to London before?",
+            "ua": "Ти бував у Лондоні раніше?",
+            "ru": "Ты был в Лондоне раньше?"
+          },
+          {
+            "en": "She'd never tried sushi before that day.",
+            "ua": "До того дня вона ніколи не куштувала суші.",
+            "ru": "До того дня она никогда не пробовала суши."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "I ___ met her before the party.",
+          "options": [
+            "hadn't",
+            "haven't",
+            "didn't"
+          ],
+          "answer": "hadn't",
+          "explain": {
+            "ua": "Hadn't + V3.",
+            "ru": "Hadn't + V3."
+          },
+          "id": "b1-u20-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "___ you finished when he called?",
+          "options": [
+            "Had",
+            "Have",
+            "Did"
+          ],
+          "answer": "Had",
+          "explain": {
+            "ua": "Had you…?",
+            "ru": "Had you…?"
+          },
+          "id": "b1-u20-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "It was my first flight. I had never ___ before.",
+          "options": [
+            "flown",
+            "flew",
+            "fly"
+          ],
+          "answer": "flown",
+          "explain": {
+            "ua": "V3 — flown.",
+            "ru": "V3 — flown."
+          },
+          "id": "b1-u20-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "Had she left? — Yes, she ___ .",
+          "options": [
+            "had",
+            "has",
+            "did"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Yes, she had.",
+            "ru": "Yes, she had."
+          },
+          "id": "b1-u20-l02-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-perfect",
+          "bank": [
+            "hadn't",
+            "had never",
+            "Had"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ eaten all day, so I was hungry.",
+            "She ___ seen snow before.",
+            "___ they arrived when you got there?"
+          ],
+          "answers": [
+            "hadn't",
+            "had never",
+            "Had"
+          ],
+          "explain": {
+            "ua": "Заперечення / питання.",
+            "ru": "Отрицание / вопрос."
+          },
+          "id": "b1-u20-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "I didn't have seen it before.",
+          "answer": "I hadn't seen it before.",
+          "accept": [
+            "I had not seen it before.",
+            "I had never seen it before."
+          ],
+          "explain": {
+            "ua": "Hadn't + V3.",
+            "ru": "Hadn't + V3."
+          },
+          "id": "b1-u20-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "Did you had finished?",
+          "answer": "Had you finished?",
+          "accept": [],
+          "explain": {
+            "ua": "Had you…?",
+            "ru": "Had you…?"
+          },
+          "id": "b1-u20-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-perfect",
+          "audio_text": "I'd never been abroad before.",
+          "options": [
+            "I'd never been abroad before.",
+            "I've never been abroad before.",
+            "I'd never been a broad before."
+          ],
+          "answer": "I'd never been abroad before.",
+          "audio": "",
+          "explain": {
+            "ua": "I'd never been.",
+            "ru": "I'd never been."
+          },
+          "id": "b1-u20-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-perfect",
+          "prompt": {
+            "ua": "До того я ніколи не літала літаком.",
+            "ru": "До того я никогда не летала на самолёте."
+          },
+          "answer": "I had never flown before that.",
+          "accept": [
+            "I'd never flown before that.",
+            "I had never flown on a plane before.",
+            "I had never been on a plane before."
+          ],
+          "explain": {
+            "ua": "Had never flown.",
+            "ru": "Had never flown."
+          },
+          "id": "b1-u20-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u20-l03",
+      "title": {
+        "en": "Order of events",
+        "ua": "Порядок подій",
+        "ru": "Порядок событий"
+      },
+      "recap": {
+        "from": "b1-u20-l02",
+        "note": {
+          "ua": "Згадаймо: hadn't + V3 · Had you…? · I had never… before",
+          "ru": "Вспомним: hadn't + V3 · Had you…? · I had never… before"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-perfect",
+            "question": "I ___ met her before the party.",
+            "options": [
+              "hadn't",
+              "haven't",
+              "didn't"
+            ],
+            "answer": "hadn't",
+            "explain": {
+              "ua": "Hadn't + V3.",
+              "ru": "Hadn't + V3."
+            },
+            "id": "b1-u20-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-perfect",
+            "question": "Had she left? — Yes, she ___ .",
+            "options": [
+              "had",
+              "has",
+              "did"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Yes, she had.",
+              "ru": "Yes, she had."
+            },
+            "id": "b1-u20-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "подія 1 (раніше) → Past Perfect · подія 2 (пізніше) → Past Simple",
+          "ru": "событие 1 (раньше) → Past Perfect · событие 2 (позже) → Past Simple"
+        },
+        "explain": {
+          "ua": "Порівняй: When I arrived, she left (прийшов → вона пішла). When I arrived, she had left (вона пішла → я прийшов, її вже не було).",
+          "ru": "Сравни: When I arrived, she left (пришёл → она ушла). When I arrived, she had left (она ушла → я пришёл, её уже не было)."
+        },
+        "examples": [
+          {
+            "en": "When I arrived, Ann left. (I saw her.)",
+            "ua": "Коли я прийшов, Анна пішла (я її бачив).",
+            "ru": "Когда я пришёл, Анна ушла (я её видел)."
+          },
+          {
+            "en": "When I arrived, Ann had left. (I didn't see her.)",
+            "ua": "Коли я прийшов, Анни вже не було.",
+            "ru": "Когда я пришёл, Анны уже не было."
+          },
+          {
+            "en": "I realised that I had forgotten my phone.",
+            "ua": "Я зрозумів, що забув телефон.",
+            "ru": "Я понял, что забыл телефон."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-perfect-order",
+          "question": "When I opened the door, I saw that someone ___ in.",
+          "options": [
+            "had broken",
+            "broke",
+            "breaks"
+          ],
+          "answer": "had broken",
+          "explain": {
+            "ua": "Вломилися раніше.",
+            "ru": "Вломились раньше."
+          },
+          "id": "b1-u20-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-order",
+          "question": "I realised I ___ my passport at home.",
+          "options": [
+            "had left",
+            "left",
+            "leave"
+          ],
+          "answer": "had left",
+          "explain": {
+            "ua": "Залишив раніше.",
+            "ru": "Оставил раньше."
+          },
+          "id": "b1-u20-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-order",
+          "question": "We ___ dinner after the guests had gone.",
+          "options": [
+            "washed",
+            "had washed",
+            "wash"
+          ],
+          "answer": "washed",
+          "explain": {
+            "ua": "Пізніша подія → Past Simple.",
+            "ru": "Позднее событие → Past Simple."
+          },
+          "id": "b1-u20-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-order",
+          "question": "She was happy because she ___ the exam.",
+          "options": [
+            "had passed",
+            "passes",
+            "has passed"
+          ],
+          "answer": "had passed",
+          "explain": {
+            "ua": "Причина раніше.",
+            "ru": "Причина раньше."
+          },
+          "id": "b1-u20-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "past-perfect-order",
+          "pairs": [
+            {
+              "left": "I was tired because",
+              "right": "I had worked all day."
+            },
+            {
+              "left": "He was hungry because",
+              "right": "he hadn't eaten."
+            },
+            {
+              "left": "The streets were wet because",
+              "right": "it had rained."
+            },
+            {
+              "left": "She was upset because",
+              "right": "she had lost her bag."
+            }
+          ],
+          "explain": {
+            "ua": "Причина → раніше.",
+            "ru": "Причина → раньше."
+          },
+          "id": "b1-u20-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect-order",
+          "sentence": "I was sad because my cat has died.",
+          "answer": "I was sad because my cat had died.",
+          "accept": [],
+          "explain": {
+            "ua": "Минуле в минулому.",
+            "ru": "Прошлое в прошлом."
+          },
+          "id": "b1-u20-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "past-perfect-order",
+          "words": [
+            "forgotten",
+            "that",
+            "realised",
+            "keys",
+            "my",
+            "I",
+            "had",
+            "I"
+          ],
+          "answer": "I realised that I had forgotten my keys",
+          "explain": {
+            "ua": "I realised → that I had forgotten → my keys.",
+            "ru": "I realised → that I had forgotten → my keys."
+          },
+          "id": "b1-u20-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-perfect-order",
+          "audio_text": "The streets were wet because it had rained.",
+          "options": [
+            "The streets were wet because it had rained.",
+            "The streets were wet because it rains.",
+            "The streets were wet because it has rained."
+          ],
+          "answer": "The streets were wet because it had rained.",
+          "audio": "",
+          "explain": {
+            "ua": "Had rained.",
+            "ru": "Had rained."
+          },
+          "id": "b1-u20-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-perfect-order",
+          "prompt": {
+            "ua": "Я зрозуміла, що забула телефон удома.",
+            "ru": "Я поняла, что забыла телефон дома."
+          },
+          "answer": "I realised I had left my phone at home.",
+          "accept": [
+            "I realised that I had left my phone at home.",
+            "I realised I had forgotten my phone at home.",
+            "I realized I had left my phone at home.",
+            "I realised I'd left my phone at home."
+          ],
+          "explain": {
+            "ua": "Had left / forgotten.",
+            "ru": "Had left / forgotten."
+          },
+          "id": "b1-u20-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u20-l04",
+      "title": {
+        "en": "by the time, before, after",
+        "ua": "by the time, before, after",
+        "ru": "by the time, before, after"
+      },
+      "recap": {
+        "from": "b1-u20-l03",
+        "note": {
+          "ua": "Згадаймо: подія 1 (раніше) → Past Perfect · подія 2 (пізніше) → Past Simple",
+          "ru": "Вспомним: событие 1 (раньше) → Past Perfect · событие 2 (позже) → Past Simple"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-perfect-order",
+            "question": "When I opened the door, I saw that someone ___ in.",
+            "options": [
+              "had broken",
+              "broke",
+              "breaks"
+            ],
+            "answer": "had broken",
+            "explain": {
+              "ua": "Вломилися раніше.",
+              "ru": "Вломились раньше."
+            },
+            "id": "b1-u20-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-perfect-order",
+            "question": "She was happy because she ___ the exam.",
+            "options": [
+              "had passed",
+              "passes",
+              "has passed"
+            ],
+            "answer": "had passed",
+            "explain": {
+              "ua": "Причина раніше.",
+              "ru": "Причина раньше."
+            },
+            "id": "b1-u20-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple",
+          "ru": "By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple"
+        },
+        "explain": {
+          "ua": "By the time we got there, the shop had closed — на той час, як. After she had finished, she went out. З before / after Past Perfect іноді можна не вживати, бо порядок і так зрозумілий.",
+          "ru": "By the time we got there, the shop had closed — к тому времени, как. After she had finished, she went out. С before / after Past Perfect иногда можно не употреблять, потому что порядок и так понятен."
+        },
+        "examples": [
+          {
+            "en": "By the time we arrived, the party had finished.",
+            "ua": "Коли ми приїхали, вечірка вже скінчилася.",
+            "ru": "К тому времени, как мы приехали, вечеринка уже закончилась."
+          },
+          {
+            "en": "After I had finished my work, I went for a walk.",
+            "ua": "Закінчивши роботу, я пішов гуляти.",
+            "ru": "Закончив работу, я пошёл гулять."
+          },
+          {
+            "en": "We had lived in Lviv for 5 years before we moved.",
+            "ua": "Ми прожили у Львові 5 років, перш ніж переїхали.",
+            "ru": "Мы прожили во Львове 5 лет, прежде чем переехали."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-perfect-time",
+          "question": "By the time I got to the shop, it ___ .",
+          "options": [
+            "had closed",
+            "closed",
+            "has closed"
+          ],
+          "answer": "had closed",
+          "explain": {
+            "ua": "By the time → had.",
+            "ru": "By the time → had."
+          },
+          "id": "b1-u20-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-time",
+          "question": "___ she had read the letter, she started crying.",
+          "options": [
+            "After",
+            "Before",
+            "By"
+          ],
+          "answer": "After",
+          "explain": {
+            "ua": "Після — after.",
+            "ru": "После — after."
+          },
+          "id": "b1-u20-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-time",
+          "question": "By the time the police ___ , the thief had escaped.",
+          "options": [
+            "arrived",
+            "had arrived",
+            "arrive"
+          ],
+          "answer": "arrived",
+          "explain": {
+            "ua": "By the time + Past Simple.",
+            "ru": "By the time + Past Simple."
+          },
+          "id": "b1-u20-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect-time",
+          "question": "He had worked there for ten years ___ he retired.",
+          "options": [
+            "before",
+            "after",
+            "by the time"
+          ],
+          "answer": "before",
+          "explain": {
+            "ua": "До того як — before.",
+            "ru": "До того как — before."
+          },
+          "id": "b1-u20-l04-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "past-perfect-time",
+          "question": "By the time we got up, the sun ___ already risen.",
+          "answer": "had",
+          "accept": [],
+          "explain": {
+            "ua": "Had risen.",
+            "ru": "Had risen."
+          },
+          "id": "b1-u20-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect-time",
+          "sentence": "By the time I arrived, everyone left.",
+          "answer": "By the time I arrived, everyone had left.",
+          "accept": [],
+          "explain": {
+            "ua": "By the time → had left.",
+            "ru": "By the time → had left."
+          },
+          "id": "b1-u20-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect-time",
+          "sentence": "After he finished had, he went home.",
+          "answer": "After he had finished, he went home.",
+          "accept": [
+            "After he finished, he went home."
+          ],
+          "explain": {
+            "ua": "Had + V3.",
+            "ru": "Had + V3."
+          },
+          "id": "b1-u20-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-perfect-time",
+          "audio_text": "By the time we arrived, the film had started.",
+          "options": [
+            "By the time we arrived, the film had started.",
+            "By the time we arrived, the film started.",
+            "By the time we arrive, the film had started."
+          ],
+          "answer": "By the time we arrived, the film had started.",
+          "audio": "",
+          "explain": {
+            "ua": "Had started.",
+            "ru": "Had started."
+          },
+          "id": "b1-u20-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-perfect-time",
+          "prompt": {
+            "ua": "Коли ми приїхали, магазин уже зачинився.",
+            "ru": "Когда мы приехали, магазин уже закрылся."
+          },
+          "answer": "When we arrived, the shop had already closed.",
+          "accept": [
+            "By the time we arrived, the shop had closed.",
+            "When we arrived, the shop had closed.",
+            "By the time we arrived, the shop had already closed."
+          ],
+          "explain": {
+            "ua": "Had closed.",
+            "ru": "Had closed."
+          },
+          "id": "b1-u20-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u20-l05",
+      "title": {
+        "en": "Practice: a story",
+        "ua": "Практика: історія",
+        "ru": "Практика: история"
+      },
+      "recap": {
+        "from": "b1-u20-l04",
+        "note": {
+          "ua": "Згадаймо: By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple",
+          "ru": "Вспомним: By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-perfect-time",
+            "question": "By the time I got to the shop, it ___ .",
+            "options": [
+              "had closed",
+              "closed",
+              "has closed"
+            ],
+            "answer": "had closed",
+            "explain": {
+              "ua": "By the time → had.",
+              "ru": "By the time → had."
+            },
+            "id": "b1-u20-l05-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-perfect-time",
+            "question": "By the time we got up, the sun ___ already risen.",
+            "answer": "had",
+            "accept": [],
+            "explain": {
+              "ua": "Had risen.",
+              "ru": "Had risen."
+            },
+            "id": "b1-u20-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "I couldn't pay because I ___ my wallet.",
+          "options": [
+            "had forgotten",
+            "forgot",
+            "have forgotten"
+          ],
+          "answer": "had forgotten",
+          "explain": {
+            "ua": "Раніше.",
+            "ru": "Раньше."
+          },
+          "id": "b1-u20-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-perfect",
+          "question": "When I came back, my friends ___ the whole pizza!",
+          "options": [
+            "had eaten",
+            "ate",
+            "eat"
+          ],
+          "answer": "had eaten",
+          "explain": {
+            "ua": "Уже з'їли.",
+            "ru": "Уже съели."
+          },
+          "id": "b1-u20-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "When Oleh arrived at the airport, his plane had left.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "He had packed his suitcase the night before.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Why was he late?",
+              "options": [
+                "he hadn't heard the alarm",
+                "the taxi was late",
+                "he had lost his passport"
+              ],
+              "answer": "he hadn't heard the alarm"
+            }
+          ],
+          "text": "It was the worst morning of my life. I hadn't heard my alarm, so I woke up at 7 — and my flight was at 8! I hadn't packed my suitcase the night before, so I threw everything in a bag. By the time I got to the airport, the plane had already left. Luckily, there was another flight in the afternoon.",
+          "explain": {
+            "ua": "Didn't hear alarm; hadn't packed; plane had left; next flight.",
+            "ru": "Didn't hear alarm; hadn't packed; plane had left; next flight."
+          },
+          "id": "b1-u20-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-perfect",
+          "bank": [
+            "hadn't heard",
+            "hadn't packed",
+            "had left",
+            "woke up"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Oleh ___ his alarm.",
+            "He ___ at 7.",
+            "He ___ the night before.",
+            "By the time he got there, the plane ___."
+          ],
+          "answers": [
+            "hadn't heard",
+            "woke up",
+            "hadn't packed",
+            "had left"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u20-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "When I arrived, the bus has already gone.",
+          "answer": "When I arrived, the bus had already gone.",
+          "accept": [],
+          "explain": {
+            "ua": "Had gone.",
+            "ru": "Had gone."
+          },
+          "id": "b1-u20-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-perfect",
+          "sentence": "I had never see such a beautiful place.",
+          "answer": "I had never seen such a beautiful place.",
+          "accept": [],
+          "explain": {
+            "ua": "V3 — seen.",
+            "ru": "V3 — seen."
+          },
+          "id": "b1-u20-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "left",
+            "time",
+            "got",
+            "By",
+            "everyone",
+            "there",
+            "the",
+            "we",
+            "had"
+          ],
+          "answer": "By the time we got there everyone had left",
+          "explain": {
+            "ua": "By the time we got there → everyone had left.",
+            "ru": "By the time we got there → everyone had left."
+          },
+          "id": "b1-u20-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-perfect",
+          "audio_text": "I hadn't heard my alarm.",
+          "options": [
+            "I hadn't heard my alarm.",
+            "I haven't heard my alarm.",
+            "I hadn't heard my arm."
+          ],
+          "answer": "I hadn't heard my alarm.",
+          "audio": "",
+          "explain": {
+            "ua": "Hadn't heard.",
+            "ru": "Hadn't heard."
+          },
+          "id": "b1-u20-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-perfect",
+          "prompt": {
+            "ua": "Він засмутився, бо провалив іспит.",
+            "ru": "Он расстроился, потому что провалил экзамен."
+          },
+          "answer": "He was upset because he had failed the exam.",
+          "accept": [
+            "He was upset because he'd failed the exam."
+          ],
+          "explain": {
+            "ua": "Had failed.",
+            "ru": "Had failed."
+          },
+          "id": "b1-u20-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "past-perfect",
+      "question": "When I arrived, the meeting ___ .",
+      "options": [
+        "had started",
+        "started",
+        "has started"
+      ],
+      "answer": "had started",
+      "explain": {
+        "ua": "Had started.",
+        "ru": "Had started."
+      },
+      "id": "b1-u20-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "past-perfect",
+      "question": "She ___ never been abroad before 2020.",
+      "options": [
+        "had",
+        "has",
+        "was"
+      ],
+      "answer": "had",
+      "explain": {
+        "ua": "Had never been.",
+        "ru": "Had never been."
+      },
+      "id": "b1-u20-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "past-perfect-time",
+      "question": "By the time we got there, the shop ___ .",
+      "options": [
+        "had closed",
+        "closed",
+        "closes"
+      ],
+      "answer": "had closed",
+      "explain": {
+        "ua": "Had closed.",
+        "ru": "Had closed."
+      },
+      "id": "b1-u20-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "past-perfect-order",
+      "question": "I realised I ___ my umbrella.",
+      "options": [
+        "had forgotten",
+        "forget",
+        "have forgotten"
+      ],
+      "answer": "had forgotten",
+      "explain": {
+        "ua": "Had forgotten.",
+        "ru": "Had forgotten."
+      },
+      "id": "b1-u20-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "past-perfect",
+      "question": "___ you met him before?",
+      "options": [
+        "Had",
+        "Did",
+        "Were"
+      ],
+      "answer": "Had",
+      "explain": {
+        "ua": "Had you…?",
+        "ru": "Had you…?"
+      },
+      "id": "b1-u20-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "past-perfect-order",
+      "question": "He was tired because he ___ worked all night.",
+      "answer": "had",
+      "accept": [
+        "'d"
+      ],
+      "explain": {
+        "ua": "Had.",
+        "ru": "Had."
+      },
+      "id": "b1-u20-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "past-perfect",
+      "question": "I ___ eaten anything all day. (not)",
+      "answer": "hadn't",
+      "accept": [
+        "had not"
+      ],
+      "explain": {
+        "ua": "Hadn't.",
+        "ru": "Hadn't."
+      },
+      "id": "b1-u20-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "past-perfect",
+      "sentence": "When we arrived, the train has left.",
+      "answer": "When we arrived, the train had left.",
+      "accept": [],
+      "explain": {
+        "ua": "Had left.",
+        "ru": "Had left."
+      },
+      "id": "b1-u20-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "past-perfect",
+      "sentence": "I had saw that film before.",
+      "answer": "I had seen that film before.",
+      "accept": [
+        "I'd seen that film before."
+      ],
+      "explain": {
+        "ua": "V3.",
+        "ru": "V3."
+      },
+      "id": "b1-u20-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "past-perfect-time",
+      "words": [
+        "home",
+        "she",
+        "she",
+        "went",
+        "had",
+        "After",
+        "finished"
+      ],
+      "answer": "After she had finished she went home",
+      "explain": {
+        "ua": "After she had finished → she went home.",
+        "ru": "After she had finished → she went home."
+      },
+      "id": "b1-u20-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "past-perfect",
+      "prompt": {
+        "ua": "Я ніколи раніше не бачила такого гарного міста.",
+        "ru": "Я никогда раньше не видела такого красивого города."
+      },
+      "answer": "I had never seen such a beautiful city before.",
+      "accept": [
+        "I'd never seen such a beautiful city before.",
+        "I had never seen such a beautiful city."
+      ],
+      "explain": {
+        "ua": "Had never seen.",
+        "ru": "Had never seen."
+      },
+      "id": "b1-u20-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "past-perfect-order",
+      "audio_text": "Someone had broken in.",
+      "options": [
+        "Someone had broken in.",
+        "Someone has broken in.",
+        "Someone had broken it."
+      ],
+      "answer": "Someone had broken in.",
+      "audio": "",
+      "explain": {
+        "ua": "Had broken in.",
+        "ru": "Had broken in."
+      },
+      "id": "b1-u20-cp12"
+    }
+  ]
+}

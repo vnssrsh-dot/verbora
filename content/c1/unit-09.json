@@ -1,0 +1,1028 @@
+{
+  "id": "c1-u09",
+  "level": "C1",
+  "order": 9,
+  "kind": "grammar",
+  "title": {
+    "en": "Nominalisation and register",
+    "ua": "Номіналізація й стиль",
+    "ru": "Номинализация и стиль"
+  },
+  "rule": {
+    "formula": {
+      "ua": "дієслово → іменник (decide → decision) · розмовне → офіційне (get → receive, buy → purchase)",
+      "ru": "глагол → существительное (decide → decision) · разговорное → официальное (get → receive, buy → purchase)"
+    },
+    "explain": {
+      "ua": "В офіційних листах, звітах і есе думку часто передають іменниками: Prices rose sharply → There was a sharp rise in prices. А ще замінюють розмовні слова формальними. Це і є «звучати як C1».",
+      "ru": "В официальных письмах, отчётах и эссе мысль часто передают существительными: Prices rose sharply → There was a sharp rise in prices. А ещё заменяют разговорные слова формальными. Это и есть «звучать как C1»."
+    },
+    "examples": [
+      {
+        "en": "We decided to close the office. → The decision was made to close the office.",
+        "ua": "Ми вирішили закрити офіс → Було ухвалено рішення закрити офіс.",
+        "ru": "Мы решили закрыть офис → Было принято решение закрыть офис."
+      },
+      {
+        "en": "Sales increased by 10%. → There was a 10% increase in sales.",
+        "ua": "Продажі зросли на 10% → Відбулося зростання продажів на 10%.",
+        "ru": "Продажи выросли на 10% → Произошёл рост продаж на 10%."
+      },
+      {
+        "en": "Can you help me? → Could you assist me?",
+        "ua": "Допоможете? → Чи не могли б ви мені допомогти?",
+        "ru": "Поможете? → Не могли бы вы мне помочь?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "decision",
+      "ipa": "/dɪˈsɪʒn/",
+      "ua": "рішення",
+      "ru": "решение",
+      "example": "make a decision",
+      "audio": ""
+    },
+    {
+      "word": "increase / decrease",
+      "ipa": "/ˈɪnkriːs/",
+      "ua": "зростання / зниження",
+      "ru": "рост / снижение",
+      "example": "an increase in prices",
+      "audio": ""
+    },
+    {
+      "word": "improvement",
+      "ipa": "/ɪmˈpruːvmənt/",
+      "ua": "покращення",
+      "ru": "улучшение",
+      "example": "a significant improvement",
+      "audio": ""
+    },
+    {
+      "word": "arrival / departure",
+      "ipa": "/əˈraɪvl/",
+      "ua": "прибуття / відправлення",
+      "ru": "прибытие / отправление",
+      "example": "on arrival",
+      "audio": ""
+    },
+    {
+      "word": "failure",
+      "ipa": "/ˈfeɪljə/",
+      "ua": "невдача, нездатність",
+      "ru": "неудача, неспособность",
+      "example": "failure to pay",
+      "audio": ""
+    },
+    {
+      "word": "receive",
+      "ipa": "/rɪˈsiːv/",
+      "ua": "отримувати (офіц.)",
+      "ru": "получать (офиц.)",
+      "example": "We have received your letter.",
+      "audio": ""
+    },
+    {
+      "word": "purchase",
+      "ipa": "/ˈpɜːtʃəs/",
+      "ua": "купувати; покупка (офіц.)",
+      "ru": "покупать; покупка (офиц.)",
+      "example": "purchase tickets",
+      "audio": ""
+    },
+    {
+      "word": "assist",
+      "ipa": "/əˈsɪst/",
+      "ua": "допомагати (офіц.)",
+      "ru": "помогать (офиц.)",
+      "example": "How may I assist you?",
+      "audio": ""
+    },
+    {
+      "word": "require",
+      "ipa": "/rɪˈkwaɪə/",
+      "ua": "вимагати, потребувати",
+      "ru": "требовать, нуждаться",
+      "example": "No experience required.",
+      "audio": ""
+    },
+    {
+      "word": "sufficient",
+      "ipa": "/səˈfɪʃnt/",
+      "ua": "достатній",
+      "ru": "достаточный",
+      "example": "sufficient evidence",
+      "audio": ""
+    },
+    {
+      "word": "commence",
+      "ipa": "/kəˈmens/",
+      "ua": "розпочинати (офіц.)",
+      "ru": "начинать (офиц.)",
+      "example": "The meeting will commence at 10.",
+      "audio": ""
+    },
+    {
+      "word": "inform",
+      "ipa": "/ɪnˈfɔːm/",
+      "ua": "повідомляти",
+      "ru": "сообщать",
+      "example": "We regret to inform you…",
+      "audio": ""
+    },
+    {
+      "word": "regarding",
+      "ipa": "/rɪˈɡɑːdɪŋ/",
+      "ua": "щодо",
+      "ru": "касательно",
+      "example": "regarding your request",
+      "audio": ""
+    },
+    {
+      "word": "apologise for any inconvenience",
+      "ipa": "/ˌɪnkənˈviːniəns/",
+      "ua": "перепрошуємо за незручності",
+      "ru": "приносим извинения за неудобства",
+      "example": "We apologise for any inconvenience.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u09-l01",
+      "title": {
+        "en": "Verb → noun",
+        "ua": "Дієслово → іменник",
+        "ru": "Глагол → существительное"
+      },
+      "recap": {
+        "from": "c1-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Рецензії й думки",
+          "ru": "Вспомним: Рецензии и мнения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I couldn't put the book down. It was so ___ !",
+            "options": [
+              "gripping",
+              "predictable",
+              "overrated"
+            ],
+            "answer": "gripping",
+            "explain": {
+              "ua": "Gripping.",
+              "ru": "Gripping."
+            },
+            "id": "c1-u09-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The novel was critically ___ and won many prizes.",
+            "options": [
+              "acclaimed",
+              "overrated",
+              "predictable"
+            ],
+            "answer": "acclaimed",
+            "explain": {
+              "ua": "Acclaimed.",
+              "ru": "Acclaimed."
+            },
+            "id": "c1-u09-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "дієслово / прикметник → іменник: decide → decision, improve → improvement, fail → failure, arrive → arrival, able → ability · There was a + adj + noun + in…",
+          "ru": "глагол / прилагательное → существительное: decide → decision, improve → improvement, fail → failure, arrive → arrival, able → ability · There was a + adj + noun + in…"
+        },
+        "explain": {
+          "ua": "Прислівник стає прикметником: increased sharply → a sharp increase. Підмет стає of або 's: The company grew → the growth of the company. Так пишуть звіти, новини, есе.",
+          "ru": "Наречие становится прилагательным: increased sharply → a sharp increase. Подлежащее становится of или 's: The company grew → the growth of the company. Так пишут отчёты, новости, эссе."
+        },
+        "examples": [
+          {
+            "en": "Unemployment fell dramatically. → There was a dramatic fall in unemployment.",
+            "ua": "Безробіття різко впало.",
+            "ru": "Безработица резко упала."
+          },
+          {
+            "en": "He failed to reply, which annoyed us. → His failure to reply annoyed us.",
+            "ua": "Нас роздратувало, що він не відповів.",
+            "ru": "Нас раздражило, что он не ответил."
+          },
+          {
+            "en": "When we arrived, we were given keys. → On arrival, we were given keys.",
+            "ua": "Після прибуття нам видали ключі.",
+            "ru": "По прибытии нам выдали ключи."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "decide → ___",
+          "options": [
+            "decision",
+            "decidement",
+            "deciding"
+          ],
+          "answer": "decision",
+          "explain": {
+            "ua": "Decide → decision.",
+            "ru": "Decide → decision."
+          },
+          "id": "c1-u09-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "improve → ___",
+          "options": [
+            "improvement",
+            "improval",
+            "improvation"
+          ],
+          "answer": "improvement",
+          "explain": {
+            "ua": "Improve → improvement.",
+            "ru": "Improve → improvement."
+          },
+          "id": "c1-u09-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "Prices rose sharply. → There was a ___ rise in prices.",
+          "options": [
+            "sharp",
+            "sharply",
+            "sharpen"
+          ],
+          "answer": "sharp",
+          "explain": {
+            "ua": "Прислівник → прикметник.",
+            "ru": "Наречие → прилагательное."
+          },
+          "id": "c1-u09-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "When we arrived… → On ___ , …",
+          "options": [
+            "arrival",
+            "arriving",
+            "arrive"
+          ],
+          "answer": "arrival",
+          "explain": {
+            "ua": "On arrival.",
+            "ru": "On arrival."
+          },
+          "id": "c1-u09-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "He failed to pay. → His ___ to pay…",
+          "options": [
+            "failure",
+            "fail",
+            "failing"
+          ],
+          "answer": "failure",
+          "explain": {
+            "ua": "Fail → failure.",
+            "ru": "Fail → failure."
+          },
+          "id": "c1-u09-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "nominalisation",
+          "question": "There has been a 5% ___ in sales. (sales went down)",
+          "options": [
+            "decrease",
+            "increase",
+            "decreasing"
+          ],
+          "answer": "decrease",
+          "explain": {
+            "ua": "Decrease.",
+            "ru": "Decrease."
+          },
+          "id": "c1-u09-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "nominalisation",
+          "pairs": [
+            {
+              "left": "decide",
+              "right": "decision"
+            },
+            {
+              "left": "fail",
+              "right": "failure"
+            },
+            {
+              "left": "arrive",
+              "right": "arrival"
+            },
+            {
+              "left": "able",
+              "right": "ability"
+            }
+          ],
+          "explain": {
+            "ua": "Дієслово / прикметник → іменник.",
+            "ru": "Глагол / прилагательное → существительное."
+          },
+          "id": "c1-u09-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "nominalisation",
+          "sentence": "There was a dramatically increase in prices.",
+          "answer": "There was a dramatic increase in prices.",
+          "accept": [],
+          "explain": {
+            "ua": "Прикметник перед іменником.",
+            "ru": "Прилагательное перед существительным."
+          },
+          "id": "c1-u09-l01-e08"
+        },
+        {
+          "type": "build",
+          "topic": "nominalisation",
+          "words": [
+            "There",
+            "a",
+            "her",
+            "in",
+            "significant",
+            "was",
+            "English",
+            "improvement"
+          ],
+          "answer": "There was a significant improvement in her English",
+          "explain": {
+            "ua": "There was a + adj + noun.",
+            "ru": "There was a + adj + noun."
+          },
+          "id": "c1-u09-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u09-l02",
+      "title": {
+        "en": "Formal and informal",
+        "ua": "Офіційне й розмовне",
+        "ru": "Официальное и разговорное"
+      },
+      "recap": {
+        "from": "c1-u09-l01",
+        "note": {
+          "ua": "Згадаймо: дієслово / прикметник → іменник: decide → decision, improve → improvement, fail → failure, arrive → arrival, able → ability · There was a + adj + noun + in…",
+          "ru": "Вспомним: глагол / прилагательное → существительное: decide → decision, improve → improvement, fail → failure, arrive → arrival, able → ability · There was a + adj + noun + in…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "nominalisation",
+            "question": "decide → ___",
+            "options": [
+              "decision",
+              "decidement",
+              "deciding"
+            ],
+            "answer": "decision",
+            "explain": {
+              "ua": "Decide → decision.",
+              "ru": "Decide → decision."
+            },
+            "id": "c1-u09-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "nominalisation",
+            "question": "When we arrived… → On ___ , …",
+            "options": [
+              "arrival",
+              "arriving",
+              "arrive"
+            ],
+            "answer": "arrival",
+            "explain": {
+              "ua": "On arrival.",
+              "ru": "On arrival."
+            },
+            "id": "c1-u09-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "get → receive / obtain · buy → purchase · help → assist · need → require · start → commence · enough → sufficient · about → regarding · tell → inform · sorry → we apologise",
+        "explain": {
+          "ua": "Розмовне: Sorry, we can't help you — the shop's closed. Офіційне: We apologise, but we are unable to assist you as the store is currently closed. В офіційному стилі — без скорочень (don't → do not) і без фразових дієслів, де є формальне слово.",
+          "ru": "Разговорное: Sorry, we can't help you — the shop's closed. Официальное: We apologise, but we are unable to assist you as the store is currently closed. В официальном стиле — без сокращений (don't → do not) и без фразовых глаголов, где есть формальное слово."
+        },
+        "examples": [
+          {
+            "en": "We have received your application.",
+            "ua": "Ми отримали вашу заявку.",
+            "ru": "Мы получили вашу заявку."
+          },
+          {
+            "en": "Tickets may be purchased online.",
+            "ua": "Квитки можна придбати онлайн.",
+            "ru": "Билеты можно приобрести онлайн."
+          },
+          {
+            "en": "We apologise for any inconvenience.",
+            "ua": "Перепрошуємо за незручності.",
+            "ru": "Приносим извинения за неудобства."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": {
+            "ua": "Офіційно: «get your letter»",
+            "ru": "Официально: «get your letter»"
+          },
+          "options": [
+            "receive your letter",
+            "grab your letter",
+            "got your letter"
+          ],
+          "answer": "receive your letter",
+          "explain": {
+            "ua": "Get → receive.",
+            "ru": "Get → receive."
+          },
+          "id": "c1-u09-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "How may I ___ you? (formal)",
+          "options": [
+            "assist",
+            "help out",
+            "give a hand"
+          ],
+          "answer": "assist",
+          "explain": {
+            "ua": "Help → assist.",
+            "ru": "Help → assist."
+          },
+          "id": "c1-u09-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "Tickets can be ___ at the box office. (formal)",
+          "options": [
+            "purchased",
+            "bought up",
+            "got"
+          ],
+          "answer": "purchased",
+          "explain": {
+            "ua": "Buy → purchase.",
+            "ru": "Buy → purchase."
+          },
+          "id": "c1-u09-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "The meeting will ___ at 9 a.m. (formal)",
+          "options": [
+            "commence",
+            "kick off",
+            "get going"
+          ],
+          "answer": "commence",
+          "explain": {
+            "ua": "Start → commence.",
+            "ru": "Start → commence."
+          },
+          "id": "c1-u09-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "I am writing ___ your advertisement. (formal)",
+          "options": [
+            "regarding",
+            "about like",
+            "on"
+          ],
+          "answer": "regarding",
+          "explain": {
+            "ua": "About → regarding.",
+            "ru": "About → regarding."
+          },
+          "id": "c1-u09-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "We regret to ___ you that your application was unsuccessful.",
+          "options": [
+            "inform",
+            "tell",
+            "say"
+          ],
+          "answer": "inform",
+          "explain": {
+            "ua": "We regret to inform you.",
+            "ru": "We regret to inform you."
+          },
+          "id": "c1-u09-l02-e06"
+        },
+        {
+          "type": "match",
+          "topic": "register",
+          "pairs": [
+            {
+              "left": "need",
+              "right": "require"
+            },
+            {
+              "left": "enough",
+              "right": "sufficient"
+            },
+            {
+              "left": "tell",
+              "right": "inform"
+            },
+            {
+              "left": "start",
+              "right": "commence"
+            }
+          ],
+          "explain": {
+            "ua": "Розмовне → офіційне.",
+            "ru": "Разговорное → официальное."
+          },
+          "id": "c1-u09-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "register",
+          "sentence": "Dear Sir, I wanna get some info about the course.",
+          "answer": "Dear Sir, I would like to receive some information about the course.",
+          "accept": [
+            "Dear Sir, I would like to obtain some information about the course.",
+            "Dear Sir, I would like to receive information about the course.",
+            "Dear Sir, I would like some information about the course."
+          ],
+          "explain": {
+            "ua": "Офіційний стиль.",
+            "ru": "Официальный стиль."
+          },
+          "id": "c1-u09-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "register",
+          "prompt": {
+            "ua": "Перепрошуємо за незручності.",
+            "ru": "Приносим извинения за неудобства."
+          },
+          "answer": "We apologise for any inconvenience.",
+          "accept": [
+            "We apologise for the inconvenience.",
+            "We apologize for any inconvenience.",
+            "We are sorry for any inconvenience."
+          ],
+          "explain": {
+            "ua": "Офіційна фраза.",
+            "ru": "Официальная фраза."
+          },
+          "id": "c1-u09-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u09-l03",
+      "title": {
+        "en": "Practice: a formal email",
+        "ua": "Практика: офіційний лист",
+        "ru": "Практика: официальное письмо"
+      },
+      "recap": {
+        "from": "c1-u09-l02",
+        "note": {
+          "ua": "Згадаймо: get → receive / obtain · buy → purchase · help → assist · need → require · start → commence · enough → sufficient · about → regarding · tell → inform · sorry → we apologise",
+          "ru": "Вспомним: get → receive / obtain · buy → purchase · help → assist · need → require · start → commence · enough → sufficient · about → regarding · tell → inform · sorry → we apologise"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "register",
+            "question": {
+              "ua": "Офіційно: «get your letter»",
+              "ru": "Официально: «get your letter»"
+            },
+            "options": [
+              "receive your letter",
+              "grab your letter",
+              "got your letter"
+            ],
+            "answer": "receive your letter",
+            "explain": {
+              "ua": "Get → receive.",
+              "ru": "Get → receive."
+            },
+            "id": "c1-u09-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "register",
+            "question": "I am writing ___ your advertisement. (formal)",
+            "options": [
+              "regarding",
+              "about like",
+              "on"
+            ],
+            "answer": "regarding",
+            "explain": {
+              "ua": "About → regarding.",
+              "ru": "About → regarding."
+            },
+            "id": "c1-u09-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The writer is complaining about a delay.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The email is informal.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What does the writer request?",
+              "options": [
+                "a full refund",
+                "a new phone",
+                "a discount on the next order"
+              ],
+              "answer": "a full refund"
+            }
+          ],
+          "text": "Dear Sir or Madam,\nI am writing regarding an order I purchased on your website on 3 May. Despite your promise of delivery within five days, I have not yet received the item. I contacted your customer service twice; however, nobody was able to assist me. Your failure to deliver the order on time has caused considerable inconvenience. I would therefore like to request a full refund.\nI look forward to your reply.\nYours faithfully,\nOksana Melnyk",
+          "explain": {
+            "ua": "Formal complaint: purchased online, not received; failure to deliver; request refund.",
+            "ru": "Formal complaint: purchased online, not received; failure to deliver; request refund."
+          },
+          "id": "c1-u09-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "style",
+          "bank": [
+            "regarding",
+            "purchased",
+            "received",
+            "assist",
+            "failure"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I am writing ___ an order.",
+            "I ___ it on your website.",
+            "I have not yet ___ the item.",
+            "Nobody was able to ___ me.",
+            "Your ___ to deliver…"
+          ],
+          "answers": [
+            "regarding",
+            "purchased",
+            "received",
+            "assist",
+            "failure"
+          ],
+          "explain": {
+            "ua": "Перечитай лист.",
+            "ru": "Перечитай письмо."
+          },
+          "id": "c1-u09-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "Which ending is correct when you don't know the name?",
+          "options": [
+            "Yours faithfully",
+            "Yours sincerely",
+            "Love"
+          ],
+          "answer": "Yours faithfully",
+          "explain": {
+            "ua": "Dear Sir or Madam → Yours faithfully.",
+            "ru": "Dear Sir or Madam → Yours faithfully."
+          },
+          "id": "c1-u09-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "register",
+          "question": "Which is more formal?",
+          "options": [
+            "I look forward to your reply.",
+            "Write back soon!",
+            "Can't wait to hear from you!"
+          ],
+          "answer": "I look forward to your reply.",
+          "explain": {
+            "ua": "Офіційний стиль.",
+            "ru": "Официальный стиль."
+          },
+          "id": "c1-u09-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "register",
+          "sentence": "I'm writing about the stuff I bought.",
+          "answer": "I am writing regarding the item I purchased.",
+          "accept": [
+            "I am writing regarding the items I purchased.",
+            "I am writing about the item I purchased."
+          ],
+          "explain": {
+            "ua": "Офіційний стиль.",
+            "ru": "Официальный стиль."
+          },
+          "id": "c1-u09-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "register",
+          "sentence": "I look forward to hear from you.",
+          "answer": "I look forward to hearing from you.",
+          "accept": [],
+          "explain": {
+            "ua": "Look forward to + -ing.",
+            "ru": "Look forward to + -ing."
+          },
+          "id": "c1-u09-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "register",
+          "audio_text": "We regret to inform you…",
+          "options": [
+            "We regret to inform you…",
+            "We forget to inform you…",
+            "We regret to form you…"
+          ],
+          "answer": "We regret to inform you…",
+          "audio": "",
+          "explain": {
+            "ua": "Regret to inform.",
+            "ru": "Regret to inform."
+          },
+          "id": "c1-u09-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "register",
+          "prompt": {
+            "ua": "Я пишу щодо вашого оголошення.",
+            "ru": "Я пишу касательно вашего объявления."
+          },
+          "answer": "I am writing regarding your advertisement.",
+          "accept": [
+            "I am writing with regard to your advertisement.",
+            "I am writing in response to your advertisement.",
+            "I'm writing regarding your advertisement.",
+            "I am writing about your advertisement."
+          ],
+          "explain": {
+            "ua": "Regarding.",
+            "ru": "Regarding."
+          },
+          "id": "c1-u09-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "nominalisation",
+      "question": "improve → ___",
+      "options": [
+        "improvement",
+        "improval",
+        "improving"
+      ],
+      "answer": "improvement",
+      "explain": {
+        "ua": "Improvement.",
+        "ru": "Improvement."
+      },
+      "id": "c1-u09-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "nominalisation",
+      "question": "Prices fell slightly. → There was a ___ fall in prices.",
+      "options": [
+        "slight",
+        "slightly",
+        "slighted"
+      ],
+      "answer": "slight",
+      "explain": {
+        "ua": "Прикметник.",
+        "ru": "Прилагательное."
+      },
+      "id": "c1-u09-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "nominalisation",
+      "question": "On ___ at the hotel, please show your passport.",
+      "options": [
+        "arrival",
+        "arriving",
+        "arrive"
+      ],
+      "answer": "arrival",
+      "explain": {
+        "ua": "On arrival.",
+        "ru": "On arrival."
+      },
+      "id": "c1-u09-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "register",
+      "question": "Formal for 'buy':",
+      "options": [
+        "purchase",
+        "pick up",
+        "get"
+      ],
+      "answer": "purchase",
+      "explain": {
+        "ua": "Purchase.",
+        "ru": "Purchase."
+      },
+      "id": "c1-u09-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "register",
+      "question": "Formal for 'help':",
+      "options": [
+        "assist",
+        "give a hand",
+        "help out"
+      ],
+      "answer": "assist",
+      "explain": {
+        "ua": "Assist.",
+        "ru": "Assist."
+      },
+      "id": "c1-u09-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "register",
+      "question": "We regret to ___ you that the flight is cancelled.",
+      "answer": "inform",
+      "accept": [
+        "tell"
+      ],
+      "explain": {
+        "ua": "Inform.",
+        "ru": "Inform."
+      },
+      "id": "c1-u09-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "register",
+      "question": "No experience is ___ . (needed — formal)",
+      "answer": "required",
+      "accept": [],
+      "explain": {
+        "ua": "Required.",
+        "ru": "Required."
+      },
+      "id": "c1-u09-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "nominalisation",
+      "sentence": "There was a sharply rise in crime.",
+      "answer": "There was a sharp rise in crime.",
+      "accept": [],
+      "explain": {
+        "ua": "Sharp.",
+        "ru": "Sharp."
+      },
+      "id": "c1-u09-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "register",
+      "sentence": "I wanna ask about the job.",
+      "answer": "I would like to enquire about the job.",
+      "accept": [
+        "I would like to ask about the job.",
+        "I would like to inquire about the position.",
+        "I would like to enquire about the position."
+      ],
+      "explain": {
+        "ua": "Офіційно.",
+        "ru": "Официально."
+      },
+      "id": "c1-u09-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "register",
+      "words": [
+        "for",
+        "We",
+        "inconvenience",
+        "apologise",
+        "caused",
+        "any"
+      ],
+      "answer": "We apologise for any inconvenience caused",
+      "explain": {
+        "ua": "We apologise for…",
+        "ru": "We apologise for…"
+      },
+      "id": "c1-u09-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "nominalisation",
+      "prompt": {
+        "ua": "Ухвалили рішення закрити офіс.",
+        "ru": "Было принято решение закрыть офис."
+      },
+      "answer": "The decision was made to close the office.",
+      "accept": [
+        "A decision was made to close the office.",
+        "The decision has been made to close the office.",
+        "It was decided to close the office."
+      ],
+      "explain": {
+        "ua": "Decision.",
+        "ru": "Decision."
+      },
+      "id": "c1-u09-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "nominalisation",
+      "audio_text": "There was a dramatic increase in sales.",
+      "options": [
+        "There was a dramatic increase in sales.",
+        "There was a dramatic decrease in sales.",
+        "There was a dramatically increase in sales."
+      ],
+      "answer": "There was a dramatic increase in sales.",
+      "audio": "",
+      "explain": {
+        "ua": "Increase.",
+        "ru": "Increase."
+      },
+      "id": "c1-u09-cp12"
+    }
+  ]
+}

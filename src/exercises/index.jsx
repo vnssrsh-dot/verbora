@@ -160,7 +160,7 @@ export function Fill({ ex, lang, t, locked, onChange }) {
 }
 
 export function Fix({ ex, lang, t, locked, onChange }) {
-  const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept, ex.sentence, { shortForms: true });
+  const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept, ex.sentence, { shortForms: true, exact: normalize(ex.sentence) === normalize(ex.answer) });
   return (
     <>
       <div className="small">{t('fixError')}</div>

@@ -1,0 +1,1495 @@
+{
+  "id": "a1-u12",
+  "level": "A1",
+  "order": 12,
+  "kind": "vocab",
+  "title": {
+    "en": "Home and town",
+    "ua": "Дім і місто",
+    "ru": "Дом и город"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "kitchen",
+      "ipa": "/ˈkɪtʃɪn/",
+      "ua": "кухня",
+      "ru": "кухня",
+      "example": "The kitchen is small.",
+      "audio": ""
+    },
+    {
+      "word": "bedroom",
+      "ipa": "/ˈbedruːm/",
+      "ua": "спальня",
+      "ru": "спальня",
+      "example": "There are two bedrooms.",
+      "audio": ""
+    },
+    {
+      "word": "bathroom",
+      "ipa": "/ˈbɑːθruːm/",
+      "ua": "ванна кімната",
+      "ru": "ванная",
+      "example": "Where is the bathroom?",
+      "audio": ""
+    },
+    {
+      "word": "living room",
+      "ipa": "/ˈlɪvɪŋ ruːm/",
+      "ua": "вітальня",
+      "ru": "гостиная",
+      "example": "The TV is in the living room.",
+      "audio": ""
+    },
+    {
+      "word": "sofa",
+      "ipa": "/ˈsəʊfə/",
+      "ua": "диван",
+      "ru": "диван",
+      "example": "The cat is on the sofa.",
+      "audio": ""
+    },
+    {
+      "word": "fridge",
+      "ipa": "/frɪdʒ/",
+      "ua": "холодильник",
+      "ru": "холодильник",
+      "example": "The milk is in the fridge.",
+      "audio": ""
+    },
+    {
+      "word": "lamp",
+      "ipa": "/læmp/",
+      "ua": "лампа",
+      "ru": "лампа",
+      "example": "There is a lamp on the table.",
+      "audio": ""
+    },
+    {
+      "word": "wardrobe",
+      "ipa": "/ˈwɔːdrəʊb/",
+      "ua": "шафа (для одягу)",
+      "ru": "шкаф (для одежды)",
+      "example": "My clothes are in the wardrobe.",
+      "audio": ""
+    },
+    {
+      "word": "hospital",
+      "ipa": "/ˈhɒspɪtl/",
+      "ua": "лікарня",
+      "ru": "больница",
+      "example": "The hospital is near the park.",
+      "audio": ""
+    },
+    {
+      "word": "supermarket",
+      "ipa": "/ˈsuːpəmɑːkɪt/",
+      "ua": "супермаркет",
+      "ru": "супермаркет",
+      "example": "There is a supermarket here.",
+      "audio": ""
+    },
+    {
+      "word": "pharmacy",
+      "ipa": "/ˈfɑːməsi/",
+      "ua": "аптека",
+      "ru": "аптека",
+      "example": "Is there a pharmacy near here?",
+      "audio": ""
+    },
+    {
+      "word": "bus stop",
+      "ipa": "/ˈbʌs stɒp/",
+      "ua": "зупинка автобуса",
+      "ru": "автобусная остановка",
+      "example": "The bus stop is over there.",
+      "audio": ""
+    },
+    {
+      "word": "station",
+      "ipa": "/ˈsteɪʃn/",
+      "ua": "вокзал, станція",
+      "ru": "вокзал, станция",
+      "example": "The train station is big.",
+      "audio": ""
+    },
+    {
+      "word": "cinema",
+      "ipa": "/ˈsɪnəmə/",
+      "ua": "кінотеатр",
+      "ru": "кинотеатр",
+      "example": "There is a new cinema.",
+      "audio": ""
+    },
+    {
+      "word": "square",
+      "ipa": "/skweə/",
+      "ua": "площа",
+      "ru": "площадь",
+      "example": "The square is beautiful.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u12-l01",
+      "title": {
+        "en": "Rooms and furniture",
+        "ua": "Кімнати й меблі",
+        "ru": "Комнаты и мебель"
+      },
+      "recap": {
+        "from": "a1-u11-l02",
+        "note": {
+          "ua": "Згадаймо: There isn't a… · There aren't any… · Is there a…? · Are there any…?",
+          "ru": "Вспомним: There isn't a… · There aren't any… · Is there a…? · Are there any…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "___ there a bank near here?",
+            "options": [
+              "Is",
+              "Are",
+              "Am"
+            ],
+            "answer": "Is",
+            "explain": {
+              "ua": "Один банк → Is there…?",
+              "ru": "Один банк → Is there…?"
+            },
+            "id": "a1-u12-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "Are there any cafés? — Yes, there ___.",
+            "options": [
+              "are",
+              "is",
+              "aren't"
+            ],
+            "answer": "are",
+            "explain": {
+              "ua": "Yes, there are.",
+              "ru": "Yes, there are."
+            },
+            "id": "a1-u12-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "kitchen",
+              "right": {
+                "ua": "кухня",
+                "ru": "кухня"
+              }
+            },
+            {
+              "left": "bedroom",
+              "right": {
+                "ua": "спальня",
+                "ru": "спальня"
+              }
+            },
+            {
+              "left": "bathroom",
+              "right": {
+                "ua": "ванна кімната",
+                "ru": "ванная"
+              }
+            },
+            {
+              "left": "living room",
+              "right": {
+                "ua": "вітальня",
+                "ru": "гостиная"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u12-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You sleep in the ___.",
+          "options": [
+            "bedroom",
+            "kitchen",
+            "bathroom"
+          ],
+          "answer": "bedroom",
+          "explain": {
+            "ua": "Bed + room = спальня.",
+            "ru": "Bed + room = спальня."
+          },
+          "id": "a1-u12-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You cook in the ___.",
+          "options": [
+            "kitchen",
+            "bedroom",
+            "living room"
+          ],
+          "answer": "kitchen",
+          "explain": {
+            "ua": "Kitchen — кухня.",
+            "ru": "Kitchen — кухня."
+          },
+          "id": "a1-u12-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The milk is in the ___.",
+          "options": [
+            "fridge",
+            "wardrobe",
+            "sofa"
+          ],
+          "answer": "fridge",
+          "explain": {
+            "ua": "Fridge — холодильник.",
+            "ru": "Fridge — холодильник."
+          },
+          "id": "a1-u12-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You put your clothes in it.",
+          "answer": "wardrobe",
+          "accept": [],
+          "explain": {
+            "ua": "Wardrobe — шафа для одягу.",
+            "ru": "Wardrobe — шкаф для одежды."
+          },
+          "id": "a1-u12-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You sit on it in the living room. It's big and soft.",
+          "answer": "sofa",
+          "accept": [
+            "a sofa"
+          ],
+          "explain": {
+            "ua": "Sofa — диван.",
+            "ru": "Sofa — диван."
+          },
+          "id": "a1-u12-l01-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "shower",
+          "answer": "bathroom",
+          "accept": [],
+          "explain": {
+            "ua": "Душ → ванна кімната.",
+            "ru": "Душ → ванная."
+          },
+          "id": "a1-u12-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈkɪtʃɪn/",
+          "options": [
+            "kitchen",
+            "chicken",
+            "kitten"
+          ],
+          "answer": "kitchen",
+          "explain": {
+            "ua": "Не плутай kitchen (кухня) і chicken (курка)!",
+            "ru": "Не путай kitchen (кухня) и chicken (курица)!"
+          },
+          "id": "a1-u12-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Кіт на дивані.",
+            "ru": "Кот на диване."
+          },
+          "answer": "The cat is on the sofa.",
+          "accept": [],
+          "explain": {
+            "ua": "On — на.",
+            "ru": "On — на."
+          },
+          "id": "a1-u12-l01-e09"
+        }
+      ],
+      "words": [
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "sofa",
+        "fridge",
+        "lamp",
+        "wardrobe"
+      ]
+    },
+    {
+      "id": "a1-u12-l02",
+      "title": {
+        "en": "Places in town",
+        "ua": "Місця в місті",
+        "ru": "Места в городе"
+      },
+      "recap": {
+        "from": "a1-u12-l01",
+        "note": {
+          "ua": "Згадаймо: Кімнати й меблі",
+          "ru": "Вспомним: Комнаты и мебель"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You sleep in the ___.",
+            "options": [
+              "bedroom",
+              "kitchen",
+              "bathroom"
+            ],
+            "answer": "bedroom",
+            "explain": {
+              "ua": "Bed + room = спальня.",
+              "ru": "Bed + room = спальня."
+            },
+            "id": "a1-u12-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You put your clothes in it.",
+            "answer": "wardrobe",
+            "accept": [],
+            "explain": {
+              "ua": "Wardrobe — шафа для одягу.",
+              "ru": "Wardrobe — шкаф для одежды."
+            },
+            "id": "a1-u12-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "hospital",
+              "right": {
+                "ua": "лікарня",
+                "ru": "больница"
+              }
+            },
+            {
+              "left": "pharmacy",
+              "right": {
+                "ua": "аптека",
+                "ru": "аптека"
+              }
+            },
+            {
+              "left": "station",
+              "right": {
+                "ua": "вокзал",
+                "ru": "вокзал"
+              }
+            },
+            {
+              "left": "cinema",
+              "right": {
+                "ua": "кінотеатр",
+                "ru": "кинотеатр"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u12-l02-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You buy medicine here.",
+          "answer": "pharmacy",
+          "accept": [
+            "a pharmacy",
+            "chemist's"
+          ],
+          "explain": {
+            "ua": "Pharmacy — аптека.",
+            "ru": "Pharmacy — аптека."
+          },
+          "id": "a1-u12-l02-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You watch films here.",
+          "answer": "cinema",
+          "accept": [
+            "a cinema"
+          ],
+          "explain": {
+            "ua": "Cinema — кінотеатр.",
+            "ru": "Cinema — кинотеатр."
+          },
+          "id": "a1-u12-l02-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Doctors and nurses work here.",
+          "answer": "hospital",
+          "accept": [
+            "a hospital"
+          ],
+          "explain": {
+            "ua": "Hospital — лікарня.",
+            "ru": "Hospital — больница."
+          },
+          "id": "a1-u12-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You wait for a bus at the ___.",
+          "options": [
+            "bus stop",
+            "station",
+            "square"
+          ],
+          "answer": "bus stop",
+          "explain": {
+            "ua": "Bus stop — зупинка.",
+            "ru": "Bus stop — остановка."
+          },
+          "id": "a1-u12-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You buy food at the ___.",
+          "options": [
+            "supermarket",
+            "pharmacy",
+            "cinema"
+          ],
+          "answer": "supermarket",
+          "explain": {
+            "ua": "Supermarket.",
+            "ru": "Supermarket."
+          },
+          "id": "a1-u12-l02-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "train",
+          "answer": "station",
+          "accept": [
+            "train station"
+          ],
+          "explain": {
+            "ua": "Поїзд → вокзал.",
+            "ru": "Поезд → вокзал."
+          },
+          "id": "a1-u12-l02-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈfɑːməsi/",
+          "options": [
+            "pharmacy",
+            "family",
+            "farmer"
+          ],
+          "answer": "pharmacy",
+          "explain": {
+            "ua": "ph читається як /f/.",
+            "ru": "ph читается как /f/."
+          },
+          "id": "a1-u12-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "Тут поруч є аптека?",
+            "ru": "Здесь рядом есть аптека?"
+          },
+          "answer": "Is there a pharmacy near here?",
+          "accept": [],
+          "explain": {
+            "ua": "Is there…?",
+            "ru": "Is there…?"
+          },
+          "id": "a1-u12-l02-e09"
+        }
+      ],
+      "words": [
+        "hospital",
+        "supermarket",
+        "pharmacy",
+        "bus stop",
+        "station",
+        "cinema",
+        "square"
+      ]
+    },
+    {
+      "id": "a1-u12-l03",
+      "title": {
+        "en": "My flat",
+        "ua": "Моя квартира",
+        "ru": "Моя квартира"
+      },
+      "recap": {
+        "from": "a1-u12-l02",
+        "note": {
+          "ua": "Згадаймо: Місця в місті",
+          "ru": "Вспомним: Места в городе"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You buy medicine here.",
+            "answer": "pharmacy",
+            "accept": [
+              "a pharmacy",
+              "chemist's"
+            ],
+            "explain": {
+              "ua": "Pharmacy — аптека.",
+              "ru": "Pharmacy — аптека."
+            },
+            "id": "a1-u12-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You wait for a bus at the ___.",
+            "options": [
+              "bus stop",
+              "station",
+              "square"
+            ],
+            "answer": "bus stop",
+            "explain": {
+              "ua": "Bus stop — зупинка.",
+              "ru": "Bus stop — остановка."
+            },
+            "id": "a1-u12-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ two bedrooms in my flat.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Two bedrooms → are.",
+            "ru": "Two bedrooms → are."
+          },
+          "id": "a1-u12-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ a big sofa in the living room.",
+          "options": [
+            "is",
+            "are",
+            "be"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "A sofa → is.",
+            "ru": "A sofa → is."
+          },
+          "id": "a1-u12-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "Is there a fridge in the kitchen? — Yes, there ___.",
+          "options": [
+            "is",
+            "are",
+            "isn't"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Yes, there is.",
+            "ru": "Yes, there is."
+          },
+          "id": "a1-u12-l03-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "lamp",
+              "right": {
+                "ua": "лампа",
+                "ru": "лампа"
+              }
+            },
+            {
+              "left": "wardrobe",
+              "right": {
+                "ua": "шафа",
+                "ru": "шкаф"
+              }
+            },
+            {
+              "left": "fridge",
+              "right": {
+                "ua": "холодильник",
+                "ru": "холодильник"
+              }
+            },
+            {
+              "left": "sofa",
+              "right": {
+                "ua": "диван",
+                "ru": "диван"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u12-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "kitchen",
+            "bedroom",
+            "bathroom",
+            "living room"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The bed is in the ___.",
+            "The fridge is in the ___.",
+            "The shower is in the ___.",
+            "The TV is in the ___."
+          ],
+          "answers": [
+            "bedroom",
+            "kitchen",
+            "bathroom",
+            "living room"
+          ],
+          "explain": {
+            "ua": "Ліжко — спальня, холодильник — кухня, душ — ванна, телевізор — вітальня.",
+            "ru": "Кровать — спальня, холодильник — кухня, душ — ванная, телевизор — гостиная."
+          },
+          "id": "a1-u12-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "There is three rooms in my flat.",
+          "answer": "There are three rooms in my flat.",
+          "accept": [],
+          "explain": {
+            "ua": "Three → are.",
+            "ru": "Three → are."
+          },
+          "id": "a1-u12-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "is",
+            "lamp",
+            "on",
+            "the",
+            "The",
+            "table"
+          ],
+          "answer": "The lamp is on the table",
+          "explain": {
+            "ua": "The lamp → is → on the table.",
+            "ru": "The lamp → is → on the table."
+          },
+          "id": "a1-u12-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The wardrobe is in the bedroom.",
+          "options": [
+            "The wardrobe is in the bedroom.",
+            "The wardrobe is in the bathroom.",
+            "The sofa is in the bedroom."
+          ],
+          "answer": "The wardrobe is in the bedroom.",
+          "audio": "",
+          "explain": {
+            "ua": "Bedroom — спальня.",
+            "ru": "Bedroom — спальня."
+          },
+          "id": "a1-u12-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Моя кухня маленька.",
+            "ru": "Моя кухня маленькая."
+          },
+          "answer": "My kitchen is small.",
+          "accept": [],
+          "explain": {
+            "ua": "Kitchen is small.",
+            "ru": "Kitchen is small."
+          },
+          "id": "a1-u12-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u12-l04",
+      "title": {
+        "en": "In context: where is the pharmacy?",
+        "ua": "У контексті: де аптека?",
+        "ru": "В контексте: где аптека?"
+      },
+      "recap": {
+        "from": "a1-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Моя квартира",
+          "ru": "Вспомним: Моя квартира"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "There ___ two bedrooms in my flat.",
+            "options": [
+              "are",
+              "is",
+              "am"
+            ],
+            "answer": "are",
+            "explain": {
+              "ua": "Two bedrooms → are.",
+              "ru": "Two bedrooms → are."
+            },
+            "id": "a1-u12-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "Is there a fridge in the kitchen? — Yes, there ___.",
+            "options": [
+              "is",
+              "are",
+              "isn't"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "Yes, there is.",
+              "ru": "Yes, there is."
+            },
+            "id": "a1-u12-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is near the station?",
+              "options": [
+                "a pharmacy",
+                "a cinema",
+                "a hospital"
+              ],
+              "answer": "a pharmacy"
+            },
+            {
+              "type": "truefalse",
+              "statement": "There is a bus stop in the square.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The supermarket is near the cinema.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Tourist",
+              "line": "Excuse me, is there a pharmacy near here?"
+            },
+            {
+              "speaker": "Woman",
+              "line": "Yes, there is. It's near the station."
+            },
+            {
+              "speaker": "Tourist",
+              "line": "Thank you! And is there a supermarket?"
+            },
+            {
+              "speaker": "Woman",
+              "line": "Yes, there's a big supermarket near the hospital."
+            },
+            {
+              "speaker": "Tourist",
+              "line": "Is it far?"
+            },
+            {
+              "speaker": "Woman",
+              "line": "No, it isn't. There's a bus stop in the square. Bus number 5."
+            }
+          ],
+          "explain": {
+            "ua": "Pharmacy — near the station. Bus stop — in the square. Supermarket — near the hospital.",
+            "ru": "Pharmacy — near the station. Bus stop — in the square. Supermarket — near the hospital."
+          },
+          "id": "a1-u12-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "pharmacy",
+            "supermarket",
+            "bus stop",
+            "station"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The ___ is near the station.",
+            "The ___ is near the hospital.",
+            "The ___ is in the square.",
+            "The pharmacy is near the ___."
+          ],
+          "answers": [
+            "pharmacy",
+            "supermarket",
+            "bus stop",
+            "station"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a1-u12-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Excuse me",
+              "right": {
+                "ua": "Перепрошую",
+                "ru": "Извините"
+              }
+            },
+            {
+              "left": "Is it far?",
+              "right": {
+                "ua": "Це далеко?",
+                "ru": "Это далеко?"
+              }
+            },
+            {
+              "left": "near here",
+              "right": {
+                "ua": "тут поруч",
+                "ru": "здесь рядом"
+              }
+            },
+            {
+              "left": "over there",
+              "right": {
+                "ua": "он там",
+                "ru": "вон там"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a1-u12-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Is it far? — No, it ___.",
+          "options": [
+            "isn't",
+            "aren't",
+            "not"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "No, it isn't.",
+            "ru": "No, it isn't."
+          },
+          "id": "a1-u12-l04-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "___ me, is there a bank near here?",
+          "answer": "Excuse",
+          "accept": [],
+          "explain": {
+            "ua": "Excuse me — коли звертаємося до незнайомця.",
+            "ru": "Excuse me — когда обращаемся к незнакомцу."
+          },
+          "id": "a1-u12-l04-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A big open place in the centre of a city.",
+          "answer": "square",
+          "accept": [
+            "a square"
+          ],
+          "explain": {
+            "ua": "Square — площа.",
+            "ru": "Square — площадь."
+          },
+          "id": "a1-u12-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Sorry me, where is the station?",
+          "answer": "Excuse me, where is the station?",
+          "accept": [
+            "Excuse me, where's the station?"
+          ],
+          "explain": {
+            "ua": "Звернутися — excuse me, вибачитися — sorry.",
+            "ru": "Обратиться — excuse me, извиниться — sorry."
+          },
+          "id": "a1-u12-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Перепрошую, де вокзал?",
+            "ru": "Извините, где вокзал?"
+          },
+          "answer": "Excuse me, where is the station?",
+          "accept": [
+            "Excuse me, where's the station?",
+            "Excuse me, where is the train station?"
+          ],
+          "explain": {
+            "ua": "Excuse me + where is…?",
+            "ru": "Excuse me + where is…?"
+          },
+          "id": "a1-u12-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u12-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u12-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: де аптека?",
+          "ru": "Вспомним: В контексте: где аптека?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-short-answers",
+            "question": "Is it far? — No, it ___.",
+            "options": [
+              "isn't",
+              "aren't",
+              "not"
+            ],
+            "answer": "isn't",
+            "explain": {
+              "ua": "No, it isn't.",
+              "ru": "No, it isn't."
+            },
+            "id": "a1-u12-l05-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A big open place in the centre of a city.",
+            "answer": "square",
+            "accept": [
+              "a square"
+            ],
+            "explain": {
+              "ua": "Square — площа.",
+              "ru": "Square — площадь."
+            },
+            "id": "a1-u12-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "kitchen",
+              "right": {
+                "ua": "кухня",
+                "ru": "кухня"
+              }
+            },
+            {
+              "left": "square",
+              "right": {
+                "ua": "площа",
+                "ru": "площадь"
+              }
+            },
+            {
+              "left": "bus stop",
+              "right": {
+                "ua": "зупинка",
+                "ru": "остановка"
+              }
+            },
+            {
+              "left": "bedroom",
+              "right": {
+                "ua": "спальня",
+                "ru": "спальня"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u12-l05-e01"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "medicine",
+          "answer": "pharmacy",
+          "accept": [
+            "hospital",
+            "a pharmacy"
+          ],
+          "explain": {
+            "ua": "Ліки → аптека.",
+            "ru": "Лекарства → аптека."
+          },
+          "id": "a1-u12-l05-e02"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "film",
+          "answer": "cinema",
+          "accept": [
+            "a cinema"
+          ],
+          "explain": {
+            "ua": "Фільм → кінотеатр.",
+            "ru": "Фильм → кинотеатр."
+          },
+          "id": "a1-u12-l05-e03"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "cold",
+          "answer": "fridge",
+          "accept": [
+            "a fridge"
+          ],
+          "explain": {
+            "ua": "Холодно → холодильник.",
+            "ru": "Холодно → холодильник."
+          },
+          "id": "a1-u12-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a room?",
+          "options": [
+            "square",
+            "kitchen",
+            "bathroom"
+          ],
+          "answer": "square",
+          "explain": {
+            "ua": "Square — площа в місті.",
+            "ru": "Square — площадь в городе."
+          },
+          "id": "a1-u12-l05-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT in town?",
+          "options": [
+            "wardrobe",
+            "cinema",
+            "bank"
+          ],
+          "answer": "wardrobe",
+          "explain": {
+            "ua": "Wardrobe — у квартирі.",
+            "ru": "Wardrobe — в квартире."
+          },
+          "id": "a1-u12-l05-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You buy food here. It's very big.",
+          "answer": "supermarket",
+          "accept": [
+            "a supermarket"
+          ],
+          "explain": {
+            "ua": "Supermarket.",
+            "ru": "Supermarket."
+          },
+          "id": "a1-u12-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The milk is in the wardrobe.",
+          "answer": "The milk is in the fridge.",
+          "accept": [],
+          "explain": {
+            "ua": "Молоко — в холодильнику.",
+            "ru": "Молоко — в холодильнике."
+          },
+          "id": "a1-u12-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Where is the bathroom?",
+          "options": [
+            "Where is the bathroom?",
+            "Where is the bedroom?",
+            "Where is the bus stop?"
+          ],
+          "answer": "Where is the bathroom?",
+          "audio": "",
+          "explain": {
+            "ua": "Bathroom — «ба:срум».",
+            "ru": "Bathroom — «ба:срум»."
+          },
+          "id": "a1-u12-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "У нашому місті є новий кінотеатр.",
+            "ru": "В нашем городе есть новый кинотеатр."
+          },
+          "answer": "There is a new cinema in our town.",
+          "accept": [
+            "There's a new cinema in our town.",
+            "There is a new cinema in our city."
+          ],
+          "explain": {
+            "ua": "There is a new cinema…",
+            "ru": "There is a new cinema…"
+          },
+          "id": "a1-u12-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "You sleep in the ___.",
+      "options": [
+        "bedroom",
+        "kitchen",
+        "square"
+      ],
+      "answer": "bedroom",
+      "explain": {
+        "ua": "Bedroom.",
+        "ru": "Bedroom."
+      },
+      "id": "a1-u12-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "You buy medicine at the ___.",
+      "options": [
+        "pharmacy",
+        "cinema",
+        "station"
+      ],
+      "answer": "pharmacy",
+      "explain": {
+        "ua": "Pharmacy.",
+        "ru": "Pharmacy."
+      },
+      "id": "a1-u12-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "The milk is in the ___.",
+      "options": [
+        "fridge",
+        "sofa",
+        "lamp"
+      ],
+      "answer": "fridge",
+      "explain": {
+        "ua": "Fridge.",
+        "ru": "Fridge."
+      },
+      "id": "a1-u12-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You watch films here.",
+      "answer": "cinema",
+      "accept": [
+        "a cinema"
+      ],
+      "explain": {
+        "ua": "Cinema.",
+        "ru": "Cinema."
+      },
+      "id": "a1-u12-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You put clothes in it.",
+      "answer": "wardrobe",
+      "accept": [
+        "a wardrobe"
+      ],
+      "explain": {
+        "ua": "Wardrobe.",
+        "ru": "Wardrobe."
+      },
+      "id": "a1-u12-cp05"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You wait for a bus here.",
+      "answer": "bus stop",
+      "accept": [
+        "a bus stop"
+      ],
+      "explain": {
+        "ua": "Bus stop.",
+        "ru": "Bus stop."
+      },
+      "id": "a1-u12-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "hospital",
+          "right": {
+            "ua": "лікарня",
+            "ru": "больница"
+          }
+        },
+        {
+          "left": "living room",
+          "right": {
+            "ua": "вітальня",
+            "ru": "гостиная"
+          }
+        },
+        {
+          "left": "station",
+          "right": {
+            "ua": "вокзал",
+            "ru": "вокзал"
+          }
+        },
+        {
+          "left": "lamp",
+          "right": {
+            "ua": "лампа",
+            "ru": "лампа"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u12-cp07"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "kitchen",
+        "bathroom",
+        "square"
+      ],
+      "reuse": false,
+      "sentences": [
+        "Cook in the ___.",
+        "Take a shower in the ___.",
+        "Meet friends in the ___."
+      ],
+      "answers": [
+        "kitchen",
+        "bathroom",
+        "square"
+      ],
+      "explain": {
+        "ua": "Кухня, ванна, площа.",
+        "ru": "Кухня, ванная, площадь."
+      },
+      "id": "a1-u12-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Sorry me, is there a bank here?",
+      "answer": "Excuse me, is there a bank here?",
+      "accept": [],
+      "explain": {
+        "ua": "Звертаємося — excuse me.",
+        "ru": "Обращаемся — excuse me."
+      },
+      "id": "a1-u12-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "room",
+        "The",
+        "is",
+        "the",
+        "sofa",
+        "in",
+        "living"
+      ],
+      "answer": "The sofa is in the living room",
+      "explain": {
+        "ua": "The sofa → is → in the living room.",
+        "ru": "The sofa → is → in the living room."
+      },
+      "id": "a1-u12-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Де ванна кімната?",
+        "ru": "Где ванная?"
+      },
+      "answer": "Where is the bathroom?",
+      "accept": [
+        "Where's the bathroom?"
+      ],
+      "explain": {
+        "ua": "Where is…?",
+        "ru": "Where is…?"
+      },
+      "id": "a1-u12-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Is there a supermarket near here?",
+      "options": [
+        "Is there a supermarket near here?",
+        "There is a supermarket near here.",
+        "Is there a cinema near here?"
+      ],
+      "answer": "Is there a supermarket near here?",
+      "audio": "",
+      "explain": {
+        "ua": "Supermarket.",
+        "ru": "Supermarket."
+      },
+      "id": "a1-u12-cp12"
+    }
+  ]
+}

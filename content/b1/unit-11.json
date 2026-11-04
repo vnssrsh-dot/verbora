@@ -1,0 +1,1042 @@
+{
+  "id": "b1-u11",
+  "level": "B1",
+  "order": 11,
+  "kind": "grammar",
+  "title": {
+    "en": "Modals: ability and requests",
+    "ua": "Модальні: вміння й прохання",
+    "ru": "Модальные: умение и просьбы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "can / could / be able to — вміти · Could you…? Would you mind…? — ввічливі прохання",
+      "ru": "can / could / be able to — уметь · Could you…? Would you mind…? — вежливые просьбы"
+    },
+    "explain": {
+      "ua": "Can — вмію зараз. Could — вмів у минулому. Be able to — для інших часів (will be able to, have been able to). Прохання: Could you…? — ввічливіше, ніж Can you…?",
+      "ru": "Can — умею сейчас. Could — умел в прошлом. Be able to — для других времён (will be able to, have been able to). Просьбы: Could you…? — вежливее, чем Can you…?"
+    },
+    "examples": [
+      {
+        "en": "I could swim when I was five.",
+        "ua": "Я вмів плавати в п'ять років.",
+        "ru": "Я умел плавать в пять лет."
+      },
+      {
+        "en": "I'll be able to help you tomorrow.",
+        "ua": "Завтра я зможу тобі допомогти.",
+        "ru": "Завтра я смогу тебе помочь."
+      },
+      {
+        "en": "Could you open the window, please?",
+        "ua": "Не могли б ви відчинити вікно?",
+        "ru": "Не могли бы вы открыть окно?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "be able to",
+      "ipa": "/biː ˈeɪbl tə/",
+      "ua": "бути здатним, змогти",
+      "ru": "быть в состоянии, смочь",
+      "example": "I'll be able to come.",
+      "audio": ""
+    },
+    {
+      "word": "manage to",
+      "ipa": "/ˈmænɪdʒ tə/",
+      "ua": "зуміти, вдатися",
+      "ru": "суметь, удаться",
+      "example": "I managed to finish.",
+      "audio": ""
+    },
+    {
+      "word": "Could you…?",
+      "ipa": "/kʊd juː/",
+      "ua": "Чи не могли б ви…?",
+      "ru": "Не могли бы вы…?",
+      "example": "Could you help me?",
+      "audio": ""
+    },
+    {
+      "word": "Would you mind…?",
+      "ipa": "/wʊd juː ˈmaɪnd/",
+      "ua": "Ви не проти…?",
+      "ru": "Вы не против…?",
+      "example": "Would you mind closing the door?",
+      "audio": ""
+    },
+    {
+      "word": "Do you mind if I…?",
+      "ipa": "/duː juː ˈmaɪnd ɪf aɪ/",
+      "ua": "Ви не проти, якщо я…?",
+      "ru": "Вы не против, если я…?",
+      "example": "Do you mind if I sit here?",
+      "audio": ""
+    },
+    {
+      "word": "May I…?",
+      "ipa": "/meɪ aɪ/",
+      "ua": "Можна мені…? (формально)",
+      "ru": "Можно мне…? (формально)",
+      "example": "May I come in?",
+      "audio": ""
+    },
+    {
+      "word": "Of course.",
+      "ipa": "/əv ˈkɔːs/",
+      "ua": "Звісно.",
+      "ru": "Конечно.",
+      "example": "— Can I sit here? — Of course.",
+      "audio": ""
+    },
+    {
+      "word": "Not at all.",
+      "ipa": "/ˌnɒt ət ˈɔːl/",
+      "ua": "Анітрохи (не проти).",
+      "ru": "Нисколько (не против).",
+      "example": "— Would you mind…? — Not at all.",
+      "audio": ""
+    },
+    {
+      "word": "lend",
+      "ipa": "/lend/",
+      "ua": "позичати (комусь)",
+      "ru": "одалживать (кому-то)",
+      "example": "Could you lend me a pen?",
+      "audio": ""
+    },
+    {
+      "word": "borrow",
+      "ipa": "/ˈbɒrəʊ/",
+      "ua": "позичати (у когось)",
+      "ru": "брать взаймы (у кого-то)",
+      "example": "Can I borrow your pen?",
+      "audio": ""
+    },
+    {
+      "word": "pass",
+      "ipa": "/pɑːs/",
+      "ua": "передати",
+      "ru": "передать",
+      "example": "Could you pass the salt?",
+      "audio": ""
+    },
+    {
+      "word": "turn down",
+      "ipa": "/ˌtɜːn ˈdaʊn/",
+      "ua": "зробити тихіше",
+      "ru": "сделать тише",
+      "example": "Could you turn the music down?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u11-l01",
+      "title": {
+        "en": "can, could, be able to",
+        "ua": "can, could, be able to",
+        "ru": "can, could, be able to"
+      },
+      "recap": {
+        "from": "b1-u10-l02",
+        "note": {
+          "ua": "Згадаймо: must be — я впевнений, що так · can't be — я впевнений, що ні",
+          "ru": "Вспомним: must be — я уверен, что да · can't be — я уверен, что нет"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-certainty",
+            "question": "He's been running for an hour. He ___ be tired.",
+            "options": [
+              "must",
+              "can't",
+              "might not"
+            ],
+            "answer": "must",
+            "explain": {
+              "ua": "Впевнені → must.",
+              "ru": "Уверены → must."
+            },
+            "id": "b1-u11-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-certainty",
+            "question": "You won the lottery? You ___ be joking!",
+            "options": [
+              "must",
+              "can't",
+              "may"
+            ],
+            "answer": "must",
+            "explain": {
+              "ua": "You must be joking! — Жартуєш!",
+              "ru": "You must be joking! — Шутишь!"
+            },
+            "id": "b1-u11-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "can (зараз) · could (у минулому) · will be able to (у майбутньому) · managed to (вдалося один раз)",
+          "ru": "can (сейчас) · could (в прошлом) · will be able to (в будущем) · managed to (удалось один раз)"
+        },
+        "explain": {
+          "ua": "Could — загальне вміння в минулому (I could read at 4). Про один конкретний успіх — managed to / was able to: The fire was big, but we managed to escape.",
+          "ru": "Could — общее умение в прошлом (I could read at 4). Об одном конкретном успехе — managed to / was able to: The fire was big, but we managed to escape."
+        },
+        "examples": [
+          {
+            "en": "She can speak three languages.",
+            "ua": "Вона розмовляє трьома мовами.",
+            "ru": "Она говорит на трёх языках."
+          },
+          {
+            "en": "I couldn't sleep last night.",
+            "ua": "Я не міг заснути вчора.",
+            "ru": "Я не мог уснуть вчера."
+          },
+          {
+            "en": "Will you be able to come?",
+            "ua": "Ти зможеш прийти?",
+            "ru": "Ты сможешь прийти?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ability",
+          "question": "When I was a child, I ___ climb trees very fast.",
+          "options": [
+            "could",
+            "can",
+            "will be able to"
+          ],
+          "answer": "could",
+          "explain": {
+            "ua": "Минуле вміння → could.",
+            "ru": "Прошлое умение → could."
+          },
+          "id": "b1-u11-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ability",
+          "question": "I ___ come tomorrow. I'm free.",
+          "options": [
+            "'ll be able to",
+            "could",
+            "can to"
+          ],
+          "answer": "'ll be able to",
+          "explain": {
+            "ua": "Майбутнє → will be able to.",
+            "ru": "Будущее → will be able to."
+          },
+          "id": "b1-u11-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ability",
+          "question": "It was hard, but we ___ find the hotel.",
+          "options": [
+            "managed to",
+            "could",
+            "can"
+          ],
+          "answer": "managed to",
+          "explain": {
+            "ua": "Один успіх → managed to.",
+            "ru": "Один успех → managed to."
+          },
+          "id": "b1-u11-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ability",
+          "question": "I'm sorry, I ___ hear you. The music is too loud.",
+          "options": [
+            "can't",
+            "couldn't to",
+            "don't able"
+          ],
+          "answer": "can't",
+          "explain": {
+            "ua": "Зараз → can't.",
+            "ru": "Сейчас → can't."
+          },
+          "id": "b1-u11-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "ability",
+          "question": "I haven't ___ to sleep well lately.",
+          "options": [
+            "been able",
+            "could",
+            "can"
+          ],
+          "answer": "been able",
+          "explain": {
+            "ua": "Present Perfect → been able to.",
+            "ru": "Present Perfect → been able to."
+          },
+          "id": "b1-u11-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "ability",
+          "pairs": [
+            {
+              "left": "now",
+              "right": "can"
+            },
+            {
+              "left": "in the past",
+              "right": "could"
+            },
+            {
+              "left": "in the future",
+              "right": "will be able to"
+            },
+            {
+              "left": "one success",
+              "right": "managed to"
+            }
+          ],
+          "explain": {
+            "ua": "Коли → що.",
+            "ru": "Когда → что."
+          },
+          "id": "b1-u11-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "ability",
+          "sentence": "I will can help you.",
+          "answer": "I will be able to help you.",
+          "accept": [
+            "I'll be able to help you."
+          ],
+          "explain": {
+            "ua": "Will can — не можна.",
+            "ru": "Will can — нельзя."
+          },
+          "id": "b1-u11-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "ability",
+          "sentence": "I could pass the exam yesterday!",
+          "answer": "I managed to pass the exam yesterday!",
+          "accept": [
+            "I was able to pass the exam yesterday!"
+          ],
+          "explain": {
+            "ua": "Один успіх → managed to.",
+            "ru": "Один успех → managed to."
+          },
+          "id": "b1-u11-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ability",
+          "prompt": {
+            "ua": "Я не змогла заснути.",
+            "ru": "Я не смогла уснуть."
+          },
+          "answer": "I couldn't sleep.",
+          "accept": [
+            "I couldn't fall asleep.",
+            "I wasn't able to sleep."
+          ],
+          "explain": {
+            "ua": "Couldn't.",
+            "ru": "Couldn't."
+          },
+          "id": "b1-u11-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u11-l02",
+      "title": {
+        "en": "Polite requests",
+        "ua": "Ввічливі прохання",
+        "ru": "Вежливые просьбы"
+      },
+      "recap": {
+        "from": "b1-u11-l01",
+        "note": {
+          "ua": "Згадаймо: can (зараз) · could (у минулому) · will be able to (у майбутньому) · managed to (вдалося один раз)",
+          "ru": "Вспомним: can (сейчас) · could (в прошлом) · will be able to (в будущем) · managed to (удалось один раз)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ability",
+            "question": "When I was a child, I ___ climb trees very fast.",
+            "options": [
+              "could",
+              "can",
+              "will be able to"
+            ],
+            "answer": "could",
+            "explain": {
+              "ua": "Минуле вміння → could.",
+              "ru": "Прошлое умение → could."
+            },
+            "id": "b1-u11-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ability",
+            "question": "I haven't ___ to sleep well lately.",
+            "options": [
+              "been able",
+              "could",
+              "can"
+            ],
+            "answer": "been able",
+            "explain": {
+              "ua": "Present Perfect → been able to.",
+              "ru": "Present Perfect → been able to."
+            },
+            "id": "b1-u11-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Can you…? → Could you…? → Would you mind + -ing? (від простого до найввічливішого)",
+          "ru": "Can you…? → Could you…? → Would you mind + -ing? (от простого к самому вежливому)"
+        },
+        "explain": {
+          "ua": "Would you mind + -ing — «чи не будете ви проти…». Відповідь «так, зроблю» — No, not at all / Of course not (бо «я не проти»).",
+          "ru": "Would you mind + -ing — «не будете ли вы против…». Ответ «да, сделаю» — No, not at all / Of course not (потому что «я не против»)."
+        },
+        "examples": [
+          {
+            "en": "Could you help me with my bag?",
+            "ua": "Чи не могли б ви допомогти з сумкою?",
+            "ru": "Не могли бы вы помочь с сумкой?"
+          },
+          {
+            "en": "Would you mind closing the window? — Not at all.",
+            "ua": "Ви не проти зачинити вікно? — Анітрохи.",
+            "ru": "Вы не против закрыть окно? — Нисколько."
+          },
+          {
+            "en": "Could you speak more slowly, please?",
+            "ua": "Чи не могли б ви говорити повільніше?",
+            "ru": "Не могли бы вы говорить медленнее?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "requests",
+          "question": "___ you pass the salt, please?",
+          "options": [
+            "Could",
+            "Would mind",
+            "May"
+          ],
+          "answer": "Could",
+          "explain": {
+            "ua": "Could you…?",
+            "ru": "Could you…?"
+          },
+          "id": "b1-u11-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "requests",
+          "question": "Would you mind ___ the music down?",
+          "options": [
+            "turning",
+            "to turn",
+            "turn"
+          ],
+          "answer": "turning",
+          "explain": {
+            "ua": "Would you mind + -ing.",
+            "ru": "Would you mind + -ing."
+          },
+          "id": "b1-u11-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "requests",
+          "question": "— Would you mind waiting a minute? — ___ (= OK, I'll wait)",
+          "options": [
+            "Not at all.",
+            "Yes, I would.",
+            "Yes, I mind."
+          ],
+          "answer": "Not at all.",
+          "explain": {
+            "ua": "Not at all = я не проти.",
+            "ru": "Not at all = я не против."
+          },
+          "id": "b1-u11-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "requests",
+          "question": "Could you ___ me your pen?",
+          "options": [
+            "lend",
+            "borrow",
+            "lending"
+          ],
+          "answer": "lend",
+          "explain": {
+            "ua": "Lend — дати в борг.",
+            "ru": "Lend — дать взаймы."
+          },
+          "id": "b1-u11-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "requests",
+          "question": "Can I ___ your pen?",
+          "options": [
+            "borrow",
+            "lend",
+            "borrowing"
+          ],
+          "answer": "borrow",
+          "explain": {
+            "ua": "Borrow — взяти в борг.",
+            "ru": "Borrow — взять взаймы."
+          },
+          "id": "b1-u11-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "requests",
+          "bank": [
+            "lend",
+            "borrow"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Could you ___ me 10 dollars?",
+            "Can I ___ your car?",
+            "She ___s books from the library.",
+            "My dad ___s me money sometimes."
+          ],
+          "answers": [
+            "lend",
+            "borrow",
+            "borrow",
+            "lend"
+          ],
+          "explain": {
+            "ua": "Lend — даю, borrow — беру.",
+            "ru": "Lend — даю, borrow — беру."
+          },
+          "id": "b1-u11-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "requests",
+          "sentence": "Would you mind to open the door?",
+          "answer": "Would you mind opening the door?",
+          "accept": [],
+          "explain": {
+            "ua": "Mind + -ing.",
+            "ru": "Mind + -ing."
+          },
+          "id": "b1-u11-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "requests",
+          "sentence": "Can you borrow me your phone?",
+          "answer": "Can you lend me your phone?",
+          "accept": [
+            "Could you lend me your phone?",
+            "Can I borrow your phone?"
+          ],
+          "explain": {
+            "ua": "Дати комусь — lend.",
+            "ru": "Дать кому-то — lend."
+          },
+          "id": "b1-u11-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "requests",
+          "prompt": {
+            "ua": "Чи не могли б ви говорити повільніше?",
+            "ru": "Не могли бы вы говорить помедленнее?"
+          },
+          "answer": "Could you speak more slowly, please?",
+          "accept": [
+            "Could you speak more slowly?",
+            "Could you speak slower, please?",
+            "Could you please speak more slowly?"
+          ],
+          "explain": {
+            "ua": "Could you…?",
+            "ru": "Could you…?"
+          },
+          "id": "b1-u11-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u11-l03",
+      "title": {
+        "en": "Asking permission + practice",
+        "ua": "Просимо дозволу + практика",
+        "ru": "Просим разрешения + практика"
+      },
+      "recap": {
+        "from": "b1-u11-l02",
+        "note": {
+          "ua": "Згадаймо: Can you…? → Could you…? → Would you mind + -ing? (від простого до найввічливішого)",
+          "ru": "Вспомним: Can you…? → Could you…? → Would you mind + -ing? (от простого к самому вежливому)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "requests",
+            "question": "___ you pass the salt, please?",
+            "options": [
+              "Could",
+              "Would mind",
+              "May"
+            ],
+            "answer": "Could",
+            "explain": {
+              "ua": "Could you…?",
+              "ru": "Could you…?"
+            },
+            "id": "b1-u11-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "requests",
+            "question": "Can I ___ your pen?",
+            "options": [
+              "borrow",
+              "lend",
+              "borrowing"
+            ],
+            "answer": "borrow",
+            "explain": {
+              "ua": "Borrow — взяти в борг.",
+              "ru": "Borrow — взять взаймы."
+            },
+            "id": "b1-u11-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Can I…? · Could I…? · May I…? (формально) · Do you mind if I…?",
+          "ru": "Can I…? · Could I…? · May I…? (формально) · Do you mind if I…?"
+        },
+        "explain": {
+          "ua": "Просимо дозволу: Can I sit here? May I come in? Do you mind if I open the window? Відповідь «так, можна» — Of course / Sure / Go ahead / No, not at all (на mind).",
+          "ru": "Просим разрешения: Can I sit here? May I come in? Do you mind if I open the window? Ответ «да, можно» — Of course / Sure / Go ahead / No, not at all (на mind)."
+        },
+        "examples": [
+          {
+            "en": "May I come in? — Of course.",
+            "ua": "Можна увійти? — Звісно.",
+            "ru": "Можно войти? — Конечно."
+          },
+          {
+            "en": "Do you mind if I sit here? — No, go ahead.",
+            "ua": "Не заперечуєте, якщо я сяду тут? — Ні, сідайте.",
+            "ru": "Не возражаете, если я сяду здесь? — Нет, садитесь."
+          },
+          {
+            "en": "Could I use your phone?",
+            "ua": "Можна скористатися вашим телефоном?",
+            "ru": "Можно воспользоваться вашим телефоном?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "permission",
+          "question": "___ I come in? (formal)",
+          "options": [
+            "May",
+            "Do",
+            "Would"
+          ],
+          "answer": "May",
+          "explain": {
+            "ua": "Формально — May I…?",
+            "ru": "Формально — May I…?"
+          },
+          "id": "b1-u11-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "permission",
+          "question": "Do you mind if I ___ the window?",
+          "options": [
+            "open",
+            "opening",
+            "to open"
+          ],
+          "answer": "open",
+          "explain": {
+            "ua": "Do you mind if I + Present.",
+            "ru": "Do you mind if I + Present."
+          },
+          "id": "b1-u11-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "permission",
+          "question": "— Can I use your bathroom? — ___",
+          "options": [
+            "Sure, go ahead.",
+            "Not at all, no.",
+            "Yes, I mind."
+          ],
+          "answer": "Sure, go ahead.",
+          "explain": {
+            "ua": "Sure / Of course.",
+            "ru": "Sure / Of course."
+          },
+          "id": "b1-u11-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "permission",
+          "question": "— Do you mind if I smoke? — ___ (= please don't)",
+          "options": [
+            "Yes, I do, sorry.",
+            "No, not at all.",
+            "Go ahead."
+          ],
+          "answer": "Yes, I do, sorry.",
+          "explain": {
+            "ua": "Yes, I do = я проти.",
+            "ru": "Yes, I do = я против."
+          },
+          "id": "b1-u11-l03-e04"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The man asks to sit down.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The woman says no.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What does the woman ask him to do?",
+              "options": [
+                "turn his music down",
+                "close the window",
+                "lend her a pen"
+              ],
+              "answer": "turn his music down"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Man",
+              "line": "Excuse me, do you mind if I sit here?"
+            },
+            {
+              "speaker": "Woman",
+              "line": "No, not at all. Go ahead."
+            },
+            {
+              "speaker": "Man",
+              "line": "Thanks."
+            },
+            {
+              "speaker": "Woman",
+              "line": "Sorry, could you turn your music down a bit? I'm trying to read."
+            },
+            {
+              "speaker": "Man",
+              "line": "Oh, of course! Sorry."
+            }
+          ],
+          "explain": {
+            "ua": "Sit — sure; she asks him to turn music down.",
+            "ru": "Sit — sure; she asks him to turn music down."
+          },
+          "id": "b1-u11-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "permission",
+          "sentence": "Do you mind if I opening the door?",
+          "answer": "Do you mind if I open the door?",
+          "accept": [],
+          "explain": {
+            "ua": "If I + open.",
+            "ru": "If I + open."
+          },
+          "id": "b1-u11-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "requests",
+          "sentence": "Would you mind to help me?",
+          "answer": "Would you mind helping me?",
+          "accept": [],
+          "explain": {
+            "ua": "Mind + -ing.",
+            "ru": "Mind + -ing."
+          },
+          "id": "b1-u11-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "permission",
+          "audio_text": "Do you mind if I sit here?",
+          "options": [
+            "Do you mind if I sit here?",
+            "Would you mind if I sit here?",
+            "Do you mind if I eat here?"
+          ],
+          "answer": "Do you mind if I sit here?",
+          "audio": "",
+          "explain": {
+            "ua": "Do you mind if I…?",
+            "ru": "Do you mind if I…?"
+          },
+          "id": "b1-u11-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "permission",
+          "prompt": {
+            "ua": "Можна позичити твою ручку?",
+            "ru": "Можно одолжить твою ручку?"
+          },
+          "answer": "Can I borrow your pen?",
+          "accept": [
+            "Could I borrow your pen?",
+            "May I borrow your pen?"
+          ],
+          "explain": {
+            "ua": "Borrow.",
+            "ru": "Borrow."
+          },
+          "id": "b1-u11-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "ability",
+      "question": "I ___ ride a bike when I was four.",
+      "options": [
+        "could",
+        "can",
+        "was able"
+      ],
+      "answer": "could",
+      "explain": {
+        "ua": "Could.",
+        "ru": "Could."
+      },
+      "id": "b1-u11-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "ability",
+      "question": "I'll ___ to help you on Monday.",
+      "options": [
+        "be able",
+        "can",
+        "could"
+      ],
+      "answer": "be able",
+      "explain": {
+        "ua": "Will be able to.",
+        "ru": "Will be able to."
+      },
+      "id": "b1-u11-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "requests",
+      "question": "Would you mind ___ the door?",
+      "options": [
+        "closing",
+        "to close",
+        "close"
+      ],
+      "answer": "closing",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u11-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "requests",
+      "question": "Could you ___ me some money?",
+      "options": [
+        "lend",
+        "borrow",
+        "lending"
+      ],
+      "answer": "lend",
+      "explain": {
+        "ua": "Lend.",
+        "ru": "Lend."
+      },
+      "id": "b1-u11-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "permission",
+      "question": "— Do you mind if I sit here? — ___ (= OK)",
+      "options": [
+        "No, not at all.",
+        "Yes, I do.",
+        "Yes, I mind."
+      ],
+      "answer": "No, not at all.",
+      "explain": {
+        "ua": "Not at all.",
+        "ru": "Not at all."
+      },
+      "id": "b1-u11-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "permission",
+      "question": "___ I come in? (formal)",
+      "answer": "May",
+      "accept": [
+        "Could"
+      ],
+      "explain": {
+        "ua": "May I.",
+        "ru": "May I."
+      },
+      "id": "b1-u11-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "ability",
+      "question": "It was difficult, but we ___ to catch the last train.",
+      "answer": "managed",
+      "accept": [
+        "were able"
+      ],
+      "explain": {
+        "ua": "Один успіх → managed to.",
+        "ru": "Один успех → managed to."
+      },
+      "id": "b1-u11-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "ability",
+      "sentence": "I will can come.",
+      "answer": "I will be able to come.",
+      "accept": [
+        "I'll be able to come."
+      ],
+      "explain": {
+        "ua": "Will be able to.",
+        "ru": "Will be able to."
+      },
+      "id": "b1-u11-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "requests",
+      "sentence": "Can I lend your car?",
+      "answer": "Can I borrow your car?",
+      "accept": [],
+      "explain": {
+        "ua": "Взяти — borrow.",
+        "ru": "Взять — borrow."
+      },
+      "id": "b1-u11-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "requests",
+      "words": [
+        "speak",
+        "you",
+        "Could",
+        "please",
+        "slowly",
+        "more"
+      ],
+      "answer": "Could you speak more slowly please",
+      "explain": {
+        "ua": "Could you → speak more slowly → please?",
+        "ru": "Could you → speak more slowly → please?"
+      },
+      "id": "b1-u11-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "requests",
+      "prompt": {
+        "ua": "Ви не проти зачекати хвилинку?",
+        "ru": "Вы не против подождать минутку?"
+      },
+      "answer": "Would you mind waiting a minute?",
+      "accept": [
+        "Would you mind waiting for a minute?"
+      ],
+      "explain": {
+        "ua": "Would you mind + -ing.",
+        "ru": "Would you mind + -ing."
+      },
+      "id": "b1-u11-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "requests",
+      "audio_text": "Could you pass the salt, please?",
+      "options": [
+        "Could you pass the salt, please?",
+        "Could you past the salt, please?",
+        "Could you pass the soap, please?"
+      ],
+      "answer": "Could you pass the salt, please?",
+      "audio": "",
+      "explain": {
+        "ua": "Pass the salt.",
+        "ru": "Pass the salt."
+      },
+      "id": "b1-u11-cp12"
+    }
+  ]
+}

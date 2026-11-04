@@ -1,0 +1,996 @@
+{
+  "id": "c1-u02",
+  "level": "C1",
+  "order": 2,
+  "kind": "grammar",
+  "title": {
+    "en": "Emphasis and cleft sentences",
+    "ua": "Емфатичні конструкції",
+    "ru": "Эмфатические конструкции"
+  },
+  "rule": {
+    "formula": {
+      "ua": "It was X that… · What I need is… · All I want is… · do / did + дієслово",
+      "ru": "It was X that… · What I need is… · All I want is… · do / did + глагол"
+    },
+    "explain": {
+      "ua": "Щоб виділити головне, розбиваємо речення на дві частини: Tom broke the vase → It was Tom who broke the vase. I need a holiday → What I need is a holiday. А do / did перед дієсловом додає «справді»: I did call you!",
+      "ru": "Чтобы выделить главное, разбиваем предложение на две части: Tom broke the vase → It was Tom who broke the vase. I need a holiday → What I need is a holiday. А do / did перед глаголом добавляет «действительно»: I did call you!"
+    },
+    "examples": [
+      {
+        "en": "It was my grandma who taught me to cook.",
+        "ua": "Саме бабуся навчила мене готувати.",
+        "ru": "Именно бабушка научила меня готовить."
+      },
+      {
+        "en": "What I love about Lviv is the coffee.",
+        "ua": "Що я люблю у Львові — так це каву.",
+        "ru": "Что я люблю во Львове — так это кофе."
+      },
+      {
+        "en": "I do understand you.",
+        "ua": "Я справді тебе розумію.",
+        "ru": "Я правда тебя понимаю."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "it was … that",
+      "ipa": "/ɪt wəz ðæt/",
+      "ua": "саме … (виділення)",
+      "ru": "именно … (выделение)",
+      "example": "It was in Paris that we met.",
+      "audio": ""
+    },
+    {
+      "word": "what I need is",
+      "ipa": "/wɒt aɪ niːd ɪz/",
+      "ua": "що мені потрібно — так це",
+      "ru": "что мне нужно — так это",
+      "example": "What I need is sleep.",
+      "audio": ""
+    },
+    {
+      "word": "all I want is",
+      "ipa": "/ɔːl aɪ wɒnt ɪz/",
+      "ua": "усе, чого я хочу, —",
+      "ru": "всё, чего я хочу, —",
+      "example": "All I want is peace.",
+      "audio": ""
+    },
+    {
+      "word": "the thing is",
+      "ipa": "/ðə ˈθɪŋ ɪz/",
+      "ua": "річ у тім, що",
+      "ru": "дело в том, что",
+      "example": "The thing is, I'm busy.",
+      "audio": ""
+    },
+    {
+      "word": "the reason why",
+      "ipa": "/ðə ˈriːzn waɪ/",
+      "ua": "причина, чому",
+      "ru": "причина, почему",
+      "example": "The reason why I left is simple.",
+      "audio": ""
+    },
+    {
+      "word": "the person who",
+      "ipa": "/ðə ˈpɜːsn huː/",
+      "ua": "людина, яка",
+      "ru": "человек, который",
+      "example": "The person who helped me was a stranger.",
+      "audio": ""
+    },
+    {
+      "word": "I do / I did",
+      "ipa": "/aɪ duː/",
+      "ua": "я справді",
+      "ru": "я правда",
+      "example": "I did lock the door!",
+      "audio": ""
+    },
+    {
+      "word": "indeed",
+      "ipa": "/ɪnˈdiːd/",
+      "ua": "справді, дійсно",
+      "ru": "действительно",
+      "example": "It was indeed a mistake.",
+      "audio": ""
+    },
+    {
+      "word": "the very",
+      "ipa": "/ðə ˈveri/",
+      "ua": "той самий, саме той",
+      "ru": "тот самый, именно тот",
+      "example": "This is the very book I wanted.",
+      "audio": ""
+    },
+    {
+      "word": "at all",
+      "ipa": "/ət ˈɔːl/",
+      "ua": "зовсім, взагалі",
+      "ru": "вообще, совсем",
+      "example": "I don't like it at all.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u02-l01",
+      "title": {
+        "en": "It was … that",
+        "ua": "It was … that",
+        "ru": "It was … that"
+      },
+      "recap": {
+        "from": "c1-u01-l03",
+        "note": {
+          "ua": "Згадаймо: If I had known → Had I known · If I were you → Were I you · If you need → Should you need",
+          "ru": "Вспомним: If I had known → Had I known · If I were you → Were I you · If you need → Should you need"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "inversion-conditional",
+            "question": "___ I known, I would have helped.",
+            "options": [
+              "Had",
+              "If",
+              "Have"
+            ],
+            "answer": "Had",
+            "explain": {
+              "ua": "If I had known → Had I known.",
+              "ru": "If I had known → Had I known."
+            },
+            "id": "c1-u02-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "inversion-conditional",
+            "question": "___ not been for your help, I would have failed.",
+            "options": [
+              "Had it",
+              "If it",
+              "Hadn't it"
+            ],
+            "answer": "Had it",
+            "explain": {
+              "ua": "Had it not been for…",
+              "ru": "Had it not been for…"
+            },
+            "id": "c1-u02-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "It is / was + виділене + that / who + решта речення",
+          "ru": "It is / was + выделенное + that / who + остальное предложение"
+        },
+        "explain": {
+          "ua": "Виділяти можна будь-що: людину (It was Anna who called), місце (It was in Kyiv that…), час (It was yesterday that…), причину (It was because of you that…). Для людей можна who, для іншого — that.",
+          "ru": "Выделять можно что угодно: человека (It was Anna who called), место (It was in Kyiv that…), время (It was yesterday that…), причину (It was because of you that…). Для людей можно who, для остального — that."
+        },
+        "examples": [
+          {
+            "en": "It was Max who told me the news.",
+            "ua": "Саме Макс розповів мені новину.",
+            "ru": "Именно Макс рассказал мне новость."
+          },
+          {
+            "en": "It was in 2015 that we moved to Warsaw.",
+            "ua": "Саме 2015 року ми переїхали до Варшави.",
+            "ru": "Именно в 2015 году мы переехали в Варшаву."
+          },
+          {
+            "en": "It's not the money that matters, it's the people.",
+            "ua": "Важливі не гроші, а люди.",
+            "ru": "Важны не деньги, а люди."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "cleft-it",
+          "question": "It was my sister ___ found the keys.",
+          "options": [
+            "who",
+            "which",
+            "what"
+          ],
+          "answer": "who",
+          "explain": {
+            "ua": "Людина → who.",
+            "ru": "Человек → who."
+          },
+          "id": "c1-u02-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-it",
+          "question": "It was in Lviv ___ we first met.",
+          "options": [
+            "that",
+            "where",
+            "which"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "It was in… that.",
+            "ru": "It was in… that."
+          },
+          "id": "c1-u02-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-it",
+          "question": "___ was the noise that woke me up.",
+          "options": [
+            "It",
+            "This",
+            "What"
+          ],
+          "answer": "It",
+          "explain": {
+            "ua": "It was … that.",
+            "ru": "It was … that."
+          },
+          "id": "c1-u02-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-it",
+          "question": "It wasn't until midnight ___ he came home.",
+          "options": [
+            "that",
+            "when",
+            "who"
+          ],
+          "answer": "that",
+          "explain": {
+            "ua": "It wasn't until … that.",
+            "ru": "It wasn't until … that."
+          },
+          "id": "c1-u02-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-it",
+          "question": {
+            "ua": "Виділи «вчора»: I saw her yesterday.",
+            "ru": "Выдели «вчера»: I saw her yesterday."
+          },
+          "options": [
+            "It was yesterday that I saw her.",
+            "It was I saw her yesterday.",
+            "Yesterday was that I saw her."
+          ],
+          "answer": "It was yesterday that I saw her.",
+          "explain": {
+            "ua": "It was + час + that.",
+            "ru": "It was + время + that."
+          },
+          "id": "c1-u02-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "cleft-it",
+          "pairs": [
+            {
+              "left": "Anna called.",
+              "right": "It was Anna who called."
+            },
+            {
+              "left": "We met in Rome.",
+              "right": "It was in Rome that we met."
+            },
+            {
+              "left": "The price shocked me.",
+              "right": "It was the price that shocked me."
+            },
+            {
+              "left": "He left on Monday.",
+              "right": "It was on Monday that he left."
+            }
+          ],
+          "explain": {
+            "ua": "Звичайне → виділення.",
+            "ru": "Обычное → выделение."
+          },
+          "id": "c1-u02-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "cleft-it",
+          "sentence": "It was my dad which taught me to drive.",
+          "answer": "It was my dad who taught me to drive.",
+          "accept": [
+            "It was my dad that taught me to drive."
+          ],
+          "explain": {
+            "ua": "Людина → who.",
+            "ru": "Человек → who."
+          },
+          "id": "c1-u02-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "cleft-it",
+          "words": [
+            "rain",
+            "was",
+            "It",
+            "the",
+            "of",
+            "stayed",
+            "home",
+            "because",
+            "we",
+            "that"
+          ],
+          "answer": "It was because of the rain that we stayed home",
+          "explain": {
+            "ua": "It was because of… that…",
+            "ru": "It was because of… that…"
+          },
+          "id": "c1-u02-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "cleft-it",
+          "prompt": {
+            "ua": "Саме мама допомогла мені переїхати.",
+            "ru": "Именно мама помогла мне переехать."
+          },
+          "answer": "It was my mum who helped me move.",
+          "accept": [
+            "It was my mother who helped me move.",
+            "It was my mum that helped me move.",
+            "It was my mom who helped me move."
+          ],
+          "explain": {
+            "ua": "It was … who.",
+            "ru": "It was … who."
+          },
+          "id": "c1-u02-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u02-l02",
+      "title": {
+        "en": "What I need is…",
+        "ua": "What I need is…",
+        "ru": "What I need is…"
+      },
+      "recap": {
+        "from": "c1-u02-l01",
+        "note": {
+          "ua": "Згадаймо: It is / was + виділене + that / who + решта речення",
+          "ru": "Вспомним: It is / was + выделенное + that / who + остальное предложение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "cleft-it",
+            "question": "It was my sister ___ found the keys.",
+            "options": [
+              "who",
+              "which",
+              "what"
+            ],
+            "answer": "who",
+            "explain": {
+              "ua": "Людина → who.",
+              "ru": "Человек → who."
+            },
+            "id": "c1-u02-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "cleft-it",
+            "question": "It wasn't until midnight ___ he came home.",
+            "options": [
+              "that",
+              "when",
+              "who"
+            ],
+            "answer": "that",
+            "explain": {
+              "ua": "It wasn't until … that.",
+              "ru": "It wasn't until … that."
+            },
+            "id": "c1-u02-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "What + S + V + is / was + … · All + S + V + is … · The thing / reason / place … is …",
+        "explain": {
+          "ua": "What I need is a break — «що мені потрібно, так це відпочинок». All I want is… — «усе, чого я хочу, — це…». What happened was… — щоб почати розповідь.",
+          "ru": "What I need is a break — «что мне нужно, так это отдых». All I want is… — «всё, чего я хочу, — это…». What happened was… — чтобы начать рассказ."
+        },
+        "examples": [
+          {
+            "en": "What I really need is a long holiday.",
+            "ua": "Що мені справді потрібно — так це довга відпустка.",
+            "ru": "Что мне правда нужно — так это долгий отпуск."
+          },
+          {
+            "en": "All I want is a bit of peace and quiet.",
+            "ua": "Усе, чого я хочу, — трохи тиші й спокою.",
+            "ru": "Всё, чего я хочу, — немного тишины и покоя."
+          },
+          {
+            "en": "What happened was that we got lost.",
+            "ua": "Сталося от що: ми заблукали.",
+            "ru": "Случилось вот что: мы заблудились."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "___ I need is a cup of coffee.",
+          "options": [
+            "What",
+            "That",
+            "Which"
+          ],
+          "answer": "What",
+          "explain": {
+            "ua": "What I need is…",
+            "ru": "What I need is…"
+          },
+          "id": "c1-u02-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "All I want ___ to sleep.",
+          "options": [
+            "is",
+            "are",
+            "it is"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "All I want is…",
+            "ru": "All I want is…"
+          },
+          "id": "c1-u02-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "What I love about my job ___ the people.",
+          "options": [
+            "is",
+            "are",
+            "it's"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "What … is (однина).",
+            "ru": "What … is (единственное)."
+          },
+          "id": "c1-u02-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "What happened ___ that the car broke down.",
+          "options": [
+            "was",
+            "is",
+            "were"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "What happened was…",
+            "ru": "What happened was…"
+          },
+          "id": "c1-u02-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "The ___ is, I don't have time.",
+          "options": [
+            "thing",
+            "what",
+            "it"
+          ],
+          "answer": "thing",
+          "explain": {
+            "ua": "The thing is…",
+            "ru": "The thing is…"
+          },
+          "id": "c1-u02-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "cleft-what",
+          "question": "What he did ___ call the police.",
+          "options": [
+            "was",
+            "was to calling",
+            "is called"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "What he did was (to) call.",
+            "ru": "What he did was (to) call."
+          },
+          "id": "c1-u02-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "cleft-what",
+          "bank": [
+            "What",
+            "All",
+            "thing",
+            "reason"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ I need is a plan.",
+            "___ I want is the truth.",
+            "The ___ is, I forgot.",
+            "The ___ why I'm late is the traffic."
+          ],
+          "answers": [
+            "What",
+            "All",
+            "thing",
+            "reason"
+          ],
+          "explain": {
+            "ua": "Виділення.",
+            "ru": "Выделение."
+          },
+          "id": "c1-u02-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "cleft-what",
+          "sentence": "What I need it is a holiday.",
+          "answer": "What I need is a holiday.",
+          "accept": [],
+          "explain": {
+            "ua": "Без it.",
+            "ru": "Без it."
+          },
+          "id": "c1-u02-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "cleft-what",
+          "prompt": {
+            "ua": "Усе, чого я хочу, — це спокій.",
+            "ru": "Всё, чего я хочу, — это покой."
+          },
+          "answer": "All I want is peace.",
+          "accept": [
+            "All I want is some peace.",
+            "All I want is peace and quiet."
+          ],
+          "explain": {
+            "ua": "All I want is…",
+            "ru": "All I want is…"
+          },
+          "id": "c1-u02-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u02-l03",
+      "title": {
+        "en": "Do / did for emphasis",
+        "ua": "Do / did для підсилення",
+        "ru": "Do / did для усиления"
+      },
+      "recap": {
+        "from": "c1-u02-l02",
+        "note": {
+          "ua": "Згадаймо: What + S + V + is / was + … · All + S + V + is … · The thing / reason / place … is …",
+          "ru": "Вспомним: What + S + V + is / was + … · All + S + V + is … · The thing / reason / place … is …"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "cleft-what",
+            "question": "___ I need is a cup of coffee.",
+            "options": [
+              "What",
+              "That",
+              "Which"
+            ],
+            "answer": "What",
+            "explain": {
+              "ua": "What I need is…",
+              "ru": "What I need is…"
+            },
+            "id": "c1-u02-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "cleft-what",
+            "question": "The ___ is, I don't have time.",
+            "options": [
+              "thing",
+              "what",
+              "it"
+            ],
+            "answer": "thing",
+            "explain": {
+              "ua": "The thing is…",
+              "ru": "The thing is…"
+            },
+            "id": "c1-u02-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "do / does / did + дієслово (без -s, без -ed) — «справді, таки»",
+          "ru": "do / does / did + глагол (без -s, без -ed) — «действительно, всё-таки»"
+        },
+        "explain": {
+          "ua": "Коли сперечаємося або підкреслюємо: — You didn't call! — I did call! / She does look tired. / Do sit down (ввічливе запрошення). У мові do / did виділяють голосом.",
+          "ru": "Когда спорим или подчёркиваем: — You didn't call! — I did call! / She does look tired. / Do sit down (вежливое приглашение). В речи do / did выделяют голосом."
+        },
+        "examples": [
+          {
+            "en": "— You don't like my cooking. — I do like it!",
+            "ua": "— Тобі не подобається, як я готую. — Та подобається!",
+            "ru": "— Тебе не нравится, как я готовлю. — Да нравится же!"
+          },
+          {
+            "en": "He did apologise in the end.",
+            "ua": "Зрештою він таки вибачився.",
+            "ru": "В конце концов он всё-таки извинился."
+          },
+          {
+            "en": "Do come in!",
+            "ua": "Заходьте ж!",
+            "ru": "Заходите же!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "— You never listen! — I ___ listen!",
+          "options": [
+            "do",
+            "am",
+            "does"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "I do + дієслово.",
+            "ru": "I do + глагол."
+          },
+          "id": "c1-u02-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "She ___ look tired today.",
+          "options": [
+            "does",
+            "do",
+            "is"
+          ],
+          "answer": "does",
+          "explain": {
+            "ua": "She does look.",
+            "ru": "She does look."
+          },
+          "id": "c1-u02-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "I ___ lock the door, I'm sure!",
+          "options": [
+            "did",
+            "was",
+            "do locked"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Минуле → did lock.",
+            "ru": "Прошлое → did lock."
+          },
+          "id": "c1-u02-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "He did ___ in the end.",
+          "options": [
+            "apologise",
+            "apologised",
+            "apologising"
+          ],
+          "answer": "apologise",
+          "explain": {
+            "ua": "Did + базова форма.",
+            "ru": "Did + базовая форма."
+          },
+          "id": "c1-u02-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "___ sit down, please!",
+          "options": [
+            "Do",
+            "Does",
+            "Did"
+          ],
+          "answer": "Do",
+          "explain": {
+            "ua": "Do sit down.",
+            "ru": "Do sit down."
+          },
+          "id": "c1-u02-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "emphatic-do",
+          "question": "I don't like coffee ___ .",
+          "options": [
+            "at all",
+            "indeed",
+            "very"
+          ],
+          "answer": "at all",
+          "explain": {
+            "ua": "Not … at all.",
+            "ru": "Not … at all."
+          },
+          "id": "c1-u02-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "emphatic-do",
+          "sentence": "I did called you yesterday!",
+          "answer": "I did call you yesterday!",
+          "accept": [],
+          "explain": {
+            "ua": "Did + call.",
+            "ru": "Did + call."
+          },
+          "id": "c1-u02-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "emphatic-do",
+          "sentence": "She does loves you.",
+          "answer": "She does love you.",
+          "accept": [],
+          "explain": {
+            "ua": "Does + love.",
+            "ru": "Does + love."
+          },
+          "id": "c1-u02-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "emphatic-do",
+          "prompt": {
+            "ua": "Я справді тебе кохаю.",
+            "ru": "Я правда тебя люблю."
+          },
+          "answer": "I do love you.",
+          "accept": [
+            "I really do love you.",
+            "I really love you."
+          ],
+          "explain": {
+            "ua": "I do + дієслово.",
+            "ru": "I do + глагол."
+          },
+          "id": "c1-u02-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "cleft-it",
+      "question": "It was my teacher ___ inspired me.",
+      "options": [
+        "who",
+        "which",
+        "what"
+      ],
+      "answer": "who",
+      "explain": {
+        "ua": "Who.",
+        "ru": "Who."
+      },
+      "id": "c1-u02-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "cleft-it",
+      "question": "It was in summer ___ we got married.",
+      "options": [
+        "that",
+        "when",
+        "which"
+      ],
+      "answer": "that",
+      "explain": {
+        "ua": "It was … that.",
+        "ru": "It was … that."
+      },
+      "id": "c1-u02-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "cleft-what",
+      "question": "___ I need is more time.",
+      "options": [
+        "What",
+        "That",
+        "It"
+      ],
+      "answer": "What",
+      "explain": {
+        "ua": "What I need is.",
+        "ru": "What I need is."
+      },
+      "id": "c1-u02-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "cleft-what",
+      "question": "All I want ___ a quiet evening.",
+      "options": [
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "All I want is.",
+        "ru": "All I want is."
+      },
+      "id": "c1-u02-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "emphatic-do",
+      "question": "— You didn't tell me! — I ___ tell you!",
+      "options": [
+        "did",
+        "do",
+        "was"
+      ],
+      "answer": "did",
+      "explain": {
+        "ua": "I did tell.",
+        "ru": "I did tell."
+      },
+      "id": "c1-u02-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "emphatic-do",
+      "question": "She ___ look happy today. (does / do)",
+      "answer": "does",
+      "accept": [],
+      "explain": {
+        "ua": "She does look.",
+        "ru": "She does look."
+      },
+      "id": "c1-u02-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "cleft-what",
+      "question": "The ___ is, I can't afford it.",
+      "answer": "thing",
+      "accept": [],
+      "explain": {
+        "ua": "The thing is.",
+        "ru": "The thing is."
+      },
+      "id": "c1-u02-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "emphatic-do",
+      "sentence": "He does works hard.",
+      "answer": "He does work hard.",
+      "accept": [],
+      "explain": {
+        "ua": "Does + work.",
+        "ru": "Does + work."
+      },
+      "id": "c1-u02-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "cleft-what",
+      "sentence": "What I want it is a new job.",
+      "answer": "What I want is a new job.",
+      "accept": [],
+      "explain": {
+        "ua": "Без it.",
+        "ru": "Без it."
+      },
+      "id": "c1-u02-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "cleft-it",
+      "words": [
+        "the",
+        "It",
+        "noise",
+        "woke",
+        "up",
+        "that",
+        "me",
+        "was"
+      ],
+      "answer": "It was the noise that woke me up",
+      "explain": {
+        "ua": "It was … that.",
+        "ru": "It was … that."
+      },
+      "id": "c1-u02-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "cleft-what",
+      "prompt": {
+        "ua": "Що мені потрібно — так це відпочинок.",
+        "ru": "Что мне нужно — так это отдых."
+      },
+      "answer": "What I need is a rest.",
+      "accept": [
+        "What I need is a break.",
+        "What I need is some rest.",
+        "What I need is a holiday."
+      ],
+      "explain": {
+        "ua": "What I need is…",
+        "ru": "What I need is…"
+      },
+      "id": "c1-u02-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "cleft-it",
+      "audio_text": "It was Anna who called.",
+      "options": [
+        "It was Anna who called.",
+        "It was Anna who cold.",
+        "Was it Anna who called?"
+      ],
+      "answer": "It was Anna who called.",
+      "audio": "",
+      "explain": {
+        "ua": "It was … who.",
+        "ru": "It was … who."
+      },
+      "id": "c1-u02-cp12"
+    }
+  ]
+}

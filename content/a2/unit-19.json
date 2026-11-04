@@ -1,0 +1,987 @@
+{
+  "id": "a2-u19",
+  "level": "A2",
+  "order": 19,
+  "kind": "grammar",
+  "title": {
+    "en": "Verb + -ing or to",
+    "ua": "Дієслово + -ing чи to",
+    "ru": "Глагол + -ing или to"
+  },
+  "rule": {
+    "formula": {
+      "ua": "like / love / hate / enjoy + -ing · want / need / would like / decide + to",
+      "ru": "like / love / hate / enjoy + -ing · want / need / would like / decide + to"
+    },
+    "explain": {
+      "ua": "Після одних дієслів інше дієслово йде з -ing (I enjoy cooking), після інших — з to (I want to cook). Ці пари треба запам'ятати.",
+      "ru": "После одних глаголов другой глагол идёт с -ing (I enjoy cooking), после других — с to (I want to cook). Эти пары нужно запомнить."
+    },
+    "examples": [
+      {
+        "en": "I love reading.",
+        "ua": "Я обожнюю читати.",
+        "ru": "Я обожаю читать."
+      },
+      {
+        "en": "She wants to learn Spanish.",
+        "ua": "Вона хоче вивчати іспанську.",
+        "ru": "Она хочет учить испанский."
+      },
+      {
+        "en": "Would you like to come?",
+        "ua": "Хочеш прийти?",
+        "ru": "Хочешь прийти?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "enjoy",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "ua": "отримувати задоволення від",
+      "ru": "получать удовольствие от",
+      "example": "I enjoy cooking.",
+      "audio": ""
+    },
+    {
+      "word": "hate",
+      "ipa": "/heɪt/",
+      "ua": "ненавидіти",
+      "ru": "ненавидеть",
+      "example": "I hate waiting.",
+      "audio": ""
+    },
+    {
+      "word": "don't mind",
+      "ipa": "/ˌdəʊnt ˈmaɪnd/",
+      "ua": "не проти",
+      "ru": "не против",
+      "example": "I don't mind walking.",
+      "audio": ""
+    },
+    {
+      "word": "finish",
+      "ipa": "/ˈfɪnɪʃ/",
+      "ua": "закінчувати",
+      "ru": "заканчивать",
+      "example": "Finish eating.",
+      "audio": ""
+    },
+    {
+      "word": "want",
+      "ipa": "/wɒnt/",
+      "ua": "хотіти",
+      "ru": "хотеть",
+      "example": "I want to sleep.",
+      "audio": ""
+    },
+    {
+      "word": "need",
+      "ipa": "/niːd/",
+      "ua": "потребувати",
+      "ru": "нуждаться",
+      "example": "You need to rest.",
+      "audio": ""
+    },
+    {
+      "word": "would like",
+      "ipa": "/wʊd ˈlaɪk/",
+      "ua": "хотів би",
+      "ru": "хотел бы",
+      "example": "I'd like to go.",
+      "audio": ""
+    },
+    {
+      "word": "decide",
+      "ipa": "/dɪˈsaɪd/",
+      "ua": "вирішувати",
+      "ru": "решать",
+      "example": "We decided to stay.",
+      "audio": ""
+    },
+    {
+      "word": "hope",
+      "ipa": "/həʊp/",
+      "ua": "сподіватися",
+      "ru": "надеяться",
+      "example": "I hope to see you.",
+      "audio": ""
+    },
+    {
+      "word": "try",
+      "ipa": "/traɪ/",
+      "ua": "намагатися",
+      "ru": "стараться",
+      "example": "Try to relax.",
+      "audio": ""
+    },
+    {
+      "word": "learn",
+      "ipa": "/lɜːn/",
+      "ua": "вчитися",
+      "ru": "учиться",
+      "example": "I'm learning to drive.",
+      "audio": ""
+    },
+    {
+      "word": "plan",
+      "ipa": "/plæn/",
+      "ua": "планувати",
+      "ru": "планировать",
+      "example": "We plan to travel.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u19-l01",
+      "title": {
+        "en": "like / love / enjoy + -ing",
+        "ua": "like / love / enjoy + -ing",
+        "ru": "like / love / enjoy + -ing"
+      },
+      "recap": {
+        "from": "a2-u18-l02",
+        "note": {
+          "ua": "Згадаймо: good → well · fast → fast · hard → hard · late → late · early → early",
+          "ru": "Вспомним: good → well · fast → fast · hard → hard · late → late · early → early"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "adverbs-irregular",
+            "question": "He speaks English very ___ .",
+            "options": [
+              "well",
+              "good",
+              "goodly"
+            ],
+            "answer": "well",
+            "explain": {
+              "ua": "Як? → well.",
+              "ru": "Как? → well."
+            },
+            "id": "a2-u19-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "adverbs-irregular",
+            "question": "I got up ___ today — at 5!",
+            "options": [
+              "early",
+              "earlily",
+              "earlyly"
+            ],
+            "answer": "early",
+            "explain": {
+              "ua": "Early без змін.",
+              "ru": "Early без изменений."
+            },
+            "id": "a2-u19-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "like · love · enjoy · hate · don't mind · finish + -ing",
+        "explain": {
+          "ua": "Про те, що любимо чи не любимо робити, — дієслово з -ing: I enjoy swimming. I hate getting up early.",
+          "ru": "О том, что любим или не любим делать, — глагол с -ing: I enjoy swimming. I hate getting up early."
+        },
+        "examples": [
+          {
+            "en": "I enjoy cooking.",
+            "ua": "Мені подобається готувати.",
+            "ru": "Мне нравится готовить."
+          },
+          {
+            "en": "He hates waiting.",
+            "ua": "Він ненавидить чекати.",
+            "ru": "Он ненавидит ждать."
+          },
+          {
+            "en": "I don't mind walking.",
+            "ua": "Я не проти пройтися.",
+            "ru": "Я не против пройтись."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "verb-ing",
+          "question": "I enjoy ___ to music.",
+          "options": [
+            "listening",
+            "to listen",
+            "listen"
+          ],
+          "answer": "listening",
+          "explain": {
+            "ua": "Enjoy + -ing.",
+            "ru": "Enjoy + -ing."
+          },
+          "id": "a2-u19-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing",
+          "question": "She hates ___ up early.",
+          "options": [
+            "getting",
+            "to get",
+            "get"
+          ],
+          "answer": "getting",
+          "explain": {
+            "ua": "Hate + -ing.",
+            "ru": "Hate + -ing."
+          },
+          "id": "a2-u19-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing",
+          "question": "I don't mind ___ . It's not far.",
+          "options": [
+            "walking",
+            "to walk",
+            "walk"
+          ],
+          "answer": "walking",
+          "explain": {
+            "ua": "Don't mind + -ing.",
+            "ru": "Don't mind + -ing."
+          },
+          "id": "a2-u19-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing",
+          "question": "Have you finished ___ ?",
+          "options": [
+            "eating",
+            "to eat",
+            "eat"
+          ],
+          "answer": "eating",
+          "explain": {
+            "ua": "Finish + -ing.",
+            "ru": "Finish + -ing."
+          },
+          "id": "a2-u19-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "verb-ing",
+          "question": "We love ___ . (travel)",
+          "answer": "travelling",
+          "accept": [
+            "traveling",
+            "to travel"
+          ],
+          "explain": {
+            "ua": "Love + -ing.",
+            "ru": "Love + -ing."
+          },
+          "id": "a2-u19-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-ing",
+          "sentence": "I enjoy to cook.",
+          "answer": "I enjoy cooking.",
+          "accept": [],
+          "explain": {
+            "ua": "Enjoy + -ing.",
+            "ru": "Enjoy + -ing."
+          },
+          "id": "a2-u19-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-ing",
+          "sentence": "He finished to work at 6.",
+          "answer": "He finished working at 6.",
+          "accept": [
+            "He finished work at 6."
+          ],
+          "explain": {
+            "ua": "Finish + -ing.",
+            "ru": "Finish + -ing."
+          },
+          "id": "a2-u19-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "verb-ing",
+          "audio_text": "I hate waiting.",
+          "options": [
+            "I hate waiting.",
+            "I hate to wait.",
+            "I hate weighting."
+          ],
+          "answer": "I hate waiting.",
+          "audio": "",
+          "explain": {
+            "ua": "Hate waiting.",
+            "ru": "Hate waiting."
+          },
+          "id": "a2-u19-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "verb-ing",
+          "prompt": {
+            "ua": "Я люблю плавати.",
+            "ru": "Я люблю плавать."
+          },
+          "answer": "I love swimming.",
+          "accept": [
+            "I like swimming.",
+            "I love to swim.",
+            "I like to swim."
+          ],
+          "explain": {
+            "ua": "Love + -ing.",
+            "ru": "Love + -ing."
+          },
+          "id": "a2-u19-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u19-l02",
+      "title": {
+        "en": "want / need / would like + to",
+        "ua": "want / need / would like + to",
+        "ru": "want / need / would like + to"
+      },
+      "recap": {
+        "from": "a2-u19-l01",
+        "note": {
+          "ua": "Згадаймо: like · love · enjoy · hate · don't mind · finish + -ing",
+          "ru": "Вспомним: like · love · enjoy · hate · don't mind · finish + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "verb-ing",
+            "question": "I enjoy ___ to music.",
+            "options": [
+              "listening",
+              "to listen",
+              "listen"
+            ],
+            "answer": "listening",
+            "explain": {
+              "ua": "Enjoy + -ing.",
+              "ru": "Enjoy + -ing."
+            },
+            "id": "a2-u19-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "verb-ing",
+            "question": "We love ___ . (travel)",
+            "answer": "travelling",
+            "accept": [
+              "traveling",
+              "to travel"
+            ],
+            "explain": {
+              "ua": "Love + -ing.",
+              "ru": "Love + -ing."
+            },
+            "id": "a2-u19-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "want · need · would like · decide · hope · plan · try · learn + to + дієслово",
+          "ru": "want · need · would like · decide · hope · plan · try · learn + to + глагол"
+        },
+        "explain": {
+          "ua": "Про бажання, плани, рішення — to + дієслово: I want to go. We decided to stay. I'd like to try.",
+          "ru": "О желаниях, планах, решениях — to + глагол: I want to go. We decided to stay. I'd like to try."
+        },
+        "examples": [
+          {
+            "en": "I want to sleep.",
+            "ua": "Я хочу спати.",
+            "ru": "Я хочу спать."
+          },
+          {
+            "en": "We decided to stay at home.",
+            "ua": "Ми вирішили залишитися вдома.",
+            "ru": "Мы решили остаться дома."
+          },
+          {
+            "en": "I'd like to try this.",
+            "ua": "Я б хотів спробувати це.",
+            "ru": "Я бы хотел попробовать это."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "verb-to",
+          "question": "I want ___ a new phone.",
+          "options": [
+            "to buy",
+            "buying",
+            "buy"
+          ],
+          "answer": "to buy",
+          "explain": {
+            "ua": "Want + to.",
+            "ru": "Want + to."
+          },
+          "id": "a2-u19-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-to",
+          "question": "You need ___ more.",
+          "options": [
+            "to rest",
+            "resting",
+            "rest"
+          ],
+          "answer": "to rest",
+          "explain": {
+            "ua": "Need + to.",
+            "ru": "Need + to."
+          },
+          "id": "a2-u19-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-to",
+          "question": "Would you like ___ with us?",
+          "options": [
+            "to come",
+            "coming",
+            "come"
+          ],
+          "answer": "to come",
+          "explain": {
+            "ua": "Would like + to.",
+            "ru": "Would like + to."
+          },
+          "id": "a2-u19-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-to",
+          "question": "They decided ___ a car.",
+          "options": [
+            "to rent",
+            "renting",
+            "rent"
+          ],
+          "answer": "to rent",
+          "explain": {
+            "ua": "Decide + to.",
+            "ru": "Decide + to."
+          },
+          "id": "a2-u19-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-to",
+          "question": "I'm learning ___ .",
+          "options": [
+            "to drive",
+            "driving",
+            "drive"
+          ],
+          "answer": "to drive",
+          "explain": {
+            "ua": "Learn + to.",
+            "ru": "Learn + to."
+          },
+          "id": "a2-u19-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-to",
+          "sentence": "I want go home.",
+          "answer": "I want to go home.",
+          "accept": [],
+          "explain": {
+            "ua": "Want + to.",
+            "ru": "Want + to."
+          },
+          "id": "a2-u19-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-to",
+          "sentence": "I'd like going to Italy.",
+          "answer": "I'd like to go to Italy.",
+          "accept": [
+            "I would like to go to Italy."
+          ],
+          "explain": {
+            "ua": "Would like + to.",
+            "ru": "Would like + to."
+          },
+          "id": "a2-u19-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "verb-to",
+          "words": [
+            "to",
+            "see",
+            "hope",
+            "We",
+            "soon",
+            "you"
+          ],
+          "answer": "We hope to see you soon",
+          "explain": {
+            "ua": "Hope → to see → you soon.",
+            "ru": "Hope → to see → you soon."
+          },
+          "id": "a2-u19-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "verb-to",
+          "prompt": {
+            "ua": "Я хочу вивчати французьку.",
+            "ru": "Я хочу учить французский."
+          },
+          "answer": "I want to learn French.",
+          "accept": [
+            "I want to study French."
+          ],
+          "explain": {
+            "ua": "Want + to.",
+            "ru": "Want + to."
+          },
+          "id": "a2-u19-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u19-l03",
+      "title": {
+        "en": "Practice: likes and plans",
+        "ua": "Практика: уподобання й плани",
+        "ru": "Практика: вкусы и планы"
+      },
+      "recap": {
+        "from": "a2-u19-l02",
+        "note": {
+          "ua": "Згадаймо: want · need · would like · decide · hope · plan · try · learn + to + дієслово",
+          "ru": "Вспомним: want · need · would like · decide · hope · plan · try · learn + to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "verb-to",
+            "question": "I want ___ a new phone.",
+            "options": [
+              "to buy",
+              "buying",
+              "buy"
+            ],
+            "answer": "to buy",
+            "explain": {
+              "ua": "Want + to.",
+              "ru": "Want + to."
+            },
+            "id": "a2-u19-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "verb-to",
+            "question": "I'm learning ___ .",
+            "options": [
+              "to drive",
+              "driving",
+              "drive"
+            ],
+            "answer": "to drive",
+            "explain": {
+              "ua": "Learn + to.",
+              "ru": "Learn + to."
+            },
+            "id": "a2-u19-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "verb-ing-to",
+          "bank": [
+            "cooking",
+            "to cook",
+            "reading",
+            "to read"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I enjoy ___ .",
+            "I want ___ pasta tonight.",
+            "She loves ___ .",
+            "She'd like ___ this book."
+          ],
+          "answers": [
+            "cooking",
+            "to cook",
+            "reading",
+            "to read"
+          ],
+          "explain": {
+            "ua": "enjoy / love + -ing; want / would like + to.",
+            "ru": "enjoy / love + -ing; want / would like + to."
+          },
+          "id": "a2-u19-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing-to",
+          "question": "I don't mind ___ the dishes.",
+          "options": [
+            "washing",
+            "to wash",
+            "wash"
+          ],
+          "answer": "washing",
+          "explain": {
+            "ua": "Don't mind + -ing.",
+            "ru": "Don't mind + -ing."
+          },
+          "id": "a2-u19-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-ing-to",
+          "question": "We plan ___ abroad next year.",
+          "options": [
+            "to travel",
+            "travelling",
+            "travel"
+          ],
+          "answer": "to travel",
+          "explain": {
+            "ua": "Plan + to.",
+            "ru": "Plan + to."
+          },
+          "id": "a2-u19-l03-e03"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ira enjoys getting up early.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ira wants to learn to dance.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What did Ira decide to do?",
+              "options": [
+                "to start yoga",
+                "to stop cooking",
+                "to move"
+              ],
+              "answer": "to start yoga"
+            }
+          ],
+          "text": "I'm Ira. I hate getting up early, but I enjoy cooking breakfast for my family. In my free time I love reading. This year I want to learn to dance, and last week I decided to start yoga. I hope to feel more energetic!",
+          "explain": {
+            "ua": "Hates getting up early, enjoys cooking, wants to learn to dance, decided to start yoga.",
+            "ru": "Hates getting up early, enjoys cooking, wants to learn to dance, decided to start yoga."
+          },
+          "id": "a2-u19-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-ing-to",
+          "sentence": "I hope seeing you soon.",
+          "answer": "I hope to see you soon.",
+          "accept": [],
+          "explain": {
+            "ua": "Hope + to.",
+            "ru": "Hope + to."
+          },
+          "id": "a2-u19-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-ing-to",
+          "sentence": "She enjoys to dance.",
+          "answer": "She enjoys dancing.",
+          "accept": [],
+          "explain": {
+            "ua": "Enjoy + -ing.",
+            "ru": "Enjoy + -ing."
+          },
+          "id": "a2-u19-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "verb-ing-to",
+          "audio_text": "Would you like to come with us?",
+          "options": [
+            "Would you like to come with us?",
+            "Would you like coming with us?",
+            "Do you like to come with us?"
+          ],
+          "answer": "Would you like to come with us?",
+          "audio": "",
+          "explain": {
+            "ua": "Would you like to…",
+            "ru": "Would you like to…"
+          },
+          "id": "a2-u19-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "verb-ing-to",
+          "prompt": {
+            "ua": "Ми вирішили залишитися вдома.",
+            "ru": "Мы решили остаться дома."
+          },
+          "answer": "We decided to stay at home.",
+          "accept": [
+            "We decided to stay home."
+          ],
+          "explain": {
+            "ua": "Decide + to.",
+            "ru": "Decide + to."
+          },
+          "id": "a2-u19-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "verb-ing-to",
+          "prompt": {
+            "ua": "Мені подобається гуляти в парку.",
+            "ru": "Мне нравится гулять в парке."
+          },
+          "answer": "I like walking in the park.",
+          "accept": [
+            "I enjoy walking in the park.",
+            "I like to walk in the park.",
+            "I love walking in the park."
+          ],
+          "explain": {
+            "ua": "Like + -ing.",
+            "ru": "Like + -ing."
+          },
+          "id": "a2-u19-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "verb-ing",
+      "question": "I enjoy ___ .",
+      "options": [
+        "swimming",
+        "to swim",
+        "swim"
+      ],
+      "answer": "swimming",
+      "explain": {
+        "ua": "Enjoy + -ing.",
+        "ru": "Enjoy + -ing."
+      },
+      "id": "a2-u19-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "verb-to",
+      "question": "She wants ___ a doctor.",
+      "options": [
+        "to be",
+        "being",
+        "be"
+      ],
+      "answer": "to be",
+      "explain": {
+        "ua": "Want + to.",
+        "ru": "Want + to."
+      },
+      "id": "a2-u19-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "verb-to",
+      "question": "I'd like ___ a coffee.",
+      "options": [
+        "to have",
+        "having",
+        "have"
+      ],
+      "answer": "to have",
+      "explain": {
+        "ua": "Would like + to.",
+        "ru": "Would like + to."
+      },
+      "id": "a2-u19-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "verb-ing",
+      "question": "He hates ___ .",
+      "options": [
+        "waiting",
+        "to waiting",
+        "wait"
+      ],
+      "answer": "waiting",
+      "explain": {
+        "ua": "Hate + -ing.",
+        "ru": "Hate + -ing."
+      },
+      "id": "a2-u19-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "verb-to",
+      "question": "We decided ___ stay.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Decide + to.",
+        "ru": "Decide + to."
+      },
+      "id": "a2-u19-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "verb-ing",
+      "question": "I don't mind ___ . (walk)",
+      "answer": "walking",
+      "accept": [],
+      "explain": {
+        "ua": "Don't mind + -ing.",
+        "ru": "Don't mind + -ing."
+      },
+      "id": "a2-u19-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "enjoy",
+          "right": "cooking"
+        },
+        {
+          "left": "want",
+          "right": "to cook"
+        },
+        {
+          "left": "finish",
+          "right": "eating"
+        },
+        {
+          "left": "need",
+          "right": "to eat"
+        }
+      ],
+      "explain": {
+        "ua": "Що після чого.",
+        "ru": "Что после чего."
+      },
+      "id": "a2-u19-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "verb-ing",
+      "sentence": "I enjoy to read.",
+      "answer": "I enjoy reading.",
+      "accept": [],
+      "explain": {
+        "ua": "Enjoy + -ing.",
+        "ru": "Enjoy + -ing."
+      },
+      "id": "a2-u19-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "verb-to",
+      "sentence": "I need go.",
+      "answer": "I need to go.",
+      "accept": [],
+      "explain": {
+        "ua": "Need + to.",
+        "ru": "Need + to."
+      },
+      "id": "a2-u19-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "verb-to",
+      "words": [
+        "to",
+        "drive",
+        "am",
+        "learning",
+        "I"
+      ],
+      "answer": "I am learning to drive",
+      "explain": {
+        "ua": "Learning → to drive.",
+        "ru": "Learning → to drive."
+      },
+      "id": "a2-u19-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "verb-to",
+      "prompt": {
+        "ua": "Я хотіла б спробувати.",
+        "ru": "Я бы хотела попробовать."
+      },
+      "answer": "I'd like to try.",
+      "accept": [
+        "I would like to try.",
+        "I'd like to try it."
+      ],
+      "explain": {
+        "ua": "Would like + to.",
+        "ru": "Would like + to."
+      },
+      "id": "a2-u19-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "verb-ing",
+      "audio_text": "She loves dancing.",
+      "options": [
+        "She loves dancing.",
+        "She loves dance.",
+        "She lives dancing."
+      ],
+      "answer": "She loves dancing.",
+      "audio": "",
+      "explain": {
+        "ua": "Loves dancing.",
+        "ru": "Loves dancing."
+      },
+      "id": "a2-u19-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1459 @@
+{
+  "id": "b1-u07",
+  "level": "B1",
+  "order": 7,
+  "kind": "grammar",
+  "title": {
+    "en": "Second conditional",
+    "ua": "Second conditional",
+    "ru": "Second conditional"
+  },
+  "rule": {
+    "formula": {
+      "ua": "If + Past Simple, would + дієслово — уявна / малоймовірна ситуація",
+      "ru": "If + Past Simple, would + глагол — воображаемая / маловероятная ситуация"
+    },
+    "explain": {
+      "ua": "Second conditional — мрії, уява, нереальне зараз: If I had a lot of money, I would travel the world (але грошей немає). Минулий час тут не про минуле!",
+      "ru": "Second conditional — мечты, воображение, нереальное сейчас: If I had a lot of money, I would travel the world (но денег нет). Прошедшее время здесь не о прошлом!"
+    },
+    "examples": [
+      {
+        "en": "If I had more time, I would learn Italian.",
+        "ua": "Якби в мене було більше часу, я б вивчала італійську.",
+        "ru": "Если бы у меня было больше времени, я бы учила итальянский."
+      },
+      {
+        "en": "If I were you, I'd call her.",
+        "ua": "На твоєму місці я б їй подзвонив.",
+        "ru": "На твоём месте я бы ей позвонил."
+      },
+      {
+        "en": "What would you do if you won the lottery?",
+        "ua": "Що б ти зробив, якби виграв у лотерею?",
+        "ru": "Что бы ты сделал, если бы выиграл в лотерею?"
+      }
+    ],
+    "compare": {
+      "ua": "Це українське «якби… -б». If I knew = якби я знав. I would tell = я б сказав.",
+      "ru": "Это русское «если бы… бы». If I knew = если бы я знал. I would tell = я бы сказал."
+    }
+  },
+  "vocab": [
+    {
+      "word": "would ('d)",
+      "ipa": "/wʊd/",
+      "ua": "б (умовний спосіб)",
+      "ru": "бы (условное наклонение)",
+      "example": "I'd buy a house.",
+      "audio": ""
+    },
+    {
+      "word": "win the lottery",
+      "ipa": "/ˌwɪn ðə ˈlɒtəri/",
+      "ua": "виграти в лотерею",
+      "ru": "выиграть в лотерею",
+      "example": "If I won the lottery…",
+      "audio": ""
+    },
+    {
+      "word": "rich",
+      "ipa": "/rɪtʃ/",
+      "ua": "багатий",
+      "ru": "богатый",
+      "example": "If I were rich…",
+      "audio": ""
+    },
+    {
+      "word": "famous",
+      "ipa": "/ˈfeɪməs/",
+      "ua": "відомий",
+      "ru": "знаменитый",
+      "example": "If I were famous…",
+      "audio": ""
+    },
+    {
+      "word": "island",
+      "ipa": "/ˈaɪlənd/",
+      "ua": "острів",
+      "ru": "остров",
+      "example": "a desert island",
+      "audio": ""
+    },
+    {
+      "word": "superpower",
+      "ipa": "/ˈsuːpəpaʊə/",
+      "ua": "суперсила",
+      "ru": "суперсила",
+      "example": "If you had a superpower…",
+      "audio": ""
+    },
+    {
+      "word": "invisible",
+      "ipa": "/ɪnˈvɪzəbl/",
+      "ua": "невидимий",
+      "ru": "невидимый",
+      "example": "If I were invisible…",
+      "audio": ""
+    },
+    {
+      "word": "give up",
+      "ipa": "/ˌɡɪv ˈʌp/",
+      "ua": "кинути, відмовитися",
+      "ru": "бросить, отказаться",
+      "example": "I'd give up my job.",
+      "audio": ""
+    },
+    {
+      "word": "If I were you",
+      "ipa": "/ɪf aɪ ˈwɜː juː/",
+      "ua": "на твоєму місці",
+      "ru": "на твоём месте",
+      "example": "If I were you, I'd go.",
+      "audio": ""
+    },
+    {
+      "word": "could",
+      "ipa": "/kʊd/",
+      "ua": "міг би",
+      "ru": "мог бы",
+      "example": "If I had a car, I could drive you.",
+      "audio": ""
+    },
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔːd/",
+      "ua": "дозволити собі (фінансово)",
+      "ru": "позволить себе (финансово)",
+      "example": "I can't afford it.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u07-l01",
+      "title": {
+        "en": "Imaginary present",
+        "ua": "Уявна ситуація",
+        "ru": "Воображаемая ситуация"
+      },
+      "recap": {
+        "from": "b1-u06-l03",
+        "note": {
+          "ua": "Згадаймо: unless = if … not · as soon as = щойно · in case = на випадок, якщо",
+          "ru": "Вспомним: unless = if … not · as soon as = как только · in case = на случай, если"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "unless",
+            "question": "You'll fail ___ you study.",
+            "options": [
+              "unless",
+              "if",
+              "in case"
+            ],
+            "answer": "unless",
+            "explain": {
+              "ua": "Unless = if not.",
+              "ru": "Unless = if not."
+            },
+            "id": "b1-u07-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "unless",
+            "question": "Take some money ___ you need a taxi.",
+            "options": [
+              "in case",
+              "unless",
+              "as soon as"
+            ],
+            "answer": "in case",
+            "explain": {
+              "ua": "На випадок — in case.",
+              "ru": "На случай — in case."
+            },
+            "id": "b1-u07-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If + Past Simple, would + дієслово",
+          "ru": "If + Past Simple, would + глагол"
+        },
+        "explain": {
+          "ua": "If-частина — минулий час (had, knew, lived), інша — would / 'd + дієслово. Ситуація нереальна або дуже малоймовірна.",
+          "ru": "If-часть — прошедшее время (had, knew, lived), другая — would / 'd + глагол. Ситуация нереальная или очень маловероятная."
+        },
+        "examples": [
+          {
+            "en": "If I had a car, I'd drive to work.",
+            "ua": "Якби в мене була машина, я б їздив на роботу.",
+            "ru": "Если бы у меня была машина, я бы ездил на работу."
+          },
+          {
+            "en": "If she knew the answer, she would tell us.",
+            "ua": "Якби вона знала відповідь, сказала б нам.",
+            "ru": "Если бы она знала ответ, сказала бы нам."
+          },
+          {
+            "en": "We'd buy a house if we had the money.",
+            "ua": "Ми б купили будинок, якби мали гроші.",
+            "ru": "Мы бы купили дом, если бы были деньги."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "If I ___ more money, I'd buy a car.",
+          "options": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "If I had more time, I ___ read more.",
+          "options": [
+            "would",
+            "will",
+            "did"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b1-u07-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "If she lived by the sea, she ___ every day.",
+          "options": [
+            "would swim",
+            "will swim",
+            "swims"
+          ],
+          "answer": "would swim",
+          "explain": {
+            "ua": "Would + swim.",
+            "ru": "Would + swim."
+          },
+          "id": "b1-u07-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "What would you do if you ___ the lottery?",
+          "options": [
+            "won",
+            "win",
+            "would win"
+          ],
+          "answer": "won",
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "If I could fly, I ___ to Paris.",
+          "options": [
+            "'d fly",
+            "'ll fly",
+            "flew"
+          ],
+          "answer": "'d fly",
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b1-u07-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "second-conditional",
+          "bank": [
+            "had",
+            "would",
+            "knew",
+            "'d"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If I ___ a dog, I'd walk it every day.",
+            "I ___ travel more if I had time.",
+            "If I ___ her number, I'd call her.",
+            "If we lived in Spain, we ___ speak Spanish."
+          ],
+          "answers": [
+            "had",
+            "would",
+            "knew",
+            "'d"
+          ],
+          "explain": {
+            "ua": "If → Past, інша частина → would.",
+            "ru": "If → Past, другая часть → would."
+          },
+          "id": "b1-u07-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "second-conditional",
+          "sentence": "If I would have money, I'd travel.",
+          "answer": "If I had money, I'd travel.",
+          "accept": [
+            "If I had money, I would travel."
+          ],
+          "explain": {
+            "ua": "Після if — без would.",
+            "ru": "После if — без would."
+          },
+          "id": "b1-u07-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "second-conditional",
+          "sentence": "If I had a garden, I will grow tomatoes.",
+          "answer": "If I had a garden, I would grow tomatoes.",
+          "accept": [
+            "If I had a garden, I'd grow tomatoes."
+          ],
+          "explain": {
+            "ua": "Нереальне → would.",
+            "ru": "Нереальное → would."
+          },
+          "id": "b1-u07-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "second-conditional",
+          "prompt": {
+            "ua": "Якби в мене була машина, я б тебе підвіз.",
+            "ru": "Если бы у меня была машина, я бы тебя подвёз."
+          },
+          "answer": "If I had a car, I'd give you a lift.",
+          "accept": [
+            "If I had a car, I would give you a lift.",
+            "If I had a car, I'd drive you.",
+            "If I had a car, I could give you a lift.",
+            "If I had a car, I would drive you."
+          ],
+          "explain": {
+            "ua": "Second conditional.",
+            "ru": "Second conditional."
+          },
+          "id": "b1-u07-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u07-l02",
+      "title": {
+        "en": "If I were you",
+        "ua": "If I were you",
+        "ru": "If I were you"
+      },
+      "recap": {
+        "from": "b1-u07-l01",
+        "note": {
+          "ua": "Згадаймо: If + Past Simple, would + дієслово",
+          "ru": "Вспомним: If + Past Simple, would + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "second-conditional",
+            "question": "If I ___ more money, I'd buy a car.",
+            "options": [
+              "had",
+              "have",
+              "would have"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "If + Past.",
+              "ru": "If + Past."
+            },
+            "id": "b1-u07-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "second-conditional",
+            "question": "If I could fly, I ___ to Paris.",
+            "options": [
+              "'d fly",
+              "'ll fly",
+              "flew"
+            ],
+            "answer": "'d fly",
+            "explain": {
+              "ua": "Would.",
+              "ru": "Would."
+            },
+            "id": "b1-u07-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If I / he / she were… · If I were you, I'd… — порада",
+          "ru": "If I / he / she were… · If I were you, I'd… — совет"
+        },
+        "explain": {
+          "ua": "У second conditional після if для всіх можна were: If I were rich. If she were here. If I were you — «на твоєму місці» — найпопулярніша порада.",
+          "ru": "В second conditional после if для всех можно were: If I were rich. If she were here. If I were you — «на твоём месте» — самый популярный совет."
+        },
+        "examples": [
+          {
+            "en": "If I were you, I'd take the job.",
+            "ua": "На твоєму місці я б погодився на цю роботу.",
+            "ru": "На твоём месте я бы согласился на эту работу."
+          },
+          {
+            "en": "If I were rich, I'd help my parents.",
+            "ua": "Якби я був багатим, я б допоміг батькам.",
+            "ru": "Если бы я был богатым, я бы помог родителям."
+          },
+          {
+            "en": "If he were here, he'd know what to do.",
+            "ua": "Якби він був тут, він би знав, що робити.",
+            "ru": "Если бы он был здесь, он бы знал, что делать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "if-i-were-you",
+          "question": "If I ___ you, I'd see a doctor.",
+          "options": [
+            "were",
+            "am",
+            "would be"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "If I were you.",
+            "ru": "If I were you."
+          },
+          "id": "b1-u07-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "if-i-were-you",
+          "question": "If I were rich, I ___ a big house.",
+          "options": [
+            "'d buy",
+            "'ll buy",
+            "buy"
+          ],
+          "answer": "'d buy",
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b1-u07-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "if-i-were-you",
+          "question": "If she ___ taller, she'd be a model.",
+          "options": [
+            "were",
+            "is",
+            "will be"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Were.",
+            "ru": "Were."
+          },
+          "id": "b1-u07-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "if-i-were-you",
+          "question": "If I were you, I ___ say that.",
+          "options": [
+            "wouldn't",
+            "won't",
+            "don't"
+          ],
+          "answer": "wouldn't",
+          "explain": {
+            "ua": "Wouldn't.",
+            "ru": "Wouldn't."
+          },
+          "id": "b1-u07-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "if-i-were-you",
+          "pairs": [
+            {
+              "left": "I'm always tired.",
+              "right": "If I were you, I'd sleep more."
+            },
+            {
+              "left": "My boss is terrible.",
+              "right": "If I were you, I'd change jobs."
+            },
+            {
+              "left": "I've got a toothache.",
+              "right": "If I were you, I'd see a dentist."
+            },
+            {
+              "left": "I want to learn English.",
+              "right": "If I were you, I'd use VERBORA!"
+            }
+          ],
+          "explain": {
+            "ua": "Проблема → порада.",
+            "ru": "Проблема → совет."
+          },
+          "id": "b1-u07-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "if-i-were-you",
+          "sentence": "If I am you, I would go.",
+          "answer": "If I were you, I would go.",
+          "accept": [
+            "If I were you, I'd go."
+          ],
+          "explain": {
+            "ua": "If I were you.",
+            "ru": "If I were you."
+          },
+          "id": "b1-u07-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "if-i-were-you",
+          "sentence": "If I were you, I will call him.",
+          "answer": "If I were you, I would call him.",
+          "accept": [
+            "If I were you, I'd call him."
+          ],
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b1-u07-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "if-i-were-you",
+          "audio_text": "If I were you, I'd say sorry.",
+          "options": [
+            "If I were you, I'd say sorry.",
+            "If I was you, I say sorry.",
+            "If I were you, I'll say sorry."
+          ],
+          "answer": "If I were you, I'd say sorry.",
+          "audio": "",
+          "explain": {
+            "ua": "I'd.",
+            "ru": "I'd."
+          },
+          "id": "b1-u07-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "if-i-were-you",
+          "prompt": {
+            "ua": "На твоєму місці я б не хвилювалася.",
+            "ru": "На твоём месте я бы не волновалась."
+          },
+          "answer": "If I were you, I wouldn't worry.",
+          "accept": [
+            "If I were you, I would not worry."
+          ],
+          "explain": {
+            "ua": "If I were you.",
+            "ru": "If I were you."
+          },
+          "id": "b1-u07-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u07-l03",
+      "title": {
+        "en": "Questions",
+        "ua": "Питання",
+        "ru": "Вопросы"
+      },
+      "recap": {
+        "from": "b1-u07-l02",
+        "note": {
+          "ua": "Згадаймо: If I / he / she were… · If I were you, I'd… — порада",
+          "ru": "Вспомним: If I / he / she were… · If I were you, I'd… — совет"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "if-i-were-you",
+            "question": "If I ___ you, I'd see a doctor.",
+            "options": [
+              "were",
+              "am",
+              "would be"
+            ],
+            "answer": "were",
+            "explain": {
+              "ua": "If I were you.",
+              "ru": "If I were you."
+            },
+            "id": "b1-u07-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "if-i-were-you",
+            "question": "If I were you, I ___ say that.",
+            "options": [
+              "wouldn't",
+              "won't",
+              "don't"
+            ],
+            "answer": "wouldn't",
+            "explain": {
+              "ua": "Wouldn't.",
+              "ru": "Wouldn't."
+            },
+            "id": "b1-u07-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "What would you do if…? · Would you…if…?",
+        "explain": {
+          "ua": "Питаємо про уявні ситуації: What would you do if you found a wallet? Would you live abroad if you could? Відповідь: Yes, I would. / No, I wouldn't.",
+          "ru": "Спрашиваем о воображаемых ситуациях: What would you do if you found a wallet? Would you live abroad if you could? Ответ: Yes, I would. / No, I wouldn't."
+        },
+        "examples": [
+          {
+            "en": "What would you do if you were invisible?",
+            "ua": "Що б ти робив, якби був невидимим?",
+            "ru": "Что бы ты делал, если бы был невидимым?"
+          },
+          {
+            "en": "Would you move abroad if you had the chance?",
+            "ua": "Ти б переїхав за кордон, якби мав нагоду?",
+            "ru": "Ты бы переехал за границу, если бы была возможность?"
+          },
+          {
+            "en": "Where would you live if you could live anywhere?",
+            "ua": "Де б ти жив, якби міг жити будь-де?",
+            "ru": "Где бы ты жил, если бы мог жить где угодно?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "second-conditional-questions",
+          "question": "What ___ you do if you won a million?",
+          "options": [
+            "would",
+            "will",
+            "did"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "What would…?",
+            "ru": "What would…?"
+          },
+          "id": "b1-u07-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional-questions",
+          "question": "Would you help me if I ___ you?",
+          "options": [
+            "asked",
+            "ask",
+            "would ask"
+          ],
+          "answer": "asked",
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional-questions",
+          "question": "Would you live on an island? — No, I ___ .",
+          "options": [
+            "wouldn't",
+            "won't",
+            "didn't"
+          ],
+          "answer": "wouldn't",
+          "explain": {
+            "ua": "No, I wouldn't.",
+            "ru": "No, I wouldn't."
+          },
+          "id": "b1-u07-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional-questions",
+          "question": "Where would you go if you ___ a free ticket?",
+          "options": [
+            "had",
+            "have",
+            "will have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional-questions",
+          "question": "If you ___ have one superpower, what would it be?",
+          "options": [
+            "could",
+            "can",
+            "will"
+          ],
+          "answer": "could",
+          "explain": {
+            "ua": "Could — міг би.",
+            "ru": "Could — мог бы."
+          },
+          "id": "b1-u07-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "second-conditional-questions",
+          "sentence": "What will you do if you were rich?",
+          "answer": "What would you do if you were rich?",
+          "accept": [],
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b1-u07-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "second-conditional-questions",
+          "sentence": "Would you go if he would invite you?",
+          "answer": "Would you go if he invited you?",
+          "accept": [],
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "second-conditional-questions",
+          "words": [
+            "you",
+            "do",
+            "if",
+            "you",
+            "were",
+            "famous",
+            "would",
+            "What"
+          ],
+          "answer": "What would you do if you were famous",
+          "explain": {
+            "ua": "What would you do → if you were famous?",
+            "ru": "What would you do → if you were famous?"
+          },
+          "id": "b1-u07-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "second-conditional-questions",
+          "prompt": {
+            "ua": "Ти б переїхав за кордон?",
+            "ru": "Ты бы переехал за границу?"
+          },
+          "answer": "Would you move abroad?",
+          "accept": [],
+          "explain": {
+            "ua": "Would you…?",
+            "ru": "Would you…?"
+          },
+          "id": "b1-u07-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u07-l04",
+      "title": {
+        "en": "First or second?",
+        "ua": "First чи second?",
+        "ru": "First или second?"
+      },
+      "recap": {
+        "from": "b1-u07-l03",
+        "note": {
+          "ua": "Згадаймо: What would you do if…? · Would you…if…?",
+          "ru": "Вспомним: What would you do if…? · Would you…if…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "second-conditional-questions",
+            "question": "What ___ you do if you won a million?",
+            "options": [
+              "would",
+              "will",
+              "did"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "What would…?",
+              "ru": "What would…?"
+            },
+            "id": "b1-u07-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "second-conditional-questions",
+            "question": "If you ___ have one superpower, what would it be?",
+            "options": [
+              "could",
+              "can",
+              "will"
+            ],
+            "answer": "could",
+            "explain": {
+              "ua": "Could — міг би.",
+              "ru": "Could — мог бы."
+            },
+            "id": "b1-u07-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "реально / можливо → If + Present, will · уявно / малоймовірно → If + Past, would",
+          "ru": "реально / возможно → If + Present, will · воображаемо / маловероятно → If + Past, would"
+        },
+        "explain": {
+          "ua": "If I see Tom, I'll tell him (я, мабуть, його побачу). If I saw a ghost, I'd scream (навряд чи побачу). Вибір залежить від того, наскільки реальна ситуація.",
+          "ru": "If I see Tom, I'll tell him (я, наверное, его увижу). If I saw a ghost, I'd scream (вряд ли увижу). Выбор зависит от того, насколько реальна ситуация."
+        },
+        "examples": [
+          {
+            "en": "If I have time tomorrow, I'll call you.",
+            "ua": "Якщо завтра матиму час, подзвоню.",
+            "ru": "Если завтра будет время, позвоню."
+          },
+          {
+            "en": "If I had wings, I'd fly.",
+            "ua": "Якби в мене були крила, я б літав.",
+            "ru": "Если бы у меня были крылья, я бы летал."
+          },
+          {
+            "en": "If it's sunny, we'll go out. / If it snowed in July, we'd be surprised.",
+            "ua": "Якщо буде сонячно — вийдемо. / Якби в липні пішов сніг — ми б здивувалися.",
+            "ru": "Если будет солнечно — выйдем. / Если бы в июле пошёл снег — мы бы удивились."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "first-vs-second",
+          "question": "If it ___ tomorrow, we'll cancel the picnic.",
+          "options": [
+            "rains",
+            "rained",
+            "would rain"
+          ],
+          "answer": "rains",
+          "explain": {
+            "ua": "Реально → first.",
+            "ru": "Реально → first."
+          },
+          "id": "b1-u07-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "first-vs-second",
+          "question": "If I ___ a cat, I'd talk to mice.",
+          "options": [
+            "were",
+            "am",
+            "will be"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Уявно → second.",
+            "ru": "Воображаемо → second."
+          },
+          "id": "b1-u07-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "first-vs-second",
+          "question": "If you study, you ___ pass.",
+          "options": [
+            "'ll",
+            "'d",
+            "would"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Реально.",
+            "ru": "Реально."
+          },
+          "id": "b1-u07-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "first-vs-second",
+          "question": "If I lived on the Moon, I ___ see the Earth every day.",
+          "options": [
+            "would",
+            "will",
+            "do"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Нереально.",
+            "ru": "Нереально."
+          },
+          "id": "b1-u07-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "first-vs-second",
+          "question": "I'm going to the shop. If I see some nice bread, I ___ it.",
+          "options": [
+            "'ll buy",
+            "'d buy",
+            "bought"
+          ],
+          "answer": "'ll buy",
+          "explain": {
+            "ua": "Реально.",
+            "ru": "Реально."
+          },
+          "id": "b1-u07-l04-e05"
+        },
+        {
+          "type": "match",
+          "topic": "first-vs-second",
+          "pairs": [
+            {
+              "left": "If I see her,",
+              "right": "I'll say hi."
+            },
+            {
+              "left": "If I were the president,",
+              "right": "I'd change a lot."
+            },
+            {
+              "left": "If it's cold tomorrow,",
+              "right": "I'll wear a coat."
+            },
+            {
+              "left": "If animals could talk,",
+              "right": "life would be strange."
+            }
+          ],
+          "explain": {
+            "ua": "Реальне → will, уявне → would.",
+            "ru": "Реальное → will, воображаемое → would."
+          },
+          "id": "b1-u07-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "first-vs-second",
+          "sentence": "If I win the lottery, I'd buy a castle.",
+          "answer": "If I won the lottery, I'd buy a castle.",
+          "accept": [
+            "If I won the lottery, I would buy a castle.",
+            "If I win the lottery, I'll buy a castle."
+          ],
+          "explain": {
+            "ua": "Would → Past після if.",
+            "ru": "Would → Past после if."
+          },
+          "id": "b1-u07-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "first-vs-second",
+          "sentence": "If I would see a ghost, I would run.",
+          "answer": "If I saw a ghost, I would run.",
+          "accept": [
+            "If I saw a ghost, I'd run."
+          ],
+          "explain": {
+            "ua": "If + Past.",
+            "ru": "If + Past."
+          },
+          "id": "b1-u07-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "first-vs-second",
+          "prompt": {
+            "ua": "Якби тварини вміли говорити, світ був би іншим.",
+            "ru": "Если бы животные умели говорить, мир был бы другим."
+          },
+          "answer": "If animals could talk, the world would be different.",
+          "accept": [
+            "If animals could speak, the world would be different."
+          ],
+          "explain": {
+            "ua": "Second conditional.",
+            "ru": "Second conditional."
+          },
+          "id": "b1-u07-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u07-l05",
+      "title": {
+        "en": "Practice: dreams",
+        "ua": "Практика: мрії",
+        "ru": "Практика: мечты"
+      },
+      "recap": {
+        "from": "b1-u07-l04",
+        "note": {
+          "ua": "Згадаймо: реально / можливо → If + Present, will · уявно / малоймовірно → If + Past, would",
+          "ru": "Вспомним: реально / возможно → If + Present, will · воображаемо / маловероятно → If + Past, would"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "first-vs-second",
+            "question": "If it ___ tomorrow, we'll cancel the picnic.",
+            "options": [
+              "rains",
+              "rained",
+              "would rain"
+            ],
+            "answer": "rains",
+            "explain": {
+              "ua": "Реально → first.",
+              "ru": "Реально → first."
+            },
+            "id": "b1-u07-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "first-vs-second",
+            "question": "I'm going to the shop. If I see some nice bread, I ___ it.",
+            "options": [
+              "'ll buy",
+              "'d buy",
+              "bought"
+            ],
+            "answer": "'ll buy",
+            "explain": {
+              "ua": "Реально.",
+              "ru": "Реально."
+            },
+            "id": "b1-u07-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "conditionals",
+          "question": "If I ___ a lot of money, I'd buy a house by the sea.",
+          "options": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Second.",
+            "ru": "Second."
+          },
+          "id": "b1-u07-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "conditionals",
+          "question": "If I were you, I ___ accept the offer.",
+          "options": [
+            "'d",
+            "'ll",
+            "do"
+          ],
+          "answer": "'d",
+          "explain": {
+            "ua": "If I were you.",
+            "ru": "If I were you."
+          },
+          "id": "b1-u07-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Lena has a lot of free time.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "If Lena had more time, she would paint.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "Where would Lena live if she could?",
+              "options": [
+                "in Lisbon",
+                "in London",
+                "on an island"
+              ],
+              "answer": "in Lisbon"
+            }
+          ],
+          "text": "I work a lot and I don't have much free time. If I had more time, I'd paint every day. If I could live anywhere, I'd live in Lisbon — it's sunny and beautiful. But I wouldn't give up my job: I love it! And if I won the lottery? I'd buy my parents a house.",
+          "explain": {
+            "ua": "No time; would paint; would live in Lisbon; would give up her job? no.",
+            "ru": "No time; would paint; would live in Lisbon; would give up her job? no."
+          },
+          "id": "b1-u07-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "conditionals",
+          "bank": [
+            "had",
+            "'d paint",
+            "could",
+            "wouldn't"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If Lena ___ more time,",
+            "she ___ every day.",
+            "If she ___ live anywhere, she'd choose Lisbon.",
+            "She ___ give up her job."
+          ],
+          "answers": [
+            "had",
+            "'d paint",
+            "could",
+            "wouldn't"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u07-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "conditionals",
+          "sentence": "If I can fly, I would visit you every day.",
+          "answer": "If I could fly, I would visit you every day.",
+          "accept": [
+            "If I could fly, I'd visit you every day."
+          ],
+          "explain": {
+            "ua": "Can → could.",
+            "ru": "Can → could."
+          },
+          "id": "b1-u07-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "conditionals",
+          "sentence": "If I would be rich, I would travel.",
+          "answer": "If I were rich, I would travel.",
+          "accept": [
+            "If I was rich, I would travel.",
+            "If I were rich, I'd travel."
+          ],
+          "explain": {
+            "ua": "If I were.",
+            "ru": "If I were."
+          },
+          "id": "b1-u07-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "time",
+            "had",
+            "I",
+            "I",
+            "if",
+            "more",
+            "would",
+            "travel"
+          ],
+          "answer": "I would travel more if I had time",
+          "explain": {
+            "ua": "I would travel more → if I had time.",
+            "ru": "I would travel more → if I had time."
+          },
+          "id": "b1-u07-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "conditionals",
+          "audio_text": "What would you do if you were invisible?",
+          "options": [
+            "What would you do if you were invisible?",
+            "What will you do if you are invisible?",
+            "What would you do if you were invincible?"
+          ],
+          "answer": "What would you do if you were invisible?",
+          "audio": "",
+          "explain": {
+            "ua": "Invisible — невидимий.",
+            "ru": "Invisible — невидимый."
+          },
+          "id": "b1-u07-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "conditionals",
+          "prompt": {
+            "ua": "Що б ти зробив, якби виграв у лотерею?",
+            "ru": "Что бы ты сделал, если бы выиграл в лотерею?"
+          },
+          "answer": "What would you do if you won the lottery?",
+          "accept": [],
+          "explain": {
+            "ua": "Second conditional.",
+            "ru": "Second conditional."
+          },
+          "id": "b1-u07-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "second-conditional",
+      "question": "If I ___ rich, I'd travel.",
+      "options": [
+        "were",
+        "am",
+        "will be"
+      ],
+      "answer": "were",
+      "explain": {
+        "ua": "Were.",
+        "ru": "Were."
+      },
+      "id": "b1-u07-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "second-conditional",
+      "question": "If I had a dog, I ___ walk it every day.",
+      "options": [
+        "would",
+        "will",
+        "did"
+      ],
+      "answer": "would",
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "b1-u07-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "if-i-were-you",
+      "question": "If I ___ you, I'd go.",
+      "options": [
+        "were",
+        "am",
+        "be"
+      ],
+      "answer": "were",
+      "explain": {
+        "ua": "If I were you.",
+        "ru": "If I were you."
+      },
+      "id": "b1-u07-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "second-conditional-questions",
+      "question": "What would you do if you ___ a wallet in the street?",
+      "options": [
+        "found",
+        "find",
+        "would find"
+      ],
+      "answer": "found",
+      "explain": {
+        "ua": "If + Past.",
+        "ru": "If + Past."
+      },
+      "id": "b1-u07-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "first-vs-second",
+      "question": "If it ___ tomorrow, I'll stay home.",
+      "options": [
+        "rains",
+        "rained",
+        "would rain"
+      ],
+      "answer": "rains",
+      "explain": {
+        "ua": "Реально → first.",
+        "ru": "Реально → first."
+      },
+      "id": "b1-u07-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "second-conditional",
+      "question": "If I ___ his number, I'd call him. (know)",
+      "answer": "knew",
+      "accept": [],
+      "explain": {
+        "ua": "Know → knew.",
+        "ru": "Know → knew."
+      },
+      "id": "b1-u07-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "if-i-were-you",
+      "question": "If I were you, I ___ worry. (not)",
+      "answer": "wouldn't",
+      "accept": [
+        "would not"
+      ],
+      "explain": {
+        "ua": "Wouldn't.",
+        "ru": "Wouldn't."
+      },
+      "id": "b1-u07-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "second-conditional",
+      "sentence": "If I would have time, I'd help.",
+      "answer": "If I had time, I'd help.",
+      "accept": [
+        "If I had time, I would help."
+      ],
+      "explain": {
+        "ua": "If + Past.",
+        "ru": "If + Past."
+      },
+      "id": "b1-u07-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "second-conditional",
+      "sentence": "If I were a bird, I will fly.",
+      "answer": "If I were a bird, I would fly.",
+      "accept": [
+        "If I were a bird, I'd fly."
+      ],
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "b1-u07-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "second-conditional-questions",
+      "words": [
+        "if",
+        "could",
+        "Would",
+        "abroad",
+        "you",
+        "you",
+        "move"
+      ],
+      "answer": "Would you move abroad if you could",
+      "explain": {
+        "ua": "Would you move abroad → if you could?",
+        "ru": "Would you move abroad → if you could?"
+      },
+      "id": "b1-u07-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "second-conditional",
+      "prompt": {
+        "ua": "Якби я знала, я б тобі сказала.",
+        "ru": "Если бы я знала, я бы тебе сказала."
+      },
+      "answer": "If I knew, I'd tell you.",
+      "accept": [
+        "If I knew, I would tell you."
+      ],
+      "explain": {
+        "ua": "Second.",
+        "ru": "Second."
+      },
+      "id": "b1-u07-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "if-i-were-you",
+      "audio_text": "If I were you, I'd take it.",
+      "options": [
+        "If I were you, I'd take it.",
+        "If I were you, I'll take it.",
+        "If I was you, I take it."
+      ],
+      "answer": "If I were you, I'd take it.",
+      "audio": "",
+      "explain": {
+        "ua": "I'd take it.",
+        "ru": "I'd take it."
+      },
+      "id": "b1-u07-cp12"
+    }
+  ]
+}

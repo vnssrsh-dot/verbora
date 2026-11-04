@@ -1,0 +1,1010 @@
+{
+  "id": "b1-u18",
+  "level": "B1",
+  "order": 18,
+  "kind": "grammar",
+  "title": {
+    "en": "Too, enough, so, such",
+    "ua": "Too, enough, so, such",
+    "ru": "Too, enough, so, such"
+  },
+  "rule": {
+    "formula": {
+      "ua": "too + прикм. (занадто) · прикм. + enough (достатньо) · so + прикм. · such (a) + прикм. + іменник",
+      "ru": "too + прил. (слишком) · прил. + enough (достаточно) · so + прил. · such (a) + прил. + сущ."
+    },
+    "explain": {
+      "ua": "Too — більше, ніж треба: too hot. Enough — стоїть після прикметника (old enough), але перед іменником (enough money). So / such — для підсилення: so nice, such a nice day.",
+      "ru": "Too — больше, чем нужно: too hot. Enough — стоит после прилагательного (old enough), но перед существительным (enough money). So / such — для усиления: so nice, such a nice day."
+    },
+    "examples": [
+      {
+        "en": "It's too expensive.",
+        "ua": "Це задорого.",
+        "ru": "Это слишком дорого."
+      },
+      {
+        "en": "He isn't old enough to drive.",
+        "ua": "Він ще недостатньо дорослий, щоб водити.",
+        "ru": "Он ещё недостаточно взрослый, чтобы водить."
+      },
+      {
+        "en": "It was such a beautiful day!",
+        "ua": "Це був такий чудовий день!",
+        "ru": "Это был такой чудесный день!"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "too",
+      "ipa": "/tuː/",
+      "ua": "занадто",
+      "ru": "слишком",
+      "example": "too big",
+      "audio": ""
+    },
+    {
+      "word": "enough",
+      "ipa": "/ɪˈnʌf/",
+      "ua": "достатньо",
+      "ru": "достаточно",
+      "example": "big enough",
+      "audio": ""
+    },
+    {
+      "word": "so",
+      "ipa": "/səʊ/",
+      "ua": "такий, так (з прикметником)",
+      "ru": "такой, так (с прилагательным)",
+      "example": "so tired",
+      "audio": ""
+    },
+    {
+      "word": "such",
+      "ipa": "/sʌtʃ/",
+      "ua": "такий (з іменником)",
+      "ru": "такой (с существительным)",
+      "example": "such a good idea",
+      "audio": ""
+    },
+    {
+      "word": "both",
+      "ipa": "/bəʊθ/",
+      "ua": "обидва",
+      "ru": "оба",
+      "example": "Both of us like it.",
+      "audio": ""
+    },
+    {
+      "word": "either",
+      "ipa": "/ˈaɪðə/",
+      "ua": "будь-який із двох; теж не",
+      "ru": "любой из двух; тоже не",
+      "example": "Either day is fine.",
+      "audio": ""
+    },
+    {
+      "word": "neither",
+      "ipa": "/ˈnaɪðə/",
+      "ua": "жоден із двох",
+      "ru": "ни один из двух",
+      "example": "Neither of them came.",
+      "audio": ""
+    },
+    {
+      "word": "strong",
+      "ipa": "/strɒŋ/",
+      "ua": "міцний, сильний",
+      "ru": "крепкий, сильный",
+      "example": "strong enough",
+      "audio": ""
+    },
+    {
+      "word": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "ua": "переповнений",
+      "ru": "переполненный",
+      "example": "too crowded",
+      "audio": ""
+    },
+    {
+      "word": "salty",
+      "ipa": "/ˈsɔːlti/",
+      "ua": "солоний",
+      "ru": "солёный",
+      "example": "too salty",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u18-l01",
+      "title": {
+        "en": "too and enough",
+        "ua": "too і enough",
+        "ru": "too и enough"
+      },
+      "recap": {
+        "from": "b1-u17-l02",
+        "note": {
+          "ua": "Згадаймо: turn it off ✓ (займенник — посередині) · look after it ✓ (не розділяється)",
+          "ru": "Вспомним: turn it off ✓ (местоимение — посередине) · look after it ✓ (не разделяется)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-separable",
+            "question": "It's cold. Put ___ .",
+            "options": [
+              "it on",
+              "on it",
+              "it"
+            ],
+            "answer": "it on",
+            "explain": {
+              "ua": "Займенник посередині.",
+              "ru": "Местоимение посередине."
+            },
+            "id": "b1-u18-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-separable",
+            "question": "This milk is old. Throw ___ .",
+            "options": [
+              "it away",
+              "away it",
+              "it"
+            ],
+            "answer": "it away",
+            "explain": {
+              "ua": "Throw it away.",
+              "ru": "Throw it away."
+            },
+            "id": "b1-u18-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "too + прикметник · прикметник + enough · enough + іменник · (for someone) / (to do)",
+          "ru": "too + прилагательное · прилагательное + enough · enough + существительное · (for someone) / (to do)"
+        },
+        "explain": {
+          "ua": "Too — негативне: занадто. Not … enough — недостатньо. Порядок: warm enough, але enough time. Часто з to: too tired to work, old enough to vote.",
+          "ru": "Too — негативное: слишком. Not … enough — недостаточно. Порядок: warm enough, но enough time. Часто с to: too tired to work, old enough to vote."
+        },
+        "examples": [
+          {
+            "en": "The soup is too salty.",
+            "ua": "Суп пересолений.",
+            "ru": "Суп пересолен."
+          },
+          {
+            "en": "This jacket isn't warm enough for winter.",
+            "ua": "Ця куртка недостатньо тепла для зими.",
+            "ru": "Эта куртка недостаточно тёплая для зимы."
+          },
+          {
+            "en": "We don't have enough time.",
+            "ua": "У нас недостатньо часу.",
+            "ru": "У нас недостаточно времени."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "too-enough",
+          "question": "I can't drink this. It's ___ hot.",
+          "options": [
+            "too",
+            "enough",
+            "so much"
+          ],
+          "answer": "too",
+          "explain": {
+            "ua": "Занадто → too.",
+            "ru": "Слишком → too."
+          },
+          "id": "b1-u18-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "too-enough",
+          "question": "He isn't ___ to drive. He's only 15.",
+          "options": [
+            "old enough",
+            "enough old",
+            "too old"
+          ],
+          "answer": "old enough",
+          "explain": {
+            "ua": "Прикметник + enough.",
+            "ru": "Прилагательное + enough."
+          },
+          "id": "b1-u18-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "too-enough",
+          "question": "We don't have ___ for a taxi.",
+          "options": [
+            "enough money",
+            "money enough",
+            "too money"
+          ],
+          "answer": "enough money",
+          "explain": {
+            "ua": "Enough + іменник.",
+            "ru": "Enough + существительное."
+          },
+          "id": "b1-u18-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "too-enough",
+          "question": "The bus was ___ crowded, so we walked.",
+          "options": [
+            "too",
+            "enough",
+            "such"
+          ],
+          "answer": "too",
+          "explain": {
+            "ua": "Too crowded.",
+            "ru": "Too crowded."
+          },
+          "id": "b1-u18-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "too-enough",
+          "question": "I'm ___ tired to go out tonight.",
+          "options": [
+            "too",
+            "enough",
+            "such"
+          ],
+          "answer": "too",
+          "explain": {
+            "ua": "Too tired to…",
+            "ru": "Too tired to…"
+          },
+          "id": "b1-u18-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "too-enough",
+          "bank": [
+            "too",
+            "enough"
+          ],
+          "reuse": true,
+          "sentences": [
+            "This bag is ___ heavy. I can't carry it.",
+            "Is the room big ___ for four people?",
+            "It's ___ late to call her.",
+            "Have we got ___ chairs?"
+          ],
+          "answers": [
+            "too",
+            "enough",
+            "too",
+            "enough"
+          ],
+          "explain": {
+            "ua": "Too — занадто, enough — достатньо.",
+            "ru": "Too — слишком, enough — достаточно."
+          },
+          "id": "b1-u18-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "too-enough",
+          "sentence": "He's enough tall to play basketball.",
+          "answer": "He's tall enough to play basketball.",
+          "accept": [
+            "He is tall enough to play basketball."
+          ],
+          "explain": {
+            "ua": "Прикметник + enough.",
+            "ru": "Прилагательное + enough."
+          },
+          "id": "b1-u18-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "too-enough",
+          "sentence": "This coffee is too much strong.",
+          "answer": "This coffee is too strong.",
+          "accept": [],
+          "explain": {
+            "ua": "Too + прикметник.",
+            "ru": "Too + прилагательное."
+          },
+          "id": "b1-u18-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "too-enough",
+          "prompt": {
+            "ua": "Мені не вистачає часу.",
+            "ru": "Мне не хватает времени."
+          },
+          "answer": "I don't have enough time.",
+          "accept": [
+            "I haven't got enough time.",
+            "I do not have enough time."
+          ],
+          "explain": {
+            "ua": "Enough time.",
+            "ru": "Enough time."
+          },
+          "id": "b1-u18-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u18-l02",
+      "title": {
+        "en": "so and such",
+        "ua": "so і such",
+        "ru": "so и such"
+      },
+      "recap": {
+        "from": "b1-u18-l01",
+        "note": {
+          "ua": "Згадаймо: too + прикметник · прикметник + enough · enough + іменник · (for someone) / (to do)",
+          "ru": "Вспомним: too + прилагательное · прилагательное + enough · enough + существительное · (for someone) / (to do)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "too-enough",
+            "question": "I can't drink this. It's ___ hot.",
+            "options": [
+              "too",
+              "enough",
+              "so much"
+            ],
+            "answer": "too",
+            "explain": {
+              "ua": "Занадто → too.",
+              "ru": "Слишком → too."
+            },
+            "id": "b1-u18-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "too-enough",
+            "question": "I'm ___ tired to go out tonight.",
+            "options": [
+              "too",
+              "enough",
+              "such"
+            ],
+            "answer": "too",
+            "explain": {
+              "ua": "Too tired to…",
+              "ru": "Too tired to…"
+            },
+            "id": "b1-u18-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "so + прикметник / прислівник · such (a / an) + прикметник + іменник",
+          "ru": "so + прилагательное / наречие · such (a / an) + прилагательное + существительное"
+        },
+        "explain": {
+          "ua": "So nice, so quickly. Such a nice day, such good people. So … that / such … that — наслідок: It was so cold that we stayed in.",
+          "ru": "So nice, so quickly. Such a nice day, such good people. So … that / such … that — следствие: It was so cold that we stayed in."
+        },
+        "examples": [
+          {
+            "en": "The film was so good!",
+            "ua": "Фільм був такий гарний!",
+            "ru": "Фильм был такой хороший!"
+          },
+          {
+            "en": "It's such a good idea!",
+            "ua": "Це така гарна ідея!",
+            "ru": "Это такая хорошая идея!"
+          },
+          {
+            "en": "It was so hot that we couldn't sleep.",
+            "ua": "Було так спекотно, що ми не могли заснути.",
+            "ru": "Было так жарко, что мы не могли уснуть."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "so-such",
+          "question": "The weather was ___ beautiful!",
+          "options": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "So + прикметник.",
+            "ru": "So + прилагательное."
+          },
+          "id": "b1-u18-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "so-such",
+          "question": "It was ___ beautiful day!",
+          "options": [
+            "such a",
+            "so",
+            "so a"
+          ],
+          "answer": "such a",
+          "explain": {
+            "ua": "Such a + прикм. + іменник.",
+            "ru": "Such a + прил. + сущ."
+          },
+          "id": "b1-u18-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "so-such",
+          "question": "They are ___ nice people.",
+          "options": [
+            "such",
+            "so",
+            "such a"
+          ],
+          "answer": "such",
+          "explain": {
+            "ua": "Множина — такий без a.",
+            "ru": "Множественное — без a."
+          },
+          "id": "b1-u18-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "so-such",
+          "question": "He speaks ___ fast that I can't understand him.",
+          "options": [
+            "so",
+            "such",
+            "too much"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "So + прислівник.",
+            "ru": "So + наречие."
+          },
+          "id": "b1-u18-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "so-such",
+          "question": "It was ___ a long trip that we were exhausted.",
+          "options": [
+            "such",
+            "so",
+            "too"
+          ],
+          "answer": "such",
+          "explain": {
+            "ua": "Such a long trip.",
+            "ru": "Such a long trip."
+          },
+          "id": "b1-u18-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "so-such",
+          "bank": [
+            "so",
+            "such",
+            "such a"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She's ___ kind.",
+            "She's ___ kind person.",
+            "They have ___ lovely kids.",
+            "I'm ___ happy for you!"
+          ],
+          "answers": [
+            "so",
+            "such a",
+            "such",
+            "so"
+          ],
+          "explain": {
+            "ua": "so + прикм.; such (a) + іменник.",
+            "ru": "so + прил.; such (a) + сущ."
+          },
+          "id": "b1-u18-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "so-such",
+          "sentence": "It was so a good film.",
+          "answer": "It was such a good film.",
+          "accept": [],
+          "explain": {
+            "ua": "З іменником — such a.",
+            "ru": "С существительным — such a."
+          },
+          "id": "b1-u18-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "so-such",
+          "sentence": "She's such clever.",
+          "answer": "She's so clever.",
+          "accept": [
+            "She is so clever."
+          ],
+          "explain": {
+            "ua": "Без іменника — so.",
+            "ru": "Без существительного — so."
+          },
+          "id": "b1-u18-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "so-such",
+          "prompt": {
+            "ua": "Це був такий чудовий вечір!",
+            "ru": "Это был такой чудесный вечер!"
+          },
+          "answer": "It was such a wonderful evening!",
+          "accept": [
+            "It was such a lovely evening!",
+            "It was such a great evening!",
+            "That was such a wonderful evening!"
+          ],
+          "explain": {
+            "ua": "Such a.",
+            "ru": "Such a."
+          },
+          "id": "b1-u18-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u18-l03",
+      "title": {
+        "en": "both, either, neither",
+        "ua": "both, either, neither",
+        "ru": "both, either, neither"
+      },
+      "recap": {
+        "from": "b1-u18-l02",
+        "note": {
+          "ua": "Згадаймо: so + прикметник / прислівник · such (a / an) + прикметник + іменник",
+          "ru": "Вспомним: so + прилагательное / наречие · such (a / an) + прилагательное + существительное"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "so-such",
+            "question": "The weather was ___ beautiful!",
+            "options": [
+              "so",
+              "such",
+              "such a"
+            ],
+            "answer": "so",
+            "explain": {
+              "ua": "So + прикметник.",
+              "ru": "So + прилагательное."
+            },
+            "id": "b1-u18-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "so-such",
+            "question": "It was ___ a long trip that we were exhausted.",
+            "options": [
+              "such",
+              "so",
+              "too"
+            ],
+            "answer": "such",
+            "explain": {
+              "ua": "Such a long trip.",
+              "ru": "Such a long trip."
+            },
+            "id": "b1-u18-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "both — обидва ✓✓ · either — будь-який / жоден (у запереченні) · neither — жоден ✗✗",
+          "ru": "both — оба ✓✓ · either — любой / ни один (в отрицании) · neither — ни один ✗✗"
+        },
+        "explain": {
+          "ua": "Both (of) — обидва: Both my sisters are doctors. Either — один із двох, неважливо який: You can take either bus. Neither — жоден: Neither of them speaks English.",
+          "ru": "Both (of) — оба: Both my sisters are doctors. Either — один из двух, неважно какой: You can take either bus. Neither — ни один: Neither of them speaks English."
+        },
+        "examples": [
+          {
+            "en": "Both of my parents are teachers.",
+            "ua": "Обоє моїх батьків — вчителі.",
+            "ru": "Оба моих родителя — учителя."
+          },
+          {
+            "en": "You can come on Monday or Tuesday — either day is fine.",
+            "ua": "Приходь у понеділок чи вівторок — будь-який день підходить.",
+            "ru": "Приходи в понедельник или вторник — любой день подходит."
+          },
+          {
+            "en": "Neither of us likes coffee.",
+            "ua": "Жоден із нас не любить каву.",
+            "ru": "Никто из нас не любит кофе."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "both-either-neither",
+          "question": "I have two brothers. ___ of them live in Lviv.",
+          "options": [
+            "Both",
+            "Either",
+            "Neither"
+          ],
+          "answer": "Both",
+          "explain": {
+            "ua": "Обидва — both.",
+            "ru": "Оба — both."
+          },
+          "id": "b1-u18-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "both-either-neither",
+          "question": "Tea or coffee? — ___ is fine.",
+          "options": [
+            "Either",
+            "Both",
+            "Neither"
+          ],
+          "answer": "Either",
+          "explain": {
+            "ua": "Будь-який — either.",
+            "ru": "Любой — either."
+          },
+          "id": "b1-u18-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "both-either-neither",
+          "question": "___ of my parents smokes.",
+          "options": [
+            "Neither",
+            "Both",
+            "Either"
+          ],
+          "answer": "Neither",
+          "explain": {
+            "ua": "Жоден — neither.",
+            "ru": "Ни один — neither."
+          },
+          "id": "b1-u18-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "both-either-neither",
+          "question": "Both Anna ___ Max came to the party.",
+          "options": [
+            "and",
+            "or",
+            "nor"
+          ],
+          "answer": "and",
+          "explain": {
+            "ua": "Both … and.",
+            "ru": "Both … and."
+          },
+          "id": "b1-u18-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "both-either-neither",
+          "question": "You can pay either by card ___ in cash.",
+          "options": [
+            "or",
+            "and",
+            "nor"
+          ],
+          "answer": "or",
+          "explain": {
+            "ua": "Either … or.",
+            "ru": "Either … or."
+          },
+          "id": "b1-u18-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "both-either-neither",
+          "pairs": [
+            {
+              "left": "both … and",
+              "right": {
+                "ua": "і … і",
+                "ru": "и … и"
+              }
+            },
+            {
+              "left": "either … or",
+              "right": {
+                "ua": "або … або",
+                "ru": "или … или"
+              }
+            },
+            {
+              "left": "neither … nor",
+              "right": {
+                "ua": "ні … ні",
+                "ru": "ни … ни"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Пари.",
+            "ru": "Пары."
+          },
+          "id": "b1-u18-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "both-either-neither",
+          "sentence": "Both of them doesn't speak English.",
+          "answer": "Neither of them speaks English.",
+          "accept": [
+            "Neither of them speak English."
+          ],
+          "explain": {
+            "ua": "Жоден — neither + стверджувальне.",
+            "ru": "Ни один — neither + утвердительное."
+          },
+          "id": "b1-u18-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "both-either-neither",
+          "audio_text": "Neither of us was at home.",
+          "options": [
+            "Neither of us was at home.",
+            "Either of us was at home.",
+            "Both of us was at home."
+          ],
+          "answer": "Neither of us was at home.",
+          "audio": "",
+          "explain": {
+            "ua": "Neither.",
+            "ru": "Neither."
+          },
+          "id": "b1-u18-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "both-either-neither",
+          "prompt": {
+            "ua": "Ми обидва любимо подорожувати.",
+            "ru": "Мы оба любим путешествовать."
+          },
+          "answer": "Both of us love travelling.",
+          "accept": [
+            "We both love travelling.",
+            "We both love traveling.",
+            "Both of us love traveling.",
+            "We both like travelling."
+          ],
+          "explain": {
+            "ua": "Both.",
+            "ru": "Both."
+          },
+          "id": "b1-u18-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "too-enough",
+      "question": "It's ___ cold to swim.",
+      "options": [
+        "too",
+        "enough",
+        "so much"
+      ],
+      "answer": "too",
+      "explain": {
+        "ua": "Too.",
+        "ru": "Too."
+      },
+      "id": "b1-u18-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "too-enough",
+      "question": "Is she ___ to watch this film?",
+      "options": [
+        "old enough",
+        "enough old",
+        "too old enough"
+      ],
+      "answer": "old enough",
+      "explain": {
+        "ua": "Old enough.",
+        "ru": "Old enough."
+      },
+      "id": "b1-u18-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "so-such",
+      "question": "It was ___ good party!",
+      "options": [
+        "such a",
+        "so",
+        "so a"
+      ],
+      "answer": "such a",
+      "explain": {
+        "ua": "Such a.",
+        "ru": "Such a."
+      },
+      "id": "b1-u18-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "so-such",
+      "question": "The food was ___ delicious!",
+      "options": [
+        "so",
+        "such",
+        "such a"
+      ],
+      "answer": "so",
+      "explain": {
+        "ua": "So.",
+        "ru": "So."
+      },
+      "id": "b1-u18-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "both-either-neither",
+      "question": "___ of my sisters are married.",
+      "options": [
+        "Both",
+        "Neither",
+        "Either"
+      ],
+      "answer": "Both",
+      "explain": {
+        "ua": "Both.",
+        "ru": "Both."
+      },
+      "id": "b1-u18-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "too-enough",
+      "question": "We don't have ___ milk for the cake. Let's buy more.",
+      "answer": "enough",
+      "accept": [],
+      "explain": {
+        "ua": "Enough + іменник.",
+        "ru": "Enough + существительное."
+      },
+      "id": "b1-u18-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "both-either-neither",
+      "question": "___ of them came. Nobody came.",
+      "answer": "Neither",
+      "accept": [],
+      "explain": {
+        "ua": "Neither.",
+        "ru": "Neither."
+      },
+      "id": "b1-u18-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "so-such",
+      "sentence": "She's such nice.",
+      "answer": "She's so nice.",
+      "accept": [
+        "She is so nice."
+      ],
+      "explain": {
+        "ua": "So.",
+        "ru": "So."
+      },
+      "id": "b1-u18-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "too-enough",
+      "sentence": "The room isn't enough big.",
+      "answer": "The room isn't big enough.",
+      "accept": [
+        "The room is not big enough."
+      ],
+      "explain": {
+        "ua": "Big enough.",
+        "ru": "Big enough."
+      },
+      "id": "b1-u18-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "so-such",
+      "words": [
+        "It",
+        "inside",
+        "so",
+        "that",
+        "was",
+        "we",
+        "hot",
+        "stayed"
+      ],
+      "answer": "It was so hot that we stayed inside",
+      "explain": {
+        "ua": "So hot → that we stayed inside.",
+        "ru": "So hot → that we stayed inside."
+      },
+      "id": "b1-u18-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "too-enough",
+      "prompt": {
+        "ua": "Це задорого для мене.",
+        "ru": "Это слишком дорого для меня."
+      },
+      "answer": "It's too expensive for me.",
+      "accept": [
+        "It is too expensive for me.",
+        "This is too expensive for me."
+      ],
+      "explain": {
+        "ua": "Too expensive.",
+        "ru": "Too expensive."
+      },
+      "id": "b1-u18-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "so-such",
+      "audio_text": "They're such lovely people.",
+      "options": [
+        "They're such lovely people.",
+        "They're so lovely people.",
+        "They're such a lovely people."
+      ],
+      "answer": "They're such lovely people.",
+      "audio": "",
+      "explain": {
+        "ua": "Such + множина.",
+        "ru": "Such + множественное."
+      },
+      "id": "b1-u18-cp12"
+    }
+  ]
+}

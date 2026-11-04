@@ -1,0 +1,531 @@
+{
+  "id": "c1-final",
+  "level": "C1",
+  "kind": "final-test",
+  "title": {
+    "en": "C1 final test",
+    "ua": "Фінальний тест C1",
+    "ru": "Финальный тест C1"
+  },
+  "pass_score": 0.8,
+  "exercises": [
+    {
+      "type": "choose",
+      "topic": "inversion-negative",
+      "question": "Never ___ so much rain.",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "I saw"
+      ],
+      "answer": "have I seen",
+      "explain": {
+        "ua": "Never have I.",
+        "ru": "Never have I."
+      },
+      "id": "c1-final-01",
+      "source": "c1-u01-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "emphatic-do",
+      "question": "She ___ look happy today. (does / do)",
+      "answer": "does",
+      "accept": [],
+      "explain": {
+        "ua": "She does look.",
+        "ru": "She does look."
+      },
+      "id": "c1-final-02",
+      "source": "c1-u02-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "future-in-past",
+      "prompt": {
+        "ua": "Я збиралася піти, але залишилась.",
+        "ru": "Я собиралась уйти, но осталась."
+      },
+      "answer": "I was going to leave, but I stayed.",
+      "accept": [
+        "I was going to go, but I stayed."
+      ],
+      "explain": {
+        "ua": "Was going to.",
+        "ru": "Was going to."
+      },
+      "id": "c1-final-03",
+      "source": "c1-u03-cp11"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Information collected for analysis.",
+      "answer": "data",
+      "accept": [
+        "information"
+      ],
+      "explain": {
+        "ua": "Data.",
+        "ru": "Data."
+      },
+      "id": "c1-final-04",
+      "source": "c1-u04-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "unreal-past",
+      "sentence": "I'd rather to stay at home.",
+      "answer": "I'd rather stay at home.",
+      "accept": [],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "c1-final-05",
+      "source": "c1-u05-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "modals-nuance",
+      "question": "It's ___ to snow in July.",
+      "options": [
+        "unlikely",
+        "bound",
+        "likely"
+      ],
+      "answer": "unlikely",
+      "explain": {
+        "ua": "Unlikely.",
+        "ru": "Unlikely."
+      },
+      "id": "c1-final-06",
+      "source": "c1-u06-cp02"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-forms",
+      "question": "The car needs ___ be repaired.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Needs to be.",
+        "ru": "Needs to be."
+      },
+      "id": "c1-final-07",
+      "source": "c1-u07-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The audience gave a standing ovation.",
+      "options": [
+        "The audience gave a standing ovation.",
+        "The audience gave a standing nation.",
+        "The audience gave a sitting ovation."
+      ],
+      "answer": "The audience gave a standing ovation.",
+      "audio": "",
+      "explain": {
+        "ua": "Standing ovation.",
+        "ru": "Standing ovation."
+      },
+      "id": "c1-final-08",
+      "source": "c1-u08-cp12"
+    },
+    {
+      "type": "choose",
+      "topic": "register",
+      "question": "Formal for 'help':",
+      "options": [
+        "assist",
+        "give a hand",
+        "help out"
+      ],
+      "answer": "assist",
+      "explain": {
+        "ua": "Assist.",
+        "ru": "Assist."
+      },
+      "id": "c1-final-09",
+      "source": "c1-u09-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "linkers-concession",
+      "words": [
+        "is",
+        "whereas",
+        "She",
+        "vegetarian",
+        "a",
+        "meat",
+        "her",
+        "loves",
+        "husband"
+      ],
+      "answer": "She is a vegetarian whereas her husband loves meat",
+      "explain": {
+        "ua": "Whereas.",
+        "ru": "Whereas."
+      },
+      "id": "c1-final-10",
+      "source": "c1-u10-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "ellipsis-substitution",
+      "question": "I don't like this jacket. I prefer the black ___ .",
+      "options": [
+        "one",
+        "ones",
+        "it"
+      ],
+      "answer": "one",
+      "explain": {
+        "ua": "One.",
+        "ru": "One."
+      },
+      "id": "c1-final-11",
+      "source": "c1-u11-cp03"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We did a brainstorm of ideas.",
+      "answer": "We brainstormed ideas.",
+      "accept": [
+        "We had a brainstorm.",
+        "We brainstormed some ideas."
+      ],
+      "explain": {
+        "ua": "Brainstorm — дієслово.",
+        "ru": "Brainstorm — глагол."
+      },
+      "id": "c1-final-12",
+      "source": "c1-u12-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "idioms-work",
+      "question": "That watch cost an arm and a ___ .",
+      "options": [
+        "leg",
+        "hand",
+        "foot"
+      ],
+      "answer": "leg",
+      "explain": {
+        "ua": "An arm and a leg.",
+        "ru": "An arm and a leg."
+      },
+      "id": "c1-final-13",
+      "source": "c1-u13-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "collocations-verbs",
+      "question": "He made a good ___ at the interview — they liked him at once.",
+      "answer": "impression",
+      "accept": [],
+      "explain": {
+        "ua": "Make an impression.",
+        "ru": "Make an impression."
+      },
+      "id": "c1-final-14",
+      "source": "c1-u14-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "hedging",
+      "prompt": {
+        "ua": "Можна стверджувати, що це найкращий фільм року.",
+        "ru": "Пожалуй, это лучший фильм года."
+      },
+      "answer": "Arguably, it's the best film of the year.",
+      "accept": [
+        "Arguably, this is the best film of the year.",
+        "It could be argued that it's the best film of the year.",
+        "Arguably, it is the best film of the year."
+      ],
+      "explain": {
+        "ua": "Arguably.",
+        "ru": "Arguably."
+      },
+      "id": "c1-final-15",
+      "source": "c1-u15-cp11"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Strength to control yourself and do hard things.",
+      "answer": "willpower",
+      "accept": [
+        "self-control",
+        "discipline"
+      ],
+      "explain": {
+        "ua": "Willpower.",
+        "ru": "Willpower."
+      },
+      "id": "c1-final-16",
+      "source": "c1-u16-cp04"
+    },
+    {
+      "type": "listen",
+      "topic": "inversion-adverbial",
+      "audio_text": "Hardly had we started when it rained.",
+      "options": [
+        "Hardly had we started when it rained.",
+        "Hardly we had started when it rained.",
+        "Hardly had we started than it rained."
+      ],
+      "answer": "Hardly had we started when it rained.",
+      "audio": "",
+      "explain": {
+        "ua": "Hardly had we… when.",
+        "ru": "Hardly had we… when."
+      },
+      "id": "c1-final-17",
+      "source": "c1-u01-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "cleft-it",
+      "audio_text": "It was Anna who called.",
+      "options": [
+        "It was Anna who called.",
+        "It was Anna who cold.",
+        "Was it Anna who called?"
+      ],
+      "answer": "It was Anna who called.",
+      "audio": "",
+      "explain": {
+        "ua": "It was … who.",
+        "ru": "It was … who."
+      },
+      "id": "c1-final-18",
+      "source": "c1-u02-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "future-in-past",
+      "audio_text": "We were about to leave.",
+      "options": [
+        "We were about to leave.",
+        "We were about to live.",
+        "We are about to leave."
+      ],
+      "answer": "We were about to leave.",
+      "audio": "",
+      "explain": {
+        "ua": "Were about to.",
+        "ru": "Were about to."
+      },
+      "id": "c1-final-19",
+      "source": "c1-u03-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "unreal-past",
+      "audio_text": "I'd rather you didn't.",
+      "options": [
+        "I'd rather you didn't.",
+        "I'd rather you did.",
+        "I'd rather you don't."
+      ],
+      "answer": "I'd rather you didn't.",
+      "audio": "",
+      "explain": {
+        "ua": "I'd rather you didn't.",
+        "ru": "I'd rather you didn't."
+      },
+      "id": "c1-final-20",
+      "source": "c1-u05-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "will-would-habits",
+      "audio_text": "He will keep interrupting me.",
+      "options": [
+        "He will keep interrupting me.",
+        "He would keep interrupting me.",
+        "He will keep interpreting me."
+      ],
+      "answer": "He will keep interrupting me.",
+      "audio": "",
+      "explain": {
+        "ua": "Will keep.",
+        "ru": "Will keep."
+      },
+      "id": "c1-final-21",
+      "source": "c1-u06-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-forms",
+      "audio_text": "She hopes to be promoted.",
+      "options": [
+        "She hopes to be promoted.",
+        "She hopes to promote.",
+        "She hoped to be promoted."
+      ],
+      "answer": "She hopes to be promoted.",
+      "audio": "",
+      "explain": {
+        "ua": "To be promoted.",
+        "ru": "To be promoted."
+      },
+      "id": "c1-final-22",
+      "source": "c1-u07-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "nominalisation",
+      "audio_text": "There was a dramatic increase in sales.",
+      "options": [
+        "There was a dramatic increase in sales.",
+        "There was a dramatic decrease in sales.",
+        "There was a dramatically increase in sales."
+      ],
+      "answer": "There was a dramatic increase in sales.",
+      "audio": "",
+      "explain": {
+        "ua": "Increase.",
+        "ru": "Increase."
+      },
+      "id": "c1-final-23",
+      "source": "c1-u09-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "linkers-concession",
+      "audio_text": "Nevertheless, we decided to go.",
+      "options": [
+        "Nevertheless, we decided to go.",
+        "Never the less, we decided not to go.",
+        "Nevertheless, we decide to go."
+      ],
+      "answer": "Nevertheless, we decided to go.",
+      "audio": "",
+      "explain": {
+        "ua": "Nevertheless.",
+        "ru": "Nevertheless."
+      },
+      "id": "c1-final-24",
+      "source": "c1-u10-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "ellipsis-spoken",
+      "audio_text": "Sounds good to me.",
+      "options": [
+        "Sounds good to me.",
+        "Sounds good for me.",
+        "Sound good to me."
+      ],
+      "answer": "Sounds good to me.",
+      "audio": "",
+      "explain": {
+        "ua": "Sounds good.",
+        "ru": "Sounds good."
+      },
+      "id": "c1-final-25",
+      "source": "c1-u11-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "idioms-work",
+      "audio_text": "The company is in the red.",
+      "options": [
+        "The company is in the red.",
+        "The company is in the bed.",
+        "The company is in the read."
+      ],
+      "answer": "The company is in the red.",
+      "audio": "",
+      "explain": {
+        "ua": "In the red.",
+        "ru": "In the red."
+      },
+      "id": "c1-final-26",
+      "source": "c1-u13-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "collocations-verbs",
+      "audio_text": "You're making great progress.",
+      "options": [
+        "You're making great progress.",
+        "You're doing great progress.",
+        "You're making a great process."
+      ],
+      "answer": "You're making great progress.",
+      "audio": "",
+      "explain": {
+        "ua": "Making progress.",
+        "ru": "Making progress."
+      },
+      "id": "c1-final-27",
+      "source": "c1-u14-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "hedging",
+      "audio_text": "It appears that he's right.",
+      "options": [
+        "It appears that he's right.",
+        "It appears that he's wrong.",
+        "It appeared that he's right."
+      ],
+      "answer": "It appears that he's right.",
+      "audio": "",
+      "explain": {
+        "ua": "It appears.",
+        "ru": "It appears."
+      },
+      "id": "c1-final-28",
+      "source": "c1-u15-cp12"
+    },
+    {
+      "type": "translate",
+      "topic": "inversion-conditional",
+      "prompt": {
+        "ua": "На твоєму місці я б погодилась.",
+        "ru": "На твоём месте я бы согласилась."
+      },
+      "answer": "Were I you, I'd agree.",
+      "accept": [
+        "Were I you, I would agree.",
+        "If I were you, I'd agree.",
+        "If I were you, I would agree."
+      ],
+      "explain": {
+        "ua": "Were I you.",
+        "ru": "Were I you."
+      },
+      "id": "c1-final-29",
+      "source": "c1-u01-cp11"
+    },
+    {
+      "type": "translate",
+      "topic": "cleft-what",
+      "prompt": {
+        "ua": "Що мені потрібно — так це відпочинок.",
+        "ru": "Что мне нужно — так это отдых."
+      },
+      "answer": "What I need is a rest.",
+      "accept": [
+        "What I need is a break.",
+        "What I need is some rest.",
+        "What I need is a holiday."
+      ],
+      "explain": {
+        "ua": "What I need is…",
+        "ru": "What I need is…"
+      },
+      "id": "c1-final-30",
+      "source": "c1-u02-cp11"
+    }
+  ]
+}

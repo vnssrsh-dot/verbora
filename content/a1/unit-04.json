@@ -1,0 +1,1252 @@
+{
+  "id": "a1-u04",
+  "level": "A1",
+  "order": 4,
+  "kind": "grammar",
+  "title": {
+    "en": "Pronouns: I, me, my",
+    "ua": "Займенники: I, me, my",
+    "ru": "Местоимения: I, me, my"
+  },
+  "rule": {
+    "formula": "I → me → my · he → him → his · she → her → her · we → us → our · they → them → their",
+    "explain": {
+      "ua": "Особові займенники (I, he) — хто робить. Об'єктні (me, him) — кого, кому. Присвійні (my, his) — чий.",
+      "ru": "Личные местоимения (I, he) — кто делает. Объектные (me, him) — кого, кому. Притяжательные (my, his) — чей."
+    },
+    "examples": [
+      {
+        "en": "She is my sister.",
+        "ua": "Вона моя сестра.",
+        "ru": "Она моя сестра."
+      },
+      {
+        "en": "Call me!",
+        "ua": "Подзвони мені!",
+        "ru": "Позвони мне!"
+      },
+      {
+        "en": "This is their dog.",
+        "ua": "Це їхній собака.",
+        "ru": "Это их собака."
+      }
+    ],
+    "compare": {
+      "ua": "В українській «мій, моя, моє, мої» змінюються. В англійській my — завжди my: my mum, my dad, my friends.",
+      "ru": "В русском «мой, моя, моё, мои» меняются. В английском my — всегда my: my mum, my dad, my friends."
+    }
+  },
+  "vocab": [
+    {
+      "word": "mum",
+      "ipa": "/mʌm/",
+      "ua": "мама",
+      "ru": "мама",
+      "example": "My mum is a teacher.",
+      "audio": ""
+    },
+    {
+      "word": "dad",
+      "ipa": "/dæd/",
+      "ua": "тато",
+      "ru": "папа",
+      "example": "His dad is a doctor.",
+      "audio": ""
+    },
+    {
+      "word": "brother",
+      "ipa": "/ˈbrʌðə/",
+      "ua": "брат",
+      "ru": "брат",
+      "example": "Her brother is 10.",
+      "audio": ""
+    },
+    {
+      "word": "sister",
+      "ipa": "/ˈsɪstə/",
+      "ua": "сестра",
+      "ru": "сестра",
+      "example": "This is my sister.",
+      "audio": ""
+    },
+    {
+      "word": "husband",
+      "ipa": "/ˈhʌzbənd/",
+      "ua": "чоловік (у шлюбі)",
+      "ru": "муж",
+      "example": "Her husband is from Kyiv.",
+      "audio": ""
+    },
+    {
+      "word": "wife",
+      "ipa": "/waɪf/",
+      "ua": "дружина",
+      "ru": "жена",
+      "example": "His wife is a vet.",
+      "audio": ""
+    },
+    {
+      "word": "son",
+      "ipa": "/sʌn/",
+      "ua": "син",
+      "ru": "сын",
+      "example": "Our son is a student.",
+      "audio": ""
+    },
+    {
+      "word": "daughter",
+      "ipa": "/ˈdɔːtə/",
+      "ua": "донька",
+      "ru": "дочь",
+      "example": "Their daughter is kind.",
+      "audio": ""
+    },
+    {
+      "word": "love",
+      "ipa": "/lʌv/",
+      "ua": "любити",
+      "ru": "любить",
+      "example": "I love you.",
+      "audio": ""
+    },
+    {
+      "word": "call",
+      "ipa": "/kɔːl/",
+      "ua": "дзвонити; кликати",
+      "ru": "звонить; звать",
+      "example": "Call me, please.",
+      "audio": ""
+    },
+    {
+      "word": "help",
+      "ipa": "/help/",
+      "ua": "допомагати",
+      "ru": "помогать",
+      "example": "Help us, please!",
+      "audio": ""
+    },
+    {
+      "word": "phone",
+      "ipa": "/fəʊn/",
+      "ua": "телефон",
+      "ru": "телефон",
+      "example": "This is my phone.",
+      "audio": ""
+    },
+    {
+      "word": "car",
+      "ipa": "/kɑː/",
+      "ua": "машина",
+      "ru": "машина",
+      "example": "Their car is big.",
+      "audio": ""
+    },
+    {
+      "word": "this is",
+      "ipa": "/ðɪs ɪz/",
+      "ua": "це (про одну річ / людину)",
+      "ru": "это (об одном предмете / человеке)",
+      "example": "This is my brother.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u04-l01",
+      "title": {
+        "en": "I, you, he, she…",
+        "ua": "I, you, he, she…",
+        "ru": "I, you, he, she…"
+      },
+      "recap": {
+        "from": "a1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: Фрази",
+          "ru": "Вспомним: Фразы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— How are you? — ___",
+            "options": [
+              "I'm fine, thanks.",
+              "I'm 30.",
+              "I'm from Odesa."
+            ],
+            "answer": "I'm fine, thanks.",
+            "explain": {
+              "ua": "How are you? — як справи.",
+              "ru": "How are you? — как дела."
+            },
+            "id": "a1-u04-l01-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "Nice to ___ you!",
+            "answer": "meet",
+            "accept": [],
+            "explain": {
+              "ua": "Nice to meet you — радий познайомитися.",
+              "ru": "Nice to meet you — приятно познакомиться."
+            },
+            "id": "a1-u04-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I · you · he · she · it · we · they",
+        "explain": {
+          "ua": "Хто робить дію — особовий займенник. Замінює ім'я: Anna → she, Max → he, Anna and Max → they, the car → it.",
+          "ru": "Кто делает действие — личное местоимение. Заменяет имя: Anna → she, Max → he, Anna and Max → they, the car → it."
+        },
+        "examples": [
+          {
+            "en": "Max is my brother. He is 20.",
+            "ua": "Макс мій брат. Йому 20.",
+            "ru": "Макс мой брат. Ему 20."
+          },
+          {
+            "en": "Anna is a vet. She is kind.",
+            "ua": "Анна ветеринар. Вона добра.",
+            "ru": "Анна ветеринар. Она добрая."
+          },
+          {
+            "en": "The car is new. It is big.",
+            "ua": "Машина нова. Вона велика.",
+            "ru": "Машина новая. Она большая."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pronouns-subject",
+          "question": "Anna is a teacher. ___ is kind.",
+          "options": [
+            "She",
+            "He",
+            "It"
+          ],
+          "answer": "She",
+          "explain": {
+            "ua": "Anna → she.",
+            "ru": "Anna → she."
+          },
+          "id": "a1-u04-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-subject",
+          "question": "Max is my friend. ___ is from Kyiv.",
+          "options": [
+            "He",
+            "She",
+            "They"
+          ],
+          "answer": "He",
+          "explain": {
+            "ua": "Max → he.",
+            "ru": "Max → he."
+          },
+          "id": "a1-u04-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-subject",
+          "question": "My phone is old. ___ is black.",
+          "options": [
+            "It",
+            "He",
+            "She"
+          ],
+          "answer": "It",
+          "explain": {
+            "ua": "Речі — it, навіть якщо в українській «вона» чи «він».",
+            "ru": "Предметы — it, даже если в русском «она» или «он»."
+          },
+          "id": "a1-u04-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-subject",
+          "question": "Anna and Max are here. ___ are friends.",
+          "options": [
+            "They",
+            "We",
+            "He"
+          ],
+          "answer": "They",
+          "explain": {
+            "ua": "Anna and Max → they.",
+            "ru": "Anna and Max → they."
+          },
+          "id": "a1-u04-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-subject",
+          "question": "My sister and I are students. ___ are busy.",
+          "options": [
+            "We",
+            "They",
+            "I"
+          ],
+          "answer": "We",
+          "explain": {
+            "ua": "My sister and I → we.",
+            "ru": "My sister and I → we."
+          },
+          "id": "a1-u04-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "pronouns-subject",
+          "pairs": [
+            {
+              "left": "Max",
+              "right": "he"
+            },
+            {
+              "left": "my mum",
+              "right": "she"
+            },
+            {
+              "left": "the car",
+              "right": "it"
+            },
+            {
+              "left": "my brothers",
+              "right": "they"
+            }
+          ],
+          "explain": {
+            "ua": "Заміни займенником.",
+            "ru": "Замени местоимением."
+          },
+          "id": "a1-u04-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-subject",
+          "sentence": "My car is new. She is red.",
+          "answer": "My car is new. It is red.",
+          "accept": [
+            "It is red.",
+            "It's red."
+          ],
+          "explain": {
+            "ua": "Машина — it.",
+            "ru": "Машина — it."
+          },
+          "id": "a1-u04-l01-e07"
+        },
+        {
+          "type": "fill",
+          "topic": "pronouns-subject",
+          "question": "Tom and Lena are here. ___ are ready.",
+          "answer": "They",
+          "accept": [],
+          "explain": {
+            "ua": "Двоє людей → they.",
+            "ru": "Два человека → they."
+          },
+          "id": "a1-u04-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pronouns",
+          "prompt": {
+            "ua": "Він мій брат.",
+            "ru": "Он мой брат."
+          },
+          "answer": "He is my brother.",
+          "accept": [
+            "He's my brother."
+          ],
+          "explain": {
+            "ua": "He → is.",
+            "ru": "He → is."
+          },
+          "id": "a1-u04-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u04-l02",
+      "title": {
+        "en": "me, him, her, us, them",
+        "ua": "me, him, her, us, them",
+        "ru": "me, him, her, us, them"
+      },
+      "recap": {
+        "from": "a1-u04-l01",
+        "note": {
+          "ua": "Згадаймо: I · you · he · she · it · we · they",
+          "ru": "Вспомним: I · you · he · she · it · we · they"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pronouns-subject",
+            "question": "Anna is a teacher. ___ is kind.",
+            "options": [
+              "She",
+              "He",
+              "It"
+            ],
+            "answer": "She",
+            "explain": {
+              "ua": "Anna → she.",
+              "ru": "Anna → she."
+            },
+            "id": "a1-u04-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pronouns-subject",
+            "question": "My sister and I are students. ___ are busy.",
+            "options": [
+              "We",
+              "They",
+              "I"
+            ],
+            "answer": "We",
+            "explain": {
+              "ua": "My sister and I → we.",
+              "ru": "My sister and I → we."
+            },
+            "id": "a1-u04-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "me · you · him · her · it · us · them",
+        "explain": {
+          "ua": "Після дієслова (кого? кому?) — об'єктний займенник: Call me. I love him. Help us.",
+          "ru": "После глагола (кого? кому?) — объектное местоимение: Call me. I love him. Help us."
+        },
+        "examples": [
+          {
+            "en": "Call me!",
+            "ua": "Подзвони мені!",
+            "ru": "Позвони мне!"
+          },
+          {
+            "en": "I love her.",
+            "ua": "Я люблю її.",
+            "ru": "Я люблю её."
+          },
+          {
+            "en": "Help them, please.",
+            "ua": "Допоможи їм, будь ласка.",
+            "ru": "Помоги им, пожалуйста."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pronouns-object",
+          "question": "Call ___, please. (I)",
+          "options": [
+            "me",
+            "I",
+            "my"
+          ],
+          "answer": "me",
+          "explain": {
+            "ua": "Після call — me.",
+            "ru": "После call — me."
+          },
+          "id": "a1-u04-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-object",
+          "question": "I love ___. (he)",
+          "options": [
+            "him",
+            "he",
+            "his"
+          ],
+          "answer": "him",
+          "explain": {
+            "ua": "He → him.",
+            "ru": "He → him."
+          },
+          "id": "a1-u04-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-object",
+          "question": "Help ___! (we)",
+          "options": [
+            "us",
+            "we",
+            "our"
+          ],
+          "answer": "us",
+          "explain": {
+            "ua": "We → us.",
+            "ru": "We → us."
+          },
+          "id": "a1-u04-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-object",
+          "question": "I know ___. (they)",
+          "options": [
+            "them",
+            "they",
+            "their"
+          ],
+          "answer": "them",
+          "explain": {
+            "ua": "They → them.",
+            "ru": "They → them."
+          },
+          "id": "a1-u04-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-object",
+          "question": "Call ___. She is at home.",
+          "options": [
+            "her",
+            "she",
+            "him"
+          ],
+          "answer": "her",
+          "explain": {
+            "ua": "She → her.",
+            "ru": "She → her."
+          },
+          "id": "a1-u04-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "pronouns-object",
+          "pairs": [
+            {
+              "left": "I",
+              "right": "me"
+            },
+            {
+              "left": "he",
+              "right": "him"
+            },
+            {
+              "left": "we",
+              "right": "us"
+            },
+            {
+              "left": "they",
+              "right": "them"
+            }
+          ],
+          "explain": {
+            "ua": "Хто → кого.",
+            "ru": "Кто → кого."
+          },
+          "id": "a1-u04-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-object",
+          "sentence": "Help I, please!",
+          "answer": "Help me, please!",
+          "accept": [],
+          "explain": {
+            "ua": "Після дієслова — me.",
+            "ru": "После глагола — me."
+          },
+          "id": "a1-u04-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "pronouns-object",
+          "words": [
+            "call",
+            "him",
+            "Please",
+            "today"
+          ],
+          "answer": "Please call him today",
+          "explain": {
+            "ua": "Call → him → today.",
+            "ru": "Call → him → today."
+          },
+          "id": "a1-u04-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pronouns-object",
+          "prompt": {
+            "ua": "Я люблю тебе.",
+            "ru": "Я люблю тебя."
+          },
+          "answer": "I love you.",
+          "accept": [],
+          "explain": {
+            "ua": "You — і «ти», і «тебе».",
+            "ru": "You — и «ты», и «тебя»."
+          },
+          "id": "a1-u04-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u04-l03",
+      "title": {
+        "en": "my, his, her, our, their",
+        "ua": "my, his, her, our, their",
+        "ru": "my, his, her, our, their"
+      },
+      "recap": {
+        "from": "a1-u04-l02",
+        "note": {
+          "ua": "Згадаймо: me · you · him · her · it · us · them",
+          "ru": "Вспомним: me · you · him · her · it · us · them"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pronouns-object",
+            "question": "Call ___, please. (I)",
+            "options": [
+              "me",
+              "I",
+              "my"
+            ],
+            "answer": "me",
+            "explain": {
+              "ua": "Після call — me.",
+              "ru": "После call — me."
+            },
+            "id": "a1-u04-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pronouns-object",
+            "question": "I know ___. (they)",
+            "options": [
+              "them",
+              "they",
+              "their"
+            ],
+            "answer": "them",
+            "explain": {
+              "ua": "They → them.",
+              "ru": "They → them."
+            },
+            "id": "a1-u04-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "my · your · his · her · its · our · their",
+        "explain": {
+          "ua": "Чий? — присвійний займенник перед іменником. His — його (про чоловіка), her — її (про жінку). Форма не змінюється: my dad, my mum, my cars.",
+          "ru": "Чей? — притяжательное местоимение перед существительным. His — его (о мужчине), her — её (о женщине). Форма не меняется: my dad, my mum, my cars."
+        },
+        "examples": [
+          {
+            "en": "This is my phone.",
+            "ua": "Це мій телефон.",
+            "ru": "Это мой телефон."
+          },
+          {
+            "en": "His wife is a vet.",
+            "ua": "Його дружина ветеринар.",
+            "ru": "Его жена ветеринар."
+          },
+          {
+            "en": "Their son is 5.",
+            "ua": "Їхньому синові 5.",
+            "ru": "Их сыну 5."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pronouns-possessive",
+          "question": "Max is here. ___ car is red.",
+          "options": [
+            "His",
+            "Her",
+            "He"
+          ],
+          "answer": "His",
+          "explain": {
+            "ua": "Max → his.",
+            "ru": "Max → his."
+          },
+          "id": "a1-u04-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-possessive",
+          "question": "Anna is here. ___ husband is a doctor.",
+          "options": [
+            "Her",
+            "His",
+            "She"
+          ],
+          "answer": "Her",
+          "explain": {
+            "ua": "Anna → her. Рід «чоловіка» не важливий — важливо, чий він.",
+            "ru": "Anna → her. Род слова «муж» не важен — важно, чей он."
+          },
+          "id": "a1-u04-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-possessive",
+          "question": "We love ___ dog.",
+          "options": [
+            "our",
+            "us",
+            "we"
+          ],
+          "answer": "our",
+          "explain": {
+            "ua": "We → our.",
+            "ru": "We → our."
+          },
+          "id": "a1-u04-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-possessive",
+          "question": "They are at home with ___ children.",
+          "options": [
+            "their",
+            "them",
+            "they"
+          ],
+          "answer": "their",
+          "explain": {
+            "ua": "They → their.",
+            "ru": "They → their."
+          },
+          "id": "a1-u04-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns-possessive",
+          "question": "I'm Anna. ___ name is Anna.",
+          "options": [
+            "My",
+            "Me",
+            "I"
+          ],
+          "answer": "My",
+          "explain": {
+            "ua": "I → my.",
+            "ru": "I → my."
+          },
+          "id": "a1-u04-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "pronouns-possessive",
+          "pairs": [
+            {
+              "left": "I",
+              "right": "my"
+            },
+            {
+              "left": "he",
+              "right": "his"
+            },
+            {
+              "left": "she",
+              "right": "her"
+            },
+            {
+              "left": "we",
+              "right": "our"
+            }
+          ],
+          "explain": {
+            "ua": "Хто → чий.",
+            "ru": "Кто → чей."
+          },
+          "id": "a1-u04-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-possessive",
+          "sentence": "Max and he wife are here.",
+          "answer": "Max and his wife are here.",
+          "accept": [],
+          "explain": {
+            "ua": "Чия? — his.",
+            "ru": "Чья? — his."
+          },
+          "id": "a1-u04-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-possessive",
+          "sentence": "This is me phone.",
+          "answer": "This is my phone.",
+          "accept": [],
+          "explain": {
+            "ua": "Чий? — my.",
+            "ru": "Чей? — my."
+          },
+          "id": "a1-u04-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pronouns-possessive",
+          "prompt": {
+            "ua": "Це її брат.",
+            "ru": "Это её брат."
+          },
+          "answer": "This is her brother.",
+          "accept": [
+            "This is her brother"
+          ],
+          "explain": {
+            "ua": "Її → her.",
+            "ru": "Её → her."
+          },
+          "id": "a1-u04-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u04-l04",
+      "title": {
+        "en": "Practice: my family",
+        "ua": "Практика: моя сім'я",
+        "ru": "Практика: моя семья"
+      },
+      "recap": {
+        "from": "a1-u04-l03",
+        "note": {
+          "ua": "Згадаймо: my · your · his · her · its · our · their",
+          "ru": "Вспомним: my · your · his · her · its · our · their"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pronouns-possessive",
+            "question": "Max is here. ___ car is red.",
+            "options": [
+              "His",
+              "Her",
+              "He"
+            ],
+            "answer": "His",
+            "explain": {
+              "ua": "Max → his.",
+              "ru": "Max → his."
+            },
+            "id": "a1-u04-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pronouns-possessive",
+            "question": "I'm Anna. ___ name is Anna.",
+            "options": [
+              "My",
+              "Me",
+              "I"
+            ],
+            "answer": "My",
+            "explain": {
+              "ua": "I → my.",
+              "ru": "I → my."
+            },
+            "id": "a1-u04-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pronouns",
+          "question": "This is my dad. ___ name is Ivan.",
+          "options": [
+            "His",
+            "He",
+            "Him"
+          ],
+          "answer": "His",
+          "explain": {
+            "ua": "Чиє ім'я? — his.",
+            "ru": "Чьё имя? — his."
+          },
+          "id": "a1-u04-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns",
+          "question": "I love my sister. I call ___ every day.",
+          "options": [
+            "her",
+            "she",
+            "hers"
+          ],
+          "answer": "her",
+          "explain": {
+            "ua": "Кому? — her.",
+            "ru": "Кому? — her."
+          },
+          "id": "a1-u04-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pronouns",
+          "question": "My brother and I are twins. ___ are 20.",
+          "options": [
+            "We",
+            "Us",
+            "Our"
+          ],
+          "answer": "We",
+          "explain": {
+            "ua": "Хто? — we.",
+            "ru": "Кто? — we."
+          },
+          "id": "a1-u04-l04-e03"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is Olya's husband?",
+              "options": [
+                "a doctor",
+                "a teacher",
+                "a student"
+              ],
+              "answer": "a doctor"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Their son is 7.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Their daughter is a student.",
+              "answer": false
+            }
+          ],
+          "text": "Hi! I'm Olya. This is my family. My husband is Taras. He is a doctor. We have two children. Our son is Mark. He is 7. Our daughter is Sofia. She is 3. I love them!",
+          "explain": {
+            "ua": "Husband — doctor, son — 7, daughter — 3.",
+            "ru": "Husband — doctor, son — 7, daughter — 3."
+          },
+          "id": "a1-u04-l04-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "pronouns-possessive",
+          "bank": [
+            "my",
+            "his",
+            "her",
+            "our",
+            "their"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I'm Olya. ___ husband is Taras.",
+            "Taras is a doctor. ___ car is black.",
+            "We love ___ children.",
+            "Mark and Sofia love ___ dog."
+          ],
+          "answers": [
+            "My",
+            "His",
+            "our",
+            "their"
+          ],
+          "explain": {
+            "ua": "I → my, Taras → his, we → our, they → their.",
+            "ru": "I → my, Taras → his, we → our, they → their."
+          },
+          "id": "a1-u04-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-possessive",
+          "sentence": "Her name is Mark. He is 7.",
+          "answer": "His name is Mark. He is 7.",
+          "accept": [],
+          "explain": {
+            "ua": "Mark — він → his.",
+            "ru": "Mark — он → his."
+          },
+          "id": "a1-u04-l04-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "pronouns-object",
+          "question": "Help ___, please! We are late.",
+          "answer": "us",
+          "accept": [],
+          "explain": {
+            "ua": "We → us.",
+            "ru": "We → us."
+          },
+          "id": "a1-u04-l04-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "Their",
+            "daughter",
+            "three",
+            "is"
+          ],
+          "answer": "Their daughter is three",
+          "explain": {
+            "ua": "Their daughter → is → three.",
+            "ru": "Their daughter → is → three."
+          },
+          "id": "a1-u04-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pronouns-object",
+          "prompt": {
+            "ua": "Подзвони йому!",
+            "ru": "Позвони ему!"
+          },
+          "answer": "Call him!",
+          "accept": [
+            "Call him, please!"
+          ],
+          "explain": {
+            "ua": "Кому? — him.",
+            "ru": "Кому? — him."
+          },
+          "id": "a1-u04-l04-e09"
+        },
+        {
+          "type": "listen",
+          "topic": "pronouns",
+          "audio_text": "Her husband is kind.",
+          "options": [
+            "Her husband is kind.",
+            "His husband is kind.",
+            "Her husband is kid."
+          ],
+          "answer": "Her husband is kind.",
+          "audio": "",
+          "explain": {
+            "ua": "Her — її.",
+            "ru": "Her — её."
+          },
+          "id": "a1-u04-l04-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "pronouns-subject",
+      "question": "Max is my friend. ___ is 30.",
+      "options": [
+        "He",
+        "Him",
+        "His"
+      ],
+      "answer": "He",
+      "explain": {
+        "ua": "Хто? — he.",
+        "ru": "Кто? — he."
+      },
+      "id": "a1-u04-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "pronouns-object",
+      "question": "Call ___, please. (we)",
+      "options": [
+        "us",
+        "we",
+        "our"
+      ],
+      "answer": "us",
+      "explain": {
+        "ua": "We → us.",
+        "ru": "We → us."
+      },
+      "id": "a1-u04-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "pronouns-possessive",
+      "question": "Anna and ___ husband are here.",
+      "options": [
+        "her",
+        "his",
+        "she"
+      ],
+      "answer": "her",
+      "explain": {
+        "ua": "Anna → her.",
+        "ru": "Anna → her."
+      },
+      "id": "a1-u04-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "pronouns-subject",
+      "question": "My phone is old. ___ is black.",
+      "options": [
+        "It",
+        "He",
+        "She"
+      ],
+      "answer": "It",
+      "explain": {
+        "ua": "Речі — it.",
+        "ru": "Предметы — it."
+      },
+      "id": "a1-u04-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "pronouns-object",
+      "question": "I love ___. (she)",
+      "answer": "her",
+      "accept": [],
+      "explain": {
+        "ua": "She → her.",
+        "ru": "She → her."
+      },
+      "id": "a1-u04-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "pronouns-possessive",
+      "question": "They are with ___ son.",
+      "answer": "their",
+      "accept": [],
+      "explain": {
+        "ua": "They → their.",
+        "ru": "They → their."
+      },
+      "id": "a1-u04-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "pronouns-object",
+      "pairs": [
+        {
+          "left": "they",
+          "right": "them"
+        },
+        {
+          "left": "he",
+          "right": "his"
+        },
+        {
+          "left": "I",
+          "right": "me"
+        },
+        {
+          "left": "we",
+          "right": "our"
+        }
+      ],
+      "explain": {
+        "ua": "Займенники.",
+        "ru": "Местоимения."
+      },
+      "id": "a1-u04-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "pronouns-object",
+      "sentence": "Help they!",
+      "answer": "Help them!",
+      "accept": [],
+      "explain": {
+        "ua": "Після дієслова — them.",
+        "ru": "После глагола — them."
+      },
+      "id": "a1-u04-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "pronouns-possessive",
+      "sentence": "This is Anna. His dog is big.",
+      "answer": "This is Anna. Her dog is big.",
+      "accept": [
+        "Her dog is big."
+      ],
+      "explain": {
+        "ua": "Anna → her.",
+        "ru": "Anna → her."
+      },
+      "id": "a1-u04-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "pronouns-possessive",
+      "words": [
+        "is",
+        "This",
+        "car",
+        "our"
+      ],
+      "answer": "This is our car",
+      "explain": {
+        "ua": "This is → our → car.",
+        "ru": "This is → our → car."
+      },
+      "id": "a1-u04-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "pronouns-possessive",
+      "prompt": {
+        "ua": "Її чоловік з Києва.",
+        "ru": "Её муж из Киева."
+      },
+      "answer": "Her husband is from Kyiv.",
+      "accept": [],
+      "explain": {
+        "ua": "Її → her.",
+        "ru": "Её → her."
+      },
+      "id": "a1-u04-cp11"
+    },
+    {
+      "type": "translate",
+      "topic": "pronouns-object",
+      "prompt": {
+        "ua": "Допоможи мені!",
+        "ru": "Помоги мне!"
+      },
+      "answer": "Help me!",
+      "accept": [
+        "Help me, please!"
+      ],
+      "explain": {
+        "ua": "Мені → me.",
+        "ru": "Мне → me."
+      },
+      "id": "a1-u04-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1007 @@
+{
+  "id": "c1-u07",
+  "level": "C1",
+  "order": 7,
+  "kind": "grammar",
+  "title": {
+    "en": "Advanced passive structures",
+    "ua": "Складний пасив",
+    "ru": "Сложный пассив"
+  },
+  "rule": {
+    "formula": {
+      "ua": "It is said that… · He is said to be… · He is believed to have + V3 · being + V3 · to be + V3 · having been + V3",
+      "ru": "It is said that… · He is said to be… · He is believed to have + V3 · being + V3 · to be + V3 · having been + V3"
+    },
+    "explain": {
+      "ua": "Новини й офіційні тексти часто передають чужу думку безособово: It is believed that… / The suspect is thought to have left the country. А пасив з -ing і to: I hate being lied to. She hopes to be promoted.",
+      "ru": "Новости и официальные тексты часто передают чужое мнение безлично: It is believed that… / The suspect is thought to have left the country. А пассив с -ing и to: I hate being lied to. She hopes to be promoted."
+    },
+    "examples": [
+      {
+        "en": "It is said that the castle is haunted.",
+        "ua": "Кажуть, що в замку живуть привиди.",
+        "ru": "Говорят, что в замке водятся привидения."
+      },
+      {
+        "en": "The painting is believed to be worth millions.",
+        "ua": "Вважається, що картина коштує мільйони.",
+        "ru": "Считается, что картина стоит миллионы."
+      },
+      {
+        "en": "I don't like being told what to do.",
+        "ua": "Я не люблю, коли мені вказують, що робити.",
+        "ru": "Я не люблю, когда мне указывают, что делать."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "it is said that",
+      "ipa": "/ɪt ɪz ˈsed ðæt/",
+      "ua": "кажуть, що",
+      "ru": "говорят, что",
+      "example": "It is said that he's rich.",
+      "audio": ""
+    },
+    {
+      "word": "it is believed that",
+      "ipa": "/ɪt ɪz bɪˈliːvd ðæt/",
+      "ua": "вважається, що",
+      "ru": "считается, что",
+      "example": "It is believed that…",
+      "audio": ""
+    },
+    {
+      "word": "is thought to",
+      "ipa": "/ɪz ˈθɔːt tə/",
+      "ua": "вважається, що (він)",
+      "ru": "считается, что (он)",
+      "example": "He is thought to be in Spain.",
+      "audio": ""
+    },
+    {
+      "word": "is reported to",
+      "ipa": "/ɪz rɪˈpɔːtɪd tə/",
+      "ua": "за повідомленнями",
+      "ru": "по сообщениям",
+      "example": "Ten people are reported to be injured.",
+      "audio": ""
+    },
+    {
+      "word": "is expected to",
+      "ipa": "/ɪz ɪkˈspektɪd tə/",
+      "ua": "очікується, що",
+      "ru": "ожидается, что",
+      "example": "The price is expected to rise.",
+      "audio": ""
+    },
+    {
+      "word": "is known to",
+      "ipa": "/ɪz ˈnəʊn tə/",
+      "ua": "відомо, що",
+      "ru": "известно, что",
+      "example": "She is known to be strict.",
+      "audio": ""
+    },
+    {
+      "word": "is alleged to",
+      "ipa": "/ɪz əˈledʒd tə/",
+      "ua": "нібито, імовірно (звинувачення)",
+      "ru": "якобы, предположительно (обвинение)",
+      "example": "He is alleged to have stolen it.",
+      "audio": ""
+    },
+    {
+      "word": "being + V3",
+      "ipa": "/ˈbiːɪŋ/",
+      "ua": "(пасив після прийменника / дієслова)",
+      "ru": "(пассив после предлога / глагола)",
+      "example": "I hate being ignored.",
+      "audio": ""
+    },
+    {
+      "word": "to be + V3",
+      "ipa": "/tə biː/",
+      "ua": "(пасивний інфінітив)",
+      "ru": "(пассивный инфинитив)",
+      "example": "She wants to be promoted.",
+      "audio": ""
+    },
+    {
+      "word": "having been + V3",
+      "ipa": "/ˈhævɪŋ biːn/",
+      "ua": "після того як (його) …",
+      "ru": "после того как (его) …",
+      "example": "Having been warned, we were careful.",
+      "audio": ""
+    },
+    {
+      "word": "suspect",
+      "ipa": "/ˈsʌspekt/",
+      "ua": "підозрюваний",
+      "ru": "подозреваемый",
+      "example": "The suspect is thought to have escaped.",
+      "audio": ""
+    },
+    {
+      "word": "allegedly",
+      "ipa": "/əˈledʒɪdli/",
+      "ua": "нібито",
+      "ru": "якобы",
+      "example": "He allegedly lied.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u07-l01",
+      "title": {
+        "en": "It is said that…",
+        "ua": "It is said that…",
+        "ru": "It is said that…"
+      },
+      "recap": {
+        "from": "c1-u06-l03",
+        "note": {
+          "ua": "Згадаймо: will + дієслово — типова (часто дратівлива) звичка зараз · would + дієслово — звичка в минулому · He WILL… (з наголосом) — роздратування",
+          "ru": "Вспомним: will + глагол — типичная (часто раздражающая) привычка сейчас · would + глагол — привычка в прошлом · He WILL… (с ударением) — раздражение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-would-habits",
+            "question": "My dog ___ eat anything you give him.",
+            "options": [
+              "will",
+              "would",
+              "shall"
+            ],
+            "answer": "will",
+            "explain": {
+              "ua": "Типова звичка зараз → will.",
+              "ru": "Типичная привычка сейчас → will."
+            },
+            "id": "c1-u07-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will-would-habits",
+            "question": "Every summer we ___ swim in the river.",
+            "options": [
+              "would",
+              "will",
+              "were"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Would.",
+              "ru": "Would."
+            },
+            "id": "c1-u07-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "It is said / believed / thought that + речення · S + is said / believed + to + дієслово · to have + V3 — про минуле",
+          "ru": "It is said / believed / thought that + предложение · S + is said / believed + to + глагол · to have + V3 — о прошлом"
+        },
+        "explain": {
+          "ua": "Два способи: It is said that he lives in Paris = He is said to live in Paris. Якщо подія в минулому: It is believed that she left = She is believed to have left. Якщо триває зараз: He is thought to be hiding.",
+          "ru": "Два способа: It is said that he lives in Paris = He is said to live in Paris. Если событие в прошлом: It is believed that she left = She is believed to have left. Если длится сейчас: He is thought to be hiding."
+        },
+        "examples": [
+          {
+            "en": "It is thought that the fire started in the kitchen.",
+            "ua": "Вважають, що пожежа почалася на кухні.",
+            "ru": "Считают, что пожар начался на кухне."
+          },
+          {
+            "en": "The fire is thought to have started in the kitchen.",
+            "ua": "Вважають, що пожежа почалася на кухні.",
+            "ru": "Считают, что пожар начался на кухне."
+          },
+          {
+            "en": "The singer is reported to be getting married.",
+            "ua": "Повідомляють, що співачка виходить заміж.",
+            "ru": "Сообщают, что певица выходит замуж."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "It ___ that the hotel is the best in town.",
+          "options": [
+            "is said",
+            "says",
+            "is saying"
+          ],
+          "answer": "is said",
+          "explain": {
+            "ua": "It is said that.",
+            "ru": "It is said that."
+          },
+          "id": "c1-u07-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "He is believed ___ in London now.",
+          "options": [
+            "to live",
+            "living",
+            "that he lives"
+          ],
+          "answer": "to live",
+          "explain": {
+            "ua": "Is believed + to.",
+            "ru": "Is believed + to."
+          },
+          "id": "c1-u07-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "The thief is thought ___ through the window. (past)",
+          "options": [
+            "to have escaped",
+            "to escape",
+            "escaped"
+          ],
+          "answer": "to have escaped",
+          "explain": {
+            "ua": "Минуле → to have + V3.",
+            "ru": "Прошлое → to have + V3."
+          },
+          "id": "c1-u07-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "Prices are expected ___ next year.",
+          "options": [
+            "to rise",
+            "rising",
+            "to have risen"
+          ],
+          "answer": "to rise",
+          "explain": {
+            "ua": "Майбутнє → to + дієслово.",
+            "ru": "Будущее → to + глагол."
+          },
+          "id": "c1-u07-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "She is known ___ a very strict teacher.",
+          "options": [
+            "to be",
+            "being",
+            "be"
+          ],
+          "answer": "to be",
+          "explain": {
+            "ua": "Is known to be.",
+            "ru": "Is known to be."
+          },
+          "id": "c1-u07-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "The minister is alleged ___ money.",
+          "options": [
+            "to have taken",
+            "to take",
+            "taking"
+          ],
+          "answer": "to have taken",
+          "explain": {
+            "ua": "Звинувачення в минулому → to have + V3.",
+            "ru": "Обвинение в прошлом → to have + V3."
+          },
+          "id": "c1-u07-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "passive-reporting",
+          "pairs": [
+            {
+              "left": "It is said that he is rich.",
+              "right": "He is said to be rich."
+            },
+            {
+              "left": "It is believed that she left.",
+              "right": "She is believed to have left."
+            },
+            {
+              "left": "It is thought that they are hiding.",
+              "right": "They are thought to be hiding."
+            },
+            {
+              "left": "It is expected that prices will rise.",
+              "right": "Prices are expected to rise."
+            }
+          ],
+          "explain": {
+            "ua": "It … that → S + to.",
+            "ru": "It … that → S + to."
+          },
+          "id": "c1-u07-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-reporting",
+          "sentence": "He is said that he is very rich.",
+          "answer": "He is said to be very rich.",
+          "accept": [
+            "It is said that he is very rich."
+          ],
+          "explain": {
+            "ua": "S + is said + to.",
+            "ru": "S + is said + to."
+          },
+          "id": "c1-u07-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-reporting",
+          "prompt": {
+            "ua": "Кажуть, що цей ресторан найкращий у місті.",
+            "ru": "Говорят, что этот ресторан лучший в городе."
+          },
+          "answer": "This restaurant is said to be the best in town.",
+          "accept": [
+            "It is said that this restaurant is the best in town.",
+            "This restaurant is said to be the best in the city.",
+            "It is said that this restaurant is the best in the city."
+          ],
+          "explain": {
+            "ua": "Is said to be.",
+            "ru": "Is said to be."
+          },
+          "id": "c1-u07-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u07-l02",
+      "title": {
+        "en": "Passive with -ing and to",
+        "ua": "Пасив з -ing і to",
+        "ru": "Пассив с -ing и to"
+      },
+      "recap": {
+        "from": "c1-u07-l01",
+        "note": {
+          "ua": "Згадаймо: It is said / believed / thought that + речення · S + is said / believed + to + дієслово · to have + V3 — про минуле",
+          "ru": "Вспомним: It is said / believed / thought that + предложение · S + is said / believed + to + глагол · to have + V3 — о прошлом"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-reporting",
+            "question": "It ___ that the hotel is the best in town.",
+            "options": [
+              "is said",
+              "says",
+              "is saying"
+            ],
+            "answer": "is said",
+            "explain": {
+              "ua": "It is said that.",
+              "ru": "It is said that."
+            },
+            "id": "c1-u07-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-reporting",
+            "question": "She is known ___ a very strict teacher.",
+            "options": [
+              "to be",
+              "being",
+              "be"
+            ],
+            "answer": "to be",
+            "explain": {
+              "ua": "Is known to be.",
+              "ru": "Is known to be."
+            },
+            "id": "c1-u07-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "дієслово / прийменник + being + V3 · дієслово + to be + V3 · Having been + V3, … · to have been + V3",
+          "ru": "глагол / предлог + being + V3 · глагол + to be + V3 · Having been + V3, … · to have been + V3"
+        },
+        "explain": {
+          "ua": "Після like, hate, enjoy, avoid, без / після прийменника — being + V3: I hate being interrupted. After being arrested… Після want, hope, expect, need — to be + V3: He expects to be paid. Having been told the news, she cried.",
+          "ru": "После like, hate, enjoy, avoid, после предлога — being + V3: I hate being interrupted. After being arrested… После want, hope, expect, need — to be + V3: He expects to be paid. Having been told the news, she cried."
+        },
+        "examples": [
+          {
+            "en": "Nobody likes being criticised.",
+            "ua": "Ніхто не любить, коли його критикують.",
+            "ru": "Никто не любит, когда его критикуют."
+          },
+          {
+            "en": "The house needs to be painted.",
+            "ua": "Будинок треба пофарбувати.",
+            "ru": "Дом нужно покрасить."
+          },
+          {
+            "en": "Having been invited, we couldn't say no.",
+            "ua": "Оскільки нас запросили, ми не могли відмовитися.",
+            "ru": "Поскольку нас пригласили, мы не могли отказаться."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "I hate ___ when I'm working.",
+          "options": [
+            "being interrupted",
+            "to interrupt",
+            "interrupted"
+          ],
+          "answer": "being interrupted",
+          "explain": {
+            "ua": "Hate + being + V3.",
+            "ru": "Hate + being + V3."
+          },
+          "id": "c1-u07-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "She hopes ___ to manager next year.",
+          "options": [
+            "to be promoted",
+            "being promoted",
+            "to promote"
+          ],
+          "answer": "to be promoted",
+          "explain": {
+            "ua": "Hope + to be + V3.",
+            "ru": "Hope + to be + V3."
+          },
+          "id": "c1-u07-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "The windows need ___ .",
+          "options": [
+            "to be cleaned",
+            "being clean",
+            "to clean them"
+          ],
+          "answer": "to be cleaned",
+          "explain": {
+            "ua": "Need + to be + V3.",
+            "ru": "Need + to be + V3."
+          },
+          "id": "c1-u07-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "He left without ___ .",
+          "options": [
+            "being seen",
+            "seeing",
+            "to be seen"
+          ],
+          "answer": "being seen",
+          "explain": {
+            "ua": "Прийменник + being + V3.",
+            "ru": "Предлог + being + V3."
+          },
+          "id": "c1-u07-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "___ warned about the storm, we stayed at home.",
+          "options": [
+            "Having been",
+            "Having",
+            "Being have"
+          ],
+          "answer": "Having been",
+          "explain": {
+            "ua": "Having been + V3.",
+            "ru": "Having been + V3."
+          },
+          "id": "c1-u07-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-forms",
+          "question": "I expect ___ by Friday.",
+          "options": [
+            "to be paid",
+            "being paid",
+            "to pay"
+          ],
+          "answer": "to be paid",
+          "explain": {
+            "ua": "Expect + to be + V3.",
+            "ru": "Expect + to be + V3."
+          },
+          "id": "c1-u07-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "passive-forms",
+          "bank": [
+            "being",
+            "to be",
+            "Having been",
+            "been"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She enjoys ___ praised.",
+            "The report has ___ finished.",
+            "It needs ___ checked.",
+            "___ chosen, he gave a speech."
+          ],
+          "answers": [
+            "being",
+            "been",
+            "to be",
+            "Having been"
+          ],
+          "explain": {
+            "ua": "Пасивні форми.",
+            "ru": "Пассивные формы."
+          },
+          "id": "c1-u07-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-forms",
+          "sentence": "I don't like being tell what to do.",
+          "answer": "I don't like being told what to do.",
+          "accept": [],
+          "explain": {
+            "ua": "Being + V3.",
+            "ru": "Being + V3."
+          },
+          "id": "c1-u07-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-forms",
+          "prompt": {
+            "ua": "Я не люблю, коли мене ігнорують.",
+            "ru": "Я не люблю, когда меня игнорируют."
+          },
+          "answer": "I don't like being ignored.",
+          "accept": [
+            "I hate being ignored.",
+            "I dislike being ignored.",
+            "I do not like being ignored."
+          ],
+          "explain": {
+            "ua": "Being + V3.",
+            "ru": "Being + V3."
+          },
+          "id": "c1-u07-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u07-l03",
+      "title": {
+        "en": "Practice: in the news",
+        "ua": "Практика: у новинах",
+        "ru": "Практика: в новостях"
+      },
+      "recap": {
+        "from": "c1-u07-l02",
+        "note": {
+          "ua": "Згадаймо: дієслово / прийменник + being + V3 · дієслово + to be + V3 · Having been + V3, … · to have been + V3",
+          "ru": "Вспомним: глагол / предлог + being + V3 · глагол + to be + V3 · Having been + V3, … · to have been + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-forms",
+            "question": "I hate ___ when I'm working.",
+            "options": [
+              "being interrupted",
+              "to interrupt",
+              "interrupted"
+            ],
+            "answer": "being interrupted",
+            "explain": {
+              "ua": "Hate + being + V3.",
+              "ru": "Hate + being + V3."
+            },
+            "id": "c1-u07-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-forms",
+            "question": "___ warned about the storm, we stayed at home.",
+            "options": [
+              "Having been",
+              "Having",
+              "Being have"
+            ],
+            "answer": "Having been",
+            "explain": {
+              "ua": "Having been + V3.",
+              "ru": "Having been + V3."
+            },
+            "id": "c1-u07-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The painting is thought to be a copy.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "It is believed to have been stolen in the 1990s.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "Who is the painting said to have belonged to?",
+              "options": [
+                "a rich family",
+                "the museum",
+                "a famous actor"
+              ],
+              "answer": "a rich family"
+            }
+          ],
+          "text": "A painting that was lost for thirty years has been found in an attic in Lviv. It is believed to have been stolen from a private collection in the 1990s. Experts say it is thought to be an original, not a copy, and it is said to have belonged to a rich family. The owner of the house claims he had no idea about it. The painting is expected to be sold for several million euros.",
+          "explain": {
+            "ua": "Lost painting found; believed stolen in 1990s; thought to be original; expected to be sold for millions.",
+            "ru": "Lost painting found; believed stolen in 1990s; thought to be original; expected to be sold for millions."
+          },
+          "id": "c1-u07-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "passive-advanced",
+          "bank": [
+            "believed",
+            "thought",
+            "said",
+            "expected"
+          ],
+          "reuse": false,
+          "sentences": [
+            "It is ___ to have been stolen.",
+            "It is ___ to be an original.",
+            "It is ___ to have belonged to a rich family.",
+            "It is ___ to be sold for millions."
+          ],
+          "answers": [
+            "believed",
+            "thought",
+            "said",
+            "expected"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u07-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-advanced",
+          "question": "It is believed that the painting was stolen. = The painting is believed ___ .",
+          "options": [
+            "to have been stolen",
+            "to be stolen",
+            "to steal"
+          ],
+          "answer": "to have been stolen",
+          "explain": {
+            "ua": "Пасив у минулому → to have been + V3.",
+            "ru": "Пассив в прошлом → to have been + V3."
+          },
+          "id": "c1-u07-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-advanced",
+          "sentence": "The painting is expected to be sell for millions.",
+          "answer": "The painting is expected to be sold for millions.",
+          "accept": [
+            "The painting is expected to sell for millions."
+          ],
+          "explain": {
+            "ua": "To be + V3.",
+            "ru": "To be + V3."
+          },
+          "id": "c1-u07-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-advanced",
+          "sentence": "It says that he is a genius.",
+          "answer": "It is said that he is a genius.",
+          "accept": [
+            "He is said to be a genius."
+          ],
+          "explain": {
+            "ua": "It is said.",
+            "ru": "It is said."
+          },
+          "id": "c1-u07-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "He",
+            "country",
+            "to",
+            "is",
+            "the",
+            "left",
+            "have",
+            "thought"
+          ],
+          "answer": "He is thought to have left the country",
+          "explain": {
+            "ua": "Is thought → to have left.",
+            "ru": "Is thought → to have left."
+          },
+          "id": "c1-u07-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-advanced",
+          "audio_text": "The suspect is believed to have escaped.",
+          "options": [
+            "The suspect is believed to have escaped.",
+            "The suspect is believed to escape.",
+            "The suspect believed he had escaped."
+          ],
+          "answer": "The suspect is believed to have escaped.",
+          "audio": "",
+          "explain": {
+            "ua": "To have escaped.",
+            "ru": "To have escaped."
+          },
+          "id": "c1-u07-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-advanced",
+          "prompt": {
+            "ua": "Очікується, що ціни зростуть.",
+            "ru": "Ожидается, что цены вырастут."
+          },
+          "answer": "Prices are expected to rise.",
+          "accept": [
+            "It is expected that prices will rise.",
+            "Prices are expected to go up.",
+            "It is expected that prices will go up."
+          ],
+          "explain": {
+            "ua": "Are expected to.",
+            "ru": "Are expected to."
+          },
+          "id": "c1-u07-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "passive-reporting",
+      "question": "It ___ that she speaks six languages.",
+      "options": [
+        "is said",
+        "says",
+        "said"
+      ],
+      "answer": "is said",
+      "explain": {
+        "ua": "It is said.",
+        "ru": "It is said."
+      },
+      "id": "c1-u07-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-reporting",
+      "question": "He is thought ___ the country last week.",
+      "options": [
+        "to have left",
+        "to leave",
+        "leaving"
+      ],
+      "answer": "to have left",
+      "explain": {
+        "ua": "To have left.",
+        "ru": "To have left."
+      },
+      "id": "c1-u07-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-forms",
+      "question": "The bridge is expected ___ next year.",
+      "options": [
+        "to be finished",
+        "to finish",
+        "being finished"
+      ],
+      "answer": "to be finished",
+      "explain": {
+        "ua": "To be finished.",
+        "ru": "To be finished."
+      },
+      "id": "c1-u07-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-forms",
+      "question": "I hate ___ lied to.",
+      "options": [
+        "being",
+        "to be",
+        "been"
+      ],
+      "answer": "being",
+      "explain": {
+        "ua": "Being.",
+        "ru": "Being."
+      },
+      "id": "c1-u07-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-reporting",
+      "question": "She is known ___ very generous.",
+      "options": [
+        "to be",
+        "being",
+        "be"
+      ],
+      "answer": "to be",
+      "explain": {
+        "ua": "Is known to be.",
+        "ru": "Is known to be."
+      },
+      "id": "c1-u07-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-forms",
+      "question": "___ been told the truth, she cried. (Having)",
+      "answer": "Having",
+      "accept": [],
+      "explain": {
+        "ua": "Having been.",
+        "ru": "Having been."
+      },
+      "id": "c1-u07-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-forms",
+      "question": "The car needs ___ be repaired.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Needs to be.",
+        "ru": "Needs to be."
+      },
+      "id": "c1-u07-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "passive-reporting",
+      "sentence": "He is said that he is a genius.",
+      "answer": "He is said to be a genius.",
+      "accept": [
+        "It is said that he is a genius."
+      ],
+      "explain": {
+        "ua": "S + is said + to.",
+        "ru": "S + is said + to."
+      },
+      "id": "c1-u07-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "passive-forms",
+      "sentence": "I don't like be criticised.",
+      "answer": "I don't like being criticised.",
+      "accept": [],
+      "explain": {
+        "ua": "Being + V3.",
+        "ru": "Being + V3."
+      },
+      "id": "c1-u07-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "passive-reporting",
+      "words": [
+        "the",
+        "It",
+        "is",
+        "started",
+        "at",
+        "believed",
+        "night",
+        "fire",
+        "that"
+      ],
+      "answer": "It is believed that the fire started at night",
+      "explain": {
+        "ua": "It is believed that…",
+        "ru": "It is believed that…"
+      },
+      "id": "c1-u07-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "passive-reporting",
+      "prompt": {
+        "ua": "Кажуть, що він дуже багатий.",
+        "ru": "Говорят, что он очень богат."
+      },
+      "answer": "He is said to be very rich.",
+      "accept": [
+        "It is said that he is very rich.",
+        "It's said that he's very rich.",
+        "He's said to be very rich."
+      ],
+      "explain": {
+        "ua": "Is said to be.",
+        "ru": "Is said to be."
+      },
+      "id": "c1-u07-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-forms",
+      "audio_text": "She hopes to be promoted.",
+      "options": [
+        "She hopes to be promoted.",
+        "She hopes to promote.",
+        "She hoped to be promoted."
+      ],
+      "answer": "She hopes to be promoted.",
+      "audio": "",
+      "explain": {
+        "ua": "To be promoted.",
+        "ru": "To be promoted."
+      },
+      "id": "c1-u07-cp12"
+    }
+  ]
+}

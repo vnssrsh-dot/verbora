@@ -1,0 +1,1002 @@
+{
+  "id": "c1-u05",
+  "level": "C1",
+  "order": 5,
+  "kind": "grammar",
+  "title": {
+    "en": "The subjunctive and unreal past",
+    "ua": "Умовний спосіб і нереальне минуле",
+    "ru": "Сослагательное наклонение"
+  },
+  "rule": {
+    "formula": {
+      "ua": "suggest / insist / recommend that + S + базова форма · It's time / I'd rather + S + Past · as if / as though",
+      "ru": "suggest / insist / recommend that + S + базовая форма · It's time / I'd rather + S + Past · as if / as though"
+    },
+    "explain": {
+      "ua": "Після suggest, insist, recommend, demand, it's essential that — дієслово без змін (навіть для he/she): I suggest that he see a doctor. Після It's time, I'd rather (про іншу людину), as if — минулий час, хоча мова про теперішнє.",
+      "ru": "После suggest, insist, recommend, demand, it's essential that — глагол без изменений (даже для he/she): I suggest that he see a doctor. После It's time, I'd rather (о другом человеке), as if — прошедшее время, хотя речь о настоящем."
+    },
+    "examples": [
+      {
+        "en": "The doctor recommended that she rest.",
+        "ua": "Лікар порадив їй відпочити.",
+        "ru": "Врач посоветовал ей отдохнуть."
+      },
+      {
+        "en": "It's time we went home.",
+        "ua": "Час нам іти додому.",
+        "ru": "Пора нам идти домой."
+      },
+      {
+        "en": "He talks as if he knew everything.",
+        "ua": "Він говорить так, ніби все знає.",
+        "ru": "Он говорит так, будто всё знает."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "suggest that",
+      "ipa": "/səˈdʒest ðæt/",
+      "ua": "пропонувати, щоб",
+      "ru": "предлагать, чтобы",
+      "example": "I suggest that he leave.",
+      "audio": ""
+    },
+    {
+      "word": "insist that",
+      "ipa": "/ɪnˈsɪst ðæt/",
+      "ua": "наполягати, щоб",
+      "ru": "настаивать, чтобы",
+      "example": "She insisted that I stay.",
+      "audio": ""
+    },
+    {
+      "word": "recommend that",
+      "ipa": "/ˌrekəˈmend ðæt/",
+      "ua": "радити, щоб",
+      "ru": "рекомендовать, чтобы",
+      "example": "We recommend that you book early.",
+      "audio": ""
+    },
+    {
+      "word": "demand that",
+      "ipa": "/dɪˈmɑːnd ðæt/",
+      "ua": "вимагати, щоб",
+      "ru": "требовать, чтобы",
+      "example": "They demanded that he resign.",
+      "audio": ""
+    },
+    {
+      "word": "it's essential that",
+      "ipa": "/ɪts ɪˈsenʃl ðæt/",
+      "ua": "важливо, щоб",
+      "ru": "важно, чтобы",
+      "example": "It's essential that everyone be on time.",
+      "audio": ""
+    },
+    {
+      "word": "it's (high) time",
+      "ipa": "/ɪts haɪ taɪm/",
+      "ua": "(давно) час",
+      "ru": "(давно) пора",
+      "example": "It's high time you got a job.",
+      "audio": ""
+    },
+    {
+      "word": "I'd rather",
+      "ipa": "/aɪd ˈrɑːðə/",
+      "ua": "я б краще",
+      "ru": "я бы лучше",
+      "example": "I'd rather you didn't smoke.",
+      "audio": ""
+    },
+    {
+      "word": "as if / as though",
+      "ipa": "/əz ɪf/ /əz ðəʊ/",
+      "ua": "ніби, наче",
+      "ru": "как будто",
+      "example": "She looks as if she's tired.",
+      "audio": ""
+    },
+    {
+      "word": "if need be",
+      "ipa": "/ɪf ˈniːd biː/",
+      "ua": "якщо буде потрібно",
+      "ru": "если понадобится",
+      "example": "I'll work late if need be.",
+      "audio": ""
+    },
+    {
+      "word": "be that as it may",
+      "ipa": "/ˌbiː ðæt əz ɪt ˈmeɪ/",
+      "ua": "хоч би як там було",
+      "ru": "как бы то ни было",
+      "example": "Be that as it may, we must decide.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u05-l01",
+      "title": {
+        "en": "suggest / insist that",
+        "ua": "suggest / insist that",
+        "ru": "suggest / insist that"
+      },
+      "recap": {
+        "from": "c1-u04-l03",
+        "note": {
+          "ua": "Згадаймо: Дебати й етика",
+          "ru": "Вспомним: Дебаты и этика"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Many people worry about their online ___ .",
+            "options": [
+              "privacy",
+              "evidence",
+              "breakthrough"
+            ],
+            "answer": "privacy",
+            "explain": {
+              "ua": "Privacy.",
+              "ru": "Privacy."
+            },
+            "id": "c1-u05-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "New research has ___ the old theory. It was wrong.",
+            "options": [
+              "disproved",
+              "proved",
+              "automated"
+            ],
+            "answer": "disproved",
+            "explain": {
+              "ua": "Disprove.",
+              "ru": "Disprove."
+            },
+            "id": "c1-u05-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "suggest / insist / recommend / demand / it's essential + that + S + базова форма (be, go, see)",
+          "ru": "suggest / insist / recommend / demand / it's essential + that + S + базовая форма (be, go, see)"
+        },
+        "explain": {
+          "ua": "He goes → I suggest that he go (без -s!). She is → It's essential that she be on time. Заперечення: that he not go. У британській розмовній часто кажуть should: I suggest that he should go — теж правильно.",
+          "ru": "He goes → I suggest that he go (без -s!). She is → It's essential that she be on time. Отрицание: that he not go. В британской разговорной часто говорят should: I suggest that he should go — тоже правильно."
+        },
+        "examples": [
+          {
+            "en": "I suggest that he apply for the job.",
+            "ua": "Я пропоную, щоб він подав заявку на роботу.",
+            "ru": "Я предлагаю, чтобы он подал заявку на работу."
+          },
+          {
+            "en": "They insisted that we stay for dinner.",
+            "ua": "Вони наполягли, щоб ми залишилися на вечерю.",
+            "ru": "Они настояли, чтобы мы остались на ужин."
+          },
+          {
+            "en": "It's important that she not be late.",
+            "ua": "Важливо, щоб вона не спізнилася.",
+            "ru": "Важно, чтобы она не опоздала."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "I suggest that he ___ a doctor.",
+          "options": [
+            "see",
+            "sees",
+            "saw"
+          ],
+          "answer": "see",
+          "explain": {
+            "ua": "Suggest that + базова форма.",
+            "ru": "Suggest that + базовая форма."
+          },
+          "id": "c1-u05-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "The teacher insisted that she ___ the test again.",
+          "options": [
+            "take",
+            "takes",
+            "took"
+          ],
+          "answer": "take",
+          "explain": {
+            "ua": "Insist that + take.",
+            "ru": "Insist that + take."
+          },
+          "id": "c1-u05-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "It's essential that everyone ___ on time.",
+          "options": [
+            "be",
+            "is",
+            "are"
+          ],
+          "answer": "be",
+          "explain": {
+            "ua": "Essential that + be.",
+            "ru": "Essential that + be."
+          },
+          "id": "c1-u05-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "We recommend that you ___ your tickets online.",
+          "options": [
+            "book",
+            "booked",
+            "to book"
+          ],
+          "answer": "book",
+          "explain": {
+            "ua": "Recommend that + book.",
+            "ru": "Recommend that + book."
+          },
+          "id": "c1-u05-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "They demanded that the manager ___ .",
+          "options": [
+            "resign",
+            "resigns",
+            "resigned"
+          ],
+          "answer": "resign",
+          "explain": {
+            "ua": "Demand that + resign.",
+            "ru": "Demand that + resign."
+          },
+          "id": "c1-u05-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "I suggest that he ___ go alone.",
+          "options": [
+            "not",
+            "doesn't",
+            "don't"
+          ],
+          "answer": "not",
+          "explain": {
+            "ua": "Заперечення → not + дієслово.",
+            "ru": "Отрицание → not + глагол."
+          },
+          "id": "c1-u05-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "subjunctive",
+          "sentence": "I suggest that she goes home.",
+          "answer": "I suggest that she go home.",
+          "accept": [
+            "I suggest that she should go home.",
+            "I suggest she go home."
+          ],
+          "explain": {
+            "ua": "Без -s.",
+            "ru": "Без -s."
+          },
+          "id": "c1-u05-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "subjunctive",
+          "sentence": "It's important that he is here.",
+          "answer": "It's important that he be here.",
+          "accept": [
+            "It's important that he should be here.",
+            "It is important that he be here."
+          ],
+          "explain": {
+            "ua": "Be.",
+            "ru": "Be."
+          },
+          "id": "c1-u05-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "subjunctive",
+          "prompt": {
+            "ua": "Лікар порадив, щоб він відпочив.",
+            "ru": "Врач посоветовал, чтобы он отдохнул."
+          },
+          "answer": "The doctor recommended that he rest.",
+          "accept": [
+            "The doctor recommended that he should rest.",
+            "The doctor suggested that he rest.",
+            "The doctor recommended he rest."
+          ],
+          "explain": {
+            "ua": "Recommend that + rest.",
+            "ru": "Recommend that + rest."
+          },
+          "id": "c1-u05-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u05-l02",
+      "title": {
+        "en": "It's time, I'd rather",
+        "ua": "It's time, I'd rather",
+        "ru": "It's time, I'd rather"
+      },
+      "recap": {
+        "from": "c1-u05-l01",
+        "note": {
+          "ua": "Згадаймо: suggest / insist / recommend / demand / it's essential + that + S + базова форма (be, go, see)",
+          "ru": "Вспомним: suggest / insist / recommend / demand / it's essential + that + S + базовая форма (be, go, see)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "subjunctive",
+            "question": "I suggest that he ___ a doctor.",
+            "options": [
+              "see",
+              "sees",
+              "saw"
+            ],
+            "answer": "see",
+            "explain": {
+              "ua": "Suggest that + базова форма.",
+              "ru": "Suggest that + базовая форма."
+            },
+            "id": "c1-u05-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "subjunctive",
+            "question": "They demanded that the manager ___ .",
+            "options": [
+              "resign",
+              "resigns",
+              "resigned"
+            ],
+            "answer": "resign",
+            "explain": {
+              "ua": "Demand that + resign.",
+              "ru": "Demand that + resign."
+            },
+            "id": "c1-u05-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "It's (high / about) time + S + Past · I'd rather + S + Past (про іншого) · I'd rather + дієслово (про себе)",
+          "ru": "It's (high / about) time + S + Past · I'd rather + S + Past (о другом) · I'd rather + глагол (о себе)"
+        },
+        "explain": {
+          "ua": "It's time we left — пора нам іти (минулий час, але про зараз). It's high time — «давно пора», з докором. I'd rather stay (я б краще залишилася) — але I'd rather you stayed (я б хотіла, щоб ти залишився).",
+          "ru": "It's time we left — пора нам идти (прошедшее время, но о сейчас). It's high time — «давно пора», с упрёком. I'd rather stay (я бы лучше осталась) — но I'd rather you stayed (я бы хотела, чтобы ты остался)."
+        },
+        "examples": [
+          {
+            "en": "It's high time you found a job.",
+            "ua": "Тобі давно час знайти роботу.",
+            "ru": "Тебе давно пора найти работу."
+          },
+          {
+            "en": "I'd rather you didn't tell anyone.",
+            "ua": "Я б не хотіла, щоб ти комусь казав.",
+            "ru": "Я бы не хотела, чтобы ты кому-то говорил."
+          },
+          {
+            "en": "I'd rather walk than take the bus.",
+            "ua": "Я б краще пішла пішки, ніж їхати автобусом.",
+            "ru": "Я бы лучше пошла пешком, чем ехать на автобусе."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "unreal-past",
+          "question": "It's time we ___ home.",
+          "options": [
+            "went",
+            "go",
+            "going"
+          ],
+          "answer": "went",
+          "explain": {
+            "ua": "It's time + Past.",
+            "ru": "It's time + Past."
+          },
+          "id": "c1-u05-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "unreal-past",
+          "question": "It's high time you ___ your room!",
+          "options": [
+            "cleaned",
+            "clean",
+            "will clean"
+          ],
+          "answer": "cleaned",
+          "explain": {
+            "ua": "High time + Past.",
+            "ru": "High time + Past."
+          },
+          "id": "c1-u05-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "unreal-past",
+          "question": "I'd rather you ___ smoke here.",
+          "options": [
+            "didn't",
+            "don't",
+            "won't"
+          ],
+          "answer": "didn't",
+          "explain": {
+            "ua": "I'd rather + інший + Past.",
+            "ru": "I'd rather + другой + Past."
+          },
+          "id": "c1-u05-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "unreal-past",
+          "question": "I'd rather ___ at home tonight.",
+          "options": [
+            "stay",
+            "stayed",
+            "to stay"
+          ],
+          "answer": "stay",
+          "explain": {
+            "ua": "Про себе → базова форма.",
+            "ru": "О себе → базовая форма."
+          },
+          "id": "c1-u05-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "unreal-past",
+          "question": "It's about time he ___ the truth.",
+          "options": [
+            "told",
+            "tells",
+            "tell"
+          ],
+          "answer": "told",
+          "explain": {
+            "ua": "About time + Past.",
+            "ru": "About time + Past."
+          },
+          "id": "c1-u05-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "unreal-past",
+          "pairs": [
+            {
+              "left": "It's time we…",
+              "right": {
+                "ua": "Час нам…",
+                "ru": "Пора нам…"
+              }
+            },
+            {
+              "left": "It's high time you…",
+              "right": {
+                "ua": "Давно час тобі…",
+                "ru": "Давно пора тебе…"
+              }
+            },
+            {
+              "left": "I'd rather stay.",
+              "right": {
+                "ua": "Я б краще залишилась.",
+                "ru": "Я бы лучше осталась."
+              }
+            },
+            {
+              "left": "I'd rather you stayed.",
+              "right": {
+                "ua": "Я б хотіла, щоб ти залишився.",
+                "ru": "Я бы хотела, чтобы ты остался."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "c1-u05-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "unreal-past",
+          "sentence": "It's time we go to bed.",
+          "answer": "It's time we went to bed.",
+          "accept": [
+            "It's time to go to bed.",
+            "It's time for us to go to bed."
+          ],
+          "explain": {
+            "ua": "It's time + Past.",
+            "ru": "It's time + Past."
+          },
+          "id": "c1-u05-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "unreal-past",
+          "sentence": "I'd rather you don't call me.",
+          "answer": "I'd rather you didn't call me.",
+          "accept": [],
+          "explain": {
+            "ua": "Past.",
+            "ru": "Past."
+          },
+          "id": "c1-u05-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "unreal-past",
+          "prompt": {
+            "ua": "Давно час тобі подорослішати.",
+            "ru": "Давно пора тебе повзрослеть."
+          },
+          "answer": "It's high time you grew up.",
+          "accept": [
+            "It's about time you grew up."
+          ],
+          "explain": {
+            "ua": "High time + Past.",
+            "ru": "High time + Past."
+          },
+          "id": "c1-u05-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u05-l03",
+      "title": {
+        "en": "as if, as though",
+        "ua": "as if, as though",
+        "ru": "as if, as though"
+      },
+      "recap": {
+        "from": "c1-u05-l02",
+        "note": {
+          "ua": "Згадаймо: It's (high / about) time + S + Past · I'd rather + S + Past (про іншого) · I'd rather + дієслово (про себе)",
+          "ru": "Вспомним: It's (high / about) time + S + Past · I'd rather + S + Past (о другом) · I'd rather + глагол (о себе)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "unreal-past",
+            "question": "It's time we ___ home.",
+            "options": [
+              "went",
+              "go",
+              "going"
+            ],
+            "answer": "went",
+            "explain": {
+              "ua": "It's time + Past.",
+              "ru": "It's time + Past."
+            },
+            "id": "c1-u05-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "unreal-past",
+            "question": "It's about time he ___ the truth.",
+            "options": [
+              "told",
+              "tells",
+              "tell"
+            ],
+            "answer": "told",
+            "explain": {
+              "ua": "About time + Past.",
+              "ru": "About time + Past."
+            },
+            "id": "c1-u05-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "look / sound / feel / act + as if / as though + речення · нереально → Past (were) · можливо правда → Present",
+          "ru": "look / sound / feel / act + as if / as though + предложение · нереально → Past (were) · возможно правда → Present"
+        },
+        "explain": {
+          "ua": "She looks as if she's tired — можливо, справді втомилася. He talks as if he were the boss — але він не начальник (нереально → were). Про минуле: as if he had seen a ghost.",
+          "ru": "She looks as if she's tired — возможно, правда устала. He talks as if he were the boss — но он не начальник (нереально → were). О прошлом: as if he had seen a ghost."
+        },
+        "examples": [
+          {
+            "en": "It looks as if it's going to rain.",
+            "ua": "Схоже, що буде дощ.",
+            "ru": "Похоже, что будет дождь."
+          },
+          {
+            "en": "He spends money as if he were a millionaire.",
+            "ua": "Він витрачає гроші так, ніби він мільйонер.",
+            "ru": "Он тратит деньги так, будто он миллионер."
+          },
+          {
+            "en": "You look as if you'd seen a ghost.",
+            "ua": "У тебе такий вигляд, наче ти побачив привида.",
+            "ru": "У тебя такой вид, будто ты увидел привидение."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "He acts as if he ___ the boss. (but he isn't)",
+          "options": [
+            "were",
+            "is",
+            "be"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Нереально → were.",
+            "ru": "Нереально → were."
+          },
+          "id": "c1-u05-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "It looks ___ it's going to snow.",
+          "options": [
+            "as if",
+            "like as",
+            "as"
+          ],
+          "answer": "as if",
+          "explain": {
+            "ua": "Looks as if.",
+            "ru": "Looks as if."
+          },
+          "id": "c1-u05-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "She looked as if she ___ crying. (earlier)",
+          "options": [
+            "had been",
+            "has been",
+            "is"
+          ],
+          "answer": "had been",
+          "explain": {
+            "ua": "Раніше → had been.",
+            "ru": "Раньше → had been."
+          },
+          "id": "c1-u05-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "You talk as though you ___ everything!",
+          "options": [
+            "knew",
+            "know",
+            "had know"
+          ],
+          "answer": "knew",
+          "explain": {
+            "ua": "Нереально → Past.",
+            "ru": "Нереально → Past."
+          },
+          "id": "c1-u05-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "I feel as if I ___ known you for years.",
+          "options": [
+            "had",
+            "have",
+            "would"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Нереальне минуле → had.",
+            "ru": "Нереальное прошлое → had."
+          },
+          "id": "c1-u05-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "as-if",
+          "question": "He spoke as ___ nothing had happened.",
+          "options": [
+            "though",
+            "if though",
+            "like"
+          ],
+          "answer": "though",
+          "explain": {
+            "ua": "As though.",
+            "ru": "As though."
+          },
+          "id": "c1-u05-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "as-if",
+          "sentence": "She talks as if she is a queen.",
+          "answer": "She talks as if she were a queen.",
+          "accept": [
+            "She talks as though she were a queen.",
+            "She talks as if she was a queen."
+          ],
+          "explain": {
+            "ua": "Нереально → were.",
+            "ru": "Нереально → were."
+          },
+          "id": "c1-u05-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "as-if",
+          "sentence": "He looked as if he has seen a ghost.",
+          "answer": "He looked as if he had seen a ghost.",
+          "accept": [
+            "He looked as though he had seen a ghost.",
+            "He looked as if he'd seen a ghost."
+          ],
+          "explain": {
+            "ua": "Had seen.",
+            "ru": "Had seen."
+          },
+          "id": "c1-u05-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "as-if",
+          "prompt": {
+            "ua": "Він поводиться так, ніби він тут господар.",
+            "ru": "Он ведёт себя так, будто он здесь хозяин."
+          },
+          "answer": "He behaves as if he owned the place.",
+          "accept": [
+            "He acts as if he owned the place.",
+            "He behaves as though he owned the place.",
+            "He acts as if he were the owner.",
+            "He behaves as if he were the owner here."
+          ],
+          "explain": {
+            "ua": "As if + Past.",
+            "ru": "As if + Past."
+          },
+          "id": "c1-u05-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "subjunctive",
+      "question": "I suggest that she ___ earlier.",
+      "options": [
+        "leave",
+        "leaves",
+        "left"
+      ],
+      "answer": "leave",
+      "explain": {
+        "ua": "Базова форма.",
+        "ru": "Базовая форма."
+      },
+      "id": "c1-u05-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "subjunctive",
+      "question": "It's essential that he ___ informed.",
+      "options": [
+        "be",
+        "is",
+        "was"
+      ],
+      "answer": "be",
+      "explain": {
+        "ua": "Be.",
+        "ru": "Be."
+      },
+      "id": "c1-u05-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "unreal-past",
+      "question": "It's time we ___ a decision.",
+      "options": [
+        "made",
+        "make",
+        "will make"
+      ],
+      "answer": "made",
+      "explain": {
+        "ua": "It's time + Past.",
+        "ru": "It's time + Past."
+      },
+      "id": "c1-u05-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "unreal-past",
+      "question": "I'd rather you ___ tell her.",
+      "options": [
+        "didn't",
+        "don't",
+        "not"
+      ],
+      "answer": "didn't",
+      "explain": {
+        "ua": "Didn't.",
+        "ru": "Didn't."
+      },
+      "id": "c1-u05-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "as-if",
+      "question": "He talks as if he ___ an expert.",
+      "options": [
+        "were",
+        "is being",
+        "be"
+      ],
+      "answer": "were",
+      "explain": {
+        "ua": "Were.",
+        "ru": "Were."
+      },
+      "id": "c1-u05-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "subjunctive",
+      "question": "They insisted that he ___ (stay) for dinner.",
+      "answer": "stay",
+      "accept": [
+        "should stay"
+      ],
+      "explain": {
+        "ua": "Stay.",
+        "ru": "Stay."
+      },
+      "id": "c1-u05-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "unreal-past",
+      "question": "It's high time you ___ (get) a haircut.",
+      "answer": "got",
+      "accept": [],
+      "explain": {
+        "ua": "Got.",
+        "ru": "Got."
+      },
+      "id": "c1-u05-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "subjunctive",
+      "sentence": "I recommend that he takes a break.",
+      "answer": "I recommend that he take a break.",
+      "accept": [
+        "I recommend that he should take a break.",
+        "I recommend he take a break."
+      ],
+      "explain": {
+        "ua": "Без -s.",
+        "ru": "Без -s."
+      },
+      "id": "c1-u05-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "unreal-past",
+      "sentence": "I'd rather to stay at home.",
+      "answer": "I'd rather stay at home.",
+      "accept": [],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "c1-u05-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "as-if",
+      "words": [
+        "looks",
+        "going",
+        "it",
+        "It",
+        "to",
+        "is",
+        "rain",
+        "as",
+        "if"
+      ],
+      "answer": "It looks as if it is going to rain",
+      "explain": {
+        "ua": "Looks as if → …",
+        "ru": "Looks as if → …"
+      },
+      "id": "c1-u05-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "unreal-past",
+      "prompt": {
+        "ua": "Час нам вирішувати.",
+        "ru": "Пора нам решать."
+      },
+      "answer": "It's time we decided.",
+      "accept": [
+        "It's time we made a decision.",
+        "It's time to decide.",
+        "It's time for us to decide."
+      ],
+      "explain": {
+        "ua": "Past.",
+        "ru": "Past."
+      },
+      "id": "c1-u05-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "unreal-past",
+      "audio_text": "I'd rather you didn't.",
+      "options": [
+        "I'd rather you didn't.",
+        "I'd rather you did.",
+        "I'd rather you don't."
+      ],
+      "answer": "I'd rather you didn't.",
+      "audio": "",
+      "explain": {
+        "ua": "I'd rather you didn't.",
+        "ru": "I'd rather you didn't."
+      },
+      "id": "c1-u05-cp12"
+    }
+  ]
+}

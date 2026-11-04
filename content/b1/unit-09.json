@@ -1,0 +1,1554 @@
+{
+  "id": "b1-u09",
+  "level": "B1",
+  "order": 9,
+  "kind": "vocab",
+  "title": {
+    "en": "Housing and renting",
+    "ua": "Житло й оренда",
+    "ru": "Жильё и аренда"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "rent",
+      "ipa": "/rent/",
+      "ua": "орендувати; орендна плата",
+      "ru": "снимать; арендная плата",
+      "example": "The rent is 500 euros.",
+      "audio": ""
+    },
+    {
+      "word": "landlord",
+      "ipa": "/ˈlændlɔːd/",
+      "ua": "орендодавець",
+      "ru": "арендодатель",
+      "example": "My landlord is nice.",
+      "audio": ""
+    },
+    {
+      "word": "tenant",
+      "ipa": "/ˈtenənt/",
+      "ua": "орендар",
+      "ru": "арендатор, жилец",
+      "example": "The tenants pay on time.",
+      "audio": ""
+    },
+    {
+      "word": "flatmate",
+      "ipa": "/ˈflætmeɪt/",
+      "ua": "сусід по квартирі",
+      "ru": "сосед по квартире",
+      "example": "I live with two flatmates.",
+      "audio": ""
+    },
+    {
+      "word": "neighbour",
+      "ipa": "/ˈneɪbə/",
+      "ua": "сусід",
+      "ru": "сосед",
+      "example": "Our neighbours are noisy.",
+      "audio": ""
+    },
+    {
+      "word": "contract",
+      "ipa": "/ˈkɒntrækt/",
+      "ua": "договір",
+      "ru": "договор",
+      "example": "Sign the contract.",
+      "audio": ""
+    },
+    {
+      "word": "deposit",
+      "ipa": "/dɪˈpɒzɪt/",
+      "ua": "застава",
+      "ru": "залог",
+      "example": "a deposit of one month's rent",
+      "audio": ""
+    },
+    {
+      "word": "bills",
+      "ipa": "/bɪlz/",
+      "ua": "рахунки (комунальні)",
+      "ru": "счета (коммунальные)",
+      "example": "Are bills included?",
+      "audio": ""
+    },
+    {
+      "word": "furnished",
+      "ipa": "/ˈfɜːnɪʃt/",
+      "ua": "з меблями",
+      "ru": "с мебелью",
+      "example": "a furnished flat",
+      "audio": ""
+    },
+    {
+      "word": "unfurnished",
+      "ipa": "/ʌnˈfɜːnɪʃt/",
+      "ua": "без меблів",
+      "ru": "без мебели",
+      "example": "The flat is unfurnished.",
+      "audio": ""
+    },
+    {
+      "word": "move in / move out",
+      "ipa": "/ˌmuːv ˈɪn/ /ˌmuːv ˈaʊt/",
+      "ua": "в'їхати / виїхати",
+      "ru": "въехать / выехать",
+      "example": "We moved in last week.",
+      "audio": ""
+    },
+    {
+      "word": "estate agent",
+      "ipa": "/ɪˈsteɪt ˌeɪdʒənt/",
+      "ua": "ріелтор",
+      "ru": "риелтор",
+      "example": "Call the estate agent.",
+      "audio": ""
+    },
+    {
+      "word": "viewing",
+      "ipa": "/ˈvjuːɪŋ/",
+      "ua": "перегляд (житла)",
+      "ru": "просмотр (жилья)",
+      "example": "a viewing at 5 pm",
+      "audio": ""
+    },
+    {
+      "word": "heating",
+      "ipa": "/ˈhiːtɪŋ/",
+      "ua": "опалення",
+      "ru": "отопление",
+      "example": "The heating doesn't work.",
+      "audio": ""
+    },
+    {
+      "word": "leak",
+      "ipa": "/liːk/",
+      "ua": "протікати; протікання",
+      "ru": "протекать; течь",
+      "example": "The tap is leaking.",
+      "audio": ""
+    },
+    {
+      "word": "broken",
+      "ipa": "/ˈbrəʊkən/",
+      "ua": "зламаний",
+      "ru": "сломанный",
+      "example": "The washing machine is broken.",
+      "audio": ""
+    },
+    {
+      "word": "fix / repair",
+      "ipa": "/fɪks/ /rɪˈpeə/",
+      "ua": "лагодити",
+      "ru": "чинить",
+      "example": "Can you fix the heating?",
+      "audio": ""
+    },
+    {
+      "word": "plumber",
+      "ipa": "/ˈplʌmə/",
+      "ua": "сантехнік",
+      "ru": "сантехник",
+      "example": "Call a plumber.",
+      "audio": ""
+    },
+    {
+      "word": "noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "ua": "шумний",
+      "ru": "шумный",
+      "example": "a noisy street",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u09-l01",
+      "title": {
+        "en": "Renting a flat",
+        "ua": "Оренда квартири",
+        "ru": "Аренда квартиры"
+      },
+      "recap": {
+        "from": "b1-u08-l04",
+        "note": {
+          "ua": "Згадаймо: пасив — коли головне ЩО, а не ХТО · by + виконавець — лише якщо важливо",
+          "ru": "Вспомним: пассив — когда главное ЧТО, а не КТО · by + исполнитель — только если важно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-by",
+            "question": "The Mona Lisa was painted ___ Leonardo da Vinci.",
+            "options": [
+              "by",
+              "from",
+              "with"
+            ],
+            "answer": "by",
+            "explain": {
+              "ua": "Ким — by.",
+              "ru": "Кем — by."
+            },
+            "id": "b1-u09-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-by",
+            "question": "Shevchenko ___ Kobzar.",
+            "options": [
+              "wrote",
+              "was written",
+              "is written"
+            ],
+            "answer": "wrote",
+            "explain": {
+              "ua": "Активний: Шевченко написав.",
+              "ru": "Активный: Шевченко написал."
+            },
+            "id": "b1-u09-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "rent",
+              "right": {
+                "ua": "оренда",
+                "ru": "аренда"
+              }
+            },
+            {
+              "left": "landlord",
+              "right": {
+                "ua": "орендодавець",
+                "ru": "арендодатель"
+              }
+            },
+            {
+              "left": "tenant",
+              "right": {
+                "ua": "орендар",
+                "ru": "жилец"
+              }
+            },
+            {
+              "left": "flatmate",
+              "right": {
+                "ua": "сусід по квартирі",
+                "ru": "сосед по квартире"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u09-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The person who owns the flat and gets the rent is the ___ .",
+          "options": [
+            "landlord",
+            "tenant",
+            "flatmate"
+          ],
+          "answer": "landlord",
+          "explain": {
+            "ua": "Landlord.",
+            "ru": "Landlord."
+          },
+          "id": "b1-u09-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The person who rents the flat is the ___ .",
+          "options": [
+            "tenant",
+            "landlord",
+            "plumber"
+          ],
+          "answer": "tenant",
+          "explain": {
+            "ua": "Tenant.",
+            "ru": "Tenant."
+          },
+          "id": "b1-u09-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "How much is the ___ ? — 600 euros a month.",
+          "options": [
+            "rent",
+            "deposit",
+            "contract"
+          ],
+          "answer": "rent",
+          "explain": {
+            "ua": "Rent — щомісячна оплата.",
+            "ru": "Rent — ежемесячная оплата."
+          },
+          "id": "b1-u09-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I share a flat with two ___ .",
+          "options": [
+            "flatmates",
+            "landlords",
+            "neighbours"
+          ],
+          "answer": "flatmates",
+          "explain": {
+            "ua": "Flatmates.",
+            "ru": "Flatmates."
+          },
+          "id": "b1-u09-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The people who live next to you.",
+          "answer": "neighbours",
+          "accept": [
+            "neighbors",
+            "neighbour",
+            "neighbor"
+          ],
+          "explain": {
+            "ua": "Neighbours.",
+            "ru": "Neighbours."
+          },
+          "id": "b1-u09-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I rent a flat from my tenant.",
+          "answer": "I rent a flat from my landlord.",
+          "accept": [],
+          "explain": {
+            "ua": "Орендуємо в landlord.",
+            "ru": "Снимаем у landlord."
+          },
+          "id": "b1-u09-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈlændlɔːd/",
+          "options": [
+            "landlord",
+            "landmark",
+            "lord"
+          ],
+          "answer": "landlord",
+          "explain": {
+            "ua": "Land + lord.",
+            "ru": "Land + lord."
+          },
+          "id": "b1-u09-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми знімаємо квартиру в центрі.",
+            "ru": "Мы снимаем квартиру в центре."
+          },
+          "answer": "We rent a flat in the centre.",
+          "accept": [
+            "We rent a flat in the center.",
+            "We rent an apartment in the centre.",
+            "We rent an apartment in the center."
+          ],
+          "explain": {
+            "ua": "Rent a flat.",
+            "ru": "Rent a flat."
+          },
+          "id": "b1-u09-l01-e09"
+        }
+      ],
+      "words": [
+        "rent",
+        "landlord",
+        "tenant",
+        "flatmate",
+        "neighbour"
+      ]
+    },
+    {
+      "id": "b1-u09-l02",
+      "title": {
+        "en": "The contract",
+        "ua": "Договір",
+        "ru": "Договор"
+      },
+      "recap": {
+        "from": "b1-u09-l01",
+        "note": {
+          "ua": "Згадаймо: Оренда квартири",
+          "ru": "Вспомним: Аренда квартиры"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The person who owns the flat and gets the rent is the ___ .",
+            "options": [
+              "landlord",
+              "tenant",
+              "flatmate"
+            ],
+            "answer": "landlord",
+            "explain": {
+              "ua": "Landlord.",
+              "ru": "Landlord."
+            },
+            "id": "b1-u09-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I share a flat with two ___ .",
+            "options": [
+              "flatmates",
+              "landlords",
+              "neighbours"
+            ],
+            "answer": "flatmates",
+            "explain": {
+              "ua": "Flatmates.",
+              "ru": "Flatmates."
+            },
+            "id": "b1-u09-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "contract",
+              "right": {
+                "ua": "договір",
+                "ru": "договор"
+              }
+            },
+            {
+              "left": "deposit",
+              "right": {
+                "ua": "застава",
+                "ru": "залог"
+              }
+            },
+            {
+              "left": "bills",
+              "right": {
+                "ua": "рахунки",
+                "ru": "счета"
+              }
+            },
+            {
+              "left": "furnished",
+              "right": {
+                "ua": "з меблями",
+                "ru": "с мебелью"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u09-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Are ___ included in the rent? — No, you pay for electricity and water.",
+          "options": [
+            "bills",
+            "deposits",
+            "contracts"
+          ],
+          "answer": "bills",
+          "explain": {
+            "ua": "Bills.",
+            "ru": "Bills."
+          },
+          "id": "b1-u09-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You pay a ___ before you move in. You get it back when you leave.",
+          "options": [
+            "deposit",
+            "bill",
+            "rent"
+          ],
+          "answer": "deposit",
+          "explain": {
+            "ua": "Deposit — застава.",
+            "ru": "Deposit — залог."
+          },
+          "id": "b1-u09-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The flat has a bed, a sofa and a table. It's ___ .",
+          "options": [
+            "furnished",
+            "unfurnished",
+            "broken"
+          ],
+          "answer": "furnished",
+          "explain": {
+            "ua": "Furnished.",
+            "ru": "Furnished."
+          },
+          "id": "b1-u09-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We ___ on 1 May and moved out in December.",
+          "options": [
+            "moved in",
+            "moved out",
+            "moved on"
+          ],
+          "answer": "moved in",
+          "explain": {
+            "ua": "Move in — в'їхати.",
+            "ru": "Move in — въехать."
+          },
+          "id": "b1-u09-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I have a ___ with an estate agent at 5 pm to see the flat.",
+          "options": [
+            "viewing",
+            "bill",
+            "deposit"
+          ],
+          "answer": "viewing",
+          "explain": {
+            "ua": "Viewing — перегляд.",
+            "ru": "Viewing — просмотр."
+          },
+          "id": "b1-u09-l02-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who helps you to find, buy or rent a flat.",
+          "answer": "estate agent",
+          "accept": [
+            "an estate agent",
+            "real estate agent",
+            "agent",
+            "realtor"
+          ],
+          "explain": {
+            "ua": "Estate agent.",
+            "ru": "Estate agent."
+          },
+          "id": "b1-u09-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-questions",
+          "sentence": "Are the bills include?",
+          "answer": "Are the bills included?",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив — included.",
+            "ru": "Пассив — included."
+          },
+          "id": "b1-u09-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Комунальні послуги включено?",
+            "ru": "Коммунальные услуги включены?"
+          },
+          "answer": "Are bills included?",
+          "accept": [
+            "Are the bills included?",
+            "Are utilities included?"
+          ],
+          "explain": {
+            "ua": "Are … included?",
+            "ru": "Are … included?"
+          },
+          "id": "b1-u09-l02-e09"
+        }
+      ],
+      "words": [
+        "contract",
+        "deposit",
+        "bills",
+        "furnished",
+        "unfurnished",
+        "move in / move out",
+        "estate agent",
+        "viewing"
+      ]
+    },
+    {
+      "id": "b1-u09-l03",
+      "title": {
+        "en": "Problems in the flat",
+        "ua": "Проблеми в квартирі",
+        "ru": "Проблемы в квартире"
+      },
+      "recap": {
+        "from": "b1-u09-l02",
+        "note": {
+          "ua": "Згадаймо: Договір",
+          "ru": "Вспомним: Договор"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Are ___ included in the rent? — No, you pay for electricity and water.",
+            "options": [
+              "bills",
+              "deposits",
+              "contracts"
+            ],
+            "answer": "bills",
+            "explain": {
+              "ua": "Bills.",
+              "ru": "Bills."
+            },
+            "id": "b1-u09-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I have a ___ with an estate agent at 5 pm to see the flat.",
+            "options": [
+              "viewing",
+              "bill",
+              "deposit"
+            ],
+            "answer": "viewing",
+            "explain": {
+              "ua": "Viewing — перегляд.",
+              "ru": "Viewing — просмотр."
+            },
+            "id": "b1-u09-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "heating",
+              "right": {
+                "ua": "опалення",
+                "ru": "отопление"
+              }
+            },
+            {
+              "left": "leak",
+              "right": {
+                "ua": "протікати",
+                "ru": "протекать"
+              }
+            },
+            {
+              "left": "broken",
+              "right": {
+                "ua": "зламаний",
+                "ru": "сломанный"
+              }
+            },
+            {
+              "left": "plumber",
+              "right": {
+                "ua": "сантехнік",
+                "ru": "сантехник"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u09-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Water is coming through the ceiling! The roof is ___ .",
+          "options": [
+            "leaking",
+            "broken down",
+            "heating"
+          ],
+          "answer": "leaking",
+          "explain": {
+            "ua": "Leak.",
+            "ru": "Leak."
+          },
+          "id": "b1-u09-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's freezing in the flat. The ___ doesn't work.",
+          "options": [
+            "heating",
+            "plumber",
+            "deposit"
+          ],
+          "answer": "heating",
+          "explain": {
+            "ua": "Heating.",
+            "ru": "Heating."
+          },
+          "id": "b1-u09-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The tap is leaking. We need a ___ .",
+          "options": [
+            "plumber",
+            "landlord",
+            "flatmate"
+          ],
+          "answer": "plumber",
+          "explain": {
+            "ua": "Plumber.",
+            "ru": "Plumber."
+          },
+          "id": "b1-u09-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The washing machine is ___ . Can you fix it?",
+          "options": [
+            "broken",
+            "noisy",
+            "furnished"
+          ],
+          "answer": "broken",
+          "explain": {
+            "ua": "Broken.",
+            "ru": "Broken."
+          },
+          "id": "b1-u09-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Our neighbours play loud music. They're very ___ .",
+          "options": [
+            "noisy",
+            "broken",
+            "furnished"
+          ],
+          "answer": "noisy",
+          "explain": {
+            "ua": "Noisy.",
+            "ru": "Noisy."
+          },
+          "id": "b1-u09-l03-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "fix",
+            "leaking",
+            "broken",
+            "heating"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The tap is ___.",
+            "The fridge is ___.",
+            "The ___ isn't working.",
+            "Can you ___ it?"
+          ],
+          "answers": [
+            "leaking",
+            "broken",
+            "heating",
+            "fix"
+          ],
+          "explain": {
+            "ua": "Проблеми.",
+            "ru": "Проблемы."
+          },
+          "id": "b1-u09-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The washing machine is broke.",
+          "answer": "The washing machine is broken.",
+          "accept": [
+            "The washing machine has broken."
+          ],
+          "explain": {
+            "ua": "Broken.",
+            "ru": "Broken."
+          },
+          "id": "b1-u09-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Опалення не працює.",
+            "ru": "Отопление не работает."
+          },
+          "answer": "The heating doesn't work.",
+          "accept": [
+            "The heating isn't working.",
+            "The heating does not work."
+          ],
+          "explain": {
+            "ua": "Heating.",
+            "ru": "Heating."
+          },
+          "id": "b1-u09-l03-e09"
+        }
+      ],
+      "words": [
+        "heating",
+        "leak",
+        "broken",
+        "fix / repair",
+        "plumber",
+        "noisy"
+      ]
+    },
+    {
+      "id": "b1-u09-l04",
+      "title": {
+        "en": "In context: calling the landlord",
+        "ua": "У контексті: дзвінок орендодавцю",
+        "ru": "В контексте: звонок арендодателю"
+      },
+      "recap": {
+        "from": "b1-u09-l03",
+        "note": {
+          "ua": "Згадаймо: Проблеми в квартирі",
+          "ru": "Вспомним: Проблемы в квартире"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Water is coming through the ceiling! The roof is ___ .",
+            "options": [
+              "leaking",
+              "broken down",
+              "heating"
+            ],
+            "answer": "leaking",
+            "explain": {
+              "ua": "Leak.",
+              "ru": "Leak."
+            },
+            "id": "b1-u09-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The washing machine is ___ . Can you fix it?",
+            "options": [
+              "broken",
+              "noisy",
+              "furnished"
+            ],
+            "answer": "broken",
+            "explain": {
+              "ua": "Broken.",
+              "ru": "Broken."
+            },
+            "id": "b1-u09-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What's the problem in the bathroom?",
+              "options": [
+                "the shower is leaking",
+                "the heating is broken",
+                "the window is broken"
+              ],
+              "answer": "the shower is leaking"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The landlord will send a plumber tomorrow.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ira wants to move out.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "When does the contract end?",
+              "options": [
+                "in August",
+                "next week",
+                "in December"
+              ],
+              "answer": "in August"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ira",
+              "line": "Hello, Mr Brown. It's Ira from flat 5. The shower is leaking and there's water on the floor."
+            },
+            {
+              "speaker": "Landlord",
+              "line": "Oh no! I'll send a plumber tomorrow at 10. Will you be at home?"
+            },
+            {
+              "speaker": "Ira",
+              "line": "Yes, I will. And the heating isn't working well."
+            },
+            {
+              "speaker": "Landlord",
+              "line": "OK, he'll check it too."
+            },
+            {
+              "speaker": "Ira",
+              "line": "Thank you. Also, my contract ends in August. I'd like to stay another year."
+            },
+            {
+              "speaker": "Landlord",
+              "line": "Great! You're a good tenant."
+            }
+          ],
+          "explain": {
+            "ua": "Shower leaking; plumber tomorrow at 10; contract until August; she'd like to stay.",
+            "ru": "Shower leaking; plumber tomorrow at 10; contract until August; she'd like to stay."
+          },
+          "id": "b1-u09-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "leaking",
+            "plumber",
+            "heating",
+            "contract"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The shower is ___.",
+            "A ___ will come tomorrow.",
+            "The ___ isn't working well.",
+            "Her ___ ends in August."
+          ],
+          "answers": [
+            "leaking",
+            "plumber",
+            "heating",
+            "contract"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u09-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "It's Ira from flat 5.",
+              "right": {
+                "ua": "Це Іра з п'ятої квартири.",
+                "ru": "Это Ира из пятой квартиры."
+              }
+            },
+            {
+              "left": "I'll send…",
+              "right": {
+                "ua": "Я надішлю…",
+                "ru": "Я пришлю…"
+              }
+            },
+            {
+              "left": "another year",
+              "right": {
+                "ua": "ще один рік",
+                "ru": "ещё один год"
+              }
+            },
+            {
+              "left": "check",
+              "right": {
+                "ua": "перевірити",
+                "ru": "проверить"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "b1-u09-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "The landlord ___ a plumber tomorrow.",
+          "options": [
+            "will send",
+            "sends",
+            "sent"
+          ],
+          "answer": "will send",
+          "explain": {
+            "ua": "Рішення / обіцянка → will.",
+            "ru": "Решение / обещание → will."
+          },
+          "id": "b1-u09-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The shower leaks and there is water in the floor.",
+          "answer": "The shower is leaking and there is water on the floor.",
+          "accept": [
+            "The shower is leaking and there's water on the floor."
+          ],
+          "explain": {
+            "ua": "Зараз → -ing; на підлозі — on the floor.",
+            "ru": "Сейчас → -ing; на полу — on the floor."
+          },
+          "id": "b1-u09-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-time",
+          "sentence": "My contract finishes on August.",
+          "answer": "My contract ends in August.",
+          "accept": [
+            "My contract finishes in August."
+          ],
+          "explain": {
+            "ua": "Місяць — in.",
+            "ru": "Месяц — in."
+          },
+          "id": "b1-u09-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I'll send a plumber tomorrow.",
+          "options": [
+            "I'll send a plumber tomorrow.",
+            "I'll send a plumber today.",
+            "I'll sent a plumber tomorrow."
+          ],
+          "answer": "I'll send a plumber tomorrow.",
+          "audio": "",
+          "explain": {
+            "ua": "Plumber — «пламер», b не читається.",
+            "ru": "Plumber — «пламер», b не читается."
+          },
+          "id": "b1-u09-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я хотіла б залишитися ще на рік.",
+            "ru": "Я хотела бы остаться ещё на год."
+          },
+          "answer": "I'd like to stay another year.",
+          "accept": [
+            "I would like to stay another year.",
+            "I'd like to stay for another year.",
+            "I would like to stay for another year."
+          ],
+          "explain": {
+            "ua": "I'd like to stay.",
+            "ru": "I'd like to stay."
+          },
+          "id": "b1-u09-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u09-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u09-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: дзвінок орендодавцю",
+          "ru": "Вспомним: В контексте: звонок арендодателю"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will",
+            "question": "The landlord ___ a plumber tomorrow.",
+            "options": [
+              "will send",
+              "sends",
+              "sent"
+            ],
+            "answer": "will send",
+            "explain": {
+              "ua": "Рішення / обіцянка → will.",
+              "ru": "Решение / обещание → will."
+            },
+            "id": "b1-u09-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "prepositions-time",
+            "sentence": "My contract finishes on August.",
+            "answer": "My contract ends in August.",
+            "accept": [
+              "My contract finishes in August."
+            ],
+            "explain": {
+              "ua": "Місяць — in.",
+              "ru": "Месяц — in."
+            },
+            "id": "b1-u09-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "unfurnished",
+              "right": {
+                "ua": "без меблів",
+                "ru": "без мебели"
+              }
+            },
+            {
+              "left": "move out",
+              "right": {
+                "ua": "виїхати",
+                "ru": "выехать"
+              }
+            },
+            {
+              "left": "estate agent",
+              "right": {
+                "ua": "ріелтор",
+                "ru": "риелтор"
+              }
+            },
+            {
+              "left": "noisy",
+              "right": {
+                "ua": "шумний",
+                "ru": "шумный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u09-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a person?",
+          "options": [
+            "tenant",
+            "deposit",
+            "heating"
+          ],
+          "answer": "tenant",
+          "explain": {
+            "ua": "Tenant — людина.",
+            "ru": "Tenant — человек."
+          },
+          "id": "b1-u09-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is money?",
+          "options": [
+            "deposit",
+            "plumber",
+            "viewing"
+          ],
+          "answer": "deposit",
+          "explain": {
+            "ua": "Deposit — гроші.",
+            "ru": "Deposit — деньги."
+          },
+          "id": "b1-u09-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A paper you sign with your landlord.",
+          "answer": "contract",
+          "accept": [
+            "a contract",
+            "tenancy agreement",
+            "lease"
+          ],
+          "explain": {
+            "ua": "Contract.",
+            "ru": "Contract."
+          },
+          "id": "b1-u09-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Water, gas and electricity you pay for every month.",
+          "answer": "bills",
+          "accept": [
+            "utilities",
+            "the bills"
+          ],
+          "explain": {
+            "ua": "Bills.",
+            "ru": "Bills."
+          },
+          "id": "b1-u09-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "tap",
+          "answer": "plumber",
+          "accept": [
+            "leak",
+            "water"
+          ],
+          "explain": {
+            "ua": "Кран → сантехнік.",
+            "ru": "Кран → сантехник."
+          },
+          "id": "b1-u09-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm living with two neighbours in one flat.",
+          "answer": "I'm living with two flatmates in one flat.",
+          "accept": [
+            "I live with two flatmates in one flat."
+          ],
+          "explain": {
+            "ua": "В одній квартирі — flatmates.",
+            "ru": "В одной квартире — flatmates."
+          },
+          "id": "b1-u09-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Is the flat furnished?",
+          "options": [
+            "Is the flat furnished?",
+            "Is the flat finished?",
+            "Is the flat furniture?"
+          ],
+          "answer": "Is the flat furnished?",
+          "audio": "",
+          "explain": {
+            "ua": "Furnished — з меблями.",
+            "ru": "Furnished — с мебелью."
+          },
+          "id": "b1-u09-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Нам потрібно викликати сантехніка.",
+            "ru": "Нам нужно вызвать сантехника."
+          },
+          "answer": "We need to call a plumber.",
+          "accept": [
+            "We have to call a plumber.",
+            "We need a plumber."
+          ],
+          "explain": {
+            "ua": "Call a plumber.",
+            "ru": "Call a plumber."
+          },
+          "id": "b1-u09-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "The person who owns the flat is the ___ .",
+      "options": [
+        "landlord",
+        "tenant",
+        "flatmate"
+      ],
+      "answer": "landlord",
+      "explain": {
+        "ua": "Landlord.",
+        "ru": "Landlord."
+      },
+      "id": "b1-u09-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Are ___ included? — Yes, water and electricity.",
+      "options": [
+        "bills",
+        "deposits",
+        "tenants"
+      ],
+      "answer": "bills",
+      "explain": {
+        "ua": "Bills.",
+        "ru": "Bills."
+      },
+      "id": "b1-u09-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "The tap is ___ .",
+      "options": [
+        "leaking",
+        "furnished",
+        "noisy"
+      ],
+      "answer": "leaking",
+      "explain": {
+        "ua": "Leaking.",
+        "ru": "Leaking."
+      },
+      "id": "b1-u09-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Money you pay before you move in and get back later.",
+      "answer": "deposit",
+      "accept": [
+        "a deposit"
+      ],
+      "explain": {
+        "ua": "Deposit.",
+        "ru": "Deposit."
+      },
+      "id": "b1-u09-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who fixes taps and pipes.",
+      "answer": "plumber",
+      "accept": [
+        "a plumber"
+      ],
+      "explain": {
+        "ua": "Plumber.",
+        "ru": "Plumber."
+      },
+      "id": "b1-u09-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "We moved ___ last week.",
+      "answer": "in",
+      "accept": [],
+      "explain": {
+        "ua": "Move in.",
+        "ru": "Move in."
+      },
+      "id": "b1-u09-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "rent",
+          "right": {
+            "ua": "оренда",
+            "ru": "аренда"
+          }
+        },
+        {
+          "left": "heating",
+          "right": {
+            "ua": "опалення",
+            "ru": "отопление"
+          }
+        },
+        {
+          "left": "contract",
+          "right": {
+            "ua": "договір",
+            "ru": "договор"
+          }
+        },
+        {
+          "left": "broken",
+          "right": {
+            "ua": "зламаний",
+            "ru": "сломанный"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u09-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The flat is with furniture.",
+      "answer": "The flat is furnished.",
+      "accept": [
+        "The flat has furniture."
+      ],
+      "explain": {
+        "ua": "Furnished.",
+        "ru": "Furnished."
+      },
+      "id": "b1-u09-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The heating doesn't works.",
+      "answer": "The heating doesn't work.",
+      "accept": [
+        "The heating isn't working."
+      ],
+      "explain": {
+        "ua": "Doesn't + work.",
+        "ru": "Doesn't + work."
+      },
+      "id": "b1-u09-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "two",
+        "a",
+        "friends",
+        "with",
+        "flat",
+        "I",
+        "share"
+      ],
+      "answer": "I share a flat with two friends",
+      "explain": {
+        "ua": "Share a flat → with two friends.",
+        "ru": "Share a flat → with two friends."
+      },
+      "id": "b1-u09-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Скільки коштує оренда?",
+        "ru": "Сколько стоит аренда?"
+      },
+      "answer": "How much is the rent?",
+      "accept": [
+        "How much is the rent?",
+        "What's the rent?"
+      ],
+      "explain": {
+        "ua": "How much is…?",
+        "ru": "How much is…?"
+      },
+      "id": "b1-u09-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Our neighbours are very noisy.",
+      "options": [
+        "Our neighbours are very noisy.",
+        "Our neighbours are very nosy.",
+        "Our neighbour is very noisy."
+      ],
+      "answer": "Our neighbours are very noisy.",
+      "audio": "",
+      "explain": {
+        "ua": "Noisy.",
+        "ru": "Noisy."
+      },
+      "id": "b1-u09-cp12"
+    }
+  ]
+}

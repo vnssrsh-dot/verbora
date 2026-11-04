@@ -1,0 +1,1047 @@
+{
+  "id": "a2-u16",
+  "level": "A2",
+  "order": 16,
+  "kind": "grammar",
+  "title": {
+    "en": "Should for advice",
+    "ua": "Should — порада",
+    "ru": "Should — совет"
+  },
+  "rule": {
+    "formula": {
+      "ua": "should / shouldn't + дієслово — порада",
+      "ru": "should / shouldn't + глагол — совет"
+    },
+    "explain": {
+      "ua": "Should — «варто, слід». Так даємо пораду: You should see a doctor. Однаково для всіх, без to: she should go.",
+      "ru": "Should — «стоит, следует». Так даём совет: You should see a doctor. Одинаково для всех, без to: she should go."
+    },
+    "examples": [
+      {
+        "en": "You should sleep more.",
+        "ua": "Тобі варто більше спати.",
+        "ru": "Тебе стоит больше спать."
+      },
+      {
+        "en": "You shouldn't eat so much sugar.",
+        "ua": "Тобі не варто їсти стільки цукру.",
+        "ru": "Тебе не стоит есть столько сахара."
+      },
+      {
+        "en": "What should I do?",
+        "ua": "Що мені робити?",
+        "ru": "Что мне делать?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "should",
+      "ipa": "/ʃʊd/",
+      "ua": "варто, слід",
+      "ru": "стоит, следует",
+      "example": "You should rest.",
+      "audio": ""
+    },
+    {
+      "word": "shouldn't",
+      "ipa": "/ˈʃʊdnt/",
+      "ua": "не варто",
+      "ru": "не стоит",
+      "example": "You shouldn't worry.",
+      "audio": ""
+    },
+    {
+      "word": "advice",
+      "ipa": "/ədˈvaɪs/",
+      "ua": "порада",
+      "ru": "совет",
+      "example": "Can I give you some advice?",
+      "audio": ""
+    },
+    {
+      "word": "rest",
+      "ipa": "/rest/",
+      "ua": "відпочивати",
+      "ru": "отдыхать",
+      "example": "You should rest.",
+      "audio": ""
+    },
+    {
+      "word": "worry",
+      "ipa": "/ˈwʌri/",
+      "ua": "хвилюватися",
+      "ru": "волноваться",
+      "example": "Don't worry!",
+      "audio": ""
+    },
+    {
+      "word": "exercise",
+      "ipa": "/ˈeksəsaɪz/",
+      "ua": "робити вправи, тренуватися",
+      "ru": "заниматься спортом",
+      "example": "You should exercise more.",
+      "audio": ""
+    },
+    {
+      "word": "healthy",
+      "ipa": "/ˈhelθi/",
+      "ua": "здоровий, корисний",
+      "ru": "здоровый, полезный",
+      "example": "healthy food",
+      "audio": ""
+    },
+    {
+      "word": "ask",
+      "ipa": "/ɑːsk/",
+      "ua": "питати",
+      "ru": "спрашивать",
+      "example": "You should ask your teacher.",
+      "audio": ""
+    },
+    {
+      "word": "say sorry",
+      "ipa": "/ˌseɪ ˈsɒri/",
+      "ua": "вибачитися",
+      "ru": "извиниться",
+      "example": "You should say sorry.",
+      "audio": ""
+    },
+    {
+      "word": "talk to",
+      "ipa": "/ˈtɔːk tə/",
+      "ua": "поговорити з",
+      "ru": "поговорить с",
+      "example": "You should talk to her.",
+      "audio": ""
+    },
+    {
+      "word": "stay up late",
+      "ipa": "/ˌsteɪ ʌp ˈleɪt/",
+      "ua": "не лягати допізна",
+      "ru": "не ложиться допоздна",
+      "example": "You shouldn't stay up late.",
+      "audio": ""
+    },
+    {
+      "word": "I think you should",
+      "ipa": "/aɪ θɪŋk juː ʃʊd/",
+      "ua": "думаю, тобі варто",
+      "ru": "думаю, тебе стоит",
+      "example": "I think you should go.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u16-l01",
+      "title": {
+        "en": "Giving advice",
+        "ua": "Даємо пораду",
+        "ru": "Даём совет"
+      },
+      "recap": {
+        "from": "a2-u15-l02",
+        "note": {
+          "ua": "Згадаймо: mustn't = заборонено ⛔ · don't have to = не обов'язково 🙂",
+          "ru": "Вспомним: mustn't = запрещено ⛔ · don't have to = не обязательно 🙂"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "mustnt-dont-have-to",
+            "question": "You ___ park here. It's for buses only.",
+            "options": [
+              "mustn't",
+              "don't have to",
+              "must"
+            ],
+            "answer": "mustn't",
+            "explain": {
+              "ua": "Заборона → mustn't.",
+              "ru": "Запрет → mustn't."
+            },
+            "id": "a2-u16-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "mustnt-dont-have-to",
+            "question": "She ___ wear a uniform at her new job.",
+            "options": [
+              "doesn't have to",
+              "don't have to",
+              "mustn't to"
+            ],
+            "answer": "doesn't have to",
+            "explain": {
+              "ua": "She → doesn't have to.",
+              "ru": "She → doesn't have to."
+            },
+            "id": "a2-u16-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "You should / shouldn't + дієслово · I think you should…",
+          "ru": "You should / shouldn't + глагол · I think you should…"
+        },
+        "explain": {
+          "ua": "Should — м'яка порада. Ще м'якше: I think you should… / I don't think you should…",
+          "ru": "Should — мягкий совет. Ещё мягче: I think you should… / I don't think you should…"
+        },
+        "examples": [
+          {
+            "en": "You look tired. You should rest.",
+            "ua": "Ти втомлений. Тобі варто відпочити.",
+            "ru": "Ты устал. Тебе стоит отдохнуть."
+          },
+          {
+            "en": "You shouldn't drink so much coffee.",
+            "ua": "Не варто пити стільки кави.",
+            "ru": "Не стоит пить столько кофе."
+          },
+          {
+            "en": "I think you should talk to him.",
+            "ua": "Думаю, тобі варто з ним поговорити.",
+            "ru": "Думаю, тебе стоит с ним поговорить."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "You've got a headache. You ___ take a break.",
+          "options": [
+            "should",
+            "should to",
+            "shoulds"
+          ],
+          "answer": "should",
+          "explain": {
+            "ua": "Should + базове.",
+            "ru": "Should + базовое."
+          },
+          "id": "a2-u16-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "You ___ eat so many sweets.",
+          "options": [
+            "shouldn't",
+            "should",
+            "don't should"
+          ],
+          "answer": "shouldn't",
+          "explain": {
+            "ua": "Не варто → shouldn't.",
+            "ru": "Не стоит → shouldn't."
+          },
+          "id": "a2-u16-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "She should ___ a doctor.",
+          "options": [
+            "see",
+            "to see",
+            "sees"
+          ],
+          "answer": "see",
+          "explain": {
+            "ua": "Should see.",
+            "ru": "Should see."
+          },
+          "id": "a2-u16-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "It's late. You ___ go to bed.",
+          "options": [
+            "should",
+            "shouldn't",
+            "should to"
+          ],
+          "answer": "should",
+          "explain": {
+            "ua": "Порада → should.",
+            "ru": "Совет → should."
+          },
+          "id": "a2-u16-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "should",
+          "bank": [
+            "should",
+            "shouldn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "You're tired. You ___ rest.",
+            "It's cold. You ___ go out without a coat.",
+            "You ___ drink more water.",
+            "You ___ stay up late before an exam."
+          ],
+          "answers": [
+            "should",
+            "shouldn't",
+            "should",
+            "shouldn't"
+          ],
+          "explain": {
+            "ua": "Добре → should, погано → shouldn't.",
+            "ru": "Хорошо → should, плохо → shouldn't."
+          },
+          "id": "a2-u16-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "should",
+          "sentence": "You should to sleep more.",
+          "answer": "You should sleep more.",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "a2-u16-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "should",
+          "sentence": "He shoulds study more.",
+          "answer": "He should study more.",
+          "accept": [],
+          "explain": {
+            "ua": "Без -s.",
+            "ru": "Без -s."
+          },
+          "id": "a2-u16-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "should",
+          "audio_text": "You shouldn't worry so much.",
+          "options": [
+            "You shouldn't worry so much.",
+            "You should worry so much.",
+            "You shouldn't hurry so much."
+          ],
+          "answer": "You shouldn't worry so much.",
+          "audio": "",
+          "explain": {
+            "ua": "Shouldn't.",
+            "ru": "Shouldn't."
+          },
+          "id": "a2-u16-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "should",
+          "prompt": {
+            "ua": "Тобі варто більше спати.",
+            "ru": "Тебе стоит больше спать."
+          },
+          "answer": "You should sleep more.",
+          "accept": [
+            "You should get more sleep."
+          ],
+          "explain": {
+            "ua": "Should sleep.",
+            "ru": "Should sleep."
+          },
+          "id": "a2-u16-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u16-l02",
+      "title": {
+        "en": "Asking for advice",
+        "ua": "Просимо поради",
+        "ru": "Просим совета"
+      },
+      "recap": {
+        "from": "a2-u16-l01",
+        "note": {
+          "ua": "Згадаймо: You should / shouldn't + дієслово · I think you should…",
+          "ru": "Вспомним: You should / shouldn't + глагол · I think you should…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "You've got a headache. You ___ take a break.",
+            "options": [
+              "should",
+              "should to",
+              "shoulds"
+            ],
+            "answer": "should",
+            "explain": {
+              "ua": "Should + базове.",
+              "ru": "Should + базовое."
+            },
+            "id": "a2-u16-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "It's late. You ___ go to bed.",
+            "options": [
+              "should",
+              "shouldn't",
+              "should to"
+            ],
+            "answer": "should",
+            "explain": {
+              "ua": "Порада → should.",
+              "ru": "Совет → should."
+            },
+            "id": "a2-u16-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Should I…? · What should I do? · Where should we go?",
+        "explain": {
+          "ua": "Просимо поради: Should I call him? What should I wear? Відповідь: Yes, you should. / No, you shouldn't.",
+          "ru": "Просим совета: Should I call him? What should I wear? Ответ: Yes, you should. / No, you shouldn't."
+        },
+        "examples": [
+          {
+            "en": "Should I call her?",
+            "ua": "Мені їй подзвонити?",
+            "ru": "Мне ей позвонить?"
+          },
+          {
+            "en": "What should I wear?",
+            "ua": "Що мені вдягнути?",
+            "ru": "Что мне надеть?"
+          },
+          {
+            "en": "Should we take a taxi? — Yes, we should.",
+            "ua": "Візьмемо таксі? — Так, варто.",
+            "ru": "Возьмём такси? — Да, стоит."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "___ I buy this dress?",
+          "options": [
+            "Should",
+            "Do",
+            "Am"
+          ],
+          "answer": "Should",
+          "explain": {
+            "ua": "Should I…?",
+            "ru": "Should I…?"
+          },
+          "id": "a2-u16-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "What should I ___ ?",
+          "options": [
+            "do",
+            "to do",
+            "doing"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Should + do.",
+            "ru": "Should + do."
+          },
+          "id": "a2-u16-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "Should I tell him? — No, you ___.",
+          "options": [
+            "shouldn't",
+            "don't",
+            "mustn't"
+          ],
+          "answer": "shouldn't",
+          "explain": {
+            "ua": "No, you shouldn't.",
+            "ru": "No, you shouldn't."
+          },
+          "id": "a2-u16-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "Where ___ we go on holiday?",
+          "options": [
+            "should",
+            "do should",
+            "are"
+          ],
+          "answer": "should",
+          "explain": {
+            "ua": "Where should we…?",
+            "ru": "Where should we…?"
+          },
+          "id": "a2-u16-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "should",
+          "pairs": [
+            {
+              "left": "I've got a cold.",
+              "right": "You should drink hot tea."
+            },
+            {
+              "left": "I can't sleep.",
+              "right": "You shouldn't drink coffee at night."
+            },
+            {
+              "left": "I'm always tired.",
+              "right": "You should exercise more."
+            },
+            {
+              "left": "I lost my keys.",
+              "right": "You should look in your bag."
+            }
+          ],
+          "explain": {
+            "ua": "Проблема → порада.",
+            "ru": "Проблема → совет."
+          },
+          "id": "a2-u16-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "should",
+          "sentence": "Do I should call her?",
+          "answer": "Should I call her?",
+          "accept": [],
+          "explain": {
+            "ua": "Should — на початок.",
+            "ru": "Should — в начало."
+          },
+          "id": "a2-u16-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "should",
+          "words": [
+            "should",
+            "dinner",
+            "for",
+            "I",
+            "What",
+            "cook"
+          ],
+          "answer": "What should I cook for dinner",
+          "explain": {
+            "ua": "What should I → cook → for dinner?",
+            "ru": "What should I → cook → for dinner?"
+          },
+          "id": "a2-u16-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "should",
+          "audio_text": "Should I wait for you?",
+          "options": [
+            "Should I wait for you?",
+            "Shall I wait for you?",
+            "Should I wake you?"
+          ],
+          "answer": "Should I wait for you?",
+          "audio": "",
+          "explain": {
+            "ua": "Should I…?",
+            "ru": "Should I…?"
+          },
+          "id": "a2-u16-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "should",
+          "prompt": {
+            "ua": "Що мені робити?",
+            "ru": "Что мне делать?"
+          },
+          "answer": "What should I do?",
+          "accept": [],
+          "explain": {
+            "ua": "What should I do?",
+            "ru": "What should I do?"
+          },
+          "id": "a2-u16-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u16-l03",
+      "title": {
+        "en": "Practice: problems and advice",
+        "ua": "Практика: проблеми й поради",
+        "ru": "Практика: проблемы и советы"
+      },
+      "recap": {
+        "from": "a2-u16-l02",
+        "note": {
+          "ua": "Згадаймо: Should I…? · What should I do? · Where should we go?",
+          "ru": "Вспомним: Should I…? · What should I do? · Where should we go?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "___ I buy this dress?",
+            "options": [
+              "Should",
+              "Do",
+              "Am"
+            ],
+            "answer": "Should",
+            "explain": {
+              "ua": "Should I…?",
+              "ru": "Should I…?"
+            },
+            "id": "a2-u16-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "Where ___ we go on holiday?",
+            "options": [
+              "should",
+              "do should",
+              "are"
+            ],
+            "answer": "should",
+            "explain": {
+              "ua": "Where should we…?",
+              "ru": "Where should we…?"
+            },
+            "id": "a2-u16-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "My English is weak. — You ___ practise every day.",
+          "options": [
+            "should",
+            "shouldn't",
+            "should to"
+          ],
+          "answer": "should",
+          "explain": {
+            "ua": "Should.",
+            "ru": "Should."
+          },
+          "id": "a2-u16-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "I always feel tired. — You ___ stay up so late.",
+          "options": [
+            "shouldn't",
+            "should",
+            "don't should"
+          ],
+          "answer": "shouldn't",
+          "explain": {
+            "ua": "Shouldn't.",
+            "ru": "Shouldn't."
+          },
+          "id": "a2-u16-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is Mark's problem?",
+              "options": [
+                "he's always tired",
+                "he has no friends",
+                "he can't cook"
+              ],
+              "answer": "he's always tired"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ann thinks Mark should drink more coffee.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ann thinks Mark should exercise.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Mark",
+              "line": "I'm always tired. What should I do?"
+            },
+            {
+              "speaker": "Ann",
+              "line": "How much coffee do you drink?"
+            },
+            {
+              "speaker": "Mark",
+              "line": "About five cups a day."
+            },
+            {
+              "speaker": "Ann",
+              "line": "You shouldn't drink so much coffee! And you should go to bed earlier."
+            },
+            {
+              "speaker": "Mark",
+              "line": "Should I go to the gym?"
+            },
+            {
+              "speaker": "Ann",
+              "line": "Yes, you should. Exercise gives you energy."
+            }
+          ],
+          "explain": {
+            "ua": "Tired; less coffee, go to bed earlier, exercise.",
+            "ru": "Tired; less coffee, go to bed earlier, exercise."
+          },
+          "id": "a2-u16-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "should",
+          "bank": [
+            "shouldn't",
+            "should",
+            "should"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Mark ___ drink so much coffee.",
+            "He ___ go to bed earlier.",
+            "He ___ exercise."
+          ],
+          "answers": [
+            "shouldn't",
+            "should",
+            "should"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u16-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "should",
+          "sentence": "You should not to worry.",
+          "answer": "You shouldn't worry.",
+          "accept": [
+            "You should not worry."
+          ],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "a2-u16-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "should",
+          "sentence": "What I should do?",
+          "answer": "What should I do?",
+          "accept": [],
+          "explain": {
+            "ua": "Should перед I.",
+            "ru": "Should перед I."
+          },
+          "id": "a2-u16-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "buy",
+            "don't",
+            "think",
+            "should",
+            "you",
+            "it",
+            "I"
+          ],
+          "answer": "I don't think you should buy it",
+          "explain": {
+            "ua": "I don't think → you should → buy it.",
+            "ru": "I don't think → you should → buy it."
+          },
+          "id": "a2-u16-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "should",
+          "audio_text": "You should talk to her.",
+          "options": [
+            "You should talk to her.",
+            "You should walk to her.",
+            "You should talk about her."
+          ],
+          "answer": "You should talk to her.",
+          "audio": "",
+          "explain": {
+            "ua": "Talk to — поговорити з.",
+            "ru": "Talk to — поговорить с."
+          },
+          "id": "a2-u16-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "should",
+          "prompt": {
+            "ua": "Тобі варто вибачитися.",
+            "ru": "Тебе стоит извиниться."
+          },
+          "answer": "You should say sorry.",
+          "accept": [
+            "You should apologise.",
+            "You should apologize."
+          ],
+          "explain": {
+            "ua": "Should say sorry.",
+            "ru": "Should say sorry."
+          },
+          "id": "a2-u16-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "should",
+      "question": "You ___ see a doctor.",
+      "options": [
+        "should",
+        "should to",
+        "shoulds"
+      ],
+      "answer": "should",
+      "explain": {
+        "ua": "Should.",
+        "ru": "Should."
+      },
+      "id": "a2-u16-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "should",
+      "question": "You ___ eat so much fast food.",
+      "options": [
+        "shouldn't",
+        "should",
+        "don't should"
+      ],
+      "answer": "shouldn't",
+      "explain": {
+        "ua": "Shouldn't.",
+        "ru": "Shouldn't."
+      },
+      "id": "a2-u16-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "should",
+      "question": "___ I call him?",
+      "options": [
+        "Should",
+        "Do",
+        "Am"
+      ],
+      "answer": "Should",
+      "explain": {
+        "ua": "Should I…?",
+        "ru": "Should I…?"
+      },
+      "id": "a2-u16-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "should",
+      "question": "Should we wait? — Yes, we ___.",
+      "options": [
+        "should",
+        "do",
+        "are"
+      ],
+      "answer": "should",
+      "explain": {
+        "ua": "Yes, we should.",
+        "ru": "Yes, we should."
+      },
+      "id": "a2-u16-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "should",
+      "question": "What ___ I wear to the party?",
+      "answer": "should",
+      "accept": [],
+      "explain": {
+        "ua": "What should I…?",
+        "ru": "What should I…?"
+      },
+      "id": "a2-u16-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "should",
+      "question": "She ___ go out. She's sick. (not)",
+      "answer": "shouldn't",
+      "accept": [
+        "should not"
+      ],
+      "explain": {
+        "ua": "Shouldn't.",
+        "ru": "Shouldn't."
+      },
+      "id": "a2-u16-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "advice",
+          "right": {
+            "ua": "порада",
+            "ru": "совет"
+          }
+        },
+        {
+          "left": "worry",
+          "right": {
+            "ua": "хвилюватися",
+            "ru": "волноваться"
+          }
+        },
+        {
+          "left": "healthy",
+          "right": {
+            "ua": "корисний",
+            "ru": "полезный"
+          }
+        },
+        {
+          "left": "rest",
+          "right": {
+            "ua": "відпочивати",
+            "ru": "отдыхать"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u16-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "should",
+      "sentence": "You should to rest.",
+      "answer": "You should rest.",
+      "accept": [],
+      "explain": {
+        "ua": "Після should — без to.",
+        "ru": "После should — без to."
+      },
+      "id": "a2-u16-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "should",
+      "sentence": "Do I should go?",
+      "answer": "Should I go?",
+      "accept": [],
+      "explain": {
+        "ua": "Should на початок.",
+        "ru": "Should в начало."
+      },
+      "id": "a2-u16-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "think",
+        "to",
+        "you",
+        "him",
+        "talk",
+        "I",
+        "should"
+      ],
+      "answer": "I think you should talk to him",
+      "explain": {
+        "ua": "I think → you should → talk to him.",
+        "ru": "I think → you should → talk to him."
+      },
+      "id": "a2-u16-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "should",
+      "prompt": {
+        "ua": "Тобі не варто хвилюватися.",
+        "ru": "Тебе не стоит волноваться."
+      },
+      "answer": "You shouldn't worry.",
+      "accept": [
+        "You should not worry."
+      ],
+      "explain": {
+        "ua": "Shouldn't worry.",
+        "ru": "Shouldn't worry."
+      },
+      "id": "a2-u16-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "should",
+      "audio_text": "You should drink more water.",
+      "options": [
+        "You should drink more water.",
+        "You should drink more wine.",
+        "You shouldn't drink more water."
+      ],
+      "answer": "You should drink more water.",
+      "audio": "",
+      "explain": {
+        "ua": "Should drink.",
+        "ru": "Should drink."
+      },
+      "id": "a2-u16-cp12"
+    }
+  ]
+}

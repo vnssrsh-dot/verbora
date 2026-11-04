@@ -1,0 +1,999 @@
+{
+  "id": "a2-u22",
+  "level": "A2",
+  "order": 22,
+  "kind": "grammar",
+  "title": {
+    "en": "Linking words and time clauses",
+    "ua": "Сполучники й підрядні часу",
+    "ru": "Союзы и придаточные времени"
+  },
+  "rule": {
+    "formula": "and · but · so · because · before · after · when · until · as soon as",
+    "explain": {
+      "ua": "Сполучники з'єднують думки: and (і), but (але), so (тому), because (бо). Підрядні часу: before, after, when, until. Про майбутнє після when / before / until — теперішній час: I'll call you when I arrive (не will arrive).",
+      "ru": "Союзы соединяют мысли: and (и), but (но), so (поэтому), because (потому что). Придаточные времени: before, after, when, until. О будущем после when / before / until — настоящее время: I'll call you when I arrive (не will arrive)."
+    },
+    "examples": [
+      {
+        "en": "I was tired, so I went to bed.",
+        "ua": "Я втомився, тому ліг спати.",
+        "ru": "Я устал, поэтому лёг спать."
+      },
+      {
+        "en": "She stayed home because she was sick.",
+        "ua": "Вона залишилася вдома, бо хворіла.",
+        "ru": "Она осталась дома, потому что болела."
+      },
+      {
+        "en": "I'll call you when I get home.",
+        "ua": "Я подзвоню, коли прийду додому.",
+        "ru": "Я позвоню, когда приду домой."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "and",
+      "ipa": "/ænd/",
+      "ua": "і",
+      "ru": "и",
+      "example": "tea and coffee",
+      "audio": ""
+    },
+    {
+      "word": "but",
+      "ipa": "/bʌt/",
+      "ua": "але",
+      "ru": "но",
+      "example": "small but nice",
+      "audio": ""
+    },
+    {
+      "word": "so",
+      "ipa": "/səʊ/",
+      "ua": "тому",
+      "ru": "поэтому",
+      "example": "It rained, so we stayed in.",
+      "audio": ""
+    },
+    {
+      "word": "because",
+      "ipa": "/bɪˈkɒz/",
+      "ua": "тому що, бо",
+      "ru": "потому что",
+      "example": "because I was tired",
+      "audio": ""
+    },
+    {
+      "word": "before",
+      "ipa": "/bɪˈfɔː/",
+      "ua": "до того як, перед",
+      "ru": "перед тем как",
+      "example": "before you go",
+      "audio": ""
+    },
+    {
+      "word": "after",
+      "ipa": "/ˈɑːftə/",
+      "ua": "після того як",
+      "ru": "после того как",
+      "example": "after we ate",
+      "audio": ""
+    },
+    {
+      "word": "until",
+      "ipa": "/ənˈtɪl/",
+      "ua": "доки (не)",
+      "ru": "пока (не)",
+      "example": "Wait until I come.",
+      "audio": ""
+    },
+    {
+      "word": "as soon as",
+      "ipa": "/əz ˈsuːn əz/",
+      "ua": "щойно, як тільки",
+      "ru": "как только",
+      "example": "as soon as possible",
+      "audio": ""
+    },
+    {
+      "word": "then",
+      "ipa": "/ðen/",
+      "ua": "потім",
+      "ru": "потом",
+      "example": "and then we left",
+      "audio": ""
+    },
+    {
+      "word": "first",
+      "ipa": "/fɜːst/",
+      "ua": "спочатку",
+      "ru": "сначала",
+      "example": "First, wash your hands.",
+      "audio": ""
+    },
+    {
+      "word": "finally",
+      "ipa": "/ˈfaɪnəli/",
+      "ua": "нарешті, наостанок",
+      "ru": "наконец, в конце",
+      "example": "Finally, we got home.",
+      "audio": ""
+    },
+    {
+      "word": "although",
+      "ipa": "/ɔːlˈðəʊ/",
+      "ua": "хоча",
+      "ru": "хотя",
+      "example": "although it was late",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u22-l01",
+      "title": {
+        "en": "and, but, so, because",
+        "ua": "and, but, so, because",
+        "ru": "and, but, so, because"
+      },
+      "recap": {
+        "from": "a2-u21-l03",
+        "note": {
+          "ua": "Згадаймо: How long? (час) · How often? (частота) · How far? (відстань) · Whose? · Which?",
+          "ru": "Вспомним: How long? (время) · How often? (частота) · How far? (расстояние) · Whose? · Which?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "wh-questions",
+            "question": "— ___ is the station? — About 2 km.",
+            "options": [
+              "How far",
+              "How long",
+              "How often"
+            ],
+            "answer": "How far",
+            "explain": {
+              "ua": "Відстань.",
+              "ru": "Расстояние."
+            },
+            "id": "a2-u22-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "wh-questions",
+            "question": "— ___ umbrella is this? — It's Kate's.",
+            "options": [
+              "Whose",
+              "Who",
+              "Which"
+            ],
+            "answer": "Whose",
+            "explain": {
+              "ua": "Чий — whose.",
+              "ru": "Чей — whose."
+            },
+            "id": "a2-u22-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "and — і · but — але · so — тому (наслідок) · because — бо (причина)",
+          "ru": "and — и · but — но · so — поэтому (следствие) · because — потому что (причина)"
+        },
+        "explain": {
+          "ua": "So — що з цього вийшло. Because — чому. I was hungry, so I made a sandwich. I made a sandwich because I was hungry.",
+          "ru": "So — что из этого вышло. Because — почему. I was hungry, so I made a sandwich. I made a sandwich because I was hungry."
+        },
+        "examples": [
+          {
+            "en": "It's cheap and fast.",
+            "ua": "Це дешево й швидко.",
+            "ru": "Это дёшево и быстро."
+          },
+          {
+            "en": "I like it, but it's expensive.",
+            "ua": "Мені подобається, але дорого.",
+            "ru": "Мне нравится, но дорого."
+          },
+          {
+            "en": "It was late, so we took a taxi.",
+            "ua": "Було пізно, тому ми взяли таксі.",
+            "ru": "Было поздно, поэтому мы взяли такси."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "I was tired, ___ I went to bed early.",
+          "options": [
+            "so",
+            "because",
+            "but"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "Наслідок → so.",
+            "ru": "Следствие → so."
+          },
+          "id": "a2-u22-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "I went to bed early ___ I was tired.",
+          "options": [
+            "because",
+            "so",
+            "and"
+          ],
+          "answer": "because",
+          "explain": {
+            "ua": "Причина → because.",
+            "ru": "Причина → because."
+          },
+          "id": "a2-u22-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "The hotel was nice, ___ it was far from the sea.",
+          "options": [
+            "but",
+            "so",
+            "because"
+          ],
+          "answer": "but",
+          "explain": {
+            "ua": "Протиставлення → but.",
+            "ru": "Противопоставление → but."
+          },
+          "id": "a2-u22-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "We went to the park ___ played football.",
+          "options": [
+            "and",
+            "but",
+            "because"
+          ],
+          "answer": "and",
+          "explain": {
+            "ua": "І → and.",
+            "ru": "И → and."
+          },
+          "id": "a2-u22-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "linkers",
+          "bank": [
+            "and",
+            "but",
+            "so",
+            "because"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I love cats ___ dogs.",
+            "It's small ___ cosy.",
+            "It was raining, ___ we stayed home.",
+            "She's happy ___ she passed the exam."
+          ],
+          "answers": [
+            "and",
+            "but",
+            "so",
+            "because"
+          ],
+          "explain": {
+            "ua": "і, але, тому, бо.",
+            "ru": "и, но, поэтому, потому что."
+          },
+          "id": "a2-u22-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers",
+          "sentence": "I stayed at home so I was sick.",
+          "answer": "I stayed at home because I was sick.",
+          "accept": [
+            "I was sick, so I stayed at home."
+          ],
+          "explain": {
+            "ua": "Причина → because.",
+            "ru": "Причина → because."
+          },
+          "id": "a2-u22-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers",
+          "sentence": "It's expensive, because I won't buy it.",
+          "answer": "It's expensive, so I won't buy it.",
+          "accept": [],
+          "explain": {
+            "ua": "Наслідок → so.",
+            "ru": "Следствие → so."
+          },
+          "id": "a2-u22-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers",
+          "audio_text": "I'm hungry, so let's eat.",
+          "options": [
+            "I'm hungry, so let's eat.",
+            "I'm hungry, but let's eat.",
+            "I'm angry, so let's eat."
+          ],
+          "answer": "I'm hungry, so let's eat.",
+          "audio": "",
+          "explain": {
+            "ua": "So.",
+            "ru": "So."
+          },
+          "id": "a2-u22-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers",
+          "prompt": {
+            "ua": "Я запізнився, бо пропустив автобус.",
+            "ru": "Я опоздал, потому что пропустил автобус."
+          },
+          "answer": "I was late because I missed the bus.",
+          "accept": [
+            "I was late because I'd missed the bus."
+          ],
+          "explain": {
+            "ua": "Because.",
+            "ru": "Because."
+          },
+          "id": "a2-u22-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u22-l02",
+      "title": {
+        "en": "before, after, when, until",
+        "ua": "before, after, when, until",
+        "ru": "before, after, when, until"
+      },
+      "recap": {
+        "from": "a2-u22-l01",
+        "note": {
+          "ua": "Згадаймо: and — і · but — але · so — тому (наслідок) · because — бо (причина)",
+          "ru": "Вспомним: and — и · but — но · so — поэтому (следствие) · because — потому что (причина)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers",
+            "question": "I was tired, ___ I went to bed early.",
+            "options": [
+              "so",
+              "because",
+              "but"
+            ],
+            "answer": "so",
+            "explain": {
+              "ua": "Наслідок → so.",
+              "ru": "Следствие → so."
+            },
+            "id": "a2-u22-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers",
+            "question": "We went to the park ___ played football.",
+            "options": [
+              "and",
+              "but",
+              "because"
+            ],
+            "answer": "and",
+            "explain": {
+              "ua": "І → and.",
+              "ru": "И → and."
+            },
+            "id": "a2-u22-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "when / before / after / until + теперішній = майбутнє",
+          "ru": "when / before / after / until + настоящее = будущее"
+        },
+        "explain": {
+          "ua": "Після when, before, after, until, as soon as про майбутнє — Present Simple, а will — у другій частині: I'll call you when I arrive. Wait until I come back.",
+          "ru": "После when, before, after, until, as soon as о будущем — Present Simple, а will — во второй части: I'll call you when I arrive. Wait until I come back."
+        },
+        "examples": [
+          {
+            "en": "I'll call you when I arrive.",
+            "ua": "Я подзвоню, коли приїду.",
+            "ru": "Я позвоню, когда приеду."
+          },
+          {
+            "en": "Wash your hands before you eat.",
+            "ua": "Помий руки перед їжею.",
+            "ru": "Помой руки перед едой."
+          },
+          {
+            "en": "Wait until I come back.",
+            "ua": "Зачекай, доки я повернуся.",
+            "ru": "Подожди, пока я вернусь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "time-clauses",
+          "question": "I'll call you when I ___ home.",
+          "options": [
+            "get",
+            "will get",
+            "got"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "Після when — Present Simple.",
+            "ru": "После when — Present Simple."
+          },
+          "id": "a2-u22-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "time-clauses",
+          "question": "Brush your teeth ___ you go to bed.",
+          "options": [
+            "before",
+            "after",
+            "until"
+          ],
+          "answer": "before",
+          "explain": {
+            "ua": "Перед — before.",
+            "ru": "Перед — before."
+          },
+          "id": "a2-u22-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "time-clauses",
+          "question": "We'll wait ___ the rain stops.",
+          "options": [
+            "until",
+            "before",
+            "after"
+          ],
+          "answer": "until",
+          "explain": {
+            "ua": "Доки — until.",
+            "ru": "Пока — until."
+          },
+          "id": "a2-u22-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "time-clauses",
+          "question": "___ we had dinner, we watched a film.",
+          "options": [
+            "After",
+            "Until",
+            "Before"
+          ],
+          "answer": "After",
+          "explain": {
+            "ua": "Після — after.",
+            "ru": "После — after."
+          },
+          "id": "a2-u22-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "time-clauses",
+          "question": "Text me as soon as you ___ .",
+          "options": [
+            "arrive",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": "arrive",
+          "explain": {
+            "ua": "As soon as + Present Simple.",
+            "ru": "As soon as + Present Simple."
+          },
+          "id": "a2-u22-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "time-clauses",
+          "sentence": "I'll tell him when he will come.",
+          "answer": "I'll tell him when he comes.",
+          "accept": [],
+          "explain": {
+            "ua": "Після when — comes.",
+            "ru": "После when — comes."
+          },
+          "id": "a2-u22-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "time-clauses",
+          "sentence": "Don't go until I will say.",
+          "answer": "Don't go until I say.",
+          "accept": [],
+          "explain": {
+            "ua": "Після until — Present Simple.",
+            "ru": "После until — Present Simple."
+          },
+          "id": "a2-u22-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "time-clauses",
+          "words": [
+            "I",
+            "as",
+            "soon",
+            "arrive",
+            "call",
+            "will",
+            "I",
+            "you",
+            "as"
+          ],
+          "answer": "I will call you as soon as I arrive",
+          "explain": {
+            "ua": "Will call → as soon as I arrive.",
+            "ru": "Will call → as soon as I arrive."
+          },
+          "id": "a2-u22-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "time-clauses",
+          "prompt": {
+            "ua": "Я тобі напишу, коли прийду додому.",
+            "ru": "Я тебе напишу, когда приду домой."
+          },
+          "answer": "I'll text you when I get home.",
+          "accept": [
+            "I'll write to you when I get home.",
+            "I will text you when I get home.",
+            "I'll message you when I get home."
+          ],
+          "explain": {
+            "ua": "When + get.",
+            "ru": "When + get."
+          },
+          "id": "a2-u22-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u22-l03",
+      "title": {
+        "en": "Practice: telling a story",
+        "ua": "Практика: розповідь",
+        "ru": "Практика: рассказ"
+      },
+      "recap": {
+        "from": "a2-u22-l02",
+        "note": {
+          "ua": "Згадаймо: when / before / after / until + теперішній = майбутнє",
+          "ru": "Вспомним: when / before / after / until + настоящее = будущее"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "time-clauses",
+            "question": "I'll call you when I ___ home.",
+            "options": [
+              "get",
+              "will get",
+              "got"
+            ],
+            "answer": "get",
+            "explain": {
+              "ua": "Після when — Present Simple.",
+              "ru": "После when — Present Simple."
+            },
+            "id": "a2-u22-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "time-clauses",
+            "question": "Text me as soon as you ___ .",
+            "options": [
+              "arrive",
+              "will arrive",
+              "arrived"
+            ],
+            "answer": "arrive",
+            "explain": {
+              "ua": "As soon as + Present Simple.",
+              "ru": "As soon as + Present Simple."
+            },
+            "id": "a2-u22-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "linkers",
+          "bank": [
+            "First",
+            "Then",
+            "After",
+            "Finally"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___, we packed our bags.",
+            "___ we took a taxi to the airport.",
+            "___ we landed, we went to the hotel.",
+            "___, we went to the beach!"
+          ],
+          "answers": [
+            "First",
+            "Then",
+            "After",
+            "Finally"
+          ],
+          "explain": {
+            "ua": "Порядок подій.",
+            "ru": "Порядок событий."
+          },
+          "id": "a2-u22-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "___ it was cold, we went swimming.",
+          "options": [
+            "Although",
+            "Because",
+            "So"
+          ],
+          "answer": "Although",
+          "explain": {
+            "ua": "Хоча — although.",
+            "ru": "Хотя — although."
+          },
+          "id": "a2-u22-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "They took a taxi because the bus was late.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The hotel was big but expensive.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did they do as soon as they arrived?",
+              "options": [
+                "went to the beach",
+                "slept",
+                "had dinner"
+              ],
+              "answer": "went to the beach"
+            }
+          ],
+          "text": "Last summer we went to the sea. The bus was late, so we took a taxi to the station. The hotel was small but very nice. As soon as we arrived, we went to the beach, although it was already evening. We stayed there until the sun went down. It was perfect!",
+          "explain": {
+            "ua": "Bus late → taxi; hotel small but nice; beach as soon as they arrived.",
+            "ru": "Bus late → taxi; hotel small but nice; beach as soon as they arrived."
+          },
+          "id": "a2-u22-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "They stayed on the beach ___ the sun went down.",
+          "options": [
+            "until",
+            "before",
+            "because"
+          ],
+          "answer": "until",
+          "explain": {
+            "ua": "Until — доки.",
+            "ru": "Until — пока."
+          },
+          "id": "a2-u22-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers",
+          "sentence": "It was evening, but we went to the beach although.",
+          "answer": "Although it was evening, we went to the beach.",
+          "accept": [
+            "We went to the beach, although it was evening."
+          ],
+          "explain": {
+            "ua": "Although — на початку частини.",
+            "ru": "Although — в начале части."
+          },
+          "id": "a2-u22-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers",
+          "sentence": "I'll be ready before you will come.",
+          "answer": "I'll be ready before you come.",
+          "accept": [],
+          "explain": {
+            "ua": "Before + Present Simple.",
+            "ru": "Before + Present Simple."
+          },
+          "id": "a2-u22-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers",
+          "audio_text": "We waited until the sun went down.",
+          "options": [
+            "We waited until the sun went down.",
+            "We waited after the sun went down.",
+            "We waited until the son went down."
+          ],
+          "answer": "We waited until the sun went down.",
+          "audio": "",
+          "explain": {
+            "ua": "Until.",
+            "ru": "Until."
+          },
+          "id": "a2-u22-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers",
+          "prompt": {
+            "ua": "Спочатку ми поснідали, потім пішли на пляж.",
+            "ru": "Сначала мы позавтракали, потом пошли на пляж."
+          },
+          "answer": "First we had breakfast, then we went to the beach.",
+          "accept": [
+            "First, we had breakfast, then we went to the beach.",
+            "First we had breakfast and then we went to the beach.",
+            "First, we had breakfast. Then we went to the beach."
+          ],
+          "explain": {
+            "ua": "First … then.",
+            "ru": "First … then."
+          },
+          "id": "a2-u22-l03-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "linkers",
+      "question": "I was hungry, ___ I made a sandwich.",
+      "options": [
+        "so",
+        "because",
+        "but"
+      ],
+      "answer": "so",
+      "explain": {
+        "ua": "So.",
+        "ru": "So."
+      },
+      "id": "a2-u22-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers",
+      "question": "She's sad ___ her cat is sick.",
+      "options": [
+        "because",
+        "so",
+        "and"
+      ],
+      "answer": "because",
+      "explain": {
+        "ua": "Because.",
+        "ru": "Because."
+      },
+      "id": "a2-u22-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "time-clauses",
+      "question": "I'll call you when I ___ .",
+      "options": [
+        "arrive",
+        "will arrive",
+        "arrived"
+      ],
+      "answer": "arrive",
+      "explain": {
+        "ua": "When + Present Simple.",
+        "ru": "When + Present Simple."
+      },
+      "id": "a2-u22-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "time-clauses",
+      "question": "Wait here ___ I come back.",
+      "options": [
+        "until",
+        "after",
+        "so"
+      ],
+      "answer": "until",
+      "explain": {
+        "ua": "Until.",
+        "ru": "Until."
+      },
+      "id": "a2-u22-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers",
+      "question": "___ it was raining, we went out.",
+      "options": [
+        "Although",
+        "Because",
+        "So"
+      ],
+      "answer": "Although",
+      "explain": {
+        "ua": "Although.",
+        "ru": "Although."
+      },
+      "id": "a2-u22-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "time-clauses",
+      "question": "Wash your hands ___ you eat.",
+      "answer": "before",
+      "accept": [],
+      "explain": {
+        "ua": "Before.",
+        "ru": "Before."
+      },
+      "id": "a2-u22-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "linkers",
+      "question": "It's small ___ nice.",
+      "answer": "but",
+      "accept": [],
+      "explain": {
+        "ua": "But.",
+        "ru": "But."
+      },
+      "id": "a2-u22-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "linkers",
+      "pairs": [
+        {
+          "left": "so",
+          "right": {
+            "ua": "тому",
+            "ru": "поэтому"
+          }
+        },
+        {
+          "left": "because",
+          "right": {
+            "ua": "бо",
+            "ru": "потому что"
+          }
+        },
+        {
+          "left": "until",
+          "right": {
+            "ua": "доки",
+            "ru": "пока"
+          }
+        },
+        {
+          "left": "although",
+          "right": {
+            "ua": "хоча",
+            "ru": "хотя"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Сполучники.",
+        "ru": "Союзы."
+      },
+      "id": "a2-u22-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "time-clauses",
+      "sentence": "I'll text you as soon as I will land.",
+      "answer": "I'll text you as soon as I land.",
+      "accept": [],
+      "explain": {
+        "ua": "As soon as + Present Simple.",
+        "ru": "As soon as + Present Simple."
+      },
+      "id": "a2-u22-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers",
+      "sentence": "I was tired because I went to bed.",
+      "answer": "I was tired, so I went to bed.",
+      "accept": [
+        "I went to bed because I was tired."
+      ],
+      "explain": {
+        "ua": "Наслідок → so.",
+        "ru": "Следствие → so."
+      },
+      "id": "a2-u22-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "linkers",
+      "prompt": {
+        "ua": "Ми взяли таксі, бо було пізно.",
+        "ru": "Мы взяли такси, потому что было поздно."
+      },
+      "answer": "We took a taxi because it was late.",
+      "accept": [
+        "It was late, so we took a taxi."
+      ],
+      "explain": {
+        "ua": "Because.",
+        "ru": "Because."
+      },
+      "id": "a2-u22-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "linkers",
+      "audio_text": "Finally, we got home.",
+      "options": [
+        "Finally, we got home.",
+        "Final, we got home.",
+        "Firstly, we got home."
+      ],
+      "answer": "Finally, we got home.",
+      "audio": "",
+      "explain": {
+        "ua": "Finally.",
+        "ru": "Finally."
+      },
+      "id": "a2-u22-cp12"
+    }
+  ]
+}

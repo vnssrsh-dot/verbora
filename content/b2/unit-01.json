@@ -1,0 +1,1691 @@
+{
+  "id": "b2-u01",
+  "level": "B2",
+  "order": 1,
+  "kind": "grammar",
+  "title": {
+    "en": "Tenses review",
+    "ua": "Усі часи: систематизація",
+    "ru": "Все времена: систематизация"
+  },
+  "rule": {
+    "formula": {
+      "ua": "Simple — факт / звичка / подія · Continuous — процес у момент · Perfect — результат / зв'язок «до»",
+      "ru": "Simple — факт / привычка / событие · Continuous — процесс в момент · Perfect — результат / связь «до»"
+    },
+    "explain": {
+      "ua": "Англійських часів 12, але логіка проста: Simple — факт, Continuous — процес (be + -ing), Perfect — результат або зв'язок із пізнішим моментом (have + V3). Час (present / past / future) — коли.",
+      "ru": "Английских времён 12, но логика простая: Simple — факт, Continuous — процесс (be + -ing), Perfect — результат или связь с более поздним моментом (have + V3). Время (present / past / future) — когда."
+    },
+    "examples": [
+      {
+        "en": "I work in a bank. / I'm working from home today.",
+        "ua": "Я працюю в банку. / Сьогодні я працюю з дому.",
+        "ru": "Я работаю в банке. / Сегодня я работаю из дома."
+      },
+      {
+        "en": "I lived in Kyiv. / I was living in Kyiv when I met him.",
+        "ua": "Я жив у Києві. / Я жив у Києві, коли зустрів його.",
+        "ru": "Я жил в Киеве. / Я жил в Киеве, когда встретил его."
+      },
+      {
+        "en": "I've lived here for 10 years. / I'd lived there before I moved.",
+        "ua": "Я живу тут 10 років. / Я жив там до переїзду.",
+        "ru": "Я живу здесь 10 лет. / Я жил там до переезда."
+      }
+    ],
+    "compare": {
+      "ua": "В українській часів три, тому важливо відчути не лише «коли», а й «як»: факт, процес чи результат.",
+      "ru": "В русском времён три, поэтому важно почувствовать не только «когда», но и «как»: факт, процесс или результат."
+    }
+  },
+  "vocab": [
+    {
+      "word": "routine",
+      "ipa": "/ruːˈtiːn/",
+      "ua": "розпорядок, рутина",
+      "ru": "распорядок, рутина",
+      "example": "my daily routine",
+      "audio": ""
+    },
+    {
+      "word": "temporary",
+      "ipa": "/ˈtemprəri/",
+      "ua": "тимчасовий",
+      "ru": "временный",
+      "example": "a temporary job",
+      "audio": ""
+    },
+    {
+      "word": "permanent",
+      "ipa": "/ˈpɜːmənənt/",
+      "ua": "постійний",
+      "ru": "постоянный",
+      "example": "a permanent contract",
+      "audio": ""
+    },
+    {
+      "word": "currently",
+      "ipa": "/ˈkʌrəntli/",
+      "ua": "наразі",
+      "ru": "в настоящее время",
+      "example": "I'm currently working on it.",
+      "audio": ""
+    },
+    {
+      "word": "at the time",
+      "ipa": "/ət ðə ˈtaɪm/",
+      "ua": "на той момент",
+      "ru": "в то время",
+      "example": "At the time I was a student.",
+      "audio": ""
+    },
+    {
+      "word": "by then",
+      "ipa": "/baɪ ˈðen/",
+      "ua": "на той час",
+      "ru": "к тому времени",
+      "example": "By then, he'd left.",
+      "audio": ""
+    },
+    {
+      "word": "up to now",
+      "ipa": "/ˌʌp tə ˈnaʊ/",
+      "ua": "досі",
+      "ru": "до сих пор",
+      "example": "Up to now, everything is fine.",
+      "audio": ""
+    },
+    {
+      "word": "whenever",
+      "ipa": "/wenˈevə/",
+      "ua": "щоразу, коли",
+      "ru": "всякий раз, когда",
+      "example": "whenever I travel",
+      "audio": ""
+    },
+    {
+      "word": "tend to",
+      "ipa": "/ˈtend tə/",
+      "ua": "мати схильність",
+      "ru": "иметь склонность",
+      "example": "I tend to wake up early.",
+      "audio": ""
+    },
+    {
+      "word": "trend",
+      "ipa": "/trend/",
+      "ua": "тенденція",
+      "ru": "тенденция",
+      "example": "a growing trend",
+      "audio": ""
+    },
+    {
+      "word": "context",
+      "ipa": "/ˈkɒntekst/",
+      "ua": "контекст",
+      "ru": "контекст",
+      "example": "Look at the context.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u01-l01",
+      "title": {
+        "en": "Present tenses",
+        "ua": "Теперішні часи",
+        "ru": "Настоящие времена"
+      },
+      "recap": {
+        "from": "b1-u22-l03",
+        "note": {
+          "ua": "Згадаймо: Пошта, лікар, школа",
+          "ru": "Вспомним: Почта, врач, школа"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I want to send a ___ to Ukraine.",
+            "options": [
+              "parcel",
+              "queue",
+              "signature"
+            ],
+            "answer": "parcel",
+            "explain": {
+              "ua": "Parcel — посилка.",
+              "ru": "Parcel — посылка."
+            },
+            "id": "b2-u01-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Do you have health ___ ?",
+            "options": [
+              "insurance",
+              "account",
+              "permit"
+            ],
+            "answer": "insurance",
+            "explain": {
+              "ua": "Health insurance.",
+              "ru": "Health insurance."
+            },
+            "id": "b2-u01-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Present Simple · Present Continuous · Present Perfect · Present Perfect Continuous",
+        "explain": {
+          "ua": "Simple — звичка, факт. Continuous — зараз або тимчасово (this week). Perfect — результат / досвід / період досі. Perfect Continuous — тривалий процес досі.",
+          "ru": "Simple — привычка, факт. Continuous — сейчас или временно (this week). Perfect — результат / опыт / период до сих пор. Perfect Continuous — длительный процесс до сих пор."
+        },
+        "examples": [
+          {
+            "en": "She usually works from 9 to 5.",
+            "ua": "Вона зазвичай працює з 9 до 5.",
+            "ru": "Она обычно работает с 9 до 5."
+          },
+          {
+            "en": "This month she's working nights.",
+            "ua": "Цього місяця вона працює вночі.",
+            "ru": "В этом месяце она работает по ночам."
+          },
+          {
+            "en": "She's been working there since 2020.",
+            "ua": "Вона працює там з 2020-го.",
+            "ru": "Она работает там с 2020-го."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "Water ___ at 100°C.",
+          "options": [
+            "boils",
+            "is boiling",
+            "has boiled"
+          ],
+          "answer": "boils",
+          "explain": {
+            "ua": "Факт → Simple.",
+            "ru": "Факт → Simple."
+          },
+          "id": "b2-u01-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "Listen! Someone ___ the piano.",
+          "options": [
+            "is playing",
+            "plays",
+            "has played"
+          ],
+          "answer": "is playing",
+          "explain": {
+            "ua": "Зараз → Continuous.",
+            "ru": "Сейчас → Continuous."
+          },
+          "id": "b2-u01-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "I ___ in a hotel this week while my flat is being painted.",
+          "options": [
+            "'m staying",
+            "stay",
+            "'ve stayed"
+          ],
+          "answer": "'m staying",
+          "explain": {
+            "ua": "Тимчасово → Continuous.",
+            "ru": "Временно → Continuous."
+          },
+          "id": "b2-u01-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "I ___ three cups of coffee today.",
+          "options": [
+            "'ve had",
+            "have",
+            "'m having"
+          ],
+          "answer": "'ve had",
+          "explain": {
+            "ua": "Скільки сьогодні → PP.",
+            "ru": "Сколько сегодня → PP."
+          },
+          "id": "b2-u01-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "She ___ for the bus for 40 minutes!",
+          "options": [
+            "'s been waiting",
+            "waits",
+            "'s waited"
+          ],
+          "answer": "'s been waiting",
+          "explain": {
+            "ua": "Тривалість досі → PPC.",
+            "ru": "Длительность до сих пор → PPC."
+          },
+          "id": "b2-u01-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-present",
+          "question": "I ___ what you mean.",
+          "options": [
+            "know",
+            "am knowing",
+            "have been knowing"
+          ],
+          "answer": "know",
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "b2-u01-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-present",
+          "sentence": "I'm living here since 2019.",
+          "answer": "I've lived here since 2019.",
+          "accept": [
+            "I've been living here since 2019.",
+            "I have lived here since 2019."
+          ],
+          "explain": {
+            "ua": "Since → Perfect.",
+            "ru": "Since → Perfect."
+          },
+          "id": "b2-u01-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-present",
+          "sentence": "He's always forgetting his keys and it's annoying me since Monday.",
+          "answer": "He's always forgetting his keys and it's been annoying me since Monday.",
+          "accept": [
+            "He's always forgetting his keys, and it's been annoying me since Monday."
+          ],
+          "explain": {
+            "ua": "Since → PPC.",
+            "ru": "Since → PPC."
+          },
+          "id": "b2-u01-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "tenses-present",
+          "prompt": {
+            "ua": "Цього тижня я працюю з дому.",
+            "ru": "На этой неделе я работаю из дома."
+          },
+          "answer": "This week I'm working from home.",
+          "accept": [
+            "I'm working from home this week.",
+            "I am working from home this week."
+          ],
+          "explain": {
+            "ua": "Тимчасово → Continuous.",
+            "ru": "Временно → Continuous."
+          },
+          "id": "b2-u01-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u01-l02",
+      "title": {
+        "en": "Past tenses",
+        "ua": "Минулі часи",
+        "ru": "Прошедшие времена"
+      },
+      "recap": {
+        "from": "b2-u01-l01",
+        "note": {
+          "ua": "Згадаймо: Present Simple · Present Continuous · Present Perfect · Present Perfect Continuous",
+          "ru": "Вспомним: Present Simple · Present Continuous · Present Perfect · Present Perfect Continuous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "tenses-present",
+            "question": "Water ___ at 100°C.",
+            "options": [
+              "boils",
+              "is boiling",
+              "has boiled"
+            ],
+            "answer": "boils",
+            "explain": {
+              "ua": "Факт → Simple.",
+              "ru": "Факт → Simple."
+            },
+            "id": "b2-u01-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "tenses-present",
+            "question": "She ___ for the bus for 40 minutes!",
+            "options": [
+              "'s been waiting",
+              "waits",
+              "'s waited"
+            ],
+            "answer": "'s been waiting",
+            "explain": {
+              "ua": "Тривалість досі → PPC.",
+              "ru": "Длительность до сих пор → PPC."
+            },
+            "id": "b2-u01-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Past Simple · Past Continuous · Past Perfect · Past Perfect Continuous",
+        "explain": {
+          "ua": "Simple — подія. Continuous — фон, процес у момент. Perfect — те, що було раніше. Perfect Continuous — тривалий процес до певного моменту в минулому.",
+          "ru": "Simple — событие. Continuous — фон, процесс в момент. Perfect — то, что было раньше. Perfect Continuous — длительный процесс до определённого момента в прошлом."
+        },
+        "examples": [
+          {
+            "en": "I met him in 2015.",
+            "ua": "Я познайомився з ним у 2015-му.",
+            "ru": "Я познакомился с ним в 2015-м."
+          },
+          {
+            "en": "I was walking home when it started to rain.",
+            "ua": "Я йшов додому, коли почався дощ.",
+            "ru": "Я шёл домой, когда начался дождь."
+          },
+          {
+            "en": "I'd been walking for an hour when it started to rain.",
+            "ua": "Я йшов уже годину, коли почався дощ.",
+            "ru": "Я шёл уже час, когда начался дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "tenses-past",
+          "question": "We ___ in Spain in 2019.",
+          "options": [
+            "were",
+            "had been",
+            "have been"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Подія → Simple.",
+            "ru": "Событие → Simple."
+          },
+          "id": "b2-u01-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-past",
+          "question": "At midnight I ___ still ___ .",
+          "options": [
+            "was / working",
+            "had / worked",
+            "did / work"
+          ],
+          "answer": "was / working",
+          "explain": {
+            "ua": "Момент → Continuous.",
+            "ru": "Момент → Continuous."
+          },
+          "id": "b2-u01-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-past",
+          "question": "When I arrived, the guests ___ .",
+          "options": [
+            "had already left",
+            "already left",
+            "have already left"
+          ],
+          "answer": "had already left",
+          "explain": {
+            "ua": "Раніше → Past Perfect.",
+            "ru": "Раньше → Past Perfect."
+          },
+          "id": "b2-u01-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-past",
+          "question": "Her eyes were red. She ___ .",
+          "options": [
+            "had been crying",
+            "cried",
+            "was cried"
+          ],
+          "answer": "had been crying",
+          "explain": {
+            "ua": "Процес до моменту → PPC (past).",
+            "ru": "Процесс до момента → PPC (past)."
+          },
+          "id": "b2-u01-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-past",
+          "question": "While I ___ dinner, the phone rang.",
+          "options": [
+            "was cooking",
+            "cooked",
+            "had cooked"
+          ],
+          "answer": "was cooking",
+          "explain": {
+            "ua": "Фон.",
+            "ru": "Фон."
+          },
+          "id": "b2-u01-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "tenses-past",
+          "bank": [
+            "moved",
+            "was living",
+            "had lived",
+            "had been working"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We ___ to Kyiv in 2010.",
+            "I ___ in Lviv when I met my husband.",
+            "By 2020 we ___ there for ten years.",
+            "He was tired because he ___ all day."
+          ],
+          "answers": [
+            "moved",
+            "was living",
+            "had lived",
+            "had been working"
+          ],
+          "explain": {
+            "ua": "Подія / фон / раніше / процес раніше.",
+            "ru": "Событие / фон / раньше / процесс раньше."
+          },
+          "id": "b2-u01-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-past",
+          "sentence": "When I came home, my wife cooked dinner already.",
+          "answer": "When I came home, my wife had already cooked dinner.",
+          "accept": [],
+          "explain": {
+            "ua": "Раніше → had cooked.",
+            "ru": "Раньше → had cooked."
+          },
+          "id": "b2-u01-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "tenses-past",
+          "audio_text": "I'd been waiting for an hour when he arrived.",
+          "options": [
+            "I'd been waiting for an hour when he arrived.",
+            "I was waiting for an hour when he arrived.",
+            "I've been waiting for an hour when he arrived."
+          ],
+          "answer": "I'd been waiting for an hour when he arrived.",
+          "audio": "",
+          "explain": {
+            "ua": "Had been waiting.",
+            "ru": "Had been waiting."
+          },
+          "id": "b2-u01-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "tenses-past",
+          "prompt": {
+            "ua": "Коли я прокинулася, ішов сніг.",
+            "ru": "Когда я проснулась, шёл снег."
+          },
+          "answer": "When I woke up, it was snowing.",
+          "accept": [
+            "It was snowing when I woke up."
+          ],
+          "explain": {
+            "ua": "Фон → Continuous.",
+            "ru": "Фон → Continuous."
+          },
+          "id": "b2-u01-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u01-l03",
+      "title": {
+        "en": "Perfect tenses",
+        "ua": "Perfect-часи",
+        "ru": "Perfect-времена"
+      },
+      "recap": {
+        "from": "b2-u01-l02",
+        "note": {
+          "ua": "Згадаймо: Past Simple · Past Continuous · Past Perfect · Past Perfect Continuous",
+          "ru": "Вспомним: Past Simple · Past Continuous · Past Perfect · Past Perfect Continuous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "tenses-past",
+            "question": "We ___ in Spain in 2019.",
+            "options": [
+              "were",
+              "had been",
+              "have been"
+            ],
+            "answer": "were",
+            "explain": {
+              "ua": "Подія → Simple.",
+              "ru": "Событие → Simple."
+            },
+            "id": "b2-u01-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "tenses-past",
+            "question": "Her eyes were red. She ___ .",
+            "options": [
+              "had been crying",
+              "cried",
+              "was cried"
+            ],
+            "answer": "had been crying",
+            "explain": {
+              "ua": "Процес до моменту → PPC (past).",
+              "ru": "Процесс до момента → PPC (past)."
+            },
+            "id": "b2-u01-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Present Perfect (до зараз) · Past Perfect (до моменту в минулому) · Future Perfect (до моменту в майбутньому)",
+          "ru": "Present Perfect (до сейчас) · Past Perfect (до момента в прошлом) · Future Perfect (до момента в будущем)"
+        },
+        "explain": {
+          "ua": "Усі Perfect-часи — «вже зроблено до певної точки». Точка — зараз (have done), у минулому (had done) або в майбутньому (will have done).",
+          "ru": "Все Perfect-времена — «уже сделано до определённой точки». Точка — сейчас (have done), в прошлом (had done) или в будущем (will have done)."
+        },
+        "examples": [
+          {
+            "en": "I've finished the report.",
+            "ua": "Я закінчив звіт (зараз готово).",
+            "ru": "Я закончил отчёт (сейчас готово)."
+          },
+          {
+            "en": "I'd finished the report before the meeting.",
+            "ua": "Я закінчив звіт до наради.",
+            "ru": "Я закончил отчёт до совещания."
+          },
+          {
+            "en": "I'll have finished it by Friday.",
+            "ua": "До п'ятниці я його закінчу.",
+            "ru": "К пятнице я его закончу."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "tenses-perfect",
+          "question": "I can't come — I ___ my homework yet.",
+          "options": [
+            "haven't finished",
+            "hadn't finished",
+            "won't have finished"
+          ],
+          "answer": "haven't finished",
+          "explain": {
+            "ua": "До зараз → have.",
+            "ru": "До сейчас → have."
+          },
+          "id": "b2-u01-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-perfect",
+          "question": "By the time the police arrived, the thief ___ .",
+          "options": [
+            "had escaped",
+            "has escaped",
+            "will have escaped"
+          ],
+          "answer": "had escaped",
+          "explain": {
+            "ua": "До моменту в минулому → had.",
+            "ru": "До момента в прошлом → had."
+          },
+          "id": "b2-u01-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-perfect",
+          "question": "By 2030, they ___ the new bridge.",
+          "options": [
+            "will have built",
+            "have built",
+            "had built"
+          ],
+          "answer": "will have built",
+          "explain": {
+            "ua": "До моменту в майбутньому → will have.",
+            "ru": "До момента в будущем → will have."
+          },
+          "id": "b2-u01-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-perfect",
+          "question": "She ___ never ___ a plane before her trip to Spain last year.",
+          "options": [
+            "had / flown",
+            "has / flown",
+            "will have / flown"
+          ],
+          "answer": "had / flown",
+          "explain": {
+            "ua": "Минуле до минулого.",
+            "ru": "Прошлое до прошлого."
+          },
+          "id": "b2-u01-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "tenses-perfect",
+          "pairs": [
+            {
+              "left": "now",
+              "right": "have done"
+            },
+            {
+              "left": "before a past moment",
+              "right": "had done"
+            },
+            {
+              "left": "before a future moment",
+              "right": "will have done"
+            }
+          ],
+          "explain": {
+            "ua": "Точка відліку.",
+            "ru": "Точка отсчёта."
+          },
+          "id": "b2-u01-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-perfect",
+          "sentence": "I've seen him yesterday.",
+          "answer": "I saw him yesterday.",
+          "accept": [],
+          "explain": {
+            "ua": "Yesterday → Past Simple.",
+            "ru": "Yesterday → Past Simple."
+          },
+          "id": "b2-u01-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-perfect",
+          "sentence": "By next June I will finish my degree.",
+          "answer": "By next June I will have finished my degree.",
+          "accept": [
+            "By next June I'll have finished my degree."
+          ],
+          "explain": {
+            "ua": "By + майбутнє → Future Perfect.",
+            "ru": "By + будущее → Future Perfect."
+          },
+          "id": "b2-u01-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "tenses-perfect",
+          "audio_text": "I'll have finished it by Friday.",
+          "options": [
+            "I'll have finished it by Friday.",
+            "I'll finish it by Friday.",
+            "I'd have finished it by Friday."
+          ],
+          "answer": "I'll have finished it by Friday.",
+          "audio": "",
+          "explain": {
+            "ua": "Will have finished.",
+            "ru": "Will have finished."
+          },
+          "id": "b2-u01-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "tenses-perfect",
+          "prompt": {
+            "ua": "До того часу він уже пішов.",
+            "ru": "К тому времени он уже ушёл."
+          },
+          "answer": "By then, he had already left.",
+          "accept": [
+            "By that time he had already left.",
+            "By then he had already left.",
+            "By then he'd already left."
+          ],
+          "explain": {
+            "ua": "Had left.",
+            "ru": "Had left."
+          },
+          "id": "b2-u01-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u01-l04",
+      "title": {
+        "en": "Future forms",
+        "ua": "Майбутні форми",
+        "ru": "Будущие формы"
+      },
+      "recap": {
+        "from": "b2-u01-l03",
+        "note": {
+          "ua": "Згадаймо: Present Perfect (до зараз) · Past Perfect (до моменту в минулому) · Future Perfect (до моменту в майбутньому)",
+          "ru": "Вспомним: Present Perfect (до сейчас) · Past Perfect (до момента в прошлом) · Future Perfect (до момента в будущем)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "tenses-perfect",
+            "question": "I can't come — I ___ my homework yet.",
+            "options": [
+              "haven't finished",
+              "hadn't finished",
+              "won't have finished"
+            ],
+            "answer": "haven't finished",
+            "explain": {
+              "ua": "До зараз → have.",
+              "ru": "До сейчас → have."
+            },
+            "id": "b2-u01-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "tenses-perfect",
+            "question": "She ___ never ___ a plane before her trip to Spain last year.",
+            "options": [
+              "had / flown",
+              "has / flown",
+              "will have / flown"
+            ],
+            "answer": "had / flown",
+            "explain": {
+              "ua": "Минуле до минулого.",
+              "ru": "Прошлое до прошлого."
+            },
+            "id": "b2-u01-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "will — рішення / прогноз · going to — план / ознаки · Present Continuous — домовленість · Present Simple — розклад",
+          "ru": "will — решение / прогноз · going to — план / признаки · Present Continuous — договорённость · Present Simple — расписание"
+        },
+        "explain": {
+          "ua": "Розклад транспорту, кіно — Present Simple: The train leaves at 8. Домовленість — Continuous: I'm meeting Max at 6. План — going to. Спонтанне рішення — will.",
+          "ru": "Расписание транспорта, кино — Present Simple: The train leaves at 8. Договорённость — Continuous: I'm meeting Max at 6. План — going to. Спонтанное решение — will."
+        },
+        "examples": [
+          {
+            "en": "The film starts at 7:30.",
+            "ua": "Фільм починається о 19:30.",
+            "ru": "Фильм начинается в 19:30."
+          },
+          {
+            "en": "I'm seeing the dentist on Monday.",
+            "ua": "У понеділок я йду до стоматолога.",
+            "ru": "В понедельник я иду к стоматологу."
+          },
+          {
+            "en": "I'm going to start running.",
+            "ua": "Я збираюся почати бігати.",
+            "ru": "Я собираюсь начать бегать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "tenses-future",
+          "question": "Our flight ___ at 6:15 tomorrow morning.",
+          "options": [
+            "leaves",
+            "is leaving",
+            "will leave"
+          ],
+          "answer": "leaves",
+          "explain": {
+            "ua": "Розклад → Present Simple.",
+            "ru": "Расписание → Present Simple."
+          },
+          "id": "b2-u01-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-future",
+          "question": "I ___ lunch with my boss on Friday. It's in my diary.",
+          "options": [
+            "'m having",
+            "'ll have",
+            "have"
+          ],
+          "answer": "'m having",
+          "explain": {
+            "ua": "Домовленість → Continuous.",
+            "ru": "Договорённость → Continuous."
+          },
+          "id": "b2-u01-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-future",
+          "question": "— The printer isn't working. — I ___ have a look.",
+          "options": [
+            "'ll",
+            "'m going to",
+            "'m"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Спонтанне рішення → will.",
+            "ru": "Спонтанное решение → will."
+          },
+          "id": "b2-u01-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-future",
+          "question": "Look at that queue! We ___ miss the start.",
+          "options": [
+            "'re going to",
+            "will",
+            "miss"
+          ],
+          "answer": "'re going to",
+          "explain": {
+            "ua": "Ознаки → going to.",
+            "ru": "Признаки → going to."
+          },
+          "id": "b2-u01-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses-future",
+          "question": "I've decided — I ___ apply for that job.",
+          "options": [
+            "'m going to",
+            "'ll",
+            "apply"
+          ],
+          "answer": "'m going to",
+          "explain": {
+            "ua": "Рішення вже прийняте → going to.",
+            "ru": "Решение уже принято → going to."
+          },
+          "id": "b2-u01-l04-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "tenses-future",
+          "bank": [
+            "leaves",
+            "'m meeting",
+            "'ll",
+            "'m going to"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The bus ___ at 7:40.",
+            "I ___ Anna at the café at 3.",
+            "OK, I ___ call you back.",
+            "I ___ learn Italian next year."
+          ],
+          "answers": [
+            "leaves",
+            "'m meeting",
+            "'ll",
+            "'m going to"
+          ],
+          "explain": {
+            "ua": "Розклад / домовленість / рішення зараз / план.",
+            "ru": "Расписание / договорённость / решение сейчас / план."
+          },
+          "id": "b2-u01-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses-future",
+          "sentence": "The concert will start at 8, it says on the ticket.",
+          "answer": "The concert starts at 8, it says on the ticket.",
+          "accept": [],
+          "explain": {
+            "ua": "Розклад → Present Simple.",
+            "ru": "Расписание → Present Simple."
+          },
+          "id": "b2-u01-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "tenses-future",
+          "audio_text": "The train leaves at ten past six.",
+          "options": [
+            "The train leaves at ten past six.",
+            "The train will leave at ten past six.",
+            "The train lives at ten past six."
+          ],
+          "answer": "The train leaves at ten past six.",
+          "audio": "",
+          "explain": {
+            "ua": "Leaves.",
+            "ru": "Leaves."
+          },
+          "id": "b2-u01-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "tenses-future",
+          "prompt": {
+            "ua": "Я зустрічаюся з ним завтра о десятій.",
+            "ru": "Я встречаюсь с ним завтра в десять."
+          },
+          "answer": "I'm meeting him tomorrow at 10.",
+          "accept": [
+            "I'm meeting him at 10 tomorrow.",
+            "I am meeting him tomorrow at 10.",
+            "I'm meeting him tomorrow at ten."
+          ],
+          "explain": {
+            "ua": "Домовленість.",
+            "ru": "Договорённость."
+          },
+          "id": "b2-u01-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u01-l05",
+      "title": {
+        "en": "State verbs",
+        "ua": "Дієслова стану",
+        "ru": "Глаголы состояния"
+      },
+      "recap": {
+        "from": "b2-u01-l04",
+        "note": {
+          "ua": "Згадаймо: will — рішення / прогноз · going to — план / ознаки · Present Continuous — домовленість · Present Simple — розклад",
+          "ru": "Вспомним: will — решение / прогноз · going to — план / признаки · Present Continuous — договорённость · Present Simple — расписание"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "tenses-future",
+            "question": "Our flight ___ at 6:15 tomorrow morning.",
+            "options": [
+              "leaves",
+              "is leaving",
+              "will leave"
+            ],
+            "answer": "leaves",
+            "explain": {
+              "ua": "Розклад → Present Simple.",
+              "ru": "Расписание → Present Simple."
+            },
+            "id": "b2-u01-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "tenses-future",
+            "question": "Look at that queue! We ___ miss the start.",
+            "options": [
+              "'re going to",
+              "will",
+              "miss"
+            ],
+            "answer": "'re going to",
+            "explain": {
+              "ua": "Ознаки → going to.",
+              "ru": "Признаки → going to."
+            },
+            "id": "b2-u01-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — з різним значенням",
+          "ru": "know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — с разным значением"
+        },
+        "explain": {
+          "ua": "I think it's good (думка) — I'm thinking about it (процес). I have a car (маю) — I'm having lunch (дія). I see (розумію) — I'm seeing a doctor (зустрічаюся).",
+          "ru": "I think it's good (мнение) — I'm thinking about it (процесс). I have a car (имею) — I'm having lunch (действие). I see (понимаю) — I'm seeing a doctor (встречаюсь)."
+        },
+        "examples": [
+          {
+            "en": "This bag belongs to me.",
+            "ua": "Ця сумка належить мені.",
+            "ru": "Эта сумка принадлежит мне."
+          },
+          {
+            "en": "I'm thinking of moving abroad.",
+            "ua": "Я думаю про переїзд за кордон.",
+            "ru": "Я думаю о переезде за границу."
+          },
+          {
+            "en": "It depends on the weather.",
+            "ua": "Це залежить від погоди.",
+            "ru": "Это зависит от погоды."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "This car ___ to my brother.",
+          "options": [
+            "belongs",
+            "is belonging",
+            "has been belonging"
+          ],
+          "answer": "belongs",
+          "explain": {
+            "ua": "Belong — без -ing.",
+            "ru": "Belong — без -ing."
+          },
+          "id": "b2-u01-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "I ___ about changing my job. What do you think?",
+          "options": [
+            "'m thinking",
+            "think",
+            "thought"
+          ],
+          "answer": "'m thinking",
+          "explain": {
+            "ua": "Процес обдумування → -ing.",
+            "ru": "Процесс обдумывания → -ing."
+          },
+          "id": "b2-u01-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "I ___ he's right.",
+          "options": [
+            "think",
+            "'m thinking",
+            "'ve been thinking"
+          ],
+          "answer": "think",
+          "explain": {
+            "ua": "Думка → без -ing.",
+            "ru": "Мнение → без -ing."
+          },
+          "id": "b2-u01-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "We ___ dinner now, can I call you back?",
+          "options": [
+            "'re having",
+            "have",
+            "'ve had"
+          ],
+          "answer": "'re having",
+          "explain": {
+            "ua": "Have (їсти) → -ing.",
+            "ru": "Have (есть) → -ing."
+          },
+          "id": "b2-u01-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "It ___ that nobody is at home.",
+          "options": [
+            "seems",
+            "is seeming",
+            "has seemed"
+          ],
+          "answer": "seems",
+          "explain": {
+            "ua": "Seem — без -ing.",
+            "ru": "Seem — без -ing."
+          },
+          "id": "b2-u01-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "state-verbs",
+          "pairs": [
+            {
+              "left": "I have a dog.",
+              "right": {
+                "ua": "Маю собаку.",
+                "ru": "У меня есть собака."
+              }
+            },
+            {
+              "left": "I'm having a shower.",
+              "right": {
+                "ua": "Я в душі.",
+                "ru": "Я в душе."
+              }
+            },
+            {
+              "left": "I see.",
+              "right": {
+                "ua": "Зрозуміло.",
+                "ru": "Понятно."
+              }
+            },
+            {
+              "left": "I'm seeing Tom.",
+              "right": {
+                "ua": "Я зустрічаюся з Томом.",
+                "ru": "Я встречаюсь с Томом."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Стан чи дія.",
+            "ru": "Состояние или действие."
+          },
+          "id": "b2-u01-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "state-verbs",
+          "sentence": "I'm not believing you.",
+          "answer": "I don't believe you.",
+          "accept": [],
+          "explain": {
+            "ua": "Believe — без -ing.",
+            "ru": "Believe — без -ing."
+          },
+          "id": "b2-u01-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "state-verbs",
+          "sentence": "It's depending on the price.",
+          "answer": "It depends on the price.",
+          "accept": [],
+          "explain": {
+            "ua": "Depend — без -ing.",
+            "ru": "Depend — без -ing."
+          },
+          "id": "b2-u01-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "state-verbs",
+          "prompt": {
+            "ua": "Це залежить від тебе.",
+            "ru": "Это зависит от тебя."
+          },
+          "answer": "It depends on you.",
+          "accept": [],
+          "explain": {
+            "ua": "Depend on.",
+            "ru": "Depend on."
+          },
+          "id": "b2-u01-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u01-l06",
+      "title": {
+        "en": "Practice: choosing the tense",
+        "ua": "Практика: вибір часу",
+        "ru": "Практика: выбор времени"
+      },
+      "recap": {
+        "from": "b2-u01-l05",
+        "note": {
+          "ua": "Згадаймо: know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — з різним значенням",
+          "ru": "Вспомним: know, believe, own, belong, seem, depend, mean — без -ing · think / have / see — с разным значением"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "This car ___ to my brother.",
+            "options": [
+              "belongs",
+              "is belonging",
+              "has been belonging"
+            ],
+            "answer": "belongs",
+            "explain": {
+              "ua": "Belong — без -ing.",
+              "ru": "Belong — без -ing."
+            },
+            "id": "b2-u01-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "It ___ that nobody is at home.",
+            "options": [
+              "seems",
+              "is seeming",
+              "has seemed"
+            ],
+            "answer": "seems",
+            "explain": {
+              "ua": "Seem — без -ing.",
+              "ru": "Seem — без -ing."
+            },
+            "id": "b2-u01-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Marta has lived in Lisbon for three years.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She was working in a bank when she moved.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What will she have done by next summer?",
+              "options": [
+                "finished her course",
+                "moved back to Kyiv",
+                "bought a house"
+              ],
+              "answer": "finished her course"
+            }
+          ],
+          "text": "I moved to Lisbon three years ago. Before that, I had worked as a designer in Kyiv for five years. When I arrived, I didn't speak any Portuguese. I've been learning it since then and now I can talk to my neighbours. At the moment I'm taking a UX course in the evenings. By next summer I'll have finished it, and I'm going to look for a new job.",
+          "explain": {
+            "ua": "Lisbon 3 years; worked as designer before; now taking a course; by next summer will have finished.",
+            "ru": "Lisbon 3 years; worked as designer before; now taking a course; by next summer will have finished."
+          },
+          "id": "b2-u01-l06-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "tenses",
+          "bank": [
+            "moved",
+            "had worked",
+            "'ve been learning",
+            "'m taking",
+            "'ll have finished"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Marta ___ to Lisbon three years ago.",
+            "Before that she ___ as a designer.",
+            "She ___ Portuguese since then.",
+            "At the moment she ___ a UX course.",
+            "By next summer she ___ it."
+          ],
+          "answers": [
+            "moved",
+            "had worked",
+            "'ve been learning",
+            "'m taking",
+            "'ll have finished"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u01-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses",
+          "question": "I ___ to call you, but I couldn't find my phone.",
+          "options": [
+            "was going",
+            "am going",
+            "will go"
+          ],
+          "answer": "was going",
+          "explain": {
+            "ua": "Was going to — збирався (у минулому).",
+            "ru": "Was going to — собирался (в прошлом)."
+          },
+          "id": "b2-u01-l06-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "tenses",
+          "question": "Ten years from now, I ___ on a beach somewhere.",
+          "options": [
+            "'ll be lying",
+            "'ll lie",
+            "lie"
+          ],
+          "answer": "'ll be lying",
+          "explain": {
+            "ua": "Процес у майбутньому → Future Continuous.",
+            "ru": "Процесс в будущем → Future Continuous."
+          },
+          "id": "b2-u01-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses",
+          "sentence": "I am knowing her since school.",
+          "answer": "I've known her since school.",
+          "accept": [
+            "I have known her since school."
+          ],
+          "explain": {
+            "ua": "Know + since → PP.",
+            "ru": "Know + since → PP."
+          },
+          "id": "b2-u01-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "tenses",
+          "sentence": "When I arrived, they were already leaving two hours ago.",
+          "answer": "When I arrived, they had already left.",
+          "accept": [],
+          "explain": {
+            "ua": "Раніше → Past Perfect.",
+            "ru": "Раньше → Past Perfect."
+          },
+          "id": "b2-u01-l06-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "I",
+            "Portuguese",
+            "learning",
+            "have",
+            "then",
+            "been",
+            "since"
+          ],
+          "answer": "I have been learning Portuguese since then",
+          "explain": {
+            "ua": "Have been learning → since then.",
+            "ru": "Have been learning → since then."
+          },
+          "id": "b2-u01-l06-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "tenses",
+          "audio_text": "By next summer I'll have finished it.",
+          "options": [
+            "By next summer I'll have finished it.",
+            "By next summer I'll finish it.",
+            "By last summer I'd finished it."
+          ],
+          "answer": "By next summer I'll have finished it.",
+          "audio": "",
+          "explain": {
+            "ua": "Will have finished.",
+            "ru": "Will have finished."
+          },
+          "id": "b2-u01-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "tenses",
+          "prompt": {
+            "ua": "Я вивчаю англійську вже п'ять років.",
+            "ru": "Я учу английский уже пять лет."
+          },
+          "answer": "I've been learning English for five years.",
+          "accept": [
+            "I have been learning English for five years.",
+            "I've been studying English for five years."
+          ],
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b2-u01-l06-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "tenses-present",
+      "question": "The sun ___ in the east.",
+      "options": [
+        "rises",
+        "is rising",
+        "has risen"
+      ],
+      "answer": "rises",
+      "explain": {
+        "ua": "Факт.",
+        "ru": "Факт."
+      },
+      "id": "b2-u01-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "tenses-present",
+      "question": "I ___ here since 2018.",
+      "options": [
+        "'ve worked",
+        "work",
+        "'m working"
+      ],
+      "answer": "'ve worked",
+      "explain": {
+        "ua": "Since → PP.",
+        "ru": "Since → PP."
+      },
+      "id": "b2-u01-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "tenses-past",
+      "question": "When I got home, someone ___ in.",
+      "options": [
+        "had broken",
+        "broke",
+        "has broken"
+      ],
+      "answer": "had broken",
+      "explain": {
+        "ua": "Раніше → Past Perfect.",
+        "ru": "Раньше → Past Perfect."
+      },
+      "id": "b2-u01-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "tenses-perfect",
+      "question": "By 2030 I ___ my own business.",
+      "options": [
+        "will have started",
+        "start",
+        "have started"
+      ],
+      "answer": "will have started",
+      "explain": {
+        "ua": "Future Perfect.",
+        "ru": "Future Perfect."
+      },
+      "id": "b2-u01-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "tenses-future",
+      "question": "The match ___ at 8 pm.",
+      "options": [
+        "starts",
+        "will be starting",
+        "is started"
+      ],
+      "answer": "starts",
+      "explain": {
+        "ua": "Розклад.",
+        "ru": "Расписание."
+      },
+      "id": "b2-u01-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "tenses-past",
+      "question": "I ___ dinner when you called. (cook)",
+      "answer": "was cooking",
+      "accept": [],
+      "explain": {
+        "ua": "Фон → Continuous.",
+        "ru": "Фон → Continuous."
+      },
+      "id": "b2-u01-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "state-verbs",
+      "question": "This phone ___ to me. (belong)",
+      "answer": "belongs",
+      "accept": [],
+      "explain": {
+        "ua": "Без -ing.",
+        "ru": "Без -ing."
+      },
+      "id": "b2-u01-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "state-verbs",
+      "sentence": "I'm not understanding this word.",
+      "answer": "I don't understand this word.",
+      "accept": [],
+      "explain": {
+        "ua": "Understand — без -ing.",
+        "ru": "Understand — без -ing."
+      },
+      "id": "b2-u01-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "tenses-past",
+      "sentence": "He was tired because he worked since 6 am.",
+      "answer": "He was tired because he had been working since 6 am.",
+      "accept": [
+        "He was tired because he'd been working since 6 am."
+      ],
+      "explain": {
+        "ua": "Процес до моменту → had been -ing.",
+        "ru": "Процесс до момента → had been -ing."
+      },
+      "id": "b2-u01-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "state-verbs",
+      "words": [
+        "thinking",
+        "abroad",
+        "am",
+        "of",
+        "moving",
+        "I"
+      ],
+      "answer": "I am thinking of moving abroad",
+      "explain": {
+        "ua": "Am thinking → of moving abroad.",
+        "ru": "Am thinking → of moving abroad."
+      },
+      "id": "b2-u01-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "tenses-perfect",
+      "prompt": {
+        "ua": "До п'ятниці я закінчу проєкт.",
+        "ru": "К пятнице я закончу проект."
+      },
+      "answer": "I'll have finished the project by Friday.",
+      "accept": [
+        "I will have finished the project by Friday.",
+        "By Friday I'll have finished the project."
+      ],
+      "explain": {
+        "ua": "Future Perfect.",
+        "ru": "Future Perfect."
+      },
+      "id": "b2-u01-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "state-verbs",
+      "audio_text": "It depends on the weather.",
+      "options": [
+        "It depends on the weather.",
+        "It's depending on the weather.",
+        "It depends of the weather."
+      ],
+      "answer": "It depends on the weather.",
+      "audio": "",
+      "explain": {
+        "ua": "Depends on.",
+        "ru": "Depends on."
+      },
+      "id": "b2-u01-cp12"
+    }
+  ]
+}

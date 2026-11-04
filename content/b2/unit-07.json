@@ -1,0 +1,1003 @@
+{
+  "id": "b2-u07",
+  "level": "B2",
+  "order": 7,
+  "kind": "grammar",
+  "title": {
+    "en": "Wish and if only",
+    "ua": "Wish та if only",
+    "ru": "Wish и if only"
+  },
+  "rule": {
+    "formula": {
+      "ua": "wish + Past (про зараз) · wish + had V3 (про минуле) · wish + would (роздратування, бажання змін)",
+      "ru": "wish + Past (о сейчас) · wish + had V3 (о прошлом) · wish + would (раздражение, желание перемен)"
+    },
+    "explain": {
+      "ua": "I wish — «шкода, що… / хотілося б». I wish I had a car (але немає). I wish I had studied (але не вчився). I wish you would stop! (дратує). If only — те саме, але емоційніше.",
+      "ru": "I wish — «жаль, что… / хотелось бы». I wish I had a car (но нет). I wish I had studied (но не учился). I wish you would stop! (раздражает). If only — то же, но эмоциональнее."
+    },
+    "examples": [
+      {
+        "en": "I wish I lived by the sea.",
+        "ua": "Шкода, що я не живу біля моря.",
+        "ru": "Жаль, что я не живу у моря."
+      },
+      {
+        "en": "I wish I hadn't eaten so much.",
+        "ua": "Шкода, що я стільки з'їв.",
+        "ru": "Жаль, что я столько съел."
+      },
+      {
+        "en": "I wish it would stop raining.",
+        "ua": "Хоч би вже перестав дощ.",
+        "ru": "Хоть бы уже перестал дождь."
+      }
+    ],
+    "compare": {
+      "ua": "Українське «шкода, що НЕ…» англійською — без not: Шкода, що я не знаю = I wish I knew. Логіка навпаки!",
+      "ru": "Русское «жаль, что НЕ…» по-английски — без not: Жаль, что я не знаю = I wish I knew. Логика наоборот!"
+    }
+  },
+  "vocab": [
+    {
+      "word": "wish",
+      "ipa": "/wɪʃ/",
+      "ua": "бажати, шкодувати",
+      "ru": "желать, сожалеть",
+      "example": "I wish I could fly.",
+      "audio": ""
+    },
+    {
+      "word": "if only",
+      "ipa": "/ɪf ˈəʊnli/",
+      "ua": "якби ж то",
+      "ru": "если бы только",
+      "example": "If only I had more time!",
+      "audio": ""
+    },
+    {
+      "word": "regret",
+      "ipa": "/rɪˈɡret/",
+      "ua": "шкодувати",
+      "ru": "сожалеть",
+      "example": "I regret not going.",
+      "audio": ""
+    },
+    {
+      "word": "complain",
+      "ipa": "/kəmˈpleɪn/",
+      "ua": "скаржитися",
+      "ru": "жаловаться",
+      "example": "Stop complaining!",
+      "audio": ""
+    },
+    {
+      "word": "interrupt",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "ua": "перебивати",
+      "ru": "перебивать",
+      "example": "I wish you wouldn't interrupt.",
+      "audio": ""
+    },
+    {
+      "word": "in time",
+      "ipa": "/ɪn ˈtaɪm/",
+      "ua": "вчасно",
+      "ru": "вовремя",
+      "example": "I wish I'd arrived in time.",
+      "audio": ""
+    },
+    {
+      "word": "taller",
+      "ipa": "/ˈtɔːlə/",
+      "ua": "вищий",
+      "ru": "выше",
+      "example": "I wish I were taller.",
+      "audio": ""
+    },
+    {
+      "word": "lottery",
+      "ipa": "/ˈlɒtəri/",
+      "ua": "лотерея",
+      "ru": "лотерея",
+      "example": "I wish I'd won the lottery.",
+      "audio": ""
+    },
+    {
+      "word": "rude",
+      "ipa": "/ruːd/",
+      "ua": "грубий",
+      "ru": "грубый",
+      "example": "I wish I hadn't been so rude.",
+      "audio": ""
+    },
+    {
+      "word": "noise",
+      "ipa": "/nɔɪz/",
+      "ua": "шум",
+      "ru": "шум",
+      "example": "I wish they'd stop making that noise.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u07-l01",
+      "title": {
+        "en": "wish about the present",
+        "ua": "wish про теперішнє",
+        "ru": "wish о настоящем"
+      },
+      "recap": {
+        "from": "b2-u06-l03",
+        "note": {
+          "ua": "Згадаймо: 0: If + Present, Present · 1: If + Present, will · 2: If + Past, would · 3: If + had V3, would have V3 · mixed",
+          "ru": "Вспомним: 0: If + Present, Present · 1: If + Present, will · 2: If + Past, would · 3: If + had V3, would have V3 · mixed"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "all-conditionals",
+            "question": "If you mix red and white, you ___ pink.",
+            "options": [
+              "get",
+              "will get",
+              "would get"
+            ],
+            "answer": "get",
+            "explain": {
+              "ua": "Факт → 0.",
+              "ru": "Факт → 0."
+            },
+            "id": "b2-u07-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "all-conditionals",
+            "question": "If I hadn't moved to Kyiv, I ___ my husband.",
+            "options": [
+              "wouldn't know",
+              "won't know",
+              "don't know"
+            ],
+            "answer": "wouldn't know",
+            "explain": {
+              "ua": "Минуле → зараз (mixed).",
+              "ru": "Прошлое → сейчас (mixed)."
+            },
+            "id": "b2-u07-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I wish + Past Simple / could / were — хотілося б, щоб зараз було інакше",
+          "ru": "I wish + Past Simple / could / were — хотелось бы, чтобы сейчас было иначе"
+        },
+        "explain": {
+          "ua": "Бажання змінити теперішнє: I wish I had more money. I wish I could speak Chinese. I wish I were taller (were — для всіх).",
+          "ru": "Желание изменить настоящее: I wish I had more money. I wish I could speak Chinese. I wish I were taller (were — для всех)."
+        },
+        "examples": [
+          {
+            "en": "I wish I knew the answer.",
+            "ua": "Шкода, що я не знаю відповіді.",
+            "ru": "Жаль, что я не знаю ответа."
+          },
+          {
+            "en": "I wish I could stay longer.",
+            "ua": "Шкода, що не можу залишитися довше.",
+            "ru": "Жаль, что не могу остаться дольше."
+          },
+          {
+            "en": "She wishes she were older.",
+            "ua": "Вона хотіла б бути старшою.",
+            "ru": "Она хотела бы быть старше."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "wish-present",
+          "question": "I don't have a car. I wish I ___ a car.",
+          "options": [
+            "had",
+            "have",
+            "would have"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Зараз → Past.",
+            "ru": "Сейчас → Past."
+          },
+          "id": "b2-u07-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-present",
+          "question": "I can't swim. I wish I ___ swim.",
+          "options": [
+            "could",
+            "can",
+            "would"
+          ],
+          "answer": "could",
+          "explain": {
+            "ua": "Can → could.",
+            "ru": "Can → could."
+          },
+          "id": "b2-u07-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-present",
+          "question": "It's so cold. I wish it ___ warmer.",
+          "options": [
+            "were",
+            "is",
+            "will be"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Were.",
+            "ru": "Were."
+          },
+          "id": "b2-u07-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-present",
+          "question": "I live in a small flat. I wish I ___ in a house.",
+          "options": [
+            "lived",
+            "live",
+            "had lived"
+          ],
+          "answer": "lived",
+          "explain": {
+            "ua": "Past.",
+            "ru": "Past."
+          },
+          "id": "b2-u07-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-present",
+          "question": {
+            "ua": "Шкода, що я не знаю його номер. → I wish I ___ his number.",
+            "ru": "Жаль, что я не знаю его номер. → I wish I ___ his number."
+          },
+          "options": [
+            "knew",
+            "didn't know",
+            "know"
+          ],
+          "answer": "knew",
+          "explain": {
+            "ua": "Без not — логіка навпаки.",
+            "ru": "Без not — логика наоборот."
+          },
+          "id": "b2-u07-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "wish-present",
+          "sentence": "I wish I have more free time.",
+          "answer": "I wish I had more free time.",
+          "accept": [],
+          "explain": {
+            "ua": "Wish + Past.",
+            "ru": "Wish + Past."
+          },
+          "id": "b2-u07-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "wish-present",
+          "sentence": "I wish I can speak French.",
+          "answer": "I wish I could speak French.",
+          "accept": [],
+          "explain": {
+            "ua": "Can → could.",
+            "ru": "Can → could."
+          },
+          "id": "b2-u07-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "wish-present",
+          "audio_text": "I wish I were on holiday.",
+          "options": [
+            "I wish I were on holiday.",
+            "I wish I am on holiday.",
+            "I wish I was on holiday too."
+          ],
+          "answer": "I wish I were on holiday.",
+          "audio": "",
+          "explain": {
+            "ua": "Wish + were.",
+            "ru": "Wish + were."
+          },
+          "id": "b2-u07-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "wish-present",
+          "prompt": {
+            "ua": "Шкода, що я не вмію готувати.",
+            "ru": "Жаль, что я не умею готовить."
+          },
+          "answer": "I wish I could cook.",
+          "accept": [
+            "I wish I knew how to cook."
+          ],
+          "explain": {
+            "ua": "Wish + could.",
+            "ru": "Wish + could."
+          },
+          "id": "b2-u07-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u07-l02",
+      "title": {
+        "en": "wish about the past",
+        "ua": "wish про минуле",
+        "ru": "wish о прошлом"
+      },
+      "recap": {
+        "from": "b2-u07-l01",
+        "note": {
+          "ua": "Згадаймо: I wish + Past Simple / could / were — хотілося б, щоб зараз було інакше",
+          "ru": "Вспомним: I wish + Past Simple / could / were — хотелось бы, чтобы сейчас было иначе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "wish-present",
+            "question": "I don't have a car. I wish I ___ a car.",
+            "options": [
+              "had",
+              "have",
+              "would have"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Зараз → Past.",
+              "ru": "Сейчас → Past."
+            },
+            "id": "b2-u07-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "wish-present",
+            "question": {
+              "ua": "Шкода, що я не знаю його номер. → I wish I ___ his number.",
+              "ru": "Жаль, что я не знаю его номер. → I wish I ___ his number."
+            },
+            "options": [
+              "knew",
+              "didn't know",
+              "know"
+            ],
+            "answer": "knew",
+            "explain": {
+              "ua": "Без not — логіка навпаки.",
+              "ru": "Без not — логика наоборот."
+            },
+            "id": "b2-u07-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I wish / If only + had V3 — шкода, що так було (або не було)",
+          "ru": "I wish / If only + had V3 — жаль, что так было (или не было)"
+        },
+        "explain": {
+          "ua": "Жаль про минуле: I wish I hadn't said that (сказав). I wish I had gone to the party (не пішов). If only I'd listened to you!",
+          "ru": "Сожаление о прошлом: I wish I hadn't said that (сказал). I wish I had gone to the party (не пошёл). If only I'd listened to you!"
+        },
+        "examples": [
+          {
+            "en": "I wish I hadn't eaten that cake.",
+            "ua": "Шкода, що я з'їв той торт.",
+            "ru": "Жаль, что я съел тот торт."
+          },
+          {
+            "en": "I wish I'd studied harder at school.",
+            "ua": "Шкода, що я погано вчився в школі.",
+            "ru": "Жаль, что я плохо учился в школе."
+          },
+          {
+            "en": "If only we had left earlier!",
+            "ua": "Якби ж ми вийшли раніше!",
+            "ru": "Если бы только мы вышли раньше!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "wish-past",
+          "question": "I missed the concert. I wish I ___ .",
+          "options": [
+            "had gone",
+            "went",
+            "would go"
+          ],
+          "answer": "had gone",
+          "explain": {
+            "ua": "Минуле → had V3.",
+            "ru": "Прошлое → had V3."
+          },
+          "id": "b2-u07-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-past",
+          "question": "I said something stupid. I wish I ___ it.",
+          "options": [
+            "hadn't said",
+            "didn't say",
+            "wouldn't say"
+          ],
+          "answer": "hadn't said",
+          "explain": {
+            "ua": "Hadn't said.",
+            "ru": "Hadn't said."
+          },
+          "id": "b2-u07-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-past",
+          "question": "If only I ___ your advice!",
+          "options": [
+            "had taken",
+            "took",
+            "take"
+          ],
+          "answer": "had taken",
+          "explain": {
+            "ua": "Had taken.",
+            "ru": "Had taken."
+          },
+          "id": "b2-u07-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-past",
+          "question": "She wishes she ___ so rude to her mum yesterday.",
+          "options": [
+            "hadn't been",
+            "wasn't",
+            "isn't"
+          ],
+          "answer": "hadn't been",
+          "explain": {
+            "ua": "Yesterday → hadn't been.",
+            "ru": "Yesterday → hadn't been."
+          },
+          "id": "b2-u07-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "wish-past",
+          "pairs": [
+            {
+              "left": "I'm hungry.",
+              "right": "I wish I had eaten breakfast."
+            },
+            {
+              "left": "I'm tired.",
+              "right": "I wish I hadn't stayed up so late."
+            },
+            {
+              "left": "I'm poor.",
+              "right": "I wish I had saved some money."
+            },
+            {
+              "left": "I'm lost.",
+              "right": "I wish I had brought a map."
+            }
+          ],
+          "explain": {
+            "ua": "Зараз → жаль про минуле.",
+            "ru": "Сейчас → сожаление о прошлом."
+          },
+          "id": "b2-u07-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "wish-past",
+          "sentence": "I wish I didn't buy this phone.",
+          "answer": "I wish I hadn't bought this phone.",
+          "accept": [],
+          "explain": {
+            "ua": "Минуле → hadn't bought.",
+            "ru": "Прошлое → hadn't bought."
+          },
+          "id": "b2-u07-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "wish-past",
+          "words": [
+            "If",
+            "only",
+            "to",
+            "you",
+            "listened",
+            "had",
+            "I"
+          ],
+          "answer": "If only I had listened to you",
+          "explain": {
+            "ua": "If only → I had listened → to you.",
+            "ru": "If only → I had listened → to you."
+          },
+          "id": "b2-u07-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "wish-past",
+          "audio_text": "I wish I hadn't said that.",
+          "options": [
+            "I wish I hadn't said that.",
+            "I wish I didn't say that.",
+            "I wish I haven't said that."
+          ],
+          "answer": "I wish I hadn't said that.",
+          "audio": "",
+          "explain": {
+            "ua": "Hadn't said.",
+            "ru": "Hadn't said."
+          },
+          "id": "b2-u07-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "wish-past",
+          "prompt": {
+            "ua": "Шкода, що я не поїхала з вами.",
+            "ru": "Жаль, что я не поехала с вами."
+          },
+          "answer": "I wish I had gone with you.",
+          "accept": [
+            "I wish I'd gone with you.",
+            "I wish I had come with you."
+          ],
+          "explain": {
+            "ua": "Wish + had V3.",
+            "ru": "Wish + had V3."
+          },
+          "id": "b2-u07-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u07-l03",
+      "title": {
+        "en": "wish + would",
+        "ua": "wish + would",
+        "ru": "wish + would"
+      },
+      "recap": {
+        "from": "b2-u07-l02",
+        "note": {
+          "ua": "Згадаймо: I wish / If only + had V3 — шкода, що так було (або не було)",
+          "ru": "Вспомним: I wish / If only + had V3 — жаль, что так было (или не было)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "wish-past",
+            "question": "I missed the concert. I wish I ___ .",
+            "options": [
+              "had gone",
+              "went",
+              "would go"
+            ],
+            "answer": "had gone",
+            "explain": {
+              "ua": "Минуле → had V3.",
+              "ru": "Прошлое → had V3."
+            },
+            "id": "b2-u07-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "wish-past",
+            "question": "She wishes she ___ so rude to her mum yesterday.",
+            "options": [
+              "hadn't been",
+              "wasn't",
+              "isn't"
+            ],
+            "answer": "hadn't been",
+            "explain": {
+              "ua": "Yesterday → hadn't been.",
+              "ru": "Yesterday → hadn't been."
+            },
+            "id": "b2-u07-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I wish you / it would… — хочу, щоб хтось / щось змінилося (часто роздратування)",
+          "ru": "I wish you / it would… — хочу, чтобы кто-то / что-то изменилось (часто раздражение)"
+        },
+        "explain": {
+          "ua": "Про чужу поведінку чи ситуацію, яку хочемо змінити: I wish you would stop interrupting! I wish it would stop raining. Не про себе: не I wish I would…",
+          "ru": "О чужом поведении или ситуации, которую хотим изменить: I wish you would stop interrupting! I wish it would stop raining. Не о себе: не I wish I would…"
+        },
+        "examples": [
+          {
+            "en": "I wish you would listen to me!",
+            "ua": "Хоч би ти мене послухав!",
+            "ru": "Хоть бы ты меня послушал!"
+          },
+          {
+            "en": "I wish the neighbours wouldn't play loud music.",
+            "ua": "Хоч би сусіди не вмикали гучну музику.",
+            "ru": "Хоть бы соседи не включали громкую музыку."
+          },
+          {
+            "en": "I wish the bus would come.",
+            "ua": "Хоч би вже автобус приїхав.",
+            "ru": "Хоть бы уже автобус приехал."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "wish-would",
+          "question": "You never help me. I wish you ___ help me more.",
+          "options": [
+            "would",
+            "will",
+            "had"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Чужа поведінка → would.",
+            "ru": "Чужое поведение → would."
+          },
+          "id": "b2-u07-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-would",
+          "question": "I wish it ___ stop snowing. I want to go out.",
+          "options": [
+            "would",
+            "will",
+            "had"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Would.",
+            "ru": "Would."
+          },
+          "id": "b2-u07-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-would",
+          "question": "I wish you ___ leave your socks on the floor!",
+          "options": [
+            "wouldn't",
+            "won't",
+            "don't"
+          ],
+          "answer": "wouldn't",
+          "explain": {
+            "ua": "Wouldn't.",
+            "ru": "Wouldn't."
+          },
+          "id": "b2-u07-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "wish-would",
+          "question": {
+            "ua": "Яка форма — про себе? «Шкода, що я не високий»",
+            "ru": "Какая форма — о себе? «Жаль, что я не высокий»"
+          },
+          "options": [
+            "I wish I were taller.",
+            "I wish I would be taller.",
+            "I wish I will be taller."
+          ],
+          "answer": "I wish I were taller.",
+          "explain": {
+            "ua": "Про себе — не would.",
+            "ru": "О себе — не would."
+          },
+          "id": "b2-u07-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "wish-would",
+          "bank": [
+            "had",
+            "had known",
+            "would stop",
+            "could"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I wish I ___ a bigger flat.",
+            "I wish I ___ about the problem earlier.",
+            "I wish the baby ___ crying.",
+            "I wish I ___ play the piano."
+          ],
+          "answers": [
+            "had",
+            "had known",
+            "would stop",
+            "could"
+          ],
+          "explain": {
+            "ua": "Зараз / минуле / чужа дія / вміння.",
+            "ru": "Сейчас / прошлое / чужое действие / умение."
+          },
+          "id": "b2-u07-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "wish-would",
+          "sentence": "I wish you will stop complaining.",
+          "answer": "I wish you would stop complaining.",
+          "accept": [
+            "I wish you'd stop complaining."
+          ],
+          "explain": {
+            "ua": "Wish + would.",
+            "ru": "Wish + would."
+          },
+          "id": "b2-u07-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "wish-would",
+          "sentence": "I wish I would have a dog.",
+          "answer": "I wish I had a dog.",
+          "accept": [],
+          "explain": {
+            "ua": "Про себе — had, не would.",
+            "ru": "О себе — had, не would."
+          },
+          "id": "b2-u07-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "wish-would",
+          "audio_text": "I wish you wouldn't interrupt me.",
+          "options": [
+            "I wish you wouldn't interrupt me.",
+            "I wish you don't interrupt me.",
+            "I wish you wouldn't interact with me."
+          ],
+          "answer": "I wish you wouldn't interrupt me.",
+          "audio": "",
+          "explain": {
+            "ua": "Wouldn't interrupt.",
+            "ru": "Wouldn't interrupt."
+          },
+          "id": "b2-u07-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "wish-would",
+          "prompt": {
+            "ua": "Хоч би ти перестав скаржитися!",
+            "ru": "Хоть бы ты перестал жаловаться!"
+          },
+          "answer": "I wish you would stop complaining!",
+          "accept": [
+            "I wish you'd stop complaining!"
+          ],
+          "explain": {
+            "ua": "Wish + would.",
+            "ru": "Wish + would."
+          },
+          "id": "b2-u07-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "wish-present",
+      "question": "I wish I ___ more time.",
+      "options": [
+        "had",
+        "have",
+        "would have"
+      ],
+      "answer": "had",
+      "explain": {
+        "ua": "Past.",
+        "ru": "Past."
+      },
+      "id": "b2-u07-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "wish-present",
+      "question": "I wish I ___ speak Spanish.",
+      "options": [
+        "could",
+        "can",
+        "would"
+      ],
+      "answer": "could",
+      "explain": {
+        "ua": "Could.",
+        "ru": "Could."
+      },
+      "id": "b2-u07-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "wish-past",
+      "question": "I wish I ___ that. It was rude.",
+      "options": [
+        "hadn't said",
+        "didn't say",
+        "don't say"
+      ],
+      "answer": "hadn't said",
+      "explain": {
+        "ua": "Hadn't said.",
+        "ru": "Hadn't said."
+      },
+      "id": "b2-u07-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "wish-would",
+      "question": "I wish you ___ stop shouting.",
+      "options": [
+        "would",
+        "will",
+        "had"
+      ],
+      "answer": "would",
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "b2-u07-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "wish-past",
+      "question": "If only I ___ on time!",
+      "options": [
+        "had arrived",
+        "arrived",
+        "arrive"
+      ],
+      "answer": "had arrived",
+      "explain": {
+        "ua": "If only + had V3.",
+        "ru": "If only + had V3."
+      },
+      "id": "b2-u07-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "wish-present",
+      "question": "It's raining. I wish it ___ sunny.",
+      "answer": "were",
+      "accept": [
+        "was"
+      ],
+      "explain": {
+        "ua": "Were.",
+        "ru": "Were."
+      },
+      "id": "b2-u07-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "wish-past",
+      "question": "I wish I ___ gone to bed earlier.",
+      "answer": "had",
+      "accept": [
+        "'d"
+      ],
+      "explain": {
+        "ua": "Had gone.",
+        "ru": "Had gone."
+      },
+      "id": "b2-u07-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "wish-present",
+      "sentence": "I wish I know the answer.",
+      "answer": "I wish I knew the answer.",
+      "accept": [],
+      "explain": {
+        "ua": "Wish + Past.",
+        "ru": "Wish + Past."
+      },
+      "id": "b2-u07-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "wish-past",
+      "sentence": "I wish I didn't eat so much yesterday.",
+      "answer": "I wish I hadn't eaten so much yesterday.",
+      "accept": [],
+      "explain": {
+        "ua": "Hadn't eaten.",
+        "ru": "Hadn't eaten."
+      },
+      "id": "b2-u07-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "wish-would",
+      "words": [
+        "neighbours",
+        "would",
+        "quieter",
+        "the",
+        "be",
+        "wish",
+        "I"
+      ],
+      "answer": "I wish the neighbours would be quieter",
+      "explain": {
+        "ua": "I wish → the neighbours would be quieter.",
+        "ru": "I wish → the neighbours would be quieter."
+      },
+      "id": "b2-u07-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "wish-past",
+      "prompt": {
+        "ua": "Шкода, що мене там не було.",
+        "ru": "Жаль, что меня там не было."
+      },
+      "answer": "I wish I had been there.",
+      "accept": [
+        "I wish I'd been there."
+      ],
+      "explain": {
+        "ua": "Wish + had V3.",
+        "ru": "Wish + had V3."
+      },
+      "id": "b2-u07-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "wish-present",
+      "audio_text": "If only I had more money!",
+      "options": [
+        "If only I had more money!",
+        "If only I have more money!",
+        "If only I had more honey!"
+      ],
+      "answer": "If only I had more money!",
+      "audio": "",
+      "explain": {
+        "ua": "If only + Past.",
+        "ru": "If only + Past."
+      },
+      "id": "b2-u07-cp12"
+    }
+  ]
+}

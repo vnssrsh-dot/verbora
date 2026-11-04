@@ -1,0 +1,1464 @@
+{
+  "id": "a2-u10",
+  "level": "A2",
+  "order": 10,
+  "kind": "grammar",
+  "title": {
+    "en": "Future: going to",
+    "ua": "Майбутнє: going to",
+    "ru": "Будущее: going to"
+  },
+  "rule": {
+    "formula": {
+      "ua": "am / is / are + going to + дієслово",
+      "ru": "am / is / are + going to + глагол"
+    },
+    "explain": {
+      "ua": "Going to — плани й наміри (вже вирішили): I'm going to learn Spanish. І прогнози, коли є ознаки: Look at the clouds — it's going to rain.",
+      "ru": "Going to — планы и намерения (уже решили): I'm going to learn Spanish. И прогнозы, когда есть признаки: Look at the clouds — it's going to rain."
+    },
+    "examples": [
+      {
+        "en": "I'm going to visit my parents.",
+        "ua": "Я збираюся відвідати батьків.",
+        "ru": "Я собираюсь навестить родителей."
+      },
+      {
+        "en": "She's going to buy a car.",
+        "ua": "Вона збирається купити машину.",
+        "ru": "Она собирается купить машину."
+      },
+      {
+        "en": "It's going to rain.",
+        "ua": "Зараз піде дощ.",
+        "ru": "Сейчас пойдёт дождь."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "plan",
+      "ipa": "/plæn/",
+      "ua": "план; планувати",
+      "ru": "план; планировать",
+      "example": "What are your plans?",
+      "audio": ""
+    },
+    {
+      "word": "tomorrow",
+      "ipa": "/təˈmɒrəʊ/",
+      "ua": "завтра",
+      "ru": "завтра",
+      "example": "tomorrow morning",
+      "audio": ""
+    },
+    {
+      "word": "next week",
+      "ipa": "/ˌnekst ˈwiːk/",
+      "ua": "наступного тижня",
+      "ru": "на следующей неделе",
+      "example": "next week",
+      "audio": ""
+    },
+    {
+      "word": "next year",
+      "ipa": "/ˌnekst ˈjɪə/",
+      "ua": "наступного року",
+      "ru": "в следующем году",
+      "example": "next year",
+      "audio": ""
+    },
+    {
+      "word": "tonight",
+      "ipa": "/təˈnaɪt/",
+      "ua": "сьогодні ввечері",
+      "ru": "сегодня вечером",
+      "example": "What are you doing tonight?",
+      "audio": ""
+    },
+    {
+      "word": "move",
+      "ipa": "/muːv/",
+      "ua": "переїжджати",
+      "ru": "переезжать",
+      "example": "We're going to move.",
+      "audio": ""
+    },
+    {
+      "word": "learn",
+      "ipa": "/lɜːn/",
+      "ua": "вивчати",
+      "ru": "учить, изучать",
+      "example": "I'm going to learn to drive.",
+      "audio": ""
+    },
+    {
+      "word": "save money",
+      "ipa": "/ˌseɪv ˈmʌni/",
+      "ua": "заощаджувати",
+      "ru": "копить деньги",
+      "example": "I'm going to save money.",
+      "audio": ""
+    },
+    {
+      "word": "get married",
+      "ipa": "/ˌɡet ˈmærid/",
+      "ua": "одружитися",
+      "ru": "пожениться",
+      "example": "They're going to get married.",
+      "audio": ""
+    },
+    {
+      "word": "clouds",
+      "ipa": "/klaʊdz/",
+      "ua": "хмари",
+      "ru": "тучи, облака",
+      "example": "Look at those clouds!",
+      "audio": ""
+    },
+    {
+      "word": "careful",
+      "ipa": "/ˈkeəfl/",
+      "ua": "обережний",
+      "ru": "осторожный",
+      "example": "Be careful! You're going to fall!",
+      "audio": ""
+    },
+    {
+      "word": "holiday",
+      "ipa": "/ˈhɒlədeɪ/",
+      "ua": "відпустка, канікули",
+      "ru": "отпуск, каникулы",
+      "example": "We're going on holiday.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u10-l01",
+      "title": {
+        "en": "Plans",
+        "ua": "Плани",
+        "ru": "Планы"
+      },
+      "recap": {
+        "from": "a2-u09-l03",
+        "note": {
+          "ua": "Згадаймо: Упаковки й кількість",
+          "ru": "Вспомним: Упаковки и количество"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "a ___ of bread",
+            "options": [
+              "loaf",
+              "bottle",
+              "can"
+            ],
+            "answer": "loaf",
+            "explain": {
+              "ua": "A loaf of bread.",
+              "ru": "A loaf of bread."
+            },
+            "id": "a2-u10-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "half a ___ of carrots",
+            "options": [
+              "kilo",
+              "loaf",
+              "jar"
+            ],
+            "answer": "kilo",
+            "explain": {
+              "ua": "Half a kilo.",
+              "ru": "Half a kilo."
+            },
+            "id": "a2-u10-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'm / she's / they're + going to + дієслово",
+          "ru": "I'm / she's / they're + going to + глагол"
+        },
+        "explain": {
+          "ua": "Вже вирішили — going to. To be (am / is / are) + going to + базове дієслово.",
+          "ru": "Уже решили — going to. To be (am / is / are) + going to + базовый глагол."
+        },
+        "examples": [
+          {
+            "en": "I'm going to learn French.",
+            "ua": "Я збираюся вивчати французьку.",
+            "ru": "Я собираюсь учить французский."
+          },
+          {
+            "en": "We're going to move.",
+            "ua": "Ми збираємося переїхати.",
+            "ru": "Мы собираемся переехать."
+          },
+          {
+            "en": "He's going to cook tonight.",
+            "ua": "Він збирається готувати сьогодні ввечері.",
+            "ru": "Он собирается готовить сегодня вечером."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "I ___ going to visit my aunt.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "am",
+          "explain": {
+            "ua": "I → am going to.",
+            "ru": "I → am going to."
+          },
+          "id": "a2-u10-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "She ___ going to buy a dress.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "She → is going to.",
+            "ru": "She → is going to."
+          },
+          "id": "a2-u10-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "We're going to ___ a new flat.",
+          "options": [
+            "rent",
+            "renting",
+            "rents"
+          ],
+          "answer": "rent",
+          "explain": {
+            "ua": "Going to + базове дієслово.",
+            "ru": "Going to + базовый глагол."
+          },
+          "id": "a2-u10-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "They ___ to get married.",
+          "options": [
+            "are going",
+            "go",
+            "are go"
+          ],
+          "answer": "are going",
+          "explain": {
+            "ua": "Are going to.",
+            "ru": "Are going to."
+          },
+          "id": "a2-u10-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "going-to",
+          "question": "He's going ___ learn to drive.",
+          "answer": "to",
+          "accept": [],
+          "explain": {
+            "ua": "Going TO.",
+            "ru": "Going TO."
+          },
+          "id": "a2-u10-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "I going to call her.",
+          "answer": "I'm going to call her.",
+          "accept": [
+            "I am going to call her."
+          ],
+          "explain": {
+            "ua": "Не забувай am.",
+            "ru": "Не забывай am."
+          },
+          "id": "a2-u10-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "She's going to cooks dinner.",
+          "answer": "She's going to cook dinner.",
+          "accept": [
+            "She is going to cook dinner."
+          ],
+          "explain": {
+            "ua": "Після to — без -s.",
+            "ru": "После to — без -s."
+          },
+          "id": "a2-u10-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "going-to",
+          "words": [
+            "to",
+            "money",
+            "are",
+            "save",
+            "going",
+            "We"
+          ],
+          "answer": "We are going to save money",
+          "explain": {
+            "ua": "We are going to → save money.",
+            "ru": "We are going to → save money."
+          },
+          "id": "a2-u10-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to",
+          "prompt": {
+            "ua": "Я збираюся вивчати іспанську.",
+            "ru": "Я собираюсь учить испанский."
+          },
+          "answer": "I'm going to learn Spanish.",
+          "accept": [
+            "I am going to learn Spanish.",
+            "I'm going to study Spanish."
+          ],
+          "explain": {
+            "ua": "Going to learn.",
+            "ru": "Going to learn."
+          },
+          "id": "a2-u10-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u10-l02",
+      "title": {
+        "en": "Negatives",
+        "ua": "Заперечення",
+        "ru": "Отрицания"
+      },
+      "recap": {
+        "from": "a2-u10-l01",
+        "note": {
+          "ua": "Згадаймо: I'm / she's / they're + going to + дієслово",
+          "ru": "Вспомним: I'm / she's / they're + going to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "going-to",
+            "question": "I ___ going to visit my aunt.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "answer": "am",
+            "explain": {
+              "ua": "I → am going to.",
+              "ru": "I → am going to."
+            },
+            "id": "a2-u10-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "going-to",
+            "question": "He's going ___ learn to drive.",
+            "answer": "to",
+            "accept": [],
+            "explain": {
+              "ua": "Going TO.",
+              "ru": "Going TO."
+            },
+            "id": "a2-u10-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I'm not / isn't / aren't + going to",
+        "explain": {
+          "ua": "Заперечення — як із to be: I'm not going to wait. She isn't going to come.",
+          "ru": "Отрицание — как с to be: I'm not going to wait. She isn't going to come."
+        },
+        "examples": [
+          {
+            "en": "I'm not going to wait.",
+            "ua": "Я не збираюся чекати.",
+            "ru": "Я не собираюсь ждать."
+          },
+          {
+            "en": "He isn't going to come.",
+            "ua": "Він не прийде.",
+            "ru": "Он не придёт."
+          },
+          {
+            "en": "We aren't going to travel this year.",
+            "ua": "Цього року ми не подорожуватимемо.",
+            "ru": "В этом году мы не будем путешествовать."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "I ___ going to tell him.",
+          "options": [
+            "'m not",
+            "don't",
+            "isn't"
+          ],
+          "answer": "'m not",
+          "explain": {
+            "ua": "I'm not going to.",
+            "ru": "I'm not going to."
+          },
+          "id": "a2-u10-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "She ___ going to stay.",
+          "options": [
+            "isn't",
+            "doesn't",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "She isn't going to.",
+            "ru": "She isn't going to."
+          },
+          "id": "a2-u10-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "They ___ going to buy it.",
+          "options": [
+            "aren't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "They aren't going to.",
+            "ru": "They aren't going to."
+          },
+          "id": "a2-u10-l02-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "going-to",
+          "bank": [
+            "'m not",
+            "isn't",
+            "aren't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ going to cook tonight.",
+            "Max ___ going to come.",
+            "We ___ going to move."
+          ],
+          "answers": [
+            "'m not",
+            "isn't",
+            "aren't"
+          ],
+          "explain": {
+            "ua": "I'm not, he isn't, we aren't.",
+            "ru": "I'm not, he isn't, we aren't."
+          },
+          "id": "a2-u10-l02-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "I don't going to wait.",
+          "answer": "I'm not going to wait.",
+          "accept": [
+            "I am not going to wait."
+          ],
+          "explain": {
+            "ua": "Going to — з to be.",
+            "ru": "Going to — з to be."
+          },
+          "id": "a2-u10-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "He not going to help.",
+          "answer": "He isn't going to help.",
+          "accept": [
+            "He is not going to help.",
+            "He's not going to help."
+          ],
+          "explain": {
+            "ua": "Потрібне isn't.",
+            "ru": "Нужно isn't."
+          },
+          "id": "a2-u10-l02-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "going-to",
+          "question": "We ___ going to sell the car. (not)",
+          "answer": "aren't",
+          "accept": [
+            "are not",
+            "'re not"
+          ],
+          "explain": {
+            "ua": "We aren't.",
+            "ru": "We aren't."
+          },
+          "id": "a2-u10-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "going-to",
+          "audio_text": "I'm not going to stay.",
+          "options": [
+            "I'm not going to stay.",
+            "I'm going to stay.",
+            "I'm not going to say."
+          ],
+          "answer": "I'm not going to stay.",
+          "audio": "",
+          "explain": {
+            "ua": "Not going to.",
+            "ru": "Not going to."
+          },
+          "id": "a2-u10-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to",
+          "prompt": {
+            "ua": "Вона не збирається продавати квартиру.",
+            "ru": "Она не собирается продавать квартиру."
+          },
+          "answer": "She isn't going to sell the flat.",
+          "accept": [
+            "She is not going to sell the flat.",
+            "She's not going to sell the flat.",
+            "She isn't going to sell the apartment."
+          ],
+          "explain": {
+            "ua": "Isn't going to.",
+            "ru": "Isn't going to."
+          },
+          "id": "a2-u10-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u10-l03",
+      "title": {
+        "en": "Questions",
+        "ua": "Питання",
+        "ru": "Вопросы"
+      },
+      "recap": {
+        "from": "a2-u10-l02",
+        "note": {
+          "ua": "Згадаймо: I'm not / isn't / aren't + going to",
+          "ru": "Вспомним: I'm not / isn't / aren't + going to"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "going-to",
+            "question": "I ___ going to tell him.",
+            "options": [
+              "'m not",
+              "don't",
+              "isn't"
+            ],
+            "answer": "'m not",
+            "explain": {
+              "ua": "I'm not going to.",
+              "ru": "I'm not going to."
+            },
+            "id": "a2-u10-l03-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "going-to",
+            "sentence": "I don't going to wait.",
+            "answer": "I'm not going to wait.",
+            "accept": [
+              "I am not going to wait."
+            ],
+            "explain": {
+              "ua": "Going to — з to be.",
+              "ru": "Going to — з to be."
+            },
+            "id": "a2-u10-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Are you going to…? · What are you going to do?",
+        "explain": {
+          "ua": "Питання: am / is / are на початок. What are you going to do? — Що ти збираєшся робити?",
+          "ru": "Вопрос: am / is / are в начало. What are you going to do? — Что ты собираешься делать?"
+        },
+        "examples": [
+          {
+            "en": "Are you going to come?",
+            "ua": "Ти прийдеш?",
+            "ru": "Ты придёшь?"
+          },
+          {
+            "en": "What are you going to do tonight?",
+            "ua": "Що ти робитимеш сьогодні ввечері?",
+            "ru": "Что ты будешь делать сегодня вечером?"
+          },
+          {
+            "en": "Is she going to call? — Yes, she is.",
+            "ua": "Вона подзвонить? — Так.",
+            "ru": "Она позвонит? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "___ you going to visit them?",
+          "options": [
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "You → Are you going to…?",
+            "ru": "You → Are you going to…?"
+          },
+          "id": "a2-u10-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "What ___ he going to do?",
+          "options": [
+            "is",
+            "does",
+            "are"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "He → is.",
+            "ru": "He → is."
+          },
+          "id": "a2-u10-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "Where are you going ___ stay?",
+          "options": [
+            "to",
+            "—",
+            "for"
+          ],
+          "answer": "to",
+          "explain": {
+            "ua": "Going TO stay.",
+            "ru": "Going TO stay."
+          },
+          "id": "a2-u10-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "Are they going to move? — Yes, they ___.",
+          "options": [
+            "are",
+            "do",
+            "going"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Yes, they are.",
+            "ru": "Yes, they are."
+          },
+          "id": "a2-u10-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "Is it going to rain? — No, it ___.",
+          "options": [
+            "isn't",
+            "doesn't",
+            "won't"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "No, it isn't.",
+            "ru": "No, it isn't."
+          },
+          "id": "a2-u10-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "Do you going to buy it?",
+          "answer": "Are you going to buy it?",
+          "accept": [],
+          "explain": {
+            "ua": "Going to — з to be.",
+            "ru": "Going to — з to be."
+          },
+          "id": "a2-u10-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "going-to",
+          "words": [
+            "What",
+            "are",
+            "to",
+            "cook",
+            "you",
+            "going"
+          ],
+          "answer": "What are you going to cook",
+          "explain": {
+            "ua": "What → are you → going to cook?",
+            "ru": "What → are you → going to cook?"
+          },
+          "id": "a2-u10-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "going-to",
+          "audio_text": "Are you going to come tonight?",
+          "options": [
+            "Are you going to come tonight?",
+            "You are going to come tonight.",
+            "Are you going to come tomorrow?"
+          ],
+          "answer": "Are you going to come tonight?",
+          "audio": "",
+          "explain": {
+            "ua": "Tonight — сьогодні ввечері.",
+            "ru": "Tonight — сегодня вечером."
+          },
+          "id": "a2-u10-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to",
+          "prompt": {
+            "ua": "Що ти збираєшся робити завтра?",
+            "ru": "Что ты собираешься делать завтра?"
+          },
+          "answer": "What are you going to do tomorrow?",
+          "accept": [],
+          "explain": {
+            "ua": "What are you going to do…?",
+            "ru": "What are you going to do…?"
+          },
+          "id": "a2-u10-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u10-l04",
+      "title": {
+        "en": "Predictions: I can see it!",
+        "ua": "Прогнози: я це бачу!",
+        "ru": "Прогнозы: я это вижу!"
+      },
+      "recap": {
+        "from": "a2-u10-l03",
+        "note": {
+          "ua": "Згадаймо: Are you going to…? · What are you going to do?",
+          "ru": "Вспомним: Are you going to…? · What are you going to do?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "going-to",
+            "question": "___ you going to visit them?",
+            "options": [
+              "Are",
+              "Do",
+              "Is"
+            ],
+            "answer": "Are",
+            "explain": {
+              "ua": "You → Are you going to…?",
+              "ru": "You → Are you going to…?"
+            },
+            "id": "a2-u10-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "going-to",
+            "question": "Are they going to move? — Yes, they ___.",
+            "options": [
+              "are",
+              "do",
+              "going"
+            ],
+            "answer": "are",
+            "explain": {
+              "ua": "Yes, they are.",
+              "ru": "Yes, they are."
+            },
+            "id": "a2-u10-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "бачу ознаки → going to",
+          "ru": "вижу признаки → going to"
+        },
+        "explain": {
+          "ua": "Якщо щось ось-ось станеться і ми бачимо ознаки — going to: Look at the clouds! It's going to rain. Be careful! You're going to fall!",
+          "ru": "Если что-то вот-вот случится и мы видим признаки — going to: Look at the clouds! It's going to rain. Be careful! You're going to fall!"
+        },
+        "examples": [
+          {
+            "en": "Look at the clouds! It's going to rain.",
+            "ua": "Глянь на хмари! Зараз піде дощ.",
+            "ru": "Посмотри на тучи! Сейчас пойдёт дождь."
+          },
+          {
+            "en": "Be careful! You're going to fall!",
+            "ua": "Обережно! Ти зараз упадеш!",
+            "ru": "Осторожно! Ты сейчас упадёшь!"
+          },
+          {
+            "en": "We're late. We're going to miss the train!",
+            "ua": "Ми запізнюємося. Ми не встигнемо на потяг!",
+            "ru": "Мы опаздываем. Мы опоздаем на поезд!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "going-to-prediction",
+          "question": "Look at those clouds! It ___ rain.",
+          "options": [
+            "'s going to",
+            "goes to",
+            "is go to"
+          ],
+          "answer": "'s going to",
+          "explain": {
+            "ua": "Бачимо ознаку → going to.",
+            "ru": "Видим признак → going to."
+          },
+          "id": "a2-u10-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to-prediction",
+          "question": "Be careful! You ___ fall!",
+          "options": [
+            "'re going to",
+            "go to",
+            "are go"
+          ],
+          "answer": "'re going to",
+          "explain": {
+            "ua": "Going to.",
+            "ru": "Going to."
+          },
+          "id": "a2-u10-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to-prediction",
+          "question": "It's 8:55. The film starts at 9. We ___ be late!",
+          "options": [
+            "'re going to",
+            "are go to",
+            "going"
+          ],
+          "answer": "'re going to",
+          "explain": {
+            "ua": "Going to.",
+            "ru": "Going to."
+          },
+          "id": "a2-u10-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to-prediction",
+          "question": "She's very pale. I think she ___ be sick.",
+          "options": [
+            "is going to",
+            "goes to",
+            "going"
+          ],
+          "answer": "is going to",
+          "explain": {
+            "ua": "Going to.",
+            "ru": "Going to."
+          },
+          "id": "a2-u10-l04-e04"
+        },
+        {
+          "type": "match",
+          "topic": "going-to-prediction",
+          "pairs": [
+            {
+              "left": "Look at the sky!",
+              "right": "It's going to snow."
+            },
+            {
+              "left": "He's running too fast!",
+              "right": "He's going to fall."
+            },
+            {
+              "left": "The baby is tired.",
+              "right": "She's going to sleep."
+            },
+            {
+              "left": "We haven't got petrol.",
+              "right": "The car is going to stop."
+            }
+          ],
+          "explain": {
+            "ua": "Ознака → прогноз.",
+            "ru": "Признак → прогноз."
+          },
+          "id": "a2-u10-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to-prediction",
+          "sentence": "Look! The glass going to fall!",
+          "answer": "Look! The glass is going to fall!",
+          "accept": [
+            "Look! The glass is going to fall"
+          ],
+          "explain": {
+            "ua": "Is going to.",
+            "ru": "Is going to."
+          },
+          "id": "a2-u10-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "going-to-prediction",
+          "audio_text": "It's going to be a great day!",
+          "options": [
+            "It's going to be a great day!",
+            "It's going to be a gray day!",
+            "It was a great day!"
+          ],
+          "answer": "It's going to be a great day!",
+          "audio": "",
+          "explain": {
+            "ua": "Going to be.",
+            "ru": "Going to be."
+          },
+          "id": "a2-u10-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to-prediction",
+          "prompt": {
+            "ua": "Обережно! Ти зараз упадеш!",
+            "ru": "Осторожно! Ты сейчас упадёшь!"
+          },
+          "answer": "Be careful! You're going to fall!",
+          "accept": [
+            "Be careful! You are going to fall!",
+            "Careful! You're going to fall!"
+          ],
+          "explain": {
+            "ua": "Going to fall.",
+            "ru": "Going to fall."
+          },
+          "id": "a2-u10-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u10-l05",
+      "title": {
+        "en": "Practice: future plans",
+        "ua": "Практика: плани на майбутнє",
+        "ru": "Практика: планы на будущее"
+      },
+      "recap": {
+        "from": "a2-u10-l04",
+        "note": {
+          "ua": "Згадаймо: бачу ознаки → going to",
+          "ru": "Вспомним: вижу признаки → going to"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "going-to-prediction",
+            "question": "Look at those clouds! It ___ rain.",
+            "options": [
+              "'s going to",
+              "goes to",
+              "is go to"
+            ],
+            "answer": "'s going to",
+            "explain": {
+              "ua": "Бачимо ознаку → going to.",
+              "ru": "Видим признак → going to."
+            },
+            "id": "a2-u10-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "going-to-prediction",
+            "question": "She's very pale. I think she ___ be sick.",
+            "options": [
+              "is going to",
+              "goes to",
+              "going"
+            ],
+            "answer": "is going to",
+            "explain": {
+              "ua": "Going to.",
+              "ru": "Going to."
+            },
+            "id": "a2-u10-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "Next year I ___ learn to drive.",
+          "options": [
+            "'m going to",
+            "going to",
+            "go to"
+          ],
+          "answer": "'m going to",
+          "explain": {
+            "ua": "I'm going to.",
+            "ru": "I'm going to."
+          },
+          "id": "a2-u10-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "going-to",
+          "question": "___ she going to change her job?",
+          "options": [
+            "Is",
+            "Does",
+            "Are"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "She → Is.",
+            "ru": "She → Is."
+          },
+          "id": "a2-u10-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ola is going to move to Kyiv.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ola is going to learn English.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What is Ola's husband going to do?",
+              "options": [
+                "save money",
+                "change his job",
+                "learn to drive"
+              ],
+              "answer": "save money"
+            }
+          ],
+          "text": "This year is going to be busy! We aren't going to move — we love our flat. But I'm going to learn English and find a better job. My husband is going to save money for a new car. And in May my sister is going to get married!",
+          "explain": {
+            "ua": "Not moving, learning English, husband saving, wedding in May.",
+            "ru": "Not moving, learning English, husband saving, wedding in May."
+          },
+          "id": "a2-u10-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "going-to",
+          "bank": [
+            "isn't going to",
+            "is going to",
+            "are going to"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Ola ___ move.",
+            "She ___ learn English.",
+            "Her husband ___ save money.",
+            "Ola and her husband ___ go to the wedding."
+          ],
+          "answers": [
+            "isn't going to",
+            "is going to",
+            "is going to",
+            "are going to"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u10-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "We going to have a party.",
+          "answer": "We're going to have a party.",
+          "accept": [
+            "We are going to have a party."
+          ],
+          "explain": {
+            "ua": "Are going to.",
+            "ru": "Are going to."
+          },
+          "id": "a2-u10-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "going-to",
+          "sentence": "Are you go to stay at home?",
+          "answer": "Are you going to stay at home?",
+          "accept": [],
+          "explain": {
+            "ua": "Going to.",
+            "ru": "Going to."
+          },
+          "id": "a2-u10-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "May",
+            "going",
+            "to",
+            "is",
+            "in",
+            "married",
+            "sister",
+            "My",
+            "get"
+          ],
+          "answer": "My sister is going to get married in May",
+          "explain": {
+            "ua": "Is going to get married → in May.",
+            "ru": "Is going to get married → in May."
+          },
+          "id": "a2-u10-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "going-to",
+          "audio_text": "We aren't going to move.",
+          "options": [
+            "We aren't going to move.",
+            "We are going to move.",
+            "We aren't going to the movies."
+          ],
+          "answer": "We aren't going to move.",
+          "audio": "",
+          "explain": {
+            "ua": "Aren't going to.",
+            "ru": "Aren't going to."
+          },
+          "id": "a2-u10-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to",
+          "prompt": {
+            "ua": "Ми збираємося у відпустку наступного тижня.",
+            "ru": "Мы собираемся в отпуск на следующей неделе."
+          },
+          "answer": "We're going to go on holiday next week.",
+          "accept": [
+            "We are going to go on holiday next week.",
+            "We're going on holiday next week.",
+            "We are going on holiday next week."
+          ],
+          "explain": {
+            "ua": "Going to go on holiday.",
+            "ru": "Going to go on holiday."
+          },
+          "id": "a2-u10-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "going-to",
+          "prompt": {
+            "ua": "Що ви збираєтеся купити?",
+            "ru": "Что вы собираетесь купить?"
+          },
+          "answer": "What are you going to buy?",
+          "accept": [],
+          "explain": {
+            "ua": "What are you going to…?",
+            "ru": "What are you going to…?"
+          },
+          "id": "a2-u10-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "going-to",
+      "question": "I ___ going to call her.",
+      "options": [
+        "am",
+        "is",
+        "do"
+      ],
+      "answer": "am",
+      "explain": {
+        "ua": "I am going to.",
+        "ru": "I am going to."
+      },
+      "id": "a2-u10-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "going-to",
+      "question": "They're going to ___ a house.",
+      "options": [
+        "buy",
+        "buying",
+        "buys"
+      ],
+      "answer": "buy",
+      "explain": {
+        "ua": "Going to + базова.",
+        "ru": "Going to + базовая."
+      },
+      "id": "a2-u10-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "going-to-prediction",
+      "question": "Look at the sky! It ___ snow.",
+      "options": [
+        "'s going to",
+        "goes to",
+        "going"
+      ],
+      "answer": "'s going to",
+      "explain": {
+        "ua": "Ознаки → going to.",
+        "ru": "Признаки → going to."
+      },
+      "id": "a2-u10-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "going-to",
+      "question": "___ you going to come?",
+      "options": [
+        "Are",
+        "Do",
+        "Will"
+      ],
+      "answer": "Are",
+      "explain": {
+        "ua": "Are you going to…?",
+        "ru": "Are you going to…?"
+      },
+      "id": "a2-u10-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "going-to",
+      "question": "She ___ going to stay. (not)",
+      "answer": "isn't",
+      "accept": [
+        "is not",
+        "'s not"
+      ],
+      "explain": {
+        "ua": "She isn't.",
+        "ru": "She isn't."
+      },
+      "id": "a2-u10-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "going-to",
+      "question": "What are you going ___ do?",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Going to.",
+        "ru": "Going to."
+      },
+      "id": "a2-u10-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "plan",
+          "right": {
+            "ua": "план",
+            "ru": "план"
+          }
+        },
+        {
+          "left": "tonight",
+          "right": {
+            "ua": "сьогодні ввечері",
+            "ru": "сегодня вечером"
+          }
+        },
+        {
+          "left": "next year",
+          "right": {
+            "ua": "наступного року",
+            "ru": "в следующем году"
+          }
+        },
+        {
+          "left": "move",
+          "right": {
+            "ua": "переїжджати",
+            "ru": "переезжать"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u10-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "going-to",
+      "sentence": "I'm going to visiting my mum.",
+      "answer": "I'm going to visit my mum.",
+      "accept": [
+        "I am going to visit my mum."
+      ],
+      "explain": {
+        "ua": "Going to + visit.",
+        "ru": "Going to + visit."
+      },
+      "id": "a2-u10-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "going-to",
+      "sentence": "Do you going to help?",
+      "answer": "Are you going to help?",
+      "accept": [],
+      "explain": {
+        "ua": "Are you going to…?",
+        "ru": "Are you going to…?"
+      },
+      "id": "a2-u10-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "to",
+        "it",
+        "Is",
+        "going",
+        "rain"
+      ],
+      "answer": "Is it going to rain",
+      "explain": {
+        "ua": "Is it → going to rain?",
+        "ru": "Is it → going to rain?"
+      },
+      "id": "a2-u10-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "going-to",
+      "prompt": {
+        "ua": "Я не збираюся чекати.",
+        "ru": "Я не собираюсь ждать."
+      },
+      "answer": "I'm not going to wait.",
+      "accept": [
+        "I am not going to wait."
+      ],
+      "explain": {
+        "ua": "Not going to.",
+        "ru": "Not going to."
+      },
+      "id": "a2-u10-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "going-to",
+      "audio_text": "He's going to save money.",
+      "options": [
+        "He's going to save money.",
+        "He's going to say money.",
+        "He saved money."
+      ],
+      "answer": "He's going to save money.",
+      "audio": "",
+      "explain": {
+        "ua": "Save money.",
+        "ru": "Save money."
+      },
+      "id": "a2-u10-cp12"
+    }
+  ]
+}

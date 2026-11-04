@@ -1,0 +1,1586 @@
+{
+  "id": "b2-u15",
+  "level": "B2",
+  "order": 15,
+  "kind": "vocab",
+  "title": {
+    "en": "Money and finance",
+    "ua": "Гроші й фінанси",
+    "ru": "Деньги и финансы"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "income",
+      "ipa": "/ˈɪnkʌm/",
+      "ua": "дохід",
+      "ru": "доход",
+      "example": "a monthly income",
+      "audio": ""
+    },
+    {
+      "word": "expenses",
+      "ipa": "/ɪkˈspensɪz/",
+      "ua": "витрати",
+      "ru": "расходы",
+      "example": "living expenses",
+      "audio": ""
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "ua": "бюджет",
+      "ru": "бюджет",
+      "example": "a family budget",
+      "audio": ""
+    },
+    {
+      "word": "savings",
+      "ipa": "/ˈseɪvɪŋz/",
+      "ua": "заощадження",
+      "ru": "сбережения",
+      "example": "I keep my savings in the bank.",
+      "audio": ""
+    },
+    {
+      "word": "debt",
+      "ipa": "/det/",
+      "ua": "борг",
+      "ru": "долг",
+      "example": "be in debt",
+      "audio": ""
+    },
+    {
+      "word": "loan",
+      "ipa": "/ləʊn/",
+      "ua": "кредит, позика",
+      "ru": "кредит, заём",
+      "example": "take out a loan",
+      "audio": ""
+    },
+    {
+      "word": "mortgage",
+      "ipa": "/ˈmɔːɡɪdʒ/",
+      "ua": "іпотека",
+      "ru": "ипотека",
+      "example": "We have a mortgage.",
+      "audio": ""
+    },
+    {
+      "word": "interest rate",
+      "ipa": "/ˈɪntrəst reɪt/",
+      "ua": "відсоткова ставка",
+      "ru": "процентная ставка",
+      "example": "a low interest rate",
+      "audio": ""
+    },
+    {
+      "word": "tax",
+      "ipa": "/tæks/",
+      "ua": "податок",
+      "ru": "налог",
+      "example": "pay taxes",
+      "audio": ""
+    },
+    {
+      "word": "invest",
+      "ipa": "/ɪnˈvest/",
+      "ua": "інвестувати",
+      "ru": "инвестировать",
+      "example": "invest in property",
+      "audio": ""
+    },
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔːd/",
+      "ua": "дозволити собі",
+      "ru": "позволить себе",
+      "example": "We can't afford it.",
+      "audio": ""
+    },
+    {
+      "word": "borrow / lend",
+      "ipa": "/ˈbɒrəʊ/ /lend/",
+      "ua": "позичати (брати / давати)",
+      "ru": "одалживать (брать / давать)",
+      "example": "borrow money from the bank",
+      "audio": ""
+    },
+    {
+      "word": "owe",
+      "ipa": "/əʊ/",
+      "ua": "бути винним (гроші)",
+      "ru": "быть должным (деньги)",
+      "example": "I owe you 50 dollars.",
+      "audio": ""
+    },
+    {
+      "word": "pay back",
+      "ipa": "/ˌpeɪ ˈbæk/",
+      "ua": "повертати (борг)",
+      "ru": "возвращать (долг)",
+      "example": "I'll pay you back tomorrow.",
+      "audio": ""
+    },
+    {
+      "word": "transfer",
+      "ipa": "/trænsˈfɜː/",
+      "ua": "переказ; переказувати",
+      "ru": "перевод; переводить",
+      "example": "a bank transfer",
+      "audio": ""
+    },
+    {
+      "word": "exchange rate",
+      "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+      "ua": "обмінний курс",
+      "ru": "обменный курс",
+      "example": "What's the exchange rate?",
+      "audio": ""
+    },
+    {
+      "word": "currency",
+      "ipa": "/ˈkʌrənsi/",
+      "ua": "валюта",
+      "ru": "валюта",
+      "example": "The Ukrainian currency is the hryvnia.",
+      "audio": ""
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːɡɪn/",
+      "ua": "вигідна покупка",
+      "ru": "выгодная покупка",
+      "example": "It was a bargain!",
+      "audio": ""
+    },
+    {
+      "word": "rip-off",
+      "ipa": "/ˈrɪp ɒf/",
+      "ua": "грабіж (задорого)",
+      "ru": "грабёж (слишком дорого)",
+      "example": "20 euros for a coffee? What a rip-off!",
+      "audio": ""
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "ua": "повернення коштів",
+      "ru": "возврат денег",
+      "example": "I'd like a refund.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u15-l01",
+      "title": {
+        "en": "Personal finance",
+        "ua": "Особисті фінанси",
+        "ru": "Личные финансы"
+      },
+      "recap": {
+        "from": "b2-u14-l03",
+        "note": {
+          "ua": "Згадаймо: go to bed / work / school / university · in hospital / prison / bed · at home / night · by car / chance · on purpose / time",
+          "ru": "Вспомним: go to bed / work / school / university · in hospital / prison / bed · at home / night · by car / chance · on purpose / time"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-fixed",
+            "question": "I usually go to ___ bed at 11.",
+            "options": [
+              "—",
+              "the",
+              "a"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Go to bed.",
+              "ru": "Go to bed."
+            },
+            "id": "b2-u15-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-fixed",
+            "question": "He broke the window ___ purpose!",
+            "options": [
+              "on",
+              "by",
+              "in"
+            ],
+            "answer": "on",
+            "explain": {
+              "ua": "On purpose.",
+              "ru": "On purpose."
+            },
+            "id": "b2-u15-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "income",
+              "right": {
+                "ua": "дохід",
+                "ru": "доход"
+              }
+            },
+            {
+              "left": "expenses",
+              "right": {
+                "ua": "витрати",
+                "ru": "расходы"
+              }
+            },
+            {
+              "left": "savings",
+              "right": {
+                "ua": "заощадження",
+                "ru": "сбережения"
+              }
+            },
+            {
+              "left": "budget",
+              "right": {
+                "ua": "бюджет",
+                "ru": "бюджет"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u15-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My monthly ___ is 2,000 euros after tax.",
+          "options": [
+            "income",
+            "expenses",
+            "debt"
+          ],
+          "answer": "income",
+          "explain": {
+            "ua": "Income.",
+            "ru": "Income."
+          },
+          "id": "b2-u15-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Rent, food and transport are my main ___ .",
+          "options": [
+            "expenses",
+            "savings",
+            "income"
+          ],
+          "answer": "expenses",
+          "explain": {
+            "ua": "Expenses.",
+            "ru": "Expenses."
+          },
+          "id": "b2-u15-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We make a ___ every month so we don't spend too much.",
+          "options": [
+            "budget",
+            "loan",
+            "tax"
+          ],
+          "answer": "budget",
+          "explain": {
+            "ua": "Budget.",
+            "ru": "Budget."
+          },
+          "id": "b2-u15-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'd love a new car, but I can't ___ it.",
+          "options": [
+            "afford",
+            "owe",
+            "invest"
+          ],
+          "answer": "afford",
+          "explain": {
+            "ua": "Afford.",
+            "ru": "Afford."
+          },
+          "id": "b2-u15-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I put 10% of my salary into ___ .",
+          "options": [
+            "savings",
+            "debt",
+            "expenses"
+          ],
+          "answer": "savings",
+          "explain": {
+            "ua": "Savings.",
+            "ru": "Savings."
+          },
+          "id": "b2-u15-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Money that you must give back to someone.",
+          "answer": "debt",
+          "accept": [
+            "a debt",
+            "loan"
+          ],
+          "explain": {
+            "ua": "Debt.",
+            "ru": "Debt."
+          },
+          "id": "b2-u15-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I can't afford to buying a flat.",
+          "answer": "I can't afford to buy a flat.",
+          "accept": [
+            "I can't afford a flat."
+          ],
+          "explain": {
+            "ua": "Afford + to.",
+            "ru": "Afford + to."
+          },
+          "id": "b2-u15-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/det/",
+          "options": [
+            "debt",
+            "date",
+            "death"
+          ],
+          "answer": "debt",
+          "explain": {
+            "ua": "b не читається: «дет».",
+            "ru": "b не читается: «дет»."
+          },
+          "id": "b2-u15-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми не можемо собі цього дозволити.",
+            "ru": "Мы не можем себе этого позволить."
+          },
+          "answer": "We can't afford it.",
+          "accept": [
+            "We cannot afford it.",
+            "We can't afford that."
+          ],
+          "explain": {
+            "ua": "Afford.",
+            "ru": "Afford."
+          },
+          "id": "b2-u15-l01-e10"
+        }
+      ],
+      "words": [
+        "income",
+        "expenses",
+        "budget",
+        "savings",
+        "debt",
+        "afford"
+      ]
+    },
+    {
+      "id": "b2-u15-l02",
+      "title": {
+        "en": "Banks and loans",
+        "ua": "Банки й кредити",
+        "ru": "Банки и кредиты"
+      },
+      "recap": {
+        "from": "b2-u15-l01",
+        "note": {
+          "ua": "Згадаймо: Особисті фінанси",
+          "ru": "Вспомним: Личные финансы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My monthly ___ is 2,000 euros after tax.",
+            "options": [
+              "income",
+              "expenses",
+              "debt"
+            ],
+            "answer": "income",
+            "explain": {
+              "ua": "Income.",
+              "ru": "Income."
+            },
+            "id": "b2-u15-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I put 10% of my salary into ___ .",
+            "options": [
+              "savings",
+              "debt",
+              "expenses"
+            ],
+            "answer": "savings",
+            "explain": {
+              "ua": "Savings.",
+              "ru": "Savings."
+            },
+            "id": "b2-u15-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "loan",
+              "right": {
+                "ua": "кредит",
+                "ru": "кредит"
+              }
+            },
+            {
+              "left": "mortgage",
+              "right": {
+                "ua": "іпотека",
+                "ru": "ипотека"
+              }
+            },
+            {
+              "left": "interest rate",
+              "right": {
+                "ua": "відсоткова ставка",
+                "ru": "процентная ставка"
+              }
+            },
+            {
+              "left": "tax",
+              "right": {
+                "ua": "податок",
+                "ru": "налог"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u15-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We took out a ___ to buy our flat. We'll pay it back over 20 years.",
+          "options": [
+            "mortgage",
+            "refund",
+            "budget"
+          ],
+          "answer": "mortgage",
+          "explain": {
+            "ua": "Mortgage.",
+            "ru": "Mortgage."
+          },
+          "id": "b2-u15-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The bank offered me a ___ of 10,000 euros.",
+          "options": [
+            "loan",
+            "tax",
+            "currency"
+          ],
+          "answer": "loan",
+          "explain": {
+            "ua": "Loan.",
+            "ru": "Loan."
+          },
+          "id": "b2-u15-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ rate is 5%, so I'll pay back more than I borrowed.",
+          "options": [
+            "interest",
+            "exchange",
+            "tax"
+          ],
+          "answer": "interest",
+          "explain": {
+            "ua": "Interest rate.",
+            "ru": "Interest rate."
+          },
+          "id": "b2-u15-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ my brother 200 dollars. I must pay him back.",
+          "options": [
+            "owe",
+            "lend",
+            "afford"
+          ],
+          "answer": "owe",
+          "explain": {
+            "ua": "Owe.",
+            "ru": "Owe."
+          },
+          "id": "b2-u15-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She ___ me some money and I paid her back a week later.",
+          "options": [
+            "lent",
+            "borrowed",
+            "owed"
+          ],
+          "answer": "lent",
+          "explain": {
+            "ua": "Lend → lent (дала).",
+            "ru": "Lend → lent (дала)."
+          },
+          "id": "b2-u15-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "borrow",
+            "lend",
+            "owe",
+            "pay back"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Can I ___ 20 dollars from you?",
+            "Could you ___ me 20 dollars?",
+            "Now I ___ you 20 dollars.",
+            "I'll ___ you ___ on Friday."
+          ],
+          "answers": [
+            "borrow",
+            "lend",
+            "owe",
+            "pay back"
+          ],
+          "explain": {
+            "ua": "Borrow — беру, lend — даю.",
+            "ru": "Borrow — беру, lend — даю."
+          },
+          "id": "b2-u15-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Can you borrow me some money?",
+          "answer": "Can you lend me some money?",
+          "accept": [
+            "Could you lend me some money?",
+            "Can I borrow some money?"
+          ],
+          "explain": {
+            "ua": "Дати → lend.",
+            "ru": "Дать → lend."
+          },
+          "id": "b2-u15-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I owe you fifty dollars.",
+          "options": [
+            "I owe you fifty dollars.",
+            "I own you fifty dollars.",
+            "I owe you fifteen dollars."
+          ],
+          "answer": "I owe you fifty dollars.",
+          "audio": "",
+          "explain": {
+            "ua": "Owe — «оу».",
+            "ru": "Owe — «оу»."
+          },
+          "id": "b2-u15-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я поверну тобі гроші завтра.",
+            "ru": "Я верну тебе деньги завтра."
+          },
+          "answer": "I'll pay you back tomorrow.",
+          "accept": [
+            "I will pay you back tomorrow.",
+            "I'll give you the money back tomorrow."
+          ],
+          "explain": {
+            "ua": "Pay back.",
+            "ru": "Pay back."
+          },
+          "id": "b2-u15-l02-e10"
+        }
+      ],
+      "words": [
+        "loan",
+        "mortgage",
+        "interest rate",
+        "tax",
+        "invest",
+        "borrow / lend",
+        "owe",
+        "pay back"
+      ]
+    },
+    {
+      "id": "b2-u15-l03",
+      "title": {
+        "en": "Shopping and payments",
+        "ua": "Покупки й платежі",
+        "ru": "Покупки и платежи"
+      },
+      "recap": {
+        "from": "b2-u15-l02",
+        "note": {
+          "ua": "Згадаймо: Банки й кредити",
+          "ru": "Вспомним: Банки и кредиты"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We took out a ___ to buy our flat. We'll pay it back over 20 years.",
+            "options": [
+              "mortgage",
+              "refund",
+              "budget"
+            ],
+            "answer": "mortgage",
+            "explain": {
+              "ua": "Mortgage.",
+              "ru": "Mortgage."
+            },
+            "id": "b2-u15-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ my brother 200 dollars. I must pay him back.",
+            "options": [
+              "owe",
+              "lend",
+              "afford"
+            ],
+            "answer": "owe",
+            "explain": {
+              "ua": "Owe.",
+              "ru": "Owe."
+            },
+            "id": "b2-u15-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "bargain",
+              "right": {
+                "ua": "вигідна покупка",
+                "ru": "выгодная покупка"
+              }
+            },
+            {
+              "left": "rip-off",
+              "right": {
+                "ua": "грабіж",
+                "ru": "грабёж"
+              }
+            },
+            {
+              "left": "refund",
+              "right": {
+                "ua": "повернення грошей",
+                "ru": "возврат денег"
+              }
+            },
+            {
+              "left": "currency",
+              "right": {
+                "ua": "валюта",
+                "ru": "валюта"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u15-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "This jacket was only 20 euros! What a ___ !",
+          "options": [
+            "bargain",
+            "rip-off",
+            "debt"
+          ],
+          "answer": "bargain",
+          "explain": {
+            "ua": "Bargain.",
+            "ru": "Bargain."
+          },
+          "id": "b2-u15-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "15 euros for a small water? That's a ___ !",
+          "options": [
+            "rip-off",
+            "bargain",
+            "refund"
+          ],
+          "answer": "rip-off",
+          "explain": {
+            "ua": "Rip-off.",
+            "ru": "Rip-off."
+          },
+          "id": "b2-u15-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The shoes were broken, so I asked for a ___ .",
+          "options": [
+            "refund",
+            "loan",
+            "tax"
+          ],
+          "answer": "refund",
+          "explain": {
+            "ua": "Refund.",
+            "ru": "Refund."
+          },
+          "id": "b2-u15-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "What's the ___ rate for euros today?",
+          "options": [
+            "exchange",
+            "interest",
+            "tax"
+          ],
+          "answer": "exchange",
+          "explain": {
+            "ua": "Exchange rate.",
+            "ru": "Exchange rate."
+          },
+          "id": "b2-u15-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I paid by bank ___ .",
+          "options": [
+            "transfer",
+            "currency",
+            "budget"
+          ],
+          "answer": "transfer",
+          "explain": {
+            "ua": "Bank transfer.",
+            "ru": "Bank transfer."
+          },
+          "id": "b2-u15-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The money of a country, like the euro or the hryvnia.",
+          "answer": "currency",
+          "accept": [
+            "a currency"
+          ],
+          "explain": {
+            "ua": "Currency.",
+            "ru": "Currency."
+          },
+          "id": "b2-u15-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'd like to get my money return.",
+          "answer": "I'd like a refund.",
+          "accept": [
+            "I'd like my money back.",
+            "I would like a refund."
+          ],
+          "explain": {
+            "ua": "Refund.",
+            "ru": "Refund."
+          },
+          "id": "b2-u15-l03-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "What a bargain!",
+          "options": [
+            "What a bargain!",
+            "What a barking!",
+            "What a burger!"
+          ],
+          "answer": "What a bargain!",
+          "audio": "",
+          "explain": {
+            "ua": "Bargain.",
+            "ru": "Bargain."
+          },
+          "id": "b2-u15-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я хотіла б повернути гроші.",
+            "ru": "Я хотела бы вернуть деньги."
+          },
+          "answer": "I'd like a refund.",
+          "accept": [
+            "I would like a refund.",
+            "I'd like my money back.",
+            "I would like to get a refund."
+          ],
+          "explain": {
+            "ua": "Refund.",
+            "ru": "Refund."
+          },
+          "id": "b2-u15-l03-e10"
+        }
+      ],
+      "words": [
+        "transfer",
+        "exchange rate",
+        "currency",
+        "bargain",
+        "rip-off",
+        "refund"
+      ]
+    },
+    {
+      "id": "b2-u15-l04",
+      "title": {
+        "en": "In context: a family budget",
+        "ua": "У контексті: сімейний бюджет",
+        "ru": "В контексте: семейный бюджет"
+      },
+      "recap": {
+        "from": "b2-u15-l03",
+        "note": {
+          "ua": "Згадаймо: Покупки й платежі",
+          "ru": "Вспомним: Покупки и платежи"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This jacket was only 20 euros! What a ___ !",
+            "options": [
+              "bargain",
+              "rip-off",
+              "debt"
+            ],
+            "answer": "bargain",
+            "explain": {
+              "ua": "Bargain.",
+              "ru": "Bargain."
+            },
+            "id": "b2-u15-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I paid by bank ___ .",
+            "options": [
+              "transfer",
+              "currency",
+              "budget"
+            ],
+            "answer": "transfer",
+            "explain": {
+              "ua": "Bank transfer.",
+              "ru": "Bank transfer."
+            },
+            "id": "b2-u15-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is the biggest expense?",
+              "options": [
+                "the mortgage",
+                "food",
+                "holidays"
+              ],
+              "answer": "the mortgage"
+            },
+            {
+              "type": "truefalse",
+              "statement": "They have paid off their car loan.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "They spend everything they earn.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What do they want to invest in?",
+              "options": [
+                "their children's education",
+                "a new car",
+                "a boat"
+              ],
+              "answer": "their children's education"
+            }
+          ],
+          "text": "My husband and I make a family budget every month. Our biggest expense is the mortgage — we have 15 more years to pay. Last year we finally paid off our car loan, which was a big relief. Now we try to put 15% of our income into savings. We don't buy things we can't afford, and we always look for bargains. In the future we'd like to invest in our children's education.",
+          "explain": {
+            "ua": "Mortgage biggest; car loan paid off; save 15%; invest in kids' education.",
+            "ru": "Mortgage biggest; car loan paid off; save 15%; invest in kids' education."
+          },
+          "id": "b2-u15-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "budget",
+            "mortgage",
+            "paid off",
+            "savings",
+            "invest"
+          ],
+          "reuse": false,
+          "sentences": [
+            "They make a family ___.",
+            "The biggest expense is the ___.",
+            "They ___ their car loan.",
+            "15% goes into ___.",
+            "They want to ___ in education."
+          ],
+          "answers": [
+            "budget",
+            "mortgage",
+            "paid off",
+            "savings",
+            "invest"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u15-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "a big relief",
+              "right": {
+                "ua": "велике полегшення",
+                "ru": "большое облегчение"
+              }
+            },
+            {
+              "left": "look for bargains",
+              "right": {
+                "ua": "шукати вигідні пропозиції",
+                "ru": "искать выгодные предложения"
+              }
+            },
+            {
+              "left": "put into savings",
+              "right": {
+                "ua": "відкладати",
+                "ru": "откладывать"
+              }
+            },
+            {
+              "left": "pay off",
+              "right": {
+                "ua": "виплатити повністю",
+                "ru": "выплатить полностью"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з тексту.",
+            "ru": "Фразы из текста."
+          },
+          "id": "b2-u15-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "They have 15 more years to ___ the mortgage.",
+          "options": [
+            "pay off",
+            "afford",
+            "lend"
+          ],
+          "answer": "pay off",
+          "explain": {
+            "ua": "Pay off.",
+            "ru": "Pay off."
+          },
+          "id": "b2-u15-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We invest to our children's education.",
+          "answer": "We invest in our children's education.",
+          "accept": [
+            "We're investing in our children's education."
+          ],
+          "explain": {
+            "ua": "Invest IN.",
+            "ru": "Invest IN."
+          },
+          "id": "b2-u15-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We don't buy things we can't to afford.",
+          "answer": "We don't buy things we can't afford.",
+          "accept": [],
+          "explain": {
+            "ua": "Can't afford — без to перед afford.",
+            "ru": "Can't afford — без to перед afford."
+          },
+          "id": "b2-u15-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "We finally paid off our car loan.",
+          "options": [
+            "We finally paid off our car loan.",
+            "We finally paid our car loan back off.",
+            "We finally paid off our car lone."
+          ],
+          "answer": "We finally paid off our car loan.",
+          "audio": "",
+          "explain": {
+            "ua": "Paid off.",
+            "ru": "Paid off."
+          },
+          "id": "b2-u15-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми відкладаємо 15% доходу.",
+            "ru": "Мы откладываем 15% дохода."
+          },
+          "answer": "We save 15% of our income.",
+          "accept": [
+            "We put 15% of our income into savings.",
+            "We save fifteen percent of our income."
+          ],
+          "explain": {
+            "ua": "Save.",
+            "ru": "Save."
+          },
+          "id": "b2-u15-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b2-u15-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u15-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: сімейний бюджет",
+          "ru": "Вспомним: В контексте: семейный бюджет"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "They have 15 more years to ___ the mortgage.",
+            "options": [
+              "pay off",
+              "afford",
+              "lend"
+            ],
+            "answer": "pay off",
+            "explain": {
+              "ua": "Pay off.",
+              "ru": "Pay off."
+            },
+            "id": "b2-u15-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "We don't buy things we can't to afford.",
+            "answer": "We don't buy things we can't afford.",
+            "accept": [],
+            "explain": {
+              "ua": "Can't afford — без to перед afford.",
+              "ru": "Can't afford — без to перед afford."
+            },
+            "id": "b2-u15-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "invest",
+              "right": {
+                "ua": "інвестувати",
+                "ru": "инвестировать"
+              }
+            },
+            {
+              "left": "owe",
+              "right": {
+                "ua": "бути винним",
+                "ru": "быть должным"
+              }
+            },
+            {
+              "left": "tax",
+              "right": {
+                "ua": "податок",
+                "ru": "налог"
+              }
+            },
+            {
+              "left": "exchange rate",
+              "right": {
+                "ua": "курс",
+                "ru": "курс"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u15-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Income ↔ ___",
+          "options": [
+            "expenses",
+            "savings",
+            "budget"
+          ],
+          "answer": "expenses",
+          "explain": {
+            "ua": "Дохід ↔ витрати.",
+            "ru": "Доход ↔ расходы."
+          },
+          "id": "b2-u15-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Bargain ↔ ___",
+          "options": [
+            "rip-off",
+            "refund",
+            "loan"
+          ],
+          "answer": "rip-off",
+          "explain": {
+            "ua": "Вигідно ↔ задорого.",
+            "ru": "Выгодно ↔ слишком дорого."
+          },
+          "id": "b2-u15-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A loan to buy a house.",
+          "answer": "mortgage",
+          "accept": [
+            "a mortgage"
+          ],
+          "explain": {
+            "ua": "Mortgage.",
+            "ru": "Mortgage."
+          },
+          "id": "b2-u15-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Money you pay to the government.",
+          "answer": "tax",
+          "accept": [
+            "taxes"
+          ],
+          "explain": {
+            "ua": "Tax.",
+            "ru": "Tax."
+          },
+          "id": "b2-u15-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "bank",
+          "answer": "loan",
+          "accept": [
+            "account",
+            "savings",
+            "mortgage",
+            "interest"
+          ],
+          "explain": {
+            "ua": "Банк → кредит.",
+            "ru": "Банк → кредит."
+          },
+          "id": "b2-u15-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm in debts.",
+          "answer": "I'm in debt.",
+          "accept": [
+            "I am in debt."
+          ],
+          "explain": {
+            "ua": "In debt.",
+            "ru": "In debt."
+          },
+          "id": "b2-u15-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "What's the exchange rate today?",
+          "options": [
+            "What's the exchange rate today?",
+            "What's the interest rate today?",
+            "What's the exchange rat today?"
+          ],
+          "answer": "What's the exchange rate today?",
+          "audio": "",
+          "explain": {
+            "ua": "Exchange rate.",
+            "ru": "Exchange rate."
+          },
+          "id": "b2-u15-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Він винен мені гроші.",
+            "ru": "Он должен мне деньги."
+          },
+          "answer": "He owes me money.",
+          "accept": [
+            "He owes me some money."
+          ],
+          "explain": {
+            "ua": "Owe.",
+            "ru": "Owe."
+          },
+          "id": "b2-u15-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I can't ___ a new car.",
+      "options": [
+        "afford",
+        "owe",
+        "lend"
+      ],
+      "answer": "afford",
+      "explain": {
+        "ua": "Afford.",
+        "ru": "Afford."
+      },
+      "id": "b2-u15-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Could you ___ me 10 euros?",
+      "options": [
+        "lend",
+        "borrow",
+        "owe"
+      ],
+      "answer": "lend",
+      "explain": {
+        "ua": "Lend.",
+        "ru": "Lend."
+      },
+      "id": "b2-u15-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "It was broken, so I got a ___ .",
+      "options": [
+        "refund",
+        "bargain",
+        "loan"
+      ],
+      "answer": "refund",
+      "explain": {
+        "ua": "Refund.",
+        "ru": "Refund."
+      },
+      "id": "b2-u15-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "All the money you earn.",
+      "answer": "income",
+      "accept": [
+        "salary",
+        "earnings"
+      ],
+      "explain": {
+        "ua": "Income.",
+        "ru": "Income."
+      },
+      "id": "b2-u15-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A plan for how to spend your money.",
+      "answer": "budget",
+      "accept": [
+        "a budget"
+      ],
+      "explain": {
+        "ua": "Budget.",
+        "ru": "Budget."
+      },
+      "id": "b2-u15-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I ___ you 50 dollars. I'll pay you back.",
+      "answer": "owe",
+      "accept": [],
+      "explain": {
+        "ua": "Owe.",
+        "ru": "Owe."
+      },
+      "id": "b2-u15-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "debt",
+          "right": {
+            "ua": "борг",
+            "ru": "долг"
+          }
+        },
+        {
+          "left": "savings",
+          "right": {
+            "ua": "заощадження",
+            "ru": "сбережения"
+          }
+        },
+        {
+          "left": "mortgage",
+          "right": {
+            "ua": "іпотека",
+            "ru": "ипотека"
+          }
+        },
+        {
+          "left": "currency",
+          "right": {
+            "ua": "валюта",
+            "ru": "валюта"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-u15-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Can you borrow me your car?",
+      "answer": "Can you lend me your car?",
+      "accept": [
+        "Can I borrow your car?"
+      ],
+      "explain": {
+        "ua": "Lend.",
+        "ru": "Lend."
+      },
+      "id": "b2-u15-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "This coffee is a real bargain — 15 euros!",
+      "answer": "This coffee is a real rip-off — 15 euros!",
+      "accept": [],
+      "explain": {
+        "ua": "Задорого — rip-off.",
+        "ru": "Слишком дорого — rip-off."
+      },
+      "id": "b2-u15-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "out",
+        "a",
+        "We",
+        "car",
+        "to",
+        "took",
+        "a",
+        "loan",
+        "buy"
+      ],
+      "answer": "We took out a loan to buy a car",
+      "explain": {
+        "ua": "Took out a loan → to buy a car.",
+        "ru": "Took out a loan → to buy a car."
+      },
+      "id": "b2-u15-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Яка відсоткова ставка?",
+        "ru": "Какая процентная ставка?"
+      },
+      "answer": "What's the interest rate?",
+      "accept": [
+        "What is the interest rate?"
+      ],
+      "explain": {
+        "ua": "Interest rate.",
+        "ru": "Interest rate."
+      },
+      "id": "b2-u15-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I'll pay you back on Friday.",
+      "options": [
+        "I'll pay you back on Friday.",
+        "I'll pay you on Friday back.",
+        "I'll pay you back in Friday."
+      ],
+      "answer": "I'll pay you back on Friday.",
+      "audio": "",
+      "explain": {
+        "ua": "Pay back.",
+        "ru": "Pay back."
+      },
+      "id": "b2-u15-cp12"
+    }
+  ]
+}

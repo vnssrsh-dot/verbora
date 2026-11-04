@@ -1,0 +1,1257 @@
+{
+  "id": "b1-u06",
+  "level": "B1",
+  "order": 6,
+  "kind": "grammar",
+  "title": {
+    "en": "Zero and first conditional",
+    "ua": "Умовні речення: zero і first",
+    "ru": "Условные: zero и first"
+  },
+  "rule": {
+    "formula": {
+      "ua": "Zero: If + Present, Present (факт) · First: If + Present, will + дієслово (реальне майбутнє)",
+      "ru": "Zero: If + Present, Present (факт) · First: If + Present, will + глагол (реальное будущее)"
+    },
+    "explain": {
+      "ua": "Zero — завжди так (закони, факти): If you heat ice, it melts. First — реальна ситуація в майбутньому: If it rains, I'll stay home. Після if — ніколи не will!",
+      "ru": "Zero — всегда так (законы, факты): If you heat ice, it melts. First — реальная ситуация в будущем: If it rains, I'll stay home. После if — никогда не will!"
+    },
+    "examples": [
+      {
+        "en": "If you heat water to 100°C, it boils.",
+        "ua": "Якщо нагріти воду до 100°C, вона закипає.",
+        "ru": "Если нагреть воду до 100°C, она закипает."
+      },
+      {
+        "en": "If it rains, we'll stay at home.",
+        "ua": "Якщо піде дощ, ми залишимося вдома.",
+        "ru": "Если пойдёт дождь, мы останемся дома."
+      },
+      {
+        "en": "I'll call you if I'm late.",
+        "ua": "Я подзвоню, якщо запізнюся.",
+        "ru": "Я позвоню, если опоздаю."
+      }
+    ],
+    "compare": {
+      "ua": "В українській кажемо «якщо піде дощ» (майбутнє), а в англійській — If it rains (теперішній). Will — тільки в іншій частині.",
+      "ru": "В русском говорим «если пойдёт дождь» (будущее), а в английском — If it rains (настоящее). Will — только в другой части."
+    }
+  },
+  "vocab": [
+    {
+      "word": "if",
+      "ipa": "/ɪf/",
+      "ua": "якщо",
+      "ru": "если",
+      "example": "if you want",
+      "audio": ""
+    },
+    {
+      "word": "unless",
+      "ipa": "/ənˈles/",
+      "ua": "якщо не",
+      "ru": "если не",
+      "example": "unless you hurry",
+      "audio": ""
+    },
+    {
+      "word": "as soon as",
+      "ipa": "/əz ˈsuːn əz/",
+      "ua": "щойно",
+      "ru": "как только",
+      "example": "as soon as I know",
+      "audio": ""
+    },
+    {
+      "word": "heat",
+      "ipa": "/hiːt/",
+      "ua": "нагрівати",
+      "ru": "нагревать",
+      "example": "If you heat ice…",
+      "audio": ""
+    },
+    {
+      "word": "melt",
+      "ipa": "/melt/",
+      "ua": "танути",
+      "ru": "таять",
+      "example": "Ice melts.",
+      "audio": ""
+    },
+    {
+      "word": "freeze",
+      "ipa": "/friːz/",
+      "ua": "замерзати",
+      "ru": "замерзать",
+      "example": "Water freezes at 0°C.",
+      "audio": ""
+    },
+    {
+      "word": "hurry",
+      "ipa": "/ˈhʌri/",
+      "ua": "поспішати",
+      "ru": "спешить",
+      "example": "If you don't hurry, you'll be late.",
+      "audio": ""
+    },
+    {
+      "word": "miss",
+      "ipa": "/mɪs/",
+      "ua": "пропустити, не встигнути",
+      "ru": "пропустить, не успеть",
+      "example": "We'll miss the train.",
+      "audio": ""
+    },
+    {
+      "word": "pass the exam",
+      "ipa": "/ˌpɑːs ði ɪɡˈzæm/",
+      "ua": "скласти іспит",
+      "ru": "сдать экзамен",
+      "example": "If you study, you'll pass the exam.",
+      "audio": ""
+    },
+    {
+      "word": "fail",
+      "ipa": "/feɪl/",
+      "ua": "провалити",
+      "ru": "провалить",
+      "example": "If you don't study, you'll fail.",
+      "audio": ""
+    },
+    {
+      "word": "in case",
+      "ipa": "/ɪn ˈkeɪs/",
+      "ua": "на випадок, якщо",
+      "ru": "на случай, если",
+      "example": "Take an umbrella in case it rains.",
+      "audio": ""
+    },
+    {
+      "word": "otherwise",
+      "ipa": "/ˈʌðəwaɪz/",
+      "ua": "інакше",
+      "ru": "иначе",
+      "example": "Hurry, otherwise we'll be late.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u06-l01",
+      "title": {
+        "en": "Zero conditional",
+        "ua": "Zero conditional",
+        "ru": "Zero conditional"
+      },
+      "recap": {
+        "from": "b1-u05-l03",
+        "note": {
+          "ua": "Згадаймо: Стосунки",
+          "ru": "Вспомним: Отношения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ well with my sister. We're best friends.",
+            "options": [
+              "get on",
+              "get up",
+              "get off"
+            ],
+            "answer": "get on",
+            "explain": {
+              "ua": "Get on well with.",
+              "ru": "Get on well with."
+            },
+            "id": "b1-u06-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We share the house ___ my wife's family.",
+            "options": [
+              "with",
+              "to",
+              "for"
+            ],
+            "answer": "with",
+            "explain": {
+              "ua": "Share with.",
+              "ru": "Share with."
+            },
+            "id": "b1-u06-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If / When + Present Simple, Present Simple — завжди так",
+          "ru": "If / When + Present Simple, Present Simple — всегда так"
+        },
+        "explain": {
+          "ua": "Факти й закони природи, загальні правила: If you mix red and yellow, you get orange. If can = when.",
+          "ru": "Факты и законы природы, общие правила: If you mix red and yellow, you get orange. If можно = when."
+        },
+        "examples": [
+          {
+            "en": "If you mix red and blue, you get purple.",
+            "ua": "Якщо змішати червоний і синій, вийде фіолетовий.",
+            "ru": "Если смешать красный и синий, получится фиолетовый."
+          },
+          {
+            "en": "Water freezes if the temperature is below 0°C.",
+            "ua": "Вода замерзає, якщо температура нижче нуля.",
+            "ru": "Вода замерзает, если температура ниже нуля."
+          },
+          {
+            "en": "If I drink coffee at night, I can't sleep.",
+            "ua": "Якщо я п'ю каву на ніч, я не можу заснути.",
+            "ru": "Если я пью кофе на ночь, я не могу уснуть."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "zero-conditional",
+          "question": "If you heat ice, it ___ .",
+          "options": [
+            "melts",
+            "will melt",
+            "melted"
+          ],
+          "answer": "melts",
+          "explain": {
+            "ua": "Факт → Present.",
+            "ru": "Факт → Present."
+          },
+          "id": "b1-u06-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "zero-conditional",
+          "question": "If you ___ water to 100°C, it boils.",
+          "options": [
+            "heat",
+            "will heat",
+            "heated"
+          ],
+          "answer": "heat",
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "zero-conditional",
+          "question": "Plants die if they ___ get water.",
+          "options": [
+            "don't",
+            "won't",
+            "didn't"
+          ],
+          "answer": "don't",
+          "explain": {
+            "ua": "Present.",
+            "ru": "Present."
+          },
+          "id": "b1-u06-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "zero-conditional",
+          "question": "If I eat too much, I ___ sick.",
+          "options": [
+            "feel",
+            "will feel",
+            "felt"
+          ],
+          "answer": "feel",
+          "explain": {
+            "ua": "Завжди так → Present.",
+            "ru": "Всегда так → Present."
+          },
+          "id": "b1-u06-l01-e04"
+        },
+        {
+          "type": "match",
+          "topic": "zero-conditional",
+          "pairs": [
+            {
+              "left": "If you heat ice,",
+              "right": "it melts."
+            },
+            {
+              "left": "If you mix blue and yellow,",
+              "right": "you get green."
+            },
+            {
+              "left": "If you don't water plants,",
+              "right": "they die."
+            },
+            {
+              "left": "If it's below 0°C,",
+              "right": "water freezes."
+            }
+          ],
+          "explain": {
+            "ua": "Причина → наслідок.",
+            "ru": "Причина → следствие."
+          },
+          "id": "b1-u06-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "zero-conditional",
+          "sentence": "If you will heat ice, it melts.",
+          "answer": "If you heat ice, it melts.",
+          "accept": [],
+          "explain": {
+            "ua": "Після if — без will.",
+            "ru": "После if — без will."
+          },
+          "id": "b1-u06-l01-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "zero-conditional",
+          "question": "If people ___ enough, they get tired. (not sleep)",
+          "answer": "don't sleep",
+          "accept": [],
+          "explain": {
+            "ua": "Present.",
+            "ru": "Present."
+          },
+          "id": "b1-u06-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "zero-conditional",
+          "audio_text": "If you freeze water, it becomes ice.",
+          "options": [
+            "If you freeze water, it becomes ice.",
+            "If you freeze water, it will become ice.",
+            "If you free water, it becomes ice."
+          ],
+          "answer": "If you freeze water, it becomes ice.",
+          "audio": "",
+          "explain": {
+            "ua": "Present.",
+            "ru": "Present."
+          },
+          "id": "b1-u06-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "zero-conditional",
+          "prompt": {
+            "ua": "Якщо я п'ю каву ввечері, я погано сплю.",
+            "ru": "Если я пью кофе вечером, я плохо сплю."
+          },
+          "answer": "If I drink coffee in the evening, I sleep badly.",
+          "accept": [
+            "If I drink coffee in the evening, I don't sleep well.",
+            "When I drink coffee in the evening, I sleep badly."
+          ],
+          "explain": {
+            "ua": "Present + Present.",
+            "ru": "Present + Present."
+          },
+          "id": "b1-u06-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u06-l02",
+      "title": {
+        "en": "First conditional",
+        "ua": "First conditional",
+        "ru": "First conditional"
+      },
+      "recap": {
+        "from": "b1-u06-l01",
+        "note": {
+          "ua": "Згадаймо: If / When + Present Simple, Present Simple — завжди так",
+          "ru": "Вспомним: If / When + Present Simple, Present Simple — всегда так"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "zero-conditional",
+            "question": "If you heat ice, it ___ .",
+            "options": [
+              "melts",
+              "will melt",
+              "melted"
+            ],
+            "answer": "melts",
+            "explain": {
+              "ua": "Факт → Present.",
+              "ru": "Факт → Present."
+            },
+            "id": "b1-u06-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "zero-conditional",
+            "question": "If I eat too much, I ___ sick.",
+            "options": [
+              "feel",
+              "will feel",
+              "felt"
+            ],
+            "answer": "feel",
+            "explain": {
+              "ua": "Завжди так → Present.",
+              "ru": "Всегда так → Present."
+            },
+            "id": "b1-u06-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If + Present Simple, will + дієслово",
+          "ru": "If + Present Simple, will + глагол"
+        },
+        "explain": {
+          "ua": "Реальна можливість у майбутньому. Частини можна міняти місцями: If you hurry, you'll catch the bus = You'll catch the bus if you hurry. Кома — коли if на початку.",
+          "ru": "Реальная возможность в будущем. Части можно менять местами: If you hurry, you'll catch the bus = You'll catch the bus if you hurry. Запятая — когда if в начале."
+        },
+        "examples": [
+          {
+            "en": "If you study, you'll pass the exam.",
+            "ua": "Якщо вчитимешся, складеш іспит.",
+            "ru": "Если будешь учиться, сдашь экзамен."
+          },
+          {
+            "en": "If it's sunny tomorrow, we'll go to the beach.",
+            "ua": "Якщо завтра буде сонячно, підемо на пляж.",
+            "ru": "Если завтра будет солнечно, пойдём на пляж."
+          },
+          {
+            "en": "I won't go if you don't come.",
+            "ua": "Я не піду, якщо ти не прийдеш.",
+            "ru": "Я не пойду, если ты не придёшь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "first-conditional",
+          "question": "If it rains tomorrow, we ___ at home.",
+          "options": [
+            "'ll stay",
+            "stay",
+            "stayed"
+          ],
+          "answer": "'ll stay",
+          "explain": {
+            "ua": "Друга частина → will.",
+            "ru": "Вторая часть → will."
+          },
+          "id": "b1-u06-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "first-conditional",
+          "question": "If you ___ , you'll miss the bus.",
+          "options": [
+            "don't hurry",
+            "won't hurry",
+            "didn't hurry"
+          ],
+          "answer": "don't hurry",
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "first-conditional",
+          "question": "I'll call you if I ___ late.",
+          "options": [
+            "'m",
+            "'ll be",
+            "was"
+          ],
+          "answer": "'m",
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "first-conditional",
+          "question": "If she ___ the exam, she'll be very happy.",
+          "options": [
+            "passes",
+            "will pass",
+            "passed"
+          ],
+          "answer": "passes",
+          "explain": {
+            "ua": "If + Present (-es).",
+            "ru": "If + Present (-es)."
+          },
+          "id": "b1-u06-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "first-conditional",
+          "question": "What will you do if you ___ the job?",
+          "options": [
+            "get",
+            "will get",
+            "got"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "first-conditional",
+          "bank": [
+            "finish",
+            "'ll go",
+            "is",
+            "'ll take"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If I ___ work early, I'll call you.",
+            "If you come, we ___ to the cinema.",
+            "If it ___ cold, wear a coat.",
+            "If we're late, we ___ a taxi."
+          ],
+          "answers": [
+            "finish",
+            "'ll go",
+            "is",
+            "'ll take"
+          ],
+          "explain": {
+            "ua": "If-частина → Present, інша → will.",
+            "ru": "If-часть → Present, другая → will."
+          },
+          "id": "b1-u06-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "first-conditional",
+          "sentence": "If it will rain, I'll take an umbrella.",
+          "answer": "If it rains, I'll take an umbrella.",
+          "accept": [],
+          "explain": {
+            "ua": "Після if — Present.",
+            "ru": "После if — Present."
+          },
+          "id": "b1-u06-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "first-conditional",
+          "sentence": "If you study hard, you pass will.",
+          "answer": "If you study hard, you'll pass.",
+          "accept": [
+            "If you study hard, you will pass."
+          ],
+          "explain": {
+            "ua": "Will + дієслово.",
+            "ru": "Will + глагол."
+          },
+          "id": "b1-u06-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "first-conditional",
+          "prompt": {
+            "ua": "Якщо завтра буде сонячно, ми підемо на пляж.",
+            "ru": "Если завтра будет солнечно, мы пойдём на пляж."
+          },
+          "answer": "If it's sunny tomorrow, we'll go to the beach.",
+          "accept": [
+            "If it is sunny tomorrow, we will go to the beach.",
+            "We'll go to the beach if it's sunny tomorrow.",
+            "If it's sunny tomorrow, we will go to the beach."
+          ],
+          "explain": {
+            "ua": "If + Present, will.",
+            "ru": "If + Present, will."
+          },
+          "id": "b1-u06-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u06-l03",
+      "title": {
+        "en": "unless, as soon as, in case",
+        "ua": "unless, as soon as, in case",
+        "ru": "unless, as soon as, in case"
+      },
+      "recap": {
+        "from": "b1-u06-l02",
+        "note": {
+          "ua": "Згадаймо: If + Present Simple, will + дієслово",
+          "ru": "Вспомним: If + Present Simple, will + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "first-conditional",
+            "question": "If it rains tomorrow, we ___ at home.",
+            "options": [
+              "'ll stay",
+              "stay",
+              "stayed"
+            ],
+            "answer": "'ll stay",
+            "explain": {
+              "ua": "Друга частина → will.",
+              "ru": "Вторая часть → will."
+            },
+            "id": "b1-u06-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "first-conditional",
+            "question": "What will you do if you ___ the job?",
+            "options": [
+              "get",
+              "will get",
+              "got"
+            ],
+            "answer": "get",
+            "explain": {
+              "ua": "If + Present.",
+              "ru": "If + Present."
+            },
+            "id": "b1-u06-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "unless = if … not · as soon as = щойно · in case = на випадок, якщо",
+          "ru": "unless = if … not · as soon as = как только · in case = на случай, если"
+        },
+        "explain": {
+          "ua": "Unless — «якщо не»: You'll be late unless you hurry (= if you don't hurry). As soon as — щойно. Після них, як після if, — теперішній час.",
+          "ru": "Unless — «если не»: You'll be late unless you hurry (= if you don't hurry). As soon as — как только. После них, как после if, — настоящее время."
+        },
+        "examples": [
+          {
+            "en": "I won't go unless you come with me.",
+            "ua": "Я не піду, якщо ти не підеш зі мною.",
+            "ru": "Я не пойду, если ты не пойдёшь со мной."
+          },
+          {
+            "en": "I'll text you as soon as I arrive.",
+            "ua": "Напишу, щойно приїду.",
+            "ru": "Напишу, как только приеду."
+          },
+          {
+            "en": "Take a jacket in case it gets cold.",
+            "ua": "Візьми куртку на випадок, якщо похолоднішає.",
+            "ru": "Возьми куртку на случай, если похолодает."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "unless",
+          "question": "You'll fail ___ you study.",
+          "options": [
+            "unless",
+            "if",
+            "in case"
+          ],
+          "answer": "unless",
+          "explain": {
+            "ua": "Unless = if not.",
+            "ru": "Unless = if not."
+          },
+          "id": "b1-u06-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "unless",
+          "question": "Unless you hurry, we ___ the train.",
+          "options": [
+            "'ll miss",
+            "miss",
+            "won't miss"
+          ],
+          "answer": "'ll miss",
+          "explain": {
+            "ua": "Unless + Present, will.",
+            "ru": "Unless + Present, will."
+          },
+          "id": "b1-u06-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "unless",
+          "question": "I'll call you as soon as I ___ the results.",
+          "options": [
+            "get",
+            "will get",
+            "got"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "As soon as + Present.",
+            "ru": "As soon as + Present."
+          },
+          "id": "b1-u06-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "unless",
+          "question": "Take some money ___ you need a taxi.",
+          "options": [
+            "in case",
+            "unless",
+            "as soon as"
+          ],
+          "answer": "in case",
+          "explain": {
+            "ua": "На випадок — in case.",
+            "ru": "На случай — in case."
+          },
+          "id": "b1-u06-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "unless",
+          "pairs": [
+            {
+              "left": "unless",
+              "right": "if … not"
+            },
+            {
+              "left": "as soon as",
+              "right": {
+                "ua": "щойно",
+                "ru": "как только"
+              }
+            },
+            {
+              "left": "in case",
+              "right": {
+                "ua": "на випадок",
+                "ru": "на случай"
+              }
+            },
+            {
+              "left": "otherwise",
+              "right": {
+                "ua": "інакше",
+                "ru": "иначе"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Сполучники.",
+            "ru": "Союзы."
+          },
+          "id": "b1-u06-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "unless",
+          "sentence": "Unless you don't hurry, you'll be late.",
+          "answer": "Unless you hurry, you'll be late.",
+          "accept": [
+            "If you don't hurry, you'll be late."
+          ],
+          "explain": {
+            "ua": "Unless уже має «не».",
+            "ru": "Unless уже содержит «не»."
+          },
+          "id": "b1-u06-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "unless",
+          "sentence": "I'll tell you as soon as I will know.",
+          "answer": "I'll tell you as soon as I know.",
+          "accept": [],
+          "explain": {
+            "ua": "As soon as + Present.",
+            "ru": "As soon as + Present."
+          },
+          "id": "b1-u06-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "unless",
+          "audio_text": "Take an umbrella in case it rains.",
+          "options": [
+            "Take an umbrella in case it rains.",
+            "Take an umbrella in case it will rain.",
+            "Take an umbrella unless it rains."
+          ],
+          "answer": "Take an umbrella in case it rains.",
+          "audio": "",
+          "explain": {
+            "ua": "In case.",
+            "ru": "In case."
+          },
+          "id": "b1-u06-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "unless",
+          "prompt": {
+            "ua": "Я не прийду, якщо ти мене не запросиш.",
+            "ru": "Я не приду, если ты меня не пригласишь."
+          },
+          "answer": "I won't come unless you invite me.",
+          "accept": [
+            "I won't come if you don't invite me.",
+            "I will not come unless you invite me."
+          ],
+          "explain": {
+            "ua": "Unless.",
+            "ru": "Unless."
+          },
+          "id": "b1-u06-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u06-l04",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u06-l03",
+        "note": {
+          "ua": "Згадаймо: unless = if … not · as soon as = щойно · in case = на випадок, якщо",
+          "ru": "Вспомним: unless = if … not · as soon as = как только · in case = на случай, если"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "unless",
+            "question": "You'll fail ___ you study.",
+            "options": [
+              "unless",
+              "if",
+              "in case"
+            ],
+            "answer": "unless",
+            "explain": {
+              "ua": "Unless = if not.",
+              "ru": "Unless = if not."
+            },
+            "id": "b1-u06-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "unless",
+            "question": "Take some money ___ you need a taxi.",
+            "options": [
+              "in case",
+              "unless",
+              "as soon as"
+            ],
+            "answer": "in case",
+            "explain": {
+              "ua": "На випадок — in case.",
+              "ru": "На случай — in case."
+            },
+            "id": "b1-u06-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "conditionals",
+          "question": "If you mix black and white, you ___ grey.",
+          "options": [
+            "get",
+            "will get",
+            "got"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "Факт → Zero.",
+            "ru": "Факт → Zero."
+          },
+          "id": "b1-u06-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "conditionals",
+          "question": "If you ___ me, I'll help you.",
+          "options": [
+            "call",
+            "will call",
+            "called"
+          ],
+          "answer": "call",
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l04-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "If Ola passes her exam, she'll go to university.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ola will study at night.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What will Ola do if she fails?",
+              "options": [
+                "try again next year",
+                "get a job",
+                "move abroad"
+              ],
+              "answer": "try again next year"
+            }
+          ],
+          "text": "My exam is next week. If I pass it, I'll go to university in Kyiv. My mum says, 'If you don't sleep enough, you won't remember anything,' so I won't study at night. If I fail, I'll try again next year. As soon as I get the results, I'll call my best friend.",
+          "explain": {
+            "ua": "Pass → university; won't study at night; fail → try again.",
+            "ru": "Pass → university; won't study at night; fail → try again."
+          },
+          "id": "b1-u06-l04-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "conditionals",
+          "bank": [
+            "passes",
+            "'ll go",
+            "fails",
+            "gets"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If Ola ___ , she'll go to university.",
+            "She ___ to Kyiv.",
+            "If she ___ , she'll try again.",
+            "As soon as she ___ the results, she'll call her friend."
+          ],
+          "answers": [
+            "passes",
+            "'ll go",
+            "fails",
+            "gets"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u06-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "conditionals",
+          "sentence": "If I will see him, I'll tell him.",
+          "answer": "If I see him, I'll tell him.",
+          "accept": [],
+          "explain": {
+            "ua": "If + Present.",
+            "ru": "If + Present."
+          },
+          "id": "b1-u06-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "conditionals",
+          "sentence": "Hurry up, otherwise we miss the bus.",
+          "answer": "Hurry up, otherwise we'll miss the bus.",
+          "accept": [],
+          "explain": {
+            "ua": "Otherwise + will.",
+            "ru": "Otherwise + will."
+          },
+          "id": "b1-u06-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "you",
+            "hurry",
+            "you",
+            "don't",
+            "will",
+            "If",
+            "late",
+            "be"
+          ],
+          "answer": "If you don't hurry you will be late",
+          "explain": {
+            "ua": "If you don't hurry → you will be late.",
+            "ru": "If you don't hurry → you will be late."
+          },
+          "id": "b1-u06-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "conditionals",
+          "audio_text": "I'll text you as soon as I land.",
+          "options": [
+            "I'll text you as soon as I land.",
+            "I text you as soon as I will land.",
+            "I'll text you as soon as I'm late."
+          ],
+          "answer": "I'll text you as soon as I land.",
+          "audio": "",
+          "explain": {
+            "ua": "As soon as I land.",
+            "ru": "As soon as I land."
+          },
+          "id": "b1-u06-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "conditionals",
+          "prompt": {
+            "ua": "Якщо ти не поспішиш, ми запізнимося.",
+            "ru": "Если ты не поторопишься, мы опоздаем."
+          },
+          "answer": "If you don't hurry, we'll be late.",
+          "accept": [
+            "If you don't hurry, we will be late.",
+            "Unless you hurry, we'll be late.",
+            "We'll be late if you don't hurry."
+          ],
+          "explain": {
+            "ua": "First conditional.",
+            "ru": "First conditional."
+          },
+          "id": "b1-u06-l04-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "zero-conditional",
+      "question": "If you heat ice, it ___ .",
+      "options": [
+        "melts",
+        "will melt",
+        "melted"
+      ],
+      "answer": "melts",
+      "explain": {
+        "ua": "Zero.",
+        "ru": "Zero."
+      },
+      "id": "b1-u06-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "first-conditional",
+      "question": "If it ___ tomorrow, we'll stay in.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained"
+      ],
+      "answer": "rains",
+      "explain": {
+        "ua": "If + Present.",
+        "ru": "If + Present."
+      },
+      "id": "b1-u06-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "first-conditional",
+      "question": "If you call me, I ___ you.",
+      "options": [
+        "'ll help",
+        "help",
+        "helped"
+      ],
+      "answer": "'ll help",
+      "explain": {
+        "ua": "Will.",
+        "ru": "Will."
+      },
+      "id": "b1-u06-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "unless",
+      "question": "I won't go ___ you come with me.",
+      "options": [
+        "unless",
+        "if",
+        "as soon as"
+      ],
+      "answer": "unless",
+      "explain": {
+        "ua": "Unless.",
+        "ru": "Unless."
+      },
+      "id": "b1-u06-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "unless",
+      "question": "Take a map ___ you get lost.",
+      "options": [
+        "in case",
+        "unless",
+        "otherwise"
+      ],
+      "answer": "in case",
+      "explain": {
+        "ua": "In case.",
+        "ru": "In case."
+      },
+      "id": "b1-u06-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "unless",
+      "question": "I'll call you as soon as I ___ . (arrive)",
+      "answer": "arrive",
+      "accept": [],
+      "explain": {
+        "ua": "Present.",
+        "ru": "Present."
+      },
+      "id": "b1-u06-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "first-conditional",
+      "question": "If she ___ late, she'll miss the start. (be)",
+      "answer": "is",
+      "accept": [
+        "'s"
+      ],
+      "explain": {
+        "ua": "Present.",
+        "ru": "Present."
+      },
+      "id": "b1-u06-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "first-conditional",
+      "sentence": "If you will come, we'll be happy.",
+      "answer": "If you come, we'll be happy.",
+      "accept": [],
+      "explain": {
+        "ua": "If + Present.",
+        "ru": "If + Present."
+      },
+      "id": "b1-u06-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "unless",
+      "sentence": "Unless you don't study, you'll fail.",
+      "answer": "Unless you study, you'll fail.",
+      "accept": [
+        "If you don't study, you'll fail."
+      ],
+      "explain": {
+        "ua": "Без don't.",
+        "ru": "Без don't."
+      },
+      "id": "b1-u06-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "first-conditional",
+      "words": [
+        "We",
+        "beach",
+        "the",
+        "if",
+        "is",
+        "will",
+        "it",
+        "to",
+        "sunny",
+        "go"
+      ],
+      "answer": "We will go to the beach if it is sunny",
+      "explain": {
+        "ua": "Will go → if it is sunny.",
+        "ru": "Will go → if it is sunny."
+      },
+      "id": "b1-u06-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "first-conditional",
+      "prompt": {
+        "ua": "Якщо ти мені допоможеш, я закінчу швидше.",
+        "ru": "Если ты мне поможешь, я закончу быстрее."
+      },
+      "answer": "If you help me, I'll finish faster.",
+      "accept": [
+        "If you help me, I will finish faster.",
+        "If you help me, I'll finish quicker.",
+        "I'll finish faster if you help me."
+      ],
+      "explain": {
+        "ua": "First conditional.",
+        "ru": "First conditional."
+      },
+      "id": "b1-u06-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "zero-conditional",
+      "audio_text": "If you don't water plants, they die.",
+      "options": [
+        "If you don't water plants, they die.",
+        "If you don't water plants, they'll die.",
+        "If you don't want plants, they die."
+      ],
+      "answer": "If you don't water plants, they die.",
+      "audio": "",
+      "explain": {
+        "ua": "Zero.",
+        "ru": "Zero."
+      },
+      "id": "b1-u06-cp12"
+    }
+  ]
+}

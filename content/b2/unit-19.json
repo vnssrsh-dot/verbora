@@ -1,0 +1,1554 @@
+{
+  "id": "b2-u19",
+  "level": "B2",
+  "order": 19,
+  "kind": "vocab",
+  "title": {
+    "en": "Health and lifestyle",
+    "ua": "Здоров'я і спосіб життя",
+    "ru": "Здоровье и образ жизни"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "lifestyle",
+      "ipa": "/ˈlaɪfstaɪl/",
+      "ua": "спосіб життя",
+      "ru": "образ жизни",
+      "example": "a healthy lifestyle",
+      "audio": ""
+    },
+    {
+      "word": "balanced diet",
+      "ipa": "/ˌbælənst ˈdaɪət/",
+      "ua": "збалансоване харчування",
+      "ru": "сбалансированное питание",
+      "example": "eat a balanced diet",
+      "audio": ""
+    },
+    {
+      "word": "work-life balance",
+      "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+      "ua": "баланс роботи й життя",
+      "ru": "баланс работы и жизни",
+      "example": "a good work-life balance",
+      "audio": ""
+    },
+    {
+      "word": "stress",
+      "ipa": "/stres/",
+      "ua": "стрес",
+      "ru": "стресс",
+      "example": "reduce stress",
+      "audio": ""
+    },
+    {
+      "word": "stressful",
+      "ipa": "/ˈstresfl/",
+      "ua": "стресовий",
+      "ru": "стрессовый",
+      "example": "a stressful job",
+      "audio": ""
+    },
+    {
+      "word": "burnout",
+      "ipa": "/ˈbɜːnaʊt/",
+      "ua": "вигорання",
+      "ru": "выгорание",
+      "example": "suffer from burnout",
+      "audio": ""
+    },
+    {
+      "word": "mental health",
+      "ipa": "/ˌmentl ˈhelθ/",
+      "ua": "психічне здоров'я",
+      "ru": "психическое здоровье",
+      "example": "take care of your mental health",
+      "audio": ""
+    },
+    {
+      "word": "well-being",
+      "ipa": "/ˌwel ˈbiːɪŋ/",
+      "ua": "добробут, самопочуття",
+      "ru": "благополучие, самочувствие",
+      "example": "physical and mental well-being",
+      "audio": ""
+    },
+    {
+      "word": "exercise regularly",
+      "ipa": "/ˌeksəsaɪz ˈreɡjələli/",
+      "ua": "регулярно тренуватися",
+      "ru": "регулярно заниматься спортом",
+      "example": "I exercise regularly.",
+      "audio": ""
+    },
+    {
+      "word": "get enough sleep",
+      "ipa": "/ɡet ɪˌnʌf ˈsliːp/",
+      "ua": "висипатися",
+      "ru": "высыпаться",
+      "example": "Try to get enough sleep.",
+      "audio": ""
+    },
+    {
+      "word": "cut down on",
+      "ipa": "/ˌkʌt ˈdaʊn ɒn/",
+      "ua": "зменшити (споживання)",
+      "ru": "сократить (потребление)",
+      "example": "cut down on sugar",
+      "audio": ""
+    },
+    {
+      "word": "give up",
+      "ipa": "/ˌɡɪv ˈʌp/",
+      "ua": "кинути (звичку)",
+      "ru": "бросить (привычку)",
+      "example": "give up smoking",
+      "audio": ""
+    },
+    {
+      "word": "take up",
+      "ipa": "/ˌteɪk ˈʌp/",
+      "ua": "почати (заняття)",
+      "ru": "начать (занятие)",
+      "example": "take up yoga",
+      "audio": ""
+    },
+    {
+      "word": "work out",
+      "ipa": "/ˌwɜːk ˈaʊt/",
+      "ua": "тренуватися",
+      "ru": "тренироваться",
+      "example": "I work out three times a week.",
+      "audio": ""
+    },
+    {
+      "word": "screen time",
+      "ipa": "/ˈskriːn taɪm/",
+      "ua": "час біля екранів",
+      "ru": "время у экранов",
+      "example": "reduce screen time",
+      "audio": ""
+    },
+    {
+      "word": "meditation",
+      "ipa": "/ˌmedɪˈteɪʃn/",
+      "ua": "медитація",
+      "ru": "медитация",
+      "example": "Meditation helps me relax.",
+      "audio": ""
+    },
+    {
+      "word": "check-up",
+      "ipa": "/ˈtʃek ʌp/",
+      "ua": "медогляд",
+      "ru": "медосмотр",
+      "example": "a yearly check-up",
+      "audio": ""
+    },
+    {
+      "word": "recover",
+      "ipa": "/rɪˈkʌvə/",
+      "ua": "одужувати",
+      "ru": "выздоравливать",
+      "example": "She's recovering well.",
+      "audio": ""
+    },
+    {
+      "word": "prevent",
+      "ipa": "/prɪˈvent/",
+      "ua": "запобігати",
+      "ru": "предотвращать",
+      "example": "prevent illness",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u19-l01",
+      "title": {
+        "en": "A healthy lifestyle",
+        "ua": "Здоровий спосіб життя",
+        "ru": "Здоровый образ жизни"
+      },
+      "recap": {
+        "from": "b2-u18-l02",
+        "note": {
+          "ua": "Згадаймо: whereas / while + речення · despite / in spite of + іменник або -ing · although + речення",
+          "ru": "Вспомним: whereas / while + предложение · despite / in spite of + существительное или -ing · although + предложение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "contrast",
+            "question": "___ the rain, we went for a walk.",
+            "options": [
+              "Despite",
+              "Although",
+              "Whereas"
+            ],
+            "answer": "Despite",
+            "explain": {
+              "ua": "Despite + іменник.",
+              "ru": "Despite + существительное."
+            },
+            "id": "b2-u19-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "contrast",
+            "question": "Despite ___ hard, he failed the exam.",
+            "options": [
+              "studying",
+              "he studied",
+              "study"
+            ],
+            "answer": "studying",
+            "explain": {
+              "ua": "Despite + -ing.",
+              "ru": "Despite + -ing."
+            },
+            "id": "b2-u19-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "lifestyle",
+              "right": {
+                "ua": "спосіб життя",
+                "ru": "образ жизни"
+              }
+            },
+            {
+              "left": "balanced diet",
+              "right": {
+                "ua": "збалансоване харчування",
+                "ru": "сбалансированное питание"
+              }
+            },
+            {
+              "left": "work out",
+              "right": {
+                "ua": "тренуватися",
+                "ru": "тренироваться"
+              }
+            },
+            {
+              "left": "get enough sleep",
+              "right": {
+                "ua": "висипатися",
+                "ru": "высыпаться"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u19-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Eat a ___ diet: vegetables, protein and some carbs.",
+          "options": [
+            "balanced",
+            "stressful",
+            "regular"
+          ],
+          "answer": "balanced",
+          "explain": {
+            "ua": "Balanced diet.",
+            "ru": "Balanced diet."
+          },
+          "id": "b2-u19-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ at the gym three times a week.",
+          "options": [
+            "work out",
+            "work off",
+            "take out"
+          ],
+          "answer": "work out",
+          "explain": {
+            "ua": "Work out.",
+            "ru": "Work out."
+          },
+          "id": "b2-u19-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Adults should try to get ___ sleep — about 7–8 hours.",
+          "options": [
+            "enough",
+            "much",
+            "lots"
+          ],
+          "answer": "enough",
+          "explain": {
+            "ua": "Get enough sleep.",
+            "ru": "Get enough sleep."
+          },
+          "id": "b2-u19-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Regular check-ups can help ___ serious illness.",
+          "options": [
+            "prevent",
+            "recover",
+            "give up"
+          ],
+          "answer": "prevent",
+          "explain": {
+            "ua": "Prevent.",
+            "ru": "Prevent."
+          },
+          "id": "b2-u19-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "How you live: what you eat, how you work, sleep and relax.",
+          "answer": "lifestyle",
+          "accept": [
+            "a lifestyle",
+            "way of life"
+          ],
+          "explain": {
+            "ua": "Lifestyle.",
+            "ru": "Lifestyle."
+          },
+          "id": "b2-u19-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I make sport every day.",
+          "answer": "I exercise every day.",
+          "accept": [
+            "I do sport every day.",
+            "I work out every day.",
+            "I do exercise every day."
+          ],
+          "explain": {
+            "ua": "Займатися спортом — exercise / do sport.",
+            "ru": "Заниматься спортом — exercise / do sport."
+          },
+          "id": "b2-u19-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈbæləns/",
+          "options": [
+            "balance",
+            "balloon",
+            "ballet"
+          ],
+          "answer": "balance",
+          "explain": {
+            "ua": "Наголос на першому складі.",
+            "ru": "Ударение на первом слоге."
+          },
+          "id": "b2-u19-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я тренуюся тричі на тиждень.",
+            "ru": "Я тренируюсь три раза в неделю."
+          },
+          "answer": "I work out three times a week.",
+          "accept": [
+            "I exercise three times a week.",
+            "I train three times a week."
+          ],
+          "explain": {
+            "ua": "Work out.",
+            "ru": "Work out."
+          },
+          "id": "b2-u19-l01-e09"
+        }
+      ],
+      "words": [
+        "lifestyle",
+        "balanced diet",
+        "exercise regularly",
+        "get enough sleep",
+        "work out",
+        "check-up",
+        "prevent",
+        "recover"
+      ]
+    },
+    {
+      "id": "b2-u19-l02",
+      "title": {
+        "en": "Stress and mental health",
+        "ua": "Стрес і психічне здоров'я",
+        "ru": "Стресс и психическое здоровье"
+      },
+      "recap": {
+        "from": "b2-u19-l01",
+        "note": {
+          "ua": "Згадаймо: Здоровий спосіб життя",
+          "ru": "Вспомним: Здоровый образ жизни"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Eat a ___ diet: vegetables, protein and some carbs.",
+            "options": [
+              "balanced",
+              "stressful",
+              "regular"
+            ],
+            "answer": "balanced",
+            "explain": {
+              "ua": "Balanced diet.",
+              "ru": "Balanced diet."
+            },
+            "id": "b2-u19-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Regular check-ups can help ___ serious illness.",
+            "options": [
+              "prevent",
+              "recover",
+              "give up"
+            ],
+            "answer": "prevent",
+            "explain": {
+              "ua": "Prevent.",
+              "ru": "Prevent."
+            },
+            "id": "b2-u19-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "stress",
+              "right": {
+                "ua": "стрес",
+                "ru": "стресс"
+              }
+            },
+            {
+              "left": "burnout",
+              "right": {
+                "ua": "вигорання",
+                "ru": "выгорание"
+              }
+            },
+            {
+              "left": "mental health",
+              "right": {
+                "ua": "психічне здоров'я",
+                "ru": "психическое здоровье"
+              }
+            },
+            {
+              "left": "well-being",
+              "right": {
+                "ua": "самопочуття",
+                "ru": "благополучие"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u19-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She worked 60 hours a week for a year and suffered from ___ .",
+          "options": [
+            "burnout",
+            "balance",
+            "check-up"
+          ],
+          "answer": "burnout",
+          "explain": {
+            "ua": "Burnout.",
+            "ru": "Burnout."
+          },
+          "id": "b2-u19-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My job is very ___ . I'm always under pressure.",
+          "options": [
+            "stressful",
+            "stress",
+            "stressed"
+          ],
+          "answer": "stressful",
+          "explain": {
+            "ua": "Робота яка? → stressful.",
+            "ru": "Работа какая? → stressful."
+          },
+          "id": "b2-u19-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's important to have a good work-life ___ .",
+          "options": [
+            "balance",
+            "diet",
+            "lifestyle"
+          ],
+          "answer": "balance",
+          "explain": {
+            "ua": "Work-life balance.",
+            "ru": "Work-life balance."
+          },
+          "id": "b2-u19-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Talking to a therapist can help your ___ health.",
+          "options": [
+            "mental",
+            "physical",
+            "body"
+          ],
+          "answer": "mental",
+          "explain": {
+            "ua": "Mental health.",
+            "ru": "Mental health."
+          },
+          "id": "b2-u19-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ helps me calm down before bed.",
+          "options": [
+            "Meditation",
+            "Burnout",
+            "Screen time"
+          ],
+          "answer": "Meditation",
+          "explain": {
+            "ua": "Meditation.",
+            "ru": "Meditation."
+          },
+          "id": "b2-u19-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "stressed",
+            "stressful",
+            "stress"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I'm very ___ about the exam.",
+            "It's a ___ week.",
+            "Yoga helps reduce ___."
+          ],
+          "answers": [
+            "stressed",
+            "stressful",
+            "stress"
+          ],
+          "explain": {
+            "ua": "Почуття → stressed, ситуація → stressful, іменник → stress.",
+            "ru": "Чувство → stressed, ситуация → stressful, существительное → stress."
+          },
+          "id": "b2-u19-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I have a burnout.",
+          "answer": "I'm suffering from burnout.",
+          "accept": [
+            "I have burnout.",
+            "I'm burnt out.",
+            "I am suffering from burnout."
+          ],
+          "explain": {
+            "ua": "Burnout — незлічуване.",
+            "ru": "Burnout — неисчисляемое."
+          },
+          "id": "b2-u19-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Take care of your mental health.",
+          "options": [
+            "Take care of your mental health.",
+            "Take care of your metal health.",
+            "Take care for your mental health."
+          ],
+          "answer": "Take care of your mental health.",
+          "audio": "",
+          "explain": {
+            "ua": "Mental health.",
+            "ru": "Mental health."
+          },
+          "id": "b2-u19-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене дуже стресова робота.",
+            "ru": "У меня очень стрессовая работа."
+          },
+          "answer": "I have a very stressful job.",
+          "accept": [
+            "My job is very stressful.",
+            "I've got a very stressful job."
+          ],
+          "explain": {
+            "ua": "Stressful.",
+            "ru": "Stressful."
+          },
+          "id": "b2-u19-l02-e10"
+        }
+      ],
+      "words": [
+        "work-life balance",
+        "stress",
+        "stressful",
+        "burnout",
+        "mental health",
+        "well-being",
+        "meditation",
+        "screen time"
+      ]
+    },
+    {
+      "id": "b2-u19-l03",
+      "title": {
+        "en": "Changing habits",
+        "ua": "Змінюємо звички",
+        "ru": "Меняем привычки"
+      },
+      "recap": {
+        "from": "b2-u19-l02",
+        "note": {
+          "ua": "Згадаймо: Стрес і психічне здоров'я",
+          "ru": "Вспомним: Стресс и психическое здоровье"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She worked 60 hours a week for a year and suffered from ___ .",
+            "options": [
+              "burnout",
+              "balance",
+              "check-up"
+            ],
+            "answer": "burnout",
+            "explain": {
+              "ua": "Burnout.",
+              "ru": "Burnout."
+            },
+            "id": "b2-u19-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Talking to a therapist can help your ___ health.",
+            "options": [
+              "mental",
+              "physical",
+              "body"
+            ],
+            "answer": "mental",
+            "explain": {
+              "ua": "Mental health.",
+              "ru": "Mental health."
+            },
+            "id": "b2-u19-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "cut down on",
+              "right": {
+                "ua": "зменшити",
+                "ru": "сократить"
+              }
+            },
+            {
+              "left": "give up",
+              "right": {
+                "ua": "кинути",
+                "ru": "бросить"
+              }
+            },
+            {
+              "left": "take up",
+              "right": {
+                "ua": "почати заняття",
+                "ru": "начать занятие"
+              }
+            },
+            {
+              "left": "screen time",
+              "right": {
+                "ua": "час біля екранів",
+                "ru": "время у экранов"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u19-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm trying to ___ sugar. I only have one sweet a day.",
+          "options": [
+            "cut down on",
+            "give up",
+            "take up"
+          ],
+          "answer": "cut down on",
+          "explain": {
+            "ua": "Зменшити → cut down on.",
+            "ru": "Сократить → cut down on."
+          },
+          "id": "b2-u19-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He ___ smoking five years ago. He doesn't smoke at all now.",
+          "options": [
+            "gave up",
+            "cut down on",
+            "took up"
+          ],
+          "answer": "gave up",
+          "explain": {
+            "ua": "Кинути → give up.",
+            "ru": "Бросить → give up."
+          },
+          "id": "b2-u19-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Last year I ___ swimming. Now I swim twice a week.",
+          "options": [
+            "took up",
+            "gave up",
+            "cut down"
+          ],
+          "answer": "took up",
+          "explain": {
+            "ua": "Почати → take up.",
+            "ru": "Начать → take up."
+          },
+          "id": "b2-u19-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Kids should have less ___ time — no phones at dinner!",
+          "options": [
+            "screen",
+            "mental",
+            "check"
+          ],
+          "answer": "screen",
+          "explain": {
+            "ua": "Screen time.",
+            "ru": "Screen time."
+          },
+          "id": "b2-u19-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "give up",
+            "cut down on",
+            "take up",
+            "work out"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ smoking completely.",
+            "___ coffee — maybe one cup a day.",
+            "___ a new hobby like dancing.",
+            "___ at least twice a week."
+          ],
+          "answers": [
+            "give up",
+            "cut down on",
+            "take up",
+            "work out"
+          ],
+          "explain": {
+            "ua": "Звички.",
+            "ru": "Привычки."
+          },
+          "id": "b2-u19-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I want to cut down sugar.",
+          "answer": "I want to cut down on sugar.",
+          "accept": [
+            "I want to reduce sugar."
+          ],
+          "explain": {
+            "ua": "Cut down ON.",
+            "ru": "Cut down ON."
+          },
+          "id": "b2-u19-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I've taken up yoga.",
+          "options": [
+            "I've taken up yoga.",
+            "I've given up yoga.",
+            "I've taken yoga up."
+          ],
+          "answer": "I've taken up yoga.",
+          "audio": "",
+          "explain": {
+            "ua": "Taken up.",
+            "ru": "Taken up."
+          },
+          "id": "b2-u19-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я намагаюся менше пити кави.",
+            "ru": "Я стараюсь меньше пить кофе."
+          },
+          "answer": "I'm trying to cut down on coffee.",
+          "accept": [
+            "I'm trying to drink less coffee.",
+            "I am trying to cut down on coffee."
+          ],
+          "explain": {
+            "ua": "Cut down on.",
+            "ru": "Cut down on."
+          },
+          "id": "b2-u19-l03-e09"
+        }
+      ],
+      "words": [
+        "cut down on",
+        "give up",
+        "take up"
+      ]
+    },
+    {
+      "id": "b2-u19-l04",
+      "title": {
+        "en": "In context: avoiding burnout",
+        "ua": "У контексті: як не вигоріти",
+        "ru": "В контексте: как не выгореть"
+      },
+      "recap": {
+        "from": "b2-u19-l03",
+        "note": {
+          "ua": "Згадаймо: Змінюємо звички",
+          "ru": "Вспомним: Меняем привычки"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm trying to ___ sugar. I only have one sweet a day.",
+            "options": [
+              "cut down on",
+              "give up",
+              "take up"
+            ],
+            "answer": "cut down on",
+            "explain": {
+              "ua": "Зменшити → cut down on.",
+              "ru": "Сократить → cut down on."
+            },
+            "id": "b2-u19-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Kids should have less ___ time — no phones at dinner!",
+            "options": [
+              "screen",
+              "mental",
+              "check"
+            ],
+            "answer": "screen",
+            "explain": {
+              "ua": "Screen time.",
+              "ru": "Screen time."
+            },
+            "id": "b2-u19-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What happened to Daria two years ago?",
+              "options": [
+                "she suffered from burnout",
+                "she broke her leg",
+                "she lost her job"
+              ],
+              "answer": "she suffered from burnout"
+            },
+            {
+              "type": "truefalse",
+              "statement": "She has given up coffee completely.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "She has taken up running.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What does she do before bed?",
+              "options": [
+                "meditates",
+                "checks emails",
+                "watches TV"
+              ],
+              "answer": "meditates"
+            }
+          ],
+          "text": "Two years ago I suffered from burnout. I was working 12 hours a day and never got enough sleep. Since then I've changed my lifestyle. I've cut down on coffee — just one cup in the morning. I've taken up running, and I work out three times a week. I don't check emails after 7 pm, and there's no screen time after 9. Before bed, I meditate for ten minutes. Now my work-life balance is much better.",
+          "explain": {
+            "ua": "Burnout 2 years ago; cut down on coffee; took up running; no screens after 9; meditates.",
+            "ru": "Burnout 2 years ago; cut down on coffee; took up running; no screens after 9; meditates."
+          },
+          "id": "b2-u19-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "burnout",
+            "cut down on",
+            "taken up",
+            "screen time",
+            "meditate"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Daria suffered from ___.",
+            "She has ___ coffee.",
+            "She has ___ running.",
+            "There's no ___ after 9.",
+            "Before bed she ___s."
+          ],
+          "answers": [
+            "burnout",
+            "cut down on",
+            "taken up",
+            "screen time",
+            "meditate"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u19-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Since then",
+              "right": {
+                "ua": "Відтоді",
+                "ru": "С тех пор"
+              }
+            },
+            {
+              "left": "never got enough sleep",
+              "right": {
+                "ua": "ніколи не висипалася",
+                "ru": "никогда не высыпалась"
+              }
+            },
+            {
+              "left": "much better",
+              "right": {
+                "ua": "набагато краще",
+                "ru": "намного лучше"
+              }
+            },
+            {
+              "left": "change my lifestyle",
+              "right": {
+                "ua": "змінити спосіб життя",
+                "ru": "изменить образ жизни"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з тексту.",
+            "ru": "Фразы из текста."
+          },
+          "id": "b2-u19-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "Since then I ___ my lifestyle.",
+          "options": [
+            "'ve changed",
+            "changed",
+            "change"
+          ],
+          "answer": "'ve changed",
+          "explain": {
+            "ua": "Since then → PP.",
+            "ru": "Since then → PP."
+          },
+          "id": "b2-u19-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "Since two years I changed my lifestyle.",
+          "answer": "Two years ago I changed my lifestyle.",
+          "accept": [
+            "I've changed my lifestyle over the last two years."
+          ],
+          "explain": {
+            "ua": "Ago → Past Simple.",
+            "ru": "Ago → Past Simple."
+          },
+          "id": "b2-u19-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I don't check emails after 7 pm and no screen after 9.",
+          "answer": "I don't check emails after 7 pm, and there's no screen time after 9.",
+          "accept": [
+            "I don't check emails after 7 pm and I have no screen time after 9."
+          ],
+          "explain": {
+            "ua": "Потрібне there's.",
+            "ru": "Нужно there's."
+          },
+          "id": "b2-u19-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "My work-life balance is much better.",
+          "options": [
+            "My work-life balance is much better.",
+            "My work-life balance is more better.",
+            "My walk-life balance is much better."
+          ],
+          "answer": "My work-life balance is much better.",
+          "audio": "",
+          "explain": {
+            "ua": "Much better.",
+            "ru": "Much better."
+          },
+          "id": "b2-u19-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Відтоді я змінила спосіб життя.",
+            "ru": "С тех пор я изменила образ жизни."
+          },
+          "answer": "Since then I've changed my lifestyle.",
+          "accept": [
+            "Since then I have changed my lifestyle.",
+            "I've changed my lifestyle since then."
+          ],
+          "explain": {
+            "ua": "Since → PP.",
+            "ru": "Since → PP."
+          },
+          "id": "b2-u19-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b2-u19-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u19-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: як не вигоріти",
+          "ru": "Вспомним: В контексте: как не выгореть"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ps",
+            "question": "Since then I ___ my lifestyle.",
+            "options": [
+              "'ve changed",
+              "changed",
+              "change"
+            ],
+            "answer": "'ve changed",
+            "explain": {
+              "ua": "Since then → PP.",
+              "ru": "Since then → PP."
+            },
+            "id": "b2-u19-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "I don't check emails after 7 pm and no screen after 9.",
+            "answer": "I don't check emails after 7 pm, and there's no screen time after 9.",
+            "accept": [
+              "I don't check emails after 7 pm and I have no screen time after 9."
+            ],
+            "explain": {
+              "ua": "Потрібне there's.",
+              "ru": "Нужно there's."
+            },
+            "id": "b2-u19-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "recover",
+              "right": {
+                "ua": "одужувати",
+                "ru": "выздоравливать"
+              }
+            },
+            {
+              "left": "prevent",
+              "right": {
+                "ua": "запобігати",
+                "ru": "предотвращать"
+              }
+            },
+            {
+              "left": "check-up",
+              "right": {
+                "ua": "медогляд",
+                "ru": "медосмотр"
+              }
+            },
+            {
+              "left": "well-being",
+              "right": {
+                "ua": "самопочуття",
+                "ru": "благополучие"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u19-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Give up ↔ ___",
+          "options": [
+            "take up",
+            "cut down",
+            "work out"
+          ],
+          "answer": "take up",
+          "explain": {
+            "ua": "Кинути ↔ почати.",
+            "ru": "Бросить ↔ начать."
+          },
+          "id": "b2-u19-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a problem?",
+          "options": [
+            "burnout",
+            "meditation",
+            "balanced diet"
+          ],
+          "answer": "burnout",
+          "explain": {
+            "ua": "Burnout — проблема.",
+            "ru": "Burnout — проблема."
+          },
+          "id": "b2-u19-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A visit to the doctor to see if you are healthy.",
+          "answer": "check-up",
+          "accept": [
+            "a check-up",
+            "medical check-up",
+            "checkup"
+          ],
+          "explain": {
+            "ua": "Check-up.",
+            "ru": "Check-up."
+          },
+          "id": "b2-u19-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "To get better after an illness.",
+          "answer": "recover",
+          "accept": [
+            "get better"
+          ],
+          "explain": {
+            "ua": "Recover.",
+            "ru": "Recover."
+          },
+          "id": "b2-u19-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "phone",
+          "answer": "screen time",
+          "accept": [
+            "screen"
+          ],
+          "explain": {
+            "ua": "Телефон → час біля екрана.",
+            "ru": "Телефон → время у экрана."
+          },
+          "id": "b2-u19-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs-irregular",
+          "sentence": "I'm recovering from the flu very good.",
+          "answer": "I'm recovering from the flu very well.",
+          "accept": [
+            "I'm recovering well from the flu."
+          ],
+          "explain": {
+            "ua": "Як? → well.",
+            "ru": "Как? → well."
+          },
+          "id": "b2-u19-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She's recovering well after the operation.",
+          "options": [
+            "She's recovering well after the operation.",
+            "She's recovering good after the operation.",
+            "She's recovered well after the operation."
+          ],
+          "answer": "She's recovering well after the operation.",
+          "audio": "",
+          "explain": {
+            "ua": "Recovering well.",
+            "ru": "Recovering well."
+          },
+          "id": "b2-u19-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені потрібен кращий баланс роботи й життя.",
+            "ru": "Мне нужен лучший баланс работы и жизни."
+          },
+          "answer": "I need a better work-life balance.",
+          "accept": [
+            "I need better work-life balance."
+          ],
+          "explain": {
+            "ua": "Work-life balance.",
+            "ru": "Work-life balance."
+          },
+          "id": "b2-u19-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Eat a ___ diet.",
+      "options": [
+        "balanced",
+        "stressful",
+        "mental"
+      ],
+      "answer": "balanced",
+      "explain": {
+        "ua": "Balanced.",
+        "ru": "Balanced."
+      },
+      "id": "b2-u19-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "He ___ smoking last year.",
+      "options": [
+        "gave up",
+        "took up",
+        "cut down"
+      ],
+      "answer": "gave up",
+      "explain": {
+        "ua": "Gave up.",
+        "ru": "Gave up."
+      },
+      "id": "b2-u19-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I've ___ yoga. I love it!",
+      "options": [
+        "taken up",
+        "given up",
+        "cut down on"
+      ],
+      "answer": "taken up",
+      "explain": {
+        "ua": "Taken up.",
+        "ru": "Taken up."
+      },
+      "id": "b2-u19-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Extreme tiredness from working too much.",
+      "answer": "burnout",
+      "accept": [],
+      "explain": {
+        "ua": "Burnout.",
+        "ru": "Burnout."
+      },
+      "id": "b2-u19-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "To reduce how much you eat, drink or use of something.",
+      "answer": "cut down on",
+      "accept": [
+        "cut down",
+        "reduce"
+      ],
+      "explain": {
+        "ua": "Cut down on.",
+        "ru": "Cut down on."
+      },
+      "id": "b2-u19-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I ___ out at the gym.",
+      "answer": "work",
+      "accept": [],
+      "explain": {
+        "ua": "Work out.",
+        "ru": "Work out."
+      },
+      "id": "b2-u19-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "stress",
+          "right": {
+            "ua": "стрес",
+            "ru": "стресс"
+          }
+        },
+        {
+          "left": "lifestyle",
+          "right": {
+            "ua": "спосіб життя",
+            "ru": "образ жизни"
+          }
+        },
+        {
+          "left": "meditation",
+          "right": {
+            "ua": "медитація",
+            "ru": "медитация"
+          }
+        },
+        {
+          "left": "mental health",
+          "right": {
+            "ua": "психічне здоров'я",
+            "ru": "психическое здоровье"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-u19-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "My job is very stress.",
+      "answer": "My job is very stressful.",
+      "accept": [],
+      "explain": {
+        "ua": "Stressful.",
+        "ru": "Stressful."
+      },
+      "id": "b2-u19-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I want to cut down sweets.",
+      "answer": "I want to cut down on sweets.",
+      "accept": [],
+      "explain": {
+        "ua": "Cut down on.",
+        "ru": "Cut down on."
+      },
+      "id": "b2-u19-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "sleep",
+        "to",
+        "Try",
+        "enough",
+        "get"
+      ],
+      "answer": "Try to get enough sleep",
+      "explain": {
+        "ua": "Try to → get enough sleep.",
+        "ru": "Try to → get enough sleep."
+      },
+      "id": "b2-u19-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Мені треба менше часу проводити біля екранів.",
+        "ru": "Мне нужно меньше времени проводить у экранов."
+      },
+      "answer": "I need to reduce my screen time.",
+      "accept": [
+        "I need to cut down on screen time.",
+        "I need less screen time.",
+        "I need to cut down on my screen time."
+      ],
+      "explain": {
+        "ua": "Screen time.",
+        "ru": "Screen time."
+      },
+      "id": "b2-u19-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Take care of your well-being.",
+      "options": [
+        "Take care of your well-being.",
+        "Take care of your wedding.",
+        "Take care for your well-being."
+      ],
+      "answer": "Take care of your well-being.",
+      "audio": "",
+      "explain": {
+        "ua": "Well-being.",
+        "ru": "Well-being."
+      },
+      "id": "b2-u19-cp12"
+    }
+  ]
+}

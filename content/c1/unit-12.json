@@ -1,0 +1,1621 @@
+{
+  "id": "c1-u12",
+  "level": "C1",
+  "order": 12,
+  "kind": "vocab",
+  "title": {
+    "en": "Business and negotiations",
+    "ua": "Бізнес і переговори",
+    "ru": "Бизнес и переговоры"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "ua": "порядок денний",
+      "ru": "повестка дня",
+      "example": "the first item on the agenda",
+      "audio": ""
+    },
+    {
+      "word": "minutes",
+      "ipa": "/ˈmɪnɪts/",
+      "ua": "протокол (зустрічі)",
+      "ru": "протокол (встречи)",
+      "example": "Who's taking the minutes?",
+      "audio": ""
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkhəʊldə/",
+      "ua": "зацікавлена сторона",
+      "ru": "заинтересованная сторона",
+      "example": "all key stakeholders",
+      "audio": ""
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "ua": "кінцевий термін",
+      "ru": "крайний срок",
+      "example": "meet a deadline",
+      "audio": ""
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ˌræp ˈʌp/",
+      "ua": "завершити",
+      "ru": "завершить",
+      "example": "Let's wrap up the meeting.",
+      "audio": ""
+    },
+    {
+      "word": "follow up",
+      "ipa": "/ˌfɒləʊ ˈʌp/",
+      "ua": "надіслати продовження, нагадати",
+      "ru": "проконтролировать, написать после",
+      "example": "I'll follow up by email.",
+      "audio": ""
+    },
+    {
+      "word": "brainstorm",
+      "ipa": "/ˈbreɪnstɔːm/",
+      "ua": "мозковий штурм",
+      "ru": "мозговой штурм",
+      "example": "Let's brainstorm ideas.",
+      "audio": ""
+    },
+    {
+      "word": "pitch",
+      "ipa": "/pɪtʃ/",
+      "ua": "презентація ідеї (інвесторам)",
+      "ru": "презентация идеи (инвесторам)",
+      "example": "a sales pitch",
+      "audio": ""
+    },
+    {
+      "word": "revenue",
+      "ipa": "/ˈrevənjuː/",
+      "ua": "виручка, дохід",
+      "ru": "выручка, доход",
+      "example": "annual revenue",
+      "audio": ""
+    },
+    {
+      "word": "profit margin",
+      "ipa": "/ˈprɒfɪt ˌmɑːdʒɪn/",
+      "ua": "маржа прибутку",
+      "ru": "маржа прибыли",
+      "example": "a high profit margin",
+      "audio": ""
+    },
+    {
+      "word": "quarterly",
+      "ipa": "/ˈkwɔːtəli/",
+      "ua": "квартальний",
+      "ru": "квартальный",
+      "example": "quarterly results",
+      "audio": ""
+    },
+    {
+      "word": "outsource",
+      "ipa": "/ˈaʊtsɔːs/",
+      "ua": "передати на аутсорс",
+      "ru": "отдать на аутсорс",
+      "example": "We outsource our IT.",
+      "audio": ""
+    },
+    {
+      "word": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "ua": "вести переговори",
+      "ru": "вести переговоры",
+      "example": "negotiate a contract",
+      "audio": ""
+    },
+    {
+      "word": "terms",
+      "ipa": "/tɜːmz/",
+      "ua": "умови (договору)",
+      "ru": "условия (договора)",
+      "example": "the terms of the deal",
+      "audio": ""
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "ua": "компроміс",
+      "ru": "компромисс",
+      "example": "reach a compromise",
+      "audio": ""
+    },
+    {
+      "word": "counter-offer",
+      "ipa": "/ˈkaʊntər ˌɒfə/",
+      "ua": "зустрічна пропозиція",
+      "ru": "встречное предложение",
+      "example": "make a counter-offer",
+      "audio": ""
+    },
+    {
+      "word": "bottom line",
+      "ipa": "/ˌbɒtəm ˈlaɪn/",
+      "ua": "головне; підсумковий прибуток",
+      "ru": "главное; итоговая прибыль",
+      "example": "The bottom line is we need more money.",
+      "audio": ""
+    },
+    {
+      "word": "win-win",
+      "ipa": "/ˌwɪn ˈwɪn/",
+      "ua": "вигідний обом",
+      "ru": "выгодный обоим",
+      "example": "a win-win situation",
+      "audio": ""
+    },
+    {
+      "word": "close a deal",
+      "ipa": "/ˌkləʊz ə ˈdiːl/",
+      "ua": "укласти угоду",
+      "ru": "заключить сделку",
+      "example": "We closed the deal yesterday.",
+      "audio": ""
+    },
+    {
+      "word": "non-negotiable",
+      "ipa": "/ˌnɒn nɪˈɡəʊʃiəbl/",
+      "ua": "не обговорюється",
+      "ru": "не обсуждается",
+      "example": "The price is non-negotiable.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u12-l01",
+      "title": {
+        "en": "Meetings",
+        "ua": "Зустрічі",
+        "ru": "Встречи"
+      },
+      "recap": {
+        "from": "c1-u11-l03",
+        "note": {
+          "ua": "Згадаймо: Розмовний еліпсис: (Do you) want a coffee? · (Have you) seen the news? · (It) sounds good · (I'm) not sure · (Is there) anything else?",
+          "ru": "Вспомним: Разговорный эллипсис: (Do you) want a coffee? · (Have you) seen the news? · (It) sounds good · (I'm) not sure · (Is there) anything else?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ellipsis-spoken",
+            "question": {
+              "ua": "Повна форма: «Want a coffee?»",
+              "ru": "Полная форма: «Want a coffee?»"
+            },
+            "options": [
+              "Do you want a coffee?",
+              "Are you want a coffee?",
+              "You wanting a coffee?"
+            ],
+            "answer": "Do you want a coffee?",
+            "explain": {
+              "ua": "Пропущено Do you.",
+              "ru": "Пропущено Do you."
+            },
+            "id": "c1-u12-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ellipsis-spoken",
+            "question": "— Are you ready? — Not ___ .",
+            "options": [
+              "yet",
+              "still",
+              "already"
+            ],
+            "answer": "yet",
+            "explain": {
+              "ua": "Not yet.",
+              "ru": "Not yet."
+            },
+            "id": "c1-u12-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "agenda",
+              "right": {
+                "ua": "порядок денний",
+                "ru": "повестка дня"
+              }
+            },
+            {
+              "left": "minutes",
+              "right": {
+                "ua": "протокол",
+                "ru": "протокол"
+              }
+            },
+            {
+              "left": "deadline",
+              "right": {
+                "ua": "дедлайн",
+                "ru": "дедлайн"
+              }
+            },
+            {
+              "left": "wrap up",
+              "right": {
+                "ua": "завершити",
+                "ru": "завершить"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u12-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The first item on the ___ is the budget.",
+          "options": [
+            "agenda",
+            "minutes",
+            "revenue"
+          ],
+          "answer": "agenda",
+          "explain": {
+            "ua": "Agenda.",
+            "ru": "Agenda."
+          },
+          "id": "c1-u12-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Can someone take the ___ ? We need a record of the meeting.",
+          "options": [
+            "minutes",
+            "agenda",
+            "terms"
+          ],
+          "answer": "minutes",
+          "explain": {
+            "ua": "Minutes.",
+            "ru": "Minutes."
+          },
+          "id": "c1-u12-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We're running out of time. Let's ___ .",
+          "options": [
+            "wrap up",
+            "follow up",
+            "brainstorm"
+          ],
+          "answer": "wrap up",
+          "explain": {
+            "ua": "Wrap up.",
+            "ru": "Wrap up."
+          },
+          "id": "c1-u12-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'll ___ with an email after the meeting.",
+          "options": [
+            "follow up",
+            "wrap up",
+            "outsource"
+          ],
+          "answer": "follow up",
+          "explain": {
+            "ua": "Follow up.",
+            "ru": "Follow up."
+          },
+          "id": "c1-u12-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We must inform all ___ — clients, staff and investors.",
+          "options": [
+            "stakeholders",
+            "deadlines",
+            "pitches"
+          ],
+          "answer": "stakeholders",
+          "explain": {
+            "ua": "Stakeholders.",
+            "ru": "Stakeholders."
+          },
+          "id": "c1-u12-l01-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Let's ___ some ideas for the new campaign.",
+          "options": [
+            "brainstorm",
+            "negotiate",
+            "wrap up"
+          ],
+          "answer": "brainstorm",
+          "explain": {
+            "ua": "Brainstorm.",
+            "ru": "Brainstorm."
+          },
+          "id": "c1-u12-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We need to keep the deadline.",
+          "answer": "We need to meet the deadline.",
+          "accept": [
+            "We need to hit the deadline."
+          ],
+          "explain": {
+            "ua": "Meet a deadline.",
+            "ru": "Meet a deadline."
+          },
+          "id": "c1-u12-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/əˈdʒendə/",
+          "options": [
+            "agenda",
+            "agent",
+            "legend"
+          ],
+          "answer": "agenda",
+          "explain": {
+            "ua": "Наголос на другому складі.",
+            "ru": "Ударение на втором слоге."
+          },
+          "id": "c1-u12-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Давайте завершувати.",
+            "ru": "Давайте закругляться."
+          },
+          "answer": "Let's wrap up.",
+          "accept": [
+            "Let's wrap it up.",
+            "Let's wrap things up.",
+            "Let's finish."
+          ],
+          "explain": {
+            "ua": "Wrap up.",
+            "ru": "Wrap up."
+          },
+          "id": "c1-u12-l01-e10"
+        }
+      ],
+      "words": [
+        "agenda",
+        "minutes",
+        "stakeholder",
+        "deadline",
+        "wrap up",
+        "follow up",
+        "brainstorm"
+      ]
+    },
+    {
+      "id": "c1-u12-l02",
+      "title": {
+        "en": "Presentations and numbers",
+        "ua": "Презентації й цифри",
+        "ru": "Презентации и цифры"
+      },
+      "recap": {
+        "from": "c1-u12-l01",
+        "note": {
+          "ua": "Згадаймо: Зустрічі",
+          "ru": "Вспомним: Встречи"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The first item on the ___ is the budget.",
+            "options": [
+              "agenda",
+              "minutes",
+              "revenue"
+            ],
+            "answer": "agenda",
+            "explain": {
+              "ua": "Agenda.",
+              "ru": "Agenda."
+            },
+            "id": "c1-u12-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We must inform all ___ — clients, staff and investors.",
+            "options": [
+              "stakeholders",
+              "deadlines",
+              "pitches"
+            ],
+            "answer": "stakeholders",
+            "explain": {
+              "ua": "Stakeholders.",
+              "ru": "Stakeholders."
+            },
+            "id": "c1-u12-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "pitch",
+              "right": {
+                "ua": "презентація ідеї",
+                "ru": "презентация идеи"
+              }
+            },
+            {
+              "left": "revenue",
+              "right": {
+                "ua": "виручка",
+                "ru": "выручка"
+              }
+            },
+            {
+              "left": "profit margin",
+              "right": {
+                "ua": "маржа",
+                "ru": "маржа"
+              }
+            },
+            {
+              "left": "quarterly",
+              "right": {
+                "ua": "квартальний",
+                "ru": "квартальный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u12-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Our ___ grew by 20% this year — we sold much more.",
+          "options": [
+            "revenue",
+            "agenda",
+            "deadline"
+          ],
+          "answer": "revenue",
+          "explain": {
+            "ua": "Revenue.",
+            "ru": "Revenue."
+          },
+          "id": "c1-u12-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She gave a great ___ to investors and got the money.",
+          "options": [
+            "pitch",
+            "minutes",
+            "terms"
+          ],
+          "answer": "pitch",
+          "explain": {
+            "ua": "Pitch.",
+            "ru": "Pitch."
+          },
+          "id": "c1-u12-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ results will be published in April.",
+          "options": [
+            "quarterly",
+            "win-win",
+            "non-negotiable"
+          ],
+          "answer": "quarterly",
+          "explain": {
+            "ua": "Quarterly.",
+            "ru": "Quarterly."
+          },
+          "id": "c1-u12-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Luxury goods often have a high profit ___ .",
+          "options": [
+            "margin",
+            "line",
+            "deal"
+          ],
+          "answer": "margin",
+          "explain": {
+            "ua": "Profit margin.",
+            "ru": "Profit margin."
+          },
+          "id": "c1-u12-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Many companies ___ their customer support to other countries.",
+          "options": [
+            "outsource",
+            "negotiate",
+            "brainstorm"
+          ],
+          "answer": "outsource",
+          "explain": {
+            "ua": "Outsource.",
+            "ru": "Outsource."
+          },
+          "id": "c1-u12-l02-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ line is: we're losing money.",
+          "options": [
+            "bottom",
+            "dead",
+            "profit"
+          ],
+          "answer": "bottom",
+          "explain": {
+            "ua": "The bottom line.",
+            "ru": "The bottom line."
+          },
+          "id": "c1-u12-l02-e07"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "revenue",
+            "pitch",
+            "quarterly",
+            "outsource"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Total ___ was 2 million euros.",
+            "Our ___ convinced the investors.",
+            "Here are the ___ figures.",
+            "We ___ design to a small studio."
+          ],
+          "answers": [
+            "revenue",
+            "pitch",
+            "quarterly",
+            "outsource"
+          ],
+          "explain": {
+            "ua": "Бізнес.",
+            "ru": "Бизнес."
+          },
+          "id": "c1-u12-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Our revenue has doubled.",
+          "options": [
+            "Our revenue has doubled.",
+            "Our revenue has dropped.",
+            "Our review has doubled."
+          ],
+          "answer": "Our revenue has doubled.",
+          "audio": "",
+          "explain": {
+            "ua": "Revenue.",
+            "ru": "Revenue."
+          },
+          "id": "c1-u12-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Головне — нам потрібні клієнти.",
+            "ru": "Главное — нам нужны клиенты."
+          },
+          "answer": "The bottom line is we need clients.",
+          "accept": [
+            "The bottom line is that we need clients.",
+            "The bottom line is, we need clients.",
+            "The bottom line is we need customers."
+          ],
+          "explain": {
+            "ua": "Bottom line.",
+            "ru": "Bottom line."
+          },
+          "id": "c1-u12-l02-e10"
+        }
+      ],
+      "words": [
+        "pitch",
+        "revenue",
+        "profit margin",
+        "quarterly",
+        "outsource",
+        "bottom line"
+      ]
+    },
+    {
+      "id": "c1-u12-l03",
+      "title": {
+        "en": "Negotiating",
+        "ua": "Переговори",
+        "ru": "Переговоры"
+      },
+      "recap": {
+        "from": "c1-u12-l02",
+        "note": {
+          "ua": "Згадаймо: Презентації й цифри",
+          "ru": "Вспомним: Презентации и цифры"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Our ___ grew by 20% this year — we sold much more.",
+            "options": [
+              "revenue",
+              "agenda",
+              "deadline"
+            ],
+            "answer": "revenue",
+            "explain": {
+              "ua": "Revenue.",
+              "ru": "Revenue."
+            },
+            "id": "c1-u12-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Luxury goods often have a high profit ___ .",
+            "options": [
+              "margin",
+              "line",
+              "deal"
+            ],
+            "answer": "margin",
+            "explain": {
+              "ua": "Profit margin.",
+              "ru": "Profit margin."
+            },
+            "id": "c1-u12-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "negotiate",
+              "right": {
+                "ua": "вести переговори",
+                "ru": "вести переговоры"
+              }
+            },
+            {
+              "left": "compromise",
+              "right": {
+                "ua": "компроміс",
+                "ru": "компромисс"
+              }
+            },
+            {
+              "left": "counter-offer",
+              "right": {
+                "ua": "зустрічна пропозиція",
+                "ru": "встречное предложение"
+              }
+            },
+            {
+              "left": "terms",
+              "right": {
+                "ua": "умови",
+                "ru": "условия"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u12-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "After three hours we finally reached a ___ .",
+          "options": [
+            "compromise",
+            "deadline",
+            "pitch"
+          ],
+          "answer": "compromise",
+          "explain": {
+            "ua": "Reach a compromise.",
+            "ru": "Reach a compromise."
+          },
+          "id": "c1-u12-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "They offered 10,000, so we made a ___ of 12,000.",
+          "options": [
+            "counter-offer",
+            "minutes",
+            "margin"
+          ],
+          "answer": "counter-offer",
+          "explain": {
+            "ua": "Counter-offer.",
+            "ru": "Counter-offer."
+          },
+          "id": "c1-u12-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please read the ___ of the contract carefully.",
+          "options": [
+            "terms",
+            "agenda",
+            "stakeholders"
+          ],
+          "answer": "terms",
+          "explain": {
+            "ua": "Terms.",
+            "ru": "Terms."
+          },
+          "id": "c1-u12-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's a ___ situation — we both get what we want.",
+          "options": [
+            "win-win",
+            "non-negotiable",
+            "bottom-line"
+          ],
+          "answer": "win-win",
+          "explain": {
+            "ua": "Win-win.",
+            "ru": "Win-win."
+          },
+          "id": "c1-u12-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The delivery date is ___ . We can't change it.",
+          "options": [
+            "non-negotiable",
+            "quarterly",
+            "win-win"
+          ],
+          "answer": "non-negotiable",
+          "explain": {
+            "ua": "Non-negotiable.",
+            "ru": "Non-negotiable."
+          },
+          "id": "c1-u12-l03-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We ___ the deal last Friday!",
+          "options": [
+            "closed",
+            "shut",
+            "made up"
+          ],
+          "answer": "closed",
+          "explain": {
+            "ua": "Close a deal.",
+            "ru": "Close a deal."
+          },
+          "id": "c1-u12-l03-e07"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "An agreement where each side gives up something.",
+          "answer": "compromise",
+          "accept": [
+            "a compromise"
+          ],
+          "explain": {
+            "ua": "Compromise.",
+            "ru": "Compromise."
+          },
+          "id": "c1-u12-l03-e08"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We did a compromise.",
+          "answer": "We reached a compromise.",
+          "accept": [
+            "We made a compromise.",
+            "We came to a compromise."
+          ],
+          "explain": {
+            "ua": "Reach a compromise.",
+            "ru": "Reach a compromise."
+          },
+          "id": "c1-u12-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ціна не обговорюється.",
+            "ru": "Цена не обсуждается."
+          },
+          "answer": "The price is non-negotiable.",
+          "accept": [
+            "The price is not negotiable.",
+            "The price isn't negotiable."
+          ],
+          "explain": {
+            "ua": "Non-negotiable.",
+            "ru": "Non-negotiable."
+          },
+          "id": "c1-u12-l03-e10"
+        }
+      ],
+      "words": [
+        "negotiate",
+        "terms",
+        "compromise",
+        "counter-offer",
+        "win-win",
+        "close a deal",
+        "non-negotiable"
+      ]
+    },
+    {
+      "id": "c1-u12-l04",
+      "title": {
+        "en": "In context: a negotiation",
+        "ua": "У контексті: переговори",
+        "ru": "В контексте: переговоры"
+      },
+      "recap": {
+        "from": "c1-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Переговори",
+          "ru": "Вспомним: Переговоры"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "After three hours we finally reached a ___ .",
+            "options": [
+              "compromise",
+              "deadline",
+              "pitch"
+            ],
+            "answer": "compromise",
+            "explain": {
+              "ua": "Reach a compromise.",
+              "ru": "Reach a compromise."
+            },
+            "id": "c1-u12-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The delivery date is ___ . We can't change it.",
+            "options": [
+              "non-negotiable",
+              "quarterly",
+              "win-win"
+            ],
+            "answer": "non-negotiable",
+            "explain": {
+              "ua": "Non-negotiable.",
+              "ru": "Non-negotiable."
+            },
+            "id": "c1-u12-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What price did the supplier first offer?",
+              "options": [
+                "50 euros per unit",
+                "45 euros per unit",
+                "40 euros per unit"
+              ],
+              "answer": "50 euros per unit"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The quality is non-negotiable for Anna.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "They didn't reach an agreement.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What will Anna do next?",
+              "options": [
+                "follow up with the contract",
+                "find another supplier",
+                "cancel the order"
+              ],
+              "answer": "follow up with the contract"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Supplier",
+              "line": "Our price is 50 euros per unit."
+            },
+            {
+              "speaker": "Anna",
+              "line": "That's above our budget. We'd like to make a counter-offer: 40 euros."
+            },
+            {
+              "speaker": "Supplier",
+              "line": "40 is too low, I'm afraid. Our profit margin would be almost zero."
+            },
+            {
+              "speaker": "Anna",
+              "line": "I see. What if we signed a two-year contract instead of one?"
+            },
+            {
+              "speaker": "Supplier",
+              "line": "In that case, we could go down to 45."
+            },
+            {
+              "speaker": "Anna",
+              "line": "45 works for us, but quality is non-negotiable."
+            },
+            {
+              "speaker": "Supplier",
+              "line": "Of course. Sounds like a win-win."
+            },
+            {
+              "speaker": "Anna",
+              "line": "Great. I'll follow up with the contract by Friday."
+            }
+          ],
+          "explain": {
+            "ua": "Supplier 50; Anna counter-offer 40; compromise 45 for 2-year contract; win-win; follow up.",
+            "ru": "Supplier 50; Anna counter-offer 40; compromise 45 for 2-year contract; win-win; follow up."
+          },
+          "id": "c1-u12-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "counter-offer",
+            "profit margin",
+            "non-negotiable",
+            "win-win",
+            "follow up"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Anna made a ___ of 40 euros.",
+            "At 40, their ___ would be zero.",
+            "Quality is ___.",
+            "The supplier called it a ___.",
+            "Anna will ___ with the contract."
+          ],
+          "answers": [
+            "counter-offer",
+            "profit margin",
+            "non-negotiable",
+            "win-win",
+            "follow up"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "c1-u12-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "above our budget",
+              "right": {
+                "ua": "понад наш бюджет",
+                "ru": "выше нашего бюджета"
+              }
+            },
+            {
+              "left": "What if we…?",
+              "right": {
+                "ua": "А що, якби ми…?",
+                "ru": "А что, если бы мы…?"
+              }
+            },
+            {
+              "left": "go down to",
+              "right": {
+                "ua": "знизити до",
+                "ru": "снизить до"
+              }
+            },
+            {
+              "left": "works for us",
+              "right": {
+                "ua": "нам підходить",
+                "ru": "нам подходит"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з діалогу.",
+            "ru": "Фразы из диалога."
+          },
+          "id": "c1-u12-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "second-conditional",
+          "question": "'What if we signed…' uses…",
+          "options": [
+            "second conditional",
+            "first conditional",
+            "Past Perfect"
+          ],
+          "answer": "second conditional",
+          "explain": {
+            "ua": "What if + Past → пропозиція.",
+            "ru": "What if + Past → предложение."
+          },
+          "id": "c1-u12-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "That's over of our budget.",
+          "answer": "That's above our budget.",
+          "accept": [
+            "That's over our budget.",
+            "That's beyond our budget."
+          ],
+          "explain": {
+            "ua": "Above our budget.",
+            "ru": "Above our budget."
+          },
+          "id": "c1-u12-l04-e05"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "45 works for us.",
+          "options": [
+            "45 works for us.",
+            "45 walks for us.",
+            "54 works for us."
+          ],
+          "answer": "45 works for us.",
+          "audio": "",
+          "explain": {
+            "ua": "Works for us.",
+            "ru": "Works for us."
+          },
+          "id": "c1-u12-l04-e06"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Що, якби ми підписали контракт на два роки?",
+            "ru": "Что, если бы мы подписали контракт на два года?"
+          },
+          "answer": "What if we signed a two-year contract?",
+          "accept": [
+            "What if we signed a contract for two years?",
+            "How about signing a two-year contract?"
+          ],
+          "explain": {
+            "ua": "What if + Past.",
+            "ru": "What if + Past."
+          },
+          "id": "c1-u12-l04-e07"
+        }
+      ]
+    },
+    {
+      "id": "c1-u12-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u12-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: переговори",
+          "ru": "Вспомним: В контексте: переговоры"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "second-conditional",
+            "question": "'What if we signed…' uses…",
+            "options": [
+              "second conditional",
+              "first conditional",
+              "Past Perfect"
+            ],
+            "answer": "second conditional",
+            "explain": {
+              "ua": "What if + Past → пропозиція.",
+              "ru": "What if + Past → предложение."
+            },
+            "id": "c1-u12-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "That's over of our budget.",
+            "answer": "That's above our budget.",
+            "accept": [
+              "That's over our budget.",
+              "That's beyond our budget."
+            ],
+            "explain": {
+              "ua": "Above our budget.",
+              "ru": "Above our budget."
+            },
+            "id": "c1-u12-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "stakeholder",
+              "right": {
+                "ua": "зацікавлена сторона",
+                "ru": "заинтересованная сторона"
+              }
+            },
+            {
+              "left": "brainstorm",
+              "right": {
+                "ua": "мозковий штурм",
+                "ru": "мозговой штурм"
+              }
+            },
+            {
+              "left": "outsource",
+              "right": {
+                "ua": "аутсорс",
+                "ru": "аутсорс"
+              }
+            },
+            {
+              "left": "close a deal",
+              "right": {
+                "ua": "укласти угоду",
+                "ru": "заключить сделку"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u12-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Revenue − costs = ___",
+          "options": [
+            "profit",
+            "agenda",
+            "deadline"
+          ],
+          "answer": "profit",
+          "explain": {
+            "ua": "Profit.",
+            "ru": "Profit."
+          },
+          "id": "c1-u12-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which phrase ends a meeting?",
+          "options": [
+            "Let's wrap up.",
+            "Let's brainstorm.",
+            "Let's outsource."
+          ],
+          "answer": "Let's wrap up.",
+          "explain": {
+            "ua": "Wrap up.",
+            "ru": "Wrap up."
+          },
+          "id": "c1-u12-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The list of topics for a meeting.",
+          "answer": "agenda",
+          "accept": [
+            "an agenda",
+            "the agenda"
+          ],
+          "explain": {
+            "ua": "Agenda.",
+            "ru": "Agenda."
+          },
+          "id": "c1-u12-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The last day you can finish something.",
+          "answer": "deadline",
+          "accept": [
+            "a deadline",
+            "the deadline"
+          ],
+          "explain": {
+            "ua": "Deadline.",
+            "ru": "Deadline."
+          },
+          "id": "c1-u12-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "contract",
+          "answer": "terms",
+          "accept": [
+            "deal",
+            "sign",
+            "negotiate"
+          ],
+          "explain": {
+            "ua": "Контракт → умови.",
+            "ru": "Контракт → условия."
+          },
+          "id": "c1-u12-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We made the deal close.",
+          "answer": "We closed the deal.",
+          "accept": [
+            "We closed a deal."
+          ],
+          "explain": {
+            "ua": "Close a deal.",
+            "ru": "Close a deal."
+          },
+          "id": "c1-u12-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Let's get back to the agenda.",
+          "options": [
+            "Let's get back to the agenda.",
+            "Let's get back to the legend.",
+            "Let's get back on the agenda."
+          ],
+          "answer": "Let's get back to the agenda.",
+          "audio": "",
+          "explain": {
+            "ua": "Agenda.",
+            "ru": "Agenda."
+          },
+          "id": "c1-u12-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я напишу вам після зустрічі.",
+            "ru": "Я напишу вам после встречи."
+          },
+          "answer": "I'll follow up after the meeting.",
+          "accept": [
+            "I will follow up after the meeting.",
+            "I'll email you after the meeting.",
+            "I'll write to you after the meeting."
+          ],
+          "explain": {
+            "ua": "Follow up.",
+            "ru": "Follow up."
+          },
+          "id": "c1-u12-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Who is taking the ___ ?",
+      "options": [
+        "minutes",
+        "agenda",
+        "terms"
+      ],
+      "answer": "minutes",
+      "explain": {
+        "ua": "Minutes.",
+        "ru": "Minutes."
+      },
+      "id": "c1-u12-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We reached a ___ .",
+      "options": [
+        "compromise",
+        "deadline",
+        "pitch"
+      ],
+      "answer": "compromise",
+      "explain": {
+        "ua": "Compromise.",
+        "ru": "Compromise."
+      },
+      "id": "c1-u12-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We must ___ the deadline.",
+      "options": [
+        "meet",
+        "keep",
+        "do"
+      ],
+      "answer": "meet",
+      "explain": {
+        "ua": "Meet a deadline.",
+        "ru": "Meet a deadline."
+      },
+      "id": "c1-u12-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Money a company gets from sales.",
+      "answer": "revenue",
+      "accept": [
+        "income",
+        "sales"
+      ],
+      "explain": {
+        "ua": "Revenue.",
+        "ru": "Revenue."
+      },
+      "id": "c1-u12-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A situation that is good for both sides.",
+      "answer": "win-win",
+      "accept": [
+        "a win-win",
+        "a win-win situation"
+      ],
+      "explain": {
+        "ua": "Win-win.",
+        "ru": "Win-win."
+      },
+      "id": "c1-u12-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Let's ___ up — it's 6 o'clock.",
+      "answer": "wrap",
+      "accept": [],
+      "explain": {
+        "ua": "Wrap up.",
+        "ru": "Wrap up."
+      },
+      "id": "c1-u12-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "agenda",
+          "right": {
+            "ua": "порядок денний",
+            "ru": "повестка дня"
+          }
+        },
+        {
+          "left": "pitch",
+          "right": {
+            "ua": "презентація ідеї",
+            "ru": "презентация идеи"
+          }
+        },
+        {
+          "left": "terms",
+          "right": {
+            "ua": "умови",
+            "ru": "условия"
+          }
+        },
+        {
+          "left": "counter-offer",
+          "right": {
+            "ua": "зустрічна пропозиція",
+            "ru": "встречное предложение"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "c1-u12-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We did a brainstorm of ideas.",
+      "answer": "We brainstormed ideas.",
+      "accept": [
+        "We had a brainstorm.",
+        "We brainstormed some ideas."
+      ],
+      "explain": {
+        "ua": "Brainstorm — дієслово.",
+        "ru": "Brainstorm — глагол."
+      },
+      "id": "c1-u12-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The price is not negotiate.",
+      "answer": "The price is non-negotiable.",
+      "accept": [
+        "The price is not negotiable."
+      ],
+      "explain": {
+        "ua": "Non-negotiable.",
+        "ru": "Non-negotiable."
+      },
+      "id": "c1-u12-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "the",
+        "week",
+        "last",
+        "closed",
+        "We",
+        "deal"
+      ],
+      "answer": "We closed the deal last week",
+      "explain": {
+        "ua": "Closed the deal.",
+        "ru": "Closed the deal."
+      },
+      "id": "c1-u12-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Ми передаємо IT на аутсорс.",
+        "ru": "Мы отдаём IT на аутсорс."
+      },
+      "answer": "We outsource our IT.",
+      "accept": [
+        "We outsource IT.",
+        "We outsource our IT services."
+      ],
+      "explain": {
+        "ua": "Outsource.",
+        "ru": "Outsource."
+      },
+      "id": "c1-u12-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Here are the quarterly results.",
+      "options": [
+        "Here are the quarterly results.",
+        "Here are the quarterly resorts.",
+        "Here is the quarterly result."
+      ],
+      "answer": "Here are the quarterly results.",
+      "audio": "",
+      "explain": {
+        "ua": "Quarterly results.",
+        "ru": "Quarterly results."
+      },
+      "id": "c1-u12-cp12"
+    }
+  ]
+}

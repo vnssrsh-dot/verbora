@@ -1,0 +1,1517 @@
+{
+  "id": "b1-u05",
+  "level": "B1",
+  "order": 5,
+  "kind": "vocab",
+  "title": {
+    "en": "Family and relationships",
+    "ua": "Сім'я і стосунки",
+    "ru": "Семья и отношения"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "relatives",
+      "ipa": "/ˈrelətɪvz/",
+      "ua": "родичі",
+      "ru": "родственники",
+      "example": "All my relatives came.",
+      "audio": ""
+    },
+    {
+      "word": "in-laws",
+      "ipa": "/ˈɪn lɔːz/",
+      "ua": "родичі чоловіка / дружини",
+      "ru": "родственники мужа / жены",
+      "example": "I get on well with my in-laws.",
+      "audio": ""
+    },
+    {
+      "word": "mother-in-law",
+      "ipa": "/ˈmʌðər ɪn lɔː/",
+      "ua": "свекруха / теща",
+      "ru": "свекровь / тёща",
+      "example": "My mother-in-law is kind.",
+      "audio": ""
+    },
+    {
+      "word": "father-in-law",
+      "ipa": "/ˈfɑːðər ɪn lɔː/",
+      "ua": "свекор / тесть",
+      "ru": "свёкор / тесть",
+      "example": "Her father-in-law is a doctor.",
+      "audio": ""
+    },
+    {
+      "word": "brother-in-law",
+      "ipa": "/ˈbrʌðər ɪn lɔː/",
+      "ua": "дівер, зять, шуряк",
+      "ru": "деверь, зять, шурин",
+      "example": "My brother-in-law lives in Lviv.",
+      "audio": ""
+    },
+    {
+      "word": "stepmother",
+      "ipa": "/ˈstepmʌðə/",
+      "ua": "мачуха",
+      "ru": "мачеха",
+      "example": "She has a stepmother.",
+      "audio": ""
+    },
+    {
+      "word": "stepfather",
+      "ipa": "/ˈstepfɑːðə/",
+      "ua": "вітчим",
+      "ru": "отчим",
+      "example": "My stepfather is great.",
+      "audio": ""
+    },
+    {
+      "word": "half-brother",
+      "ipa": "/ˈhɑːf brʌðə/",
+      "ua": "брат по одному з батьків",
+      "ru": "брат по одному из родителей",
+      "example": "I have a half-brother.",
+      "audio": ""
+    },
+    {
+      "word": "adopted",
+      "ipa": "/əˈdɒptɪd/",
+      "ua": "усиновлений",
+      "ru": "усыновлённый",
+      "example": "an adopted child",
+      "audio": ""
+    },
+    {
+      "word": "single",
+      "ipa": "/ˈsɪŋɡl/",
+      "ua": "неодружений, самотній",
+      "ru": "холост, не замужем",
+      "example": "I'm single.",
+      "audio": ""
+    },
+    {
+      "word": "engaged",
+      "ipa": "/ɪnˈɡeɪdʒd/",
+      "ua": "заручений",
+      "ru": "помолвлен",
+      "example": "They're engaged.",
+      "audio": ""
+    },
+    {
+      "word": "married",
+      "ipa": "/ˈmærid/",
+      "ua": "одружений, заміжня",
+      "ru": "женат, замужем",
+      "example": "They've been married for 20 years.",
+      "audio": ""
+    },
+    {
+      "word": "divorced",
+      "ipa": "/dɪˈvɔːst/",
+      "ua": "розлучений",
+      "ru": "разведён",
+      "example": "My parents are divorced.",
+      "audio": ""
+    },
+    {
+      "word": "separated",
+      "ipa": "/ˈsepəreɪtɪd/",
+      "ua": "живуть окремо (без розлучення)",
+      "ru": "живут раздельно (без развода)",
+      "example": "They're separated.",
+      "audio": ""
+    },
+    {
+      "word": "widow / widower",
+      "ipa": "/ˈwɪdəʊ/ /ˈwɪdəʊə/",
+      "ua": "вдова / вдівець",
+      "ru": "вдова / вдовец",
+      "example": "She's a widow.",
+      "audio": ""
+    },
+    {
+      "word": "bride / groom",
+      "ipa": "/braɪd/ /ɡruːm/",
+      "ua": "наречена / наречений",
+      "ru": "невеста / жених",
+      "example": "The bride and groom danced.",
+      "audio": ""
+    },
+    {
+      "word": "wedding",
+      "ipa": "/ˈwedɪŋ/",
+      "ua": "весілля",
+      "ru": "свадьба",
+      "example": "a big wedding",
+      "audio": ""
+    },
+    {
+      "word": "honeymoon",
+      "ipa": "/ˈhʌnimuːn/",
+      "ua": "медовий місяць",
+      "ru": "медовый месяц",
+      "example": "They went on honeymoon to Italy.",
+      "audio": ""
+    },
+    {
+      "word": "get on (well) with",
+      "ipa": "/ˌɡet ˈɒn wel wɪð/",
+      "ua": "ладнати з",
+      "ru": "ладить с",
+      "example": "I get on well with my sister.",
+      "audio": ""
+    },
+    {
+      "word": "bring up",
+      "ipa": "/ˌbrɪŋ ˈʌp/",
+      "ua": "виховувати",
+      "ru": "воспитывать",
+      "example": "My grandma brought me up.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u05-l01",
+      "title": {
+        "en": "Extended family",
+        "ua": "Розширена родина",
+        "ru": "Расширенная семья"
+      },
+      "recap": {
+        "from": "b1-u04-l04",
+        "note": {
+          "ua": "Згадаймо: be used to + -ing / іменник = звиклий · get used to = звикати",
+          "ru": "Вспомним: be used to + -ing / существительное = привык · get used to = привыкать"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "be-used-to",
+            "question": "I've lived here for years. I'm used to ___ by bus.",
+            "options": [
+              "travelling",
+              "travel",
+              "travelled"
+            ],
+            "answer": "travelling",
+            "explain": {
+              "ua": "Be used to + -ing.",
+              "ru": "Be used to + -ing."
+            },
+            "id": "b1-u05-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "be-used-to",
+            "question": "I'm not used to ___ so much.",
+            "options": [
+              "working",
+              "work",
+              "worked"
+            ],
+            "answer": "working",
+            "explain": {
+              "ua": "-ing.",
+              "ru": "-ing."
+            },
+            "id": "b1-u05-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "relatives",
+              "right": {
+                "ua": "родичі",
+                "ru": "родственники"
+              }
+            },
+            {
+              "left": "in-laws",
+              "right": {
+                "ua": "родичі по шлюбу",
+                "ru": "родственники по браку"
+              }
+            },
+            {
+              "left": "stepmother",
+              "right": {
+                "ua": "мачуха",
+                "ru": "мачеха"
+              }
+            },
+            {
+              "left": "adopted",
+              "right": {
+                "ua": "усиновлений",
+                "ru": "усыновлённый"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u05-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My husband's mother is my ___ .",
+          "options": [
+            "mother-in-law",
+            "stepmother",
+            "aunt"
+          ],
+          "answer": "mother-in-law",
+          "explain": {
+            "ua": "Мама чоловіка — mother-in-law.",
+            "ru": "Мама мужа — mother-in-law."
+          },
+          "id": "b1-u05-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My wife's brother is my ___ .",
+          "options": [
+            "brother-in-law",
+            "half-brother",
+            "cousin"
+          ],
+          "answer": "brother-in-law",
+          "explain": {
+            "ua": "Brother-in-law.",
+            "ru": "Brother-in-law."
+          },
+          "id": "b1-u05-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My dad's new wife is my ___ .",
+          "options": [
+            "stepmother",
+            "mother-in-law",
+            "grandmother"
+          ],
+          "answer": "stepmother",
+          "explain": {
+            "ua": "Stepmother — мачуха.",
+            "ru": "Stepmother — мачеха."
+          },
+          "id": "b1-u05-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We have the same mum but different dads. He's my ___ .",
+          "options": [
+            "half-brother",
+            "stepbrother",
+            "brother-in-law"
+          ],
+          "answer": "half-brother",
+          "explain": {
+            "ua": "Half-brother.",
+            "ru": "Half-brother."
+          },
+          "id": "b1-u05-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The parents of your husband or wife, and his or her family.",
+          "answer": "in-laws",
+          "accept": [
+            "the in-laws",
+            "relatives"
+          ],
+          "explain": {
+            "ua": "In-laws.",
+            "ru": "In-laws."
+          },
+          "id": "b1-u05-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My in-laws is coming.",
+          "answer": "My in-laws are coming.",
+          "accept": [],
+          "explain": {
+            "ua": "In-laws — множина.",
+            "ru": "In-laws — множественное."
+          },
+          "id": "b1-u05-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Her husband's mother is her stepmother.",
+          "answer": "Her husband's mother is her mother-in-law.",
+          "accept": [],
+          "explain": {
+            "ua": "Мама чоловіка — mother-in-law.",
+            "ru": "Мама мужа — mother-in-law."
+          },
+          "id": "b1-u05-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене хороші стосунки з тещею.",
+            "ru": "У меня хорошие отношения с тёщей."
+          },
+          "answer": "I get on well with my mother-in-law.",
+          "accept": [
+            "I have a good relationship with my mother-in-law."
+          ],
+          "explain": {
+            "ua": "Get on well with.",
+            "ru": "Get on well with."
+          },
+          "id": "b1-u05-l01-e09"
+        }
+      ],
+      "words": [
+        "relatives",
+        "in-laws",
+        "mother-in-law",
+        "father-in-law",
+        "brother-in-law",
+        "stepmother",
+        "stepfather",
+        "half-brother",
+        "adopted"
+      ]
+    },
+    {
+      "id": "b1-u05-l02",
+      "title": {
+        "en": "Marital status",
+        "ua": "Сімейний стан",
+        "ru": "Семейное положение"
+      },
+      "recap": {
+        "from": "b1-u05-l01",
+        "note": {
+          "ua": "Згадаймо: Розширена родина",
+          "ru": "Вспомним: Расширенная семья"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My husband's mother is my ___ .",
+            "options": [
+              "mother-in-law",
+              "stepmother",
+              "aunt"
+            ],
+            "answer": "mother-in-law",
+            "explain": {
+              "ua": "Мама чоловіка — mother-in-law.",
+              "ru": "Мама мужа — mother-in-law."
+            },
+            "id": "b1-u05-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "The parents of your husband or wife, and his or her family.",
+            "answer": "in-laws",
+            "accept": [
+              "the in-laws",
+              "relatives"
+            ],
+            "explain": {
+              "ua": "In-laws.",
+              "ru": "In-laws."
+            },
+            "id": "b1-u05-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "single",
+              "right": {
+                "ua": "неодружений",
+                "ru": "холост"
+              }
+            },
+            {
+              "left": "engaged",
+              "right": {
+                "ua": "заручений",
+                "ru": "помолвлен"
+              }
+            },
+            {
+              "left": "divorced",
+              "right": {
+                "ua": "розлучений",
+                "ru": "разведён"
+              }
+            },
+            {
+              "left": "widow",
+              "right": {
+                "ua": "вдова",
+                "ru": "вдова"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u05-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He asked her to marry him and she said yes. Now they're ___ .",
+          "options": [
+            "engaged",
+            "married",
+            "divorced"
+          ],
+          "answer": "engaged",
+          "explain": {
+            "ua": "Engaged — заручені.",
+            "ru": "Engaged — помолвлены."
+          },
+          "id": "b1-u05-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "They live in different flats but they aren't divorced. They're ___ .",
+          "options": [
+            "separated",
+            "single",
+            "engaged"
+          ],
+          "answer": "separated",
+          "explain": {
+            "ua": "Separated.",
+            "ru": "Separated."
+          },
+          "id": "b1-u05-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Her husband died. She's a ___ .",
+          "options": [
+            "widow",
+            "widower",
+            "bride"
+          ],
+          "answer": "widow",
+          "explain": {
+            "ua": "Widow — вдова.",
+            "ru": "Widow — вдова."
+          },
+          "id": "b1-u05-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The woman getting married is the ___ .",
+          "options": [
+            "bride",
+            "groom",
+            "widow"
+          ],
+          "answer": "bride",
+          "explain": {
+            "ua": "Bride — наречена. Groom — наречений.",
+            "ru": "Bride — невеста. Groom — жених."
+          },
+          "id": "b1-u05-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "After the wedding they went on ___ to Bali.",
+          "options": [
+            "honeymoon",
+            "holiday off",
+            "wedding"
+          ],
+          "answer": "honeymoon",
+          "explain": {
+            "ua": "Honeymoon.",
+            "ru": "Honeymoon."
+          },
+          "id": "b1-u05-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "single",
+            "engaged",
+            "married",
+            "divorced"
+          ],
+          "reuse": false,
+          "sentences": [
+            "No partner → ___",
+            "Ring, wedding soon → ___",
+            "Husband and wife → ___",
+            "Not married anymore → ___"
+          ],
+          "answers": [
+            "single",
+            "engaged",
+            "married",
+            "divorced"
+          ],
+          "explain": {
+            "ua": "Етапи.",
+            "ru": "Этапы."
+          },
+          "id": "b1-u05-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "He is the bride.",
+          "answer": "He is the groom.",
+          "accept": [],
+          "explain": {
+            "ua": "Наречений — groom.",
+            "ru": "Жених — groom."
+          },
+          "id": "b1-u05-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мої батьки розлучені.",
+            "ru": "Мои родители разведены."
+          },
+          "answer": "My parents are divorced.",
+          "accept": [],
+          "explain": {
+            "ua": "Divorced.",
+            "ru": "Divorced."
+          },
+          "id": "b1-u05-l02-e09"
+        }
+      ],
+      "words": [
+        "single",
+        "engaged",
+        "married",
+        "divorced",
+        "separated",
+        "widow / widower",
+        "bride / groom",
+        "wedding",
+        "honeymoon"
+      ]
+    },
+    {
+      "id": "b1-u05-l03",
+      "title": {
+        "en": "Relationships",
+        "ua": "Стосунки",
+        "ru": "Отношения"
+      },
+      "recap": {
+        "from": "b1-u05-l02",
+        "note": {
+          "ua": "Згадаймо: Сімейний стан",
+          "ru": "Вспомним: Семейное положение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "He asked her to marry him and she said yes. Now they're ___ .",
+            "options": [
+              "engaged",
+              "married",
+              "divorced"
+            ],
+            "answer": "engaged",
+            "explain": {
+              "ua": "Engaged — заручені.",
+              "ru": "Engaged — помолвлены."
+            },
+            "id": "b1-u05-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The woman getting married is the ___ .",
+            "options": [
+              "bride",
+              "groom",
+              "widow"
+            ],
+            "answer": "bride",
+            "explain": {
+              "ua": "Bride — наречена. Groom — наречений.",
+              "ru": "Bride — невеста. Groom — жених."
+            },
+            "id": "b1-u05-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "get on well with",
+              "right": {
+                "ua": "ладнати з",
+                "ru": "ладить с"
+              }
+            },
+            {
+              "left": "bring up",
+              "right": {
+                "ua": "виховувати",
+                "ru": "воспитывать"
+              }
+            },
+            {
+              "left": "fall out with",
+              "right": {
+                "ua": "посваритися з",
+                "ru": "поссориться с"
+              }
+            },
+            {
+              "left": "look after",
+              "right": {
+                "ua": "доглядати",
+                "ru": "присматривать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фразові дієслова про стосунки.",
+            "ru": "Фразовые глаголы об отношениях."
+          },
+          "id": "b1-u05-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ well with my sister. We're best friends.",
+          "options": [
+            "get on",
+            "get up",
+            "get off"
+          ],
+          "answer": "get on",
+          "explain": {
+            "ua": "Get on well with.",
+            "ru": "Get on well with."
+          },
+          "id": "b1-u05-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My grandparents ___ me up.",
+          "options": [
+            "brought",
+            "brings",
+            "bring"
+          ],
+          "answer": "brought",
+          "explain": {
+            "ua": "Bring up — виховувати.",
+            "ru": "Bring up — воспитывать."
+          },
+          "id": "b1-u05-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Who ___ your kids when you're at work? — My mum.",
+          "options": [
+            "looks after",
+            "looks for",
+            "looks at"
+          ],
+          "answer": "looks after",
+          "explain": {
+            "ua": "Look after — доглядати.",
+            "ru": "Look after — присматривать."
+          },
+          "id": "b1-u05-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We share the house ___ my wife's family.",
+          "options": [
+            "with",
+            "to",
+            "for"
+          ],
+          "answer": "with",
+          "explain": {
+            "ua": "Share with.",
+            "ru": "Share with."
+          },
+          "id": "b1-u05-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "We're not planning to start",
+              "right": "a family yet."
+            },
+            {
+              "left": "They adopted",
+              "right": "a baby girl."
+            },
+            {
+              "left": "She'd like to find",
+              "right": "her real mother one day."
+            },
+            {
+              "left": "My parents help us",
+              "right": "look after the children."
+            }
+          ],
+          "explain": {
+            "ua": "Склади речення.",
+            "ru": "Составь предложения."
+          },
+          "id": "b1-u05-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs-irregular",
+          "sentence": "I get on good with my boss.",
+          "answer": "I get on well with my boss.",
+          "accept": [],
+          "explain": {
+            "ua": "Get on well.",
+            "ru": "Get on well."
+          },
+          "id": "b1-u05-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She was brought up by her aunt.",
+          "options": [
+            "She was brought up by her aunt.",
+            "She was bought up by her aunt.",
+            "She brought up her aunt."
+          ],
+          "answer": "She was brought up by her aunt.",
+          "audio": "",
+          "explain": {
+            "ua": "Brought up — вихована.",
+            "ru": "Brought up — воспитана."
+          },
+          "id": "b1-u05-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мене виховала бабуся.",
+            "ru": "Меня воспитала бабушка."
+          },
+          "answer": "My grandmother brought me up.",
+          "accept": [
+            "I was brought up by my grandmother.",
+            "My grandma brought me up.",
+            "I was brought up by my grandma."
+          ],
+          "explain": {
+            "ua": "Bring up.",
+            "ru": "Bring up."
+          },
+          "id": "b1-u05-l03-e09"
+        }
+      ],
+      "words": [
+        "get on (well) with",
+        "bring up"
+      ]
+    },
+    {
+      "id": "b1-u05-l04",
+      "title": {
+        "en": "In context: Doreen's family",
+        "ua": "У контексті: родина Дорін",
+        "ru": "В контексте: семья Дорин"
+      },
+      "recap": {
+        "from": "b1-u05-l03",
+        "note": {
+          "ua": "Згадаймо: Стосунки",
+          "ru": "Вспомним: Отношения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ well with my sister. We're best friends.",
+            "options": [
+              "get on",
+              "get up",
+              "get off"
+            ],
+            "answer": "get on",
+            "explain": {
+              "ua": "Get on well with.",
+              "ru": "Get on well with."
+            },
+            "id": "b1-u05-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We share the house ___ my wife's family.",
+            "options": [
+              "with",
+              "to",
+              "for"
+            ],
+            "answer": "with",
+            "explain": {
+              "ua": "Share with.",
+              "ru": "Share with."
+            },
+            "id": "b1-u05-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Who lives with Doreen's parents?",
+              "options": [
+                "her grandmother Ellen",
+                "her brother Richard",
+                "her aunt Sarah"
+              ],
+              "answer": "her grandmother Ellen"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Richard lives in Oxford.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Doreen and Pete live in London.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Who is Tony?",
+              "options": [
+                "Doreen's uncle",
+                "Doreen's brother",
+                "Doreen's husband"
+              ],
+              "answer": "Doreen's uncle"
+            }
+          ],
+          "text": "I have quite a large family, actually. My grandmother Ellen lives with my parents, Mary and George. I have a brother, Richard, who lives in Oxford, and a sister, Camilla, who lives in London. My aunt is Sarah and my uncle is Tony. Then, of course, there's my husband Pete. His family comes from Cambridge, and that's where we live now. We're all very close.",
+          "explain": {
+            "ua": "Ellen with parents; Richard Oxford; Camilla London; Sarah & Tony aunt/uncle; Pete husband; live in Cambridge.",
+            "ru": "Ellen with parents; Richard Oxford; Camilla London; Sarah & Tony aunt/uncle; Pete husband; live in Cambridge."
+          },
+          "id": "b1-u05-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "daughter",
+            "brother",
+            "husband",
+            "wife",
+            "niece"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Camilla is George's ___.",
+            "Richard is Camilla's ___.",
+            "George is Mary's ___.",
+            "Doreen is Pete's ___.",
+            "Doreen is Tony's ___."
+          ],
+          "answers": [
+            "daughter",
+            "brother",
+            "husband",
+            "wife",
+            "niece"
+          ],
+          "explain": {
+            "ua": "Хто кому ким доводиться.",
+            "ru": "Кто кому кем приходится."
+          },
+          "id": "b1-u05-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Pete's parents are Doreen's ___ .",
+          "options": [
+            "in-laws",
+            "relatives by blood",
+            "cousins"
+          ],
+          "answer": "in-laws",
+          "explain": {
+            "ua": "Батьки чоловіка — in-laws.",
+            "ru": "Родители мужа — in-laws."
+          },
+          "id": "b1-u05-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Ellen is Doreen's ___ .",
+          "options": [
+            "grandmother",
+            "mother-in-law",
+            "aunt"
+          ],
+          "answer": "grandmother",
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u05-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your brother's or sister's daughter.",
+          "answer": "niece",
+          "accept": [],
+          "explain": {
+            "ua": "Niece — племінниця.",
+            "ru": "Niece — племянница."
+          },
+          "id": "b1-u05-l04-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your brother's or sister's son.",
+          "answer": "nephew",
+          "accept": [],
+          "explain": {
+            "ua": "Nephew — племінник.",
+            "ru": "Nephew — племянник."
+          },
+          "id": "b1-u05-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We are very closed.",
+          "answer": "We are very close.",
+          "accept": [
+            "We're very close."
+          ],
+          "explain": {
+            "ua": "Близькі — close.",
+            "ru": "Близки — close."
+          },
+          "id": "b1-u05-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми всі дуже близькі.",
+            "ru": "Мы все очень близки."
+          },
+          "answer": "We're all very close.",
+          "accept": [
+            "We are all very close."
+          ],
+          "explain": {
+            "ua": "Close.",
+            "ru": "Close."
+          },
+          "id": "b1-u05-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u05-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u05-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: родина Дорін",
+          "ru": "Вспомним: В контексте: семья Дорин"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Pete's parents are Doreen's ___ .",
+            "options": [
+              "in-laws",
+              "relatives by blood",
+              "cousins"
+            ],
+            "answer": "in-laws",
+            "explain": {
+              "ua": "Батьки чоловіка — in-laws.",
+              "ru": "Родители мужа — in-laws."
+            },
+            "id": "b1-u05-l05-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Your brother's or sister's son.",
+            "answer": "nephew",
+            "accept": [],
+            "explain": {
+              "ua": "Nephew — племінник.",
+              "ru": "Nephew — племянник."
+            },
+            "id": "b1-u05-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "niece",
+              "right": {
+                "ua": "племінниця",
+                "ru": "племянница"
+              }
+            },
+            {
+              "left": "nephew",
+              "right": {
+                "ua": "племінник",
+                "ru": "племянник"
+              }
+            },
+            {
+              "left": "groom",
+              "right": {
+                "ua": "наречений",
+                "ru": "жених"
+              }
+            },
+            {
+              "left": "widower",
+              "right": {
+                "ua": "вдівець",
+                "ru": "вдовец"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u05-l05-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "grandparents",
+            "uncle",
+            "cousins",
+            "grandchildren"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Your parents' parents are your ___.",
+            "Your father's brother is your ___.",
+            "Your aunt's children are your ___.",
+            "Your children's children are your ___."
+          ],
+          "answers": [
+            "grandparents",
+            "uncle",
+            "cousins",
+            "grandchildren"
+          ],
+          "explain": {
+            "ua": "Родина.",
+            "ru": "Семья."
+          },
+          "id": "b1-u05-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My sister's husband is my ___ .",
+          "options": [
+            "brother-in-law",
+            "stepbrother",
+            "half-brother"
+          ],
+          "answer": "brother-in-law",
+          "explain": {
+            "ua": "Brother-in-law.",
+            "ru": "Brother-in-law."
+          },
+          "id": "b1-u05-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A child who lives with a new family by law is ___ .",
+          "options": [
+            "adopted",
+            "engaged",
+            "separated"
+          ],
+          "answer": "adopted",
+          "explain": {
+            "ua": "Adopted.",
+            "ru": "Adopted."
+          },
+          "id": "b1-u05-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A man whose wife has died.",
+          "answer": "widower",
+          "accept": [
+            "a widower"
+          ],
+          "explain": {
+            "ua": "Widower — вдівець.",
+            "ru": "Widower — вдовец."
+          },
+          "id": "b1-u05-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "wedding",
+          "answer": "bride",
+          "accept": [
+            "groom",
+            "ring",
+            "honeymoon"
+          ],
+          "explain": {
+            "ua": "Весілля → наречена.",
+            "ru": "Свадьба → невеста."
+          },
+          "id": "b1-u05-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "They have been engaged with each other.",
+          "answer": "They are engaged.",
+          "accept": [
+            "They're engaged.",
+            "They got engaged."
+          ],
+          "explain": {
+            "ua": "Engaged — без with.",
+            "ru": "Engaged — без with."
+          },
+          "id": "b1-u05-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I get on really well with my in-laws.",
+          "options": [
+            "I get on really well with my in-laws.",
+            "I get up really well with my in-laws.",
+            "I get on really well with my inlays."
+          ],
+          "answer": "I get on really well with my in-laws.",
+          "audio": "",
+          "explain": {
+            "ua": "Get on with.",
+            "ru": "Get on with."
+          },
+          "id": "b1-u05-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вони заручені, весілля в травні.",
+            "ru": "Они помолвлены, свадьба в мае."
+          },
+          "answer": "They're engaged, the wedding is in May.",
+          "accept": [
+            "They are engaged, the wedding is in May.",
+            "They're engaged and the wedding is in May.",
+            "They are engaged. The wedding is in May."
+          ],
+          "explain": {
+            "ua": "Engaged.",
+            "ru": "Engaged."
+          },
+          "id": "b1-u05-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "My wife's father is my ___ .",
+      "options": [
+        "father-in-law",
+        "stepfather",
+        "uncle"
+      ],
+      "answer": "father-in-law",
+      "explain": {
+        "ua": "Father-in-law.",
+        "ru": "Father-in-law."
+      },
+      "id": "b1-u05-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "They're not married yet, but they're ___ .",
+      "options": [
+        "engaged",
+        "divorced",
+        "widowed"
+      ],
+      "answer": "engaged",
+      "explain": {
+        "ua": "Engaged.",
+        "ru": "Engaged."
+      },
+      "id": "b1-u05-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I ___ well with my brother.",
+      "options": [
+        "get on",
+        "get off",
+        "get up"
+      ],
+      "answer": "get on",
+      "explain": {
+        "ua": "Get on.",
+        "ru": "Get on."
+      },
+      "id": "b1-u05-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The man who is getting married.",
+      "answer": "groom",
+      "accept": [
+        "the groom",
+        "bridegroom"
+      ],
+      "explain": {
+        "ua": "Groom.",
+        "ru": "Groom."
+      },
+      "id": "b1-u05-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A holiday after the wedding.",
+      "answer": "honeymoon",
+      "accept": [
+        "a honeymoon"
+      ],
+      "explain": {
+        "ua": "Honeymoon.",
+        "ru": "Honeymoon."
+      },
+      "id": "b1-u05-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "My grandma brought me ___ .",
+      "answer": "up",
+      "accept": [],
+      "explain": {
+        "ua": "Bring up.",
+        "ru": "Bring up."
+      },
+      "id": "b1-u05-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "divorced",
+          "right": {
+            "ua": "розлучений",
+            "ru": "разведён"
+          }
+        },
+        {
+          "left": "relatives",
+          "right": {
+            "ua": "родичі",
+            "ru": "родственники"
+          }
+        },
+        {
+          "left": "stepfather",
+          "right": {
+            "ua": "вітчим",
+            "ru": "отчим"
+          }
+        },
+        {
+          "left": "single",
+          "right": {
+            "ua": "неодружений",
+            "ru": "холост"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u05-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "He's a widow.",
+      "answer": "He's a widower.",
+      "accept": [],
+      "explain": {
+        "ua": "Чоловік — widower.",
+        "ru": "Мужчина — widower."
+      },
+      "id": "b1-u05-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "My in-laws is nice.",
+      "answer": "My in-laws are nice.",
+      "accept": [],
+      "explain": {
+        "ua": "Множина.",
+        "ru": "Множественное."
+      },
+      "id": "b1-u05-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "to",
+        "Italy",
+        "honeymoon",
+        "on",
+        "went",
+        "They"
+      ],
+      "answer": "They went on honeymoon to Italy",
+      "explain": {
+        "ua": "Went on honeymoon → to Italy.",
+        "ru": "Went on honeymoon → to Italy."
+      },
+      "id": "b1-u05-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я не одружений.",
+        "ru": "Я не женат."
+      },
+      "answer": "I'm single.",
+      "accept": [
+        "I'm not married.",
+        "I am single.",
+        "I am not married."
+      ],
+      "explain": {
+        "ua": "Single.",
+        "ru": "Single."
+      },
+      "id": "b1-u05-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "My parents are separated.",
+      "options": [
+        "My parents are separated.",
+        "My parents are divorced.",
+        "My parents are separate."
+      ],
+      "answer": "My parents are separated.",
+      "audio": "",
+      "explain": {
+        "ua": "Separated.",
+        "ru": "Separated."
+      },
+      "id": "b1-u05-cp12"
+    }
+  ]
+}

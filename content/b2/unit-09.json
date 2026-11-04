@@ -1,0 +1,1646 @@
+{
+  "id": "b2-u09",
+  "level": "B2",
+  "order": 9,
+  "kind": "grammar",
+  "title": {
+    "en": "The passive: all forms",
+    "ua": "Пасив: усі форми",
+    "ru": "Пассив: все формы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "be (у потрібному часі) + V3 · is being done · has been done · will be done · can be done",
+      "ru": "be (в нужном времени) + V3 · is being done · has been done · will be done · can be done"
+    },
+    "explain": {
+      "ua": "Пасив можливий майже в усіх часах — змінюється тільки be: The road is being repaired. My bag has been stolen. It will be finished tomorrow. It must be done today.",
+      "ru": "Пассив возможен почти во всех временах — меняется только be: The road is being repaired. My bag has been stolen. It will be finished tomorrow. It must be done today."
+    },
+    "examples": [
+      {
+        "en": "The house is being painted.",
+        "ua": "Будинок зараз фарбують.",
+        "ru": "Дом сейчас красят."
+      },
+      {
+        "en": "My car has been fixed.",
+        "ua": "Мою машину полагодили.",
+        "ru": "Мою машину починили."
+      },
+      {
+        "en": "The results will be announced tomorrow.",
+        "ua": "Результати оголосять завтра.",
+        "ru": "Результаты объявят завтра."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "repair",
+      "ipa": "/rɪˈpeə/",
+      "ua": "ремонтувати",
+      "ru": "ремонтировать",
+      "example": "The road is being repaired.",
+      "audio": ""
+    },
+    {
+      "word": "announce",
+      "ipa": "/əˈnaʊns/",
+      "ua": "оголошувати",
+      "ru": "объявлять",
+      "example": "The winner will be announced.",
+      "audio": ""
+    },
+    {
+      "word": "arrest",
+      "ipa": "/əˈrest/",
+      "ua": "заарештувати",
+      "ru": "арестовать",
+      "example": "He was arrested.",
+      "audio": ""
+    },
+    {
+      "word": "cancel",
+      "ipa": "/ˈkænsl/",
+      "ua": "скасовувати",
+      "ru": "отменять",
+      "example": "The flight has been cancelled.",
+      "audio": ""
+    },
+    {
+      "word": "postpone",
+      "ipa": "/pəˈspəʊn/",
+      "ua": "відкладати",
+      "ru": "откладывать",
+      "example": "The match was postponed.",
+      "audio": ""
+    },
+    {
+      "word": "injure",
+      "ipa": "/ˈɪndʒə/",
+      "ua": "травмувати",
+      "ru": "травмировать",
+      "example": "Two people were injured.",
+      "audio": ""
+    },
+    {
+      "word": "believe",
+      "ipa": "/bɪˈliːv/",
+      "ua": "вважати",
+      "ru": "считать",
+      "example": "It is believed that…",
+      "audio": ""
+    },
+    {
+      "word": "report",
+      "ipa": "/rɪˈpɔːt/",
+      "ua": "повідомляти",
+      "ru": "сообщать",
+      "example": "It is reported that…",
+      "audio": ""
+    },
+    {
+      "word": "expect",
+      "ipa": "/ɪkˈspekt/",
+      "ua": "очікувати",
+      "ru": "ожидать",
+      "example": "He is expected to win.",
+      "audio": ""
+    },
+    {
+      "word": "have something done",
+      "ipa": "/hæv ˌsʌmθɪŋ ˈdʌn/",
+      "ua": "зробити щось (руками іншого)",
+      "ru": "сделать что-то (руками другого)",
+      "example": "I had my hair cut.",
+      "audio": ""
+    },
+    {
+      "word": "get something done",
+      "ipa": "/ɡet ˌsʌmθɪŋ ˈdʌn/",
+      "ua": "зробити щось (у майстра), розмовне",
+      "ru": "сделать что-то (у мастера), разговорное",
+      "example": "I need to get my car fixed.",
+      "audio": ""
+    },
+    {
+      "word": "by",
+      "ipa": "/baɪ/",
+      "ua": "ким",
+      "ru": "кем",
+      "example": "painted by Kateryna Bilokur",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u09-l01",
+      "title": {
+        "en": "Continuous passive",
+        "ua": "Continuous у пасиві",
+        "ru": "Continuous в пассиве"
+      },
+      "recap": {
+        "from": "b2-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Допомога іншим",
+          "ru": "Вспомним: Помощь другим"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She ___ at an animal shelter every weekend.",
+            "options": [
+              "volunteers",
+              "donates",
+              "celebrates"
+            ],
+            "answer": "volunteers",
+            "explain": {
+              "ua": "Volunteer.",
+              "ru": "Volunteer."
+            },
+            "id": "b2-u09-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Men and women should get the same salary. It's about ___ .",
+            "options": [
+              "equality",
+              "diversity",
+              "community"
+            ],
+            "answer": "equality",
+            "explain": {
+              "ua": "Equality.",
+              "ru": "Equality."
+            },
+            "id": "b2-u09-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "am / is / are / was / were + being + V3",
+        "explain": {
+          "ua": "Процес над кимось / чимось зараз або в момент у минулому: The kitchen is being cleaned. We were being watched.",
+          "ru": "Процесс над кем-то / чем-то сейчас или в момент в прошлом: The kitchen is being cleaned. We were being watched."
+        },
+        "examples": [
+          {
+            "en": "The bridge is being repaired.",
+            "ua": "Міст ремонтують (зараз).",
+            "ru": "Мост ремонтируют (сейчас)."
+          },
+          {
+            "en": "Dinner was being served when we arrived.",
+            "ua": "Коли ми прийшли, подавали вечерю.",
+            "ru": "Когда мы пришли, подавали ужин."
+          },
+          {
+            "en": "I felt I was being followed.",
+            "ua": "Я відчувала, що за мною стежать.",
+            "ru": "Я чувствовала, что за мной следят."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-continuous",
+          "question": "Sorry, the room ___ at the moment.",
+          "options": [
+            "is being cleaned",
+            "is cleaned",
+            "cleans"
+          ],
+          "answer": "is being cleaned",
+          "explain": {
+            "ua": "Зараз → is being V3.",
+            "ru": "Сейчас → is being V3."
+          },
+          "id": "b2-u09-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-continuous",
+          "question": "The road ___ , so we took another way.",
+          "options": [
+            "was being repaired",
+            "was repairing",
+            "repaired"
+          ],
+          "answer": "was being repaired",
+          "explain": {
+            "ua": "Was being V3.",
+            "ru": "Was being V3."
+          },
+          "id": "b2-u09-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-continuous",
+          "question": "New houses ___ in our area.",
+          "options": [
+            "are being built",
+            "are building",
+            "is being built"
+          ],
+          "answer": "are being built",
+          "explain": {
+            "ua": "Are being built.",
+            "ru": "Are being built."
+          },
+          "id": "b2-u09-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-continuous",
+          "question": "I think we ___ by that man.",
+          "options": [
+            "are being watched",
+            "are watching",
+            "being watched"
+          ],
+          "answer": "are being watched",
+          "explain": {
+            "ua": "Are being watched.",
+            "ru": "Are being watched."
+          },
+          "id": "b2-u09-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "passive-continuous",
+          "question": "My car is ___ repaired at the moment.",
+          "answer": "being",
+          "accept": [],
+          "explain": {
+            "ua": "Is being.",
+            "ru": "Is being."
+          },
+          "id": "b2-u09-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-continuous",
+          "sentence": "The new metro is building now.",
+          "answer": "The new metro is being built now.",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив — is being built.",
+            "ru": "Пассив — is being built."
+          },
+          "id": "b2-u09-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-continuous",
+          "sentence": "When I arrived, the food was been served.",
+          "answer": "When I arrived, the food was being served.",
+          "accept": [],
+          "explain": {
+            "ua": "Was being.",
+            "ru": "Was being."
+          },
+          "id": "b2-u09-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-continuous",
+          "audio_text": "The kitchen is being painted.",
+          "options": [
+            "The kitchen is being painted.",
+            "The kitchen is painting.",
+            "The chicken is being painted."
+          ],
+          "answer": "The kitchen is being painted.",
+          "audio": "",
+          "explain": {
+            "ua": "Is being painted.",
+            "ru": "Is being painted."
+          },
+          "id": "b2-u09-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-continuous",
+          "prompt": {
+            "ua": "Наш будинок зараз ремонтують.",
+            "ru": "Наш дом сейчас ремонтируют."
+          },
+          "answer": "Our house is being repaired now.",
+          "accept": [
+            "Our house is being renovated now.",
+            "Our house is being repaired at the moment."
+          ],
+          "explain": {
+            "ua": "Is being repaired.",
+            "ru": "Is being repaired."
+          },
+          "id": "b2-u09-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u09-l02",
+      "title": {
+        "en": "Perfect passive",
+        "ua": "Perfect у пасиві",
+        "ru": "Perfect в пассиве"
+      },
+      "recap": {
+        "from": "b2-u09-l01",
+        "note": {
+          "ua": "Згадаймо: am / is / are / was / were + being + V3",
+          "ru": "Вспомним: am / is / are / was / were + being + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-continuous",
+            "question": "Sorry, the room ___ at the moment.",
+            "options": [
+              "is being cleaned",
+              "is cleaned",
+              "cleans"
+            ],
+            "answer": "is being cleaned",
+            "explain": {
+              "ua": "Зараз → is being V3.",
+              "ru": "Сейчас → is being V3."
+            },
+            "id": "b2-u09-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "passive-continuous",
+            "question": "My car is ___ repaired at the moment.",
+            "answer": "being",
+            "accept": [],
+            "explain": {
+              "ua": "Is being.",
+              "ru": "Is being."
+            },
+            "id": "b2-u09-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "has / have / had + been + V3",
+        "explain": {
+          "ua": "Результат зараз або до моменту в минулому: My wallet has been stolen. The tickets had been sold out before we arrived.",
+          "ru": "Результат сейчас или к моменту в прошлом: My wallet has been stolen. The tickets had been sold out before we arrived."
+        },
+        "examples": [
+          {
+            "en": "The flight has been cancelled.",
+            "ua": "Рейс скасовано.",
+            "ru": "Рейс отменён."
+          },
+          {
+            "en": "Two people have been injured.",
+            "ua": "Двоє людей постраждали.",
+            "ru": "Два человека пострадали."
+          },
+          {
+            "en": "The house had been sold before we called.",
+            "ua": "Будинок продали ще до нашого дзвінка.",
+            "ru": "Дом продали ещё до нашего звонка."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-perfect",
+          "question": "Our flight ___ . We have to stay another night.",
+          "options": [
+            "has been cancelled",
+            "has cancelled",
+            "is cancelling"
+          ],
+          "answer": "has been cancelled",
+          "explain": {
+            "ua": "Новина → has been V3.",
+            "ru": "Новость → has been V3."
+          },
+          "id": "b2-u09-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-perfect",
+          "question": "My bike ___ ! I can't find it anywhere.",
+          "options": [
+            "has been stolen",
+            "has stolen",
+            "stole"
+          ],
+          "answer": "has been stolen",
+          "explain": {
+            "ua": "Has been stolen.",
+            "ru": "Has been stolen."
+          },
+          "id": "b2-u09-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-perfect",
+          "question": "When we arrived, all the tickets ___ .",
+          "options": [
+            "had been sold",
+            "have been sold",
+            "were selling"
+          ],
+          "answer": "had been sold",
+          "explain": {
+            "ua": "Had been sold.",
+            "ru": "Had been sold."
+          },
+          "id": "b2-u09-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-perfect",
+          "question": "Three new schools ___ this year.",
+          "options": [
+            "have been opened",
+            "have opened",
+            "were opening"
+          ],
+          "answer": "have been opened",
+          "explain": {
+            "ua": "This year → have been.",
+            "ru": "This year → have been."
+          },
+          "id": "b2-u09-l02-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "passive-perfect",
+          "question": "The match has ___ postponed because of the rain.",
+          "answer": "been",
+          "accept": [],
+          "explain": {
+            "ua": "Has been.",
+            "ru": "Has been."
+          },
+          "id": "b2-u09-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-perfect",
+          "sentence": "The meeting has cancelled.",
+          "answer": "The meeting has been cancelled.",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив.",
+            "ru": "Пассив."
+          },
+          "id": "b2-u09-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-perfect",
+          "sentence": "The thief has been arrest.",
+          "answer": "The thief has been arrested.",
+          "accept": [],
+          "explain": {
+            "ua": "V3.",
+            "ru": "V3."
+          },
+          "id": "b2-u09-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-perfect",
+          "audio_text": "Two people have been injured.",
+          "options": [
+            "Two people have been injured.",
+            "Two people have injured.",
+            "Two people had been injured."
+          ],
+          "answer": "Two people have been injured.",
+          "audio": "",
+          "explain": {
+            "ua": "Have been injured.",
+            "ru": "Have been injured."
+          },
+          "id": "b2-u09-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-perfect",
+          "prompt": {
+            "ua": "Мій гаманець украли!",
+            "ru": "Мой кошелёк украли!"
+          },
+          "answer": "My wallet has been stolen!",
+          "accept": [
+            "My wallet was stolen!",
+            "Someone has stolen my wallet!"
+          ],
+          "explain": {
+            "ua": "Has been stolen.",
+            "ru": "Has been stolen."
+          },
+          "id": "b2-u09-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u09-l03",
+      "title": {
+        "en": "Modals and future",
+        "ua": "Модальні й майбутнє",
+        "ru": "Модальные и будущее"
+      },
+      "recap": {
+        "from": "b2-u09-l02",
+        "note": {
+          "ua": "Згадаймо: has / have / had + been + V3",
+          "ru": "Вспомним: has / have / had + been + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-perfect",
+            "question": "Our flight ___ . We have to stay another night.",
+            "options": [
+              "has been cancelled",
+              "has cancelled",
+              "is cancelling"
+            ],
+            "answer": "has been cancelled",
+            "explain": {
+              "ua": "Новина → has been V3.",
+              "ru": "Новость → has been V3."
+            },
+            "id": "b2-u09-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "passive-perfect",
+            "question": "The match has ___ postponed because of the rain.",
+            "answer": "been",
+            "accept": [],
+            "explain": {
+              "ua": "Has been.",
+              "ru": "Has been."
+            },
+            "id": "b2-u09-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "will / can / must / should / might + be + V3",
+        "explain": {
+          "ua": "Після модальних — be + V3: It will be done. It can't be fixed. It must be signed. Phones should be turned off.",
+          "ru": "После модальных — be + V3: It will be done. It can't be fixed. It must be signed. Phones should be turned off."
+        },
+        "examples": [
+          {
+            "en": "The results will be announced on Monday.",
+            "ua": "Результати оголосять у понеділок.",
+            "ru": "Результаты объявят в понедельник."
+          },
+          {
+            "en": "This form must be signed.",
+            "ua": "Цю форму потрібно підписати.",
+            "ru": "Эту форму нужно подписать."
+          },
+          {
+            "en": "It can't be done in one day.",
+            "ua": "Це неможливо зробити за один день.",
+            "ru": "Это невозможно сделать за один день."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-modals",
+          "question": "The winner ___ tomorrow.",
+          "options": [
+            "will be announced",
+            "will announce",
+            "is announcing"
+          ],
+          "answer": "will be announced",
+          "explain": {
+            "ua": "Will be V3.",
+            "ru": "Will be V3."
+          },
+          "id": "b2-u09-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-modals",
+          "question": "This medicine ___ after meals.",
+          "options": [
+            "must be taken",
+            "must take",
+            "must taken"
+          ],
+          "answer": "must be taken",
+          "explain": {
+            "ua": "Must be V3.",
+            "ru": "Must be V3."
+          },
+          "id": "b2-u09-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-modals",
+          "question": "Mobile phones ___ during the exam.",
+          "options": [
+            "should be turned off",
+            "should turn off",
+            "should be turn off"
+          ],
+          "answer": "should be turned off",
+          "explain": {
+            "ua": "Should be V3.",
+            "ru": "Should be V3."
+          },
+          "id": "b2-u09-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-modals",
+          "question": "I'm afraid your laptop ___ . It's too old.",
+          "options": [
+            "can't be repaired",
+            "can't repair",
+            "can't be repair"
+          ],
+          "answer": "can't be repaired",
+          "explain": {
+            "ua": "Can't be V3.",
+            "ru": "Can't be V3."
+          },
+          "id": "b2-u09-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-modals",
+          "question": "The work ___ by Friday.",
+          "options": [
+            "will have been finished",
+            "will have finished",
+            "will be finishing"
+          ],
+          "answer": "will have been finished",
+          "explain": {
+            "ua": "Future Perfect пасив.",
+            "ru": "Future Perfect пассив."
+          },
+          "id": "b2-u09-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "passive-modals",
+          "pairs": [
+            {
+              "left": "will",
+              "right": "will be done"
+            },
+            {
+              "left": "can",
+              "right": "can be done"
+            },
+            {
+              "left": "must",
+              "right": "must be done"
+            },
+            {
+              "left": "should",
+              "right": "should be done"
+            }
+          ],
+          "explain": {
+            "ua": "Модальне + be + V3.",
+            "ru": "Модальное + be + V3."
+          },
+          "id": "b2-u09-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-modals",
+          "sentence": "The form must signed by your manager.",
+          "answer": "The form must be signed by your manager.",
+          "accept": [],
+          "explain": {
+            "ua": "Must BE signed.",
+            "ru": "Must BE signed."
+          },
+          "id": "b2-u09-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-modals",
+          "sentence": "The parcel will deliver tomorrow.",
+          "answer": "The parcel will be delivered tomorrow.",
+          "accept": [],
+          "explain": {
+            "ua": "Will be delivered.",
+            "ru": "Will be delivered."
+          },
+          "id": "b2-u09-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-modals",
+          "prompt": {
+            "ua": "Це можна зробити онлайн.",
+            "ru": "Это можно сделать онлайн."
+          },
+          "answer": "It can be done online.",
+          "accept": [],
+          "explain": {
+            "ua": "Can be done.",
+            "ru": "Can be done."
+          },
+          "id": "b2-u09-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u09-l04",
+      "title": {
+        "en": "It is said that…",
+        "ua": "It is said that…",
+        "ru": "It is said that…"
+      },
+      "recap": {
+        "from": "b2-u09-l03",
+        "note": {
+          "ua": "Згадаймо: will / can / must / should / might + be + V3",
+          "ru": "Вспомним: will / can / must / should / might + be + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-modals",
+            "question": "The winner ___ tomorrow.",
+            "options": [
+              "will be announced",
+              "will announce",
+              "is announcing"
+            ],
+            "answer": "will be announced",
+            "explain": {
+              "ua": "Will be V3.",
+              "ru": "Will be V3."
+            },
+            "id": "b2-u09-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-modals",
+            "question": "The work ___ by Friday.",
+            "options": [
+              "will have been finished",
+              "will have finished",
+              "will be finishing"
+            ],
+            "answer": "will have been finished",
+            "explain": {
+              "ua": "Future Perfect пасив.",
+              "ru": "Future Perfect пассив."
+            },
+            "id": "b2-u09-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "It is said / believed / reported that… · He is said / believed to be…",
+          "ru": "It is said / believed / reported that… · He is said / believed to be…"
+        },
+        "explain": {
+          "ua": "Безособовий пасив — у новинах і формальній мові: It is believed that the painting is fake. = The painting is believed to be fake. Про минуле: He is said to have lived here.",
+          "ru": "Безличный пассив — в новостях и формальной речи: It is believed that the painting is fake. = The painting is believed to be fake. О прошлом: He is said to have lived here."
+        },
+        "examples": [
+          {
+            "en": "It is said that the castle is haunted.",
+            "ua": "Кажуть, що в замку є привиди.",
+            "ru": "Говорят, что в замке есть привидения."
+          },
+          {
+            "en": "The company is believed to be in trouble.",
+            "ua": "Вважають, що компанія має проблеми.",
+            "ru": "Считается, что у компании проблемы."
+          },
+          {
+            "en": "He is reported to have left the country.",
+            "ua": "Повідомляють, що він виїхав з країни.",
+            "ru": "Сообщают, что он покинул страну."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "___ said that this lake is very deep.",
+          "options": [
+            "It is",
+            "They is",
+            "It has"
+          ],
+          "answer": "It is",
+          "explain": {
+            "ua": "It is said that…",
+            "ru": "It is said that…"
+          },
+          "id": "b2-u09-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "The thief is believed ___ in the city.",
+          "options": [
+            "to be",
+            "being",
+            "be"
+          ],
+          "answer": "to be",
+          "explain": {
+            "ua": "Is believed to be.",
+            "ru": "Is believed to be."
+          },
+          "id": "b2-u09-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "She is said ___ over 100 years old when she died.",
+          "options": [
+            "to have been",
+            "to be",
+            "being"
+          ],
+          "answer": "to have been",
+          "explain": {
+            "ua": "Про минуле → to have been.",
+            "ru": "О прошлом → to have been."
+          },
+          "id": "b2-u09-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": "It ___ that prices will rise next year.",
+          "options": [
+            "is expected",
+            "expects",
+            "is expecting"
+          ],
+          "answer": "is expected",
+          "explain": {
+            "ua": "It is expected that.",
+            "ru": "It is expected that."
+          },
+          "id": "b2-u09-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-reporting",
+          "question": {
+            "ua": "Кажуть, що він дуже багатий. → He ___ very rich.",
+            "ru": "Говорят, что он очень богат. → He ___ very rich."
+          },
+          "options": [
+            "is said to be",
+            "says to be",
+            "is saying to be"
+          ],
+          "answer": "is said to be",
+          "explain": {
+            "ua": "Is said to be.",
+            "ru": "Is said to be."
+          },
+          "id": "b2-u09-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-reporting",
+          "sentence": "It says that he is a genius.",
+          "answer": "It is said that he is a genius.",
+          "accept": [
+            "He is said to be a genius."
+          ],
+          "explain": {
+            "ua": "Пасив: it is said.",
+            "ru": "Пассив: it is said."
+          },
+          "id": "b2-u09-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-reporting",
+          "sentence": "He is believed be the best player.",
+          "answer": "He is believed to be the best player.",
+          "accept": [],
+          "explain": {
+            "ua": "To be.",
+            "ru": "To be."
+          },
+          "id": "b2-u09-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-reporting",
+          "audio_text": "It is reported that two people were injured.",
+          "options": [
+            "It is reported that two people were injured.",
+            "It reports that two people were injured.",
+            "It is reported that two people injured."
+          ],
+          "answer": "It is reported that two people were injured.",
+          "audio": "",
+          "explain": {
+            "ua": "It is reported.",
+            "ru": "It is reported."
+          },
+          "id": "b2-u09-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-reporting",
+          "prompt": {
+            "ua": "Вважають, що картина — підробка.",
+            "ru": "Считается, что картина — подделка."
+          },
+          "answer": "It is believed that the painting is a fake.",
+          "accept": [
+            "The painting is believed to be a fake.",
+            "It's believed that the painting is a fake.",
+            "It is believed that the painting is fake."
+          ],
+          "explain": {
+            "ua": "It is believed.",
+            "ru": "It is believed."
+          },
+          "id": "b2-u09-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u09-l05",
+      "title": {
+        "en": "have something done",
+        "ua": "have something done",
+        "ru": "have something done"
+      },
+      "recap": {
+        "from": "b2-u09-l04",
+        "note": {
+          "ua": "Згадаймо: It is said / believed / reported that… · He is said / believed to be…",
+          "ru": "Вспомним: It is said / believed / reported that… · He is said / believed to be…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-reporting",
+            "question": "___ said that this lake is very deep.",
+            "options": [
+              "It is",
+              "They is",
+              "It has"
+            ],
+            "answer": "It is",
+            "explain": {
+              "ua": "It is said that…",
+              "ru": "It is said that…"
+            },
+            "id": "b2-u09-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-reporting",
+            "question": {
+              "ua": "Кажуть, що він дуже багатий. → He ___ very rich.",
+              "ru": "Говорят, что он очень богат. → He ___ very rich."
+            },
+            "options": [
+              "is said to be",
+              "says to be",
+              "is saying to be"
+            ],
+            "answer": "is said to be",
+            "explain": {
+              "ua": "Is said to be.",
+              "ru": "Is said to be."
+            },
+            "id": "b2-u09-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "have / get + об'єкт + V3 — хтось робить це для нас (послуга)",
+          "ru": "have / get + объект + V3 — кто-то делает это для нас (услуга)"
+        },
+        "explain": {
+          "ua": "Українською «я підстриглася» — але стриже перукар! Англійською: I had my hair cut. I'm getting my car repaired. Також про неприємне: She had her bag stolen.",
+          "ru": "По-русски «я подстриглась» — но стрижёт парикмахер! По-английски: I had my hair cut. I'm getting my car repaired. Также о неприятном: She had her bag stolen."
+        },
+        "examples": [
+          {
+            "en": "I had my hair cut yesterday.",
+            "ua": "Учора я підстриглася.",
+            "ru": "Вчера я подстриглась."
+          },
+          {
+            "en": "We're having the kitchen painted.",
+            "ua": "Нам фарбують кухню.",
+            "ru": "Нам красят кухню."
+          },
+          {
+            "en": "He had his phone stolen.",
+            "ua": "У нього вкрали телефон.",
+            "ru": "У него украли телефон."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "causative-have",
+          "question": "I ___ my hair cut every month.",
+          "options": [
+            "have",
+            "do",
+            "make"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Have something done.",
+            "ru": "Have something done."
+          },
+          "id": "b2-u09-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-have",
+          "question": "We need to get the car ___ .",
+          "options": [
+            "repaired",
+            "repair",
+            "repairing"
+          ],
+          "answer": "repaired",
+          "explain": {
+            "ua": "V3.",
+            "ru": "V3."
+          },
+          "id": "b2-u09-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-have",
+          "question": {
+            "ua": "Я підстриглася. → I ___ .",
+            "ru": "Я подстриглась. → I ___ ."
+          },
+          "options": [
+            "had my hair cut",
+            "cut my hair",
+            "had cut my hair"
+          ],
+          "answer": "had my hair cut",
+          "explain": {
+            "ua": "Підстригав перукар → had … cut.",
+            "ru": "Стриг парикмахер → had … cut."
+          },
+          "id": "b2-u09-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-have",
+          "question": "She had her passport ___ at the airport.",
+          "options": [
+            "stolen",
+            "steal",
+            "stealing"
+          ],
+          "answer": "stolen",
+          "explain": {
+            "ua": "Неприємність → had … stolen.",
+            "ru": "Неприятность → had … stolen."
+          },
+          "id": "b2-u09-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-have",
+          "question": "Where do you get your nails ___ ?",
+          "options": [
+            "done",
+            "do",
+            "doing"
+          ],
+          "answer": "done",
+          "explain": {
+            "ua": "Get … done.",
+            "ru": "Get … done."
+          },
+          "id": "b2-u09-l05-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "causative-have",
+          "bank": [
+            "cut",
+            "cleaned",
+            "checked",
+            "delivered"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I'm going to have my hair ___.",
+            "We had the carpets ___.",
+            "You should get your eyes ___.",
+            "We're having a new sofa ___ tomorrow."
+          ],
+          "answers": [
+            "cut",
+            "cleaned",
+            "checked",
+            "delivered"
+          ],
+          "explain": {
+            "ua": "Have / get + об'єкт + V3.",
+            "ru": "Have / get + объект + V3."
+          },
+          "id": "b2-u09-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "causative-have",
+          "sentence": "I cut my hair at the hairdresser's.",
+          "answer": "I had my hair cut at the hairdresser's.",
+          "accept": [
+            "I got my hair cut at the hairdresser's."
+          ],
+          "explain": {
+            "ua": "Стриг майстер → had … cut.",
+            "ru": "Стриг мастер → had … cut."
+          },
+          "id": "b2-u09-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "causative-have",
+          "sentence": "I'm having repaired my car.",
+          "answer": "I'm having my car repaired.",
+          "accept": [
+            "I'm getting my car repaired."
+          ],
+          "explain": {
+            "ua": "Have + об'єкт + V3.",
+            "ru": "Have + объект + V3."
+          },
+          "id": "b2-u09-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "causative-have",
+          "prompt": {
+            "ua": "Мені треба полагодити телефон (у сервісі).",
+            "ru": "Мне нужно починить телефон (в сервисе)."
+          },
+          "answer": "I need to get my phone repaired.",
+          "accept": [
+            "I need to have my phone repaired.",
+            "I need to get my phone fixed.",
+            "I need to have my phone fixed."
+          ],
+          "explain": {
+            "ua": "Get … repaired.",
+            "ru": "Get … repaired."
+          },
+          "id": "b2-u09-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u09-l06",
+      "title": {
+        "en": "Practice: in the news",
+        "ua": "Практика: у новинах",
+        "ru": "Практика: в новостях"
+      },
+      "recap": {
+        "from": "b2-u09-l05",
+        "note": {
+          "ua": "Згадаймо: have / get + об'єкт + V3 — хтось робить це для нас (послуга)",
+          "ru": "Вспомним: have / get + объект + V3 — кто-то делает это для нас (услуга)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "causative-have",
+            "question": "I ___ my hair cut every month.",
+            "options": [
+              "have",
+              "do",
+              "make"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "Have something done.",
+              "ru": "Have something done."
+            },
+            "id": "b2-u09-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "causative-have",
+            "question": "Where do you get your nails ___ ?",
+            "options": [
+              "done",
+              "do",
+              "doing"
+            ],
+            "answer": "done",
+            "explain": {
+              "ua": "Get … done.",
+              "ru": "Get … done."
+            },
+            "id": "b2-u09-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "The old bridge is being repaired.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Nobody was injured in the storm.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "When will the new park be opened?",
+              "options": [
+                "next spring",
+                "tomorrow",
+                "it has been opened"
+              ],
+              "answer": "next spring"
+            }
+          ],
+          "text": "Local news. The old bridge over the river is being repaired and will be closed until December. Last night's storm was the worst in 50 years, it is believed. Three people were injured and several trees have been blown down. All morning flights have been cancelled. On a happier note, the new city park will be opened next spring.",
+          "explain": {
+            "ua": "Bridge being repaired; 3 injured; flights cancelled; park next spring; believed storm the worst.",
+            "ru": "Bridge being repaired; 3 injured; flights cancelled; park next spring; believed storm the worst."
+          },
+          "id": "b2-u09-l06-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "passive-full",
+          "bank": [
+            "is being repaired",
+            "were injured",
+            "have been cancelled",
+            "will be opened"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The bridge ___.",
+            "Three people ___.",
+            "All morning flights ___.",
+            "The park ___ next spring."
+          ],
+          "answers": [
+            "is being repaired",
+            "were injured",
+            "have been cancelled",
+            "will be opened"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u09-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-full",
+          "question": "The storm ___ the worst in 50 years.",
+          "options": [
+            "is believed to be",
+            "believes to be",
+            "is believing"
+          ],
+          "answer": "is believed to be",
+          "explain": {
+            "ua": "Is believed to be.",
+            "ru": "Is believed to be."
+          },
+          "id": "b2-u09-l06-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-full",
+          "sentence": "Several trees have blown down by the wind.",
+          "answer": "Several trees have been blown down by the wind.",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив.",
+            "ru": "Пассив."
+          },
+          "id": "b2-u09-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-full",
+          "sentence": "The park will open by the mayor.",
+          "answer": "The park will be opened by the mayor.",
+          "accept": [],
+          "explain": {
+            "ua": "Will be opened by.",
+            "ru": "Will be opened by."
+          },
+          "id": "b2-u09-l06-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "will",
+            "Monday",
+            "announced",
+            "The",
+            "on",
+            "be",
+            "results"
+          ],
+          "answer": "The results will be announced on Monday",
+          "explain": {
+            "ua": "Will be announced → on Monday.",
+            "ru": "Will be announced → on Monday."
+          },
+          "id": "b2-u09-l06-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-full",
+          "audio_text": "All flights have been cancelled.",
+          "options": [
+            "All flights have been cancelled.",
+            "All flights have cancelled.",
+            "All flights are being cancelled."
+          ],
+          "answer": "All flights have been cancelled.",
+          "audio": "",
+          "explain": {
+            "ua": "Have been cancelled.",
+            "ru": "Have been cancelled."
+          },
+          "id": "b2-u09-l06-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-full",
+          "prompt": {
+            "ua": "Мені полагодили машину.",
+            "ru": "Мне починили машину."
+          },
+          "answer": "I've had my car repaired.",
+          "accept": [
+            "I had my car repaired.",
+            "I got my car fixed.",
+            "I've had my car fixed.",
+            "I had my car fixed."
+          ],
+          "explain": {
+            "ua": "Have something done.",
+            "ru": "Have something done."
+          },
+          "id": "b2-u09-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-full",
+          "prompt": {
+            "ua": "Матч перенесли через дощ.",
+            "ru": "Матч перенесли из-за дождя."
+          },
+          "answer": "The match was postponed because of the rain.",
+          "accept": [
+            "The match has been postponed because of the rain.",
+            "The match was postponed due to the rain."
+          ],
+          "explain": {
+            "ua": "Was postponed.",
+            "ru": "Was postponed."
+          },
+          "id": "b2-u09-l06-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "passive-continuous",
+      "question": "The road ___ at the moment.",
+      "options": [
+        "is being repaired",
+        "is repaired",
+        "repairs"
+      ],
+      "answer": "is being repaired",
+      "explain": {
+        "ua": "Continuous passive.",
+        "ru": "Continuous passive."
+      },
+      "id": "b2-u09-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-perfect",
+      "question": "My bag ___ ! Call the police!",
+      "options": [
+        "has been stolen",
+        "has stolen",
+        "stole"
+      ],
+      "answer": "has been stolen",
+      "explain": {
+        "ua": "Perfect passive.",
+        "ru": "Perfect passive."
+      },
+      "id": "b2-u09-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-modals",
+      "question": "This form ___ in black ink.",
+      "options": [
+        "must be filled in",
+        "must fill in",
+        "must be fill in"
+      ],
+      "answer": "must be filled in",
+      "explain": {
+        "ua": "Modal passive.",
+        "ru": "Modal passive."
+      },
+      "id": "b2-u09-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-reporting",
+      "question": "He is said ___ very rich.",
+      "options": [
+        "to be",
+        "being",
+        "be"
+      ],
+      "answer": "to be",
+      "explain": {
+        "ua": "Is said to be.",
+        "ru": "Is said to be."
+      },
+      "id": "b2-u09-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "causative-have",
+      "question": "I had my car ___ yesterday.",
+      "options": [
+        "washed",
+        "wash",
+        "washing"
+      ],
+      "answer": "washed",
+      "explain": {
+        "ua": "Have something done.",
+        "ru": "Have something done."
+      },
+      "id": "b2-u09-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-modals",
+      "question": "The results will ___ announced tomorrow.",
+      "answer": "be",
+      "accept": [],
+      "explain": {
+        "ua": "Will be.",
+        "ru": "Will be."
+      },
+      "id": "b2-u09-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-reporting",
+      "question": "It is ___ that the castle is haunted. (say)",
+      "answer": "said",
+      "accept": [],
+      "explain": {
+        "ua": "It is said.",
+        "ru": "It is said."
+      },
+      "id": "b2-u09-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "passive-perfect",
+      "sentence": "The flight has cancelled.",
+      "answer": "The flight has been cancelled.",
+      "accept": [],
+      "explain": {
+        "ua": "Has been.",
+        "ru": "Has been."
+      },
+      "id": "b2-u09-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "causative-have",
+      "sentence": "I cut my hair yesterday at the salon.",
+      "answer": "I had my hair cut yesterday at the salon.",
+      "accept": [
+        "I got my hair cut yesterday at the salon."
+      ],
+      "explain": {
+        "ua": "Had … cut.",
+        "ru": "Had … cut."
+      },
+      "id": "b2-u09-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "passive-continuous",
+      "words": [
+        "are",
+        "here",
+        "built",
+        "houses",
+        "being",
+        "New"
+      ],
+      "answer": "New houses are being built here",
+      "explain": {
+        "ua": "Are being built.",
+        "ru": "Are being built."
+      },
+      "id": "b2-u09-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "passive-reporting",
+      "prompt": {
+        "ua": "Вважають, що він виїхав з міста.",
+        "ru": "Считается, что он уехал из города."
+      },
+      "answer": "He is believed to have left the city.",
+      "accept": [
+        "It is believed that he has left the city.",
+        "It is believed that he left the city.",
+        "He's believed to have left the city."
+      ],
+      "explain": {
+        "ua": "Is believed to have V3.",
+        "ru": "Is believed to have V3."
+      },
+      "id": "b2-u09-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-modals",
+      "audio_text": "It can't be done today.",
+      "options": [
+        "It can't be done today.",
+        "It can't do today.",
+        "It can't be done to die."
+      ],
+      "answer": "It can't be done today.",
+      "audio": "",
+      "explain": {
+        "ua": "Can't be done.",
+        "ru": "Can't be done."
+      },
+      "id": "b2-u09-cp12"
+    }
+  ]
+}

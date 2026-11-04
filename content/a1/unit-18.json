@@ -1,0 +1,1048 @@
+{
+  "id": "a1-u18",
+  "level": "A1",
+  "order": 18,
+  "kind": "grammar",
+  "title": {
+    "en": "How often and when",
+    "ua": "Як часто і коли",
+    "ru": "Как часто и когда"
+  },
+  "rule": {
+    "formula": "always 100% · usually · often · sometimes · never 0% · at 7 · on Monday · in the morning",
+    "explain": {
+      "ua": "Слова частотності кажуть, як часто ми щось робимо. Стоять перед дієсловом (I always get up at 7), але після am / is / are (She is never late).",
+      "ru": "Слова частотности говорят, как часто мы что-то делаем. Стоят перед глаголом (I always get up at 7), но после am / is / are (She is never late)."
+    },
+    "examples": [
+      {
+        "en": "I always drink coffee.",
+        "ua": "Я завжди п'ю каву.",
+        "ru": "Я всегда пью кофе."
+      },
+      {
+        "en": "She is never late.",
+        "ua": "Вона ніколи не запізнюється.",
+        "ru": "Она никогда не опаздывает."
+      },
+      {
+        "en": "We go to the cinema on Fridays.",
+        "ua": "Ми ходимо в кіно по п'ятницях.",
+        "ru": "Мы ходим в кино по пятницам."
+      }
+    ],
+    "compare": {
+      "ua": "Never вже означає «ніколи не» — друге заперечення не потрібне: I never smoke (не I don't never smoke).",
+      "ru": "Never уже значит «никогда не» — второе отрицание не нужно: I never smoke (не I don't never smoke)."
+    }
+  },
+  "vocab": [
+    {
+      "word": "always",
+      "ipa": "/ˈɔːlweɪz/",
+      "ua": "завжди",
+      "ru": "всегда",
+      "example": "I always walk to work.",
+      "audio": ""
+    },
+    {
+      "word": "usually",
+      "ipa": "/ˈjuːʒuəli/",
+      "ua": "зазвичай",
+      "ru": "обычно",
+      "example": "We usually have dinner at 7.",
+      "audio": ""
+    },
+    {
+      "word": "often",
+      "ipa": "/ˈɒfn/",
+      "ua": "часто",
+      "ru": "часто",
+      "example": "She often reads.",
+      "audio": ""
+    },
+    {
+      "word": "sometimes",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "ua": "іноді",
+      "ru": "иногда",
+      "example": "I sometimes cook.",
+      "audio": ""
+    },
+    {
+      "word": "never",
+      "ipa": "/ˈnevə/",
+      "ua": "ніколи",
+      "ru": "никогда",
+      "example": "He never smokes.",
+      "audio": ""
+    },
+    {
+      "word": "morning",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "ua": "ранок",
+      "ru": "утро",
+      "example": "in the morning",
+      "audio": ""
+    },
+    {
+      "word": "afternoon",
+      "ipa": "/ˌɑːftəˈnuːn/",
+      "ua": "день (після обіду)",
+      "ru": "день (после обеда)",
+      "example": "in the afternoon",
+      "audio": ""
+    },
+    {
+      "word": "evening",
+      "ipa": "/ˈiːvnɪŋ/",
+      "ua": "вечір",
+      "ru": "вечер",
+      "example": "in the evening",
+      "audio": ""
+    },
+    {
+      "word": "night",
+      "ipa": "/naɪt/",
+      "ua": "ніч",
+      "ru": "ночь",
+      "example": "at night",
+      "audio": ""
+    },
+    {
+      "word": "o'clock",
+      "ipa": "/əˈklɒk/",
+      "ua": "рівно (про годину)",
+      "ru": "ровно (о часе)",
+      "example": "at 7 o'clock",
+      "audio": ""
+    },
+    {
+      "word": "early",
+      "ipa": "/ˈɜːli/",
+      "ua": "рано",
+      "ru": "рано",
+      "example": "I get up early.",
+      "audio": ""
+    },
+    {
+      "word": "late",
+      "ipa": "/leɪt/",
+      "ua": "пізно",
+      "ru": "поздно",
+      "example": "She goes to bed late.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u18-l01",
+      "title": {
+        "en": "always, usually, never",
+        "ua": "always, usually, never",
+        "ru": "always, usually, never"
+      },
+      "recap": {
+        "from": "a1-u17-l02",
+        "note": {
+          "ua": "Згадаймо: День і вечір",
+          "ru": "Вспомним: День и вечер"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ work at 9 and finish at 6.",
+            "options": [
+              "start",
+              "go",
+              "come"
+            ],
+            "answer": "start",
+            "explain": {
+              "ua": "Start work — починати роботу.",
+              "ru": "Start work — начинать работу."
+            },
+            "id": "a1-u18-l01-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You do it with your dog in the park.",
+            "answer": "walk the dog",
+            "accept": [],
+            "explain": {
+              "ua": "Walk the dog — вигулювати собаку.",
+              "ru": "Walk the dog — выгуливать собаку."
+            },
+            "id": "a1-u18-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "хто + always / usually / often / sometimes / never + дієслово · am / is / are + never",
+          "ru": "кто + always / usually / often / sometimes / never + глагол · am / is / are + never"
+        },
+        "explain": {
+          "ua": "Слово частотності — перед дієсловом-дією, але після to be. I usually walk. He is always happy.",
+          "ru": "Слово частотности — перед глаголом-действием, но после to be. I usually walk. He is always happy."
+        },
+        "examples": [
+          {
+            "en": "I usually walk to work.",
+            "ua": "Я зазвичай іду на роботу пішки.",
+            "ru": "Я обычно иду на работу пешком."
+          },
+          {
+            "en": "He often cooks.",
+            "ua": "Він часто готує.",
+            "ru": "Он часто готовит."
+          },
+          {
+            "en": "They are always busy.",
+            "ua": "Вони завжди зайняті.",
+            "ru": "Они всегда заняты."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "frequency-adverbs",
+          "question": "I ___ coffee in the morning.",
+          "options": [
+            "always drink",
+            "drink always",
+            "am always drink"
+          ],
+          "answer": "always drink",
+          "explain": {
+            "ua": "Always — перед дієсловом.",
+            "ru": "Always — перед глаголом."
+          },
+          "id": "a1-u18-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "frequency-adverbs",
+          "question": "She ___ late.",
+          "options": [
+            "is never",
+            "never is",
+            "never"
+          ],
+          "answer": "is never",
+          "explain": {
+            "ua": "Після is: She is never late.",
+            "ru": "После is: She is never late."
+          },
+          "id": "a1-u18-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "frequency-adverbs",
+          "question": "We ___ go to the cinema.",
+          "options": [
+            "sometimes",
+            "sometime",
+            "some times"
+          ],
+          "answer": "sometimes",
+          "explain": {
+            "ua": "Sometimes — іноді.",
+            "ru": "Sometimes — иногда."
+          },
+          "id": "a1-u18-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "frequency-adverbs",
+          "question": "100% = ___",
+          "options": [
+            "always",
+            "often",
+            "sometimes"
+          ],
+          "answer": "always",
+          "explain": {
+            "ua": "100% — always.",
+            "ru": "100% — always."
+          },
+          "id": "a1-u18-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "frequency-adverbs",
+          "question": "0% = ___",
+          "options": [
+            "never",
+            "sometimes",
+            "usually"
+          ],
+          "answer": "never",
+          "explain": {
+            "ua": "0% — never.",
+            "ru": "0% — never."
+          },
+          "id": "a1-u18-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "frequency-adverbs",
+          "pairs": [
+            {
+              "left": "always",
+              "right": "100%"
+            },
+            {
+              "left": "usually",
+              "right": "80%"
+            },
+            {
+              "left": "sometimes",
+              "right": "30%"
+            },
+            {
+              "left": "never",
+              "right": "0%"
+            }
+          ],
+          "explain": {
+            "ua": "Від частого до ніколи.",
+            "ru": "От частого до никогда."
+          },
+          "id": "a1-u18-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "frequency-adverbs",
+          "sentence": "I don't never smoke.",
+          "answer": "I never smoke.",
+          "accept": [],
+          "explain": {
+            "ua": "Never вже означає «ніколи не».",
+            "ru": "Never уже значит «никогда не»."
+          },
+          "id": "a1-u18-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "frequency-adverbs",
+          "sentence": "He cooks often.",
+          "answer": "He often cooks.",
+          "accept": [],
+          "explain": {
+            "ua": "Often — перед дієсловом.",
+            "ru": "Often — перед глаголом."
+          },
+          "id": "a1-u18-l01-e08"
+        },
+        {
+          "type": "build",
+          "topic": "frequency-adverbs",
+          "words": [
+            "happy",
+            "They",
+            "always",
+            "are"
+          ],
+          "answer": "They are always happy",
+          "explain": {
+            "ua": "They are → always → happy.",
+            "ru": "They are → always → happy."
+          },
+          "id": "a1-u18-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "frequency-adverbs",
+          "prompt": {
+            "ua": "Я ніколи не запізнююся.",
+            "ru": "Я никогда не опаздываю."
+          },
+          "answer": "I am never late.",
+          "accept": [
+            "I'm never late."
+          ],
+          "explain": {
+            "ua": "Late — стан → am never late.",
+            "ru": "Late — состояние → am never late."
+          },
+          "id": "a1-u18-l01-e10"
+        }
+      ]
+    },
+    {
+      "id": "a1-u18-l02",
+      "title": {
+        "en": "at, on, in for time",
+        "ua": "at, on, in для часу",
+        "ru": "at, on, in для времени"
+      },
+      "recap": {
+        "from": "a1-u18-l01",
+        "note": {
+          "ua": "Згадаймо: хто + always / usually / often / sometimes / never + дієслово · am / is / are + never",
+          "ru": "Вспомним: кто + always / usually / often / sometimes / never + глагол · am / is / are + never"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "frequency-adverbs",
+            "question": "I ___ coffee in the morning.",
+            "options": [
+              "always drink",
+              "drink always",
+              "am always drink"
+            ],
+            "answer": "always drink",
+            "explain": {
+              "ua": "Always — перед дієсловом.",
+              "ru": "Always — перед глаголом."
+            },
+            "id": "a1-u18-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "frequency-adverbs",
+            "question": "0% = ___",
+            "options": [
+              "never",
+              "sometimes",
+              "usually"
+            ],
+            "answer": "never",
+            "explain": {
+              "ua": "0% — never.",
+              "ru": "0% — never."
+            },
+            "id": "a1-u18-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "at 7 · at night · on Monday · on Sundays · in the morning · in June",
+        "explain": {
+          "ua": "At — точний час (at 7, at night). On — дні (on Monday). In — частини дня, місяці, роки (in the morning, in May).",
+          "ru": "At — точное время (at 7, at night). On — дни (on Monday). In — части дня, месяцы, годы (in the morning, in May)."
+        },
+        "examples": [
+          {
+            "en": "I get up at 7.",
+            "ua": "Я встаю о сьомій.",
+            "ru": "Я встаю в семь."
+          },
+          {
+            "en": "We relax on Sundays.",
+            "ua": "Ми відпочиваємо по неділях.",
+            "ru": "Мы отдыхаем по воскресеньям."
+          },
+          {
+            "en": "She works in the afternoon.",
+            "ua": "Вона працює вдень.",
+            "ru": "Она работает днём."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I start work ___ 9 o'clock.",
+          "options": [
+            "at",
+            "on",
+            "in"
+          ],
+          "answer": "at",
+          "explain": {
+            "ua": "Година — at.",
+            "ru": "Час — at."
+          },
+          "id": "a1-u18-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "We play football ___ Saturday.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "День тижня — on.",
+            "ru": "День недели — on."
+          },
+          "id": "a1-u18-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I read ___ the evening.",
+          "options": [
+            "in",
+            "at",
+            "on"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Частина дня — in the evening.",
+            "ru": "Часть дня — in the evening."
+          },
+          "id": "a1-u18-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "prepositions-time",
+          "question": "I sleep ___ night.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": "at",
+          "explain": {
+            "ua": "Виняток: at night.",
+            "ru": "Исключение: at night."
+          },
+          "id": "a1-u18-l02-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "prepositions-time",
+          "bank": [
+            "at",
+            "on",
+            "in"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ 6 o'clock",
+            "___ Monday",
+            "___ the morning",
+            "___ night"
+          ],
+          "answers": [
+            "at",
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": {
+            "ua": "at 6, on Monday, in the morning, at night.",
+            "ru": "at 6, on Monday, in the morning, at night."
+          },
+          "id": "a1-u18-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-time",
+          "sentence": "I get up in 7.",
+          "answer": "I get up at 7.",
+          "accept": [
+            "I get up at seven."
+          ],
+          "explain": {
+            "ua": "Година — at.",
+            "ru": "Час — at."
+          },
+          "id": "a1-u18-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "prepositions-time",
+          "sentence": "We go to the gym in Mondays.",
+          "answer": "We go to the gym on Mondays.",
+          "accept": [],
+          "explain": {
+            "ua": "Дні — on.",
+            "ru": "Дни — on."
+          },
+          "id": "a1-u18-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "prepositions-time",
+          "audio_text": "See you on Friday!",
+          "options": [
+            "See you on Friday!",
+            "See you in Friday!",
+            "See you at Friday!"
+          ],
+          "answer": "See you on Friday!",
+          "audio": "",
+          "explain": {
+            "ua": "On Friday.",
+            "ru": "On Friday."
+          },
+          "id": "a1-u18-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "prepositions-time",
+          "prompt": {
+            "ua": "Вона працює вранці.",
+            "ru": "Она работает утром."
+          },
+          "answer": "She works in the morning.",
+          "accept": [],
+          "explain": {
+            "ua": "In the morning.",
+            "ru": "In the morning."
+          },
+          "id": "a1-u18-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u18-l03",
+      "title": {
+        "en": "Practice: my week",
+        "ua": "Практика: мій тиждень",
+        "ru": "Практика: моя неделя"
+      },
+      "recap": {
+        "from": "a1-u18-l02",
+        "note": {
+          "ua": "Згадаймо: at 7 · at night · on Monday · on Sundays · in the morning · in June",
+          "ru": "Вспомним: at 7 · at night · on Monday · on Sundays · in the morning · in June"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I start work ___ 9 o'clock.",
+            "options": [
+              "at",
+              "on",
+              "in"
+            ],
+            "answer": "at",
+            "explain": {
+              "ua": "Година — at.",
+              "ru": "Час — at."
+            },
+            "id": "a1-u18-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I sleep ___ night.",
+            "options": [
+              "at",
+              "in",
+              "on"
+            ],
+            "answer": "at",
+            "explain": {
+              "ua": "Виняток: at night.",
+              "ru": "Исключение: at night."
+            },
+            "id": "a1-u18-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "frequency-time",
+          "question": "He ___ to the gym on Mondays.",
+          "options": [
+            "usually goes",
+            "goes usually",
+            "usually go"
+          ],
+          "answer": "usually goes",
+          "explain": {
+            "ua": "Usually перед дієсловом, + -es.",
+            "ru": "Usually перед глаголом, + -es."
+          },
+          "id": "a1-u18-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "frequency-time",
+          "question": "The shop opens ___ 8 ___ the morning.",
+          "options": [
+            "at / in",
+            "in / at",
+            "on / in"
+          ],
+          "answer": "at / in",
+          "explain": {
+            "ua": "At 8, in the morning.",
+            "ru": "At 8, in the morning."
+          },
+          "id": "a1-u18-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "When does Sasha swim?",
+              "options": [
+                "on Saturdays",
+                "on Mondays",
+                "every day"
+              ],
+              "answer": "on Saturdays"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Sasha always cooks.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Sasha never works on Sundays.",
+              "answer": true
+            }
+          ],
+          "text": "I usually get up at 7. I always drink coffee in the morning. I work from Monday to Friday. I sometimes cook in the evening, but I often eat in a café. On Saturdays I swim. I never work on Sundays — I relax!",
+          "explain": {
+            "ua": "Swims on Saturdays, sometimes cooks, never works on Sundays.",
+            "ru": "Swims on Saturdays, sometimes cooks, never works on Sundays."
+          },
+          "id": "a1-u18-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "frequency-time",
+          "bank": [
+            "always",
+            "sometimes",
+            "never",
+            "usually"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Sasha ___ gets up at 7.",
+            "She ___ drinks coffee.",
+            "She ___ cooks.",
+            "She ___ works on Sundays."
+          ],
+          "answers": [
+            "usually",
+            "always",
+            "sometimes",
+            "never"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u18-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "frequency-time",
+          "sentence": "She is late never.",
+          "answer": "She is never late.",
+          "accept": [],
+          "explain": {
+            "ua": "Після is → never.",
+            "ru": "После is → never."
+          },
+          "id": "a1-u18-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "frequency-time",
+          "sentence": "I go to the cinema at Friday.",
+          "answer": "I go to the cinema on Friday.",
+          "accept": [],
+          "explain": {
+            "ua": "Дні — on.",
+            "ru": "Дни — on."
+          },
+          "id": "a1-u18-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "often",
+            "have",
+            "We",
+            "at",
+            "dinner",
+            "eight"
+          ],
+          "answer": "We often have dinner at eight",
+          "explain": {
+            "ua": "We → often → have dinner → at eight.",
+            "ru": "We → often → have dinner → at eight."
+          },
+          "id": "a1-u18-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "frequency-time",
+          "audio_text": "I usually get up early.",
+          "options": [
+            "I usually get up early.",
+            "I usually get up late.",
+            "I usual get up early."
+          ],
+          "answer": "I usually get up early.",
+          "audio": "",
+          "explain": {
+            "ua": "Usually — «южуалі».",
+            "ru": "Usually — «южуали»."
+          },
+          "id": "a1-u18-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "frequency-time",
+          "prompt": {
+            "ua": "Я іноді готую ввечері.",
+            "ru": "Я иногда готовлю вечером."
+          },
+          "answer": "I sometimes cook in the evening.",
+          "accept": [
+            "Sometimes I cook in the evening."
+          ],
+          "explain": {
+            "ua": "Sometimes + cook + in the evening.",
+            "ru": "Sometimes + cook + in the evening."
+          },
+          "id": "a1-u18-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "frequency-time",
+          "prompt": {
+            "ua": "Він завжди зайнятий.",
+            "ru": "Он всегда занят."
+          },
+          "answer": "He is always busy.",
+          "accept": [
+            "He's always busy."
+          ],
+          "explain": {
+            "ua": "Is always busy.",
+            "ru": "Is always busy."
+          },
+          "id": "a1-u18-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "frequency-adverbs",
+      "question": "I ___ get up at 6.",
+      "options": [
+        "always",
+        "am always",
+        "always am"
+      ],
+      "answer": "always",
+      "explain": {
+        "ua": "Перед дієсловом.",
+        "ru": "Перед глаголом."
+      },
+      "id": "a1-u18-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "frequency-adverbs",
+      "question": "He ___ late.",
+      "options": [
+        "is never",
+        "never is",
+        "doesn't never"
+      ],
+      "answer": "is never",
+      "explain": {
+        "ua": "Після is.",
+        "ru": "После is."
+      },
+      "id": "a1-u18-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "___ Monday",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": "on",
+      "explain": {
+        "ua": "Дні — on.",
+        "ru": "Дни — on."
+      },
+      "id": "a1-u18-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "___ 5 o'clock",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": "at",
+      "explain": {
+        "ua": "Година — at.",
+        "ru": "Час — at."
+      },
+      "id": "a1-u18-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-time",
+      "question": "___ the afternoon",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "in",
+      "explain": {
+        "ua": "In the afternoon.",
+        "ru": "In the afternoon."
+      },
+      "id": "a1-u18-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "prepositions-time",
+      "question": "I ___ night",
+      "answer": "at",
+      "accept": [],
+      "explain": {
+        "ua": "At night.",
+        "ru": "At night."
+      },
+      "id": "a1-u18-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "frequency-adverbs",
+      "pairs": [
+        {
+          "left": "always",
+          "right": {
+            "ua": "завжди",
+            "ru": "всегда"
+          }
+        },
+        {
+          "left": "often",
+          "right": {
+            "ua": "часто",
+            "ru": "часто"
+          }
+        },
+        {
+          "left": "sometimes",
+          "right": {
+            "ua": "іноді",
+            "ru": "иногда"
+          }
+        },
+        {
+          "left": "never",
+          "right": {
+            "ua": "ніколи",
+            "ru": "никогда"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Частотність.",
+        "ru": "Частотность."
+      },
+      "id": "a1-u18-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "frequency-adverbs",
+      "sentence": "She doesn't never cook.",
+      "answer": "She never cooks.",
+      "accept": [],
+      "explain": {
+        "ua": "Never без doesn't.",
+        "ru": "Never без doesn't."
+      },
+      "id": "a1-u18-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "frequency-adverbs",
+      "sentence": "We play tennis usually.",
+      "answer": "We usually play tennis.",
+      "accept": [],
+      "explain": {
+        "ua": "Usually — перед дієсловом.",
+        "ru": "Usually — перед глаголом."
+      },
+      "id": "a1-u18-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "frequency-adverbs",
+      "words": [
+        "the",
+        "evening",
+        "often",
+        "read",
+        "I",
+        "in"
+      ],
+      "answer": "I often read in the evening",
+      "explain": {
+        "ua": "I → often → read → in the evening.",
+        "ru": "I → often → read → in the evening."
+      },
+      "id": "a1-u18-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "frequency-adverbs",
+      "prompt": {
+        "ua": "Ми зазвичай вечеряємо о сьомій.",
+        "ru": "Мы обычно ужинаем в семь."
+      },
+      "answer": "We usually have dinner at 7.",
+      "accept": [
+        "We usually have dinner at seven."
+      ],
+      "explain": {
+        "ua": "Usually + have dinner + at 7.",
+        "ru": "Usually + have dinner + at 7."
+      },
+      "id": "a1-u18-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "prepositions-time",
+      "audio_text": "He sometimes works on Saturdays.",
+      "options": [
+        "He sometimes works on Saturdays.",
+        "He sometime works on Saturdays.",
+        "He sometimes works in Saturdays."
+      ],
+      "answer": "He sometimes works on Saturdays.",
+      "audio": "",
+      "explain": {
+        "ua": "On Saturdays.",
+        "ru": "On Saturdays."
+      },
+      "id": "a1-u18-cp12"
+    }
+  ]
+}

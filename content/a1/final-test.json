@@ -1,0 +1,536 @@
+{
+  "id": "a1-final",
+  "level": "A1",
+  "kind": "final-test",
+  "title": {
+    "en": "A1 final test",
+    "ua": "Фінальний тест A1",
+    "ru": "Финальный тест A1"
+  },
+  "pass_score": 0.8,
+  "exercises": [
+    {
+      "type": "choose",
+      "topic": "to-be-forms",
+      "question": "It ___ a dog.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "It → is.",
+        "ru": "It → is."
+      },
+      "id": "a1-final-01",
+      "source": "a1-u01-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "to-be-questions-negatives",
+      "question": "___ the dog hungry?",
+      "answer": "Is",
+      "accept": [],
+      "explain": {
+        "ua": "The dog = it → Is…?",
+        "ru": "The dog = it → Is…?"
+      },
+      "id": "a1-final-02",
+      "source": "a1-u02-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Радий познайомитися!",
+        "ru": "Приятно познакомиться!"
+      },
+      "answer": "Nice to meet you!",
+      "accept": [],
+      "explain": {
+        "ua": "Nice to meet you!",
+        "ru": "Nice to meet you!"
+      },
+      "id": "a1-final-03",
+      "source": "a1-u03-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "pronouns-subject",
+      "question": "My phone is old. ___ is black.",
+      "options": [
+        "It",
+        "He",
+        "She"
+      ],
+      "answer": "It",
+      "explain": {
+        "ua": "Речі — it.",
+        "ru": "Предметы — it."
+      },
+      "id": "a1-final-04",
+      "source": "a1-u04-cp04"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "parents",
+        "These",
+        "are",
+        "my"
+      ],
+      "answer": "These are my parents",
+      "explain": {
+        "ua": "These are → my parents.",
+        "ru": "These are → my parents."
+      },
+      "id": "a1-final-05",
+      "source": "a1-u05-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-a-an",
+      "question": "___ hour",
+      "options": [
+        "an",
+        "a"
+      ],
+      "answer": "an",
+      "explain": {
+        "ua": "Hour → an.",
+        "ru": "Hour → an."
+      },
+      "id": "a1-final-06",
+      "source": "a1-u06-cp02"
+    },
+    {
+      "type": "associate",
+      "topic": "vocab",
+      "cue": "teeth",
+      "answer": "dentist",
+      "accept": [
+        "a dentist"
+      ],
+      "explain": {
+        "ua": "Зуби → стоматолог.",
+        "ru": "Зубы → стоматолог."
+      },
+      "id": "a1-final-07",
+      "source": "a1-u07-cp07"
+    },
+    {
+      "type": "translate",
+      "topic": "plural-irregular",
+      "prompt": {
+        "ua": "Мої зуби білі.",
+        "ru": "Мои зубы белые."
+      },
+      "answer": "My teeth are white.",
+      "accept": [],
+      "explain": {
+        "ua": "Tooth → teeth.",
+        "ru": "Tooth → teeth."
+      },
+      "id": "a1-final-08",
+      "source": "a1-u08-cp12"
+    },
+    {
+      "type": "fill",
+      "topic": "demonstratives",
+      "question": "___ shoes are new. (here 👋)",
+      "answer": "These",
+      "accept": [],
+      "explain": {
+        "ua": "Поруч, множина → these.",
+        "ru": "Рядом, множественное → these."
+      },
+      "id": "a1-final-09",
+      "source": "a1-u09-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "A",
+        "please",
+        "of",
+        "water",
+        "glass"
+      ],
+      "answer": "A glass of water please",
+      "explain": {
+        "ua": "A glass of water → please.",
+        "ru": "A glass of water → please."
+      },
+      "id": "a1-final-10",
+      "source": "a1-u10-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "there-is-are",
+      "question": "___ there any shops near here?",
+      "options": [
+        "Are",
+        "Is",
+        "Do"
+      ],
+      "answer": "Are",
+      "explain": {
+        "ua": "Shops → Are there…?",
+        "ru": "Shops → Are there…?"
+      },
+      "id": "a1-final-11",
+      "source": "a1-u11-cp03"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "kitchen",
+        "bathroom",
+        "square"
+      ],
+      "reuse": false,
+      "sentences": [
+        "Cook in the ___.",
+        "Take a shower in the ___.",
+        "Meet friends in the ___."
+      ],
+      "answers": [
+        "kitchen",
+        "bathroom",
+        "square"
+      ],
+      "explain": {
+        "ua": "Кухня, ванна, площа.",
+        "ru": "Кухня, ванная, площадь."
+      },
+      "id": "a1-final-12",
+      "source": "a1-u12-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "I ___ got a cat.",
+      "options": [
+        "have",
+        "has",
+        "am"
+      ],
+      "answer": "have",
+      "explain": {
+        "ua": "I → have.",
+        "ru": "I → have."
+      },
+      "id": "a1-final-13",
+      "source": "a1-u13-cp01"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Hair on a man's face.",
+      "answer": "beard",
+      "accept": [
+        "a beard"
+      ],
+      "explain": {
+        "ua": "Beard.",
+        "ru": "Beard."
+      },
+      "id": "a1-final-14",
+      "source": "a1-u14-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "present-simple",
+      "prompt": {
+        "ua": "Вона розмовляє англійською.",
+        "ru": "Она говорит по-английски."
+      },
+      "answer": "She speaks English.",
+      "accept": [],
+      "explain": {
+        "ua": "She → speaks.",
+        "ru": "She → speaks."
+      },
+      "id": "a1-final-15",
+      "source": "a1-u15-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "Do you cook? — No, I ___.",
+      "options": [
+        "don't",
+        "doesn't",
+        "am not"
+      ],
+      "answer": "don't",
+      "explain": {
+        "ua": "No, I don't.",
+        "ru": "No, I don't."
+      },
+      "id": "a1-final-16",
+      "source": "a1-u16-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "He take a shower.",
+      "answer": "He takes a shower.",
+      "accept": [],
+      "explain": {
+        "ua": "He → takes.",
+        "ru": "He → takes."
+      },
+      "id": "a1-final-17",
+      "source": "a1-u17-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "frequency-adverbs",
+      "question": "He ___ late.",
+      "options": [
+        "is never",
+        "never is",
+        "doesn't never"
+      ],
+      "answer": "is never",
+      "explain": {
+        "ua": "Після is.",
+        "ru": "После is."
+      },
+      "id": "a1-final-18",
+      "source": "a1-u18-cp02"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "spring",
+          "right": {
+            "ua": "весна",
+            "ru": "весна"
+          }
+        },
+        {
+          "left": "autumn",
+          "right": {
+            "ua": "осінь",
+            "ru": "осень"
+          }
+        },
+        {
+          "left": "week",
+          "right": {
+            "ua": "тиждень",
+            "ru": "неделя"
+          }
+        },
+        {
+          "left": "year",
+          "right": {
+            "ua": "рік",
+            "ru": "год"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-final-19",
+      "source": "a1-u19-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "can",
+      "audio_text": "He can't ride a bike.",
+      "options": [
+        "He can't ride a bike.",
+        "He can ride a bike.",
+        "He can't ride a bus."
+      ],
+      "answer": "He can't ride a bike.",
+      "audio": "",
+      "explain": {
+        "ua": "Can't.",
+        "ru": "Can't."
+      },
+      "id": "a1-final-20",
+      "source": "a1-u20-cp12"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Your favourite thing to do in your free time.",
+      "answer": "hobby",
+      "accept": [
+        "a hobby"
+      ],
+      "explain": {
+        "ua": "Hobby.",
+        "ru": "Hobby."
+      },
+      "id": "a1-final-21",
+      "source": "a1-u21-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Is",
+        "now",
+        "it",
+        "raining"
+      ],
+      "answer": "Is it raining now",
+      "explain": {
+        "ua": "Is → it → raining → now?",
+        "ru": "Is → it → raining → now?"
+      },
+      "id": "a1-final-22",
+      "source": "a1-u22-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "prepositions-place",
+      "question": "The dog is ___ the table. It's sleeping there.",
+      "options": [
+        "under",
+        "between",
+        "on"
+      ],
+      "answer": "under",
+      "explain": {
+        "ua": "Under.",
+        "ru": "Under."
+      },
+      "id": "a1-final-23",
+      "source": "a1-u23-cp03"
+    },
+    {
+      "type": "fix",
+      "topic": "past-to-be",
+      "sentence": "We was in Paris.",
+      "answer": "We were in Paris.",
+      "accept": [],
+      "explain": {
+        "ua": "We → were.",
+        "ru": "We → were."
+      },
+      "id": "a1-final-24",
+      "source": "a1-u24-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple",
+      "question": "Yesterday she ___ dinner.",
+      "options": [
+        "cooked",
+        "cook",
+        "cooks"
+      ],
+      "answer": "cooked",
+      "explain": {
+        "ua": "Yesterday → -ed.",
+        "ru": "Yesterday → -ed."
+      },
+      "id": "a1-final-25",
+      "source": "a1-u25-cp01"
+    },
+    {
+      "type": "listen",
+      "topic": "to-be-questions-negatives",
+      "audio_text": "Is it closed?",
+      "options": [
+        "Is it closed?",
+        "It is closed.",
+        "Is it cold?"
+      ],
+      "answer": "Is it closed?",
+      "audio": "",
+      "explain": {
+        "ua": "Is на початку — це питання.",
+        "ru": "Is в начале — это вопрос."
+      },
+      "id": "a1-final-26",
+      "source": "a1-u02-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "present-simple",
+      "audio_text": "He does yoga every day.",
+      "options": [
+        "He does yoga every day.",
+        "He do yoga every day.",
+        "He goes yoga every day."
+      ],
+      "answer": "He does yoga every day.",
+      "audio": "",
+      "explain": {
+        "ua": "Does.",
+        "ru": "Does."
+      },
+      "id": "a1-final-27",
+      "source": "a1-u15-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "present-simple",
+      "audio_text": "Does she work at the weekend?",
+      "options": [
+        "Does she work at the weekend?",
+        "Do she work at the weekend?",
+        "Does she walk at the weekend?"
+      ],
+      "answer": "Does she work at the weekend?",
+      "audio": "",
+      "explain": {
+        "ua": "Does she work.",
+        "ru": "Does she work."
+      },
+      "id": "a1-final-28",
+      "source": "a1-u16-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "present-continuous",
+      "audio_text": "She's wearing a red dress.",
+      "options": [
+        "She's wearing a red dress.",
+        "She wears a red dress.",
+        "She's wearing a red dog."
+      ],
+      "answer": "She's wearing a red dress.",
+      "audio": "",
+      "explain": {
+        "ua": "Is wearing.",
+        "ru": "Is wearing."
+      },
+      "id": "a1-final-29",
+      "source": "a1-u22-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "past-simple",
+      "audio_text": "I visited my grandparents.",
+      "options": [
+        "I visited my grandparents.",
+        "I visit my grandparents.",
+        "I visited my parents."
+      ],
+      "answer": "I visited my grandparents.",
+      "audio": "",
+      "explain": {
+        "ua": "Visited — /ɪd/.",
+        "ru": "Visited — /ɪd/."
+      },
+      "id": "a1-final-30",
+      "source": "a1-u25-cp12"
+    }
+  ]
+}

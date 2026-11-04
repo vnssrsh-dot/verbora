@@ -1,0 +1,1476 @@
+{
+  "id": "a1-u07",
+  "level": "A1",
+  "order": 7,
+  "kind": "vocab",
+  "title": {
+    "en": "Jobs",
+    "ua": "Професії",
+    "ru": "Профессии"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "doctor",
+      "ipa": "/ˈdɒktə/",
+      "ua": "лікар",
+      "ru": "врач",
+      "example": "She is a doctor.",
+      "audio": ""
+    },
+    {
+      "word": "nurse",
+      "ipa": "/nɜːs/",
+      "ua": "медсестра, медбрат",
+      "ru": "медсестра, медбрат",
+      "example": "He is a nurse.",
+      "audio": ""
+    },
+    {
+      "word": "dentist",
+      "ipa": "/ˈdentɪst/",
+      "ua": "стоматолог",
+      "ru": "стоматолог",
+      "example": "The dentist is kind.",
+      "audio": ""
+    },
+    {
+      "word": "vet",
+      "ipa": "/vet/",
+      "ua": "ветеринар",
+      "ru": "ветеринар",
+      "example": "My aunt is a vet.",
+      "audio": ""
+    },
+    {
+      "word": "teacher",
+      "ipa": "/ˈtiːtʃə/",
+      "ua": "вчитель",
+      "ru": "учитель",
+      "example": "He is a teacher.",
+      "audio": ""
+    },
+    {
+      "word": "cook",
+      "ipa": "/kʊk/",
+      "ua": "кухар",
+      "ru": "повар",
+      "example": "The cook is from Italy.",
+      "audio": ""
+    },
+    {
+      "word": "waiter",
+      "ipa": "/ˈweɪtə/",
+      "ua": "офіціант",
+      "ru": "официант",
+      "example": "The waiter is busy.",
+      "audio": ""
+    },
+    {
+      "word": "driver",
+      "ipa": "/ˈdraɪvə/",
+      "ua": "водій",
+      "ru": "водитель",
+      "example": "My dad is a bus driver.",
+      "audio": ""
+    },
+    {
+      "word": "builder",
+      "ipa": "/ˈbɪldə/",
+      "ua": "будівельник",
+      "ru": "строитель",
+      "example": "He is a builder.",
+      "audio": ""
+    },
+    {
+      "word": "police officer",
+      "ipa": "/pəˈliːs ˌɒfɪsə/",
+      "ua": "поліцейський",
+      "ru": "полицейский",
+      "example": "She is a police officer.",
+      "audio": ""
+    },
+    {
+      "word": "shop assistant",
+      "ipa": "/ˈʃɒp əˌsɪstənt/",
+      "ua": "продавець-консультант",
+      "ru": "продавец-консультант",
+      "example": "The shop assistant is friendly.",
+      "audio": ""
+    },
+    {
+      "word": "hairdresser",
+      "ipa": "/ˈheədresə/",
+      "ua": "перукар",
+      "ru": "парикмахер",
+      "example": "My sister is a hairdresser.",
+      "audio": ""
+    },
+    {
+      "word": "programmer",
+      "ipa": "/ˈprəʊɡræmə/",
+      "ua": "програміст",
+      "ru": "программист",
+      "example": "He is a programmer.",
+      "audio": ""
+    },
+    {
+      "word": "engineer",
+      "ipa": "/ˌendʒɪˈnɪə/",
+      "ua": "інженер",
+      "ru": "инженер",
+      "example": "She is an engineer.",
+      "audio": ""
+    },
+    {
+      "word": "photographer",
+      "ipa": "/fəˈtɒɡrəfə/",
+      "ua": "фотограф",
+      "ru": "фотограф",
+      "example": "Our friend is a photographer.",
+      "audio": ""
+    },
+    {
+      "word": "designer",
+      "ipa": "/dɪˈzaɪnə/",
+      "ua": "дизайнер",
+      "ru": "дизайнер",
+      "example": "I'm a designer.",
+      "audio": ""
+    },
+    {
+      "word": "job",
+      "ipa": "/dʒɒb/",
+      "ua": "робота, посада",
+      "ru": "работа, должность",
+      "example": "What's your job?",
+      "audio": ""
+    },
+    {
+      "word": "work as",
+      "ipa": "/ˈwɜːk æz/",
+      "ua": "працювати ким",
+      "ru": "работать кем",
+      "example": "I work as a nurse.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u07-l01",
+      "title": {
+        "en": "Jobs 1: health and service",
+        "ua": "Професії 1: здоров'я і сервіс",
+        "ru": "Профессии 1: здоровье и сервис"
+      },
+      "recap": {
+        "from": "a1-u06-l03",
+        "note": {
+          "ua": "Згадаймо: без артикля: множина взагалі · незлічувані · my / his · імена",
+          "ru": "Вспомним: без артикля: множественное вообще · неисчисляемые · my / his · имена"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-zero",
+            "question": "I love ___ music.",
+            "options": [
+              "—",
+              "a",
+              "an"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Музика взагалі — без артикля.",
+              "ru": "Музыка вообще — без артикля."
+            },
+            "id": "a1-u07-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-a-an",
+            "question": "He is ___ doctor.",
+            "options": [
+              "a",
+              "—",
+              "the"
+            ],
+            "answer": "a",
+            "explain": {
+              "ua": "Професія → a: He is a doctor.",
+              "ru": "Профессия → a: He is a doctor."
+            },
+            "id": "a1-u07-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "doctor",
+              "right": {
+                "ua": "лікар",
+                "ru": "врач"
+              }
+            },
+            {
+              "left": "nurse",
+              "right": {
+                "ua": "медсестра",
+                "ru": "медсестра"
+              }
+            },
+            {
+              "left": "vet",
+              "right": {
+                "ua": "ветеринар",
+                "ru": "ветеринар"
+              }
+            },
+            {
+              "left": "waiter",
+              "right": {
+                "ua": "офіціант",
+                "ru": "официант"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u07-l01-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who treats animals.",
+          "answer": "vet",
+          "accept": [
+            "a vet"
+          ],
+          "explain": {
+            "ua": "Vet — ветеринар.",
+            "ru": "Vet — ветеринар."
+          },
+          "id": "a1-u07-l01-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who treats teeth.",
+          "answer": "dentist",
+          "accept": [
+            "a dentist"
+          ],
+          "explain": {
+            "ua": "Dentist — стоматолог.",
+            "ru": "Dentist — стоматолог."
+          },
+          "id": "a1-u07-l01-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who brings food in a café.",
+          "answer": "waiter",
+          "accept": [
+            "a waiter",
+            "waitress"
+          ],
+          "explain": {
+            "ua": "Waiter — офіціант.",
+            "ru": "Waiter — официант."
+          },
+          "id": "a1-u07-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A person who cooks food in a restaurant is a ___.",
+          "options": [
+            "cook",
+            "cooker",
+            "doctor"
+          ],
+          "answer": "cook",
+          "explain": {
+            "ua": "Cook — кухар. Cooker — це плита!",
+            "ru": "Cook — повар. Cooker — это плита!"
+          },
+          "id": "a1-u07-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She helps the doctor in the hospital. She is a ___.",
+          "options": [
+            "nurse",
+            "teacher",
+            "driver"
+          ],
+          "answer": "nurse",
+          "explain": {
+            "ua": "Nurse — медсестра.",
+            "ru": "Nurse — медсестра."
+          },
+          "id": "a1-u07-l01-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "teeth",
+          "answer": "dentist",
+          "accept": [
+            "a dentist"
+          ],
+          "explain": {
+            "ua": "Зуби → стоматолог.",
+            "ru": "Зубы → стоматолог."
+          },
+          "id": "a1-u07-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/nɜːs/",
+          "options": [
+            "nurse",
+            "nose",
+            "nice"
+          ],
+          "answer": "nurse",
+          "explain": {
+            "ua": "/ɜː/ — як «йо» без й.",
+            "ru": "/ɜː/ — как «ё» без й."
+          },
+          "id": "a1-u07-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вона ветеринар.",
+            "ru": "Она ветеринар."
+          },
+          "answer": "She is a vet.",
+          "accept": [
+            "She's a vet."
+          ],
+          "explain": {
+            "ua": "Професія — з a.",
+            "ru": "Профессия — с a."
+          },
+          "id": "a1-u07-l01-e09"
+        }
+      ],
+      "words": [
+        "doctor",
+        "nurse",
+        "dentist",
+        "vet",
+        "teacher",
+        "cook",
+        "waiter",
+        "shop assistant",
+        "hairdresser"
+      ]
+    },
+    {
+      "id": "a1-u07-l02",
+      "title": {
+        "en": "Jobs 2: building, driving, IT",
+        "ua": "Професії 2: будівництво, транспорт, IT",
+        "ru": "Профессии 2: стройка, транспорт, IT"
+      },
+      "recap": {
+        "from": "a1-u07-l01",
+        "note": {
+          "ua": "Згадаймо: Професії 1: здоров'я і сервіс",
+          "ru": "Вспомним: Профессии 1: здоровье и сервис"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A person who treats animals.",
+            "answer": "vet",
+            "accept": [
+              "a vet"
+            ],
+            "explain": {
+              "ua": "Vet — ветеринар.",
+              "ru": "Vet — ветеринар."
+            },
+            "id": "a1-u07-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "A person who cooks food in a restaurant is a ___.",
+            "options": [
+              "cook",
+              "cooker",
+              "doctor"
+            ],
+            "answer": "cook",
+            "explain": {
+              "ua": "Cook — кухар. Cooker — це плита!",
+              "ru": "Cook — повар. Cooker — это плита!"
+            },
+            "id": "a1-u07-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "driver",
+              "right": {
+                "ua": "водій",
+                "ru": "водитель"
+              }
+            },
+            {
+              "left": "builder",
+              "right": {
+                "ua": "будівельник",
+                "ru": "строитель"
+              }
+            },
+            {
+              "left": "programmer",
+              "right": {
+                "ua": "програміст",
+                "ru": "программист"
+              }
+            },
+            {
+              "left": "designer",
+              "right": {
+                "ua": "дизайнер",
+                "ru": "дизайнер"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u07-l02-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who drives a bus or a taxi.",
+          "answer": "driver",
+          "accept": [
+            "a driver",
+            "bus driver",
+            "taxi driver"
+          ],
+          "explain": {
+            "ua": "Driver — водій.",
+            "ru": "Driver — водитель."
+          },
+          "id": "a1-u07-l02-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who builds houses.",
+          "answer": "builder",
+          "accept": [
+            "a builder"
+          ],
+          "explain": {
+            "ua": "Build + -er.",
+            "ru": "Build + -er."
+          },
+          "id": "a1-u07-l02-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who takes photos.",
+          "answer": "photographer",
+          "accept": [
+            "a photographer"
+          ],
+          "explain": {
+            "ua": "Photo + -grapher.",
+            "ru": "Photo + -grapher."
+          },
+          "id": "a1-u07-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He writes code. He is a ___.",
+          "options": [
+            "programmer",
+            "builder",
+            "cook"
+          ],
+          "answer": "programmer",
+          "explain": {
+            "ua": "Code → programmer.",
+            "ru": "Code → programmer."
+          },
+          "id": "a1-u07-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She is ___ engineer.",
+          "options": [
+            "an",
+            "a",
+            "—"
+          ],
+          "answer": "an",
+          "explain": {
+            "ua": "Engineer — голосний звук → an.",
+            "ru": "Engineer — гласный звук → an."
+          },
+          "id": "a1-u07-l02-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "computer",
+          "answer": "programmer",
+          "accept": [
+            "a programmer",
+            "engineer"
+          ],
+          "explain": {
+            "ua": "Комп'ютер → програміст.",
+            "ru": "Компьютер → программист."
+          },
+          "id": "a1-u07-l02-e07"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "camera",
+          "answer": "photographer",
+          "accept": [
+            "a photographer"
+          ],
+          "explain": {
+            "ua": "Камера → фотограф.",
+            "ru": "Камера → фотограф."
+          },
+          "id": "a1-u07-l02-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/fəˈtɒɡrəfə/",
+          "options": [
+            "photographer",
+            "photograph",
+            "physical"
+          ],
+          "answer": "photographer",
+          "explain": {
+            "ua": "Наголос на другому складі: pho-TO-grapher.",
+            "ru": "Ударение на втором слоге: pho-TO-grapher."
+          },
+          "id": "a1-u07-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій тато водій автобуса.",
+            "ru": "Мой папа водитель автобуса."
+          },
+          "answer": "My dad is a bus driver.",
+          "accept": [
+            "My father is a bus driver."
+          ],
+          "explain": {
+            "ua": "Bus driver — водій автобуса.",
+            "ru": "Bus driver — водитель автобуса."
+          },
+          "id": "a1-u07-l02-e10"
+        }
+      ],
+      "words": [
+        "driver",
+        "builder",
+        "police officer",
+        "programmer",
+        "engineer",
+        "photographer",
+        "designer"
+      ]
+    },
+    {
+      "id": "a1-u07-l03",
+      "title": {
+        "en": "What's your job?",
+        "ua": "Ким ти працюєш?",
+        "ru": "Кем ты работаешь?"
+      },
+      "recap": {
+        "from": "a1-u07-l02",
+        "note": {
+          "ua": "Згадаймо: Професії 2: будівництво, транспорт, IT",
+          "ru": "Вспомним: Профессии 2: стройка, транспорт, IT"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A person who drives a bus or a taxi.",
+            "answer": "driver",
+            "accept": [
+              "a driver",
+              "bus driver",
+              "taxi driver"
+            ],
+            "explain": {
+              "ua": "Driver — водій.",
+              "ru": "Driver — водитель."
+            },
+            "id": "a1-u07-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "He writes code. He is a ___.",
+            "options": [
+              "programmer",
+              "builder",
+              "cook"
+            ],
+            "answer": "programmer",
+            "explain": {
+              "ua": "Code → programmer.",
+              "ru": "Code → programmer."
+            },
+            "id": "a1-u07-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "What's your job?",
+              "right": "I'm a designer."
+            },
+            {
+              "left": "Where do you work?",
+              "right": "In a hospital."
+            },
+            {
+              "left": "Is she a nurse?",
+              "right": "Yes, she is."
+            },
+            {
+              "left": "Are you a cook?",
+              "right": "No, I'm not."
+            }
+          ],
+          "explain": {
+            "ua": "Питання — відповідь.",
+            "ru": "Вопрос — ответ."
+          },
+          "id": "a1-u07-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's your ___? — I'm a teacher.",
+          "options": [
+            "job",
+            "work as",
+            "name"
+          ],
+          "answer": "job",
+          "explain": {
+            "ua": "What's your job? — ким ти працюєш?",
+            "ru": "What's your job? — кем ты работаешь?"
+          },
+          "id": "a1-u07-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work ___ a waiter.",
+          "options": [
+            "as",
+            "like",
+            "is"
+          ],
+          "answer": "as",
+          "explain": {
+            "ua": "Work as — працювати ким.",
+            "ru": "Work as — работать кем."
+          },
+          "id": "a1-u07-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She ___ a hairdresser.",
+          "options": [
+            "is",
+            "are",
+            "work"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "She is a…",
+            "ru": "She is a…"
+          },
+          "id": "a1-u07-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "I'm ___ programmer.",
+          "answer": "a",
+          "accept": [],
+          "explain": {
+            "ua": "Професія — з a / an.",
+            "ru": "Профессия — с a / an."
+          },
+          "id": "a1-u07-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-a-an",
+          "sentence": "He is doctor.",
+          "answer": "He is a doctor.",
+          "accept": [],
+          "explain": {
+            "ua": "Перед професією — a.",
+            "ru": "Перед профессией — a."
+          },
+          "id": "a1-u07-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I work like a nurse.",
+          "answer": "I work as a nurse.",
+          "accept": [],
+          "explain": {
+            "ua": "Працювати ким — work as, не like.",
+            "ru": "Работать кем — work as, не like."
+          },
+          "id": "a1-u07-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "your",
+            "job",
+            "What",
+            "is"
+          ],
+          "answer": "What is your job",
+          "explain": {
+            "ua": "What → is → your job?",
+            "ru": "What → is → your job?"
+          },
+          "id": "a1-u07-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я працюю дизайнером.",
+            "ru": "Я работаю дизайнером."
+          },
+          "answer": "I work as a designer.",
+          "accept": [
+            "I'm a designer.",
+            "I am a designer."
+          ],
+          "explain": {
+            "ua": "Work as a…",
+            "ru": "Work as a…"
+          },
+          "id": "a1-u07-l03-e09"
+        }
+      ],
+      "words": [
+        "job",
+        "work as"
+      ]
+    },
+    {
+      "id": "a1-u07-l04",
+      "title": {
+        "en": "In context: at a party",
+        "ua": "У контексті: на вечірці",
+        "ru": "В контексте: на вечеринке"
+      },
+      "recap": {
+        "from": "a1-u07-l03",
+        "note": {
+          "ua": "Згадаймо: Ким ти працюєш?",
+          "ru": "Вспомним: Кем ты работаешь?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's your ___? — I'm a teacher.",
+            "options": [
+              "job",
+              "work as",
+              "name"
+            ],
+            "answer": "job",
+            "explain": {
+              "ua": "What's your job? — ким ти працюєш?",
+              "ru": "What's your job? — кем ты работаешь?"
+            },
+            "id": "a1-u07-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "I'm ___ programmer.",
+            "answer": "a",
+            "accept": [],
+            "explain": {
+              "ua": "Професія — з a / an.",
+              "ru": "Профессия — с a / an."
+            },
+            "id": "a1-u07-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is Mia's job?",
+              "options": [
+                "a nurse",
+                "a designer",
+                "a cook"
+              ],
+              "answer": "a nurse"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ivan is a programmer.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ivan's wife is a photographer.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ivan",
+              "line": "Hi! I'm Ivan. What's your job?"
+            },
+            {
+              "speaker": "Mia",
+              "line": "Hi, Ivan! I'm a nurse. I work in a hospital. And you?"
+            },
+            {
+              "speaker": "Ivan",
+              "line": "I'm a builder. I build houses."
+            },
+            {
+              "speaker": "Mia",
+              "line": "Cool! Is your wife a builder too?"
+            },
+            {
+              "speaker": "Ivan",
+              "line": "No, she isn't. She's a photographer."
+            }
+          ],
+          "explain": {
+            "ua": "Mia — nurse, Ivan — builder, wife — photographer.",
+            "ru": "Mia — nurse, Ivan — builder, wife — photographer."
+          },
+          "id": "a1-u07-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "nurse",
+            "builder",
+            "photographer",
+            "hospital"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Mia is a ___.",
+            "She works in a ___.",
+            "Ivan is a ___.",
+            "His wife is a ___."
+          ],
+          "answers": [
+            "nurse",
+            "hospital",
+            "builder",
+            "photographer"
+          ],
+          "explain": {
+            "ua": "Mia — nurse у hospital, Ivan — builder, дружина — photographer.",
+            "ru": "Mia — nurse в hospital, Ivan — builder, жена — photographer."
+          },
+          "id": "a1-u07-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Mia works in a ___.",
+          "options": [
+            "hospital",
+            "school",
+            "café"
+          ],
+          "answer": "hospital",
+          "explain": {
+            "ua": "Hospital — лікарня.",
+            "ru": "Hospital — больница."
+          },
+          "id": "a1-u07-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Ivan builds ___.",
+          "options": [
+            "houses",
+            "cars",
+            "photos"
+          ],
+          "answer": "houses",
+          "explain": {
+            "ua": "Builder будує будинки.",
+            "ru": "Builder строит дома."
+          },
+          "id": "a1-u07-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who cuts hair.",
+          "answer": "hairdresser",
+          "accept": [
+            "a hairdresser"
+          ],
+          "explain": {
+            "ua": "Hairdresser — перукар.",
+            "ru": "Hairdresser — парикмахер."
+          },
+          "id": "a1-u07-l04-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who works in a shop and helps you.",
+          "answer": "shop assistant",
+          "accept": [
+            "a shop assistant"
+          ],
+          "explain": {
+            "ua": "Shop assistant — продавець.",
+            "ru": "Shop assistant — продавец."
+          },
+          "id": "a1-u07-l04-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "She is ___ police officer.",
+          "answer": "a",
+          "accept": [],
+          "explain": {
+            "ua": "Police — приголосний → a.",
+            "ru": "Police — согласный → a."
+          },
+          "id": "a1-u07-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Він не кухар.",
+            "ru": "Он не повар."
+          },
+          "answer": "He isn't a cook.",
+          "accept": [
+            "He is not a cook.",
+            "He's not a cook."
+          ],
+          "explain": {
+            "ua": "isn't + a cook.",
+            "ru": "isn't + a cook."
+          },
+          "id": "a1-u07-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u07-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u07-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: на вечірці",
+          "ru": "Вспомним: В контексте: на вечеринке"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Mia works in a ___.",
+            "options": [
+              "hospital",
+              "school",
+              "café"
+            ],
+            "answer": "hospital",
+            "explain": {
+              "ua": "Hospital — лікарня.",
+              "ru": "Hospital — больница."
+            },
+            "id": "a1-u07-l05-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A person who works in a shop and helps you.",
+            "answer": "shop assistant",
+            "accept": [
+              "a shop assistant"
+            ],
+            "explain": {
+              "ua": "Shop assistant — продавець.",
+              "ru": "Shop assistant — продавец."
+            },
+            "id": "a1-u07-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "hairdresser",
+              "right": {
+                "ua": "перукар",
+                "ru": "парикмахер"
+              }
+            },
+            {
+              "left": "builder",
+              "right": {
+                "ua": "будівельник",
+                "ru": "строитель"
+              }
+            },
+            {
+              "left": "dentist",
+              "right": {
+                "ua": "стоматолог",
+                "ru": "стоматолог"
+              }
+            },
+            {
+              "left": "engineer",
+              "right": {
+                "ua": "інженер",
+                "ru": "инженер"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u07-l05-e01"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "hair",
+          "answer": "hairdresser",
+          "accept": [
+            "a hairdresser"
+          ],
+          "explain": {
+            "ua": "Волосся → перукар.",
+            "ru": "Волосы → парикмахер."
+          },
+          "id": "a1-u07-l05-e02"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "animals",
+          "answer": "vet",
+          "accept": [
+            "a vet"
+          ],
+          "explain": {
+            "ua": "Тварини → ветеринар.",
+            "ru": "Животные → ветеринар."
+          },
+          "id": "a1-u07-l05-e03"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "school",
+          "answer": "teacher",
+          "accept": [
+            "a teacher"
+          ],
+          "explain": {
+            "ua": "Школа → вчитель.",
+            "ru": "Школа → учитель."
+          },
+          "id": "a1-u07-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who helps people and works with the police.",
+          "answer": "police officer",
+          "accept": [
+            "a police officer",
+            "policeman",
+            "policewoman"
+          ],
+          "explain": {
+            "ua": "Police officer.",
+            "ru": "Police officer."
+          },
+          "id": "a1-u07-l05-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Max is ___ engineer and Anna is ___ doctor.",
+          "options": [
+            "an / a",
+            "a / a",
+            "a / an"
+          ],
+          "answer": "an / a",
+          "explain": {
+            "ua": "an engineer, a doctor.",
+            "ru": "an engineer, a doctor."
+          },
+          "id": "a1-u07-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-a-an",
+          "sentence": "She is a engineer.",
+          "answer": "She is an engineer.",
+          "accept": [],
+          "explain": {
+            "ua": "Engineer → an.",
+            "ru": "Engineer → an."
+          },
+          "id": "a1-u07-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I work as a photographer.",
+          "options": [
+            "I work as a photographer.",
+            "I work as a programmer.",
+            "I work at a photographer."
+          ],
+          "answer": "I work as a photographer.",
+          "audio": "",
+          "explain": {
+            "ua": "Photographer — фотограф.",
+            "ru": "Photographer — фотограф."
+          },
+          "id": "a1-u07-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ким ти працюєш?",
+            "ru": "Кем ты работаешь?"
+          },
+          "answer": "What's your job?",
+          "accept": [
+            "What is your job?",
+            "What do you do?"
+          ],
+          "explain": {
+            "ua": "What's your job?",
+            "ru": "What's your job?"
+          },
+          "id": "a1-u07-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Моя сестра — перукарка.",
+            "ru": "Моя сестра — парикмахер."
+          },
+          "answer": "My sister is a hairdresser.",
+          "accept": [],
+          "explain": {
+            "ua": "A hairdresser.",
+            "ru": "A hairdresser."
+          },
+          "id": "a1-u07-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who treats animals.",
+      "answer": "vet",
+      "accept": [
+        "a vet"
+      ],
+      "explain": {
+        "ua": "Vet.",
+        "ru": "Vet."
+      },
+      "id": "a1-u07-cp01"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who writes code.",
+      "answer": "programmer",
+      "accept": [
+        "a programmer"
+      ],
+      "explain": {
+        "ua": "Programmer.",
+        "ru": "Programmer."
+      },
+      "id": "a1-u07-cp02"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who drives a taxi.",
+      "answer": "driver",
+      "accept": [
+        "a driver",
+        "taxi driver",
+        "a taxi driver"
+      ],
+      "explain": {
+        "ua": "Driver.",
+        "ru": "Driver."
+      },
+      "id": "a1-u07-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "She is ___ engineer.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "answer": "an",
+      "explain": {
+        "ua": "Engineer → an.",
+        "ru": "Engineer → an."
+      },
+      "id": "a1-u07-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I work ___ a cook.",
+      "options": [
+        "as",
+        "like",
+        "is"
+      ],
+      "answer": "as",
+      "explain": {
+        "ua": "Work as.",
+        "ru": "Work as."
+      },
+      "id": "a1-u07-cp05"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "— What's your job? — ___",
+      "options": [
+        "I'm a nurse.",
+        "I'm fine.",
+        "I'm from Kyiv."
+      ],
+      "answer": "I'm a nurse.",
+      "explain": {
+        "ua": "Job — робота.",
+        "ru": "Job — работа."
+      },
+      "id": "a1-u07-cp06"
+    },
+    {
+      "type": "associate",
+      "topic": "vocab",
+      "cue": "teeth",
+      "answer": "dentist",
+      "accept": [
+        "a dentist"
+      ],
+      "explain": {
+        "ua": "Зуби → стоматолог.",
+        "ru": "Зубы → стоматолог."
+      },
+      "id": "a1-u07-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "waiter",
+          "right": {
+            "ua": "офіціант",
+            "ru": "официант"
+          }
+        },
+        {
+          "left": "nurse",
+          "right": {
+            "ua": "медсестра",
+            "ru": "медсестра"
+          }
+        },
+        {
+          "left": "builder",
+          "right": {
+            "ua": "будівельник",
+            "ru": "строитель"
+          }
+        },
+        {
+          "left": "designer",
+          "right": {
+            "ua": "дизайнер",
+            "ru": "дизайнер"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u07-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "My mum is teacher.",
+      "answer": "My mum is a teacher.",
+      "accept": [],
+      "explain": {
+        "ua": "Перед професією — a.",
+        "ru": "Перед профессией — a."
+      },
+      "id": "a1-u07-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "He",
+        "officer",
+        "is",
+        "police",
+        "a"
+      ],
+      "answer": "He is a police officer",
+      "explain": {
+        "ua": "He is → a police officer.",
+        "ru": "He is → a police officer."
+      },
+      "id": "a1-u07-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я фотограф.",
+        "ru": "Я фотограф."
+      },
+      "answer": "I'm a photographer.",
+      "accept": [
+        "I am a photographer."
+      ],
+      "explain": {
+        "ua": "A photographer.",
+        "ru": "A photographer."
+      },
+      "id": "a1-u07-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The waiter is busy.",
+      "options": [
+        "The waiter is busy.",
+        "The water is busy.",
+        "The waiter is dizzy."
+      ],
+      "answer": "The waiter is busy.",
+      "audio": "",
+      "explain": {
+        "ua": "Waiter — /ˈweɪtə/.",
+        "ru": "Waiter — /ˈweɪtə/."
+      },
+      "id": "a1-u07-cp12"
+    }
+  ]
+}

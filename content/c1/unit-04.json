@@ -1,0 +1,1581 @@
+{
+  "id": "c1-u04",
+  "level": "C1",
+  "order": 4,
+  "kind": "vocab",
+  "title": {
+    "en": "Science and technology",
+    "ua": "Наука й технології",
+    "ru": "Наука и технологии"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "research",
+      "ipa": "/rɪˈsɜːtʃ/",
+      "ua": "дослідження",
+      "ru": "исследование",
+      "example": "carry out research",
+      "audio": ""
+    },
+    {
+      "word": "discovery",
+      "ipa": "/dɪˈskʌvəri/",
+      "ua": "відкриття",
+      "ru": "открытие",
+      "example": "a major discovery",
+      "audio": ""
+    },
+    {
+      "word": "breakthrough",
+      "ipa": "/ˈbreɪkθruː/",
+      "ua": "прорив",
+      "ru": "прорыв",
+      "example": "a medical breakthrough",
+      "audio": ""
+    },
+    {
+      "word": "evidence",
+      "ipa": "/ˈevɪdəns/",
+      "ua": "докази",
+      "ru": "доказательства",
+      "example": "There's no evidence.",
+      "audio": ""
+    },
+    {
+      "word": "hypothesis",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "ua": "гіпотеза",
+      "ru": "гипотеза",
+      "example": "test a hypothesis",
+      "audio": ""
+    },
+    {
+      "word": "findings",
+      "ipa": "/ˈfaɪndɪŋz/",
+      "ua": "результати (дослідження)",
+      "ru": "результаты (исследования)",
+      "example": "The findings were published.",
+      "audio": ""
+    },
+    {
+      "word": "prove / disprove",
+      "ipa": "/pruːv/ /dɪsˈpruːv/",
+      "ua": "довести / спростувати",
+      "ru": "доказать / опровергнуть",
+      "example": "prove a theory",
+      "audio": ""
+    },
+    {
+      "word": "peer-reviewed",
+      "ipa": "/ˌpɪə rɪˈvjuːd/",
+      "ua": "рецензований",
+      "ru": "рецензируемый",
+      "example": "a peer-reviewed study",
+      "audio": ""
+    },
+    {
+      "word": "artificial intelligence",
+      "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+      "ua": "штучний інтелект",
+      "ru": "искусственный интеллект",
+      "example": "AI is changing the world.",
+      "audio": ""
+    },
+    {
+      "word": "algorithm",
+      "ipa": "/ˈælɡərɪðəm/",
+      "ua": "алгоритм",
+      "ru": "алгоритм",
+      "example": "a search algorithm",
+      "audio": ""
+    },
+    {
+      "word": "cutting-edge",
+      "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+      "ua": "передовий, найсучасніший",
+      "ru": "передовой, ультрасовременный",
+      "example": "cutting-edge technology",
+      "audio": ""
+    },
+    {
+      "word": "innovation",
+      "ipa": "/ˌɪnəˈveɪʃn/",
+      "ua": "інновація",
+      "ru": "инновация",
+      "example": "technological innovation",
+      "audio": ""
+    },
+    {
+      "word": "automate",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "ua": "автоматизувати",
+      "ru": "автоматизировать",
+      "example": "automate routine tasks",
+      "audio": ""
+    },
+    {
+      "word": "outdated",
+      "ipa": "/ˌaʊtˈdeɪtɪd/",
+      "ua": "застарілий",
+      "ru": "устаревший",
+      "example": "outdated software",
+      "audio": ""
+    },
+    {
+      "word": "data",
+      "ipa": "/ˈdeɪtə/",
+      "ua": "дані",
+      "ru": "данные",
+      "example": "collect data",
+      "audio": ""
+    },
+    {
+      "word": "privacy",
+      "ipa": "/ˈprɪvəsi/",
+      "ua": "приватність",
+      "ru": "приватность",
+      "example": "online privacy",
+      "audio": ""
+    },
+    {
+      "word": "ethical",
+      "ipa": "/ˈeθɪkl/",
+      "ua": "етичний",
+      "ru": "этичный",
+      "example": "ethical questions",
+      "audio": ""
+    },
+    {
+      "word": "drawback",
+      "ipa": "/ˈdrɔːbæk/",
+      "ua": "недолік",
+      "ru": "недостаток",
+      "example": "the main drawback",
+      "audio": ""
+    },
+    {
+      "word": "side effect",
+      "ipa": "/ˈsaɪd ɪfekt/",
+      "ua": "побічний ефект",
+      "ru": "побочный эффект",
+      "example": "The drug has no side effects.",
+      "audio": ""
+    },
+    {
+      "word": "revolutionise",
+      "ipa": "/ˌrevəˈluːʃənaɪz/",
+      "ua": "революціонізувати",
+      "ru": "революционизировать",
+      "example": "AI will revolutionise medicine.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u04-l01",
+      "title": {
+        "en": "Research",
+        "ua": "Дослідження",
+        "ru": "Исследования"
+      },
+      "recap": {
+        "from": "c1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: was about to + дієслово — ось-ось мав · was to + дієслово — судилося (книжне) · was to have + V3 — мав, але не сталося",
+          "ru": "Вспомним: was about to + глагол — вот-вот должен был · was to + глагол — суждено было (книжное) · was to have + V3 — должен был, но не случилось"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "I was ___ to leave when you called.",
+            "options": [
+              "about",
+              "going",
+              "due"
+            ],
+            "answer": "about",
+            "explain": {
+              "ua": "Was about to — ось-ось.",
+              "ru": "Was about to — вот-вот."
+            },
+            "id": "c1-u04-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "The concert was to have ___ place in May, but it was cancelled.",
+            "options": [
+              "taken",
+              "take",
+              "took"
+            ],
+            "answer": "taken",
+            "explain": {
+              "ua": "Was to have + V3.",
+              "ru": "Was to have + V3."
+            },
+            "id": "c1-u04-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "research",
+              "right": {
+                "ua": "дослідження",
+                "ru": "исследование"
+              }
+            },
+            {
+              "left": "evidence",
+              "right": {
+                "ua": "докази",
+                "ru": "доказательства"
+              }
+            },
+            {
+              "left": "hypothesis",
+              "right": {
+                "ua": "гіпотеза",
+                "ru": "гипотеза"
+              }
+            },
+            {
+              "left": "findings",
+              "right": {
+                "ua": "результати",
+                "ru": "результаты"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u04-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Scientists carried out ___ on 2,000 people.",
+          "options": [
+            "research",
+            "evidence",
+            "drawback"
+          ],
+          "answer": "research",
+          "explain": {
+            "ua": "Carry out research.",
+            "ru": "Carry out research."
+          },
+          "id": "c1-u04-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There is no scientific ___ that this works.",
+          "options": [
+            "evidence",
+            "discovery",
+            "algorithm"
+          ],
+          "answer": "evidence",
+          "explain": {
+            "ua": "Evidence.",
+            "ru": "Evidence."
+          },
+          "id": "c1-u04-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ of the study were published in a journal.",
+          "options": [
+            "findings",
+            "drawbacks",
+            "data"
+          ],
+          "answer": "findings",
+          "explain": {
+            "ua": "Findings.",
+            "ru": "Findings."
+          },
+          "id": "c1-u04-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The vaccine was a real medical ___ .",
+          "options": [
+            "breakthrough",
+            "hypothesis",
+            "privacy"
+          ],
+          "answer": "breakthrough",
+          "explain": {
+            "ua": "Breakthrough.",
+            "ru": "Breakthrough."
+          },
+          "id": "c1-u04-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The experiment ___ that the theory was wrong.",
+          "options": [
+            "proved",
+            "automated",
+            "researched"
+          ],
+          "answer": "proved",
+          "explain": {
+            "ua": "Prove.",
+            "ru": "Prove."
+          },
+          "id": "c1-u04-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "An idea that scientists test with experiments.",
+          "answer": "hypothesis",
+          "accept": [
+            "a hypothesis",
+            "theory"
+          ],
+          "explain": {
+            "ua": "Hypothesis.",
+            "ru": "Hypothesis."
+          },
+          "id": "c1-u04-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "They did a research about sleep.",
+          "answer": "They did research on sleep.",
+          "accept": [
+            "They carried out research on sleep.",
+            "They did research into sleep.",
+            "They did some research on sleep."
+          ],
+          "explain": {
+            "ua": "Research — незлічуване, без a.",
+            "ru": "Research — неисчисляемое, без a."
+          },
+          "id": "c1-u04-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/haɪˈpɒθəsɪs/",
+          "options": [
+            "hypothesis",
+            "hippopotamus",
+            "hypnosis"
+          ],
+          "answer": "hypothesis",
+          "explain": {
+            "ua": "Наголос на другому складі.",
+            "ru": "Ударение на втором слоге."
+          },
+          "id": "c1-u04-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Немає жодних доказів.",
+            "ru": "Нет никаких доказательств."
+          },
+          "answer": "There's no evidence.",
+          "accept": [
+            "There is no evidence.",
+            "There's no evidence at all.",
+            "There isn't any evidence."
+          ],
+          "explain": {
+            "ua": "Evidence.",
+            "ru": "Evidence."
+          },
+          "id": "c1-u04-l01-e10"
+        }
+      ],
+      "words": [
+        "research",
+        "discovery",
+        "breakthrough",
+        "evidence",
+        "hypothesis",
+        "findings",
+        "prove / disprove",
+        "peer-reviewed"
+      ]
+    },
+    {
+      "id": "c1-u04-l02",
+      "title": {
+        "en": "AI and innovation",
+        "ua": "ШІ та інновації",
+        "ru": "ИИ и инновации"
+      },
+      "recap": {
+        "from": "c1-u04-l01",
+        "note": {
+          "ua": "Згадаймо: Дослідження",
+          "ru": "Вспомним: Исследования"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Scientists carried out ___ on 2,000 people.",
+            "options": [
+              "research",
+              "evidence",
+              "drawback"
+            ],
+            "answer": "research",
+            "explain": {
+              "ua": "Carry out research.",
+              "ru": "Carry out research."
+            },
+            "id": "c1-u04-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The experiment ___ that the theory was wrong.",
+            "options": [
+              "proved",
+              "automated",
+              "researched"
+            ],
+            "answer": "proved",
+            "explain": {
+              "ua": "Prove.",
+              "ru": "Prove."
+            },
+            "id": "c1-u04-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "artificial intelligence",
+              "right": {
+                "ua": "штучний інтелект",
+                "ru": "искусственный интеллект"
+              }
+            },
+            {
+              "left": "algorithm",
+              "right": {
+                "ua": "алгоритм",
+                "ru": "алгоритм"
+              }
+            },
+            {
+              "left": "cutting-edge",
+              "right": {
+                "ua": "передовий",
+                "ru": "передовой"
+              }
+            },
+            {
+              "left": "automate",
+              "right": {
+                "ua": "автоматизувати",
+                "ru": "автоматизировать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u04-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Many companies want to ___ boring, repetitive tasks.",
+          "options": [
+            "automate",
+            "disprove",
+            "revolutionise"
+          ],
+          "answer": "automate",
+          "explain": {
+            "ua": "Automate.",
+            "ru": "Automate."
+          },
+          "id": "c1-u04-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "This phone uses ___ technology — nothing like it exists yet.",
+          "options": [
+            "cutting-edge",
+            "outdated",
+            "ethical"
+          ],
+          "answer": "cutting-edge",
+          "explain": {
+            "ua": "Cutting-edge.",
+            "ru": "Cutting-edge."
+          },
+          "id": "c1-u04-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My laptop is ten years old. It's completely ___ .",
+          "options": [
+            "outdated",
+            "cutting-edge",
+            "peer-reviewed"
+          ],
+          "answer": "outdated",
+          "explain": {
+            "ua": "Outdated.",
+            "ru": "Outdated."
+          },
+          "id": "c1-u04-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Social media ___ decide what you see in your feed.",
+          "options": [
+            "algorithms",
+            "hypotheses",
+            "findings"
+          ],
+          "answer": "algorithms",
+          "explain": {
+            "ua": "Algorithms.",
+            "ru": "Algorithms."
+          },
+          "id": "c1-u04-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Experts believe AI will ___ medicine.",
+          "options": [
+            "revolutionise",
+            "disprove",
+            "outdate"
+          ],
+          "answer": "revolutionise",
+          "explain": {
+            "ua": "Revolutionise.",
+            "ru": "Revolutionise."
+          },
+          "id": "c1-u04-l02-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "innovation",
+            "automate",
+            "outdated",
+            "data"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The company is famous for ___.",
+            "Robots ___ the factory.",
+            "This model is ___ — buy a new one.",
+            "Apps collect a lot of ___."
+          ],
+          "answers": [
+            "innovation",
+            "automate",
+            "outdated",
+            "data"
+          ],
+          "explain": {
+            "ua": "Технології.",
+            "ru": "Технологии."
+          },
+          "id": "c1-u04-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The datas show a clear trend.",
+          "answer": "The data show a clear trend.",
+          "accept": [
+            "The data shows a clear trend."
+          ],
+          "explain": {
+            "ua": "Data — без -s.",
+            "ru": "Data — без -s."
+          },
+          "id": "c1-u04-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Cutting-edge technology",
+          "options": [
+            "Cutting-edge technology",
+            "Cutting each technology",
+            "Cutting-age technology"
+          ],
+          "answer": "Cutting-edge technology",
+          "audio": "",
+          "explain": {
+            "ua": "Cutting-edge.",
+            "ru": "Cutting-edge."
+          },
+          "id": "c1-u04-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "ШІ змінить медицину.",
+            "ru": "ИИ изменит медицину."
+          },
+          "answer": "AI will change medicine.",
+          "accept": [
+            "AI will revolutionise medicine.",
+            "Artificial intelligence will change medicine.",
+            "AI is going to change medicine.",
+            "AI will transform medicine."
+          ],
+          "explain": {
+            "ua": "AI.",
+            "ru": "AI."
+          },
+          "id": "c1-u04-l02-e10"
+        }
+      ],
+      "words": [
+        "artificial intelligence",
+        "algorithm",
+        "cutting-edge",
+        "innovation",
+        "automate",
+        "outdated",
+        "data",
+        "revolutionise"
+      ]
+    },
+    {
+      "id": "c1-u04-l03",
+      "title": {
+        "en": "Debates and ethics",
+        "ua": "Дебати й етика",
+        "ru": "Дебаты и этика"
+      },
+      "recap": {
+        "from": "c1-u04-l02",
+        "note": {
+          "ua": "Згадаймо: ШІ та інновації",
+          "ru": "Вспомним: ИИ и инновации"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Many companies want to ___ boring, repetitive tasks.",
+            "options": [
+              "automate",
+              "disprove",
+              "revolutionise"
+            ],
+            "answer": "automate",
+            "explain": {
+              "ua": "Automate.",
+              "ru": "Automate."
+            },
+            "id": "c1-u04-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Social media ___ decide what you see in your feed.",
+            "options": [
+              "algorithms",
+              "hypotheses",
+              "findings"
+            ],
+            "answer": "algorithms",
+            "explain": {
+              "ua": "Algorithms.",
+              "ru": "Algorithms."
+            },
+            "id": "c1-u04-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "privacy",
+              "right": {
+                "ua": "приватність",
+                "ru": "приватность"
+              }
+            },
+            {
+              "left": "ethical",
+              "right": {
+                "ua": "етичний",
+                "ru": "этичный"
+              }
+            },
+            {
+              "left": "drawback",
+              "right": {
+                "ua": "недолік",
+                "ru": "недостаток"
+              }
+            },
+            {
+              "left": "side effect",
+              "right": {
+                "ua": "побічний ефект",
+                "ru": "побочный эффект"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u04-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Many people worry about their online ___ .",
+          "options": [
+            "privacy",
+            "evidence",
+            "breakthrough"
+          ],
+          "answer": "privacy",
+          "explain": {
+            "ua": "Privacy.",
+            "ru": "Privacy."
+          },
+          "id": "c1-u04-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Is it ___ to test products on animals?",
+          "options": [
+            "ethical",
+            "outdated",
+            "automated"
+          ],
+          "answer": "ethical",
+          "explain": {
+            "ua": "Ethical.",
+            "ru": "Ethical."
+          },
+          "id": "c1-u04-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The main ___ of electric cars is the price.",
+          "options": [
+            "drawback",
+            "discovery",
+            "algorithm"
+          ],
+          "answer": "drawback",
+          "explain": {
+            "ua": "Drawback.",
+            "ru": "Drawback."
+          },
+          "id": "c1-u04-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Headaches are a common ___ of this medicine.",
+          "options": [
+            "side effect",
+            "finding",
+            "innovation"
+          ],
+          "answer": "side effect",
+          "explain": {
+            "ua": "Side effect.",
+            "ru": "Side effect."
+          },
+          "id": "c1-u04-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "New research has ___ the old theory. It was wrong.",
+          "options": [
+            "disproved",
+            "proved",
+            "automated"
+          ],
+          "answer": "disproved",
+          "explain": {
+            "ua": "Disprove.",
+            "ru": "Disprove."
+          },
+          "id": "c1-u04-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A disadvantage or problem.",
+          "answer": "drawback",
+          "accept": [
+            "a drawback",
+            "disadvantage"
+          ],
+          "explain": {
+            "ua": "Drawback.",
+            "ru": "Drawback."
+          },
+          "id": "c1-u04-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "It's not ethic to read other people's messages.",
+          "answer": "It's not ethical to read other people's messages.",
+          "accept": [],
+          "explain": {
+            "ua": "Прикметник — ethical.",
+            "ru": "Прилагательное — ethical."
+          },
+          "id": "c1-u04-l03-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "There are serious privacy concerns.",
+          "options": [
+            "There are serious privacy concerns.",
+            "There are serious private concerns.",
+            "There are serious privacy concerts."
+          ],
+          "answer": "There are serious privacy concerns.",
+          "audio": "",
+          "explain": {
+            "ua": "Privacy concerns.",
+            "ru": "Privacy concerns."
+          },
+          "id": "c1-u04-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Головний недолік — ціна.",
+            "ru": "Главный недостаток — цена."
+          },
+          "answer": "The main drawback is the price.",
+          "accept": [
+            "The main disadvantage is the price.",
+            "The biggest drawback is the price."
+          ],
+          "explain": {
+            "ua": "Drawback.",
+            "ru": "Drawback."
+          },
+          "id": "c1-u04-l03-e10"
+        }
+      ],
+      "words": [
+        "privacy",
+        "ethical",
+        "drawback",
+        "side effect"
+      ]
+    },
+    {
+      "id": "c1-u04-l04",
+      "title": {
+        "en": "In context: AI at work",
+        "ua": "У контексті: ШІ на роботі",
+        "ru": "В контексте: ИИ на работе"
+      },
+      "recap": {
+        "from": "c1-u04-l03",
+        "note": {
+          "ua": "Згадаймо: Дебати й етика",
+          "ru": "Вспомним: Дебаты и этика"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Many people worry about their online ___ .",
+            "options": [
+              "privacy",
+              "evidence",
+              "breakthrough"
+            ],
+            "answer": "privacy",
+            "explain": {
+              "ua": "Privacy.",
+              "ru": "Privacy."
+            },
+            "id": "c1-u04-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "New research has ___ the old theory. It was wrong.",
+            "options": [
+              "disproved",
+              "proved",
+              "automated"
+            ],
+            "answer": "disproved",
+            "explain": {
+              "ua": "Disprove.",
+              "ru": "Disprove."
+            },
+            "id": "c1-u04-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What did the study find?",
+              "options": [
+                "AI saves workers about 5 hours a week",
+                "AI will replace all jobs",
+                "people don't use AI"
+              ],
+              "answer": "AI saves workers about 5 hours a week"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The study was peer-reviewed.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The author thinks AI has no drawbacks.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What is one concern mentioned?",
+              "options": [
+                "privacy of data",
+                "the price of laptops",
+                "outdated phones"
+              ],
+              "answer": "privacy of data"
+            }
+          ],
+          "text": "A recent peer-reviewed study carried out in 12 countries found that workers who use AI tools save about five hours a week. The findings suggest that AI can automate routine tasks like writing emails and analysing data. Supporters call it a breakthrough comparable to the internet. However, the technology has clear drawbacks. Many companies worry about the privacy of their data, and there are serious ethical questions about who is responsible when an algorithm makes a mistake.",
+          "explain": {
+            "ua": "Peer-reviewed study: AI saves 5 hrs/week; automates routine; drawbacks: privacy, ethics.",
+            "ru": "Peer-reviewed study: AI saves 5 hrs/week; automates routine; drawbacks: privacy, ethics."
+          },
+          "id": "c1-u04-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "peer-reviewed",
+            "findings",
+            "automate",
+            "breakthrough",
+            "ethical"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The study was ___.",
+            "The ___ suggest AI saves time.",
+            "AI can ___ routine tasks.",
+            "Supporters call it a ___.",
+            "There are ___ questions."
+          ],
+          "answers": [
+            "peer-reviewed",
+            "findings",
+            "automate",
+            "breakthrough",
+            "ethical"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u04-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "comparable to",
+              "right": {
+                "ua": "порівнянний з",
+                "ru": "сравнимый с"
+              }
+            },
+            {
+              "left": "routine tasks",
+              "right": {
+                "ua": "рутинні задачі",
+                "ru": "рутинные задачи"
+              }
+            },
+            {
+              "left": "responsible",
+              "right": {
+                "ua": "відповідальний",
+                "ru": "ответственный"
+              }
+            },
+            {
+              "left": "suggest",
+              "right": {
+                "ua": "свідчити, вказувати",
+                "ru": "указывать, говорить о"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з тексту.",
+            "ru": "Фразы из текста."
+          },
+          "id": "c1-u04-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The findings ___ that AI saves time.",
+          "options": [
+            "suggest",
+            "suggests",
+            "suggesting"
+          ],
+          "answer": "suggest",
+          "explain": {
+            "ua": "Findings — множина.",
+            "ru": "Findings — множественное."
+          },
+          "id": "c1-u04-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The study found what workers save time.",
+          "answer": "The study found that workers save time.",
+          "accept": [
+            "The study found workers save time."
+          ],
+          "explain": {
+            "ua": "Found that.",
+            "ru": "Found that."
+          },
+          "id": "c1-u04-l04-e05"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Who is responsible when an algorithm makes a mistake?",
+          "options": [
+            "Who is responsible when an algorithm makes a mistake?",
+            "Who is responsible when an algorithm made a mistake?",
+            "Who's responsible when the algorithm makes mistakes?"
+          ],
+          "answer": "Who is responsible when an algorithm makes a mistake?",
+          "audio": "",
+          "explain": {
+            "ua": "Слухай уважно.",
+            "ru": "Слушай внимательно."
+          },
+          "id": "c1-u04-l04-e06"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-all",
+          "prompt": {
+            "ua": "Дослідження провели в 12 країнах.",
+            "ru": "Исследование провели в 12 странах."
+          },
+          "answer": "The study was carried out in 12 countries.",
+          "accept": [
+            "The research was carried out in 12 countries.",
+            "The study was conducted in 12 countries.",
+            "The study was done in 12 countries."
+          ],
+          "explain": {
+            "ua": "Пасив.",
+            "ru": "Пассив."
+          },
+          "id": "c1-u04-l04-e07"
+        }
+      ]
+    },
+    {
+      "id": "c1-u04-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u04-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: ШІ на роботі",
+          "ru": "Вспомним: В контексте: ИИ на работе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The findings ___ that AI saves time.",
+            "options": [
+              "suggest",
+              "suggests",
+              "suggesting"
+            ],
+            "answer": "suggest",
+            "explain": {
+              "ua": "Findings — множина.",
+              "ru": "Findings — множественное."
+            },
+            "id": "c1-u04-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "The study found what workers save time.",
+            "answer": "The study found that workers save time.",
+            "accept": [
+              "The study found workers save time."
+            ],
+            "explain": {
+              "ua": "Found that.",
+              "ru": "Found that."
+            },
+            "id": "c1-u04-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "discovery",
+              "right": {
+                "ua": "відкриття",
+                "ru": "открытие"
+              }
+            },
+            {
+              "left": "innovation",
+              "right": {
+                "ua": "інновація",
+                "ru": "инновация"
+              }
+            },
+            {
+              "left": "outdated",
+              "right": {
+                "ua": "застарілий",
+                "ru": "устаревший"
+              }
+            },
+            {
+              "left": "prove",
+              "right": {
+                "ua": "довести",
+                "ru": "доказать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u04-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cutting-edge ↔ ___",
+          "options": [
+            "outdated",
+            "ethical",
+            "peer-reviewed"
+          ],
+          "answer": "outdated",
+          "explain": {
+            "ua": "Передовий ↔ застарілий.",
+            "ru": "Передовой ↔ устаревший."
+          },
+          "id": "c1-u04-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Prove ↔ ___",
+          "options": [
+            "disprove",
+            "approve",
+            "improve"
+          ],
+          "answer": "disprove",
+          "explain": {
+            "ua": "Довести ↔ спростувати.",
+            "ru": "Доказать ↔ опровергнуть."
+          },
+          "id": "c1-u04-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Facts that show something is true.",
+          "answer": "evidence",
+          "accept": [
+            "proof"
+          ],
+          "explain": {
+            "ua": "Evidence.",
+            "ru": "Evidence."
+          },
+          "id": "c1-u04-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "An important new scientific development.",
+          "answer": "breakthrough",
+          "accept": [
+            "a breakthrough",
+            "discovery"
+          ],
+          "explain": {
+            "ua": "Breakthrough.",
+            "ru": "Breakthrough."
+          },
+          "id": "c1-u04-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "laboratory",
+          "answer": "research",
+          "accept": [
+            "experiment",
+            "scientist",
+            "science"
+          ],
+          "explain": {
+            "ua": "Лабораторія → дослідження.",
+            "ru": "Лаборатория → исследование."
+          },
+          "id": "c1-u04-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "This is a very cutting-edge old phone.",
+          "answer": "This is a very outdated phone.",
+          "accept": [
+            "This is an outdated phone."
+          ],
+          "explain": {
+            "ua": "Старий → outdated.",
+            "ru": "Старый → outdated."
+          },
+          "id": "c1-u04-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The findings were surprising.",
+          "options": [
+            "The findings were surprising.",
+            "The findings was surprising.",
+            "The fighting was surprising."
+          ],
+          "answer": "The findings were surprising.",
+          "audio": "",
+          "explain": {
+            "ua": "Findings.",
+            "ru": "Findings."
+          },
+          "id": "c1-u04-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Це справжній прорив.",
+            "ru": "Это настоящий прорыв."
+          },
+          "answer": "It's a real breakthrough.",
+          "accept": [
+            "This is a real breakthrough.",
+            "It is a real breakthrough.",
+            "That's a real breakthrough."
+          ],
+          "explain": {
+            "ua": "Breakthrough.",
+            "ru": "Breakthrough."
+          },
+          "id": "c1-u04-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Scientists made an important ___ .",
+      "options": [
+        "discovery",
+        "drawback",
+        "privacy"
+      ],
+      "answer": "discovery",
+      "explain": {
+        "ua": "Discovery.",
+        "ru": "Discovery."
+      },
+      "id": "c1-u04-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "There is no ___ that it's dangerous.",
+      "options": [
+        "evidence",
+        "research",
+        "innovation"
+      ],
+      "answer": "evidence",
+      "explain": {
+        "ua": "Evidence.",
+        "ru": "Evidence."
+      },
+      "id": "c1-u04-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "This software is ___ . Update it.",
+      "options": [
+        "outdated",
+        "cutting-edge",
+        "ethical"
+      ],
+      "answer": "outdated",
+      "explain": {
+        "ua": "Outdated.",
+        "ru": "Outdated."
+      },
+      "id": "c1-u04-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Information collected for analysis.",
+      "answer": "data",
+      "accept": [
+        "information"
+      ],
+      "explain": {
+        "ua": "Data.",
+        "ru": "Data."
+      },
+      "id": "c1-u04-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A bad extra result of a medicine.",
+      "answer": "side effect",
+      "accept": [
+        "a side effect",
+        "side effects"
+      ],
+      "explain": {
+        "ua": "Side effect.",
+        "ru": "Side effect."
+      },
+      "id": "c1-u04-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Robots can ___ many factory jobs.",
+      "answer": "automate",
+      "accept": [
+        "do"
+      ],
+      "explain": {
+        "ua": "Automate.",
+        "ru": "Automate."
+      },
+      "id": "c1-u04-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "algorithm",
+          "right": {
+            "ua": "алгоритм",
+            "ru": "алгоритм"
+          }
+        },
+        {
+          "left": "privacy",
+          "right": {
+            "ua": "приватність",
+            "ru": "приватность"
+          }
+        },
+        {
+          "left": "hypothesis",
+          "right": {
+            "ua": "гіпотеза",
+            "ru": "гипотеза"
+          }
+        },
+        {
+          "left": "breakthrough",
+          "right": {
+            "ua": "прорив",
+            "ru": "прорыв"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "c1-u04-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "They did a research.",
+      "answer": "They did research.",
+      "accept": [
+        "They did some research.",
+        "They carried out research."
+      ],
+      "explain": {
+        "ua": "Без a.",
+        "ru": "Без a."
+      },
+      "id": "c1-u04-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "It isn't ethic.",
+      "answer": "It isn't ethical.",
+      "accept": [],
+      "explain": {
+        "ua": "Ethical.",
+        "ru": "Ethical."
+      },
+      "id": "c1-u04-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "published",
+        "findings",
+        "last",
+        "The",
+        "were",
+        "year"
+      ],
+      "answer": "The findings were published last year",
+      "explain": {
+        "ua": "The findings → were published.",
+        "ru": "The findings → were published."
+      },
+      "id": "c1-u04-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Головний недолік — приватність.",
+        "ru": "Главный недостаток — приватность."
+      },
+      "answer": "The main drawback is privacy.",
+      "accept": [
+        "The main disadvantage is privacy.",
+        "The biggest drawback is privacy."
+      ],
+      "explain": {
+        "ua": "Drawback.",
+        "ru": "Drawback."
+      },
+      "id": "c1-u04-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "A peer-reviewed study",
+      "options": [
+        "A peer-reviewed study",
+        "A pre-reviewed study",
+        "A peer-reviewed student"
+      ],
+      "answer": "A peer-reviewed study",
+      "audio": "",
+      "explain": {
+        "ua": "Peer-reviewed.",
+        "ru": "Peer-reviewed."
+      },
+      "id": "c1-u04-cp12"
+    }
+  ]
+}

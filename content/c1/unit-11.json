@@ -1,0 +1,1033 @@
+{
+  "id": "c1-u11",
+  "level": "C1",
+  "order": 11,
+  "kind": "grammar",
+  "title": {
+    "en": "Ellipsis and substitution",
+    "ua": "Еліпсис і заміщення",
+    "ru": "Эллипсис и замещение"
+  },
+  "rule": {
+    "formula": "I think so / I hope not · do so · one / ones · so do I / neither can I · I'd love to · if so / if not",
+    "explain": {
+      "ua": "Носії не повторюють те, що вже прозвучало: — Will it rain? — I hope not (не I hope it won't rain). — Can you come? — I'd love to (без come). Це робить мову природною.",
+      "ru": "Носители не повторяют то, что уже прозвучало: — Will it rain? — I hope not (не I hope it won't rain). — Can you come? — I'd love to (без come). Это делает речь естественной."
+    },
+    "examples": [
+      {
+        "en": "— Is she coming? — I think so.",
+        "ua": "— Вона прийде? — Думаю, так.",
+        "ru": "— Она придёт? — Думаю, да."
+      },
+      {
+        "en": "— Do you want the red one or the blue one?",
+        "ua": "— Хочеш червоний чи синій?",
+        "ru": "— Хочешь красный или синий?"
+      },
+      {
+        "en": "She can speak French, and so can I.",
+        "ua": "Вона розмовляє французькою, і я теж.",
+        "ru": "Она говорит по-французски, и я тоже."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "I think so",
+      "ipa": "/aɪ ˈθɪŋk səʊ/",
+      "ua": "думаю, так",
+      "ru": "думаю, да",
+      "example": "— Is it open? — I think so.",
+      "audio": ""
+    },
+    {
+      "word": "I hope not",
+      "ipa": "/aɪ ˈhəʊp nɒt/",
+      "ua": "сподіваюся, що ні",
+      "ru": "надеюсь, что нет",
+      "example": "— Will it rain? — I hope not.",
+      "audio": ""
+    },
+    {
+      "word": "I'm afraid so / not",
+      "ipa": "/aɪm əˈfreɪd səʊ/",
+      "ua": "на жаль, так / ні",
+      "ru": "к сожалению, да / нет",
+      "example": "— Is it serious? — I'm afraid so.",
+      "audio": ""
+    },
+    {
+      "word": "I doubt it",
+      "ipa": "/aɪ ˈdaʊt ɪt/",
+      "ua": "сумніваюся",
+      "ru": "сомневаюсь",
+      "example": "— Will he come? — I doubt it.",
+      "audio": ""
+    },
+    {
+      "word": "do so",
+      "ipa": "/duː səʊ/",
+      "ua": "зробити це",
+      "ru": "сделать это",
+      "example": "If you want to leave, you may do so.",
+      "audio": ""
+    },
+    {
+      "word": "one / ones",
+      "ipa": "/wʌn/ /wʌnz/",
+      "ua": "(замість іменника)",
+      "ru": "(вместо существительного)",
+      "example": "I'll take the red ones.",
+      "audio": ""
+    },
+    {
+      "word": "so do I / neither do I",
+      "ipa": "/səʊ duː aɪ/",
+      "ua": "я теж / я теж ні",
+      "ru": "я тоже / я тоже нет",
+      "example": "— I'm tired. — So am I.",
+      "audio": ""
+    },
+    {
+      "word": "I'd love to",
+      "ipa": "/aɪd ˈlʌv tə/",
+      "ua": "із задоволенням",
+      "ru": "с удовольствием",
+      "example": "— Come with us! — I'd love to.",
+      "audio": ""
+    },
+    {
+      "word": "if so / if not",
+      "ipa": "/ɪf ˈsəʊ/",
+      "ua": "якщо так / якщо ні",
+      "ru": "если да / если нет",
+      "example": "Are you free? If so, call me.",
+      "audio": ""
+    },
+    {
+      "word": "not yet",
+      "ipa": "/nɒt ˈjet/",
+      "ua": "ще ні",
+      "ru": "ещё нет",
+      "example": "— Are you ready? — Not yet.",
+      "audio": ""
+    },
+    {
+      "word": "sounds good",
+      "ipa": "/saʊndz ˈɡʊd/",
+      "ua": "звучить добре",
+      "ru": "звучит хорошо",
+      "example": "— Pizza tonight? — Sounds good.",
+      "audio": ""
+    },
+    {
+      "word": "anything else?",
+      "ipa": "/ˈeniθɪŋ els/",
+      "ua": "щось іще?",
+      "ru": "что-нибудь ещё?",
+      "example": "Anything else?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u11-l01",
+      "title": {
+        "en": "so and not",
+        "ua": "so і not",
+        "ru": "so и not"
+      },
+      "recap": {
+        "from": "c1-u10-l02",
+        "note": {
+          "ua": "Згадаймо: due to / owing to / as a result of + іменник · since / as + речення · consequently / therefore / hence / thus — наслідок · so as to / in order to + дієслово",
+          "ru": "Вспомним: due to / owing to / as a result of + существительное · since / as + предложение · consequently / therefore / hence / thus — следствие · so as to / in order to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-cause",
+            "question": "The train was late ___ a technical problem.",
+            "options": [
+              "due to",
+              "because",
+              "therefore"
+            ],
+            "answer": "due to",
+            "explain": {
+              "ua": "Іменник → due to.",
+              "ru": "Существительное → due to."
+            },
+            "id": "c1-u11-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-cause",
+            "question": "We spoke quietly so as ___ wake the baby.",
+            "options": [
+              "not to",
+              "to not",
+              "not"
+            ],
+            "answer": "not to",
+            "explain": {
+              "ua": "So as not to.",
+              "ru": "So as not to."
+            },
+            "id": "c1-u11-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "think / hope / expect / suppose / be afraid + so (так) / not (ні) · I don't think so · do so",
+          "ru": "think / hope / expect / suppose / be afraid + so (да) / not (нет) · I don't think so · do so"
+        },
+        "explain": {
+          "ua": "I think so — так. Заперечення: I don't think so (частіше, ніж I think not). А от з hope і be afraid — лише not: I hope not, I'm afraid not. Do so замінює дієслово з продовженням: He promised to call, but he didn't do so.",
+          "ru": "I think so — да. Отрицание: I don't think so (чаще, чем I think not). А вот с hope и be afraid — только not: I hope not, I'm afraid not. Do so заменяет глагол с продолжением: He promised to call, but he didn't do so."
+        },
+        "examples": [
+          {
+            "en": "— Is the shop open on Sunday? — I don't think so.",
+            "ua": "— Магазин працює в неділю? — Не думаю.",
+            "ru": "— Магазин работает в воскресенье? — Не думаю."
+          },
+          {
+            "en": "— Are we late? — I'm afraid so.",
+            "ua": "— Ми спізнилися? — На жаль, так.",
+            "ru": "— Мы опоздали? — К сожалению, да."
+          },
+          {
+            "en": "— Will it be expensive? — I hope not.",
+            "ua": "— Буде дорого? — Сподіваюся, що ні.",
+            "ru": "— Будет дорого? — Надеюсь, что нет."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "— Is he at home? — I think ___ .",
+          "options": [
+            "so",
+            "it",
+            "yes"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "I think so.",
+            "ru": "I think so."
+          },
+          "id": "c1-u11-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "— Will it rain tomorrow? — I hope ___ .",
+          "options": [
+            "not",
+            "no",
+            "don't"
+          ],
+          "answer": "not",
+          "explain": {
+            "ua": "I hope not.",
+            "ru": "I hope not."
+          },
+          "id": "c1-u11-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "— Did we miss the train? — I'm afraid ___ .",
+          "options": [
+            "so",
+            "it",
+            "yes"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "I'm afraid so.",
+            "ru": "I'm afraid so."
+          },
+          "id": "c1-u11-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "— Is the museum free? — I don't think ___ .",
+          "options": [
+            "so",
+            "not",
+            "it"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "I don't think so.",
+            "ru": "I don't think so."
+          },
+          "id": "c1-u11-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "— Will he apologise? — I ___ it.",
+          "options": [
+            "doubt",
+            "hope",
+            "think"
+          ],
+          "answer": "doubt",
+          "explain": {
+            "ua": "I doubt it.",
+            "ru": "I doubt it."
+          },
+          "id": "c1-u11-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-so-not",
+          "question": "Anyone who wishes to leave may ___ so now.",
+          "options": [
+            "do",
+            "make",
+            "go"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Do so.",
+            "ru": "Do so."
+          },
+          "id": "c1-u11-l01-e06"
+        },
+        {
+          "type": "match",
+          "topic": "ellipsis-so-not",
+          "pairs": [
+            {
+              "left": "I think so.",
+              "right": {
+                "ua": "Думаю, так.",
+                "ru": "Думаю, да."
+              }
+            },
+            {
+              "left": "I hope not.",
+              "right": {
+                "ua": "Сподіваюся, ні.",
+                "ru": "Надеюсь, нет."
+              }
+            },
+            {
+              "left": "I'm afraid so.",
+              "right": {
+                "ua": "На жаль, так.",
+                "ru": "К сожалению, да."
+              }
+            },
+            {
+              "left": "I doubt it.",
+              "right": {
+                "ua": "Сумніваюся.",
+                "ru": "Сомневаюсь."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Короткі відповіді.",
+            "ru": "Короткие ответы."
+          },
+          "id": "c1-u11-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "ellipsis-so-not",
+          "sentence": "— Will it be cold? — I hope no.",
+          "answer": "— Will it be cold? — I hope not.",
+          "accept": [],
+          "explain": {
+            "ua": "I hope not.",
+            "ru": "I hope not."
+          },
+          "id": "c1-u11-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ellipsis-so-not",
+          "prompt": {
+            "ua": "— Він прийде? — Не думаю.",
+            "ru": "— Он придёт? — Не думаю."
+          },
+          "answer": "— Is he coming? — I don't think so.",
+          "accept": [
+            "— Will he come? — I don't think so.",
+            "I don't think so."
+          ],
+          "explain": {
+            "ua": "I don't think so.",
+            "ru": "I don't think so."
+          },
+          "id": "c1-u11-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u11-l02",
+      "title": {
+        "en": "Avoiding repetition",
+        "ua": "Без повторів",
+        "ru": "Без повторов"
+      },
+      "recap": {
+        "from": "c1-u11-l01",
+        "note": {
+          "ua": "Згадаймо: think / hope / expect / suppose / be afraid + so (так) / not (ні) · I don't think so · do so",
+          "ru": "Вспомним: think / hope / expect / suppose / be afraid + so (да) / not (нет) · I don't think so · do so"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ellipsis-so-not",
+            "question": "— Is he at home? — I think ___ .",
+            "options": [
+              "so",
+              "it",
+              "yes"
+            ],
+            "answer": "so",
+            "explain": {
+              "ua": "I think so.",
+              "ru": "I think so."
+            },
+            "id": "c1-u11-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ellipsis-so-not",
+            "question": "— Will he apologise? — I ___ it.",
+            "options": [
+              "doubt",
+              "hope",
+              "think"
+            ],
+            "answer": "doubt",
+            "explain": {
+              "ua": "I doubt it.",
+              "ru": "I doubt it."
+            },
+            "id": "c1-u11-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "one / ones · so + aux + S / neither + aux + S · aux у кінці (I can't, but she can) · to замість дієслова (I'd love to)",
+          "ru": "one / ones · so + aux + S / neither + aux + S · aux в конце (I can't, but she can) · to вместо глагола (I'd love to)"
+        },
+        "explain": {
+          "ua": "Which one? The blue ones. — I like jazz. — So do I. — I can't swim. — Neither can I. I wanted to go, but I couldn't. — Do you want to come? — I'd love to / I'd like to / I don't want to.",
+          "ru": "Which one? The blue ones. — I like jazz. — So do I. — I can't swim. — Neither can I. I wanted to go, but I couldn't. — Do you want to come? — I'd love to / I'd like to / I don't want to."
+        },
+        "examples": [
+          {
+            "en": "This cup is dirty. Can I have a clean one?",
+            "ua": "Ця чашка брудна. Можна чисту?",
+            "ru": "Эта чашка грязная. Можно чистую?"
+          },
+          {
+            "en": "— I've never been to Japan. — Neither have I.",
+            "ua": "— Я ніколи не була в Японії. — Я теж.",
+            "ru": "— Я никогда не была в Японии. — Я тоже."
+          },
+          {
+            "en": "I didn't want to go, but I had to.",
+            "ua": "Я не хотіла йти, але мусила.",
+            "ru": "Я не хотела идти, но пришлось."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "These shoes are too small. Do you have bigger ___ ?",
+          "options": [
+            "ones",
+            "one",
+            "them"
+          ],
+          "answer": "ones",
+          "explain": {
+            "ua": "Множина → ones.",
+            "ru": "Множественное → ones."
+          },
+          "id": "c1-u11-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "— I love Lviv. — So ___ I.",
+          "options": [
+            "do",
+            "am",
+            "have"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Love → do.",
+            "ru": "Love → do."
+          },
+          "id": "c1-u11-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "— I can't drive. — Neither ___ I.",
+          "options": [
+            "can",
+            "do",
+            "am"
+          ],
+          "answer": "can",
+          "explain": {
+            "ua": "Can't → can.",
+            "ru": "Can't → can."
+          },
+          "id": "c1-u11-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "— I've finished. — So ___ I.",
+          "options": [
+            "have",
+            "do",
+            "am"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Have finished → have.",
+            "ru": "Have finished → have."
+          },
+          "id": "c1-u11-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "— Would you like to join us? — I'd love ___ .",
+          "options": [
+            "to",
+            "it",
+            "so"
+          ],
+          "answer": "to",
+          "explain": {
+            "ua": "I'd love to.",
+            "ru": "I'd love to."
+          },
+          "id": "c1-u11-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "I wanted to call you, but I ___ .",
+          "options": [
+            "couldn't",
+            "couldn't call",
+            "not could"
+          ],
+          "answer": "couldn't",
+          "explain": {
+            "ua": "Без повтору.",
+            "ru": "Без повтора."
+          },
+          "id": "c1-u11-l02-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-substitution",
+          "question": "Are you free tonight? If ___ , let's meet.",
+          "options": [
+            "so",
+            "yes",
+            "it"
+          ],
+          "answer": "so",
+          "explain": {
+            "ua": "If so.",
+            "ru": "If so."
+          },
+          "id": "c1-u11-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "ellipsis-substitution",
+          "sentence": "— I'm hungry. — So do I.",
+          "answer": "— I'm hungry. — So am I.",
+          "accept": [
+            "— I'm hungry. — Me too."
+          ],
+          "explain": {
+            "ua": "Am → am.",
+            "ru": "Am → am."
+          },
+          "id": "c1-u11-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ellipsis-substitution",
+          "prompt": {
+            "ua": "— Я не люблю каву. — Я теж.",
+            "ru": "— Я не люблю кофе. — Я тоже."
+          },
+          "answer": "— I don't like coffee. — Neither do I.",
+          "accept": [
+            "— I don't like coffee. — Nor do I.",
+            "— I don't like coffee. — Me neither.",
+            "Neither do I."
+          ],
+          "explain": {
+            "ua": "Neither do I.",
+            "ru": "Neither do I."
+          },
+          "id": "c1-u11-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u11-l03",
+      "title": {
+        "en": "Spoken English",
+        "ua": "Розмовна мова",
+        "ru": "Разговорная речь"
+      },
+      "recap": {
+        "from": "c1-u11-l02",
+        "note": {
+          "ua": "Згадаймо: one / ones · so + aux + S / neither + aux + S · aux у кінці (I can't, but she can) · to замість дієслова (I'd love to)",
+          "ru": "Вспомним: one / ones · so + aux + S / neither + aux + S · aux в конце (I can't, but she can) · to вместо глагола (I'd love to)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ellipsis-substitution",
+            "question": "These shoes are too small. Do you have bigger ___ ?",
+            "options": [
+              "ones",
+              "one",
+              "them"
+            ],
+            "answer": "ones",
+            "explain": {
+              "ua": "Множина → ones.",
+              "ru": "Множественное → ones."
+            },
+            "id": "c1-u11-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ellipsis-substitution",
+            "question": "— Would you like to join us? — I'd love ___ .",
+            "options": [
+              "to",
+              "it",
+              "so"
+            ],
+            "answer": "to",
+            "explain": {
+              "ua": "I'd love to.",
+              "ru": "I'd love to."
+            },
+            "id": "c1-u11-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Розмовний еліпсис: (Do you) want a coffee? · (Have you) seen the news? · (It) sounds good · (I'm) not sure · (Is there) anything else?",
+          "ru": "Разговорный эллипсис: (Do you) want a coffee? · (Have you) seen the news? · (It) sounds good · (I'm) not sure · (Is there) anything else?"
+        },
+        "explain": {
+          "ua": "У живій розмові носії «з'їдають» початок речення: Want some tea? Seen my keys? Sounds great! Never mind. Got it. Це нормально в чатах і розмовах, але не в офіційних листах.",
+          "ru": "В живом разговоре носители «съедают» начало предложения: Want some tea? Seen my keys? Sounds great! Never mind. Got it. Это нормально в чатах и разговорах, но не в официальных письмах."
+        },
+        "examples": [
+          {
+            "en": "Want a lift?",
+            "ua": "Тебе підвезти?",
+            "ru": "Тебя подвезти?"
+          },
+          {
+            "en": "Seen my phone anywhere?",
+            "ua": "Не бачив мій телефон?",
+            "ru": "Не видел мой телефон?"
+          },
+          {
+            "en": "— Dinner at 8? — Sounds good.",
+            "ua": "— Вечеря о восьмій? — Чудово.",
+            "ru": "— Ужин в восемь? — Отлично."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": {
+            "ua": "Повна форма: «Want a coffee?»",
+            "ru": "Полная форма: «Want a coffee?»"
+          },
+          "options": [
+            "Do you want a coffee?",
+            "Are you want a coffee?",
+            "You wanting a coffee?"
+          ],
+          "answer": "Do you want a coffee?",
+          "explain": {
+            "ua": "Пропущено Do you.",
+            "ru": "Пропущено Do you."
+          },
+          "id": "c1-u11-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": {
+            "ua": "Повна форма: «Seen the news?»",
+            "ru": "Полная форма: «Seen the news?»"
+          },
+          "options": [
+            "Have you seen the news?",
+            "Did you seen the news?",
+            "Are you seen the news?"
+          ],
+          "answer": "Have you seen the news?",
+          "explain": {
+            "ua": "Пропущено Have you.",
+            "ru": "Пропущено Have you."
+          },
+          "id": "c1-u11-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": "— Let's meet at 7. — ___ good.",
+          "options": [
+            "Sounds",
+            "Sound",
+            "Is sound"
+          ],
+          "answer": "Sounds",
+          "explain": {
+            "ua": "(It) sounds good.",
+            "ru": "(It) sounds good."
+          },
+          "id": "c1-u11-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": "— Are you ready? — Not ___ .",
+          "options": [
+            "yet",
+            "still",
+            "already"
+          ],
+          "answer": "yet",
+          "explain": {
+            "ua": "Not yet.",
+            "ru": "Not yet."
+          },
+          "id": "c1-u11-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": "— Sorry, what did you say? — Never ___ .",
+          "options": [
+            "mind",
+            "matter",
+            "worry"
+          ],
+          "answer": "mind",
+          "explain": {
+            "ua": "Never mind.",
+            "ru": "Never mind."
+          },
+          "id": "c1-u11-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "ellipsis-spoken",
+          "question": {
+            "ua": "Де розмовний стиль доречний?",
+            "ru": "Где разговорный стиль уместен?"
+          },
+          "options": [
+            "a chat with a friend",
+            "a job application",
+            "a complaint letter"
+          ],
+          "answer": "a chat with a friend",
+          "explain": {
+            "ua": "Еліпсис — для неформального.",
+            "ru": "Эллипсис — для неформального."
+          },
+          "id": "c1-u11-l03-e06"
+        },
+        {
+          "type": "match",
+          "topic": "ellipsis-spoken",
+          "pairs": [
+            {
+              "left": "Want a lift?",
+              "right": "Do you want a lift?"
+            },
+            {
+              "left": "Got it.",
+              "right": "I've got it."
+            },
+            {
+              "left": "Sounds good.",
+              "right": "It sounds good."
+            },
+            {
+              "left": "Anything else?",
+              "right": "Is there anything else?"
+            }
+          ],
+          "explain": {
+            "ua": "Коротко → повністю.",
+            "ru": "Коротко → полностью."
+          },
+          "id": "c1-u11-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ellipsis-spoken",
+          "audio_text": "Seen my keys anywhere?",
+          "options": [
+            "Seen my keys anywhere?",
+            "Seen my kids anywhere?",
+            "Send my keys anywhere?"
+          ],
+          "answer": "Seen my keys anywhere?",
+          "audio": "",
+          "explain": {
+            "ua": "Have you seen…",
+            "ru": "Have you seen…"
+          },
+          "id": "c1-u11-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ellipsis-spoken",
+          "prompt": {
+            "ua": "— Кави? — Із задоволенням.",
+            "ru": "— Кофе? — С удовольствием."
+          },
+          "answer": "— Coffee? — I'd love some.",
+          "accept": [
+            "— Want a coffee? — I'd love one.",
+            "— Coffee? — Yes, please.",
+            "— Coffee? — I'd love one.",
+            "— Want some coffee? — I'd love some."
+          ],
+          "explain": {
+            "ua": "I'd love some.",
+            "ru": "I'd love some."
+          },
+          "id": "c1-u11-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "ellipsis-so-not",
+      "question": "— Is it true? — I'm afraid ___ .",
+      "options": [
+        "so",
+        "it",
+        "yes"
+      ],
+      "answer": "so",
+      "explain": {
+        "ua": "I'm afraid so.",
+        "ru": "I'm afraid so."
+      },
+      "id": "c1-u11-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "ellipsis-so-not",
+      "question": "— Will they be late? — I hope ___ .",
+      "options": [
+        "not",
+        "no",
+        "don't"
+      ],
+      "answer": "not",
+      "explain": {
+        "ua": "I hope not.",
+        "ru": "I hope not."
+      },
+      "id": "c1-u11-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "ellipsis-substitution",
+      "question": "I don't like this jacket. I prefer the black ___ .",
+      "options": [
+        "one",
+        "ones",
+        "it"
+      ],
+      "answer": "one",
+      "explain": {
+        "ua": "One.",
+        "ru": "One."
+      },
+      "id": "c1-u11-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "ellipsis-substitution",
+      "question": "— I'm exhausted. — So ___ I.",
+      "options": [
+        "am",
+        "do",
+        "have"
+      ],
+      "answer": "am",
+      "explain": {
+        "ua": "So am I.",
+        "ru": "So am I."
+      },
+      "id": "c1-u11-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "ellipsis-substitution",
+      "question": "— I didn't see it. — Neither ___ I.",
+      "options": [
+        "did",
+        "do",
+        "was"
+      ],
+      "answer": "did",
+      "explain": {
+        "ua": "Neither did I.",
+        "ru": "Neither did I."
+      },
+      "id": "c1-u11-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "ellipsis-substitution",
+      "question": "— Can you come? — I'd love ___ .",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "I'd love to.",
+        "ru": "I'd love to."
+      },
+      "id": "c1-u11-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "ellipsis-so-not",
+      "question": "— Is it open? — I don't think ___ .",
+      "answer": "so",
+      "accept": [],
+      "explain": {
+        "ua": "I don't think so.",
+        "ru": "I don't think so."
+      },
+      "id": "c1-u11-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "ellipsis-so-not",
+      "sentence": "— Will it hurt? — I hope no.",
+      "answer": "— Will it hurt? — I hope not.",
+      "accept": [],
+      "explain": {
+        "ua": "Hope not.",
+        "ru": "Hope not."
+      },
+      "id": "c1-u11-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "ellipsis-substitution",
+      "sentence": "— I can swim. — So do I.",
+      "answer": "— I can swim. — So can I.",
+      "accept": [
+        "— I can swim. — Me too."
+      ],
+      "explain": {
+        "ua": "Can → can.",
+        "ru": "Can → can."
+      },
+      "id": "c1-u11-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "ellipsis-substitution",
+      "words": [
+        "but",
+        "to",
+        "stay",
+        "couldn't",
+        "I",
+        "wanted",
+        "I"
+      ],
+      "answer": "I wanted to stay but I couldn't",
+      "explain": {
+        "ua": "But I couldn't.",
+        "ru": "But I couldn't."
+      },
+      "id": "c1-u11-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "ellipsis-spoken",
+      "prompt": {
+        "ua": "— Ти готова? — Ще ні.",
+        "ru": "— Ты готова? — Ещё нет."
+      },
+      "answer": "— Are you ready? — Not yet.",
+      "accept": [
+        "Not yet."
+      ],
+      "explain": {
+        "ua": "Not yet.",
+        "ru": "Not yet."
+      },
+      "id": "c1-u11-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "ellipsis-spoken",
+      "audio_text": "Sounds good to me.",
+      "options": [
+        "Sounds good to me.",
+        "Sounds good for me.",
+        "Sound good to me."
+      ],
+      "answer": "Sounds good to me.",
+      "audio": "",
+      "explain": {
+        "ua": "Sounds good.",
+        "ru": "Sounds good."
+      },
+      "id": "c1-u11-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1950 @@
+{
+  "id": "a1-u16",
+  "level": "A1",
+  "order": 16,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Simple: questions and negatives",
+    "ua": "Present Simple: питання і заперечення",
+    "ru": "Present Simple: вопросы и отрицания"
+  },
+  "rule": {
+    "formula": {
+      "ua": "don't / doesn't + дієслово · Do / Does … + дієслово?",
+      "ru": "don't / doesn't + глагол · Do / Does … + глагол?"
+    },
+    "explain": {
+      "ua": "Для заперечень і питань потрібен помічник do / does. Does — для he, she, it. Після does дієслово вже без -s: She doesn't work. Does she work?",
+      "ru": "Для отрицаний и вопросов нужен помощник do / does. Does — для he, she, it. После does глагол уже без -s: She doesn't work. Does she work?"
+    },
+    "examples": [
+      {
+        "en": "I don't eat meat.",
+        "ua": "Я не їм м'яса.",
+        "ru": "Я не ем мясо."
+      },
+      {
+        "en": "He doesn't like coffee.",
+        "ua": "Він не любить каву.",
+        "ru": "Он не любит кофе."
+      },
+      {
+        "en": "Do you speak English?",
+        "ua": "Ти розмовляєш англійською?",
+        "ru": "Ты говоришь по-английски?"
+      }
+    ],
+    "compare": {
+      "ua": "В українській заперечення — просто «не». В англійській — don't / doesn't, а -s «переходить» у does: He works → He doesn't work.",
+      "ru": "В русском отрицание — просто «не». В английском — don't / doesn't, а -s «переходит» в does: He works → He doesn't work."
+    }
+  },
+  "vocab": [
+    {
+      "word": "smoke",
+      "ipa": "/sməʊk/",
+      "ua": "курити",
+      "ru": "курить",
+      "example": "I don't smoke.",
+      "audio": ""
+    },
+    {
+      "word": "cook",
+      "ipa": "/kʊk/",
+      "ua": "готувати (їжу)",
+      "ru": "готовить (еду)",
+      "example": "Do you cook?",
+      "audio": ""
+    },
+    {
+      "word": "drive",
+      "ipa": "/draɪv/",
+      "ua": "водити машину",
+      "ru": "водить машину",
+      "example": "She doesn't drive.",
+      "audio": ""
+    },
+    {
+      "word": "swim",
+      "ipa": "/swɪm/",
+      "ua": "плавати",
+      "ru": "плавать",
+      "example": "Do they swim?",
+      "audio": ""
+    },
+    {
+      "word": "want",
+      "ipa": "/wɒnt/",
+      "ua": "хотіти",
+      "ru": "хотеть",
+      "example": "What do you want?",
+      "audio": ""
+    },
+    {
+      "word": "need",
+      "ipa": "/niːd/",
+      "ua": "потребувати",
+      "ru": "нуждаться, надо",
+      "example": "I don't need it.",
+      "audio": ""
+    },
+    {
+      "word": "understand",
+      "ipa": "/ˌʌndəˈstænd/",
+      "ua": "розуміти",
+      "ru": "понимать",
+      "example": "I don't understand.",
+      "audio": ""
+    },
+    {
+      "word": "start",
+      "ipa": "/stɑːt/",
+      "ua": "починати(ся)",
+      "ru": "начинать(ся)",
+      "example": "When does it start?",
+      "audio": ""
+    },
+    {
+      "word": "finish",
+      "ipa": "/ˈfɪnɪʃ/",
+      "ua": "закінчувати(ся)",
+      "ru": "заканчивать(ся)",
+      "example": "When do you finish work?",
+      "audio": ""
+    },
+    {
+      "word": "what",
+      "ipa": "/wɒt/",
+      "ua": "що",
+      "ru": "что",
+      "example": "What do you do?",
+      "audio": ""
+    },
+    {
+      "word": "where",
+      "ipa": "/weə/",
+      "ua": "де, куди",
+      "ru": "где, куда",
+      "example": "Where do you live?",
+      "audio": ""
+    },
+    {
+      "word": "when",
+      "ipa": "/wen/",
+      "ua": "коли",
+      "ru": "когда",
+      "example": "When do you get up?",
+      "audio": ""
+    },
+    {
+      "word": "who",
+      "ipa": "/huː/",
+      "ua": "хто",
+      "ru": "кто",
+      "example": "Who lives here?",
+      "audio": ""
+    },
+    {
+      "word": "why",
+      "ipa": "/waɪ/",
+      "ua": "чому",
+      "ru": "почему",
+      "example": "Why do you study English?",
+      "audio": ""
+    },
+    {
+      "word": "weekend",
+      "ipa": "/ˌwiːkˈend/",
+      "ua": "вихідні",
+      "ru": "выходные",
+      "example": "What do you do at the weekend?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u16-l01",
+      "title": {
+        "en": "don't",
+        "ua": "don't",
+        "ru": "don't"
+      },
+      "recap": {
+        "from": "a1-u15-l04",
+        "note": {
+          "ua": "Згадаймо: have → has · do → does · go → goes",
+          "ru": "Вспомним: have → has · do → does · go → goes"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-irregular",
+            "question": "She ___ two cats.",
+            "options": [
+              "has",
+              "haves",
+              "have"
+            ],
+            "answer": "has",
+            "explain": {
+              "ua": "Have → has.",
+              "ru": "Have → has."
+            },
+            "id": "a1-u16-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-irregular",
+            "question": "They ___ a big house.",
+            "options": [
+              "have",
+              "has",
+              "haves"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "They → have (без змін).",
+              "ru": "They → have (без изменений)."
+            },
+            "id": "a1-u16-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I / you / we / they + don't + дієслово",
+          "ru": "I / you / we / they + don't + глагол"
+        },
+        "explain": {
+          "ua": "Заперечення для I, you, we, they: don't (= do not) + дієслово. I don't smoke.",
+          "ru": "Отрицание для I, you, we, they: don't (= do not) + глагол. I don't smoke."
+        },
+        "examples": [
+          {
+            "en": "I don't smoke.",
+            "ua": "Я не курю.",
+            "ru": "Я не курю."
+          },
+          {
+            "en": "We don't eat meat.",
+            "ua": "Ми не їмо м'яса.",
+            "ru": "Мы не едим мясо."
+          },
+          {
+            "en": "They don't live here.",
+            "ua": "Вони тут не живуть.",
+            "ru": "Они здесь не живут."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "I ___ smoke.",
+          "options": [
+            "don't",
+            "not",
+            "am not"
+          ],
+          "answer": "don't",
+          "explain": {
+            "ua": "Заперечення дієслова — don't.",
+            "ru": "Отрицание глагола — don't."
+          },
+          "id": "a1-u16-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "We ___ meat.",
+          "options": [
+            "don't eat",
+            "not eat",
+            "aren't eat"
+          ],
+          "answer": "don't eat",
+          "explain": {
+            "ua": "We don't eat.",
+            "ru": "We don't eat."
+          },
+          "id": "a1-u16-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "They ___ here.",
+          "options": [
+            "don't live",
+            "don't lives",
+            "not live"
+          ],
+          "answer": "don't live",
+          "explain": {
+            "ua": "Don't + дієслово без змін.",
+            "ru": "Don't + глагол без изменений."
+          },
+          "id": "a1-u16-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "You ___ coffee.",
+          "options": [
+            "don't drink",
+            "aren't drink",
+            "not drinks"
+          ],
+          "answer": "don't drink",
+          "explain": {
+            "ua": "You don't drink.",
+            "ru": "You don't drink."
+          },
+          "id": "a1-u16-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-negative",
+          "question": "I ___ understand. (not)",
+          "answer": "don't",
+          "accept": [
+            "do not"
+          ],
+          "explain": {
+            "ua": "I don't understand.",
+            "ru": "I don't understand."
+          },
+          "id": "a1-u16-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-negative",
+          "sentence": "I not like tea.",
+          "answer": "I don't like tea.",
+          "accept": [
+            "I do not like tea."
+          ],
+          "explain": {
+            "ua": "Потрібен помічник don't.",
+            "ru": "Нужен помощник don't."
+          },
+          "id": "a1-u16-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-negative",
+          "sentence": "I'm not smoke.",
+          "answer": "I don't smoke.",
+          "accept": [
+            "I do not smoke."
+          ],
+          "explain": {
+            "ua": "Am not — для станів; для дій — don't.",
+            "ru": "Am not — для состояний; для действий — don't."
+          },
+          "id": "a1-u16-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-simple-negative",
+          "words": [
+            "don't",
+            "We",
+            "TV",
+            "watch"
+          ],
+          "answer": "We don't watch TV",
+          "explain": {
+            "ua": "We → don't → watch → TV.",
+            "ru": "We → don't → watch → TV."
+          },
+          "id": "a1-u16-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-negative",
+          "prompt": {
+            "ua": "Я не розумію.",
+            "ru": "Я не понимаю."
+          },
+          "answer": "I don't understand.",
+          "accept": [
+            "I do not understand."
+          ],
+          "explain": {
+            "ua": "I don't + understand.",
+            "ru": "I don't + understand."
+          },
+          "id": "a1-u16-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l02",
+      "title": {
+        "en": "doesn't",
+        "ua": "doesn't",
+        "ru": "doesn't"
+      },
+      "recap": {
+        "from": "a1-u16-l01",
+        "note": {
+          "ua": "Згадаймо: I / you / we / they + don't + дієслово",
+          "ru": "Вспомним: I / you / we / they + don't + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-negative",
+            "question": "I ___ smoke.",
+            "options": [
+              "don't",
+              "not",
+              "am not"
+            ],
+            "answer": "don't",
+            "explain": {
+              "ua": "Заперечення дієслова — don't.",
+              "ru": "Отрицание глагола — don't."
+            },
+            "id": "a1-u16-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "present-simple-negative",
+            "question": "I ___ understand. (not)",
+            "answer": "don't",
+            "accept": [
+              "do not"
+            ],
+            "explain": {
+              "ua": "I don't understand.",
+              "ru": "I don't understand."
+            },
+            "id": "a1-u16-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "he / she / it + doesn't + дієслово (без -s!)",
+          "ru": "he / she / it + doesn't + глагол (без -s!)"
+        },
+        "explain": {
+          "ua": "Для he, she, it — doesn't (= does not). Дієслово після нього — без -s: She doesn't drive (не drives).",
+          "ru": "Для he, she, it — doesn't (= does not). Глагол после него — без -s: She doesn't drive (не drives)."
+        },
+        "examples": [
+          {
+            "en": "She doesn't drive.",
+            "ua": "Вона не водить машину.",
+            "ru": "Она не водит машину."
+          },
+          {
+            "en": "He doesn't like fish.",
+            "ua": "Він не любить рибу.",
+            "ru": "Он не любит рыбу."
+          },
+          {
+            "en": "It doesn't work.",
+            "ua": "Воно не працює.",
+            "ru": "Это не работает."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "She ___ drive.",
+          "options": [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "doesn't",
+          "explain": {
+            "ua": "She → doesn't.",
+            "ru": "She → doesn't."
+          },
+          "id": "a1-u16-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "He doesn't ___ fish.",
+          "options": [
+            "like",
+            "likes",
+            "liking"
+          ],
+          "answer": "like",
+          "explain": {
+            "ua": "Після doesn't — без -s.",
+            "ru": "После doesn't — без -s."
+          },
+          "id": "a1-u16-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "My phone ___ work.",
+          "options": [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "doesn't",
+          "explain": {
+            "ua": "Phone = it → doesn't.",
+            "ru": "Phone = it → doesn't."
+          },
+          "id": "a1-u16-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-negative",
+          "question": "My parents ___ smoke.",
+          "options": [
+            "don't",
+            "doesn't",
+            "aren't"
+          ],
+          "answer": "don't",
+          "explain": {
+            "ua": "Parents = they → don't.",
+            "ru": "Parents = they → don't."
+          },
+          "id": "a1-u16-l02-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple-negative",
+          "bank": [
+            "don't",
+            "doesn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ cook.",
+            "Anna ___ cook.",
+            "We ___ swim.",
+            "Max ___ swim."
+          ],
+          "answers": [
+            "don't",
+            "doesn't",
+            "don't",
+            "doesn't"
+          ],
+          "explain": {
+            "ua": "I / we → don't, he / she → doesn't.",
+            "ru": "I / we → don't, he / she → doesn't."
+          },
+          "id": "a1-u16-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-negative",
+          "sentence": "She doesn't works on Sunday.",
+          "answer": "She doesn't work on Sunday.",
+          "accept": [],
+          "explain": {
+            "ua": "Після doesn't — без -s.",
+            "ru": "После doesn't — без -s."
+          },
+          "id": "a1-u16-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-negative",
+          "sentence": "He don't eat meat.",
+          "answer": "He doesn't eat meat.",
+          "accept": [
+            "He does not eat meat."
+          ],
+          "explain": {
+            "ua": "He → doesn't.",
+            "ru": "He → doesn't."
+          },
+          "id": "a1-u16-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple-negative",
+          "audio_text": "It doesn't work.",
+          "options": [
+            "It doesn't work.",
+            "It don't work.",
+            "It doesn't walk."
+          ],
+          "answer": "It doesn't work.",
+          "audio": "",
+          "explain": {
+            "ua": "Doesn't — «дазнт».",
+            "ru": "Doesn't — «дазнт»."
+          },
+          "id": "a1-u16-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-negative",
+          "prompt": {
+            "ua": "Мій тато не курить.",
+            "ru": "Мой папа не курит."
+          },
+          "answer": "My dad doesn't smoke.",
+          "accept": [
+            "My father doesn't smoke.",
+            "My dad does not smoke."
+          ],
+          "explain": {
+            "ua": "Dad → doesn't + smoke.",
+            "ru": "Dad → doesn't + smoke."
+          },
+          "id": "a1-u16-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l03",
+      "title": {
+        "en": "Do…?",
+        "ua": "Do…?",
+        "ru": "Do…?"
+      },
+      "recap": {
+        "from": "a1-u16-l02",
+        "note": {
+          "ua": "Згадаймо: he / she / it + doesn't + дієслово (без -s!)",
+          "ru": "Вспомним: he / she / it + doesn't + глагол (без -s!)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-negative",
+            "question": "She ___ drive.",
+            "options": [
+              "doesn't",
+              "don't",
+              "isn't"
+            ],
+            "answer": "doesn't",
+            "explain": {
+              "ua": "She → doesn't.",
+              "ru": "She → doesn't."
+            },
+            "id": "a1-u16-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-negative",
+            "question": "My parents ___ smoke.",
+            "options": [
+              "don't",
+              "doesn't",
+              "aren't"
+            ],
+            "answer": "don't",
+            "explain": {
+              "ua": "Parents = they → don't.",
+              "ru": "Parents = they → don't."
+            },
+            "id": "a1-u16-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Do + I / you / we / they + дієслово?",
+          "ru": "Do + I / you / we / they + глагол?"
+        },
+        "explain": {
+          "ua": "Питання: Do на початок, далі хто і дієслово без змін. Do you cook?",
+          "ru": "Вопрос: Do в начало, затем кто и глагол без изменений. Do you cook?"
+        },
+        "examples": [
+          {
+            "en": "Do you speak English?",
+            "ua": "Ти розмовляєш англійською?",
+            "ru": "Ты говоришь по-английски?"
+          },
+          {
+            "en": "Do they live here?",
+            "ua": "Вони тут живуть?",
+            "ru": "Они здесь живут?"
+          },
+          {
+            "en": "Do we need a car?",
+            "ua": "Нам потрібна машина?",
+            "ru": "Нам нужна машина?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "___ you speak English?",
+          "options": [
+            "Do",
+            "Are",
+            "Does"
+          ],
+          "answer": "Do",
+          "explain": {
+            "ua": "You → Do you…?",
+            "ru": "You → Do you…?"
+          },
+          "id": "a1-u16-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "Do they ___ here?",
+          "options": [
+            "live",
+            "lives",
+            "living"
+          ],
+          "answer": "live",
+          "explain": {
+            "ua": "Після do — дієслово без змін.",
+            "ru": "После do — глагол без изменений."
+          },
+          "id": "a1-u16-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "___ you like coffee?",
+          "options": [
+            "Do",
+            "Are",
+            "Is"
+          ],
+          "answer": "Do",
+          "explain": {
+            "ua": "Like — дія → Do.",
+            "ru": "Like — действие → Do."
+          },
+          "id": "a1-u16-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ you tired?",
+          "options": [
+            "Are",
+            "Do",
+            "Does"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "Tired — стан, тут to be → Are you…?",
+            "ru": "Tired — состояние, здесь to be → Are you…?"
+          },
+          "id": "a1-u16-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "present-simple-questions",
+          "question": "___ we need a car?",
+          "answer": "Do",
+          "accept": [],
+          "explain": {
+            "ua": "We → Do we…?",
+            "ru": "We → Do we…?"
+          },
+          "id": "a1-u16-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-questions",
+          "sentence": "You like tea?",
+          "answer": "Do you like tea?",
+          "accept": [],
+          "explain": {
+            "ua": "Питання — з Do на початку.",
+            "ru": "Вопрос — с Do в начале."
+          },
+          "id": "a1-u16-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-questions",
+          "sentence": "Are you work here?",
+          "answer": "Do you work here?",
+          "accept": [],
+          "explain": {
+            "ua": "Work — дія → Do you work?",
+            "ru": "Work — действие → Do you work?"
+          },
+          "id": "a1-u16-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-simple-questions",
+          "words": [
+            "day",
+            "Do",
+            "cook",
+            "you",
+            "every"
+          ],
+          "answer": "Do you cook every day",
+          "explain": {
+            "ua": "Do → you → cook → every day?",
+            "ru": "Do → you → cook → every day?"
+          },
+          "id": "a1-u16-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-questions",
+          "prompt": {
+            "ua": "Ти водиш машину?",
+            "ru": "Ты водишь машину?"
+          },
+          "answer": "Do you drive?",
+          "accept": [
+            "Do you drive a car?"
+          ],
+          "explain": {
+            "ua": "Do you + drive?",
+            "ru": "Do you + drive?"
+          },
+          "id": "a1-u16-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l04",
+      "title": {
+        "en": "Does…?",
+        "ua": "Does…?",
+        "ru": "Does…?"
+      },
+      "recap": {
+        "from": "a1-u16-l03",
+        "note": {
+          "ua": "Згадаймо: Do + I / you / we / they + дієслово?",
+          "ru": "Вспомним: Do + I / you / we / they + глагол?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-questions",
+            "question": "___ you speak English?",
+            "options": [
+              "Do",
+              "Are",
+              "Does"
+            ],
+            "answer": "Do",
+            "explain": {
+              "ua": "You → Do you…?",
+              "ru": "You → Do you…?"
+            },
+            "id": "a1-u16-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "present-simple-questions",
+            "question": "___ we need a car?",
+            "answer": "Do",
+            "accept": [],
+            "explain": {
+              "ua": "We → Do we…?",
+              "ru": "We → Do we…?"
+            },
+            "id": "a1-u16-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Does + he / she / it + дієслово (без -s)?",
+          "ru": "Does + he / she / it + глагол (без -s)?"
+        },
+        "explain": {
+          "ua": "Для he, she, it — Does. Дієслово — без -s: Does she work? (не works).",
+          "ru": "Для he, she, it — Does. Глагол — без -s: Does she work? (не works)."
+        },
+        "examples": [
+          {
+            "en": "Does she work here?",
+            "ua": "Вона тут працює?",
+            "ru": "Она здесь работает?"
+          },
+          {
+            "en": "Does he drive?",
+            "ua": "Він водить машину?",
+            "ru": "Он водит машину?"
+          },
+          {
+            "en": "Does it start at 9?",
+            "ua": "Це починається о дев'ятій?",
+            "ru": "Это начинается в девять?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "___ she work here?",
+          "options": [
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "answer": "Does",
+          "explain": {
+            "ua": "She → Does she…?",
+            "ru": "She → Does she…?"
+          },
+          "id": "a1-u16-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "Does he ___ English?",
+          "options": [
+            "speak",
+            "speaks",
+            "speaking"
+          ],
+          "answer": "speak",
+          "explain": {
+            "ua": "Після does — без -s.",
+            "ru": "После does — без -s."
+          },
+          "id": "a1-u16-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "___ your brother swim?",
+          "options": [
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "answer": "Does",
+          "explain": {
+            "ua": "Brother = he → Does.",
+            "ru": "Brother = he → Does."
+          },
+          "id": "a1-u16-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-questions",
+          "question": "___ your parents cook?",
+          "options": [
+            "Do",
+            "Does",
+            "Are"
+          ],
+          "answer": "Do",
+          "explain": {
+            "ua": "Parents = they → Do.",
+            "ru": "Parents = they → Do."
+          },
+          "id": "a1-u16-l04-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple",
+          "bank": [
+            "Do",
+            "Does"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ you smoke?",
+            "___ Anna smoke?",
+            "___ they drive?",
+            "___ the film start at 8?"
+          ],
+          "answers": [
+            "Do",
+            "Does",
+            "Do",
+            "Does"
+          ],
+          "explain": {
+            "ua": "You / they → Do, Anna / film → Does.",
+            "ru": "You / they → Do, Anna / film → Does."
+          },
+          "id": "a1-u16-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-questions",
+          "sentence": "Does she likes cats?",
+          "answer": "Does she like cats?",
+          "accept": [],
+          "explain": {
+            "ua": "Після does — без -s.",
+            "ru": "После does — без -s."
+          },
+          "id": "a1-u16-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-questions",
+          "sentence": "Do he live here?",
+          "answer": "Does he live here?",
+          "accept": [],
+          "explain": {
+            "ua": "He → Does.",
+            "ru": "He → Does."
+          },
+          "id": "a1-u16-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple-questions",
+          "audio_text": "Does the shop open at 8?",
+          "options": [
+            "Does the shop open at 8?",
+            "Do the shop open at 8?",
+            "Does the shop close at 8?"
+          ],
+          "answer": "Does the shop open at 8?",
+          "audio": "",
+          "explain": {
+            "ua": "Open — відчиняється.",
+            "ru": "Open — открывается."
+          },
+          "id": "a1-u16-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-questions",
+          "prompt": {
+            "ua": "Твоя сестра працює?",
+            "ru": "Твоя сестра работает?"
+          },
+          "answer": "Does your sister work?",
+          "accept": [],
+          "explain": {
+            "ua": "Does + sister + work?",
+            "ru": "Does + sister + work?"
+          },
+          "id": "a1-u16-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l05",
+      "title": {
+        "en": "Short answers",
+        "ua": "Короткі відповіді",
+        "ru": "Короткие ответы"
+      },
+      "recap": {
+        "from": "a1-u16-l04",
+        "note": {
+          "ua": "Згадаймо: Does + he / she / it + дієслово (без -s)?",
+          "ru": "Вспомним: Does + he / she / it + глагол (без -s)?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-questions",
+            "question": "___ she work here?",
+            "options": [
+              "Does",
+              "Do",
+              "Is"
+            ],
+            "answer": "Does",
+            "explain": {
+              "ua": "She → Does she…?",
+              "ru": "She → Does she…?"
+            },
+            "id": "a1-u16-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-questions",
+            "question": "___ your parents cook?",
+            "options": [
+              "Do",
+              "Does",
+              "Are"
+            ],
+            "answer": "Do",
+            "explain": {
+              "ua": "Parents = they → Do.",
+              "ru": "Parents = they → Do."
+            },
+            "id": "a1-u16-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Yes, I do. / No, I don't. · Yes, she does. / No, she doesn't.",
+        "explain": {
+          "ua": "На питання з do / does відповідаємо коротко: Yes / No + хто + do / does / don't / doesn't. Дієслово не повторюємо.",
+          "ru": "На вопрос с do / does отвечаем кратко: Yes / No + кто + do / does / don't / doesn't. Глагол не повторяем."
+        },
+        "examples": [
+          {
+            "en": "Do you cook? — Yes, I do.",
+            "ua": "Ти готуєш? — Так.",
+            "ru": "Ты готовишь? — Да."
+          },
+          {
+            "en": "Does he smoke? — No, he doesn't.",
+            "ua": "Він курить? — Ні.",
+            "ru": "Он курит? — Нет."
+          },
+          {
+            "en": "Do they drive? — Yes, they do.",
+            "ua": "Вони водять? — Так.",
+            "ru": "Они водят? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-short-answers",
+          "question": "Do you like tea? — Yes, I ___.",
+          "options": [
+            "do",
+            "like",
+            "am"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "Yes, I do.",
+            "ru": "Yes, I do."
+          },
+          "id": "a1-u16-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-short-answers",
+          "question": "Does she drive? — No, she ___.",
+          "options": [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "doesn't",
+          "explain": {
+            "ua": "No, she doesn't.",
+            "ru": "No, she doesn't."
+          },
+          "id": "a1-u16-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-short-answers",
+          "question": "Do they live here? — No, they ___.",
+          "options": [
+            "don't",
+            "doesn't",
+            "aren't"
+          ],
+          "answer": "don't",
+          "explain": {
+            "ua": "No, they don't.",
+            "ru": "No, they don't."
+          },
+          "id": "a1-u16-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-short-answers",
+          "question": "Does it work? — Yes, it ___.",
+          "options": [
+            "does",
+            "do",
+            "is"
+          ],
+          "answer": "does",
+          "explain": {
+            "ua": "Yes, it does.",
+            "ru": "Yes, it does."
+          },
+          "id": "a1-u16-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Are you busy? — Yes, I ___.",
+          "options": [
+            "am",
+            "do",
+            "does"
+          ],
+          "answer": "am",
+          "explain": {
+            "ua": "Питання з are → відповідь з am.",
+            "ru": "Вопрос с are → ответ с am."
+          },
+          "id": "a1-u16-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "present-simple-short-answers",
+          "pairs": [
+            {
+              "left": "Do you swim?",
+              "right": "Yes, I do."
+            },
+            {
+              "left": "Does Max cook?",
+              "right": "No, he doesn't."
+            },
+            {
+              "left": "Are you tired?",
+              "right": "Yes, I am."
+            },
+            {
+              "left": "Is it cold?",
+              "right": "No, it isn't."
+            }
+          ],
+          "explain": {
+            "ua": "Do → do, Is → is: відповідь повторює помічника.",
+            "ru": "Do → do, Is → is: ответ повторяет помощника."
+          },
+          "id": "a1-u16-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-short-answers",
+          "sentence": "Do you work here? — Yes, I work.",
+          "answer": "Yes, I do.",
+          "accept": [],
+          "explain": {
+            "ua": "Коротко: Yes, I do.",
+            "ru": "Кратко: Yes, I do."
+          },
+          "id": "a1-u16-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-short-answers",
+          "sentence": "Does she smoke? — No, she don't.",
+          "answer": "No, she doesn't.",
+          "accept": [],
+          "explain": {
+            "ua": "She → doesn't.",
+            "ru": "She → doesn't."
+          },
+          "id": "a1-u16-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple-short-answers",
+          "audio_text": "No, he doesn't.",
+          "options": [
+            "No, he doesn't.",
+            "No, he don't.",
+            "No, he isn't."
+          ],
+          "answer": "No, he doesn't.",
+          "audio": "",
+          "explain": {
+            "ua": "Doesn't.",
+            "ru": "Doesn't."
+          },
+          "id": "a1-u16-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l06",
+      "title": {
+        "en": "What, where, when…",
+        "ua": "What, where, when…",
+        "ru": "What, where, when…"
+      },
+      "recap": {
+        "from": "a1-u16-l05",
+        "note": {
+          "ua": "Згадаймо: Yes, I do. / No, I don't. · Yes, she does. / No, she doesn't.",
+          "ru": "Вспомним: Yes, I do. / No, I don't. · Yes, she does. / No, she doesn't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-short-answers",
+            "question": "Do you like tea? — Yes, I ___.",
+            "options": [
+              "do",
+              "like",
+              "am"
+            ],
+            "answer": "do",
+            "explain": {
+              "ua": "Yes, I do.",
+              "ru": "Yes, I do."
+            },
+            "id": "a1-u16-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-short-answers",
+            "question": "Does it work? — Yes, it ___.",
+            "options": [
+              "does",
+              "do",
+              "is"
+            ],
+            "answer": "does",
+            "explain": {
+              "ua": "Yes, it does.",
+              "ru": "Yes, it does."
+            },
+            "id": "a1-u16-l06-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Питальне слово + do / does + хто + дієслово?",
+          "ru": "Вопросительное слово + do / does + кто + глагол?"
+        },
+        "explain": {
+          "ua": "What / Where / When / Why стоїть на самому початку, далі — як звичайне питання: Where do you live? What does she do?",
+          "ru": "What / Where / When / Why стоит в самом начале, дальше — как обычный вопрос: Where do you live? What does she do?"
+        },
+        "examples": [
+          {
+            "en": "Where do you live?",
+            "ua": "Де ти живеш?",
+            "ru": "Где ты живёшь?"
+          },
+          {
+            "en": "What does he do?",
+            "ua": "Ким він працює?",
+            "ru": "Кем он работает?"
+          },
+          {
+            "en": "When does the film start?",
+            "ua": "Коли починається фільм?",
+            "ru": "Когда начинается фильм?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple-wh",
+          "question": "___ do you live? — In Odesa.",
+          "options": [
+            "Where",
+            "What",
+            "When"
+          ],
+          "answer": "Where",
+          "explain": {
+            "ua": "Where — де.",
+            "ru": "Where — где."
+          },
+          "id": "a1-u16-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-wh",
+          "question": "___ does the shop open? — At 8.",
+          "options": [
+            "When",
+            "Where",
+            "Who"
+          ],
+          "answer": "When",
+          "explain": {
+            "ua": "When — коли.",
+            "ru": "When — когда."
+          },
+          "id": "a1-u16-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-wh",
+          "question": "What ___ she do? — She's a nurse.",
+          "options": [
+            "does",
+            "do",
+            "is"
+          ],
+          "answer": "does",
+          "explain": {
+            "ua": "She → does.",
+            "ru": "She → does."
+          },
+          "id": "a1-u16-l06-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-wh",
+          "question": "Why ___ you study English?",
+          "options": [
+            "do",
+            "does",
+            "are"
+          ],
+          "answer": "do",
+          "explain": {
+            "ua": "You → do.",
+            "ru": "You → do."
+          },
+          "id": "a1-u16-l06-e04"
+        },
+        {
+          "type": "match",
+          "topic": "present-simple-wh",
+          "pairs": [
+            {
+              "left": "What",
+              "right": {
+                "ua": "що",
+                "ru": "что"
+              }
+            },
+            {
+              "left": "Where",
+              "right": {
+                "ua": "де",
+                "ru": "где"
+              }
+            },
+            {
+              "left": "When",
+              "right": {
+                "ua": "коли",
+                "ru": "когда"
+              }
+            },
+            {
+              "left": "Why",
+              "right": {
+                "ua": "чому",
+                "ru": "почему"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Питальні слова.",
+            "ru": "Вопросительные слова."
+          },
+          "id": "a1-u16-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-wh",
+          "sentence": "Where you live?",
+          "answer": "Where do you live?",
+          "accept": [],
+          "explain": {
+            "ua": "Не забувай do.",
+            "ru": "Не забывай do."
+          },
+          "id": "a1-u16-l06-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-wh",
+          "sentence": "What does he likes?",
+          "answer": "What does he like?",
+          "accept": [],
+          "explain": {
+            "ua": "Після does — без -s.",
+            "ru": "После does — без -s."
+          },
+          "id": "a1-u16-l06-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-simple-wh",
+          "words": [
+            "finish",
+            "When",
+            "do",
+            "work",
+            "you"
+          ],
+          "answer": "When do you finish work",
+          "explain": {
+            "ua": "When → do → you → finish work?",
+            "ru": "When → do → you → finish work?"
+          },
+          "id": "a1-u16-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple-wh",
+          "prompt": {
+            "ua": "Що ти робиш на вихідних?",
+            "ru": "Что ты делаешь на выходных?"
+          },
+          "answer": "What do you do at the weekend?",
+          "accept": [
+            "What do you do on the weekend?",
+            "What do you do at weekends?"
+          ],
+          "explain": {
+            "ua": "What do you do…?",
+            "ru": "What do you do…?"
+          },
+          "id": "a1-u16-l06-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u16-l07",
+      "title": {
+        "en": "Practice: habits",
+        "ua": "Практика: звички",
+        "ru": "Практика: привычки"
+      },
+      "recap": {
+        "from": "a1-u16-l06",
+        "note": {
+          "ua": "Згадаймо: Питальне слово + do / does + хто + дієслово?",
+          "ru": "Вспомним: Вопросительное слово + do / does + кто + глагол?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-simple-wh",
+            "question": "___ do you live? — In Odesa.",
+            "options": [
+              "Where",
+              "What",
+              "When"
+            ],
+            "answer": "Where",
+            "explain": {
+              "ua": "Where — де.",
+              "ru": "Where — где."
+            },
+            "id": "a1-u16-l07-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-simple-wh",
+            "question": "Why ___ you study English?",
+            "options": [
+              "do",
+              "does",
+              "are"
+            ],
+            "answer": "do",
+            "explain": {
+              "ua": "You → do.",
+              "ru": "You → do."
+            },
+            "id": "a1-u16-l07-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-simple",
+          "question": "She ___ meat. She's a vegetarian.",
+          "options": [
+            "doesn't eat",
+            "don't eat",
+            "isn't eat"
+          ],
+          "answer": "doesn't eat",
+          "explain": {
+            "ua": "She → doesn't eat.",
+            "ru": "She → doesn't eat."
+          },
+          "id": "a1-u16-l07-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple",
+          "question": "___ your children like school?",
+          "options": [
+            "Do",
+            "Does",
+            "Are"
+          ],
+          "answer": "Do",
+          "explain": {
+            "ua": "Children = they → Do.",
+            "ru": "Children = they → Do."
+          },
+          "id": "a1-u16-l07-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Where does Lena work?",
+              "options": [
+                "in a bank",
+                "in a school",
+                "at home"
+              ],
+              "answer": "in a bank"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Lena drives.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Lena swims at the weekend.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Tom",
+              "line": "What do you do, Lena?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "I work in a bank."
+            },
+            {
+              "speaker": "Tom",
+              "line": "Do you drive to work?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "No, I don't. I don't have a car. I go by bus."
+            },
+            {
+              "speaker": "Tom",
+              "line": "What do you do at the weekend?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "I swim. And my husband cooks. He doesn't swim!"
+            }
+          ],
+          "explain": {
+            "ua": "Bank, no car, swims at the weekend.",
+            "ru": "Bank, no car, swims at the weekend."
+          },
+          "id": "a1-u16-l07-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-simple",
+          "bank": [
+            "do",
+            "does",
+            "don't",
+            "doesn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Where ___ Lena work?",
+            "She ___ drive.",
+            "___ she swim? — Yes.",
+            "Her husband ___ swim."
+          ],
+          "answers": [
+            "does",
+            "doesn't",
+            "Does",
+            "doesn't"
+          ],
+          "explain": {
+            "ua": "Lena / husband → does / doesn't.",
+            "ru": "Lena / husband → does / doesn't."
+          },
+          "id": "a1-u16-l07-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple",
+          "sentence": "Does your mum works?",
+          "answer": "Does your mum work?",
+          "accept": [],
+          "explain": {
+            "ua": "Після does — без -s.",
+            "ru": "После does — без -s."
+          },
+          "id": "a1-u16-l07-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple",
+          "sentence": "I doesn't understand.",
+          "answer": "I don't understand.",
+          "accept": [
+            "I do not understand."
+          ],
+          "explain": {
+            "ua": "I → don't.",
+            "ru": "I → don't."
+          },
+          "id": "a1-u16-l07-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "your",
+            "does",
+            "What",
+            "husband",
+            "do"
+          ],
+          "answer": "What does your husband do",
+          "explain": {
+            "ua": "What → does → your husband → do?",
+            "ru": "What → does → your husband → do?"
+          },
+          "id": "a1-u16-l07-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-simple",
+          "audio_text": "Why do you study English?",
+          "options": [
+            "Why do you study English?",
+            "Why does you study English?",
+            "Where do you study English?"
+          ],
+          "answer": "Why do you study English?",
+          "audio": "",
+          "explain": {
+            "ua": "Why — чому.",
+            "ru": "Why — почему."
+          },
+          "id": "a1-u16-l07-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple",
+          "prompt": {
+            "ua": "Він не говорить англійською.",
+            "ru": "Он не говорит по-английски."
+          },
+          "answer": "He doesn't speak English.",
+          "accept": [
+            "He does not speak English."
+          ],
+          "explain": {
+            "ua": "He → doesn't + speak.",
+            "ru": "He → doesn't + speak."
+          },
+          "id": "a1-u16-l07-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "present-simple",
+          "prompt": {
+            "ua": "Де ти працюєш?",
+            "ru": "Где ты работаешь?"
+          },
+          "answer": "Where do you work?",
+          "accept": [],
+          "explain": {
+            "ua": "Where do you…?",
+            "ru": "Where do you…?"
+          },
+          "id": "a1-u16-l07-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "I ___ smoke.",
+      "options": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer": "don't",
+      "explain": {
+        "ua": "I → don't.",
+        "ru": "I → don't."
+      },
+      "id": "a1-u16-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "She doesn't ___ coffee.",
+      "options": [
+        "like",
+        "likes",
+        "liking"
+      ],
+      "answer": "like",
+      "explain": {
+        "ua": "Після doesn't — без -s.",
+        "ru": "После doesn't — без -s."
+      },
+      "id": "a1-u16-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "___ he speak English?",
+      "options": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "answer": "Does",
+      "explain": {
+        "ua": "He → Does.",
+        "ru": "He → Does."
+      },
+      "id": "a1-u16-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "Do you cook? — No, I ___.",
+      "options": [
+        "don't",
+        "doesn't",
+        "am not"
+      ],
+      "answer": "don't",
+      "explain": {
+        "ua": "No, I don't.",
+        "ru": "No, I don't."
+      },
+      "id": "a1-u16-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "present-simple",
+      "question": "___ do you live?",
+      "options": [
+        "Where",
+        "Who",
+        "Why"
+      ],
+      "answer": "Where",
+      "explain": {
+        "ua": "Where — де.",
+        "ru": "Where — где."
+      },
+      "id": "a1-u16-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "present-simple",
+      "question": "My dad ___ drive.",
+      "answer": "doesn't",
+      "accept": [
+        "does not"
+      ],
+      "explain": {
+        "ua": "Dad → doesn't.",
+        "ru": "Dad → doesn't."
+      },
+      "id": "a1-u16-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "present-simple",
+      "question": "___ they work here?",
+      "answer": "Do",
+      "accept": [],
+      "explain": {
+        "ua": "They → Do.",
+        "ru": "They → Do."
+      },
+      "id": "a1-u16-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "present-simple",
+      "sentence": "She don't work.",
+      "answer": "She doesn't work.",
+      "accept": [
+        "She does not work."
+      ],
+      "explain": {
+        "ua": "She → doesn't.",
+        "ru": "She → doesn't."
+      },
+      "id": "a1-u16-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "present-simple",
+      "sentence": "Do she like music?",
+      "answer": "Does she like music?",
+      "accept": [],
+      "explain": {
+        "ua": "She → Does.",
+        "ru": "She → Does."
+      },
+      "id": "a1-u16-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "start",
+        "When",
+        "does",
+        "film",
+        "the"
+      ],
+      "answer": "When does the film start",
+      "explain": {
+        "ua": "When → does → the film → start?",
+        "ru": "When → does → the film → start?"
+      },
+      "id": "a1-u16-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "present-simple",
+      "prompt": {
+        "ua": "Ти розумієш?",
+        "ru": "Ты понимаешь?"
+      },
+      "answer": "Do you understand?",
+      "accept": [],
+      "explain": {
+        "ua": "Do you + understand?",
+        "ru": "Do you + understand?"
+      },
+      "id": "a1-u16-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "present-simple",
+      "audio_text": "Does she work at the weekend?",
+      "options": [
+        "Does she work at the weekend?",
+        "Do she work at the weekend?",
+        "Does she walk at the weekend?"
+      ],
+      "answer": "Does she work at the weekend?",
+      "audio": "",
+      "explain": {
+        "ua": "Does she work.",
+        "ru": "Does she work."
+      },
+      "id": "a1-u16-cp12"
+    }
+  ]
+}

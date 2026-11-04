@@ -1,0 +1,1003 @@
+{
+  "id": "a1-u24",
+  "level": "A1",
+  "order": 24,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Simple: was / were",
+    "ua": "Past Simple: was / were",
+    "ru": "Past Simple: was / were"
+  },
+  "rule": {
+    "formula": "I / he / she / it was · we / you / they were",
+    "explain": {
+      "ua": "Was / were — минулий час від am / is / are. Was — для I, he, she, it. Were — для we, you, they. Yesterday I was at home.",
+      "ru": "Was / were — прошедшее время от am / is / are. Was — для I, he, she, it. Were — для we, you, they. Yesterday I was at home."
+    },
+    "examples": [
+      {
+        "en": "I was tired yesterday.",
+        "ua": "Учора я був втомлений.",
+        "ru": "Вчера я был уставшим."
+      },
+      {
+        "en": "She was at work.",
+        "ua": "Вона була на роботі.",
+        "ru": "Она была на работе."
+      },
+      {
+        "en": "They were in Paris last week.",
+        "ua": "Минулого тижня вони були в Парижі.",
+        "ru": "На прошлой неделе они были в Париже."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "yesterday",
+      "ipa": "/ˈjestədeɪ/",
+      "ua": "учора",
+      "ru": "вчера",
+      "example": "I was at home yesterday.",
+      "audio": ""
+    },
+    {
+      "word": "last week",
+      "ipa": "/ˌlɑːst ˈwiːk/",
+      "ua": "минулого тижня",
+      "ru": "на прошлой неделе",
+      "example": "We were in Kyiv last week.",
+      "audio": ""
+    },
+    {
+      "word": "last night",
+      "ipa": "/ˌlɑːst ˈnaɪt/",
+      "ua": "учора ввечері, минулої ночі",
+      "ru": "вчера вечером, прошлой ночью",
+      "example": "Where were you last night?",
+      "audio": ""
+    },
+    {
+      "word": "ago",
+      "ipa": "/əˈɡəʊ/",
+      "ua": "тому (про час)",
+      "ru": "назад (о времени)",
+      "example": "two days ago",
+      "audio": ""
+    },
+    {
+      "word": "party",
+      "ipa": "/ˈpɑːti/",
+      "ua": "вечірка",
+      "ru": "вечеринка",
+      "example": "The party was great.",
+      "audio": ""
+    },
+    {
+      "word": "great",
+      "ipa": "/ɡreɪt/",
+      "ua": "чудовий",
+      "ru": "отличный",
+      "example": "It was great!",
+      "audio": ""
+    },
+    {
+      "word": "boring",
+      "ipa": "/ˈbɔːrɪŋ/",
+      "ua": "нудний",
+      "ru": "скучный",
+      "example": "The film was boring.",
+      "audio": ""
+    },
+    {
+      "word": "born",
+      "ipa": "/bɔːn/",
+      "ua": "народжений",
+      "ru": "рождённый",
+      "example": "I was born in 1995.",
+      "audio": ""
+    },
+    {
+      "word": "weather",
+      "ipa": "/ˈweðə/",
+      "ua": "погода",
+      "ru": "погода",
+      "example": "The weather was sunny.",
+      "audio": ""
+    },
+    {
+      "word": "sunny",
+      "ipa": "/ˈsʌni/",
+      "ua": "сонячний",
+      "ru": "солнечный",
+      "example": "It was sunny.",
+      "audio": ""
+    },
+    {
+      "word": "trip",
+      "ipa": "/trɪp/",
+      "ua": "поїздка",
+      "ru": "поездка",
+      "example": "How was your trip?",
+      "audio": ""
+    },
+    {
+      "word": "concert",
+      "ipa": "/ˈkɒnsət/",
+      "ua": "концерт",
+      "ru": "концерт",
+      "example": "The concert was amazing.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u24-l01",
+      "title": {
+        "en": "was, were",
+        "ua": "was, were",
+        "ru": "was, were"
+      },
+      "recap": {
+        "from": "a1-u23-l02",
+        "note": {
+          "ua": "Згадаймо: at 7 · on Monday · in May · from 9 to 5 · before / after dinner",
+          "ru": "Вспомним: at 7 · on Monday · in May · from 9 to 5 · before / after dinner"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "I work ___ Monday ___ Friday.",
+            "options": [
+              "from / to",
+              "at / on",
+              "in / to"
+            ],
+            "answer": "from / to",
+            "explain": {
+              "ua": "З … до — from … to.",
+              "ru": "С … до — from … to."
+            },
+            "id": "a1-u24-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "prepositions-time",
+            "question": "My birthday is ___ March.",
+            "options": [
+              "in",
+              "on",
+              "at"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Місяць — in.",
+              "ru": "Месяц — in."
+            },
+            "id": "a1-u24-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I / he / she / it → was · we / you / they → were",
+        "explain": {
+          "ua": "Am / is → was. Are → were. Слова-маркери: yesterday, last week, ago.",
+          "ru": "Am / is → was. Are → were. Слова-маркеры: yesterday, last week, ago."
+        },
+        "examples": [
+          {
+            "en": "I was at home yesterday.",
+            "ua": "Учора я був удома.",
+            "ru": "Вчера я был дома."
+          },
+          {
+            "en": "It was sunny.",
+            "ua": "Було сонячно.",
+            "ru": "Было солнечно."
+          },
+          {
+            "en": "We were at a concert.",
+            "ua": "Ми були на концерті.",
+            "ru": "Мы были на концерте."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "I ___ at home yesterday.",
+          "options": [
+            "was",
+            "were",
+            "am"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "I → was.",
+            "ru": "I → was."
+          },
+          "id": "a1-u24-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "They ___ in Lviv last week.",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "They → were.",
+            "ru": "They → were."
+          },
+          "id": "a1-u24-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "The film ___ boring.",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Film = it → was.",
+            "ru": "Film = it → was."
+          },
+          "id": "a1-u24-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "You ___ right!",
+          "options": [
+            "were",
+            "was",
+            "is"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "You → were.",
+            "ru": "You → were."
+          },
+          "id": "a1-u24-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "It ___ sunny yesterday.",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Yesterday → was.",
+            "ru": "Yesterday → was."
+          },
+          "id": "a1-u24-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-to-be",
+          "bank": [
+            "was",
+            "were"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ tired.",
+            "We ___ late.",
+            "My mum ___ at work.",
+            "The kids ___ happy."
+          ],
+          "answers": [
+            "was",
+            "were",
+            "was",
+            "were"
+          ],
+          "explain": {
+            "ua": "I / mum → was, we / kids → were.",
+            "ru": "I / mum → was, we / kids → were."
+          },
+          "id": "a1-u24-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "We was at the party.",
+          "answer": "We were at the party.",
+          "accept": [],
+          "explain": {
+            "ua": "We → were.",
+            "ru": "We → were."
+          },
+          "id": "a1-u24-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "I am at home yesterday.",
+          "answer": "I was at home yesterday.",
+          "accept": [],
+          "explain": {
+            "ua": "Yesterday → минуле → was.",
+            "ru": "Yesterday → прошлое → was."
+          },
+          "id": "a1-u24-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-to-be",
+          "prompt": {
+            "ua": "Я народилася в Одесі.",
+            "ru": "Я родилась в Одессе."
+          },
+          "answer": "I was born in Odesa.",
+          "accept": [],
+          "explain": {
+            "ua": "Народитися — was born.",
+            "ru": "Родиться — was born."
+          },
+          "id": "a1-u24-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u24-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "a1-u24-l01",
+        "note": {
+          "ua": "Згадаймо: I / he / she / it → was · we / you / they → were",
+          "ru": "Вспомним: I / he / she / it → was · we / you / they → were"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "I ___ at home yesterday.",
+            "options": [
+              "was",
+              "were",
+              "am"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "I → was.",
+              "ru": "I → was."
+            },
+            "id": "a1-u24-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "It ___ sunny yesterday.",
+            "options": [
+              "was",
+              "were",
+              "is"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "Yesterday → was.",
+              "ru": "Yesterday → was."
+            },
+            "id": "a1-u24-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "wasn't · weren't · Was he…? · Were you…?",
+        "explain": {
+          "ua": "Як із am / is / are: заперечення — wasn't / weren't, питання — was / were на початок. Відповідь: Yes, I was. / No, they weren't.",
+          "ru": "Как с am / is / are: отрицание — wasn't / weren't, вопрос — was / were в начало. Ответ: Yes, I was. / No, they weren't."
+        },
+        "examples": [
+          {
+            "en": "I wasn't at work.",
+            "ua": "Мене не було на роботі.",
+            "ru": "Меня не было на работе."
+          },
+          {
+            "en": "Were you at the party? — Yes, I was.",
+            "ua": "Ти був на вечірці? — Так.",
+            "ru": "Ты был на вечеринке? — Да."
+          },
+          {
+            "en": "How was your trip?",
+            "ua": "Як пройшла поїздка?",
+            "ru": "Как прошла поездка?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "She ___ at home last night.",
+          "options": [
+            "wasn't",
+            "weren't",
+            "didn't"
+          ],
+          "answer": "wasn't",
+          "explain": {
+            "ua": "She → wasn't.",
+            "ru": "She → wasn't."
+          },
+          "id": "a1-u24-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "We ___ late.",
+          "options": [
+            "weren't",
+            "wasn't",
+            "aren't"
+          ],
+          "answer": "weren't",
+          "explain": {
+            "ua": "We → weren't.",
+            "ru": "We → weren't."
+          },
+          "id": "a1-u24-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "___ you at work yesterday?",
+          "options": [
+            "Were",
+            "Was",
+            "Did"
+          ],
+          "answer": "Were",
+          "explain": {
+            "ua": "You → Were you…?",
+            "ru": "You → Were you…?"
+          },
+          "id": "a1-u24-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "___ the concert good?",
+          "options": [
+            "Was",
+            "Were",
+            "Is"
+          ],
+          "answer": "Was",
+          "explain": {
+            "ua": "Concert → Was…?",
+            "ru": "Concert → Was…?"
+          },
+          "id": "a1-u24-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "Was it cold? — No, it ___.",
+          "options": [
+            "wasn't",
+            "weren't",
+            "isn't"
+          ],
+          "answer": "wasn't",
+          "explain": {
+            "ua": "No, it wasn't.",
+            "ru": "No, it wasn't."
+          },
+          "id": "a1-u24-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "Were they happy? — Yes, they ___.",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Yes, they were.",
+            "ru": "Yes, they were."
+          },
+          "id": "a1-u24-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "Was you at the party?",
+          "answer": "Were you at the party?",
+          "accept": [],
+          "explain": {
+            "ua": "You → Were.",
+            "ru": "You → Were."
+          },
+          "id": "a1-u24-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-to-be",
+          "audio_text": "How was your trip?",
+          "options": [
+            "How was your trip?",
+            "How is your trip?",
+            "How was your trap?"
+          ],
+          "answer": "How was your trip?",
+          "audio": "",
+          "explain": {
+            "ua": "How was… — як пройшло…",
+            "ru": "How was… — как прошло…"
+          },
+          "id": "a1-u24-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-to-be",
+          "prompt": {
+            "ua": "Де ти був учора ввечері?",
+            "ru": "Где ты был вчера вечером?"
+          },
+          "answer": "Where were you last night?",
+          "accept": [
+            "Where were you yesterday evening?"
+          ],
+          "explain": {
+            "ua": "Where were you…?",
+            "ru": "Where were you…?"
+          },
+          "id": "a1-u24-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u24-l03",
+      "title": {
+        "en": "Practice: last weekend",
+        "ua": "Практика: минулі вихідні",
+        "ru": "Практика: прошлые выходные"
+      },
+      "recap": {
+        "from": "a1-u24-l02",
+        "note": {
+          "ua": "Згадаймо: wasn't · weren't · Was he…? · Were you…?",
+          "ru": "Вспомним: wasn't · weren't · Was he…? · Were you…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "She ___ at home last night.",
+            "options": [
+              "wasn't",
+              "weren't",
+              "didn't"
+            ],
+            "answer": "wasn't",
+            "explain": {
+              "ua": "She → wasn't.",
+              "ru": "She → wasn't."
+            },
+            "id": "a1-u24-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-to-be",
+            "question": "Was it cold? — No, it ___.",
+            "options": [
+              "wasn't",
+              "weren't",
+              "isn't"
+            ],
+            "answer": "wasn't",
+            "explain": {
+              "ua": "No, it wasn't.",
+              "ru": "No, it wasn't."
+            },
+            "id": "a1-u24-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "The weather ___ great last weekend.",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Weather → was.",
+            "ru": "Weather → was."
+          },
+          "id": "a1-u24-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-to-be",
+          "question": "Where ___ your parents yesterday?",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "Parents → were.",
+            "ru": "Parents → were."
+          },
+          "id": "a1-u24-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Olya was in Lviv.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The weather was bad.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "How was the concert?",
+              "options": [
+                "amazing",
+                "boring",
+                "bad"
+              ],
+              "answer": "amazing"
+            }
+          ],
+          "text": "Last weekend I was in Lviv with my friends. The weather was sunny and warm. On Saturday we were at a concert. It was amazing! On Sunday we were in a museum, but it was a bit boring. The trip was great!",
+          "explain": {
+            "ua": "Lviv, sunny, concert amazing, museum boring.",
+            "ru": "Lviv, sunny, concert amazing, museum boring."
+          },
+          "id": "a1-u24-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-to-be",
+          "bank": [
+            "was",
+            "were",
+            "wasn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Olya ___ in Lviv.",
+            "Her friends ___ with her.",
+            "The concert ___ amazing.",
+            "The museum ___ very interesting."
+          ],
+          "answers": [
+            "was",
+            "were",
+            "was",
+            "wasn't"
+          ],
+          "explain": {
+            "ua": "Перечитай текст: музей був трохи нудний.",
+            "ru": "Перечитай текст: музей был немного скучным."
+          },
+          "id": "a1-u24-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "The party were great.",
+          "answer": "The party was great.",
+          "accept": [],
+          "explain": {
+            "ua": "Party → was.",
+            "ru": "Party → was."
+          },
+          "id": "a1-u24-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-to-be",
+          "sentence": "I wasn't at home two days before.",
+          "answer": "I wasn't at home two days ago.",
+          "accept": [
+            "I was not at home two days ago."
+          ],
+          "explain": {
+            "ua": "«Тому» — ago.",
+            "ru": "«Назад» — ago."
+          },
+          "id": "a1-u24-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "last",
+            "cinema",
+            "the",
+            "at",
+            "We",
+            "were",
+            "night"
+          ],
+          "answer": "We were at the cinema last night",
+          "explain": {
+            "ua": "We were → at the cinema → last night.",
+            "ru": "We were → at the cinema → last night."
+          },
+          "id": "a1-u24-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-to-be",
+          "audio_text": "It wasn't boring.",
+          "options": [
+            "It wasn't boring.",
+            "It was boring.",
+            "It wasn't born."
+          ],
+          "answer": "It wasn't boring.",
+          "audio": "",
+          "explain": {
+            "ua": "Wasn't — «вознт».",
+            "ru": "Wasn't — «уознт»."
+          },
+          "id": "a1-u24-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-to-be",
+          "prompt": {
+            "ua": "Вечірка була чудова!",
+            "ru": "Вечеринка была отличная!"
+          },
+          "answer": "The party was great!",
+          "accept": [
+            "The party was great"
+          ],
+          "explain": {
+            "ua": "Was great.",
+            "ru": "Was great."
+          },
+          "id": "a1-u24-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "past-to-be",
+          "prompt": {
+            "ua": "Минулого тижня ми були в Києві.",
+            "ru": "На прошлой неделе мы были в Киеве."
+          },
+          "answer": "We were in Kyiv last week.",
+          "accept": [
+            "Last week we were in Kyiv."
+          ],
+          "explain": {
+            "ua": "Were + last week.",
+            "ru": "Were + last week."
+          },
+          "id": "a1-u24-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "past-to-be",
+      "question": "I ___ tired yesterday.",
+      "options": [
+        "was",
+        "were",
+        "am"
+      ],
+      "answer": "was",
+      "explain": {
+        "ua": "I → was.",
+        "ru": "I → was."
+      },
+      "id": "a1-u24-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "past-to-be",
+      "question": "They ___ at the concert.",
+      "options": [
+        "were",
+        "was",
+        "are"
+      ],
+      "answer": "were",
+      "explain": {
+        "ua": "They → were.",
+        "ru": "They → were."
+      },
+      "id": "a1-u24-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "past-to-be",
+      "question": "___ you at home last night?",
+      "options": [
+        "Were",
+        "Was",
+        "Did"
+      ],
+      "answer": "Were",
+      "explain": {
+        "ua": "Were you…?",
+        "ru": "Were you…?"
+      },
+      "id": "a1-u24-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "past-to-be",
+      "question": "Was the film good? — No, it ___.",
+      "options": [
+        "wasn't",
+        "weren't",
+        "didn't"
+      ],
+      "answer": "wasn't",
+      "explain": {
+        "ua": "No, it wasn't.",
+        "ru": "No, it wasn't."
+      },
+      "id": "a1-u24-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "past-to-be",
+      "question": "We ___ late. We were on time.",
+      "answer": "weren't",
+      "accept": [
+        "were not"
+      ],
+      "explain": {
+        "ua": "Заперечення — weren't.",
+        "ru": "Отрицание — weren't."
+      },
+      "id": "a1-u24-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "past-to-be",
+      "question": "I ___ born in 2000.",
+      "answer": "was",
+      "accept": [],
+      "explain": {
+        "ua": "Was born.",
+        "ru": "Was born."
+      },
+      "id": "a1-u24-cp06"
+    },
+    {
+      "type": "wordbank",
+      "topic": "past-to-be",
+      "bank": [
+        "was",
+        "were"
+      ],
+      "reuse": true,
+      "sentences": [
+        "She ___ sick.",
+        "You ___ right.",
+        "It ___ cold."
+      ],
+      "answers": [
+        "was",
+        "were",
+        "was"
+      ],
+      "explain": {
+        "ua": "she / it → was, you → were.",
+        "ru": "she / it → was, you → were."
+      },
+      "id": "a1-u24-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "past-to-be",
+      "sentence": "We was in Paris.",
+      "answer": "We were in Paris.",
+      "accept": [],
+      "explain": {
+        "ua": "We → were.",
+        "ru": "We → were."
+      },
+      "id": "a1-u24-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "past-to-be",
+      "sentence": "He were at work.",
+      "answer": "He was at work.",
+      "accept": [],
+      "explain": {
+        "ua": "He → was.",
+        "ru": "He → was."
+      },
+      "id": "a1-u24-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "was",
+        "your",
+        "trip",
+        "How"
+      ],
+      "answer": "How was your trip",
+      "explain": {
+        "ua": "How → was → your trip?",
+        "ru": "How → was → your trip?"
+      },
+      "id": "a1-u24-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "past-to-be",
+      "prompt": {
+        "ua": "Учора було сонячно.",
+        "ru": "Вчера было солнечно."
+      },
+      "answer": "It was sunny yesterday.",
+      "accept": [
+        "Yesterday it was sunny.",
+        "Yesterday was sunny."
+      ],
+      "explain": {
+        "ua": "It was…",
+        "ru": "It was…"
+      },
+      "id": "a1-u24-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "past-to-be",
+      "audio_text": "Where were you yesterday?",
+      "options": [
+        "Where were you yesterday?",
+        "Where are you yesterday?",
+        "Where was you yesterday?"
+      ],
+      "answer": "Where were you yesterday?",
+      "audio": "",
+      "explain": {
+        "ua": "Were you.",
+        "ru": "Were you."
+      },
+      "id": "a1-u24-cp12"
+    }
+  ]
+}

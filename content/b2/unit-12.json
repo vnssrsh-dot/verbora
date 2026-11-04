@@ -1,0 +1,983 @@
+{
+  "id": "b2-u12",
+  "level": "B2",
+  "order": 12,
+  "kind": "grammar",
+  "title": {
+    "en": "Reported speech: questions and requests",
+    "ua": "Непряма мова: питання й прохання",
+    "ru": "Косвенная речь: вопросы и просьбы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "asked if / whether… · asked where / what… (прямий порядок слів) · told / asked + someone + to do",
+      "ru": "asked if / whether… · asked where / what… (прямой порядок слов) · told / asked + someone + to do"
+    },
+    "explain": {
+      "ua": "У переказаному питанні — звичайний порядок слів, без do / did і без знака питання: 'Where do you live?' → She asked where I lived. Прохання: 'Please help me' → He asked me to help him.",
+      "ru": "В пересказанном вопросе — обычный порядок слов, без do / did и без вопросительного знака: 'Where do you live?' → She asked where I lived. Просьба: 'Please help me' → He asked me to help him."
+    },
+    "examples": [
+      {
+        "en": "'Are you married?' → He asked if I was married.",
+        "ua": "«Ти одружена?» → Він спитав, чи я одружена.",
+        "ru": "«Ты замужем?» → Он спросил, замужем ли я."
+      },
+      {
+        "en": "'What time is it?' → She asked what time it was.",
+        "ua": "«Котра година?» → Вона спитала, котра година.",
+        "ru": "«Который час?» → Она спросила, который час."
+      },
+      {
+        "en": "'Don't be late!' → Mum told me not to be late.",
+        "ua": "«Не запізнюйся!» → Мама сказала мені не запізнюватися.",
+        "ru": "«Не опаздывай!» → Мама сказала мне не опаздывать."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "ask if / whether",
+      "ipa": "/ɑːsk ɪf/",
+      "ua": "питати, чи",
+      "ru": "спрашивать, ли",
+      "example": "He asked if I was OK.",
+      "audio": ""
+    },
+    {
+      "word": "wonder",
+      "ipa": "/ˈwʌndə/",
+      "ua": "цікавитися, хотіти знати",
+      "ru": "интересоваться, хотеть знать",
+      "example": "I wonder where she is.",
+      "audio": ""
+    },
+    {
+      "word": "want to know",
+      "ipa": "/wɒnt tə ˈnəʊ/",
+      "ua": "хотіти дізнатися",
+      "ru": "хотеть узнать",
+      "example": "She wanted to know why.",
+      "audio": ""
+    },
+    {
+      "word": "order",
+      "ipa": "/ˈɔːdə/",
+      "ua": "наказувати",
+      "ru": "приказывать",
+      "example": "He ordered them to stop.",
+      "audio": ""
+    },
+    {
+      "word": "advise",
+      "ipa": "/ədˈvaɪz/",
+      "ua": "радити",
+      "ru": "советовать",
+      "example": "The doctor advised me to rest.",
+      "audio": ""
+    },
+    {
+      "word": "remind",
+      "ipa": "/rɪˈmaɪnd/",
+      "ua": "нагадувати",
+      "ru": "напоминать",
+      "example": "Remind me to call him.",
+      "audio": ""
+    },
+    {
+      "word": "warn",
+      "ipa": "/wɔːn/",
+      "ua": "попереджати",
+      "ru": "предупреждать",
+      "example": "She warned us not to go.",
+      "audio": ""
+    },
+    {
+      "word": "suggest",
+      "ipa": "/səˈdʒest/",
+      "ua": "пропонувати",
+      "ru": "предлагать",
+      "example": "He suggested going out.",
+      "audio": ""
+    },
+    {
+      "word": "admit",
+      "ipa": "/ədˈmɪt/",
+      "ua": "визнавати",
+      "ru": "признавать",
+      "example": "He admitted lying.",
+      "audio": ""
+    },
+    {
+      "word": "deny",
+      "ipa": "/dɪˈnaɪ/",
+      "ua": "заперечувати",
+      "ru": "отрицать",
+      "example": "She denied taking it.",
+      "audio": ""
+    },
+    {
+      "word": "promise",
+      "ipa": "/ˈprɒmɪs/",
+      "ua": "обіцяти",
+      "ru": "обещать",
+      "example": "He promised to help.",
+      "audio": ""
+    },
+    {
+      "word": "apologise",
+      "ipa": "/əˈpɒlədʒaɪz/",
+      "ua": "вибачатися",
+      "ru": "извиняться",
+      "example": "She apologised for being late.",
+      "audio": ""
+    },
+    {
+      "word": "refuse",
+      "ipa": "/rɪˈfjuːz/",
+      "ua": "відмовлятися",
+      "ru": "отказываться",
+      "example": "He refused to answer.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u12-l01",
+      "title": {
+        "en": "Reported questions",
+        "ua": "Переказані питання",
+        "ru": "Пересказанные вопросы"
+      },
+      "recap": {
+        "from": "b2-u11-l02",
+        "note": {
+          "ua": "Згадаймо: Рішення",
+          "ru": "Вспомним: Решения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Wind and solar power are ___ energy.",
+            "options": [
+              "renewable",
+              "endangered",
+              "single-use"
+            ],
+            "answer": "renewable",
+            "explain": {
+              "ua": "Renewable.",
+              "ru": "Renewable."
+            },
+            "id": "b2-u12-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She only buys ___ clothes made from recycled materials.",
+            "options": [
+              "sustainable",
+              "endangered",
+              "polluted"
+            ],
+            "answer": "sustainable",
+            "explain": {
+              "ua": "Sustainable.",
+              "ru": "Sustainable."
+            },
+            "id": "b2-u12-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Yes / No → asked if / whether + підмет + дієслово · Wh- → asked + wh-слово + підмет + дієслово",
+          "ru": "Yes / No → asked if / whether + подлежащее + глагол · Wh- → asked + wh-слово + подлежащее + глагол"
+        },
+        "explain": {
+          "ua": "'Do you like it?' → She asked if I liked it. 'Where is the station?' → He asked where the station was (не where was the station). Час зсувається, як у твердженнях.",
+          "ru": "'Do you like it?' → She asked if I liked it. 'Where is the station?' → He asked where the station was (не where was the station). Время сдвигается, как в утверждениях."
+        },
+        "examples": [
+          {
+            "en": "'Can you swim?' → She asked if I could swim.",
+            "ua": "«Ти вмієш плавати?» → Вона спитала, чи вмію я плавати.",
+            "ru": "«Ты умеешь плавать?» → Она спросила, умею ли я плавать."
+          },
+          {
+            "en": "'Where do you work?' → He asked where I worked.",
+            "ua": "«Де ти працюєш?» → Він спитав, де я працюю.",
+            "ru": "«Где ты работаешь?» → Он спросил, где я работаю."
+          },
+          {
+            "en": "'Have you eaten?' → Mum asked whether I had eaten.",
+            "ua": "«Ти поїв?» → Мама спитала, чи я поїв.",
+            "ru": "«Ты поел?» → Мама спросила, поел ли я."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "reported-questions",
+          "question": "'Are you tired?' → She asked ___ tired.",
+          "options": [
+            "if I was",
+            "was I",
+            "if was I"
+          ],
+          "answer": "if I was",
+          "explain": {
+            "ua": "Asked if + прямий порядок.",
+            "ru": "Asked if + прямой порядок."
+          },
+          "id": "b2-u12-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-questions",
+          "question": "'Where do you live?' → He asked me where ___ .",
+          "options": [
+            "I lived",
+            "did I live",
+            "do I live"
+          ],
+          "answer": "I lived",
+          "explain": {
+            "ua": "Без did, прямий порядок.",
+            "ru": "Без did, прямой порядок."
+          },
+          "id": "b2-u12-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-questions",
+          "question": "'What time does the film start?' → She asked what time the film ___ .",
+          "options": [
+            "started",
+            "did start",
+            "starts did"
+          ],
+          "answer": "started",
+          "explain": {
+            "ua": "Started.",
+            "ru": "Started."
+          },
+          "id": "b2-u12-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-questions",
+          "question": "'Have you seen my keys?' → He asked if I ___ his keys.",
+          "options": [
+            "had seen",
+            "have seen",
+            "saw"
+          ],
+          "answer": "had seen",
+          "explain": {
+            "ua": "Have seen → had seen.",
+            "ru": "Have seen → had seen."
+          },
+          "id": "b2-u12-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-questions",
+          "question": "'Will you come?' → They asked ___ I would come.",
+          "options": [
+            "whether",
+            "that",
+            "what"
+          ],
+          "answer": "whether",
+          "explain": {
+            "ua": "Whether = if.",
+            "ru": "Whether = if."
+          },
+          "id": "b2-u12-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-questions",
+          "sentence": "He asked me where was the bank.",
+          "answer": "He asked me where the bank was.",
+          "accept": [],
+          "explain": {
+            "ua": "Прямий порядок.",
+            "ru": "Прямой порядок."
+          },
+          "id": "b2-u12-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-questions",
+          "sentence": "She asked did I like the film.",
+          "answer": "She asked if I liked the film.",
+          "accept": [
+            "She asked whether I liked the film."
+          ],
+          "explain": {
+            "ua": "If + прямий порядок.",
+            "ru": "If + прямой порядок."
+          },
+          "id": "b2-u12-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "reported-questions",
+          "words": [
+            "my",
+            "She",
+            "name",
+            "asked",
+            "was",
+            "what",
+            "me"
+          ],
+          "answer": "She asked me what my name was",
+          "explain": {
+            "ua": "Asked me → what my name was.",
+            "ru": "Asked me → what my name was."
+          },
+          "id": "b2-u12-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "reported-questions",
+          "prompt": {
+            "ua": "Він спитав, де я живу.",
+            "ru": "Он спросил, где я живу."
+          },
+          "answer": "He asked where I lived.",
+          "accept": [
+            "He asked me where I lived."
+          ],
+          "explain": {
+            "ua": "Прямий порядок.",
+            "ru": "Прямой порядок."
+          },
+          "id": "b2-u12-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u12-l02",
+      "title": {
+        "en": "Requests and orders",
+        "ua": "Прохання й накази",
+        "ru": "Просьбы и приказы"
+      },
+      "recap": {
+        "from": "b2-u12-l01",
+        "note": {
+          "ua": "Згадаймо: Yes / No → asked if / whether + підмет + дієслово · Wh- → asked + wh-слово + підмет + дієслово",
+          "ru": "Вспомним: Yes / No → asked if / whether + подлежащее + глагол · Wh- → asked + wh-слово + подлежащее + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "reported-questions",
+            "question": "'Are you tired?' → She asked ___ tired.",
+            "options": [
+              "if I was",
+              "was I",
+              "if was I"
+            ],
+            "answer": "if I was",
+            "explain": {
+              "ua": "Asked if + прямий порядок.",
+              "ru": "Asked if + прямой порядок."
+            },
+            "id": "b2-u12-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "reported-questions",
+            "question": "'Will you come?' → They asked ___ I would come.",
+            "options": [
+              "whether",
+              "that",
+              "what"
+            ],
+            "answer": "whether",
+            "explain": {
+              "ua": "Whether = if.",
+              "ru": "Whether = if."
+            },
+            "id": "b2-u12-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "ask / tell / order + someone + (not) to + дієслово",
+          "ru": "ask / tell / order + someone + (not) to + глагол"
+        },
+        "explain": {
+          "ua": "'Please sit down' → She asked me to sit down. 'Don't touch it!' → He told me not to touch it.",
+          "ru": "'Please sit down' → She asked me to sit down. 'Don't touch it!' → He told me not to touch it."
+        },
+        "examples": [
+          {
+            "en": "'Close the door, please.' → She asked me to close the door.",
+            "ua": "«Зачини двері, будь ласка» → Вона попросила мене зачинити двері.",
+            "ru": "«Закрой дверь, пожалуйста» → Она попросила меня закрыть дверь."
+          },
+          {
+            "en": "'Don't be late.' → He told us not to be late.",
+            "ua": "«Не запізнюйтеся» → Він сказав нам не запізнюватися.",
+            "ru": "«Не опаздывайте» → Он сказал нам не опаздывать."
+          },
+          {
+            "en": "'Stop!' → The police officer ordered him to stop.",
+            "ua": "«Стій!» → Поліцейський наказав йому зупинитися.",
+            "ru": "«Стой!» → Полицейский приказал ему остановиться."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "reported-requests",
+          "question": "'Please help me.' → She asked me ___ her.",
+          "options": [
+            "to help",
+            "help",
+            "helping"
+          ],
+          "answer": "to help",
+          "explain": {
+            "ua": "Ask + to.",
+            "ru": "Ask + to."
+          },
+          "id": "b2-u12-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-requests",
+          "question": "'Don't shout!' → Mum told us ___ .",
+          "options": [
+            "not to shout",
+            "don't shout",
+            "to not shouting"
+          ],
+          "answer": "not to shout",
+          "explain": {
+            "ua": "Not to.",
+            "ru": "Not to."
+          },
+          "id": "b2-u12-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-requests",
+          "question": "'Wait here.' → The guide told us ___ there.",
+          "options": [
+            "to wait",
+            "wait",
+            "waited"
+          ],
+          "answer": "to wait",
+          "explain": {
+            "ua": "Told + to.",
+            "ru": "Told + to."
+          },
+          "id": "b2-u12-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "reported-requests",
+          "question": "'Put your hands up!' → The police ___ him to put his hands up.",
+          "options": [
+            "ordered",
+            "said",
+            "asked if"
+          ],
+          "answer": "ordered",
+          "explain": {
+            "ua": "Order + someone + to.",
+            "ru": "Order + someone + to."
+          },
+          "id": "b2-u12-l02-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "reported-requests",
+          "question": "'Don't forget your passport.' → He reminded me ___ to forget my passport.",
+          "answer": "not",
+          "accept": [],
+          "explain": {
+            "ua": "Not to forget.",
+            "ru": "Not to forget."
+          },
+          "id": "b2-u12-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-requests",
+          "sentence": "She told me don't worry.",
+          "answer": "She told me not to worry.",
+          "accept": [],
+          "explain": {
+            "ua": "Not to + дієслово.",
+            "ru": "Not to + глагол."
+          },
+          "id": "b2-u12-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "reported-requests",
+          "sentence": "He asked me that I close the window.",
+          "answer": "He asked me to close the window.",
+          "accept": [],
+          "explain": {
+            "ua": "Ask + to.",
+            "ru": "Ask + to."
+          },
+          "id": "b2-u12-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "reported-requests",
+          "audio_text": "The doctor told me to rest.",
+          "options": [
+            "The doctor told me to rest.",
+            "The doctor told me rest.",
+            "The doctor told me to test."
+          ],
+          "answer": "The doctor told me to rest.",
+          "audio": "",
+          "explain": {
+            "ua": "Told me to.",
+            "ru": "Told me to."
+          },
+          "id": "b2-u12-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "reported-requests",
+          "prompt": {
+            "ua": "Вона попросила мене зачекати.",
+            "ru": "Она попросила меня подождать."
+          },
+          "answer": "She asked me to wait.",
+          "accept": [],
+          "explain": {
+            "ua": "Ask + to.",
+            "ru": "Ask + to."
+          },
+          "id": "b2-u12-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u12-l03",
+      "title": {
+        "en": "Reporting verbs",
+        "ua": "Дієслова переказу",
+        "ru": "Глаголы пересказа"
+      },
+      "recap": {
+        "from": "b2-u12-l02",
+        "note": {
+          "ua": "Згадаймо: ask / tell / order + someone + (not) to + дієслово",
+          "ru": "Вспомним: ask / tell / order + someone + (not) to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "reported-requests",
+            "question": "'Please help me.' → She asked me ___ her.",
+            "options": [
+              "to help",
+              "help",
+              "helping"
+            ],
+            "answer": "to help",
+            "explain": {
+              "ua": "Ask + to.",
+              "ru": "Ask + to."
+            },
+            "id": "b2-u12-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "reported-requests",
+            "question": "'Don't forget your passport.' → He reminded me ___ to forget my passport.",
+            "answer": "not",
+            "accept": [],
+            "explain": {
+              "ua": "Not to forget.",
+              "ru": "Not to forget."
+            },
+            "id": "b2-u12-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "advise / warn / remind + sb + to · promise / refuse / agree + to · suggest / admit / deny + -ing · apologise for + -ing",
+        "explain": {
+          "ua": "Замість said — точніше дієслово: 'I'll call you' → He promised to call. 'I didn't take it' → She denied taking it. 'Let's go' → He suggested going.",
+          "ru": "Вместо said — более точный глагол: 'I'll call you' → He promised to call. 'I didn't take it' → She denied taking it. 'Let's go' → He suggested going."
+        },
+        "examples": [
+          {
+            "en": "He promised to call me.",
+            "ua": "Він пообіцяв мені подзвонити.",
+            "ru": "Он пообещал мне позвонить."
+          },
+          {
+            "en": "She admitted breaking the vase.",
+            "ua": "Вона визнала, що розбила вазу.",
+            "ru": "Она призналась, что разбила вазу."
+          },
+          {
+            "en": "The doctor advised me to drink more water.",
+            "ua": "Лікар порадив мені пити більше води.",
+            "ru": "Врач посоветовал мне пить больше воды."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'I'll definitely come.' → He ___ to come.",
+          "options": [
+            "promised",
+            "suggested",
+            "denied"
+          ],
+          "answer": "promised",
+          "explain": {
+            "ua": "Promise + to.",
+            "ru": "Promise + to."
+          },
+          "id": "b2-u12-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'I didn't steal it!' → He ___ stealing it.",
+          "options": [
+            "denied",
+            "admitted",
+            "refused"
+          ],
+          "answer": "denied",
+          "explain": {
+            "ua": "Deny + -ing.",
+            "ru": "Deny + -ing."
+          },
+          "id": "b2-u12-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'Let's take a taxi.' → She suggested ___ a taxi.",
+          "options": [
+            "taking",
+            "to take",
+            "take"
+          ],
+          "answer": "taking",
+          "explain": {
+            "ua": "Suggest + -ing.",
+            "ru": "Suggest + -ing."
+          },
+          "id": "b2-u12-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'You should see a doctor.' → She ___ me to see a doctor.",
+          "options": [
+            "advised",
+            "suggested",
+            "promised"
+          ],
+          "answer": "advised",
+          "explain": {
+            "ua": "Advise + sb + to.",
+            "ru": "Advise + sb + to."
+          },
+          "id": "b2-u12-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'Sorry I'm late.' → He apologised ___ late.",
+          "options": [
+            "for being",
+            "to be",
+            "being"
+          ],
+          "answer": "for being",
+          "explain": {
+            "ua": "Apologise for + -ing.",
+            "ru": "Apologise for + -ing."
+          },
+          "id": "b2-u12-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "reporting-verbs",
+          "question": "'Don't swim there — it's dangerous!' → He ___ us not to swim there.",
+          "options": [
+            "warned",
+            "suggested",
+            "admitted"
+          ],
+          "answer": "warned",
+          "explain": {
+            "ua": "Warn + sb + not to.",
+            "ru": "Warn + sb + not to."
+          },
+          "id": "b2-u12-l03-e06"
+        },
+        {
+          "type": "match",
+          "topic": "reporting-verbs",
+          "pairs": [
+            {
+              "left": "'OK, I'll help.'",
+              "right": "She agreed to help."
+            },
+            {
+              "left": "'No, I won't pay!'",
+              "right": "He refused to pay."
+            },
+            {
+              "left": "'Yes, I lied.'",
+              "right": "She admitted lying."
+            },
+            {
+              "left": "'Don't forget the milk.'",
+              "right": "He reminded me to buy milk."
+            }
+          ],
+          "explain": {
+            "ua": "Пряма мова → дієслово переказу.",
+            "ru": "Прямая речь → глагол пересказа."
+          },
+          "id": "b2-u12-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "reporting-verbs",
+          "sentence": "He suggested to go to the cinema.",
+          "answer": "He suggested going to the cinema.",
+          "accept": [
+            "He suggested that we go to the cinema.",
+            "He suggested that we should go to the cinema."
+          ],
+          "explain": {
+            "ua": "Suggest + -ing.",
+            "ru": "Suggest + -ing."
+          },
+          "id": "b2-u12-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "reporting-verbs",
+          "prompt": {
+            "ua": "Він відмовився відповідати.",
+            "ru": "Он отказался отвечать."
+          },
+          "answer": "He refused to answer.",
+          "accept": [],
+          "explain": {
+            "ua": "Refuse + to.",
+            "ru": "Refuse + to."
+          },
+          "id": "b2-u12-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "reported-questions",
+      "question": "'Do you speak English?' → She asked if I ___ English.",
+      "options": [
+        "spoke",
+        "speak",
+        "did speak"
+      ],
+      "answer": "spoke",
+      "explain": {
+        "ua": "Зсув.",
+        "ru": "Сдвиг."
+      },
+      "id": "b2-u12-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "reported-questions",
+      "question": "'Where is the hotel?' → He asked where the hotel ___ .",
+      "options": [
+        "was",
+        "is",
+        "was it"
+      ],
+      "answer": "was",
+      "explain": {
+        "ua": "Прямий порядок.",
+        "ru": "Прямой порядок."
+      },
+      "id": "b2-u12-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "reported-requests",
+      "question": "'Please sit down.' → She asked me ___ down.",
+      "options": [
+        "to sit",
+        "sit",
+        "sitting"
+      ],
+      "answer": "to sit",
+      "explain": {
+        "ua": "Ask + to.",
+        "ru": "Ask + to."
+      },
+      "id": "b2-u12-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "reporting-verbs",
+      "question": "'I didn't do it!' → He ___ doing it.",
+      "options": [
+        "denied",
+        "admitted",
+        "promised"
+      ],
+      "answer": "denied",
+      "explain": {
+        "ua": "Deny + -ing.",
+        "ru": "Deny + -ing."
+      },
+      "id": "b2-u12-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "reporting-verbs",
+      "question": "'Let's go out.' → She suggested ___ out.",
+      "options": [
+        "going",
+        "to go",
+        "go"
+      ],
+      "answer": "going",
+      "explain": {
+        "ua": "Suggest + -ing.",
+        "ru": "Suggest + -ing."
+      },
+      "id": "b2-u12-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "reported-requests",
+      "question": "'Don't be late!' → He told me ___ to be late.",
+      "answer": "not",
+      "accept": [],
+      "explain": {
+        "ua": "Not to.",
+        "ru": "Not to."
+      },
+      "id": "b2-u12-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "reporting-verbs",
+      "question": "'I'll call you.' → She promised ___ call me.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Promise + to.",
+        "ru": "Promise + to."
+      },
+      "id": "b2-u12-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "reported-questions",
+      "sentence": "He asked me where did I work.",
+      "answer": "He asked me where I worked.",
+      "accept": [],
+      "explain": {
+        "ua": "Без did.",
+        "ru": "Без did."
+      },
+      "id": "b2-u12-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "reported-requests",
+      "sentence": "She told me don't touch it.",
+      "answer": "She told me not to touch it.",
+      "accept": [],
+      "explain": {
+        "ua": "Not to.",
+        "ru": "Not to."
+      },
+      "id": "b2-u12-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "reporting-verbs",
+      "words": [
+        "The",
+        "doctor",
+        "to",
+        "advised",
+        "rest",
+        "me"
+      ],
+      "answer": "The doctor advised me to rest",
+      "explain": {
+        "ua": "Advised me → to rest.",
+        "ru": "Advised me → to rest."
+      },
+      "id": "b2-u12-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "reported-questions",
+      "prompt": {
+        "ua": "Вона спитала, чи я голодний.",
+        "ru": "Она спросила, голоден ли я."
+      },
+      "answer": "She asked if I was hungry.",
+      "accept": [
+        "She asked whether I was hungry.",
+        "She asked me if I was hungry."
+      ],
+      "explain": {
+        "ua": "Asked if.",
+        "ru": "Asked if."
+      },
+      "id": "b2-u12-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "reporting-verbs",
+      "audio_text": "He apologised for being late.",
+      "options": [
+        "He apologised for being late.",
+        "He apologised to be late.",
+        "He apologised for been late."
+      ],
+      "answer": "He apologised for being late.",
+      "audio": "",
+      "explain": {
+        "ua": "Apologise for + -ing.",
+        "ru": "Apologise for + -ing."
+      },
+      "id": "b2-u12-cp12"
+    }
+  ]
+}

@@ -1,0 +1,1725 @@
+{
+  "id": "a2-u11",
+  "level": "A2",
+  "order": 11,
+  "kind": "grammar",
+  "title": {
+    "en": "Future: will",
+    "ua": "Майбутнє: will",
+    "ru": "Будущее: will"
+  },
+  "rule": {
+    "formula": {
+      "ua": "will ('ll) + дієслово · won't · Will you…?",
+      "ru": "will ('ll) + глагол · won't · Will you…?"
+    },
+    "explain": {
+      "ua": "Will — рішення в момент розмови (I'll take it!), обіцянки й пропозиції (I'll help you), прогнози-думки (I think it will rain). Однаково для всіх, без -s.",
+      "ru": "Will — решение в момент разговора (I'll take it!), обещания и предложения (I'll help you), прогнозы-мнения (I think it will rain). Одинаково для всех, без -s."
+    },
+    "examples": [
+      {
+        "en": "I'll call you later.",
+        "ua": "Я тобі пізніше подзвоню.",
+        "ru": "Я тебе позже позвоню."
+      },
+      {
+        "en": "It won't take long.",
+        "ua": "Це ненадовго.",
+        "ru": "Это ненадолго."
+      },
+      {
+        "en": "Will you help me?",
+        "ua": "Допоможеш мені?",
+        "ru": "Поможешь мне?"
+      }
+    ],
+    "compare": {
+      "ua": "Will — це «буду, -му»: I will work = я працюватиму. Але для вже вирішених планів краще going to.",
+      "ru": "Will — это «буду»: I will work = я буду работать. Но для уже решённых планов лучше going to."
+    }
+  },
+  "vocab": [
+    {
+      "word": "will",
+      "ipa": "/wɪl/",
+      "ua": "буде, -му (майбутнє)",
+      "ru": "будет (будущее)",
+      "example": "I'll be there.",
+      "audio": ""
+    },
+    {
+      "word": "won't",
+      "ipa": "/wəʊnt/",
+      "ua": "не буде",
+      "ru": "не будет",
+      "example": "I won't tell anyone.",
+      "audio": ""
+    },
+    {
+      "word": "promise",
+      "ipa": "/ˈprɒmɪs/",
+      "ua": "обіцяти",
+      "ru": "обещать",
+      "example": "I promise I'll come.",
+      "audio": ""
+    },
+    {
+      "word": "probably",
+      "ipa": "/ˈprɒbəbli/",
+      "ua": "напевно",
+      "ru": "наверное",
+      "example": "I'll probably stay home.",
+      "audio": ""
+    },
+    {
+      "word": "maybe",
+      "ipa": "/ˈmeɪbi/",
+      "ua": "можливо",
+      "ru": "может быть",
+      "example": "Maybe it will snow.",
+      "audio": ""
+    },
+    {
+      "word": "I think",
+      "ipa": "/aɪ ˈθɪŋk/",
+      "ua": "я думаю",
+      "ru": "я думаю",
+      "example": "I think he'll win.",
+      "audio": ""
+    },
+    {
+      "word": "win",
+      "ipa": "/wɪn/",
+      "ua": "перемагати",
+      "ru": "побеждать",
+      "example": "Who will win?",
+      "audio": ""
+    },
+    {
+      "word": "carry",
+      "ipa": "/ˈkæri/",
+      "ua": "нести",
+      "ru": "нести",
+      "example": "I'll carry your bag.",
+      "audio": ""
+    },
+    {
+      "word": "answer",
+      "ipa": "/ˈɑːnsə/",
+      "ua": "відповідати",
+      "ru": "отвечать",
+      "example": "I'll answer the phone.",
+      "audio": ""
+    },
+    {
+      "word": "future",
+      "ipa": "/ˈfjuːtʃə/",
+      "ua": "майбутнє",
+      "ru": "будущее",
+      "example": "in the future",
+      "audio": ""
+    },
+    {
+      "word": "soon",
+      "ipa": "/suːn/",
+      "ua": "скоро",
+      "ru": "скоро",
+      "example": "See you soon!",
+      "audio": ""
+    },
+    {
+      "word": "later",
+      "ipa": "/ˈleɪtə/",
+      "ua": "пізніше",
+      "ru": "позже",
+      "example": "I'll do it later.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u11-l01",
+      "title": {
+        "en": "Decisions now",
+        "ua": "Рішення зараз",
+        "ru": "Решения сейчас"
+      },
+      "recap": {
+        "from": "a2-u10-l04",
+        "note": {
+          "ua": "Згадаймо: бачу ознаки → going to",
+          "ru": "Вспомним: вижу признаки → going to"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "going-to-prediction",
+            "question": "Look at those clouds! It ___ rain.",
+            "options": [
+              "'s going to",
+              "goes to",
+              "is go to"
+            ],
+            "answer": "'s going to",
+            "explain": {
+              "ua": "Бачимо ознаку → going to.",
+              "ru": "Видим признак → going to."
+            },
+            "id": "a2-u11-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "going-to-prediction",
+            "question": "She's very pale. I think she ___ be sick.",
+            "options": [
+              "is going to",
+              "goes to",
+              "going"
+            ],
+            "answer": "is going to",
+            "explain": {
+              "ua": "Going to.",
+              "ru": "Going to."
+            },
+            "id": "a2-u11-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'll + дієслово — вирішую прямо зараз",
+          "ru": "I'll + глагол — решаю прямо сейчас"
+        },
+        "explain": {
+          "ua": "Вирішили в момент розмови — will: The phone is ringing. — I'll answer it! I'll have the soup, please.",
+          "ru": "Решили в момент разговора — will: The phone is ringing. — I'll answer it! I'll have the soup, please."
+        },
+        "examples": [
+          {
+            "en": "I'll have a coffee, please.",
+            "ua": "Мені каву, будь ласка.",
+            "ru": "Мне кофе, пожалуйста."
+          },
+          {
+            "en": "It's cold. I'll close the window.",
+            "ua": "Холодно. Я зачиню вікно.",
+            "ru": "Холодно. Я закрою окно."
+          },
+          {
+            "en": "I'll take it!",
+            "ua": "Беру!",
+            "ru": "Беру!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will-decisions",
+          "question": "The phone is ringing. — I ___ answer it!",
+          "options": [
+            "'ll",
+            "'m going to",
+            "am"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Рішення зараз → will.",
+            "ru": "Решение сейчас → will."
+          },
+          "id": "a2-u11-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will-decisions",
+          "question": "— What would you like? — I ___ have the fish, please.",
+          "options": [
+            "'ll",
+            "am",
+            "going to"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Замовлення → I'll have.",
+            "ru": "Заказ → I'll have."
+          },
+          "id": "a2-u11-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will-decisions",
+          "question": "This dress is nice. I ___ take it.",
+          "options": [
+            "'ll",
+            "will to",
+            "am"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "I'll take it.",
+            "ru": "I'll take it."
+          },
+          "id": "a2-u11-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "She will ___ you tomorrow.",
+          "options": [
+            "call",
+            "calls",
+            "to call"
+          ],
+          "answer": "call",
+          "explain": {
+            "ua": "Will + базове дієслово.",
+            "ru": "Will + базовый глагол."
+          },
+          "id": "a2-u11-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "will-decisions",
+          "question": "It's dark. I ___ turn on the light.",
+          "answer": "'ll",
+          "accept": [
+            "will"
+          ],
+          "explain": {
+            "ua": "Рішення зараз.",
+            "ru": "Решение сейчас."
+          },
+          "id": "a2-u11-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "She wills come later.",
+          "answer": "She will come later.",
+          "accept": [
+            "She'll come later."
+          ],
+          "explain": {
+            "ua": "Will — без -s.",
+            "ru": "Will — без -s."
+          },
+          "id": "a2-u11-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "I will to help you.",
+          "answer": "I will help you.",
+          "accept": [
+            "I'll help you."
+          ],
+          "explain": {
+            "ua": "Will — без to.",
+            "ru": "Will — без to."
+          },
+          "id": "a2-u11-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "will-decisions",
+          "audio_text": "I'll have the soup, please.",
+          "options": [
+            "I'll have the soup, please.",
+            "I have the soup, please.",
+            "I'll have the soap, please."
+          ],
+          "answer": "I'll have the soup, please.",
+          "audio": "",
+          "explain": {
+            "ua": "I'll — «айл».",
+            "ru": "I'll — «айл»."
+          },
+          "id": "a2-u11-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will-decisions",
+          "prompt": {
+            "ua": "Я зачиню вікно.",
+            "ru": "Я закрою окно."
+          },
+          "answer": "I'll close the window.",
+          "accept": [
+            "I will close the window."
+          ],
+          "explain": {
+            "ua": "I'll close…",
+            "ru": "I'll close…"
+          },
+          "id": "a2-u11-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u11-l02",
+      "title": {
+        "en": "Promises and offers",
+        "ua": "Обіцянки й пропозиції",
+        "ru": "Обещания и предложения"
+      },
+      "recap": {
+        "from": "a2-u11-l01",
+        "note": {
+          "ua": "Згадаймо: I'll + дієслово — вирішую прямо зараз",
+          "ru": "Вспомним: I'll + глагол — решаю прямо сейчас"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-decisions",
+            "question": "The phone is ringing. — I ___ answer it!",
+            "options": [
+              "'ll",
+              "'m going to",
+              "am"
+            ],
+            "answer": "'ll",
+            "explain": {
+              "ua": "Рішення зараз → will.",
+              "ru": "Решение сейчас → will."
+            },
+            "id": "a2-u11-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "will-decisions",
+            "question": "It's dark. I ___ turn on the light.",
+            "answer": "'ll",
+            "accept": [
+              "will"
+            ],
+            "explain": {
+              "ua": "Рішення зараз.",
+              "ru": "Решение сейчас."
+            },
+            "id": "a2-u11-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'll… (обіцяю / пропоную) · Shall I…? · Will you…? (прохання)",
+          "ru": "I'll… (обещаю / предлагаю) · Shall I…? · Will you…? (просьба)"
+        },
+        "explain": {
+          "ua": "Обіцянка: I'll call you, I promise. Пропозиція допомоги: I'll carry your bag. Прохання: Will you help me?",
+          "ru": "Обещание: I'll call you, I promise. Предложение помощи: I'll carry your bag. Просьба: Will you help me?"
+        },
+        "examples": [
+          {
+            "en": "I'll call you, I promise.",
+            "ua": "Я подзвоню, обіцяю.",
+            "ru": "Я позвоню, обещаю."
+          },
+          {
+            "en": "That bag looks heavy. I'll carry it.",
+            "ua": "Сумка виглядає важкою. Я понесу.",
+            "ru": "Сумка выглядит тяжёлой. Я понесу."
+          },
+          {
+            "en": "Will you open the door, please?",
+            "ua": "Відчиниш двері, будь ласка?",
+            "ru": "Откроешь дверь, пожалуйста?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will-promises",
+          "question": "Don't worry, I ___ tell anyone.",
+          "options": [
+            "won't",
+            "don't",
+            "'m not"
+          ],
+          "answer": "won't",
+          "explain": {
+            "ua": "Обіцянка — won't.",
+            "ru": "Обещание — won't."
+          },
+          "id": "a2-u11-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will-promises",
+          "question": "Your bags look heavy. I ___ help you.",
+          "options": [
+            "'ll",
+            "am",
+            "going"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Пропозиція — I'll.",
+            "ru": "Предложение — I'll."
+          },
+          "id": "a2-u11-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will-promises",
+          "question": "___ you marry me?",
+          "options": [
+            "Will",
+            "Do",
+            "Are"
+          ],
+          "answer": "Will",
+          "explain": {
+            "ua": "Will you…?",
+            "ru": "Will you…?"
+          },
+          "id": "a2-u11-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will-promises",
+          "question": "I promise I ___ be late.",
+          "options": [
+            "won't",
+            "willn't",
+            "don't"
+          ],
+          "answer": "won't",
+          "explain": {
+            "ua": "Will not = won't.",
+            "ru": "Will not = won't."
+          },
+          "id": "a2-u11-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "will-promises",
+          "pairs": [
+            {
+              "left": "I'll call you,",
+              "right": "I promise."
+            },
+            {
+              "left": "Don't worry,",
+              "right": "I won't forget."
+            },
+            {
+              "left": "You look tired.",
+              "right": "I'll cook dinner."
+            },
+            {
+              "left": "It's heavy.",
+              "right": "I'll carry it."
+            }
+          ],
+          "explain": {
+            "ua": "Обіцянки й пропозиції.",
+            "ru": "Обещания и предложения."
+          },
+          "id": "a2-u11-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "I willn't be late.",
+          "answer": "I won't be late.",
+          "accept": [
+            "I will not be late."
+          ],
+          "explain": {
+            "ua": "Will not = won't.",
+            "ru": "Will not = won't."
+          },
+          "id": "a2-u11-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "will-promises",
+          "words": [
+            "with",
+            "homework",
+            "your",
+            "I",
+            "help",
+            "will",
+            "you"
+          ],
+          "answer": "I will help you with your homework",
+          "explain": {
+            "ua": "I will help → you → with your homework.",
+            "ru": "I will help → you → with your homework."
+          },
+          "id": "a2-u11-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "will-promises",
+          "audio_text": "I won't forget, I promise.",
+          "options": [
+            "I won't forget, I promise.",
+            "I want forget, I promise.",
+            "I don't forget, I promise."
+          ],
+          "answer": "I won't forget, I promise.",
+          "audio": "",
+          "explain": {
+            "ua": "Won't — «воунт», want — «вонт».",
+            "ru": "Won't — «уоунт», want — «уонт»."
+          },
+          "id": "a2-u11-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will-promises",
+          "prompt": {
+            "ua": "Я тобі подзвоню завтра, обіцяю.",
+            "ru": "Я тебе позвоню завтра, обещаю."
+          },
+          "answer": "I'll call you tomorrow, I promise.",
+          "accept": [
+            "I will call you tomorrow, I promise.",
+            "I promise I'll call you tomorrow."
+          ],
+          "explain": {
+            "ua": "I'll call + I promise.",
+            "ru": "I'll call + I promise."
+          },
+          "id": "a2-u11-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u11-l03",
+      "title": {
+        "en": "Predictions: I think…",
+        "ua": "Прогнози: я думаю…",
+        "ru": "Прогнозы: я думаю…"
+      },
+      "recap": {
+        "from": "a2-u11-l02",
+        "note": {
+          "ua": "Згадаймо: I'll… (обіцяю / пропоную) · Shall I…? · Will you…? (прохання)",
+          "ru": "Вспомним: I'll… (обещаю / предлагаю) · Shall I…? · Will you…? (просьба)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-promises",
+            "question": "Don't worry, I ___ tell anyone.",
+            "options": [
+              "won't",
+              "don't",
+              "'m not"
+            ],
+            "answer": "won't",
+            "explain": {
+              "ua": "Обіцянка — won't.",
+              "ru": "Обещание — won't."
+            },
+            "id": "a2-u11-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will-promises",
+            "question": "I promise I ___ be late.",
+            "options": [
+              "won't",
+              "willn't",
+              "don't"
+            ],
+            "answer": "won't",
+            "explain": {
+              "ua": "Will not = won't.",
+              "ru": "Will not = won't."
+            },
+            "id": "a2-u11-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I think / probably / maybe + will",
+        "explain": {
+          "ua": "Прогноз-думка без явних ознак — will: I think it will be sunny. Maybe she'll come. He'll probably win.",
+          "ru": "Прогноз-мнение без явных признаков — will: I think it will be sunny. Maybe she'll come. He'll probably win."
+        },
+        "examples": [
+          {
+            "en": "I think it'll be a good day.",
+            "ua": "Думаю, це буде гарний день.",
+            "ru": "Думаю, это будет хороший день."
+          },
+          {
+            "en": "Maybe she'll call.",
+            "ua": "Можливо, вона подзвонить.",
+            "ru": "Может быть, она позвонит."
+          },
+          {
+            "en": "He'll probably be late.",
+            "ua": "Він, напевно, запізниться.",
+            "ru": "Он, наверное, опоздает."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will-predictions",
+          "question": "I think Ukraine ___ win the match.",
+          "options": [
+            "will",
+            "is going",
+            "wins"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "I think → will.",
+            "ru": "I think → will."
+          },
+          "id": "a2-u11-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will-predictions",
+          "question": "In the future, robots ___ do a lot of work.",
+          "options": [
+            "will",
+            "are",
+            "do"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "Прогноз → will.",
+            "ru": "Прогноз → will."
+          },
+          "id": "a2-u11-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will-predictions",
+          "question": "Don't wait for him. He'll ___ be late.",
+          "options": [
+            "probably",
+            "maybe",
+            "think"
+          ],
+          "answer": "probably",
+          "explain": {
+            "ua": "Will probably.",
+            "ru": "Will probably."
+          },
+          "id": "a2-u11-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will-predictions",
+          "question": "I don't think it ___ rain.",
+          "options": [
+            "will",
+            "won't",
+            "is"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "I don't think it will — так природніше, ніж I think it won't.",
+            "ru": "I don't think it will — так естественнее, чем I think it won't."
+          },
+          "id": "a2-u11-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "will-predictions",
+          "question": "Maybe she ___ like the present.",
+          "options": [
+            "will",
+            "wills",
+            "is"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "Maybe + will.",
+            "ru": "Maybe + will."
+          },
+          "id": "a2-u11-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "will-predictions",
+          "sentence": "I think it rains tomorrow.",
+          "answer": "I think it will rain tomorrow.",
+          "accept": [
+            "I think it'll rain tomorrow."
+          ],
+          "explain": {
+            "ua": "Прогноз → will.",
+            "ru": "Прогноз → will."
+          },
+          "id": "a2-u11-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "will-predictions",
+          "sentence": "He probably will be late.",
+          "answer": "He will probably be late.",
+          "accept": [
+            "He'll probably be late."
+          ],
+          "explain": {
+            "ua": "Probably — після will.",
+            "ru": "Probably — после will."
+          },
+          "id": "a2-u11-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "will-predictions",
+          "audio_text": "I think you'll love it.",
+          "options": [
+            "I think you'll love it.",
+            "I think you love it.",
+            "I think you'll leave it."
+          ],
+          "answer": "I think you'll love it.",
+          "audio": "",
+          "explain": {
+            "ua": "You'll.",
+            "ru": "You'll."
+          },
+          "id": "a2-u11-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will-predictions",
+          "prompt": {
+            "ua": "Думаю, він прийде.",
+            "ru": "Думаю, он придёт."
+          },
+          "answer": "I think he'll come.",
+          "accept": [
+            "I think he will come."
+          ],
+          "explain": {
+            "ua": "I think + will.",
+            "ru": "I think + will."
+          },
+          "id": "a2-u11-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u11-l04",
+      "title": {
+        "en": "won't and questions",
+        "ua": "won't і питання",
+        "ru": "won't и вопросы"
+      },
+      "recap": {
+        "from": "a2-u11-l03",
+        "note": {
+          "ua": "Згадаймо: I think / probably / maybe + will",
+          "ru": "Вспомним: I think / probably / maybe + will"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-predictions",
+            "question": "I think Ukraine ___ win the match.",
+            "options": [
+              "will",
+              "is going",
+              "wins"
+            ],
+            "answer": "will",
+            "explain": {
+              "ua": "I think → will.",
+              "ru": "I think → will."
+            },
+            "id": "a2-u11-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will-predictions",
+            "question": "Maybe she ___ like the present.",
+            "options": [
+              "will",
+              "wills",
+              "is"
+            ],
+            "answer": "will",
+            "explain": {
+              "ua": "Maybe + will.",
+              "ru": "Maybe + will."
+            },
+            "id": "a2-u11-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "won't (= will not) · Will you…? — Yes, I will. / No, I won't.",
+        "explain": {
+          "ua": "Заперечення — won't для всіх. Питання — Will на початок. Коротка відповідь: Yes, I will. / No, it won't.",
+          "ru": "Отрицание — won't для всех. Вопрос — Will в начало. Краткий ответ: Yes, I will. / No, it won't."
+        },
+        "examples": [
+          {
+            "en": "It won't be easy.",
+            "ua": "Це не буде легко.",
+            "ru": "Это не будет легко."
+          },
+          {
+            "en": "Will you be at home? — Yes, I will.",
+            "ua": "Ти будеш удома? — Так.",
+            "ru": "Ты будешь дома? — Да."
+          },
+          {
+            "en": "When will you finish?",
+            "ua": "Коли ти закінчиш?",
+            "ru": "Когда ты закончишь?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "Don't worry, it ___ take long.",
+          "options": [
+            "won't",
+            "doesn't",
+            "isn't"
+          ],
+          "answer": "won't",
+          "explain": {
+            "ua": "Won't.",
+            "ru": "Won't."
+          },
+          "id": "a2-u11-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "___ you be at the party?",
+          "options": [
+            "Will",
+            "Do",
+            "Are"
+          ],
+          "answer": "Will",
+          "explain": {
+            "ua": "Will you be…?",
+            "ru": "Will you be…?"
+          },
+          "id": "a2-u11-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "Will she come? — No, she ___.",
+          "options": [
+            "won't",
+            "doesn't",
+            "willn't"
+          ],
+          "answer": "won't",
+          "explain": {
+            "ua": "No, she won't.",
+            "ru": "No, she won't."
+          },
+          "id": "a2-u11-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "When ___ you be back?",
+          "options": [
+            "will",
+            "do",
+            "are"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "When will…?",
+            "ru": "When will…?"
+          },
+          "id": "a2-u11-l04-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "will",
+          "bank": [
+            "will",
+            "won't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I promise I ___ forget.",
+            "___ you help me?",
+            "Don't worry, I ___ be late.",
+            "I think it ___ be fun."
+          ],
+          "answers": [
+            "won't",
+            "Will",
+            "won't",
+            "will"
+          ],
+          "explain": {
+            "ua": "Перевір сенс: так чи ні.",
+            "ru": "Проверь смысл: да или нет."
+          },
+          "id": "a2-u11-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "Will you to come?",
+          "answer": "Will you come?",
+          "accept": [],
+          "explain": {
+            "ua": "Без to.",
+            "ru": "Без to."
+          },
+          "id": "a2-u11-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "He don't will help.",
+          "answer": "He won't help.",
+          "accept": [
+            "He will not help."
+          ],
+          "explain": {
+            "ua": "Will not = won't.",
+            "ru": "Will not = won't."
+          },
+          "id": "a2-u11-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "will",
+          "audio_text": "When will you be back?",
+          "options": [
+            "When will you be back?",
+            "When are you back?",
+            "Where will you be back?"
+          ],
+          "answer": "When will you be back?",
+          "audio": "",
+          "explain": {
+            "ua": "When will.",
+            "ru": "When will."
+          },
+          "id": "a2-u11-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will",
+          "prompt": {
+            "ua": "Це не займе багато часу.",
+            "ru": "Это не займёт много времени."
+          },
+          "answer": "It won't take long.",
+          "accept": [
+            "It will not take long.",
+            "It won't take much time."
+          ],
+          "explain": {
+            "ua": "Won't take long.",
+            "ru": "Won't take long."
+          },
+          "id": "a2-u11-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u11-l05",
+      "title": {
+        "en": "will or going to?",
+        "ua": "will чи going to?",
+        "ru": "will или going to?"
+      },
+      "recap": {
+        "from": "a2-u11-l04",
+        "note": {
+          "ua": "Згадаймо: won't (= will not) · Will you…? — Yes, I will. / No, I won't.",
+          "ru": "Вспомним: won't (= will not) · Will you…? — Yes, I will. / No, I won't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will",
+            "question": "Don't worry, it ___ take long.",
+            "options": [
+              "won't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": "won't",
+            "explain": {
+              "ua": "Won't.",
+              "ru": "Won't."
+            },
+            "id": "a2-u11-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will",
+            "question": "When ___ you be back?",
+            "options": [
+              "will",
+              "do",
+              "are"
+            ],
+            "answer": "will",
+            "explain": {
+              "ua": "When will…?",
+              "ru": "When will…?"
+            },
+            "id": "a2-u11-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "вирішив раніше → going to · вирішую зараз → will · бачу ознаки → going to · думаю → will",
+          "ru": "решил раньше → going to · решаю сейчас → will · вижу признаки → going to · думаю → will"
+        },
+        "explain": {
+          "ua": "План, який уже є — going to (I'm going to visit Lviv in May). Рішення в момент розмови — will (OK, I'll come with you!).",
+          "ru": "План, который уже есть — going to (I'm going to visit Lviv in May). Решение в момент разговора — will (OK, I'll come with you!)."
+        },
+        "examples": [
+          {
+            "en": "I'm going to visit Lviv. I booked the tickets.",
+            "ua": "Я їду до Львова. Я забронював квитки.",
+            "ru": "Я еду во Львов. Я забронировал билеты."
+          },
+          {
+            "en": "— I'm going to Lviv. — Really? I'll come with you!",
+            "ua": "— Я їду до Львова. — Справді? Я поїду з тобою!",
+            "ru": "— Я еду во Львов. — Правда? Я поеду с тобой!"
+          },
+          {
+            "en": "Look! It's going to rain. / I think it will rain tomorrow.",
+            "ua": "Дивись, зараз піде дощ. / Думаю, завтра буде дощ.",
+            "ru": "Смотри, сейчас пойдёт дождь. / Думаю, завтра будет дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will-vs-going-to",
+          "question": "I've got the tickets. We ___ fly to Rome in June.",
+          "options": [
+            "are going to",
+            "will",
+            "'ll"
+          ],
+          "answer": "are going to",
+          "explain": {
+            "ua": "План уже є → going to.",
+            "ru": "План уже есть → going to."
+          },
+          "id": "a2-u11-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will-vs-going-to",
+          "question": "— There's no milk. — Oh, I ___ buy some.",
+          "options": [
+            "'ll",
+            "'m going to",
+            "am"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Вирішив зараз → will.",
+            "ru": "Решил сейчас → will."
+          },
+          "id": "a2-u11-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "will-vs-going-to",
+          "question": "Look at the clouds! It ___ rain.",
+          "options": [
+            "'s going to",
+            "will",
+            "'ll"
+          ],
+          "answer": "'s going to",
+          "explain": {
+            "ua": "Бачу ознаки → going to.",
+            "ru": "Вижу признаки → going to."
+          },
+          "id": "a2-u11-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "will-vs-going-to",
+          "question": "I think people ___ live on Mars one day.",
+          "options": [
+            "will",
+            "are going to",
+            "go to"
+          ],
+          "answer": "will",
+          "explain": {
+            "ua": "Думка → will.",
+            "ru": "Мнение → will."
+          },
+          "id": "a2-u11-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "will-vs-going-to",
+          "question": "— Why are you buying paint? — I ___ paint my room.",
+          "options": [
+            "'m going to",
+            "'ll",
+            "will"
+          ],
+          "answer": "'m going to",
+          "explain": {
+            "ua": "План → going to.",
+            "ru": "План → going to."
+          },
+          "id": "a2-u11-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "will-vs-going-to",
+          "pairs": [
+            {
+              "left": "We booked a hotel.",
+              "right": "We're going to stay there."
+            },
+            {
+              "left": "The phone's ringing.",
+              "right": "I'll get it!"
+            },
+            {
+              "left": "He's running fast.",
+              "right": "He's going to fall!"
+            },
+            {
+              "left": "I think Max",
+              "right": "will win."
+            }
+          ],
+          "explain": {
+            "ua": "План / ознака → going to. Рішення / думка → will.",
+            "ru": "План / признак → going to. Решение / мнение → will."
+          },
+          "id": "a2-u11-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "will-vs-going-to",
+          "sentence": "— It's cold. — I'm going to close the window.",
+          "answer": "— It's cold. — I'll close the window.",
+          "accept": [
+            "I'll close the window."
+          ],
+          "explain": {
+            "ua": "Вирішив щойно → will.",
+            "ru": "Решил только что → will."
+          },
+          "id": "a2-u11-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "will-vs-going-to",
+          "sentence": "I will visit my grandma tomorrow. I bought the tickets last week.",
+          "answer": "I'm going to visit my grandma tomorrow. I bought the tickets last week.",
+          "accept": [
+            "I'm going to visit my grandma tomorrow."
+          ],
+          "explain": {
+            "ua": "План → going to.",
+            "ru": "План → going to."
+          },
+          "id": "a2-u11-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will-vs-going-to",
+          "prompt": {
+            "ua": "Я допоможу тобі!",
+            "ru": "Я помогу тебе!"
+          },
+          "answer": "I'll help you!",
+          "accept": [
+            "I will help you!"
+          ],
+          "explain": {
+            "ua": "Пропозиція зараз → will.",
+            "ru": "Предложение сейчас → will."
+          },
+          "id": "a2-u11-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u11-l06",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u11-l05",
+        "note": {
+          "ua": "Згадаймо: вирішив раніше → going to · вирішую зараз → will · бачу ознаки → going to · думаю → will",
+          "ru": "Вспомним: решил раньше → going to · решаю сейчас → will · вижу признаки → going to · думаю → will"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "will-vs-going-to",
+            "question": "I've got the tickets. We ___ fly to Rome in June.",
+            "options": [
+              "are going to",
+              "will",
+              "'ll"
+            ],
+            "answer": "are going to",
+            "explain": {
+              "ua": "План уже є → going to.",
+              "ru": "План уже есть → going to."
+            },
+            "id": "a2-u11-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "will-vs-going-to",
+            "question": "— Why are you buying paint? — I ___ paint my room.",
+            "options": [
+              "'m going to",
+              "'ll",
+              "will"
+            ],
+            "answer": "'m going to",
+            "explain": {
+              "ua": "План → going to.",
+              "ru": "План → going to."
+            },
+            "id": "a2-u11-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "— Shall we go to the cinema? — OK, I ___ come.",
+          "options": [
+            "'ll",
+            "'m going to",
+            "go"
+          ],
+          "answer": "'ll",
+          "explain": {
+            "ua": "Рішення зараз.",
+            "ru": "Решение сейчас."
+          },
+          "id": "a2-u11-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "will",
+          "question": "We ___ get married in July. Everything is ready!",
+          "options": [
+            "are going to",
+            "will",
+            "'ll"
+          ],
+          "answer": "are going to",
+          "explain": {
+            "ua": "План готовий → going to.",
+            "ru": "План готов → going to."
+          },
+          "id": "a2-u11-l06-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Lena will help Max.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Max is going to move tomorrow.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What will Lena bring?",
+              "options": [
+                "pizza",
+                "boxes",
+                "a car"
+              ],
+              "answer": "pizza"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "I'm going to move on Saturday. I've got so many boxes!"
+            },
+            {
+              "speaker": "Lena",
+              "line": "Oh, I'll help you!"
+            },
+            {
+              "speaker": "Max",
+              "line": "Really? Thanks! It won't be easy."
+            },
+            {
+              "speaker": "Lena",
+              "line": "Don't worry. I'll bring some pizza too."
+            },
+            {
+              "speaker": "Max",
+              "line": "You're the best! I think we'll finish by 6."
+            }
+          ],
+          "explain": {
+            "ua": "Moving on Saturday, Lena helps, brings pizza.",
+            "ru": "Moving on Saturday, Lena helps, brings pizza."
+          },
+          "id": "a2-u11-l06-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "will",
+          "bank": [
+            "'m going to",
+            "'ll",
+            "won't",
+            "will"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Max ___ move on Saturday.",
+            "Lena: I ___ help you!",
+            "Max: It ___ be easy.",
+            "Max: I think we ___ finish by 6."
+          ],
+          "answers": [
+            "'m going to",
+            "'ll",
+            "won't",
+            "will"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u11-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "I think she is liking the present.",
+          "answer": "I think she will like the present.",
+          "accept": [
+            "I think she'll like the present."
+          ],
+          "explain": {
+            "ua": "Прогноз-думка → will.",
+            "ru": "Прогноз-мнение → will."
+          },
+          "id": "a2-u11-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "will",
+          "sentence": "I promise I don't tell anybody.",
+          "answer": "I promise I won't tell anybody.",
+          "accept": [
+            "I promise I will not tell anybody.",
+            "I promise I won't tell anyone."
+          ],
+          "explain": {
+            "ua": "Обіцянка → won't.",
+            "ru": "Обещание → won't."
+          },
+          "id": "a2-u11-l06-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "will",
+            "I",
+            "home",
+            "tonight",
+            "stay",
+            "at",
+            "probably"
+          ],
+          "answer": "I will probably stay at home tonight",
+          "explain": {
+            "ua": "Will probably → stay at home → tonight.",
+            "ru": "Will probably → stay at home → tonight."
+          },
+          "id": "a2-u11-l06-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "will",
+          "audio_text": "Don't worry, I'll do it later.",
+          "options": [
+            "Don't worry, I'll do it later.",
+            "Don't worry, I do it later.",
+            "Don't worry, I'll do it letter."
+          ],
+          "answer": "Don't worry, I'll do it later.",
+          "audio": "",
+          "explain": {
+            "ua": "Later — пізніше.",
+            "ru": "Later — позже."
+          },
+          "id": "a2-u11-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "will",
+          "prompt": {
+            "ua": "Можливо, завтра піде сніг.",
+            "ru": "Может быть, завтра пойдёт снег."
+          },
+          "answer": "Maybe it will snow tomorrow.",
+          "accept": [
+            "Maybe it'll snow tomorrow.",
+            "It will maybe snow tomorrow."
+          ],
+          "explain": {
+            "ua": "Maybe + will.",
+            "ru": "Maybe + will."
+          },
+          "id": "a2-u11-l06-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "will",
+          "prompt": {
+            "ua": "Ти будеш удома ввечері?",
+            "ru": "Ты будешь дома вечером?"
+          },
+          "answer": "Will you be at home in the evening?",
+          "accept": [
+            "Will you be home in the evening?",
+            "Will you be at home tonight?",
+            "Will you be home tonight?"
+          ],
+          "explain": {
+            "ua": "Will you be…?",
+            "ru": "Will you be…?"
+          },
+          "id": "a2-u11-l06-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "will-decisions",
+      "question": "The phone's ringing. I ___ answer it.",
+      "options": [
+        "'ll",
+        "'m going to",
+        "am"
+      ],
+      "answer": "'ll",
+      "explain": {
+        "ua": "Рішення зараз.",
+        "ru": "Решение сейчас."
+      },
+      "id": "a2-u11-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "will-promises",
+      "question": "I promise I ___ be late.",
+      "options": [
+        "won't",
+        "don't",
+        "'m not"
+      ],
+      "answer": "won't",
+      "explain": {
+        "ua": "Won't.",
+        "ru": "Won't."
+      },
+      "id": "a2-u11-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "will-predictions",
+      "question": "I think it ___ be sunny tomorrow.",
+      "options": [
+        "will",
+        "is",
+        "going"
+      ],
+      "answer": "will",
+      "explain": {
+        "ua": "Думка → will.",
+        "ru": "Мнение → will."
+      },
+      "id": "a2-u11-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "will-vs-going-to",
+      "question": "We bought a tent. We ___ go camping.",
+      "options": [
+        "'re going to",
+        "'ll",
+        "will"
+      ],
+      "answer": "'re going to",
+      "explain": {
+        "ua": "План → going to.",
+        "ru": "План → going to."
+      },
+      "id": "a2-u11-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "will-promises",
+      "question": "___ you help me, please?",
+      "options": [
+        "Will",
+        "Do",
+        "Are"
+      ],
+      "answer": "Will",
+      "explain": {
+        "ua": "Will you…?",
+        "ru": "Will you…?"
+      },
+      "id": "a2-u11-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "will",
+      "question": "She ___ call you later.",
+      "answer": "will",
+      "accept": [
+        "'ll"
+      ],
+      "explain": {
+        "ua": "Will.",
+        "ru": "Will."
+      },
+      "id": "a2-u11-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "will",
+      "question": "Will they come? — No, they ___.",
+      "answer": "won't",
+      "accept": [
+        "will not"
+      ],
+      "explain": {
+        "ua": "No, they won't.",
+        "ru": "No, they won't."
+      },
+      "id": "a2-u11-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "will",
+      "sentence": "He wills help you.",
+      "answer": "He will help you.",
+      "accept": [
+        "He'll help you."
+      ],
+      "explain": {
+        "ua": "Без -s.",
+        "ru": "Без -s."
+      },
+      "id": "a2-u11-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "will",
+      "sentence": "I will to call you.",
+      "answer": "I will call you.",
+      "accept": [
+        "I'll call you."
+      ],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "a2-u11-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "you",
+        "back",
+        "When",
+        "be",
+        "will"
+      ],
+      "answer": "When will you be back",
+      "explain": {
+        "ua": "When → will you → be back?",
+        "ru": "When → will you → be back?"
+      },
+      "id": "a2-u11-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "will-promises",
+      "prompt": {
+        "ua": "Я понесу твою сумку.",
+        "ru": "Я понесу твою сумку."
+      },
+      "answer": "I'll carry your bag.",
+      "accept": [
+        "I will carry your bag."
+      ],
+      "explain": {
+        "ua": "Пропозиція → I'll.",
+        "ru": "Предложение → I'll."
+      },
+      "id": "a2-u11-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "will",
+      "audio_text": "It won't take long.",
+      "options": [
+        "It won't take long.",
+        "It want take long.",
+        "It will take long."
+      ],
+      "answer": "It won't take long.",
+      "audio": "",
+      "explain": {
+        "ua": "Won't.",
+        "ru": "Won't."
+      },
+      "id": "a2-u11-cp12"
+    }
+  ]
+}

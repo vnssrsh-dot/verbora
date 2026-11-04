@@ -1,0 +1,528 @@
+{
+  "id": "a2-final",
+  "level": "A2",
+  "kind": "final-test",
+  "title": {
+    "en": "A2 final test",
+    "ua": "Фінальний тест A2",
+    "ru": "Финальный тест A2"
+  },
+  "pass_score": 0.8,
+  "exercises": [
+    {
+      "type": "choose",
+      "topic": "past-irregular",
+      "question": "She ___ a new bag.",
+      "options": [
+        "bought",
+        "buyed",
+        "buy"
+      ],
+      "answer": "bought",
+      "explain": {
+        "ua": "Buy → bought.",
+        "ru": "Buy → bought."
+      },
+      "id": "a2-final-01",
+      "source": "a2-u01-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "The plane ___ at 6. (arrive)",
+      "answer": "arrives",
+      "accept": [],
+      "explain": {
+        "ua": "Plane → arrives.",
+        "ru": "Plane → arrives."
+      },
+      "id": "a2-final-02",
+      "source": "a2-u02-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "past-continuous",
+      "prompt": {
+        "ua": "Що ти робила вчора о восьмій?",
+        "ru": "Что ты делала вчера в восемь?"
+      },
+      "answer": "What were you doing at 8 yesterday?",
+      "accept": [
+        "What were you doing yesterday at 8?",
+        "What were you doing at eight yesterday?"
+      ],
+      "explain": {
+        "ua": "What were you doing…?",
+        "ru": "What were you doing…?"
+      },
+      "id": "a2-final-03",
+      "source": "a2-u03-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "as-as",
+      "question": "He is as tall ___ his brother.",
+      "options": [
+        "as",
+        "than",
+        "that"
+      ],
+      "answer": "as",
+      "explain": {
+        "ua": "As … as.",
+        "ru": "As … as."
+      },
+      "id": "a2-final-04",
+      "source": "a2-u04-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Can I pay with cash?",
+      "answer": "Can I pay in cash?",
+      "accept": [
+        "Can I pay cash?"
+      ],
+      "explain": {
+        "ua": "In cash.",
+        "ru": "In cash."
+      },
+      "id": "a2-final-05",
+      "source": "a2-u05-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "some-any",
+      "question": "Have you got ___ brothers?",
+      "options": [
+        "any",
+        "some",
+        "no"
+      ],
+      "answer": "any",
+      "explain": {
+        "ua": "? → any.",
+        "ru": "? → any."
+      },
+      "id": "a2-final-06",
+      "source": "a2-u06-cp02"
+    },
+    {
+      "type": "fill",
+      "topic": "much-many",
+      "question": "There's too ___ traffic.",
+      "answer": "much",
+      "accept": [],
+      "explain": {
+        "ua": "Traffic — незлічуване.",
+        "ru": "Traffic — неисчисляемое."
+      },
+      "id": "a2-final-07",
+      "source": "a2-u07-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Fry the onion in a pan.",
+      "options": [
+        "Fry the onion in a pan.",
+        "Fry the onion in a pen.",
+        "Free the onion in a pan."
+      ],
+      "answer": "Fry the onion in a pan.",
+      "audio": "",
+      "explain": {
+        "ua": "Fry.",
+        "ru": "Fry."
+      },
+      "id": "a2-final-08",
+      "source": "a2-u08-cp12"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A shop where you buy meat.",
+      "answer": "butcher's",
+      "accept": [
+        "the butcher's",
+        "butcher",
+        "a butcher's"
+      ],
+      "explain": {
+        "ua": "Butcher's.",
+        "ru": "Butcher's."
+      },
+      "id": "a2-final-09",
+      "source": "a2-u09-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "to",
+        "it",
+        "Is",
+        "going",
+        "rain"
+      ],
+      "answer": "Is it going to rain",
+      "explain": {
+        "ua": "Is it → going to rain?",
+        "ru": "Is it → going to rain?"
+      },
+      "id": "a2-final-10",
+      "source": "a2-u10-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "will-predictions",
+      "question": "I think it ___ be sunny tomorrow.",
+      "options": [
+        "will",
+        "is",
+        "going"
+      ],
+      "answer": "will",
+      "explain": {
+        "ua": "Думка → will.",
+        "ru": "Мнение → will."
+      },
+      "id": "a2-final-11",
+      "source": "a2-u11-cp03"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "What is the weather?",
+      "answer": "What's the weather like?",
+      "accept": [
+        "What is the weather like?"
+      ],
+      "explain": {
+        "ua": "What's the weather like?",
+        "ru": "What's the weather like?"
+      },
+      "id": "a2-final-12",
+      "source": "a2-u12-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "present-continuous-future",
+      "question": "I ___ Anna at 6. We arranged it yesterday.",
+      "options": [
+        "'m meeting",
+        "meet",
+        "'ll meet"
+      ],
+      "answer": "'m meeting",
+      "explain": {
+        "ua": "Домовленість.",
+        "ru": "Договорённость."
+      },
+      "id": "a2-final-13",
+      "source": "a2-u13-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "present-perfect-irregular",
+      "question": "We've ___ dinner. (eat)",
+      "answer": "eaten",
+      "accept": [],
+      "explain": {
+        "ua": "Eat → eaten.",
+        "ru": "Eat → eaten."
+      },
+      "id": "a2-final-14",
+      "source": "a2-u14-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "must-have-to",
+      "prompt": {
+        "ua": "Мені доводиться працювати по суботах.",
+        "ru": "Мне приходится работать по субботам."
+      },
+      "answer": "I have to work on Saturdays.",
+      "accept": [
+        "I have to work on Saturday."
+      ],
+      "explain": {
+        "ua": "Have to.",
+        "ru": "Have to."
+      },
+      "id": "a2-final-15",
+      "source": "a2-u15-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "should",
+      "question": "Should we wait? — Yes, we ___.",
+      "options": [
+        "should",
+        "do",
+        "are"
+      ],
+      "answer": "should",
+      "explain": {
+        "ua": "Yes, we should.",
+        "ru": "Yes, we should."
+      },
+      "id": "a2-final-16",
+      "source": "a2-u16-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I have 38 temperature.",
+      "answer": "I've got a temperature of 38.",
+      "accept": [
+        "I have a temperature of 38.",
+        "My temperature is 38."
+      ],
+      "explain": {
+        "ua": "Have got a temperature (of…).",
+        "ru": "Have got a temperature (of…)."
+      },
+      "id": "a2-final-17",
+      "source": "a2-u17-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "adverbs-irregular",
+      "question": "She sings ___ .",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "answer": "well",
+      "explain": {
+        "ua": "Good → well.",
+        "ru": "Good → well."
+      },
+      "id": "a2-final-18",
+      "source": "a2-u18-cp02"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "enjoy",
+          "right": "cooking"
+        },
+        {
+          "left": "want",
+          "right": "to cook"
+        },
+        {
+          "left": "finish",
+          "right": "eating"
+        },
+        {
+          "left": "need",
+          "right": "to eat"
+        }
+      ],
+      "explain": {
+        "ua": "Що після чого.",
+        "ru": "Что после чего."
+      },
+      "id": "a2-final-19",
+      "source": "a2-u19-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "I'm proud of you.",
+      "options": [
+        "I'm proud of you.",
+        "I'm proud for you.",
+        "I'm loud of you."
+      ],
+      "answer": "I'm proud of you.",
+      "audio": "",
+      "explain": {
+        "ua": "Proud of.",
+        "ru": "Proud of."
+      },
+      "id": "a2-final-20",
+      "source": "a2-u20-cp12"
+    },
+    {
+      "type": "choose",
+      "topic": "wh-questions",
+      "question": "___ car is this?",
+      "options": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "answer": "Whose",
+      "explain": {
+        "ua": "Чий.",
+        "ru": "Чей."
+      },
+      "id": "a2-final-21",
+      "source": "a2-u21-cp05"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers",
+      "sentence": "I was tired because I went to bed.",
+      "answer": "I was tired, so I went to bed.",
+      "accept": [
+        "I went to bed because I was tired."
+      ],
+      "explain": {
+        "ua": "Наслідок → so.",
+        "ru": "Следствие → so."
+      },
+      "id": "a2-final-22",
+      "source": "a2-u22-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We're going ___ holiday.",
+      "options": [
+        "on",
+        "in",
+        "to"
+      ],
+      "answer": "on",
+      "explain": {
+        "ua": "On holiday.",
+        "ru": "On holiday."
+      },
+      "id": "a2-final-23",
+      "source": "a2-u23-cp03"
+    },
+    {
+      "type": "listen",
+      "topic": "past-irregular",
+      "audio_text": "He told me everything.",
+      "options": [
+        "He told me everything.",
+        "He tell me everything.",
+        "He sold me everything."
+      ],
+      "answer": "He told me everything.",
+      "audio": "",
+      "explain": {
+        "ua": "Told — розповів.",
+        "ru": "Told — рассказал."
+      },
+      "id": "a2-final-24",
+      "source": "a2-u01-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "past-continuous-when",
+      "audio_text": "I was driving when I saw it.",
+      "options": [
+        "I was driving when I saw it.",
+        "I drove when I was seeing it.",
+        "I was driving when I see it."
+      ],
+      "answer": "I was driving when I saw it.",
+      "audio": "",
+      "explain": {
+        "ua": "Was driving + saw.",
+        "ru": "Was driving + saw."
+      },
+      "id": "a2-final-25",
+      "source": "a2-u03-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "superlatives",
+      "audio_text": "It's the cheapest hotel.",
+      "options": [
+        "It's the cheapest hotel.",
+        "It's the cheaper hotel.",
+        "It's the cheapest hostel."
+      ],
+      "answer": "It's the cheapest hotel.",
+      "audio": "",
+      "explain": {
+        "ua": "The cheapest.",
+        "ru": "The cheapest."
+      },
+      "id": "a2-final-26",
+      "source": "a2-u04-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "some-any",
+      "audio_text": "Is there anything in the fridge?",
+      "options": [
+        "Is there anything in the fridge?",
+        "Is there something in the fridge?",
+        "Is there anything in the bridge?"
+      ],
+      "answer": "Is there anything in the fridge?",
+      "audio": "",
+      "explain": {
+        "ua": "Anything.",
+        "ru": "Anything."
+      },
+      "id": "a2-final-27",
+      "source": "a2-u06-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "much-many",
+      "audio_text": "Not much, thanks.",
+      "options": [
+        "Not much, thanks.",
+        "Not many, thanks.",
+        "Not match, thanks."
+      ],
+      "answer": "Not much, thanks.",
+      "audio": "",
+      "explain": {
+        "ua": "Not much.",
+        "ru": "Not much."
+      },
+      "id": "a2-final-28",
+      "source": "a2-u07-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "going-to",
+      "audio_text": "He's going to save money.",
+      "options": [
+        "He's going to save money.",
+        "He's going to say money.",
+        "He saved money."
+      ],
+      "answer": "He's going to save money.",
+      "audio": "",
+      "explain": {
+        "ua": "Save money.",
+        "ru": "Save money."
+      },
+      "id": "a2-final-29",
+      "source": "a2-u10-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "will",
+      "audio_text": "It won't take long.",
+      "options": [
+        "It won't take long.",
+        "It want take long.",
+        "It will take long."
+      ],
+      "answer": "It won't take long.",
+      "audio": "",
+      "explain": {
+        "ua": "Won't.",
+        "ru": "Won't."
+      },
+      "id": "a2-final-30",
+      "source": "a2-u11-cp12"
+    }
+  ]
+}

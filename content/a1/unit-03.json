@@ -1,0 +1,1520 @@
+{
+  "id": "a1-u03",
+  "level": "A1",
+  "order": 3,
+  "kind": "vocab",
+  "title": {
+    "en": "Hello! Getting to know",
+    "ua": "Hello! Знайомство",
+    "ru": "Hello! Знакомство"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "hello",
+      "ipa": "/həˈləʊ/",
+      "ua": "привіт, вітаю",
+      "ru": "привет, здравствуйте",
+      "example": "Hello! I'm Anna.",
+      "audio": ""
+    },
+    {
+      "word": "hi",
+      "ipa": "/haɪ/",
+      "ua": "привіт",
+      "ru": "привет",
+      "example": "Hi, Max!",
+      "audio": ""
+    },
+    {
+      "word": "goodbye",
+      "ipa": "/ɡʊdˈbaɪ/",
+      "ua": "до побачення",
+      "ru": "до свидания",
+      "example": "Goodbye, see you!",
+      "audio": ""
+    },
+    {
+      "word": "bye",
+      "ipa": "/baɪ/",
+      "ua": "бувай",
+      "ru": "пока",
+      "example": "Bye!",
+      "audio": ""
+    },
+    {
+      "word": "good morning",
+      "ipa": "/ɡʊd ˈmɔːnɪŋ/",
+      "ua": "доброго ранку",
+      "ru": "доброе утро",
+      "example": "Good morning, Anna!",
+      "audio": ""
+    },
+    {
+      "word": "good evening",
+      "ipa": "/ɡʊd ˈiːvnɪŋ/",
+      "ua": "добрий вечір",
+      "ru": "добрый вечер",
+      "example": "Good evening!",
+      "audio": ""
+    },
+    {
+      "word": "please",
+      "ipa": "/pliːz/",
+      "ua": "будь ласка (прохання)",
+      "ru": "пожалуйста (просьба)",
+      "example": "Sit down, please.",
+      "audio": ""
+    },
+    {
+      "word": "thank you",
+      "ipa": "/ˈθæŋk juː/",
+      "ua": "дякую",
+      "ru": "спасибо",
+      "example": "Thank you very much!",
+      "audio": ""
+    },
+    {
+      "word": "sorry",
+      "ipa": "/ˈsɒri/",
+      "ua": "вибачте, перепрошую",
+      "ru": "извините, простите",
+      "example": "Sorry, I'm late.",
+      "audio": ""
+    },
+    {
+      "word": "name",
+      "ipa": "/neɪm/",
+      "ua": "ім'я",
+      "ru": "имя",
+      "example": "My name is Anna.",
+      "audio": ""
+    },
+    {
+      "word": "nice to meet you",
+      "ipa": "/naɪs tə ˈmiːt juː/",
+      "ua": "радий познайомитися",
+      "ru": "приятно познакомиться",
+      "example": "Nice to meet you, Max!",
+      "audio": ""
+    },
+    {
+      "word": "How are you?",
+      "ipa": "/ˌhaʊ ˈɑː juː/",
+      "ua": "Як справи?",
+      "ru": "Как дела?",
+      "example": "Hi, Anna! How are you?",
+      "audio": ""
+    },
+    {
+      "word": "fine",
+      "ipa": "/faɪn/",
+      "ua": "добре, нормально",
+      "ru": "хорошо, нормально",
+      "example": "I'm fine, thanks.",
+      "audio": ""
+    },
+    {
+      "word": "country",
+      "ipa": "/ˈkʌntri/",
+      "ua": "країна",
+      "ru": "страна",
+      "example": "Ukraine is my country.",
+      "audio": ""
+    },
+    {
+      "word": "city",
+      "ipa": "/ˈsɪti/",
+      "ua": "місто",
+      "ru": "город",
+      "example": "Odesa is a big city.",
+      "audio": ""
+    },
+    {
+      "word": "where",
+      "ipa": "/weə/",
+      "ua": "де; звідки (where … from)",
+      "ru": "где; откуда (where … from)",
+      "example": "Where are you from?",
+      "audio": ""
+    },
+    {
+      "word": "years old",
+      "ipa": "/jɪəz əʊld/",
+      "ua": "років (про вік)",
+      "ru": "лет (о возрасте)",
+      "example": "I'm 30 years old.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u03-l01",
+      "title": {
+        "en": "Greetings",
+        "ua": "Привітання",
+        "ru": "Приветствия"
+      },
+      "recap": {
+        "from": "a1-u02-l04",
+        "note": {
+          "ua": "Згадаймо: Yes, I am. · No, I'm not. · Yes, she is. · No, they aren't.",
+          "ru": "Вспомним: Yes, I am. · No, I'm not. · Yes, she is. · No, they aren't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-short-answers",
+            "question": "Are you busy? — Yes, I ___.",
+            "options": [
+              "am",
+              "'m",
+              "are"
+            ],
+            "answer": "am",
+            "explain": {
+              "ua": "У «так»-відповіді без скорочення: Yes, I am.",
+              "ru": "В ответе «да» без сокращения: Yes, I am."
+            },
+            "id": "a1-u03-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "to-be-short-answers",
+            "question": "Is it cold? — No, it ___.",
+            "options": [
+              "isn't",
+              "aren't",
+              "is"
+            ],
+            "answer": "isn't",
+            "explain": {
+              "ua": "No + it isn't.",
+              "ru": "No + it isn't."
+            },
+            "id": "a1-u03-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "hello",
+              "right": {
+                "ua": "привіт",
+                "ru": "привет"
+              }
+            },
+            {
+              "left": "goodbye",
+              "right": {
+                "ua": "до побачення",
+                "ru": "до свидания"
+              }
+            },
+            {
+              "left": "thank you",
+              "right": {
+                "ua": "дякую",
+                "ru": "спасибо"
+              }
+            },
+            {
+              "left": "sorry",
+              "right": {
+                "ua": "вибачте",
+                "ru": "извините"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори слова в картках.",
+            "ru": "Повтори слова в карточках."
+          },
+          "id": "a1-u03-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": {
+            "ua": "Ранок, ти бачиш колегу. Ти скажеш:",
+            "ru": "Утро, ты видишь коллегу. Ты скажешь:"
+          },
+          "options": [
+            "Good morning!",
+            "Good evening!",
+            "Goodbye!"
+          ],
+          "answer": "Good morning!",
+          "explain": {
+            "ua": "Morning — ранок.",
+            "ru": "Morning — утро."
+          },
+          "id": "a1-u03-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": {
+            "ua": "Ти йдеш додому. Ти скажеш:",
+            "ru": "Ты уходишь домой. Ты скажешь:"
+          },
+          "options": [
+            "Bye!",
+            "Hi!",
+            "Please!"
+          ],
+          "answer": "Bye!",
+          "explain": {
+            "ua": "Bye / Goodbye — прощання.",
+            "ru": "Bye / Goodbye — прощание."
+          },
+          "id": "a1-u03-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": {
+            "ua": "Тобі допомогли. Ти скажеш:",
+            "ru": "Тебе помогли. Ты скажешь:"
+          },
+          "options": [
+            "Thank you!",
+            "Sorry!",
+            "Please!"
+          ],
+          "answer": "Thank you!",
+          "explain": {
+            "ua": "Thank you — дякую.",
+            "ru": "Thank you — спасибо."
+          },
+          "id": "a1-u03-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": {
+            "ua": "Ти запізнився. Ти скажеш:",
+            "ru": "Ты опоздал. Ты скажешь:"
+          },
+          "options": [
+            "Sorry, I'm late.",
+            "Thank you, I'm late.",
+            "Please, I'm late."
+          ],
+          "answer": "Sorry, I'm late.",
+          "explain": {
+            "ua": "Sorry — коли вибачаємося.",
+            "ru": "Sorry — когда извиняемся."
+          },
+          "id": "a1-u03-l01-e05"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Good evening!",
+          "options": [
+            "Good evening!",
+            "Good morning!",
+            "Goodbye!"
+          ],
+          "answer": "Good evening!",
+          "audio": "",
+          "explain": {
+            "ua": "Evening — вечір.",
+            "ru": "Evening — вечер."
+          },
+          "id": "a1-u03-l01-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "hi",
+          "answer": "hello",
+          "accept": [
+            "bye"
+          ],
+          "explain": {
+            "ua": "Hi = hello, тільки неформально.",
+            "ru": "Hi = hello, только неформально."
+          },
+          "id": "a1-u03-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/pliːz/",
+          "options": [
+            "please",
+            "place",
+            "plays"
+          ],
+          "answer": "please",
+          "explain": {
+            "ua": "/iː/ — довге «і».",
+            "ru": "/iː/ — долгое «и»."
+          },
+          "id": "a1-u03-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Дякую!",
+            "ru": "Спасибо!"
+          },
+          "answer": "Thank you!",
+          "accept": [
+            "Thanks!",
+            "Thank you very much!"
+          ],
+          "explain": {
+            "ua": "Thank you або thanks.",
+            "ru": "Thank you или thanks."
+          },
+          "id": "a1-u03-l01-e09"
+        }
+      ],
+      "words": [
+        "hello",
+        "hi",
+        "goodbye",
+        "bye",
+        "good morning",
+        "good evening",
+        "please",
+        "thank you",
+        "sorry"
+      ]
+    },
+    {
+      "id": "a1-u03-l02",
+      "title": {
+        "en": "Name, country, age",
+        "ua": "Ім'я, країна, вік",
+        "ru": "Имя, страна, возраст"
+      },
+      "recap": {
+        "from": "a1-u03-l01",
+        "note": {
+          "ua": "Згадаймо: Привітання",
+          "ru": "Вспомним: Приветствия"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": {
+              "ua": "Ранок, ти бачиш колегу. Ти скажеш:",
+              "ru": "Утро, ты видишь коллегу. Ты скажешь:"
+            },
+            "options": [
+              "Good morning!",
+              "Good evening!",
+              "Goodbye!"
+            ],
+            "answer": "Good morning!",
+            "explain": {
+              "ua": "Morning — ранок.",
+              "ru": "Morning — утро."
+            },
+            "id": "a1-u03-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": {
+              "ua": "Тобі допомогли. Ти скажеш:",
+              "ru": "Тебе помогли. Ты скажешь:"
+            },
+            "options": [
+              "Thank you!",
+              "Sorry!",
+              "Please!"
+            ],
+            "answer": "Thank you!",
+            "explain": {
+              "ua": "Thank you — дякую.",
+              "ru": "Thank you — спасибо."
+            },
+            "id": "a1-u03-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My ___ is Anna.",
+          "options": [
+            "name",
+            "names",
+            "country"
+          ],
+          "answer": "name",
+          "explain": {
+            "ua": "My name is… — мене звати…",
+            "ru": "My name is… — меня зовут…"
+          },
+          "id": "a1-u03-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm 25 ___.",
+          "options": [
+            "years old",
+            "years",
+            "old years"
+          ],
+          "answer": "years old",
+          "explain": {
+            "ua": "Вік: I'm 25 years old (або просто I'm 25).",
+            "ru": "Возраст: I'm 25 years old (или просто I'm 25)."
+          },
+          "id": "a1-u03-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Ukraine is a ___.",
+          "options": [
+            "country",
+            "city",
+            "name"
+          ],
+          "answer": "country",
+          "explain": {
+            "ua": "Ukraine — країна.",
+            "ru": "Ukraine — страна."
+          },
+          "id": "a1-u03-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Odesa is a ___.",
+          "options": [
+            "city",
+            "country",
+            "name"
+          ],
+          "answer": "city",
+          "explain": {
+            "ua": "Odesa — місто.",
+            "ru": "Odesa — город."
+          },
+          "id": "a1-u03-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "name",
+              "right": {
+                "ua": "ім'я",
+                "ru": "имя"
+              }
+            },
+            {
+              "left": "country",
+              "right": {
+                "ua": "країна",
+                "ru": "страна"
+              }
+            },
+            {
+              "left": "city",
+              "right": {
+                "ua": "місто",
+                "ru": "город"
+              }
+            },
+            {
+              "left": "where",
+              "right": {
+                "ua": "де",
+                "ru": "где"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u03-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "___ are you from?",
+          "answer": "Where",
+          "accept": [],
+          "explain": {
+            "ua": "Where are you from? — Звідки ти?",
+            "ru": "Where are you from? — Откуда ты?"
+          },
+          "id": "a1-u03-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I have 30 years.",
+          "answer": "I am 30 years old.",
+          "accept": [
+            "I'm 30 years old.",
+            "I'm 30.",
+            "I am 30."
+          ],
+          "explain": {
+            "ua": "Вік — через to be: I am 30 (years old). Не have!",
+            "ru": "Возраст — через to be: I am 30 (years old). Не have!"
+          },
+          "id": "a1-u03-l02-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈsɪti/",
+          "options": [
+            "city",
+            "kitty",
+            "sit"
+          ],
+          "answer": "city",
+          "explain": {
+            "ua": "c перед i читається як /s/.",
+            "ru": "c перед i читается как /s/."
+          },
+          "id": "a1-u03-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мене звати Макс.",
+            "ru": "Меня зовут Макс."
+          },
+          "answer": "My name is Max.",
+          "accept": [
+            "I'm Max.",
+            "I am Max."
+          ],
+          "explain": {
+            "ua": "My name is… або I'm…",
+            "ru": "My name is… или I'm…"
+          },
+          "id": "a1-u03-l02-e09"
+        }
+      ],
+      "words": [
+        "name",
+        "country",
+        "city",
+        "where",
+        "years old"
+      ]
+    },
+    {
+      "id": "a1-u03-l03",
+      "title": {
+        "en": "Phrases",
+        "ua": "Фрази",
+        "ru": "Фразы"
+      },
+      "recap": {
+        "from": "a1-u03-l02",
+        "note": {
+          "ua": "Згадаймо: Ім'я, країна, вік",
+          "ru": "Вспомним: Имя, страна, возраст"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My ___ is Anna.",
+            "options": [
+              "name",
+              "names",
+              "country"
+            ],
+            "answer": "name",
+            "explain": {
+              "ua": "My name is… — мене звати…",
+              "ru": "My name is… — меня зовут…"
+            },
+            "id": "a1-u03-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Odesa is a ___.",
+            "options": [
+              "city",
+              "country",
+              "name"
+            ],
+            "answer": "city",
+            "explain": {
+              "ua": "Odesa — місто.",
+              "ru": "Odesa — город."
+            },
+            "id": "a1-u03-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "How are you?",
+              "right": "I'm fine, thanks."
+            },
+            {
+              "left": "Nice to meet you.",
+              "right": "Nice to meet you too."
+            },
+            {
+              "left": "Where are you from?",
+              "right": "I'm from Ukraine."
+            },
+            {
+              "left": "What's your name?",
+              "right": "My name is Anna."
+            }
+          ],
+          "explain": {
+            "ua": "Кожне питання має свою відповідь.",
+            "ru": "У каждого вопроса свой ответ."
+          },
+          "id": "a1-u03-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— How are you? — ___",
+          "options": [
+            "I'm fine, thanks.",
+            "I'm 30.",
+            "I'm from Odesa."
+          ],
+          "answer": "I'm fine, thanks.",
+          "explain": {
+            "ua": "How are you? — як справи.",
+            "ru": "How are you? — как дела."
+          },
+          "id": "a1-u03-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— Nice to meet you! — ___",
+          "options": [
+            "Nice to meet you too.",
+            "Goodbye.",
+            "Sorry."
+          ],
+          "answer": "Nice to meet you too.",
+          "explain": {
+            "ua": "Відповідаємо так само + too.",
+            "ru": "Отвечаем так же + too."
+          },
+          "id": "a1-u03-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's your name? — ___",
+          "options": [
+            "I'm Max.",
+            "I'm fine.",
+            "I'm from Kyiv."
+          ],
+          "answer": "I'm Max.",
+          "explain": {
+            "ua": "Name — ім'я.",
+            "ru": "Name — имя."
+          },
+          "id": "a1-u03-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "Nice to ___ you!",
+          "answer": "meet",
+          "accept": [],
+          "explain": {
+            "ua": "Nice to meet you — радий познайомитися.",
+            "ru": "Nice to meet you — приятно познакомиться."
+          },
+          "id": "a1-u03-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "from",
+            "are",
+            "Where",
+            "you"
+          ],
+          "answer": "Where are you from",
+          "explain": {
+            "ua": "Where → are → you → from?",
+            "ru": "Where → are → you → from?"
+          },
+          "id": "a1-u03-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I'm fine, thank you.",
+          "options": [
+            "I'm fine, thank you.",
+            "I'm nine, thank you.",
+            "I'm fine, sorry."
+          ],
+          "answer": "I'm fine, thank you.",
+          "audio": "",
+          "explain": {
+            "ua": "Fine — «файн».",
+            "ru": "Fine — «файн»."
+          },
+          "id": "a1-u03-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Як справи?",
+            "ru": "Как дела?"
+          },
+          "answer": "How are you?",
+          "accept": [],
+          "explain": {
+            "ua": "How are you? — найчастіше питання.",
+            "ru": "How are you? — самый частый вопрос."
+          },
+          "id": "a1-u03-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Радий познайомитися!",
+            "ru": "Приятно познакомиться!"
+          },
+          "answer": "Nice to meet you!",
+          "accept": [],
+          "explain": {
+            "ua": "Фраза при першій зустрічі.",
+            "ru": "Фраза при первой встрече."
+          },
+          "id": "a1-u03-l03-e09"
+        }
+      ],
+      "words": [
+        "nice to meet you",
+        "How are you?",
+        "fine"
+      ]
+    },
+    {
+      "id": "a1-u03-l04",
+      "title": {
+        "en": "In context: first meeting",
+        "ua": "У контексті: перша зустріч",
+        "ru": "В контексте: первая встреча"
+      },
+      "recap": {
+        "from": "a1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: Фрази",
+          "ru": "Вспомним: Фразы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— How are you? — ___",
+            "options": [
+              "I'm fine, thanks.",
+              "I'm 30.",
+              "I'm from Odesa."
+            ],
+            "answer": "I'm fine, thanks.",
+            "explain": {
+              "ua": "How are you? — як справи.",
+              "ru": "How are you? — как дела."
+            },
+            "id": "a1-u03-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "Nice to ___ you!",
+            "answer": "meet",
+            "accept": [],
+            "explain": {
+              "ua": "Nice to meet you — радий познайомитися.",
+              "ru": "Nice to meet you — приятно познакомиться."
+            },
+            "id": "a1-u03-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Where is Lena from?",
+              "options": [
+                "Odesa",
+                "Kyiv",
+                "Lviv"
+              ],
+              "answer": "Odesa"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Tom is from Ukraine.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Lena is 28 years old.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Tom",
+              "line": "Hello! My name is Tom. What's your name?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "Hi, Tom! I'm Lena. Nice to meet you."
+            },
+            {
+              "speaker": "Tom",
+              "line": "Nice to meet you too. Where are you from?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "I'm from Odesa. It's a city in Ukraine. And you?"
+            },
+            {
+              "speaker": "Tom",
+              "line": "I'm from London. How old are you?"
+            },
+            {
+              "speaker": "Lena",
+              "line": "I'm 28 years old."
+            }
+          ],
+          "explain": {
+            "ua": "Lena — Odesa, 28. Tom — London.",
+            "ru": "Lena — Odesa, 28. Tom — London."
+          },
+          "id": "a1-u03-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "name",
+            "from",
+            "meet",
+            "fine"
+          ],
+          "reuse": false,
+          "sentences": [
+            "My ___ is Tom.",
+            "Nice to ___ you.",
+            "I'm ___ Odesa.",
+            "I'm ___, thanks."
+          ],
+          "answers": [
+            "name",
+            "meet",
+            "from",
+            "fine"
+          ],
+          "explain": {
+            "ua": "name — ім'я, meet — знайомитися, from — з, fine — добре.",
+            "ru": "name — имя, meet — знакомиться, from — из, fine — хорошо."
+          },
+          "id": "a1-u03-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Tom: Where are you from? Lena: ___",
+          "options": [
+            "I'm from Odesa.",
+            "I'm Lena.",
+            "I'm fine."
+          ],
+          "answer": "I'm from Odesa.",
+          "explain": {
+            "ua": "Where … from — звідки.",
+            "ru": "Where … from — откуда."
+          },
+          "id": "a1-u03-l04-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "How old are you?",
+              "right": {
+                "ua": "Скільки тобі років?",
+                "ru": "Сколько тебе лет?"
+              }
+            },
+            {
+              "left": "How are you?",
+              "right": {
+                "ua": "Як справи?",
+                "ru": "Как дела?"
+              }
+            },
+            {
+              "left": "Where are you from?",
+              "right": {
+                "ua": "Звідки ти?",
+                "ru": "Откуда ты?"
+              }
+            },
+            {
+              "left": "What's your name?",
+              "right": {
+                "ua": "Як тебе звати?",
+                "ru": "Как тебя зовут?"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "How old — про вік, how are you — про справи.",
+            "ru": "How old — о возрасте, how are you — о делах."
+          },
+          "id": "a1-u03-l04-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "I'm 28 years ___.",
+          "answer": "old",
+          "accept": [],
+          "explain": {
+            "ua": "Years old — про вік.",
+            "ru": "Years old — о возрасте."
+          },
+          "id": "a1-u03-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-missing",
+          "sentence": "I from London.",
+          "answer": "I am from London.",
+          "accept": [
+            "I'm from London."
+          ],
+          "explain": {
+            "ua": "Не забувай am!",
+            "ru": "Не забывай am!"
+          },
+          "id": "a1-u03-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "What",
+            "your",
+            "is",
+            "name"
+          ],
+          "answer": "What is your name",
+          "explain": {
+            "ua": "What → is → your name?",
+            "ru": "What → is → your name?"
+          },
+          "id": "a1-u03-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я з України.",
+            "ru": "Я из Украины."
+          },
+          "answer": "I am from Ukraine.",
+          "accept": [
+            "I'm from Ukraine."
+          ],
+          "explain": {
+            "ua": "I am from…",
+            "ru": "I am from…"
+          },
+          "id": "a1-u03-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u03-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u03-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: перша зустріч",
+          "ru": "Вспомним: В контексте: первая встреча"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Tom: Where are you from? Lena: ___",
+            "options": [
+              "I'm from Odesa.",
+              "I'm Lena.",
+              "I'm fine."
+            ],
+            "answer": "I'm from Odesa.",
+            "explain": {
+              "ua": "Where … from — звідки.",
+              "ru": "Where … from — откуда."
+            },
+            "id": "a1-u03-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "to-be-missing",
+            "sentence": "I from London.",
+            "answer": "I am from London.",
+            "accept": [
+              "I'm from London."
+            ],
+            "explain": {
+              "ua": "Не забувай am!",
+              "ru": "Не забывай am!"
+            },
+            "id": "a1-u03-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": {
+            "ua": "Вечір, зустріч. Ти скажеш:",
+            "ru": "Вечер, встреча. Ты скажешь:"
+          },
+          "options": [
+            "Good evening!",
+            "Good morning!",
+            "Goodbye!"
+          ],
+          "answer": "Good evening!",
+          "explain": {
+            "ua": "Evening — вечір.",
+            "ru": "Evening — вечер."
+          },
+          "id": "a1-u03-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm ___ Poland.",
+          "options": [
+            "from",
+            "in",
+            "of"
+          ],
+          "answer": "from",
+          "explain": {
+            "ua": "Звідки — from.",
+            "ru": "Откуда — from."
+          },
+          "id": "a1-u03-l05-e02"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "goodbye",
+          "answer": "bye",
+          "accept": [
+            "see you"
+          ],
+          "explain": {
+            "ua": "Goodbye = bye.",
+            "ru": "Goodbye = bye."
+          },
+          "id": "a1-u03-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You say it when you are late or make a mistake.",
+          "answer": "sorry",
+          "accept": [],
+          "explain": {
+            "ua": "Sorry — вибачте.",
+            "ru": "Sorry — извините."
+          },
+          "id": "a1-u03-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You say it when somebody helps you.",
+          "answer": "thank you",
+          "accept": [
+            "thanks"
+          ],
+          "explain": {
+            "ua": "Thank you — дякую.",
+            "ru": "Thank you — спасибо."
+          },
+          "id": "a1-u03-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Hi",
+              "right": {
+                "ua": "Привіт",
+                "ru": "Привет"
+              }
+            },
+            {
+              "left": "Bye",
+              "right": {
+                "ua": "Бувай",
+                "ru": "Пока"
+              }
+            },
+            {
+              "left": "Please",
+              "right": {
+                "ua": "Будь ласка",
+                "ru": "Пожалуйста"
+              }
+            },
+            {
+              "left": "Thanks",
+              "right": {
+                "ua": "Дякую",
+                "ru": "Спасибо"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u03-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Nice meet you.",
+          "answer": "Nice to meet you.",
+          "accept": [],
+          "explain": {
+            "ua": "Не забувай to: nice TO meet you.",
+            "ru": "Не забывай to: nice TO meet you."
+          },
+          "id": "a1-u03-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Where are you from?",
+          "options": [
+            "Where are you from?",
+            "Where are you?",
+            "Who are you?"
+          ],
+          "answer": "Where are you from?",
+          "audio": "",
+          "explain": {
+            "ua": "Where … from — звідки.",
+            "ru": "Where … from — откуда."
+          },
+          "id": "a1-u03-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені 30 років.",
+            "ru": "Мне 30 лет."
+          },
+          "answer": "I am 30 years old.",
+          "accept": [
+            "I'm 30 years old.",
+            "I'm 30.",
+            "I am 30."
+          ],
+          "explain": {
+            "ua": "Вік — через am.",
+            "ru": "Возраст — через am."
+          },
+          "id": "a1-u03-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вибачте, я запізнилася.",
+            "ru": "Извините, я опоздала."
+          },
+          "answer": "Sorry, I'm late.",
+          "accept": [
+            "Sorry, I am late.",
+            "I'm sorry, I'm late."
+          ],
+          "explain": {
+            "ua": "Sorry + I'm late.",
+            "ru": "Sorry + I'm late."
+          },
+          "id": "a1-u03-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "— How are you? — ___",
+      "options": [
+        "I'm fine, thanks.",
+        "I'm Anna.",
+        "I'm 20."
+      ],
+      "answer": "I'm fine, thanks.",
+      "explain": {
+        "ua": "How are you? — як справи.",
+        "ru": "How are you? — как дела."
+      },
+      "id": "a1-u03-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "___ are you from?",
+      "options": [
+        "Where",
+        "What",
+        "How"
+      ],
+      "answer": "Where",
+      "explain": {
+        "ua": "Where … from — звідки.",
+        "ru": "Where … from — откуда."
+      },
+      "id": "a1-u03-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": {
+        "ua": "Ранок. Ти скажеш:",
+        "ru": "Утро. Ты скажешь:"
+      },
+      "options": [
+        "Good morning!",
+        "Good evening!",
+        "Bye!"
+      ],
+      "answer": "Good morning!",
+      "explain": {
+        "ua": "Morning — ранок.",
+        "ru": "Morning — утро."
+      },
+      "id": "a1-u03-cp03"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "My ___ is Max.",
+      "answer": "name",
+      "accept": [],
+      "explain": {
+        "ua": "My name is…",
+        "ru": "My name is…"
+      },
+      "id": "a1-u03-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I'm 25 ___ old.",
+      "answer": "years",
+      "accept": [],
+      "explain": {
+        "ua": "years old.",
+        "ru": "years old."
+      },
+      "id": "a1-u03-cp05"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "country",
+          "right": {
+            "ua": "країна",
+            "ru": "страна"
+          }
+        },
+        {
+          "left": "city",
+          "right": {
+            "ua": "місто",
+            "ru": "город"
+          }
+        },
+        {
+          "left": "sorry",
+          "right": {
+            "ua": "вибачте",
+            "ru": "извините"
+          }
+        },
+        {
+          "left": "please",
+          "right": {
+            "ua": "будь ласка",
+            "ru": "пожалуйста"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u03-cp06"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I have 20 years.",
+      "answer": "I am 20 years old.",
+      "accept": [
+        "I'm 20 years old.",
+        "I'm 20.",
+        "I am 20."
+      ],
+      "explain": {
+        "ua": "Вік — через to be.",
+        "ru": "Возраст — через to be."
+      },
+      "id": "a1-u03-cp07"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Ukraine, Poland, Spain — they are…",
+      "answer": "countries",
+      "accept": [
+        "country"
+      ],
+      "explain": {
+        "ua": "Країни — countries.",
+        "ru": "Страны — countries."
+      },
+      "id": "a1-u03-cp08"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "too",
+        "meet",
+        "to",
+        "Nice",
+        "you"
+      ],
+      "answer": "Nice to meet you too",
+      "explain": {
+        "ua": "Nice → to meet → you → too.",
+        "ru": "Nice → to meet → you → too."
+      },
+      "id": "a1-u03-cp09"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Звідки ти?",
+        "ru": "Откуда ты?"
+      },
+      "answer": "Where are you from?",
+      "accept": [],
+      "explain": {
+        "ua": "Where are you from?",
+        "ru": "Where are you from?"
+      },
+      "id": "a1-u03-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Радий познайомитися!",
+        "ru": "Приятно познакомиться!"
+      },
+      "answer": "Nice to meet you!",
+      "accept": [],
+      "explain": {
+        "ua": "Nice to meet you!",
+        "ru": "Nice to meet you!"
+      },
+      "id": "a1-u03-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Goodbye, see you!",
+      "options": [
+        "Goodbye, see you!",
+        "Good evening!",
+        "Good, see you!"
+      ],
+      "answer": "Goodbye, see you!",
+      "audio": "",
+      "explain": {
+        "ua": "Goodbye — прощання.",
+        "ru": "Goodbye — прощание."
+      },
+      "id": "a1-u03-cp12"
+    }
+  ]
+}

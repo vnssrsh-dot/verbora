@@ -1,0 +1,1544 @@
+{
+  "id": "a2-u17",
+  "level": "A2",
+  "order": 17,
+  "kind": "vocab",
+  "title": {
+    "en": "Health: at the doctor's",
+    "ua": "Здоров'я: у лікаря",
+    "ru": "Здоровье: у врача"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "head",
+      "ipa": "/hed/",
+      "ua": "голова",
+      "ru": "голова",
+      "example": "My head hurts.",
+      "audio": ""
+    },
+    {
+      "word": "throat",
+      "ipa": "/θrəʊt/",
+      "ua": "горло",
+      "ru": "горло",
+      "example": "I've got a sore throat.",
+      "audio": ""
+    },
+    {
+      "word": "stomach",
+      "ipa": "/ˈstʌmək/",
+      "ua": "шлунок, живіт",
+      "ru": "желудок, живот",
+      "example": "My stomach hurts.",
+      "audio": ""
+    },
+    {
+      "word": "back",
+      "ipa": "/bæk/",
+      "ua": "спина",
+      "ru": "спина",
+      "example": "I've got a bad back.",
+      "audio": ""
+    },
+    {
+      "word": "arm",
+      "ipa": "/ɑːm/",
+      "ua": "рука (від плеча)",
+      "ru": "рука (от плеча)",
+      "example": "I broke my arm.",
+      "audio": ""
+    },
+    {
+      "word": "leg",
+      "ipa": "/leɡ/",
+      "ua": "нога",
+      "ru": "нога",
+      "example": "My leg hurts.",
+      "audio": ""
+    },
+    {
+      "word": "tooth / teeth",
+      "ipa": "/tuːθ/",
+      "ua": "зуб / зуби",
+      "ru": "зуб / зубы",
+      "example": "I've got toothache.",
+      "audio": ""
+    },
+    {
+      "word": "hurt",
+      "ipa": "/hɜːt/",
+      "ua": "боліти",
+      "ru": "болеть",
+      "example": "It hurts here.",
+      "audio": ""
+    },
+    {
+      "word": "headache",
+      "ipa": "/ˈhedeɪk/",
+      "ua": "головний біль",
+      "ru": "головная боль",
+      "example": "I've got a headache.",
+      "audio": ""
+    },
+    {
+      "word": "sore throat",
+      "ipa": "/ˌsɔː ˈθrəʊt/",
+      "ua": "біль у горлі",
+      "ru": "боль в горле",
+      "example": "a sore throat",
+      "audio": ""
+    },
+    {
+      "word": "temperature",
+      "ipa": "/ˈtemprətʃə/",
+      "ua": "температура",
+      "ru": "температура",
+      "example": "She's got a temperature.",
+      "audio": ""
+    },
+    {
+      "word": "cough",
+      "ipa": "/kɒf/",
+      "ua": "кашель",
+      "ru": "кашель",
+      "example": "a bad cough",
+      "audio": ""
+    },
+    {
+      "word": "cold",
+      "ipa": "/kəʊld/",
+      "ua": "застуда",
+      "ru": "простуда",
+      "example": "I've got a cold.",
+      "audio": ""
+    },
+    {
+      "word": "flu",
+      "ipa": "/fluː/",
+      "ua": "грип",
+      "ru": "грипп",
+      "example": "He's got flu.",
+      "audio": ""
+    },
+    {
+      "word": "medicine",
+      "ipa": "/ˈmedsn/",
+      "ua": "ліки",
+      "ru": "лекарство",
+      "example": "Take this medicine.",
+      "audio": ""
+    },
+    {
+      "word": "pills",
+      "ipa": "/pɪlz/",
+      "ua": "таблетки",
+      "ru": "таблетки",
+      "example": "two pills a day",
+      "audio": ""
+    },
+    {
+      "word": "prescription",
+      "ipa": "/prɪˈskrɪpʃn/",
+      "ua": "рецепт (від лікаря)",
+      "ru": "рецепт (от врача)",
+      "example": "Here's your prescription.",
+      "audio": ""
+    },
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "ua": "запис на прийом",
+      "ru": "запись на приём",
+      "example": "I'd like to make an appointment.",
+      "audio": ""
+    },
+    {
+      "word": "feel better",
+      "ipa": "/ˌfiːl ˈbetə/",
+      "ua": "почуватися краще",
+      "ru": "чувствовать себя лучше",
+      "example": "I hope you feel better soon!",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u17-l01",
+      "title": {
+        "en": "The body",
+        "ua": "Тіло",
+        "ru": "Тело"
+      },
+      "recap": {
+        "from": "a2-u16-l02",
+        "note": {
+          "ua": "Згадаймо: Should I…? · What should I do? · Where should we go?",
+          "ru": "Вспомним: Should I…? · What should I do? · Where should we go?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "___ I buy this dress?",
+            "options": [
+              "Should",
+              "Do",
+              "Am"
+            ],
+            "answer": "Should",
+            "explain": {
+              "ua": "Should I…?",
+              "ru": "Should I…?"
+            },
+            "id": "a2-u17-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "should",
+            "question": "Where ___ we go on holiday?",
+            "options": [
+              "should",
+              "do should",
+              "are"
+            ],
+            "answer": "should",
+            "explain": {
+              "ua": "Where should we…?",
+              "ru": "Where should we…?"
+            },
+            "id": "a2-u17-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "head",
+              "right": {
+                "ua": "голова",
+                "ru": "голова"
+              }
+            },
+            {
+              "left": "throat",
+              "right": {
+                "ua": "горло",
+                "ru": "горло"
+              }
+            },
+            {
+              "left": "stomach",
+              "right": {
+                "ua": "живіт",
+                "ru": "живот"
+              }
+            },
+            {
+              "left": "back",
+              "right": {
+                "ua": "спина",
+                "ru": "спина"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u17-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You see with your ___.",
+          "options": [
+            "eyes",
+            "ears",
+            "arms"
+          ],
+          "answer": "eyes",
+          "explain": {
+            "ua": "Eyes — очі.",
+            "ru": "Eyes — глаза."
+          },
+          "id": "a2-u17-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You eat and food goes to your ___.",
+          "options": [
+            "stomach",
+            "back",
+            "head"
+          ],
+          "answer": "stomach",
+          "explain": {
+            "ua": "Stomach — шлунок.",
+            "ru": "Stomach — желудок."
+          },
+          "id": "a2-u17-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-3rd",
+          "question": "My leg ___ . I can't walk.",
+          "options": [
+            "hurts",
+            "hurt",
+            "is hurt"
+          ],
+          "answer": "hurts",
+          "explain": {
+            "ua": "Leg = it → hurts.",
+            "ru": "Leg = it → hurts."
+          },
+          "id": "a2-u17-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "It connects your head and your body. You can have a sore one.",
+          "answer": "throat",
+          "accept": [
+            "neck"
+          ],
+          "explain": {
+            "ua": "Throat — горло.",
+            "ru": "Throat — горло."
+          },
+          "id": "a2-u17-l01-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "dentist",
+          "answer": "teeth",
+          "accept": [
+            "tooth"
+          ],
+          "explain": {
+            "ua": "Стоматолог → зуби.",
+            "ru": "Стоматолог → зубы."
+          },
+          "id": "a2-u17-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My head is hurting me very.",
+          "answer": "My head hurts a lot.",
+          "accept": [
+            "My head hurts.",
+            "My head really hurts."
+          ],
+          "explain": {
+            "ua": "Hurt + a lot.",
+            "ru": "Hurt + a lot."
+          },
+          "id": "a2-u17-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈstʌmək/",
+          "options": [
+            "stomach",
+            "stomp",
+            "steam"
+          ],
+          "answer": "stomach",
+          "explain": {
+            "ua": "ch тут — /k/.",
+            "ru": "ch здесь — /k/."
+          },
+          "id": "a2-u17-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене болить спина.",
+            "ru": "У меня болит спина."
+          },
+          "answer": "My back hurts.",
+          "accept": [
+            "I've got a bad back.",
+            "I have a backache.",
+            "I have back pain.",
+            "I've got backache."
+          ],
+          "explain": {
+            "ua": "Hurts.",
+            "ru": "Hurts."
+          },
+          "id": "a2-u17-l01-e09"
+        }
+      ],
+      "words": [
+        "head",
+        "throat",
+        "stomach",
+        "back",
+        "arm",
+        "leg",
+        "tooth / teeth",
+        "hurt"
+      ]
+    },
+    {
+      "id": "a2-u17-l02",
+      "title": {
+        "en": "Symptoms",
+        "ua": "Симптоми",
+        "ru": "Симптомы"
+      },
+      "recap": {
+        "from": "a2-u17-l01",
+        "note": {
+          "ua": "Згадаймо: Тіло",
+          "ru": "Вспомним: Тело"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You see with your ___.",
+            "options": [
+              "eyes",
+              "ears",
+              "arms"
+            ],
+            "answer": "eyes",
+            "explain": {
+              "ua": "Eyes — очі.",
+              "ru": "Eyes — глаза."
+            },
+            "id": "a2-u17-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "It connects your head and your body. You can have a sore one.",
+            "answer": "throat",
+            "accept": [
+              "neck"
+            ],
+            "explain": {
+              "ua": "Throat — горло.",
+              "ru": "Throat — горло."
+            },
+            "id": "a2-u17-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "headache",
+              "right": {
+                "ua": "головний біль",
+                "ru": "головная боль"
+              }
+            },
+            {
+              "left": "cough",
+              "right": {
+                "ua": "кашель",
+                "ru": "кашель"
+              }
+            },
+            {
+              "left": "temperature",
+              "right": {
+                "ua": "температура",
+                "ru": "температура"
+              }
+            },
+            {
+              "left": "flu",
+              "right": {
+                "ua": "грип",
+                "ru": "грипп"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u17-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I've got a ___. My head hurts.",
+          "options": [
+            "headache",
+            "cough",
+            "cold"
+          ],
+          "answer": "headache",
+          "explain": {
+            "ua": "Head + ache.",
+            "ru": "Head + ache."
+          },
+          "id": "a2-u17-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It hurts when I swallow. I've got a ___ throat.",
+          "options": [
+            "sore",
+            "bad",
+            "ache"
+          ],
+          "answer": "sore",
+          "explain": {
+            "ua": "Sore throat.",
+            "ru": "Sore throat."
+          },
+          "id": "a2-u17-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "38.5°C — she's got a ___.",
+          "options": [
+            "temperature",
+            "headache",
+            "cough"
+          ],
+          "answer": "temperature",
+          "explain": {
+            "ua": "Temperature.",
+            "ru": "Temperature."
+          },
+          "id": "a2-u17-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I feel ___ . I'm going to be sick.",
+          "options": [
+            "sick",
+            "sickly",
+            "sicky"
+          ],
+          "answer": "sick",
+          "explain": {
+            "ua": "Feel sick — нудить.",
+            "ru": "Feel sick — тошнит."
+          },
+          "id": "a2-u17-l02-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You have a runny nose and you sneeze. It's not serious.",
+          "answer": "cold",
+          "accept": [
+            "a cold"
+          ],
+          "explain": {
+            "ua": "Cold — застуда.",
+            "ru": "Cold — простуда."
+          },
+          "id": "a2-u17-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I have a sore head.",
+          "answer": "I have a headache.",
+          "accept": [
+            "I've got a headache."
+          ],
+          "explain": {
+            "ua": "Голова — headache.",
+            "ru": "Голова — headache."
+          },
+          "id": "a2-u17-l02-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/kɒf/",
+          "options": [
+            "cough",
+            "cuff",
+            "coffee"
+          ],
+          "answer": "cough",
+          "explain": {
+            "ua": "gh тут — /f/: «коф».",
+            "ru": "gh здесь — /f/: «коф»."
+          },
+          "id": "a2-u17-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене температура.",
+            "ru": "У меня температура."
+          },
+          "answer": "I've got a temperature.",
+          "accept": [
+            "I have a temperature.",
+            "I have a fever.",
+            "I've got a fever."
+          ],
+          "explain": {
+            "ua": "Have got a temperature.",
+            "ru": "Have got a temperature."
+          },
+          "id": "a2-u17-l02-e09"
+        }
+      ],
+      "words": [
+        "headache",
+        "sore throat",
+        "temperature",
+        "cough",
+        "cold",
+        "flu"
+      ]
+    },
+    {
+      "id": "a2-u17-l03",
+      "title": {
+        "en": "At the doctor's and pharmacy",
+        "ua": "У лікаря й в аптеці",
+        "ru": "У врача и в аптеке"
+      },
+      "recap": {
+        "from": "a2-u17-l02",
+        "note": {
+          "ua": "Згадаймо: Симптоми",
+          "ru": "Вспомним: Симптомы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I've got a ___. My head hurts.",
+            "options": [
+              "headache",
+              "cough",
+              "cold"
+            ],
+            "answer": "headache",
+            "explain": {
+              "ua": "Head + ache.",
+              "ru": "Head + ache."
+            },
+            "id": "a2-u17-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I feel ___ . I'm going to be sick.",
+            "options": [
+              "sick",
+              "sickly",
+              "sicky"
+            ],
+            "answer": "sick",
+            "explain": {
+              "ua": "Feel sick — нудить.",
+              "ru": "Feel sick — тошнит."
+            },
+            "id": "a2-u17-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "medicine",
+              "right": {
+                "ua": "ліки",
+                "ru": "лекарство"
+              }
+            },
+            {
+              "left": "pills",
+              "right": {
+                "ua": "таблетки",
+                "ru": "таблетки"
+              }
+            },
+            {
+              "left": "prescription",
+              "right": {
+                "ua": "рецепт",
+                "ru": "рецепт"
+              }
+            },
+            {
+              "left": "appointment",
+              "right": {
+                "ua": "запис на прийом",
+                "ru": "запись на приём"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u17-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'd like to make an ___ with Dr Smith.",
+          "options": [
+            "appointment",
+            "prescription",
+            "medicine"
+          ],
+          "answer": "appointment",
+          "explain": {
+            "ua": "Appointment — запис.",
+            "ru": "Appointment — запись."
+          },
+          "id": "a2-u17-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Take two ___ a day after meals.",
+          "options": [
+            "pills",
+            "prescriptions",
+            "appointments"
+          ],
+          "answer": "pills",
+          "explain": {
+            "ua": "Pills — таблетки.",
+            "ru": "Pills — таблетки."
+          },
+          "id": "a2-u17-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The doctor gave me a ___ for the pharmacy.",
+          "options": [
+            "prescription",
+            "receipt",
+            "recipe"
+          ],
+          "answer": "prescription",
+          "explain": {
+            "ua": "Prescription — рецепт на ліки. Recipe — кулінарний рецепт!",
+            "ru": "Prescription — рецепт на лекарство. Recipe — кулинарный рецепт!"
+          },
+          "id": "a2-u17-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's the matter? — ___",
+          "options": [
+            "I've got a sore throat.",
+            "I'm fine, thanks.",
+            "It's ten dollars."
+          ],
+          "answer": "I've got a sore throat.",
+          "explain": {
+            "ua": "What's the matter? — що з вами?",
+            "ru": "What's the matter? — что с вами?"
+          },
+          "id": "a2-u17-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "What's the matter?",
+              "right": {
+                "ua": "Що з вами?",
+                "ru": "Что с вами?"
+              }
+            },
+            {
+              "left": "How long have you had it?",
+              "right": {
+                "ua": "Відколи це у вас?",
+                "ru": "Как давно у вас это?"
+              }
+            },
+            {
+              "left": "Get well soon!",
+              "right": {
+                "ua": "Одужуй!",
+                "ru": "Выздоравливай!"
+              }
+            },
+            {
+              "left": "I hope you feel better.",
+              "right": {
+                "ua": "Сподіваюся, тобі покращає.",
+                "ru": "Надеюсь, тебе станет лучше."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази в лікаря.",
+            "ru": "Фразы у врача."
+          },
+          "id": "a2-u17-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The doctor gave me a recipe.",
+          "answer": "The doctor gave me a prescription.",
+          "accept": [],
+          "explain": {
+            "ua": "Рецепт лікаря — prescription.",
+            "ru": "Рецепт врача — prescription."
+          },
+          "id": "a2-u17-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Take this medicine three times a day.",
+          "options": [
+            "Take this medicine three times a day.",
+            "Take this medicine two times a day.",
+            "Take this medicine three times a week."
+          ],
+          "answer": "Take this medicine three times a day.",
+          "audio": "",
+          "explain": {
+            "ua": "Three times a day.",
+            "ru": "Three times a day."
+          },
+          "id": "a2-u17-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я хотіла б записатися до лікаря.",
+            "ru": "Я хотела бы записаться к врачу."
+          },
+          "answer": "I'd like to make an appointment with the doctor.",
+          "accept": [
+            "I'd like to make a doctor's appointment.",
+            "I would like to make an appointment with the doctor.",
+            "I'd like to see a doctor."
+          ],
+          "explain": {
+            "ua": "Make an appointment.",
+            "ru": "Make an appointment."
+          },
+          "id": "a2-u17-l03-e09"
+        }
+      ],
+      "words": [
+        "medicine",
+        "pills",
+        "prescription",
+        "appointment",
+        "feel better"
+      ]
+    },
+    {
+      "id": "a2-u17-l04",
+      "title": {
+        "en": "In context: at the doctor's",
+        "ua": "У контексті: на прийомі",
+        "ru": "В контексте: на приёме"
+      },
+      "recap": {
+        "from": "a2-u17-l03",
+        "note": {
+          "ua": "Згадаймо: У лікаря й в аптеці",
+          "ru": "Вспомним: У врача и в аптеке"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'd like to make an ___ with Dr Smith.",
+            "options": [
+              "appointment",
+              "prescription",
+              "medicine"
+            ],
+            "answer": "appointment",
+            "explain": {
+              "ua": "Appointment — запис.",
+              "ru": "Appointment — запись."
+            },
+            "id": "a2-u17-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's the matter? — ___",
+            "options": [
+              "I've got a sore throat.",
+              "I'm fine, thanks.",
+              "It's ten dollars."
+            ],
+            "answer": "I've got a sore throat.",
+            "explain": {
+              "ua": "What's the matter? — що з вами?",
+              "ru": "What's the matter? — что с вами?"
+            },
+            "id": "a2-u17-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What's wrong with Olha?",
+              "options": [
+                "a sore throat and a temperature",
+                "a broken arm",
+                "toothache"
+              ],
+              "answer": "a sore throat and a temperature"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The doctor thinks it's flu.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Olha should stay at home for three days.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Doctor",
+              "line": "Good morning. What's the matter?"
+            },
+            {
+              "speaker": "Olha",
+              "line": "I've got a sore throat and a temperature — 37.8."
+            },
+            {
+              "speaker": "Doctor",
+              "line": "How long have you had it?"
+            },
+            {
+              "speaker": "Olha",
+              "line": "Since Monday. And I've got a bad cough."
+            },
+            {
+              "speaker": "Doctor",
+              "line": "It's a bad cold, not flu. You should stay at home for three days and drink a lot of hot tea."
+            },
+            {
+              "speaker": "Olha",
+              "line": "Do I have to take any medicine?"
+            },
+            {
+              "speaker": "Doctor",
+              "line": "Yes, here's a prescription. Take one pill twice a day. Get well soon!"
+            }
+          ],
+          "explain": {
+            "ua": "Sore throat + 37.8, a bad cold, stay home 3 days, drink tea.",
+            "ru": "Sore throat + 37.8, a bad cold, stay home 3 days, drink tea."
+          },
+          "id": "a2-u17-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "sore throat",
+            "cold",
+            "stay at home",
+            "prescription"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Olha has got a ___.",
+            "It's a bad ___.",
+            "She should ___ for three days.",
+            "The doctor gives her a ___."
+          ],
+          "answers": [
+            "sore throat",
+            "cold",
+            "stay at home",
+            "prescription"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u17-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "How often should she take the pill?",
+          "options": [
+            "twice a day",
+            "three times a day",
+            "once a week"
+          ],
+          "answer": "twice a day",
+          "explain": {
+            "ua": "Twice a day — двічі на день.",
+            "ru": "Twice a day — дважды в день."
+          },
+          "id": "a2-u17-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— Get well soon! means…",
+          "options": [
+            "I hope you feel better.",
+            "Go away.",
+            "You look well."
+          ],
+          "answer": "I hope you feel better.",
+          "explain": {
+            "ua": "Get well soon — одужуй.",
+            "ru": "Get well soon — выздоравливай."
+          },
+          "id": "a2-u17-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A serious cold with a high temperature.",
+          "answer": "flu",
+          "accept": [
+            "the flu",
+            "influenza"
+          ],
+          "explain": {
+            "ua": "Flu — грип.",
+            "ru": "Flu — грипп."
+          },
+          "id": "a2-u17-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "I have a cough since Monday.",
+          "answer": "I've had a cough since Monday.",
+          "accept": [
+            "I have had a cough since Monday."
+          ],
+          "explain": {
+            "ua": "Since + Present Perfect.",
+            "ru": "Since + Present Perfect."
+          },
+          "id": "a2-u17-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "What's the matter?",
+          "options": [
+            "What's the matter?",
+            "What's the matter with you?",
+            "What's the water?"
+          ],
+          "answer": "What's the matter?",
+          "audio": "",
+          "explain": {
+            "ua": "What's the matter — що трапилося?",
+            "ru": "What's the matter — что случилось?"
+          },
+          "id": "a2-u17-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Одужуй швидше!",
+            "ru": "Выздоравливай скорее!"
+          },
+          "answer": "Get well soon!",
+          "accept": [
+            "Get better soon!",
+            "Feel better soon!"
+          ],
+          "explain": {
+            "ua": "Get well soon.",
+            "ru": "Get well soon."
+          },
+          "id": "a2-u17-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u17-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u17-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: на прийомі",
+          "ru": "Вспомним: В контексте: на приёме"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "How often should she take the pill?",
+            "options": [
+              "twice a day",
+              "three times a day",
+              "once a week"
+            ],
+            "answer": "twice a day",
+            "explain": {
+              "ua": "Twice a day — двічі на день.",
+              "ru": "Twice a day — дважды в день."
+            },
+            "id": "a2-u17-l05-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A serious cold with a high temperature.",
+            "answer": "flu",
+            "accept": [
+              "the flu",
+              "influenza"
+            ],
+            "explain": {
+              "ua": "Flu — грип.",
+              "ru": "Flu — грипп."
+            },
+            "id": "a2-u17-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "arm",
+              "right": {
+                "ua": "рука",
+                "ru": "рука"
+              }
+            },
+            {
+              "left": "leg",
+              "right": {
+                "ua": "нога",
+                "ru": "нога"
+              }
+            },
+            {
+              "left": "pills",
+              "right": {
+                "ua": "таблетки",
+                "ru": "таблетки"
+              }
+            },
+            {
+              "left": "flu",
+              "right": {
+                "ua": "грип",
+                "ru": "грипп"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u17-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "You've got toothache. You should see a ___.",
+          "options": [
+            "dentist",
+            "vet",
+            "pharmacist"
+          ],
+          "answer": "dentist",
+          "explain": {
+            "ua": "Зуби — стоматолог.",
+            "ru": "Зубы — стоматолог."
+          },
+          "id": "a2-u17-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "should",
+          "question": "You've got a cold. You ___ go to work.",
+          "options": [
+            "shouldn't",
+            "should",
+            "must"
+          ],
+          "answer": "shouldn't",
+          "explain": {
+            "ua": "Порада.",
+            "ru": "Совет."
+          },
+          "id": "a2-u17-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "headache",
+            "sore throat",
+            "stomach ache",
+            "toothache"
+          ],
+          "reuse": false,
+          "sentences": [
+            "My head hurts — I've got a ___.",
+            "My throat hurts — I've got a ___.",
+            "My stomach hurts — I've got a ___.",
+            "My tooth hurts — I've got ___."
+          ],
+          "answers": [
+            "headache",
+            "sore throat",
+            "stomach ache",
+            "toothache"
+          ],
+          "explain": {
+            "ua": "Частина тіла + ache / sore.",
+            "ru": "Часть тела + ache / sore."
+          },
+          "id": "a2-u17-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A paper from the doctor. You take it to the pharmacy.",
+          "answer": "prescription",
+          "accept": [
+            "a prescription"
+          ],
+          "explain": {
+            "ua": "Prescription.",
+            "ru": "Prescription."
+          },
+          "id": "a2-u17-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "pharmacy",
+          "answer": "medicine",
+          "accept": [
+            "pills"
+          ],
+          "explain": {
+            "ua": "Аптека → ліки.",
+            "ru": "Аптека → лекарство."
+          },
+          "id": "a2-u17-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I feel myself bad.",
+          "answer": "I feel bad.",
+          "accept": [
+            "I don't feel well.",
+            "I feel ill."
+          ],
+          "explain": {
+            "ua": "Feel bad — без myself.",
+            "ru": "Feel bad — без myself."
+          },
+          "id": "a2-u17-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I've got a terrible cough.",
+          "options": [
+            "I've got a terrible cough.",
+            "I've got a terrible cold.",
+            "I've got a terrible cuff."
+          ],
+          "answer": "I've got a terrible cough.",
+          "audio": "",
+          "explain": {
+            "ua": "Cough — «коф».",
+            "ru": "Cough — «коф»."
+          },
+          "id": "a2-u17-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Сподіваюся, тобі скоро покращає.",
+            "ru": "Надеюсь, тебе скоро станет лучше."
+          },
+          "answer": "I hope you feel better soon.",
+          "accept": [
+            "I hope you'll feel better soon.",
+            "Hope you feel better soon."
+          ],
+          "explain": {
+            "ua": "Feel better.",
+            "ru": "Feel better."
+          },
+          "id": "a2-u17-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "My head hurts. I've got a ___.",
+      "options": [
+        "headache",
+        "cough",
+        "temperature"
+      ],
+      "answer": "headache",
+      "explain": {
+        "ua": "Headache.",
+        "ru": "Headache."
+      },
+      "id": "a2-u17-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I'd like to make an ___.",
+      "options": [
+        "appointment",
+        "prescription",
+        "recipe"
+      ],
+      "answer": "appointment",
+      "explain": {
+        "ua": "Appointment.",
+        "ru": "Appointment."
+      },
+      "id": "a2-u17-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "— What's the ___? — I've got a cold.",
+      "options": [
+        "matter",
+        "problem with",
+        "wrong is"
+      ],
+      "answer": "matter",
+      "explain": {
+        "ua": "What's the matter?",
+        "ru": "What's the matter?"
+      },
+      "id": "a2-u17-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The part of your body where food goes.",
+      "answer": "stomach",
+      "accept": [
+        "tummy"
+      ],
+      "explain": {
+        "ua": "Stomach.",
+        "ru": "Stomach."
+      },
+      "id": "a2-u17-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You take them for a headache. They're small.",
+      "answer": "pills",
+      "accept": [
+        "tablets",
+        "painkillers"
+      ],
+      "explain": {
+        "ua": "Pills.",
+        "ru": "Pills."
+      },
+      "id": "a2-u17-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I've got a ___ throat. It hurts.",
+      "answer": "sore",
+      "accept": [],
+      "explain": {
+        "ua": "Sore throat.",
+        "ru": "Sore throat."
+      },
+      "id": "a2-u17-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "cough",
+          "right": {
+            "ua": "кашель",
+            "ru": "кашель"
+          }
+        },
+        {
+          "left": "medicine",
+          "right": {
+            "ua": "ліки",
+            "ru": "лекарство"
+          }
+        },
+        {
+          "left": "back",
+          "right": {
+            "ua": "спина",
+            "ru": "спина"
+          }
+        },
+        {
+          "left": "cold",
+          "right": {
+            "ua": "застуда",
+            "ru": "простуда"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u17-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The doctor gave me a recipe for pills.",
+      "answer": "The doctor gave me a prescription for pills.",
+      "accept": [],
+      "explain": {
+        "ua": "Prescription.",
+        "ru": "Prescription."
+      },
+      "id": "a2-u17-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I have 38 temperature.",
+      "answer": "I've got a temperature of 38.",
+      "accept": [
+        "I have a temperature of 38.",
+        "My temperature is 38."
+      ],
+      "explain": {
+        "ua": "Have got a temperature (of…).",
+        "ru": "Have got a temperature (of…)."
+      },
+      "id": "a2-u17-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "bed",
+        "stay",
+        "in",
+        "You",
+        "should"
+      ],
+      "answer": "You should stay in bed",
+      "explain": {
+        "ua": "You should → stay in bed.",
+        "ru": "You should → stay in bed."
+      },
+      "id": "a2-u17-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Одужуй!",
+        "ru": "Выздоравливай!"
+      },
+      "answer": "Get well soon!",
+      "accept": [
+        "Get better soon!",
+        "Feel better!"
+      ],
+      "explain": {
+        "ua": "Get well soon.",
+        "ru": "Get well soon."
+      },
+      "id": "a2-u17-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "It hurts here.",
+      "options": [
+        "It hurts here.",
+        "It hurts her.",
+        "It hurt here."
+      ],
+      "answer": "It hurts here.",
+      "audio": "",
+      "explain": {
+        "ua": "Hurts.",
+        "ru": "Hurts."
+      },
+      "id": "a2-u17-cp12"
+    }
+  ]
+}

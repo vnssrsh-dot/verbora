@@ -1,0 +1,1022 @@
+{
+  "id": "b2-u14",
+  "level": "B2",
+  "order": 14,
+  "kind": "grammar",
+  "title": {
+    "en": "Articles: advanced",
+    "ua": "Артиклі: просунутий рівень",
+    "ru": "Артикли: продвинутый уровень"
+  },
+  "rule": {
+    "formula": {
+      "ua": "the — конкретне, унікальне, групи (the rich, the Alps) · без артикля — загальне, абстрактне, більшість країн і міст",
+      "ru": "the — конкретное, уникальное, группы (the rich, the Alps) · без артикля — общее, абстрактное, большинство стран и городов"
+    },
+    "explain": {
+      "ua": "Life is short (життя взагалі) — but the life of a soldier is hard (конкретне). Країни — без the (Ukraine, Poland), але the UK, the USA, the Netherlands. Річки, моря, гори-хребти — з the.",
+      "ru": "Life is short (жизнь вообще) — but the life of a soldier is hard (конкретное). Страны — без the (Ukraine, Poland), но the UK, the USA, the Netherlands. Реки, моря, горные хребты — с the."
+    },
+    "examples": [
+      {
+        "en": "Love is important.",
+        "ua": "Любов важлива.",
+        "ru": "Любовь важна."
+      },
+      {
+        "en": "We sailed on the Dnipro.",
+        "ua": "Ми пливли Дніпром.",
+        "ru": "Мы плыли по Днепру."
+      },
+      {
+        "en": "She lives in the USA, but she's from Ukraine.",
+        "ua": "Вона живе в США, але родом з України.",
+        "ru": "Она живёт в США, но родом из Украины."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "the UK / the USA",
+      "ipa": "/ðə ˌjuː ˈkeɪ/",
+      "ua": "Велика Британія / США",
+      "ru": "Великобритания / США",
+      "example": "I live in the UK.",
+      "audio": ""
+    },
+    {
+      "word": "the Netherlands",
+      "ipa": "/ðə ˈneðələndz/",
+      "ua": "Нідерланди",
+      "ru": "Нидерланды",
+      "example": "Amsterdam is in the Netherlands.",
+      "audio": ""
+    },
+    {
+      "word": "the Carpathians",
+      "ipa": "/ðə kɑːˈpeɪθiənz/",
+      "ua": "Карпати",
+      "ru": "Карпаты",
+      "example": "We went hiking in the Carpathians.",
+      "audio": ""
+    },
+    {
+      "word": "the Black Sea",
+      "ipa": "/ðə ˌblæk ˈsiː/",
+      "ua": "Чорне море",
+      "ru": "Чёрное море",
+      "example": "Odesa is on the Black Sea.",
+      "audio": ""
+    },
+    {
+      "word": "the Dnipro",
+      "ipa": "/ðə ˈdniːprəʊ/",
+      "ua": "Дніпро (річка)",
+      "ru": "Днепр (река)",
+      "example": "Kyiv is on the Dnipro.",
+      "audio": ""
+    },
+    {
+      "word": "the rich / the poor",
+      "ipa": "/ðə rɪtʃ/",
+      "ua": "багаті / бідні",
+      "ru": "богатые / бедные",
+      "example": "the gap between the rich and the poor",
+      "audio": ""
+    },
+    {
+      "word": "the elderly",
+      "ipa": "/ði ˈeldəli/",
+      "ua": "літні люди",
+      "ru": "пожилые люди",
+      "example": "help the elderly",
+      "audio": ""
+    },
+    {
+      "word": "society",
+      "ipa": "/səˈsaɪəti/",
+      "ua": "суспільство",
+      "ru": "общество",
+      "example": "modern society",
+      "audio": ""
+    },
+    {
+      "word": "nature",
+      "ipa": "/ˈneɪtʃə/",
+      "ua": "природа",
+      "ru": "природа",
+      "example": "I love nature.",
+      "audio": ""
+    },
+    {
+      "word": "go to bed / to work / to school",
+      "ipa": "/ɡəʊ tə bed/",
+      "ua": "лягати спати / іти на роботу / до школи",
+      "ru": "ложиться спать / идти на работу / в школу",
+      "example": "I go to work by bus.",
+      "audio": ""
+    },
+    {
+      "word": "in hospital / in prison",
+      "ipa": "/ɪn ˈhɒspɪtl/",
+      "ua": "у лікарні (як пацієнт) / у в'язниці",
+      "ru": "в больнице (как пациент) / в тюрьме",
+      "example": "She's in hospital.",
+      "audio": ""
+    },
+    {
+      "word": "by chance",
+      "ipa": "/baɪ ˈtʃɑːns/",
+      "ua": "випадково",
+      "ru": "случайно",
+      "example": "We met by chance.",
+      "audio": ""
+    },
+    {
+      "word": "on purpose",
+      "ipa": "/ɒn ˈpɜːpəs/",
+      "ua": "навмисно",
+      "ru": "нарочно",
+      "example": "He did it on purpose.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u14-l01",
+      "title": {
+        "en": "Geography",
+        "ua": "Географія",
+        "ru": "География"
+      },
+      "recap": {
+        "from": "b2-u13-l03",
+        "note": {
+          "ua": "Згадаймо: , which… — коментар до всієї попередньої думки",
+          "ru": "Вспомним: , which… — комментарий ко всей предыдущей мысли"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "relative-which-sentence",
+            "question": "He forgot my birthday, ___ upset me.",
+            "options": [
+              "which",
+              "that",
+              "what"
+            ],
+            "answer": "which",
+            "explain": {
+              "ua": "Про всю ситуацію → which.",
+              "ru": "Обо всей ситуации → which."
+            },
+            "id": "b2-u14-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "relative-which-sentence",
+            "question": "We won the match, ___ nobody expected.",
+            "options": [
+              "which",
+              "what",
+              "that"
+            ],
+            "answer": "which",
+            "explain": {
+              "ua": "Which.",
+              "ru": "Which."
+            },
+            "id": "b2-u14-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "без the: країни, міста, озера, окремі гори, континенти · the: the UK / USA / Netherlands, річки, моря, океани, гірські хребти, пустелі",
+          "ru": "без the: страны, города, озёра, отдельные горы, континенты · the: the UK / USA / Netherlands, реки, моря, океаны, горные хребты, пустыни"
+        },
+        "explain": {
+          "ua": "Ukraine, Paris, Europe, Lake Baikal, Hoverla — без артикля. The Dnipro, the Black Sea, the Atlantic, the Carpathians, the Sahara — з the. Країни, що звучать як «союз» чи множина: the UK, the USA, the Philippines.",
+          "ru": "Ukraine, Paris, Europe, Lake Baikal, Hoverla — без артикля. The Dnipro, the Black Sea, the Atlantic, the Carpathians, the Sahara — с the. Страны, которые звучат как «союз» или множественное: the UK, the USA, the Philippines."
+        },
+        "examples": [
+          {
+            "en": "Hoverla is the highest mountain in Ukraine.",
+            "ua": "Говерла — найвища гора в Україні.",
+            "ru": "Говерла — самая высокая гора в Украине."
+          },
+          {
+            "en": "The Danube flows into the Black Sea.",
+            "ua": "Дунай впадає в Чорне море.",
+            "ru": "Дунай впадает в Чёрное море."
+          },
+          {
+            "en": "We travelled across Europe to the UK.",
+            "ua": "Ми проїхали Європою до Британії.",
+            "ru": "Мы проехали по Европе в Британию."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-geography",
+          "question": "I've never been to ___ USA.",
+          "options": [
+            "the",
+            "—",
+            "a"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "The USA.",
+            "ru": "The USA."
+          },
+          "id": "b2-u14-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-geography",
+          "question": "She was born in ___ Poland.",
+          "options": [
+            "—",
+            "the",
+            "a"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Більшість країн — без the.",
+            "ru": "Большинство стран — без the."
+          },
+          "id": "b2-u14-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-geography",
+          "question": "Kyiv is on ___ Dnipro.",
+          "options": [
+            "the",
+            "—",
+            "a"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Річки — the.",
+            "ru": "Реки — the."
+          },
+          "id": "b2-u14-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-geography",
+          "question": "We went skiing in ___ Alps.",
+          "options": [
+            "the",
+            "—",
+            "an"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Гірські хребти — the.",
+            "ru": "Горные хребты — the."
+          },
+          "id": "b2-u14-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-geography",
+          "question": "___ Mount Everest is in Asia.",
+          "options": [
+            "—",
+            "The",
+            "A"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Окрема гора — без the.",
+            "ru": "Отдельная гора — без the."
+          },
+          "id": "b2-u14-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "articles-geography",
+          "bank": [
+            "the",
+            "—"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ Atlantic Ocean",
+            "___ Lviv",
+            "___ Netherlands",
+            "___ Africa"
+          ],
+          "answers": [
+            "the",
+            "—",
+            "the",
+            "—"
+          ],
+          "explain": {
+            "ua": "Океан, the Netherlands → the; міста, континенти → без.",
+            "ru": "Океан, the Netherlands → the; города, континенты → без."
+          },
+          "id": "b2-u14-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-geography",
+          "sentence": "I live in the Ukraine.",
+          "answer": "I live in Ukraine.",
+          "accept": [],
+          "explain": {
+            "ua": "Ukraine — без the.",
+            "ru": "Ukraine — без the."
+          },
+          "id": "b2-u14-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-geography",
+          "sentence": "We swam in Black Sea.",
+          "answer": "We swam in the Black Sea.",
+          "accept": [],
+          "explain": {
+            "ua": "Моря — the.",
+            "ru": "Моря — the."
+          },
+          "id": "b2-u14-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-geography",
+          "prompt": {
+            "ua": "Ми ходили в похід у Карпати.",
+            "ru": "Мы ходили в поход в Карпаты."
+          },
+          "answer": "We went hiking in the Carpathians.",
+          "accept": [
+            "We went on a hike in the Carpathians."
+          ],
+          "explain": {
+            "ua": "The Carpathians.",
+            "ru": "The Carpathians."
+          },
+          "id": "b2-u14-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u14-l02",
+      "title": {
+        "en": "General and abstract",
+        "ua": "Загальне й абстрактне",
+        "ru": "Общее и абстрактное"
+      },
+      "recap": {
+        "from": "b2-u14-l01",
+        "note": {
+          "ua": "Згадаймо: без the: країни, міста, озера, окремі гори, континенти · the: the UK / USA / Netherlands, річки, моря, океани, гірські хребти, пустелі",
+          "ru": "Вспомним: без the: страны, города, озёра, отдельные горы, континенты · the: the UK / USA / Netherlands, реки, моря, океаны, горные хребты, пустыни"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-geography",
+            "question": "I've never been to ___ USA.",
+            "options": [
+              "the",
+              "—",
+              "a"
+            ],
+            "answer": "the",
+            "explain": {
+              "ua": "The USA.",
+              "ru": "The USA."
+            },
+            "id": "b2-u14-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-geography",
+            "question": "___ Mount Everest is in Asia.",
+            "options": [
+              "—",
+              "The",
+              "A"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Окрема гора — без the.",
+              "ru": "Отдельная гора — без the."
+            },
+            "id": "b2-u14-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "загальне / абстрактне — без артикля (Life is beautiful) · конкретне — the (the life of my grandma) · група людей — the + прикметник",
+          "ru": "общее / абстрактное — без артикля (Life is beautiful) · конкретное — the (the life of my grandma) · группа людей — the + прилагательное"
+        },
+        "explain": {
+          "ua": "Без артикля: nature, society, music, love, history (загалом). З the — якщо уточнили: the history of Ukraine, the music in this film. The rich, the poor, the elderly — група людей.",
+          "ru": "Без артикля: nature, society, music, love, history (в целом). С the — если уточнили: the history of Ukraine, the music in this film. The rich, the poor, the elderly — группа людей."
+        },
+        "examples": [
+          {
+            "en": "History is my favourite subject.",
+            "ua": "Історія — мій улюблений предмет.",
+            "ru": "История — мой любимый предмет."
+          },
+          {
+            "en": "The history of Kyiv is fascinating.",
+            "ua": "Історія Києва захоплива.",
+            "ru": "История Киева увлекательна."
+          },
+          {
+            "en": "We should help the elderly.",
+            "ua": "Ми маємо допомагати літнім людям.",
+            "ru": "Мы должны помогать пожилым людям."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-abstract",
+          "question": "___ money doesn't make you happy.",
+          "options": [
+            "—",
+            "The",
+            "A"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Загальне → без артикля.",
+            "ru": "Общее → без артикля."
+          },
+          "id": "b2-u14-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-abstract",
+          "question": "___ money that I found was in a red wallet.",
+          "options": [
+            "The",
+            "—",
+            "A"
+          ],
+          "answer": "The",
+          "explain": {
+            "ua": "Конкретні гроші → the.",
+            "ru": "Конкретные деньги → the."
+          },
+          "id": "b2-u14-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-abstract",
+          "question": "I love ___ nature.",
+          "options": [
+            "—",
+            "the",
+            "a"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Природа взагалі → без артикля.",
+            "ru": "Природа вообще → без артикля."
+          },
+          "id": "b2-u14-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-abstract",
+          "question": "The government must help ___ poor.",
+          "options": [
+            "the",
+            "—",
+            "a"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Група людей → the poor.",
+            "ru": "Группа людей → the poor."
+          },
+          "id": "b2-u14-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-abstract",
+          "question": "___ life in a big city is stressful.",
+          "options": [
+            "—",
+            "The",
+            "A"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Загальне.",
+            "ru": "Общее."
+          },
+          "id": "b2-u14-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "articles-abstract",
+          "pairs": [
+            {
+              "left": "Love is…",
+              "right": {
+                "ua": "Любов узагалі",
+                "ru": "Любовь вообще"
+              }
+            },
+            {
+              "left": "The love of my life",
+              "right": {
+                "ua": "Конкретна любов",
+                "ru": "Конкретная любовь"
+              }
+            },
+            {
+              "left": "the rich",
+              "right": {
+                "ua": "багаті люди",
+                "ru": "богатые люди"
+              }
+            },
+            {
+              "left": "Society",
+              "right": {
+                "ua": "суспільство взагалі",
+                "ru": "общество вообще"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Загальне чи конкретне.",
+            "ru": "Общее или конкретное."
+          },
+          "id": "b2-u14-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-abstract",
+          "sentence": "The life is beautiful.",
+          "answer": "Life is beautiful.",
+          "accept": [],
+          "explain": {
+            "ua": "Загальне → без the.",
+            "ru": "Общее → без the."
+          },
+          "id": "b2-u14-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-abstract",
+          "sentence": "I'm interested in the history of the art.",
+          "answer": "I'm interested in the history of art.",
+          "accept": [
+            "I am interested in the history of art.",
+            "I'm interested in art history."
+          ],
+          "explain": {
+            "ua": "Art загалом — без the.",
+            "ru": "Art в целом — без the."
+          },
+          "id": "b2-u14-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-abstract",
+          "prompt": {
+            "ua": "Освіта дуже важлива.",
+            "ru": "Образование очень важно."
+          },
+          "answer": "Education is very important.",
+          "accept": [],
+          "explain": {
+            "ua": "Без артикля.",
+            "ru": "Без артикля."
+          },
+          "id": "b2-u14-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u14-l03",
+      "title": {
+        "en": "Fixed expressions",
+        "ua": "Сталі вирази",
+        "ru": "Устойчивые выражения"
+      },
+      "recap": {
+        "from": "b2-u14-l02",
+        "note": {
+          "ua": "Згадаймо: загальне / абстрактне — без артикля (Life is beautiful) · конкретне — the (the life of my grandma) · група людей — the + прикметник",
+          "ru": "Вспомним: общее / абстрактное — без артикля (Life is beautiful) · конкретное — the (the life of my grandma) · группа людей — the + прилагательное"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "articles-abstract",
+            "question": "___ money doesn't make you happy.",
+            "options": [
+              "—",
+              "The",
+              "A"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Загальне → без артикля.",
+              "ru": "Общее → без артикля."
+            },
+            "id": "b2-u14-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "articles-abstract",
+            "question": "___ life in a big city is stressful.",
+            "options": [
+              "—",
+              "The",
+              "A"
+            ],
+            "answer": "—",
+            "explain": {
+              "ua": "Загальне.",
+              "ru": "Общее."
+            },
+            "id": "b2-u14-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "go to bed / work / school / university · in hospital / prison / bed · at home / night · by car / chance · on purpose / time",
+          "ru": "go to bed / work / school / university · in hospital / prison / bed · at home / night · by car / chance · on purpose / time"
+        },
+        "explain": {
+          "ua": "Коли місце використовуємо за призначенням — без артикля: go to school (вчитися), be in hospital (лікуватися). Якщо просто будівля — з the: I went to the school to meet the teacher.",
+          "ru": "Когда место используем по назначению — без артикля: go to school (учиться), be in hospital (лечиться). Если просто здание — с the: I went to the school to meet the teacher."
+        },
+        "examples": [
+          {
+            "en": "My son goes to school by bus.",
+            "ua": "Мій син їздить до школи автобусом.",
+            "ru": "Мой сын ездит в школу на автобусе."
+          },
+          {
+            "en": "Grandpa is in hospital.",
+            "ua": "Дідусь у лікарні (лікується).",
+            "ru": "Дедушка в больнице (лечится)."
+          },
+          {
+            "en": "I went to the hospital to visit him.",
+            "ua": "Я ходив до лікарні його провідати.",
+            "ru": "Я ходил в больницу его навестить."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "articles-fixed",
+          "question": "I usually go to ___ bed at 11.",
+          "options": [
+            "—",
+            "the",
+            "a"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Go to bed.",
+            "ru": "Go to bed."
+          },
+          "id": "b2-u14-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-fixed",
+          "question": "She's in ___ hospital with a broken leg.",
+          "options": [
+            "—",
+            "the",
+            "a"
+          ],
+          "answer": "—",
+          "explain": {
+            "ua": "Пацієнт → in hospital.",
+            "ru": "Пациент → in hospital."
+          },
+          "id": "b2-u14-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-fixed",
+          "question": "I went to ___ hospital to visit my aunt.",
+          "options": [
+            "the",
+            "—",
+            "an"
+          ],
+          "answer": "the",
+          "explain": {
+            "ua": "Будівля → the.",
+            "ru": "Здание → the."
+          },
+          "id": "b2-u14-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-fixed",
+          "question": "We met ___ chance at the airport.",
+          "options": [
+            "by",
+            "on",
+            "in"
+          ],
+          "answer": "by",
+          "explain": {
+            "ua": "By chance.",
+            "ru": "By chance."
+          },
+          "id": "b2-u14-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "articles-fixed",
+          "question": "He broke the window ___ purpose!",
+          "options": [
+            "on",
+            "by",
+            "in"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "On purpose.",
+            "ru": "On purpose."
+          },
+          "id": "b2-u14-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "articles-fixed",
+          "bank": [
+            "to work",
+            "at home",
+            "by car",
+            "at night"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I go ___ at 8.",
+            "I stay ___ on Sundays.",
+            "We travelled ___.",
+            "Owls hunt ___."
+          ],
+          "answers": [
+            "to work",
+            "at home",
+            "by car",
+            "at night"
+          ],
+          "explain": {
+            "ua": "Сталі вирази.",
+            "ru": "Устойчивые выражения."
+          },
+          "id": "b2-u14-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-fixed",
+          "sentence": "I go to the work by the bus.",
+          "answer": "I go to work by bus.",
+          "accept": [],
+          "explain": {
+            "ua": "Сталі вирази — без the.",
+            "ru": "Устойчивые выражения — без the."
+          },
+          "id": "b2-u14-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-fixed",
+          "sentence": "She did it by purpose.",
+          "answer": "She did it on purpose.",
+          "accept": [],
+          "explain": {
+            "ua": "On purpose.",
+            "ru": "On purpose."
+          },
+          "id": "b2-u14-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "articles-fixed",
+          "prompt": {
+            "ua": "Ми випадково зустрілися в метро.",
+            "ru": "Мы случайно встретились в метро."
+          },
+          "answer": "We met by chance on the underground.",
+          "accept": [
+            "We met by chance in the metro.",
+            "We met by chance on the metro.",
+            "We bumped into each other on the underground."
+          ],
+          "explain": {
+            "ua": "By chance.",
+            "ru": "By chance."
+          },
+          "id": "b2-u14-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "articles-geography",
+      "question": "I'd love to visit ___ Netherlands.",
+      "options": [
+        "the",
+        "—",
+        "a"
+      ],
+      "answer": "the",
+      "explain": {
+        "ua": "The Netherlands.",
+        "ru": "The Netherlands."
+      },
+      "id": "b2-u14-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-geography",
+      "question": "She's from ___ Italy.",
+      "options": [
+        "—",
+        "the",
+        "an"
+      ],
+      "answer": "—",
+      "explain": {
+        "ua": "Без the.",
+        "ru": "Без the."
+      },
+      "id": "b2-u14-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-abstract",
+      "question": "___ happiness is more important than money.",
+      "options": [
+        "—",
+        "The",
+        "A"
+      ],
+      "answer": "—",
+      "explain": {
+        "ua": "Загальне.",
+        "ru": "Общее."
+      },
+      "id": "b2-u14-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-abstract",
+      "question": "We must help ___ elderly.",
+      "options": [
+        "the",
+        "—",
+        "an"
+      ],
+      "answer": "the",
+      "explain": {
+        "ua": "The elderly.",
+        "ru": "The elderly."
+      },
+      "id": "b2-u14-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "articles-fixed",
+      "question": "He's in ___ prison for robbery.",
+      "options": [
+        "—",
+        "the",
+        "a"
+      ],
+      "answer": "—",
+      "explain": {
+        "ua": "In prison.",
+        "ru": "In prison."
+      },
+      "id": "b2-u14-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "articles-geography",
+      "question": "Odesa is on ___ Black Sea.",
+      "answer": "the",
+      "accept": [],
+      "explain": {
+        "ua": "The Black Sea.",
+        "ru": "The Black Sea."
+      },
+      "id": "b2-u14-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "articles-fixed",
+      "question": "He did it ___ purpose.",
+      "answer": "on",
+      "accept": [],
+      "explain": {
+        "ua": "On purpose.",
+        "ru": "On purpose."
+      },
+      "id": "b2-u14-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "articles-abstract",
+      "sentence": "The nature is beautiful here.",
+      "answer": "Nature is beautiful here.",
+      "accept": [],
+      "explain": {
+        "ua": "Загальне.",
+        "ru": "Общее."
+      },
+      "id": "b2-u14-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "articles-geography",
+      "sentence": "I live in the Kyiv.",
+      "answer": "I live in Kyiv.",
+      "accept": [],
+      "explain": {
+        "ua": "Міста — без the.",
+        "ru": "Города — без the."
+      },
+      "id": "b2-u14-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "articles-geography",
+      "words": [
+        "into",
+        "Sea",
+        "Danube",
+        "Black",
+        "the",
+        "flows",
+        "The"
+      ],
+      "answer": "The Danube flows into the Black Sea",
+      "explain": {
+        "ua": "The Danube → the Black Sea.",
+        "ru": "The Danube → the Black Sea."
+      },
+      "id": "b2-u14-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "articles-fixed",
+      "prompt": {
+        "ua": "Мій син іде до школи о восьмій.",
+        "ru": "Мой сын идёт в школу в восемь."
+      },
+      "answer": "My son goes to school at 8.",
+      "accept": [
+        "My son goes to school at eight."
+      ],
+      "explain": {
+        "ua": "Go to school.",
+        "ru": "Go to school."
+      },
+      "id": "b2-u14-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "articles-fixed",
+      "audio_text": "We went to the hospital to visit her.",
+      "options": [
+        "We went to the hospital to visit her.",
+        "We went to hospital to visit her.",
+        "We went to the hostel to visit her."
+      ],
+      "answer": "We went to the hospital to visit her.",
+      "audio": "",
+      "explain": {
+        "ua": "The hospital (будівля).",
+        "ru": "The hospital (здание)."
+      },
+      "id": "b2-u14-cp12"
+    }
+  ]
+}

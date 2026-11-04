@@ -1,8 +1,7 @@
 import { useStore } from '../lib/store.jsx';
-import { LEVELS, levelInfo } from '../lib/content.js';
+import { LEVELS, levelInfo, topicName } from '../lib/content.js';
 import { buildPath, topicStatus, levelUnlocked } from '../lib/progress.js';
 import { unitTopics } from '../lib/content.js';
-import { TOPIC_NAMES } from '../lib/i18n.js';
 import { loc } from '../lib/loc.js';
 import { TopBar, Icon, Tile } from '../components.jsx';
 
@@ -59,7 +58,7 @@ export default function GrammarMap({ nav, t, lang }) {
                           return (
                             <div key={tp} className="row" style={{ gap: 8 }}>
                               <span className={`status-dot st-${st}`} style={{ width: 9, height: 9 }} />
-                              <span className="small grow">{loc(TOPIC_NAMES[tp], lang) || tp}</span>
+                              <span className="small grow">{topicName(tp, lang)}</span>
                               {r && <span className="tiny">{Math.round((r.ok / (r.ok + r.bad)) * 100)}%</span>}
                             </div>
                           );

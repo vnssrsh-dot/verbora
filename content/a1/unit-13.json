@@ -1,0 +1,1035 @@
+{
+  "id": "a1-u13",
+  "level": "A1",
+  "order": 13,
+  "kind": "grammar",
+  "title": {
+    "en": "Have got / has got",
+    "ua": "Have got / has got",
+    "ru": "Have got / has got"
+  },
+  "rule": {
+    "formula": "I / you / we / they have got · he / she / it has got",
+    "explain": {
+      "ua": "Have got — «у мене є». Has got — для he, she, it. Скорочено: I've got, she's got. Це британський варіант, у розмові дуже частий.",
+      "ru": "Have got — «у меня есть». Has got — для he, she, it. Сокращённо: I've got, she's got. Это британский вариант, в разговоре очень частый."
+    },
+    "examples": [
+      {
+        "en": "I've got a dog.",
+        "ua": "У мене є собака.",
+        "ru": "У меня есть собака."
+      },
+      {
+        "en": "She has got two sisters.",
+        "ua": "У неї дві сестри.",
+        "ru": "У неё две сестры."
+      },
+      {
+        "en": "Have you got a car?",
+        "ua": "У тебе є машина?",
+        "ru": "У тебя есть машина?"
+      }
+    ],
+    "compare": {
+      "ua": "Українською «у мене є», а англійською — «я маю»: I have got. Хто має — стоїть першим.",
+      "ru": "По-русски «у меня есть», а по-английски — «я имею»: I have got. Кто имеет — стоит первым."
+    }
+  },
+  "vocab": [
+    {
+      "word": "bike",
+      "ipa": "/baɪk/",
+      "ua": "велосипед",
+      "ru": "велосипед",
+      "example": "I've got a new bike.",
+      "audio": ""
+    },
+    {
+      "word": "pet",
+      "ipa": "/pet/",
+      "ua": "домашній улюбленець",
+      "ru": "домашний питомец",
+      "example": "Have you got a pet?",
+      "audio": ""
+    },
+    {
+      "word": "computer",
+      "ipa": "/kəmˈpjuːtə/",
+      "ua": "комп'ютер",
+      "ru": "компьютер",
+      "example": "She's got a computer.",
+      "audio": ""
+    },
+    {
+      "word": "time",
+      "ipa": "/taɪm/",
+      "ua": "час",
+      "ru": "время",
+      "example": "I haven't got time.",
+      "audio": ""
+    },
+    {
+      "word": "money",
+      "ipa": "/ˈmʌni/",
+      "ua": "гроші",
+      "ru": "деньги",
+      "example": "Have you got any money?",
+      "audio": ""
+    },
+    {
+      "word": "idea",
+      "ipa": "/aɪˈdɪə/",
+      "ua": "ідея",
+      "ru": "идея",
+      "example": "I've got an idea!",
+      "audio": ""
+    },
+    {
+      "word": "headache",
+      "ipa": "/ˈhedeɪk/",
+      "ua": "головний біль",
+      "ru": "головная боль",
+      "example": "She's got a headache.",
+      "audio": ""
+    },
+    {
+      "word": "cold",
+      "ipa": "/kəʊld/",
+      "ua": "застуда",
+      "ru": "простуда",
+      "example": "He's got a cold.",
+      "audio": ""
+    },
+    {
+      "word": "question",
+      "ipa": "/ˈkwestʃən/",
+      "ua": "питання",
+      "ru": "вопрос",
+      "example": "I've got a question.",
+      "audio": ""
+    },
+    {
+      "word": "garden",
+      "ipa": "/ˈɡɑːdn/",
+      "ua": "сад, город",
+      "ru": "сад, огород",
+      "example": "They've got a big garden.",
+      "audio": ""
+    },
+    {
+      "word": "ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "ua": "квиток",
+      "ru": "билет",
+      "example": "Have you got the tickets?",
+      "audio": ""
+    },
+    {
+      "word": "brother",
+      "ipa": "/ˈbrʌðə/",
+      "ua": "брат",
+      "ru": "брат",
+      "example": "I've got one brother.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u13-l01",
+      "title": {
+        "en": "I've got, she's got",
+        "ua": "I've got, she's got",
+        "ru": "I've got, she's got"
+      },
+      "recap": {
+        "from": "a1-u12-l02",
+        "note": {
+          "ua": "Згадаймо: Місця в місті",
+          "ru": "Вспомним: Места в городе"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You buy medicine here.",
+            "answer": "pharmacy",
+            "accept": [
+              "a pharmacy",
+              "chemist's"
+            ],
+            "explain": {
+              "ua": "Pharmacy — аптека.",
+              "ru": "Pharmacy — аптека."
+            },
+            "id": "a1-u13-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You wait for a bus at the ___.",
+            "options": [
+              "bus stop",
+              "station",
+              "square"
+            ],
+            "answer": "bus stop",
+            "explain": {
+              "ua": "Bus stop — зупинка.",
+              "ru": "Bus stop — остановка."
+            },
+            "id": "a1-u13-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I've got · you've got · he's / she's / it's got · we've got · they've got",
+        "explain": {
+          "ua": "Have got — для I, you, we, they. Has got — для he, she, it. 's got = has got (не is!).",
+          "ru": "Have got — для I, you, we, they. Has got — для he, she, it. 's got = has got (не is!)."
+        },
+        "examples": [
+          {
+            "en": "I've got a cat.",
+            "ua": "У мене є кіт.",
+            "ru": "У меня есть кот."
+          },
+          {
+            "en": "He's got a new bike.",
+            "ua": "У нього новий велосипед.",
+            "ru": "У него новый велосипед."
+          },
+          {
+            "en": "They've got a big garden.",
+            "ua": "У них великий сад.",
+            "ru": "У них большой сад."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "I ___ got a dog.",
+          "options": [
+            "have",
+            "has",
+            "am"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "I → have got.",
+            "ru": "I → have got."
+          },
+          "id": "a1-u13-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "She ___ got two brothers.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "She → has got.",
+            "ru": "She → has got."
+          },
+          "id": "a1-u13-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "We ___ got a new car.",
+          "options": [
+            "have",
+            "has",
+            "are"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "We → have got.",
+            "ru": "We → have got."
+          },
+          "id": "a1-u13-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "My dad ___ got a bike.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "My dad = he → has got.",
+            "ru": "My dad = he → has got."
+          },
+          "id": "a1-u13-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "He's got = He ___ got",
+          "options": [
+            "has",
+            "is",
+            "have"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "'s got = has got.",
+            "ru": "'s got = has got."
+          },
+          "id": "a1-u13-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "have-got",
+          "pairs": [
+            {
+              "left": "I have got",
+              "right": "I've got"
+            },
+            {
+              "left": "she has got",
+              "right": "she's got"
+            },
+            {
+              "left": "they have got",
+              "right": "they've got"
+            },
+            {
+              "left": "it has got",
+              "right": "it's got"
+            }
+          ],
+          "explain": {
+            "ua": "Скорочення.",
+            "ru": "Сокращения."
+          },
+          "id": "a1-u13-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "have-got",
+          "sentence": "She have got a cat.",
+          "answer": "She has got a cat.",
+          "accept": [
+            "She's got a cat."
+          ],
+          "explain": {
+            "ua": "She → has.",
+            "ru": "She → has."
+          },
+          "id": "a1-u13-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "have-got",
+          "words": [
+            "They",
+            "have",
+            "big",
+            "garden",
+            "got",
+            "a"
+          ],
+          "answer": "They have got a big garden",
+          "explain": {
+            "ua": "They → have got → a big garden.",
+            "ru": "They → have got → a big garden."
+          },
+          "id": "a1-u13-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "have-got",
+          "prompt": {
+            "ua": "У мене є ідея!",
+            "ru": "У меня есть идея!"
+          },
+          "answer": "I've got an idea!",
+          "accept": [
+            "I have got an idea!",
+            "I have an idea!"
+          ],
+          "explain": {
+            "ua": "I've got + an idea.",
+            "ru": "I've got + an idea."
+          },
+          "id": "a1-u13-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u13-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "a1-u13-l01",
+        "note": {
+          "ua": "Згадаймо: I've got · you've got · he's / she's / it's got · we've got · they've got",
+          "ru": "Вспомним: I've got · you've got · he's / she's / it's got · we've got · they've got"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "I ___ got a dog.",
+            "options": [
+              "have",
+              "has",
+              "am"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "I → have got.",
+              "ru": "I → have got."
+            },
+            "id": "a1-u13-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "My dad ___ got a bike.",
+            "options": [
+              "has",
+              "have",
+              "is"
+            ],
+            "answer": "has",
+            "explain": {
+              "ua": "My dad = he → has got.",
+              "ru": "My dad = he → has got."
+            },
+            "id": "a1-u13-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "haven't got · hasn't got · Have you got…? · Has she got…?",
+        "explain": {
+          "ua": "Заперечення: haven't got / hasn't got. Питання: have / has на початок: Have you got a pet? Коротка відповідь: Yes, I have. / No, she hasn't.",
+          "ru": "Отрицание: haven't got / hasn't got. Вопрос: have / has в начало: Have you got a pet? Краткий ответ: Yes, I have. / No, she hasn't."
+        },
+        "examples": [
+          {
+            "en": "I haven't got time.",
+            "ua": "У мене немає часу.",
+            "ru": "У меня нет времени."
+          },
+          {
+            "en": "He hasn't got a car.",
+            "ua": "У нього немає машини.",
+            "ru": "У него нет машины."
+          },
+          {
+            "en": "Have you got a pet? — Yes, I have.",
+            "ua": "У тебе є улюбленець? — Так.",
+            "ru": "У тебя есть питомец? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "I ___ got time today.",
+          "options": [
+            "haven't",
+            "hasn't",
+            "don't"
+          ],
+          "answer": "haven't",
+          "explain": {
+            "ua": "I → haven't got.",
+            "ru": "I → haven't got."
+          },
+          "id": "a1-u13-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "She ___ got a car.",
+          "options": [
+            "hasn't",
+            "haven't",
+            "isn't"
+          ],
+          "answer": "hasn't",
+          "explain": {
+            "ua": "She → hasn't got.",
+            "ru": "She → hasn't got."
+          },
+          "id": "a1-u13-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "___ you got a pet?",
+          "options": [
+            "Have",
+            "Has",
+            "Are"
+          ],
+          "answer": "Have",
+          "explain": {
+            "ua": "You → Have you got…?",
+            "ru": "You → Have you got…?"
+          },
+          "id": "a1-u13-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "___ he got a brother?",
+          "options": [
+            "Has",
+            "Have",
+            "Is"
+          ],
+          "answer": "Has",
+          "explain": {
+            "ua": "He → Has he got…?",
+            "ru": "He → Has he got…?"
+          },
+          "id": "a1-u13-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "Have you got a bike? — No, I ___.",
+          "options": [
+            "haven't",
+            "hasn't",
+            "don't"
+          ],
+          "answer": "haven't",
+          "explain": {
+            "ua": "No, I haven't.",
+            "ru": "No, I haven't."
+          },
+          "id": "a1-u13-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "Has she got a cold? — Yes, she ___.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "Yes, she has.",
+            "ru": "Yes, she has."
+          },
+          "id": "a1-u13-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "have-got",
+          "sentence": "He haven't got money.",
+          "answer": "He hasn't got money.",
+          "accept": [
+            "He hasn't got any money."
+          ],
+          "explain": {
+            "ua": "He → hasn't.",
+            "ru": "He → hasn't."
+          },
+          "id": "a1-u13-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "have-got",
+          "audio_text": "Have you got a question?",
+          "options": [
+            "Have you got a question?",
+            "You have got a question.",
+            "Have you got a ticket?"
+          ],
+          "answer": "Have you got a question?",
+          "audio": "",
+          "explain": {
+            "ua": "Have на початку — питання.",
+            "ru": "Have в начале — вопрос."
+          },
+          "id": "a1-u13-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "have-got",
+          "prompt": {
+            "ua": "У мене немає часу.",
+            "ru": "У меня нет времени."
+          },
+          "answer": "I haven't got time.",
+          "accept": [
+            "I have not got time.",
+            "I don't have time.",
+            "I haven't got any time."
+          ],
+          "explain": {
+            "ua": "Haven't got.",
+            "ru": "Haven't got."
+          },
+          "id": "a1-u13-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u13-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u13-l02",
+        "note": {
+          "ua": "Згадаймо: haven't got · hasn't got · Have you got…? · Has she got…?",
+          "ru": "Вспомним: haven't got · hasn't got · Have you got…? · Has she got…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "I ___ got time today.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "don't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "I → haven't got.",
+              "ru": "I → haven't got."
+            },
+            "id": "a1-u13-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "have-got",
+            "question": "Have you got a bike? — No, I ___.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "don't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "No, I haven't.",
+              "ru": "No, I haven't."
+            },
+            "id": "a1-u13-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "My sister ___ got a headache.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "My sister → has got.",
+            "ru": "My sister → has got."
+          },
+          "id": "a1-u13-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "have-got",
+          "question": "Have they got a garden? — Yes, they ___.",
+          "options": [
+            "have",
+            "has",
+            "are"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Yes, they have.",
+            "ru": "Yes, they have."
+          },
+          "id": "a1-u13-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ben has got a sister.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ben has got a pet.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What hasn't Ben got?",
+              "options": [
+                "a car",
+                "a bike",
+                "a dog"
+              ],
+              "answer": "a car"
+            }
+          ],
+          "text": "Hi, I'm Ben. I've got two brothers, but I haven't got a sister. We've got a dog — his name is Rex. I've got a bike, but I haven't got a car. My brother Tom has got a car. It's red!",
+          "explain": {
+            "ua": "Ben — two brothers, a dog, a bike, no car.",
+            "ru": "Ben — two brothers, a dog, a bike, no car."
+          },
+          "id": "a1-u13-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "have-got",
+          "bank": [
+            "have",
+            "has",
+            "haven't",
+            "hasn't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ got two brothers.",
+            "I ___ got a sister.",
+            "Tom ___ got a car.",
+            "Ben ___ got a car."
+          ],
+          "answers": [
+            "have",
+            "haven't",
+            "has",
+            "hasn't"
+          ],
+          "explain": {
+            "ua": "Перечитай текст: Ben — без машини, Tom — з машиною.",
+            "ru": "Перечитай текст: Ben — без машины, Tom — с машиной."
+          },
+          "id": "a1-u13-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "have-got",
+          "sentence": "Have she got a pet?",
+          "answer": "Has she got a pet?",
+          "accept": [],
+          "explain": {
+            "ua": "She → Has she got…?",
+            "ru": "She → Has she got…?"
+          },
+          "id": "a1-u13-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-forms",
+          "sentence": "I've got 30 years.",
+          "answer": "I'm 30 years old.",
+          "accept": [
+            "I am 30 years old.",
+            "I'm 30.",
+            "I am 30."
+          ],
+          "explain": {
+            "ua": "Вік — через to be, не have got!",
+            "ru": "Возраст — через to be, не have got!"
+          },
+          "id": "a1-u13-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "have-got",
+          "words": [
+            "car",
+            "a",
+            "brother",
+            "Has",
+            "your",
+            "got"
+          ],
+          "answer": "Has your brother got a car",
+          "explain": {
+            "ua": "Has → your brother → got → a car?",
+            "ru": "Has → your brother → got → a car?"
+          },
+          "id": "a1-u13-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "have-got",
+          "audio_text": "She's got a cold.",
+          "options": [
+            "She's got a cold.",
+            "She's cold.",
+            "She's got a coat."
+          ],
+          "answer": "She's got a cold.",
+          "audio": "",
+          "explain": {
+            "ua": "She's got a cold — застудилася. She's cold — їй холодно.",
+            "ru": "She's got a cold — простыла. She's cold — ей холодно."
+          },
+          "id": "a1-u13-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "have-got",
+          "prompt": {
+            "ua": "У них є квитки?",
+            "ru": "У них есть билеты?"
+          },
+          "answer": "Have they got the tickets?",
+          "accept": [
+            "Have they got tickets?",
+            "Do they have the tickets?",
+            "Do they have tickets?"
+          ],
+          "explain": {
+            "ua": "Have they got…?",
+            "ru": "Have they got…?"
+          },
+          "id": "a1-u13-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "have-got",
+          "prompt": {
+            "ua": "У нього болить голова.",
+            "ru": "У него болит голова."
+          },
+          "answer": "He's got a headache.",
+          "accept": [
+            "He has got a headache.",
+            "He has a headache."
+          ],
+          "explain": {
+            "ua": "Have got a headache — болить голова.",
+            "ru": "Have got a headache — болит голова."
+          },
+          "id": "a1-u13-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "I ___ got a cat.",
+      "options": [
+        "have",
+        "has",
+        "am"
+      ],
+      "answer": "have",
+      "explain": {
+        "ua": "I → have.",
+        "ru": "I → have."
+      },
+      "id": "a1-u13-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "He ___ got a bike.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": "has",
+      "explain": {
+        "ua": "He → has.",
+        "ru": "He → has."
+      },
+      "id": "a1-u13-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "___ you got a pet?",
+      "options": [
+        "Have",
+        "Has",
+        "Do"
+      ],
+      "answer": "Have",
+      "explain": {
+        "ua": "Have you got…?",
+        "ru": "Have you got…?"
+      },
+      "id": "a1-u13-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "have-got",
+      "question": "Has she got a car? — No, she ___.",
+      "options": [
+        "hasn't",
+        "haven't",
+        "isn't"
+      ],
+      "answer": "hasn't",
+      "explain": {
+        "ua": "No, she hasn't.",
+        "ru": "No, she hasn't."
+      },
+      "id": "a1-u13-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "have-got",
+      "question": "We ___ got time.",
+      "answer": "haven't",
+      "accept": [
+        "have not"
+      ],
+      "explain": {
+        "ua": "We → haven't.",
+        "ru": "We → haven't."
+      },
+      "id": "a1-u13-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "have-got",
+      "question": "My mum ___ got a garden.",
+      "answer": "has",
+      "accept": [
+        "'s"
+      ],
+      "explain": {
+        "ua": "My mum → has.",
+        "ru": "My mum → has."
+      },
+      "id": "a1-u13-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "I have got",
+          "right": "I've got"
+        },
+        {
+          "left": "he has not got",
+          "right": "he hasn't got"
+        },
+        {
+          "left": "we have not got",
+          "right": "we haven't got"
+        },
+        {
+          "left": "she has got",
+          "right": "she's got"
+        }
+      ],
+      "explain": {
+        "ua": "Скорочення.",
+        "ru": "Сокращения."
+      },
+      "id": "a1-u13-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "have-got",
+      "sentence": "She have got a headache.",
+      "answer": "She has got a headache.",
+      "accept": [
+        "She's got a headache."
+      ],
+      "explain": {
+        "ua": "She → has.",
+        "ru": "She → has."
+      },
+      "id": "a1-u13-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "have-got",
+      "sentence": "Have he got a brother?",
+      "answer": "Has he got a brother?",
+      "accept": [],
+      "explain": {
+        "ua": "He → Has.",
+        "ru": "He → Has."
+      },
+      "id": "a1-u13-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "got",
+        "have",
+        "question",
+        "a",
+        "I"
+      ],
+      "answer": "I have got a question",
+      "explain": {
+        "ua": "I → have got → a question.",
+        "ru": "I → have got → a question."
+      },
+      "id": "a1-u13-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "have-got",
+      "prompt": {
+        "ua": "У неї дві сестри.",
+        "ru": "У неё две сестры."
+      },
+      "answer": "She has got two sisters.",
+      "accept": [
+        "She's got two sisters.",
+        "She has two sisters."
+      ],
+      "explain": {
+        "ua": "She has got…",
+        "ru": "She has got…"
+      },
+      "id": "a1-u13-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "have-got",
+      "audio_text": "They haven't got a garden.",
+      "options": [
+        "They haven't got a garden.",
+        "They have got a garden.",
+        "They haven't got a garage."
+      ],
+      "answer": "They haven't got a garden.",
+      "audio": "",
+      "explain": {
+        "ua": "Haven't — немає.",
+        "ru": "Haven't — нет."
+      },
+      "id": "a1-u13-cp12"
+    }
+  ]
+}

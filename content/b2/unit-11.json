@@ -1,0 +1,1526 @@
+{
+  "id": "b2-u11",
+  "level": "B2",
+  "order": 11,
+  "kind": "vocab",
+  "title": {
+    "en": "The environment",
+    "ua": "Екологія і довкілля",
+    "ru": "Экология и окружающая среда"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "ua": "довкілля",
+      "ru": "окружающая среда",
+      "example": "protect the environment",
+      "audio": ""
+    },
+    {
+      "word": "climate change",
+      "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+      "ua": "зміна клімату",
+      "ru": "изменение климата",
+      "example": "the effects of climate change",
+      "audio": ""
+    },
+    {
+      "word": "global warming",
+      "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+      "ua": "глобальне потепління",
+      "ru": "глобальное потепление",
+      "example": "Global warming is a big problem.",
+      "audio": ""
+    },
+    {
+      "word": "pollution",
+      "ipa": "/pəˈluːʃn/",
+      "ua": "забруднення",
+      "ru": "загрязнение",
+      "example": "air pollution",
+      "audio": ""
+    },
+    {
+      "word": "pollute",
+      "ipa": "/pəˈluːt/",
+      "ua": "забруднювати",
+      "ru": "загрязнять",
+      "example": "Factories pollute rivers.",
+      "audio": ""
+    },
+    {
+      "word": "waste",
+      "ipa": "/weɪst/",
+      "ua": "відходи; марнувати",
+      "ru": "отходы; тратить впустую",
+      "example": "plastic waste",
+      "audio": ""
+    },
+    {
+      "word": "recycle",
+      "ipa": "/ˌriːˈsaɪkl/",
+      "ua": "переробляти, сортувати",
+      "ru": "перерабатывать, сортировать",
+      "example": "We recycle glass and paper.",
+      "audio": ""
+    },
+    {
+      "word": "reduce",
+      "ipa": "/rɪˈdjuːs/",
+      "ua": "зменшувати",
+      "ru": "сокращать",
+      "example": "reduce plastic use",
+      "audio": ""
+    },
+    {
+      "word": "reuse",
+      "ipa": "/ˌriːˈjuːz/",
+      "ua": "використовувати повторно",
+      "ru": "использовать повторно",
+      "example": "Reuse your bags.",
+      "audio": ""
+    },
+    {
+      "word": "renewable energy",
+      "ipa": "/rɪˌnjuːəbl ˈenədʒi/",
+      "ua": "відновлювана енергія",
+      "ru": "возобновляемая энергия",
+      "example": "solar and wind are renewable energy",
+      "audio": ""
+    },
+    {
+      "word": "solar panel",
+      "ipa": "/ˈsəʊlə ˌpænl/",
+      "ua": "сонячна панель",
+      "ru": "солнечная панель",
+      "example": "We have solar panels.",
+      "audio": ""
+    },
+    {
+      "word": "carbon footprint",
+      "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+      "ua": "вуглецевий слід",
+      "ru": "углеродный след",
+      "example": "reduce your carbon footprint",
+      "audio": ""
+    },
+    {
+      "word": "emissions",
+      "ipa": "/ɪˈmɪʃnz/",
+      "ua": "викиди",
+      "ru": "выбросы",
+      "example": "CO2 emissions",
+      "audio": ""
+    },
+    {
+      "word": "endangered species",
+      "ipa": "/ɪnˌdeɪndʒəd ˈspiːʃiːz/",
+      "ua": "зникаючі види",
+      "ru": "исчезающие виды",
+      "example": "Tigers are an endangered species.",
+      "audio": ""
+    },
+    {
+      "word": "deforestation",
+      "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+      "ua": "вирубка лісів",
+      "ru": "вырубка лесов",
+      "example": "Deforestation is destroying habitats.",
+      "audio": ""
+    },
+    {
+      "word": "drought",
+      "ipa": "/draʊt/",
+      "ua": "посуха",
+      "ru": "засуха",
+      "example": "a long drought",
+      "audio": ""
+    },
+    {
+      "word": "flood",
+      "ipa": "/flʌd/",
+      "ua": "повінь",
+      "ru": "наводнение",
+      "example": "The flood damaged many houses.",
+      "audio": ""
+    },
+    {
+      "word": "sustainable",
+      "ipa": "/səˈsteɪnəbl/",
+      "ua": "сталий, екологічний",
+      "ru": "устойчивый, экологичный",
+      "example": "sustainable fashion",
+      "audio": ""
+    },
+    {
+      "word": "single-use plastic",
+      "ipa": "/ˌsɪŋɡl juːs ˈplæstɪk/",
+      "ua": "одноразовий пластик",
+      "ru": "одноразовый пластик",
+      "example": "Avoid single-use plastic.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u11-l01",
+      "title": {
+        "en": "Problems",
+        "ua": "Проблеми",
+        "ru": "Проблемы"
+      },
+      "recap": {
+        "from": "b2-u10-l03",
+        "note": {
+          "ua": "Згадаймо: should have + V3 — треба було (а не зробив) · shouldn't have — не треба було (а зробив) · needn't have — не треба було, даремно",
+          "ru": "Вспомним: should have + V3 — надо было (а не сделал) · shouldn't have — не надо было (а сделал) · needn't have — не нужно было, зря"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "modals-past-criticism",
+            "question": "I failed the exam. I ___ studied harder.",
+            "options": [
+              "should have",
+              "must have",
+              "needn't have"
+            ],
+            "answer": "should have",
+            "explain": {
+              "ua": "Жаль → should have.",
+              "ru": "Сожаление → should have."
+            },
+            "id": "b2-u11-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "modals-past-criticism",
+            "question": "You ___ called me earlier! I've been waiting for hours.",
+            "options": [
+              "should have",
+              "must have",
+              "might have"
+            ],
+            "answer": "should have",
+            "explain": {
+              "ua": "Should have.",
+              "ru": "Should have."
+            },
+            "id": "b2-u11-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "pollution",
+              "right": {
+                "ua": "забруднення",
+                "ru": "загрязнение"
+              }
+            },
+            {
+              "left": "climate change",
+              "right": {
+                "ua": "зміна клімату",
+                "ru": "изменение климата"
+              }
+            },
+            {
+              "left": "drought",
+              "right": {
+                "ua": "посуха",
+                "ru": "засуха"
+              }
+            },
+            {
+              "left": "flood",
+              "right": {
+                "ua": "повінь",
+                "ru": "наводнение"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u11-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cars and factories cause air ___ .",
+          "options": [
+            "pollution",
+            "recycling",
+            "energy"
+          ],
+          "answer": "pollution",
+          "explain": {
+            "ua": "Pollution.",
+            "ru": "Pollution."
+          },
+          "id": "b2-u11-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It hasn't rained for months. There's a terrible ___ .",
+          "options": [
+            "drought",
+            "flood",
+            "storm"
+          ],
+          "answer": "drought",
+          "explain": {
+            "ua": "Drought.",
+            "ru": "Drought."
+          },
+          "id": "b2-u11-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "After days of rain, the river caused a ___ .",
+          "options": [
+            "flood",
+            "drought",
+            "waste"
+          ],
+          "answer": "flood",
+          "explain": {
+            "ua": "Flood.",
+            "ru": "Flood."
+          },
+          "id": "b2-u11-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cutting down forests is called ___ .",
+          "options": [
+            "deforestation",
+            "pollution",
+            "recycling"
+          ],
+          "answer": "deforestation",
+          "explain": {
+            "ua": "Deforestation.",
+            "ru": "Deforestation."
+          },
+          "id": "b2-u11-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Pandas and tigers are ___ species.",
+          "options": [
+            "endangered",
+            "dangerous",
+            "renewable"
+          ],
+          "answer": "endangered",
+          "explain": {
+            "ua": "Endangered — під загрозою.",
+            "ru": "Endangered — под угрозой."
+          },
+          "id": "b2-u11-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Gases like CO2 that go into the air from cars and factories.",
+          "answer": "emissions",
+          "accept": [
+            "carbon emissions",
+            "CO2"
+          ],
+          "explain": {
+            "ua": "Emissions.",
+            "ru": "Emissions."
+          },
+          "id": "b2-u11-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Tigers are dangerous species.",
+          "answer": "Tigers are an endangered species.",
+          "accept": [
+            "Tigers are endangered."
+          ],
+          "explain": {
+            "ua": "Під загрозою — endangered.",
+            "ru": "Под угрозой — endangered."
+          },
+          "id": "b2-u11-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/draʊt/",
+          "options": [
+            "drought",
+            "draught",
+            "draw"
+          ],
+          "answer": "drought",
+          "explain": {
+            "ua": "gh не читається: «драут».",
+            "ru": "gh не читается: «драут»."
+          },
+          "id": "b2-u11-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Забруднення повітря — велика проблема.",
+            "ru": "Загрязнение воздуха — большая проблема."
+          },
+          "answer": "Air pollution is a big problem.",
+          "accept": [
+            "Air pollution is a serious problem."
+          ],
+          "explain": {
+            "ua": "Pollution.",
+            "ru": "Pollution."
+          },
+          "id": "b2-u11-l01-e10"
+        }
+      ],
+      "words": [
+        "environment",
+        "climate change",
+        "global warming",
+        "pollution",
+        "pollute",
+        "emissions",
+        "endangered species",
+        "deforestation",
+        "drought",
+        "flood"
+      ]
+    },
+    {
+      "id": "b2-u11-l02",
+      "title": {
+        "en": "Solutions",
+        "ua": "Рішення",
+        "ru": "Решения"
+      },
+      "recap": {
+        "from": "b2-u11-l01",
+        "note": {
+          "ua": "Згадаймо: Проблеми",
+          "ru": "Вспомним: Проблемы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Cars and factories cause air ___ .",
+            "options": [
+              "pollution",
+              "recycling",
+              "energy"
+            ],
+            "answer": "pollution",
+            "explain": {
+              "ua": "Pollution.",
+              "ru": "Pollution."
+            },
+            "id": "b2-u11-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Pandas and tigers are ___ species.",
+            "options": [
+              "endangered",
+              "dangerous",
+              "renewable"
+            ],
+            "answer": "endangered",
+            "explain": {
+              "ua": "Endangered — під загрозою.",
+              "ru": "Endangered — под угрозой."
+            },
+            "id": "b2-u11-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "recycle",
+              "right": {
+                "ua": "переробляти",
+                "ru": "перерабатывать"
+              }
+            },
+            {
+              "left": "reduce",
+              "right": {
+                "ua": "зменшувати",
+                "ru": "сокращать"
+              }
+            },
+            {
+              "left": "reuse",
+              "right": {
+                "ua": "використати повторно",
+                "ru": "использовать повторно"
+              }
+            },
+            {
+              "left": "solar panel",
+              "right": {
+                "ua": "сонячна панель",
+                "ru": "солнечная панель"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u11-l02-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "Reduce",
+            "Reuse",
+            "Recycle"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ — buy less plastic.",
+            "___ — use the same bag many times.",
+            "___ — put glass in the green bin."
+          ],
+          "answers": [
+            "Reduce",
+            "Reuse",
+            "Recycle"
+          ],
+          "explain": {
+            "ua": "Три R.",
+            "ru": "Три R."
+          },
+          "id": "b2-u11-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Wind and solar power are ___ energy.",
+          "options": [
+            "renewable",
+            "endangered",
+            "single-use"
+          ],
+          "answer": "renewable",
+          "explain": {
+            "ua": "Renewable.",
+            "ru": "Renewable."
+          },
+          "id": "b2-u11-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Flying less helps to reduce your carbon ___ .",
+          "options": [
+            "footprint",
+            "emissions",
+            "waste"
+          ],
+          "answer": "footprint",
+          "explain": {
+            "ua": "Carbon footprint.",
+            "ru": "Carbon footprint."
+          },
+          "id": "b2-u11-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Bring your own cup — avoid ___ plastic.",
+          "options": [
+            "single-use",
+            "renewable",
+            "sustainable"
+          ],
+          "answer": "single-use",
+          "explain": {
+            "ua": "Single-use.",
+            "ru": "Single-use."
+          },
+          "id": "b2-u11-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She only buys ___ clothes made from recycled materials.",
+          "options": [
+            "sustainable",
+            "endangered",
+            "polluted"
+          ],
+          "answer": "sustainable",
+          "explain": {
+            "ua": "Sustainable.",
+            "ru": "Sustainable."
+          },
+          "id": "b2-u11-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We recycle the old clothes to new ones.",
+          "answer": "We recycle old clothes into new ones.",
+          "accept": [
+            "Old clothes are recycled into new ones."
+          ],
+          "explain": {
+            "ua": "Recycle into.",
+            "ru": "Recycle into."
+          },
+          "id": "b2-u11-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "We've installed solar panels on our roof.",
+          "options": [
+            "We've installed solar panels on our roof.",
+            "We've installed solar panels on our room.",
+            "We installed sole panels on our roof."
+          ],
+          "answer": "We've installed solar panels on our roof.",
+          "audio": "",
+          "explain": {
+            "ua": "Solar panels.",
+            "ru": "Solar panels."
+          },
+          "id": "b2-u11-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми сортуємо скло й папір.",
+            "ru": "Мы сортируем стекло и бумагу."
+          },
+          "answer": "We recycle glass and paper.",
+          "accept": [
+            "We sort glass and paper."
+          ],
+          "explain": {
+            "ua": "Recycle.",
+            "ru": "Recycle."
+          },
+          "id": "b2-u11-l02-e09"
+        }
+      ],
+      "words": [
+        "waste",
+        "recycle",
+        "reduce",
+        "reuse",
+        "renewable energy",
+        "solar panel",
+        "carbon footprint",
+        "sustainable",
+        "single-use plastic"
+      ]
+    },
+    {
+      "id": "b2-u11-l03",
+      "title": {
+        "en": "Word families",
+        "ua": "Спільнокореневі слова",
+        "ru": "Однокоренные слова"
+      },
+      "recap": {
+        "from": "b2-u11-l02",
+        "note": {
+          "ua": "Згадаймо: Рішення",
+          "ru": "Вспомним: Решения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Wind and solar power are ___ energy.",
+            "options": [
+              "renewable",
+              "endangered",
+              "single-use"
+            ],
+            "answer": "renewable",
+            "explain": {
+              "ua": "Renewable.",
+              "ru": "Renewable."
+            },
+            "id": "b2-u11-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "She only buys ___ clothes made from recycled materials.",
+            "options": [
+              "sustainable",
+              "endangered",
+              "polluted"
+            ],
+            "answer": "sustainable",
+            "explain": {
+              "ua": "Sustainable.",
+              "ru": "Sustainable."
+            },
+            "id": "b2-u11-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "pollute",
+              "right": "pollution"
+            },
+            {
+              "left": "protect",
+              "right": "protection"
+            },
+            {
+              "left": "destroy",
+              "right": "destruction"
+            },
+            {
+              "left": "recycle",
+              "right": "recycling"
+            }
+          ],
+          "explain": {
+            "ua": "Дієслово → іменник.",
+            "ru": "Глагол → существительное."
+          },
+          "id": "b2-u11-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Factories ___ the river.",
+          "options": [
+            "pollute",
+            "pollution",
+            "polluted"
+          ],
+          "answer": "pollute",
+          "explain": {
+            "ua": "Дієслово.",
+            "ru": "Глагол."
+          },
+          "id": "b2-u11-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ is a serious problem in big cities.",
+          "options": [
+            "Pollution",
+            "Pollute",
+            "Polluting"
+          ],
+          "answer": "Pollution",
+          "explain": {
+            "ua": "Іменник.",
+            "ru": "Существительное."
+          },
+          "id": "b2-u11-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We must ___ the environment.",
+          "options": [
+            "protect",
+            "protection",
+            "protective"
+          ],
+          "answer": "protect",
+          "explain": {
+            "ua": "Дієслово.",
+            "ru": "Глагол."
+          },
+          "id": "b2-u11-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Environmental ___ is everyone's responsibility.",
+          "options": [
+            "protection",
+            "protect",
+            "protected"
+          ],
+          "answer": "protection",
+          "explain": {
+            "ua": "Іменник.",
+            "ru": "Существительное."
+          },
+          "id": "b2-u11-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The fire caused terrible ___ .",
+          "options": [
+            "destruction",
+            "destroy",
+            "destroyed"
+          ],
+          "answer": "destruction",
+          "explain": {
+            "ua": "Іменник.",
+            "ru": "Существительное."
+          },
+          "id": "b2-u11-l03-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "environmental",
+            "environment",
+            "sustainable",
+            "sustainability"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We must protect the ___.",
+            "It's an ___ problem.",
+            "This is a ___ company.",
+            "___ is our main goal."
+          ],
+          "answers": [
+            "environment",
+            "environmental",
+            "sustainable",
+            "Sustainability"
+          ],
+          "explain": {
+            "ua": "Іменник / прикметник.",
+            "ru": "Существительное / прилагательное."
+          },
+          "id": "b2-u11-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The pollute in the city is terrible.",
+          "answer": "The pollution in the city is terrible.",
+          "accept": [],
+          "explain": {
+            "ua": "Іменник — pollution.",
+            "ru": "Существительное — pollution."
+          },
+          "id": "b2-u11-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми повинні захищати довкілля.",
+            "ru": "Мы должны защищать окружающую среду."
+          },
+          "answer": "We must protect the environment.",
+          "accept": [
+            "We have to protect the environment.",
+            "We should protect the environment."
+          ],
+          "explain": {
+            "ua": "Protect.",
+            "ru": "Protect."
+          },
+          "id": "b2-u11-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u11-l04",
+      "title": {
+        "en": "In context: a green family",
+        "ua": "У контексті: екологічна родина",
+        "ru": "В контексте: экологичная семья"
+      },
+      "recap": {
+        "from": "b2-u11-l03",
+        "note": {
+          "ua": "Згадаймо: Спільнокореневі слова",
+          "ru": "Вспомним: Однокоренные слова"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Factories ___ the river.",
+            "options": [
+              "pollute",
+              "pollution",
+              "polluted"
+            ],
+            "answer": "pollute",
+            "explain": {
+              "ua": "Дієслово.",
+              "ru": "Глагол."
+            },
+            "id": "b2-u11-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Environmental ___ is everyone's responsibility.",
+            "options": [
+              "protection",
+              "protect",
+              "protected"
+            ],
+            "answer": "protection",
+            "explain": {
+              "ua": "Іменник.",
+              "ru": "Существительное."
+            },
+            "id": "b2-u11-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What has the family installed?",
+              "options": [
+                "solar panels",
+                "a new car",
+                "air conditioning"
+              ],
+              "answer": "solar panels"
+            },
+            {
+              "type": "truefalse",
+              "statement": "They have stopped buying single-use plastic.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "They fly on holiday every month.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What does Ivan say about recycling?",
+              "options": [
+                "it isn't enough — we must reduce",
+                "it's useless",
+                "it's too expensive"
+              ],
+              "answer": "it isn't enough — we must reduce"
+            }
+          ],
+          "text": "Two years ago my family decided to reduce our carbon footprint. We installed solar panels, and now most of our electricity comes from renewable energy. We've stopped buying single-use plastic and we take our own bags to the shop. On holiday we travel by train instead of flying. My husband Ivan always says: 'Recycling is good, but it isn't enough. The best thing is to reduce what we buy.'",
+          "explain": {
+            "ua": "Solar panels; no single-use plastic; train instead of plane; recycling not enough — reduce.",
+            "ru": "Solar panels; no single-use plastic; train instead of plane; recycling not enough — reduce."
+          },
+          "id": "b2-u11-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "carbon footprint",
+            "solar panels",
+            "single-use plastic",
+            "by train",
+            "reduce"
+          ],
+          "reuse": false,
+          "sentences": [
+            "They wanted to reduce their ___.",
+            "They installed ___.",
+            "They stopped buying ___.",
+            "They travel ___.",
+            "Ivan says the best thing is to ___."
+          ],
+          "answers": [
+            "carbon footprint",
+            "solar panels",
+            "single-use plastic",
+            "by train",
+            "reduce"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b2-u11-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "instead of",
+              "right": {
+                "ua": "замість",
+                "ru": "вместо"
+              }
+            },
+            {
+              "left": "most of",
+              "right": {
+                "ua": "більша частина",
+                "ru": "большая часть"
+              }
+            },
+            {
+              "left": "decide to",
+              "right": {
+                "ua": "вирішити",
+                "ru": "решить"
+              }
+            },
+            {
+              "left": "enough",
+              "right": {
+                "ua": "достатньо",
+                "ru": "достаточно"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Слова з тексту.",
+            "ru": "Слова из текста."
+          },
+          "id": "b2-u11-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "They travel by train ___ flying.",
+          "options": [
+            "instead of",
+            "because of",
+            "in spite"
+          ],
+          "answer": "instead of",
+          "explain": {
+            "ua": "Instead of + -ing.",
+            "ru": "Instead of + -ing."
+          },
+          "id": "b2-u11-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund",
+          "sentence": "We travel by train instead of fly.",
+          "answer": "We travel by train instead of flying.",
+          "accept": [],
+          "explain": {
+            "ua": "Instead of + -ing.",
+            "ru": "Instead of + -ing."
+          },
+          "id": "b2-u11-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Most of electricity comes from sun.",
+          "answer": "Most of our electricity comes from the sun.",
+          "accept": [
+            "Most electricity comes from the sun."
+          ],
+          "explain": {
+            "ua": "Most of + our; the sun.",
+            "ru": "Most of + our; the sun."
+          },
+          "id": "b2-u11-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Recycling is good, but it isn't enough.",
+          "options": [
+            "Recycling is good, but it isn't enough.",
+            "Recycling is good, but it is enough.",
+            "Recycling is good, so it isn't enough."
+          ],
+          "answer": "Recycling is good, but it isn't enough.",
+          "audio": "",
+          "explain": {
+            "ua": "Isn't enough.",
+            "ru": "Isn't enough."
+          },
+          "id": "b2-u11-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми їздимо потягом замість літака.",
+            "ru": "Мы ездим на поезде вместо самолёта."
+          },
+          "answer": "We travel by train instead of flying.",
+          "accept": [
+            "We go by train instead of flying.",
+            "We take the train instead of flying.",
+            "We take the train instead of the plane."
+          ],
+          "explain": {
+            "ua": "Instead of.",
+            "ru": "Instead of."
+          },
+          "id": "b2-u11-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b2-u11-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u11-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: екологічна родина",
+          "ru": "Вспомним: В контексте: экологичная семья"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "gerund",
+            "question": "They travel by train ___ flying.",
+            "options": [
+              "instead of",
+              "because of",
+              "in spite"
+            ],
+            "answer": "instead of",
+            "explain": {
+              "ua": "Instead of + -ing.",
+              "ru": "Instead of + -ing."
+            },
+            "id": "b2-u11-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Most of electricity comes from sun.",
+            "answer": "Most of our electricity comes from the sun.",
+            "accept": [
+              "Most electricity comes from the sun."
+            ],
+            "explain": {
+              "ua": "Most of + our; the sun.",
+              "ru": "Most of + our; the sun."
+            },
+            "id": "b2-u11-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "global warming",
+              "right": {
+                "ua": "глобальне потепління",
+                "ru": "глобальное потепление"
+              }
+            },
+            {
+              "left": "emissions",
+              "right": {
+                "ua": "викиди",
+                "ru": "выбросы"
+              }
+            },
+            {
+              "left": "sustainable",
+              "right": {
+                "ua": "екологічний",
+                "ru": "экологичный"
+              }
+            },
+            {
+              "left": "waste",
+              "right": {
+                "ua": "відходи",
+                "ru": "отходы"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b2-u11-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a solution?",
+          "options": [
+            "renewable energy",
+            "deforestation",
+            "pollution"
+          ],
+          "answer": "renewable energy",
+          "explain": {
+            "ua": "Рішення.",
+            "ru": "Решение."
+          },
+          "id": "b2-u11-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a problem?",
+          "options": [
+            "drought",
+            "recycling",
+            "solar panel"
+          ],
+          "answer": "drought",
+          "explain": {
+            "ua": "Проблема.",
+            "ru": "Проблема."
+          },
+          "id": "b2-u11-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Energy from the sun, wind or water.",
+          "answer": "renewable energy",
+          "accept": [
+            "green energy",
+            "clean energy",
+            "renewables"
+          ],
+          "explain": {
+            "ua": "Renewable energy.",
+            "ru": "Renewable energy."
+          },
+          "id": "b2-u11-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Plastic you use only once, like a straw.",
+          "answer": "single-use plastic",
+          "accept": [
+            "single-use"
+          ],
+          "explain": {
+            "ua": "Single-use plastic.",
+            "ru": "Single-use plastic."
+          },
+          "id": "b2-u11-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "sun",
+          "answer": "solar panel",
+          "accept": [
+            "solar",
+            "solar energy"
+          ],
+          "explain": {
+            "ua": "Сонце → сонячна панель.",
+            "ru": "Солнце → солнечная панель."
+          },
+          "id": "b2-u11-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The global warming is the big problem.",
+          "answer": "Global warming is a big problem.",
+          "accept": [],
+          "explain": {
+            "ua": "Без the перед global warming; a big problem.",
+            "ru": "Без the перед global warming; a big problem."
+          },
+          "id": "b2-u11-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "We must reduce our emissions.",
+          "options": [
+            "We must reduce our emissions.",
+            "We must reduce our missions.",
+            "We must produce our emissions."
+          ],
+          "answer": "We must reduce our emissions.",
+          "audio": "",
+          "explain": {
+            "ua": "Emissions.",
+            "ru": "Emissions."
+          },
+          "id": "b2-u11-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Панди й тигри — зникаючі види.",
+            "ru": "Панды и тигры — исчезающие виды."
+          },
+          "answer": "Pandas and tigers are endangered species.",
+          "accept": [
+            "Pandas and tigers are endangered."
+          ],
+          "explain": {
+            "ua": "Endangered species.",
+            "ru": "Endangered species."
+          },
+          "id": "b2-u11-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Factories ___ the air.",
+      "options": [
+        "pollute",
+        "pollution",
+        "recycle"
+      ],
+      "answer": "pollute",
+      "explain": {
+        "ua": "Pollute.",
+        "ru": "Pollute."
+      },
+      "id": "b2-u11-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We ___ glass and paper.",
+      "options": [
+        "recycle",
+        "pollute",
+        "destroy"
+      ],
+      "answer": "recycle",
+      "explain": {
+        "ua": "Recycle.",
+        "ru": "Recycle."
+      },
+      "id": "b2-u11-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "No rain for months — it's a ___ .",
+      "options": [
+        "drought",
+        "flood",
+        "storm"
+      ],
+      "answer": "drought",
+      "explain": {
+        "ua": "Drought.",
+        "ru": "Drought."
+      },
+      "id": "b2-u11-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Animals that could disappear soon.",
+      "answer": "endangered species",
+      "accept": [
+        "endangered animals"
+      ],
+      "explain": {
+        "ua": "Endangered species.",
+        "ru": "Endangered species."
+      },
+      "id": "b2-u11-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The amount of CO2 your lifestyle produces.",
+      "answer": "carbon footprint",
+      "accept": [
+        "footprint"
+      ],
+      "explain": {
+        "ua": "Carbon footprint.",
+        "ru": "Carbon footprint."
+      },
+      "id": "b2-u11-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Wind power is a ___ energy source. (renew)",
+      "answer": "renewable",
+      "accept": [],
+      "explain": {
+        "ua": "Renewable.",
+        "ru": "Renewable."
+      },
+      "id": "b2-u11-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "flood",
+          "right": {
+            "ua": "повінь",
+            "ru": "наводнение"
+          }
+        },
+        {
+          "left": "reuse",
+          "right": {
+            "ua": "використати повторно",
+            "ru": "использовать повторно"
+          }
+        },
+        {
+          "left": "pollution",
+          "right": {
+            "ua": "забруднення",
+            "ru": "загрязнение"
+          }
+        },
+        {
+          "left": "climate change",
+          "right": {
+            "ua": "зміна клімату",
+            "ru": "изменение климата"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b2-u11-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "The pollute is terrible here.",
+      "answer": "The pollution is terrible here.",
+      "accept": [],
+      "explain": {
+        "ua": "Іменник.",
+        "ru": "Существительное."
+      },
+      "id": "b2-u11-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Tigers are a dangerous species.",
+      "answer": "Tigers are an endangered species.",
+      "accept": [],
+      "explain": {
+        "ua": "Endangered.",
+        "ru": "Endangered."
+      },
+      "id": "b2-u11-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "environment",
+        "We",
+        "the",
+        "protect",
+        "must"
+      ],
+      "answer": "We must protect the environment",
+      "explain": {
+        "ua": "We must → protect → the environment.",
+        "ru": "We must → protect → the environment."
+      },
+      "id": "b2-u11-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Уникай одноразового пластику.",
+        "ru": "Избегай одноразового пластика."
+      },
+      "answer": "Avoid single-use plastic.",
+      "accept": [],
+      "explain": {
+        "ua": "Single-use plastic.",
+        "ru": "Single-use plastic."
+      },
+      "id": "b2-u11-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Deforestation is destroying forests.",
+      "options": [
+        "Deforestation is destroying forests.",
+        "Deforestation is destroying forest.",
+        "Reforestation is destroying forests."
+      ],
+      "answer": "Deforestation is destroying forests.",
+      "audio": "",
+      "explain": {
+        "ua": "Deforestation.",
+        "ru": "Deforestation."
+      },
+      "id": "b2-u11-cp12"
+    }
+  ]
+}

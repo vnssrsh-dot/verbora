@@ -1,0 +1,1470 @@
+{
+  "id": "a1-u02",
+  "level": "A1",
+  "order": 2,
+  "kind": "grammar",
+  "title": {
+    "en": "To be: questions and negatives",
+    "ua": "To be: питання і заперечення",
+    "ru": "To be: вопросы и отрицания"
+  },
+  "rule": {
+    "formula": "I'm not · isn't · aren't · Am I…? Is he…? Are you…?",
+    "explain": {
+      "ua": "Щоб заперечити, додаємо not після am / is / are. Щоб запитати — ставимо am / is / are на початок речення.",
+      "ru": "Чтобы отрицать, добавляем not после am / is / are. Чтобы спросить — ставим am / is / are в начало предложения."
+    },
+    "examples": [
+      {
+        "en": "I am not tired.",
+        "ua": "Я не втомлений.",
+        "ru": "Я не устал."
+      },
+      {
+        "en": "She isn't at home.",
+        "ua": "Її немає вдома.",
+        "ru": "Её нет дома."
+      },
+      {
+        "en": "Are you a student?",
+        "ua": "Ти студент?",
+        "ru": "Ты студент?"
+      }
+    ],
+    "compare": {
+      "ua": "В українській питання часто відрізняє лише інтонація: «Ти студент?». В англійській міняємо порядок слів: Are you a student?",
+      "ru": "В русском вопрос часто отличает только интонация: «Ты студент?». В английском меняем порядок слов: Are you a student?"
+    }
+  },
+  "vocab": [
+    {
+      "word": "teacher",
+      "ipa": "/ˈtiːtʃə/",
+      "ua": "вчитель",
+      "ru": "учитель",
+      "example": "Are you a teacher?",
+      "audio": ""
+    },
+    {
+      "word": "cold",
+      "ipa": "/kəʊld/",
+      "ua": "холодний; мені холодно",
+      "ru": "холодный; мне холодно",
+      "example": "I'm not cold.",
+      "audio": ""
+    },
+    {
+      "word": "hot",
+      "ipa": "/hɒt/",
+      "ua": "гарячий; мені спекотно",
+      "ru": "горячий; мне жарко",
+      "example": "It isn't hot today.",
+      "audio": ""
+    },
+    {
+      "word": "late",
+      "ipa": "/leɪt/",
+      "ua": "пізно; запізнюватися",
+      "ru": "поздно; опаздывать",
+      "example": "Am I late?",
+      "audio": ""
+    },
+    {
+      "word": "sick",
+      "ipa": "/sɪk/",
+      "ua": "хворий",
+      "ru": "больной",
+      "example": "He isn't sick.",
+      "audio": ""
+    },
+    {
+      "word": "married",
+      "ipa": "/ˈmærid/",
+      "ua": "одружений, заміжня",
+      "ru": "женат, замужем",
+      "example": "Are you married?",
+      "audio": ""
+    },
+    {
+      "word": "right",
+      "ipa": "/raɪt/",
+      "ua": "правий; правильно",
+      "ru": "прав; правильно",
+      "example": "You are right.",
+      "audio": ""
+    },
+    {
+      "word": "wrong",
+      "ipa": "/rɒŋ/",
+      "ua": "неправий; неправильно",
+      "ru": "неправ; неправильно",
+      "example": "It isn't wrong.",
+      "audio": ""
+    },
+    {
+      "word": "here",
+      "ipa": "/hɪə/",
+      "ua": "тут",
+      "ru": "здесь",
+      "example": "Is Max here?",
+      "audio": ""
+    },
+    {
+      "word": "open",
+      "ipa": "/ˈəʊpən/",
+      "ua": "відчинений",
+      "ru": "открытый",
+      "example": "Is the shop open?",
+      "audio": ""
+    },
+    {
+      "word": "closed",
+      "ipa": "/kləʊzd/",
+      "ua": "зачинений",
+      "ru": "закрытый",
+      "example": "The shop isn't closed.",
+      "audio": ""
+    },
+    {
+      "word": "today",
+      "ipa": "/təˈdeɪ/",
+      "ua": "сьогодні",
+      "ru": "сегодня",
+      "example": "Are you busy today?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u02-l01",
+      "title": {
+        "en": "I'm not",
+        "ua": "I'm not",
+        "ru": "I'm not"
+      },
+      "recap": {
+        "from": "a1-u01-l04",
+        "note": {
+          "ua": "Згадаймо: I'm · he's · she's · it's · we're · you're · they're",
+          "ru": "Вспомним: I'm · he's · she's · it's · we're · you're · they're"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-short-forms",
+            "question": "I am tired. = ___ tired.",
+            "options": [
+              "I'm",
+              "Im",
+              "I's"
+            ],
+            "answer": "I'm",
+            "explain": {
+              "ua": "I am → I'm, з апострофом.",
+              "ru": "I am → I'm, с апострофом."
+            },
+            "id": "a1-u02-l01-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "to-be-short-forms",
+            "question": "___ from Odesa.",
+            "answer": "I'm",
+            "hint": "I am",
+            "accept": [],
+            "explain": {
+              "ua": "I am → I'm.",
+              "ru": "I am → I'm."
+            },
+            "id": "a1-u02-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I am not = I'm not",
+        "explain": {
+          "ua": "Заперечення з I: am + not. Скорочується тільки так: I'm not (форми «I amn't» немає).",
+          "ru": "Отрицание с I: am + not. Сокращается только так: I'm not (формы «I amn't» нет)."
+        },
+        "examples": [
+          {
+            "en": "I'm not tired.",
+            "ua": "Я не втомлений.",
+            "ru": "Я не устал."
+          },
+          {
+            "en": "I am not from Kyiv.",
+            "ua": "Я не з Києва.",
+            "ru": "Я не из Киева."
+          },
+          {
+            "en": "I'm not a doctor.",
+            "ua": "Я не лікар.",
+            "ru": "Я не врач."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "I ___ tired.",
+          "options": [
+            "am not",
+            "not am",
+            "is not"
+          ],
+          "answer": "am not",
+          "explain": {
+            "ua": "Not стоїть після am: I am not.",
+            "ru": "Not стоит после am: I am not."
+          },
+          "id": "a1-u02-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "I am not = ___",
+          "options": [
+            "I'm not",
+            "I amn't",
+            "I'm no"
+          ],
+          "answer": "I'm not",
+          "explain": {
+            "ua": "Правильне скорочення лише I'm not.",
+            "ru": "Правильное сокращение только I'm not."
+          },
+          "id": "a1-u02-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "I'm ___ a teacher.",
+          "options": [
+            "not",
+            "no",
+            "don't"
+          ],
+          "answer": "not",
+          "explain": {
+            "ua": "Із to be заперечення — not.",
+            "ru": "С to be отрицание — not."
+          },
+          "id": "a1-u02-l01-e03"
+        },
+        {
+          "type": "fill",
+          "topic": "to-be-questions-negatives",
+          "question": "I ___ not cold.",
+          "answer": "am",
+          "accept": [
+            "'m"
+          ],
+          "explain": {
+            "ua": "I → am not.",
+            "ru": "I → am not."
+          },
+          "id": "a1-u02-l01-e04"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "I",
+            "late",
+            "not",
+            "am"
+          ],
+          "answer": "I am not late",
+          "explain": {
+            "ua": "Хто → am → not → решта.",
+            "ru": "Кто → am → not → остальное."
+          },
+          "id": "a1-u02-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-questions-negatives",
+          "sentence": "I not am sick.",
+          "answer": "I am not sick.",
+          "accept": [
+            "I'm not sick."
+          ],
+          "explain": {
+            "ua": "Порядок: I am not, а не I not am.",
+            "ru": "Порядок: I am not, а не I not am."
+          },
+          "id": "a1-u02-l01-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "to-be-questions-negatives",
+          "audio_text": "I'm not hot.",
+          "options": [
+            "I'm not hot.",
+            "I'm hot.",
+            "I'm not here."
+          ],
+          "answer": "I'm not hot.",
+          "audio": "",
+          "explain": {
+            "ua": "Прислухайся до not.",
+            "ru": "Прислушайся к not."
+          },
+          "id": "a1-u02-l01-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "to-be-questions-negatives",
+          "prompt": {
+            "ua": "Я не одружений.",
+            "ru": "Я не женат."
+          },
+          "answer": "I am not married.",
+          "accept": [
+            "I'm not married."
+          ],
+          "explain": {
+            "ua": "I → am not. Married — і про чоловіків, і про жінок.",
+            "ru": "I → am not. Married — и о мужчинах, и о женщинах."
+          },
+          "id": "a1-u02-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/leɪt/",
+          "options": [
+            "late",
+            "let",
+            "light"
+          ],
+          "answer": "late",
+          "explain": {
+            "ua": "/eɪ/ — як «ей».",
+            "ru": "/eɪ/ — как «эй»."
+          },
+          "id": "a1-u02-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u02-l02",
+      "title": {
+        "en": "isn't, aren't",
+        "ua": "isn't, aren't",
+        "ru": "isn't, aren't"
+      },
+      "recap": {
+        "from": "a1-u02-l01",
+        "note": {
+          "ua": "Згадаймо: I am not = I'm not",
+          "ru": "Вспомним: I am not = I'm not"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-questions-negatives",
+            "question": "I ___ tired.",
+            "options": [
+              "am not",
+              "not am",
+              "is not"
+            ],
+            "answer": "am not",
+            "explain": {
+              "ua": "Not стоїть після am: I am not.",
+              "ru": "Not стоит после am: I am not."
+            },
+            "id": "a1-u02-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "to-be-questions-negatives",
+            "question": "I ___ not cold.",
+            "answer": "am",
+            "accept": [
+              "'m"
+            ],
+            "explain": {
+              "ua": "I → am not.",
+              "ru": "I → am not."
+            },
+            "id": "a1-u02-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "is not = isn't · are not = aren't",
+        "explain": {
+          "ua": "He / she / it → isn't. We / you / they → aren't. Скорочення — звичайна розмовна форма.",
+          "ru": "He / she / it → isn't. We / you / they → aren't. Сокращение — обычная разговорная форма."
+        },
+        "examples": [
+          {
+            "en": "She isn't at home.",
+            "ua": "Її немає вдома.",
+            "ru": "Её нет дома."
+          },
+          {
+            "en": "It isn't cold.",
+            "ua": "Не холодно.",
+            "ru": "Не холодно."
+          },
+          {
+            "en": "They aren't busy.",
+            "ua": "Вони не зайняті.",
+            "ru": "Они не заняты."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "She ___ here.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "She → isn't.",
+            "ru": "She → isn't."
+          },
+          "id": "a1-u02-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "They ___ late.",
+          "options": [
+            "isn't",
+            "aren't",
+            "not"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "They → aren't.",
+            "ru": "They → aren't."
+          },
+          "id": "a1-u02-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "The shop ___ open.",
+          "options": [
+            "isn't",
+            "aren't",
+            "not is"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "The shop = it → isn't.",
+            "ru": "The shop = it → isn't."
+          },
+          "id": "a1-u02-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "We ___ hungry.",
+          "options": [
+            "aren't",
+            "isn't",
+            "amn't"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "We → aren't.",
+            "ru": "We → aren't."
+          },
+          "id": "a1-u02-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "to-be-negative",
+          "pairs": [
+            {
+              "left": "he is not",
+              "right": "he isn't"
+            },
+            {
+              "left": "you are not",
+              "right": "you aren't"
+            },
+            {
+              "left": "I am not",
+              "right": "I'm not"
+            },
+            {
+              "left": "it is not",
+              "right": "it isn't"
+            }
+          ],
+          "explain": {
+            "ua": "Not → n't, крім I'm not.",
+            "ru": "Not → n't, кроме I'm not."
+          },
+          "id": "a1-u02-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "to-be-questions-negatives",
+          "question": "Max ___ sick.",
+          "answer": "isn't",
+          "accept": [
+            "is not"
+          ],
+          "explain": {
+            "ua": "Max = he → isn't.",
+            "ru": "Max = he → isn't."
+          },
+          "id": "a1-u02-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-questions-negatives",
+          "sentence": "You isn't wrong.",
+          "answer": "You aren't wrong.",
+          "accept": [
+            "You are not wrong."
+          ],
+          "explain": {
+            "ua": "You → aren't.",
+            "ru": "You → aren't."
+          },
+          "id": "a1-u02-l02-e07"
+        },
+        {
+          "type": "wordbank",
+          "topic": "to-be-questions-negatives",
+          "bank": [
+            "isn't",
+            "aren't",
+            "'m not"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ cold.",
+            "The dogs ___ big.",
+            "It ___ hot."
+          ],
+          "answers": [
+            "'m not",
+            "aren't",
+            "isn't"
+          ],
+          "explain": {
+            "ua": "I'm not · they → aren't · it → isn't.",
+            "ru": "I'm not · they → aren't · it → isn't."
+          },
+          "id": "a1-u02-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "to-be-questions-negatives",
+          "prompt": {
+            "ua": "Сьогодні не холодно.",
+            "ru": "Сегодня не холодно."
+          },
+          "answer": "It isn't cold today.",
+          "accept": [
+            "It is not cold today.",
+            "Today it isn't cold."
+          ],
+          "explain": {
+            "ua": "Про погоду кажемо it: It isn't cold.",
+            "ru": "О погоде говорим it: It isn't cold."
+          },
+          "id": "a1-u02-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u02-l03",
+      "title": {
+        "en": "Questions: Are you…?",
+        "ua": "Питання: Are you…?",
+        "ru": "Вопросы: Are you…?"
+      },
+      "recap": {
+        "from": "a1-u02-l02",
+        "note": {
+          "ua": "Згадаймо: is not = isn't · are not = aren't",
+          "ru": "Вспомним: is not = isn't · are not = aren't"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-questions-negatives",
+            "question": "She ___ here.",
+            "options": [
+              "isn't",
+              "aren't",
+              "am not"
+            ],
+            "answer": "isn't",
+            "explain": {
+              "ua": "She → isn't.",
+              "ru": "She → isn't."
+            },
+            "id": "a1-u02-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "to-be-questions-negatives",
+            "question": "We ___ hungry.",
+            "options": [
+              "aren't",
+              "isn't",
+              "amn't"
+            ],
+            "answer": "aren't",
+            "explain": {
+              "ua": "We → aren't.",
+              "ru": "We → aren't."
+            },
+            "id": "a1-u02-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Am I…? · Is he / she / it…? · Are we / you / they…?",
+        "explain": {
+          "ua": "Am / is / are ставимо на початок, потім — хто. Наприкінці — знак питання.",
+          "ru": "Am / is / are ставим в начало, затем — кто. В конце — вопросительный знак."
+        },
+        "examples": [
+          {
+            "en": "Are you busy?",
+            "ua": "Ти зайнятий?",
+            "ru": "Ты занят?"
+          },
+          {
+            "en": "Is she a doctor?",
+            "ua": "Вона лікар?",
+            "ru": "Она врач?"
+          },
+          {
+            "en": "Am I late?",
+            "ua": "Я запізнився?",
+            "ru": "Я опоздал?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ you a student?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "You → Are you…?",
+            "ru": "You → Are you…?"
+          },
+          "id": "a1-u02-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ she at home?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "She → Is she…?",
+            "ru": "She → Is she…?"
+          },
+          "id": "a1-u02-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ I late?",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "answer": "Am",
+          "explain": {
+            "ua": "I → Am I…?",
+            "ru": "I → Am I…?"
+          },
+          "id": "a1-u02-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ the shop open?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "The shop = it → Is…?",
+            "ru": "The shop = it → Is…?"
+          },
+          "id": "a1-u02-l03-e04"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "Are",
+            "from",
+            "they",
+            "Poland"
+          ],
+          "answer": "Are they from Poland",
+          "explain": {
+            "ua": "Питання: are → хто → решта.",
+            "ru": "Вопрос: are → кто → остальное."
+          },
+          "id": "a1-u02-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-questions-negatives",
+          "sentence": "You are married?",
+          "answer": "Are you married?",
+          "accept": [],
+          "explain": {
+            "ua": "У питанні are іде першим.",
+            "ru": "В вопросе are идёт первым."
+          },
+          "id": "a1-u02-l03-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "to-be-questions-negatives",
+          "question": "___ Max here?",
+          "answer": "Is",
+          "accept": [],
+          "explain": {
+            "ua": "Max = he → Is Max here?",
+            "ru": "Max = he → Is Max here?"
+          },
+          "id": "a1-u02-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "to-be-questions-negatives",
+          "audio_text": "Is it cold?",
+          "options": [
+            "Is it cold?",
+            "It is cold.",
+            "Is it old?"
+          ],
+          "answer": "Is it cold?",
+          "audio": "",
+          "explain": {
+            "ua": "Питання починається з is.",
+            "ru": "Вопрос начинается с is."
+          },
+          "id": "a1-u02-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "to-be-questions-negatives",
+          "prompt": {
+            "ua": "Ви одружені?",
+            "ru": "Вы женаты?"
+          },
+          "answer": "Are you married?",
+          "accept": [],
+          "explain": {
+            "ua": "You → Are you…?",
+            "ru": "You → Are you…?"
+          },
+          "id": "a1-u02-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u02-l04",
+      "title": {
+        "en": "Short answers",
+        "ua": "Короткі відповіді",
+        "ru": "Короткие ответы"
+      },
+      "recap": {
+        "from": "a1-u02-l03",
+        "note": {
+          "ua": "Згадаймо: Am I…? · Is he / she / it…? · Are we / you / they…?",
+          "ru": "Вспомним: Am I…? · Is he / she / it…? · Are we / you / they…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-questions-negatives",
+            "question": "___ you a student?",
+            "options": [
+              "Are",
+              "Is",
+              "Am"
+            ],
+            "answer": "Are",
+            "explain": {
+              "ua": "You → Are you…?",
+              "ru": "You → Are you…?"
+            },
+            "id": "a1-u02-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "to-be-questions-negatives",
+            "question": "___ the shop open?",
+            "options": [
+              "Is",
+              "Are",
+              "Am"
+            ],
+            "answer": "Is",
+            "explain": {
+              "ua": "The shop = it → Is…?",
+              "ru": "The shop = it → Is…?"
+            },
+            "id": "a1-u02-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Yes, I am. · No, I'm not. · Yes, she is. · No, they aren't.",
+        "explain": {
+          "ua": "На питання з to be відповідаємо коротко: Yes / No + хто + am / is / are. У «так»-відповіді не скорочуємо: Yes, I am (не Yes, I'm).",
+          "ru": "На вопрос с to be отвечаем кратко: Yes / No + кто + am / is / are. В ответе «да» не сокращаем: Yes, I am (не Yes, I'm)."
+        },
+        "examples": [
+          {
+            "en": "Are you tired? — Yes, I am.",
+            "ua": "Ти втомлений? — Так.",
+            "ru": "Ты устал? — Да."
+          },
+          {
+            "en": "Is he here? — No, he isn't.",
+            "ua": "Він тут? — Ні.",
+            "ru": "Он здесь? — Нет."
+          },
+          {
+            "en": "Are they ready? — Yes, they are.",
+            "ua": "Вони готові? — Так.",
+            "ru": "Они готовы? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Are you busy? — Yes, I ___.",
+          "options": [
+            "am",
+            "'m",
+            "are"
+          ],
+          "answer": "am",
+          "explain": {
+            "ua": "У «так»-відповіді без скорочення: Yes, I am.",
+            "ru": "В ответе «да» без сокращения: Yes, I am."
+          },
+          "id": "a1-u02-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Is she a teacher? — No, she ___.",
+          "options": [
+            "isn't",
+            "aren't",
+            "not"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "She → isn't.",
+            "ru": "She → isn't."
+          },
+          "id": "a1-u02-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Are they at home? — Yes, they ___.",
+          "options": [
+            "are",
+            "is",
+            "they're"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "They → are. Без скорочення.",
+            "ru": "They → are. Без сокращения."
+          },
+          "id": "a1-u02-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Is it cold? — No, it ___.",
+          "options": [
+            "isn't",
+            "aren't",
+            "is"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "No + it isn't.",
+            "ru": "No + it isn't."
+          },
+          "id": "a1-u02-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-short-answers",
+          "question": "Are you married? — No, I'm ___.",
+          "options": [
+            "not",
+            "no",
+            "isn't"
+          ],
+          "answer": "not",
+          "explain": {
+            "ua": "No, I'm not.",
+            "ru": "No, I'm not."
+          },
+          "id": "a1-u02-l04-e05"
+        },
+        {
+          "type": "match",
+          "topic": "to-be-short-answers",
+          "pairs": [
+            {
+              "left": "Are you late?",
+              "right": "Yes, I am."
+            },
+            {
+              "left": "Is Max sick?",
+              "right": "No, he isn't."
+            },
+            {
+              "left": "Are we ready?",
+              "right": "Yes, we are."
+            },
+            {
+              "left": "Is the shop open?",
+              "right": "No, it isn't."
+            }
+          ],
+          "explain": {
+            "ua": "Відповідь повторює того, про кого питали.",
+            "ru": "Ответ повторяет того, о ком спросили."
+          },
+          "id": "a1-u02-l04-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "to-be-short-answers",
+          "question": "Is Anna here? — Yes, she ___.",
+          "answer": "is",
+          "accept": [],
+          "explain": {
+            "ua": "Anna = she → Yes, she is.",
+            "ru": "Anna = she → Yes, she is."
+          },
+          "id": "a1-u02-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-short-answers",
+          "sentence": "Are you hungry? — Yes, I'm.",
+          "answer": "Yes, I am.",
+          "accept": [],
+          "explain": {
+            "ua": "У кінці відповіді не скорочуємо: Yes, I am.",
+            "ru": "В конце ответа не сокращаем: Yes, I am."
+          },
+          "id": "a1-u02-l04-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "to-be-short-answers",
+          "audio_text": "No, we aren't.",
+          "options": [
+            "No, we aren't.",
+            "No, we are.",
+            "No, he isn't."
+          ],
+          "answer": "No, we aren't.",
+          "audio": "",
+          "explain": {
+            "ua": "Aren't — «а:нт».",
+            "ru": "Aren't — «а:нт»."
+          },
+          "id": "a1-u02-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u02-l05",
+      "title": {
+        "en": "Practice: getting to know",
+        "ua": "Практика: знайомство",
+        "ru": "Практика: знакомство"
+      },
+      "recap": {
+        "from": "a1-u02-l04",
+        "note": {
+          "ua": "Згадаймо: Yes, I am. · No, I'm not. · Yes, she is. · No, they aren't.",
+          "ru": "Вспомним: Yes, I am. · No, I'm not. · Yes, she is. · No, they aren't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "to-be-short-answers",
+            "question": "Are you busy? — Yes, I ___.",
+            "options": [
+              "am",
+              "'m",
+              "are"
+            ],
+            "answer": "am",
+            "explain": {
+              "ua": "У «так»-відповіді без скорочення: Yes, I am.",
+              "ru": "В ответе «да» без сокращения: Yes, I am."
+            },
+            "id": "a1-u02-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "to-be-short-answers",
+            "question": "Is it cold? — No, it ___.",
+            "options": [
+              "isn't",
+              "aren't",
+              "is"
+            ],
+            "answer": "isn't",
+            "explain": {
+              "ua": "No + it isn't.",
+              "ru": "No + it isn't."
+            },
+            "id": "a1-u02-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "___ you from Ukraine? — Yes, I am.",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "You → Are you…?",
+            "ru": "You → Are you…?"
+          },
+          "id": "a1-u02-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "to-be-questions-negatives",
+          "question": "He ___ married.",
+          "options": [
+            "isn't",
+            "aren't",
+            "am not"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "He → isn't.",
+            "ru": "He → isn't."
+          },
+          "id": "a1-u02-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Is Anna a teacher?",
+              "options": [
+                "Yes, she is.",
+                "No, she isn't."
+              ],
+              "answer": "No, she isn't."
+            },
+            {
+              "type": "truefalse",
+              "statement": "Anna is from Lviv.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Max is a student.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "Hi! Are you a teacher?"
+            },
+            {
+              "speaker": "Anna",
+              "line": "No, I'm not. I'm a doctor."
+            },
+            {
+              "speaker": "Max",
+              "line": "Are you from Kyiv?"
+            },
+            {
+              "speaker": "Anna",
+              "line": "No, I'm not. I'm from Lviv. And you? Are you a student?"
+            },
+            {
+              "speaker": "Max",
+              "line": "No, I'm not a student. I'm a teacher."
+            }
+          ],
+          "explain": {
+            "ua": "Anna — doctor, Max — teacher.",
+            "ru": "Anna — doctor, Max — teacher."
+          },
+          "id": "a1-u02-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "to-be-questions-negatives",
+          "bank": [
+            "am",
+            "is",
+            "are",
+            "isn't",
+            "aren't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ you tired?",
+            "No, I ___ not.",
+            "My dog ___ here.",
+            "They ___ wrong."
+          ],
+          "answers": [
+            "Are",
+            "am",
+            "isn't",
+            "aren't"
+          ],
+          "explain": {
+            "ua": "Питання — are на початку; I am not; dog → isn't; they → aren't.",
+            "ru": "Вопрос — are в начале; I am not; dog → isn't; they → aren't."
+          },
+          "id": "a1-u02-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "to-be-questions-negatives",
+          "sentence": "Is they at home?",
+          "answer": "Are they at home?",
+          "accept": [],
+          "explain": {
+            "ua": "They → Are they…?",
+            "ru": "They → Are they…?"
+          },
+          "id": "a1-u02-l05-e05"
+        },
+        {
+          "type": "translate",
+          "topic": "to-be-questions-negatives",
+          "prompt": {
+            "ua": "Він не вдома.",
+            "ru": "Его нет дома."
+          },
+          "answer": "He isn't at home.",
+          "accept": [
+            "He is not at home.",
+            "He's not at home."
+          ],
+          "explain": {
+            "ua": "«Його немає вдома» = He isn't at home.",
+            "ru": "«Его нет дома» = He isn't at home."
+          },
+          "id": "a1-u02-l05-e06"
+        },
+        {
+          "type": "translate",
+          "topic": "to-be-questions-negatives",
+          "prompt": {
+            "ua": "Ти зайнята сьогодні?",
+            "ru": "Ты занята сегодня?"
+          },
+          "answer": "Are you busy today?",
+          "accept": [
+            "Are you busy?"
+          ],
+          "explain": {
+            "ua": "Питання: Are you…?",
+            "ru": "Вопрос: Are you…?"
+          },
+          "id": "a1-u02-l05-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "the",
+            "shop",
+            "today",
+            "open",
+            "Is"
+          ],
+          "answer": "Is the shop open today",
+          "explain": {
+            "ua": "Is → the shop → open → today.",
+            "ru": "Is → the shop → open → today."
+          },
+          "id": "a1-u02-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "to-be-questions-negatives",
+          "audio_text": "Are you right?",
+          "options": [
+            "Are you right?",
+            "You are right.",
+            "Are you ready?"
+          ],
+          "answer": "Are you right?",
+          "audio": "",
+          "explain": {
+            "ua": "Питання — are спочатку.",
+            "ru": "Вопрос — are сначала."
+          },
+          "id": "a1-u02-l05-e09"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈmærid/",
+          "options": [
+            "married",
+            "merry",
+            "mirror"
+          ],
+          "answer": "married",
+          "explain": {
+            "ua": "/æ/ — широке «е», наголос на першому складі.",
+            "ru": "/æ/ — широкое «э», ударение на первом слоге."
+          },
+          "id": "a1-u02-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "to-be-questions-negatives",
+      "question": "She ___ a doctor.",
+      "options": [
+        "isn't",
+        "aren't",
+        "not"
+      ],
+      "answer": "isn't",
+      "explain": {
+        "ua": "She → isn't.",
+        "ru": "She → isn't."
+      },
+      "id": "a1-u02-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "to-be-questions-negatives",
+      "question": "___ you ready?",
+      "options": [
+        "Are",
+        "Is",
+        "Am"
+      ],
+      "answer": "Are",
+      "explain": {
+        "ua": "You → Are you…?",
+        "ru": "You → Are you…?"
+      },
+      "id": "a1-u02-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "to-be-questions-negatives",
+      "question": "Are you sick? — No, I'm ___.",
+      "options": [
+        "not",
+        "no",
+        "isn't"
+      ],
+      "answer": "not",
+      "explain": {
+        "ua": "No, I'm not.",
+        "ru": "No, I'm not."
+      },
+      "id": "a1-u02-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "to-be-questions-negatives",
+      "question": "Is he late? — Yes, he ___.",
+      "options": [
+        "is",
+        "'s",
+        "are"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "Yes, he is — без скорочення.",
+        "ru": "Yes, he is — без сокращения."
+      },
+      "id": "a1-u02-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "to-be-questions-negatives",
+      "question": "We ___ at home.",
+      "answer": "aren't",
+      "accept": [
+        "are not",
+        "'re not"
+      ],
+      "explain": {
+        "ua": "We → aren't.",
+        "ru": "We → aren't."
+      },
+      "id": "a1-u02-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "to-be-questions-negatives",
+      "question": "___ the dog hungry?",
+      "answer": "Is",
+      "accept": [],
+      "explain": {
+        "ua": "The dog = it → Is…?",
+        "ru": "The dog = it → Is…?"
+      },
+      "id": "a1-u02-cp06"
+    },
+    {
+      "type": "fix",
+      "topic": "to-be-questions-negatives",
+      "sentence": "I amn't busy.",
+      "answer": "I'm not busy.",
+      "accept": [
+        "I am not busy."
+      ],
+      "explain": {
+        "ua": "Тільки I'm not.",
+        "ru": "Только I'm not."
+      },
+      "id": "a1-u02-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "to-be-questions-negatives",
+      "sentence": "You are from Odesa?",
+      "answer": "Are you from Odesa?",
+      "accept": [],
+      "explain": {
+        "ua": "У питанні are першим.",
+        "ru": "В вопросе are первым."
+      },
+      "id": "a1-u02-cp08"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Is",
+        "married",
+        "friend",
+        "your"
+      ],
+      "answer": "Is your friend married",
+      "explain": {
+        "ua": "Is → your friend → married.",
+        "ru": "Is → your friend → married."
+      },
+      "id": "a1-u02-cp09"
+    },
+    {
+      "type": "translate",
+      "topic": "to-be-questions-negatives",
+      "prompt": {
+        "ua": "Вони не неправі.",
+        "ru": "Они не неправы."
+      },
+      "answer": "They aren't wrong.",
+      "accept": [
+        "They are not wrong.",
+        "They're not wrong."
+      ],
+      "explain": {
+        "ua": "They → aren't.",
+        "ru": "They → aren't."
+      },
+      "id": "a1-u02-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "to-be-questions-negatives",
+      "prompt": {
+        "ua": "Я запізнилась?",
+        "ru": "Я опоздала?"
+      },
+      "answer": "Am I late?",
+      "accept": [],
+      "explain": {
+        "ua": "I → Am I…?",
+        "ru": "I → Am I…?"
+      },
+      "id": "a1-u02-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "to-be-questions-negatives",
+      "audio_text": "Is it closed?",
+      "options": [
+        "Is it closed?",
+        "It is closed.",
+        "Is it cold?"
+      ],
+      "answer": "Is it closed?",
+      "audio": "",
+      "explain": {
+        "ua": "Is на початку — це питання.",
+        "ru": "Is в начале — это вопрос."
+      },
+      "id": "a1-u02-cp12"
+    }
+  ]
+}

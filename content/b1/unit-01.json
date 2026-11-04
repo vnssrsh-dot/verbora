@@ -1,0 +1,1743 @@
+{
+  "id": "b1-u01",
+  "level": "B1",
+  "order": 1,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Perfect or Past Simple",
+    "ua": "Present Perfect чи Past Simple",
+    "ru": "Present Perfect или Past Simple"
+  },
+  "rule": {
+    "formula": {
+      "ua": "коли — неважливо / зв'язок із зараз → Present Perfect · конкретний час у минулому → Past Simple",
+      "ru": "когда — неважно / связь с сейчас → Present Perfect · конкретное время в прошлом → Past Simple"
+    },
+    "explain": {
+      "ua": "Present Perfect — досвід, результат зараз, період, що ще триває (today, this week, ever, for, since). Past Simple — закінчений момент у минулому (yesterday, in 2019, last week, ago, when…?).",
+      "ru": "Present Perfect — опыт, результат сейчас, период, который ещё длится (today, this week, ever, for, since). Past Simple — законченный момент в прошлом (yesterday, in 2019, last week, ago, when…?)."
+    },
+    "examples": [
+      {
+        "en": "I've been to Italy. I went there in 2019.",
+        "ua": "Я бував в Італії. Я їздив туди у 2019-му.",
+        "ru": "Я был в Италии. Я ездил туда в 2019-м."
+      },
+      {
+        "en": "She has lost her keys.",
+        "ua": "Вона загубила ключі (і їх досі немає).",
+        "ru": "Она потеряла ключи (и их до сих пор нет)."
+      },
+      {
+        "en": "I've lived here for five years.",
+        "ua": "Я живу тут уже п'ять років.",
+        "ru": "Я живу здесь уже пять лет."
+      }
+    ],
+    "compare": {
+      "ua": "Найчастіша помилка: «I have seen him yesterday». Є слово yesterday — тільки Past Simple: I saw him yesterday.",
+      "ru": "Самая частая ошибка: «I have seen him yesterday». Есть слово yesterday — только Past Simple: I saw him yesterday."
+    }
+  },
+  "vocab": [
+    {
+      "word": "recently",
+      "ipa": "/ˈriːsntli/",
+      "ua": "нещодавно",
+      "ru": "недавно",
+      "example": "I've recently moved.",
+      "audio": ""
+    },
+    {
+      "word": "so far",
+      "ipa": "/ˌsəʊ ˈfɑː/",
+      "ua": "поки що, досі",
+      "ru": "пока что, до сих пор",
+      "example": "So far, so good.",
+      "audio": ""
+    },
+    {
+      "word": "lately",
+      "ipa": "/ˈleɪtli/",
+      "ua": "останнім часом",
+      "ru": "в последнее время",
+      "example": "I've been busy lately.",
+      "audio": ""
+    },
+    {
+      "word": "ago",
+      "ipa": "/əˈɡəʊ/",
+      "ua": "тому",
+      "ru": "назад",
+      "example": "two years ago",
+      "audio": ""
+    },
+    {
+      "word": "since",
+      "ipa": "/sɪns/",
+      "ua": "з (якогось моменту)",
+      "ru": "с (какого-то момента)",
+      "example": "since 2020",
+      "audio": ""
+    },
+    {
+      "word": "for",
+      "ipa": "/fɔː/",
+      "ua": "протягом",
+      "ru": "в течение",
+      "example": "for ten years",
+      "audio": ""
+    },
+    {
+      "word": "move",
+      "ipa": "/muːv/",
+      "ua": "переїжджати",
+      "ru": "переезжать",
+      "example": "We moved in May.",
+      "audio": ""
+    },
+    {
+      "word": "change jobs",
+      "ipa": "/ˌtʃeɪndʒ ˈdʒɒbz/",
+      "ua": "змінити роботу",
+      "ru": "сменить работу",
+      "example": "He's changed jobs twice.",
+      "audio": ""
+    },
+    {
+      "word": "graduate",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "ua": "закінчити (виш)",
+      "ru": "окончить (вуз)",
+      "example": "She graduated in 2015.",
+      "audio": ""
+    },
+    {
+      "word": "news",
+      "ipa": "/njuːz/",
+      "ua": "новини",
+      "ru": "новости",
+      "example": "Have you heard the news?",
+      "audio": ""
+    },
+    {
+      "word": "just",
+      "ipa": "/dʒʌst/",
+      "ua": "щойно",
+      "ru": "только что",
+      "example": "They've just arrived.",
+      "audio": ""
+    },
+    {
+      "word": "How long…?",
+      "ipa": "/ˌhaʊ ˈlɒŋ/",
+      "ua": "Як довго…?",
+      "ru": "Как долго…?",
+      "example": "How long have you known her?",
+      "audio": ""
+    },
+    {
+      "word": "know",
+      "ipa": "/nəʊ/",
+      "ua": "знати (когось)",
+      "ru": "знать (кого-то)",
+      "example": "I've known him for years.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u01-l01",
+      "title": {
+        "en": "Experience or a finished time",
+        "ua": "Досвід чи конкретний час",
+        "ru": "Опыт или конкретное время"
+      },
+      "recap": {
+        "from": "a2-u23-l03",
+        "note": {
+          "ua": "Згадаймо: Заняття на відпочинку",
+          "ru": "Вспомним: Занятия на отдыхе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We went ___ in the mountains.",
+            "options": [
+              "hiking",
+              "sunbathing",
+              "sightseeing"
+            ],
+            "answer": "hiking",
+            "explain": {
+              "ua": "Гори → hiking.",
+              "ru": "Горы → hiking."
+            },
+            "id": "b1-u01-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I bought a lot of ___ for my friends.",
+            "options": [
+              "souvenirs",
+              "guides",
+              "tents"
+            ],
+            "answer": "souvenirs",
+            "explain": {
+              "ua": "Souvenirs.",
+              "ru": "Souvenirs."
+            },
+            "id": "b1-u01-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "ever / never / three times → PP · yesterday / in 2019 / when? → PS",
+          "ru": "ever / never / three times → PP · yesterday / in 2019 / when? → PS"
+        },
+        "explain": {
+          "ua": "Питаємо про досвід — Present Perfect. Розповідаємо, коли саме це було, — Past Simple. Розмова часто починається з PP і переходить у PS.",
+          "ru": "Спрашиваем об опыте — Present Perfect. Рассказываем, когда именно это было, — Past Simple. Разговор часто начинается с PP и переходит в PS."
+        },
+        "examples": [
+          {
+            "en": "Have you ever been to Paris? — Yes, I went there last year.",
+            "ua": "Ти бував у Парижі? — Так, їздив торік.",
+            "ru": "Ты был в Париже? — Да, ездил в прошлом году."
+          },
+          {
+            "en": "I've met him twice.",
+            "ua": "Я двічі з ним зустрічався.",
+            "ru": "Я дважды с ним встречался."
+          },
+          {
+            "en": "When did you meet him?",
+            "ua": "Коли ти з ним познайомився?",
+            "ru": "Когда ты с ним познакомился?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ to London three times.",
+          "options": [
+            "have been",
+            "went",
+            "was"
+          ],
+          "answer": "have been",
+          "explain": {
+            "ua": "Досвід, скільки разів → PP.",
+            "ru": "Опыт, сколько раз → PP."
+          },
+          "id": "b1-u01-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ to London in 2018.",
+          "options": [
+            "went",
+            "have been",
+            "have gone"
+          ],
+          "answer": "went",
+          "explain": {
+            "ua": "In 2018 → PS.",
+            "ru": "In 2018 → PS."
+          },
+          "id": "b1-u01-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "Have you ever tried Thai food? — Yes, I ___ it in Bangkok.",
+          "options": [
+            "tried",
+            "have tried",
+            "try"
+          ],
+          "answer": "tried",
+          "explain": {
+            "ua": "Розповідь про конкретний раз → PS.",
+            "ru": "Рассказ о конкретном разе → PS."
+          },
+          "id": "b1-u01-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "When ___ you start learning English?",
+          "options": [
+            "did",
+            "have",
+            "do"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "When…? → PS.",
+            "ru": "When…? → PS."
+          },
+          "id": "b1-u01-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "She ___ never seen the sea.",
+          "options": [
+            "has",
+            "did",
+            "was"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "Never + досвід → PP.",
+            "ru": "Never + опыт → PP."
+          },
+          "id": "b1-u01-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "pp-vs-ps",
+          "pairs": [
+            {
+              "left": "yesterday",
+              "right": "Past Simple"
+            },
+            {
+              "left": "ever",
+              "right": "Present Perfect"
+            },
+            {
+              "left": "two days ago",
+              "right": "Past Simple"
+            },
+            {
+              "left": "never",
+              "right": "Present Perfect"
+            }
+          ],
+          "explain": {
+            "ua": "Маркер → час.",
+            "ru": "Маркер → время."
+          },
+          "id": "b1-u01-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "I have seen him yesterday.",
+          "answer": "I saw him yesterday.",
+          "accept": [],
+          "explain": {
+            "ua": "Yesterday → тільки PS.",
+            "ru": "Yesterday → только PS."
+          },
+          "id": "b1-u01-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "When have you arrived?",
+          "answer": "When did you arrive?",
+          "accept": [],
+          "explain": {
+            "ua": "When → PS.",
+            "ru": "When → PS."
+          },
+          "id": "b1-u01-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ps",
+          "prompt": {
+            "ua": "Я ніколи не бачила снігу в Одесі.",
+            "ru": "Я никогда не видела снега в Одессе."
+          },
+          "answer": "I've never seen snow in Odesa.",
+          "accept": [
+            "I have never seen snow in Odesa."
+          ],
+          "explain": {
+            "ua": "Never → PP.",
+            "ru": "Never → PP."
+          },
+          "id": "b1-u01-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u01-l02",
+      "title": {
+        "en": "Time words",
+        "ua": "Слова-маркери",
+        "ru": "Слова-маркеры"
+      },
+      "recap": {
+        "from": "b1-u01-l01",
+        "note": {
+          "ua": "Згадаймо: ever / never / three times → PP · yesterday / in 2019 / when? → PS",
+          "ru": "Вспомним: ever / never / three times → PP · yesterday / in 2019 / when? → PS"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ps",
+            "question": "I ___ to London three times.",
+            "options": [
+              "have been",
+              "went",
+              "was"
+            ],
+            "answer": "have been",
+            "explain": {
+              "ua": "Досвід, скільки разів → PP.",
+              "ru": "Опыт, сколько раз → PP."
+            },
+            "id": "b1-u01-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ps",
+            "question": "She ___ never seen the sea.",
+            "options": [
+              "has",
+              "did",
+              "was"
+            ],
+            "answer": "has",
+            "explain": {
+              "ua": "Never + досвід → PP.",
+              "ru": "Never + опыт → PP."
+            },
+            "id": "b1-u01-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "PP: today, this week, recently, lately, so far, just, already, yet · PS: yesterday, last…, ago, in 2020",
+          "ru": "PP: today, this week, recently, lately, so far, just, already, yet · PS: yesterday, last…, ago, in 2020"
+        },
+        "explain": {
+          "ua": "Період ще не закінчився (today, this month) → PP. Період закінчився (yesterday, last month) → PS. Але: this morning о 18:00 — вже минуле → PS.",
+          "ru": "Период ещё не закончился (today, this month) → PP. Период закончился (yesterday, last month) → PS. Но: this morning в 18:00 — уже прошлое → PS."
+        },
+        "examples": [
+          {
+            "en": "I've drunk three coffees today.",
+            "ua": "Сьогодні я випила три кави.",
+            "ru": "Сегодня я выпила три кофе."
+          },
+          {
+            "en": "I drank three coffees yesterday.",
+            "ua": "Учора я випила три кави.",
+            "ru": "Вчера я выпила три кофе."
+          },
+          {
+            "en": "I've been very busy lately.",
+            "ua": "Останнім часом я дуже зайнята.",
+            "ru": "В последнее время я очень занята."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ a lot this week.",
+          "options": [
+            "have worked",
+            "worked",
+            "work"
+          ],
+          "answer": "have worked",
+          "explain": {
+            "ua": "This week ще триває → PP.",
+            "ru": "This week ещё длится → PP."
+          },
+          "id": "b1-u01-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ a lot last week.",
+          "options": [
+            "worked",
+            "have worked",
+            "have work"
+          ],
+          "answer": "worked",
+          "explain": {
+            "ua": "Last week → PS.",
+            "ru": "Last week → PS."
+          },
+          "id": "b1-u01-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "We moved here two years ___.",
+          "options": [
+            "ago",
+            "since",
+            "for"
+          ],
+          "answer": "ago",
+          "explain": {
+            "ua": "Ago → PS.",
+            "ru": "Ago → PS."
+          },
+          "id": "b1-u01-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ much lately.",
+          "options": [
+            "haven't slept",
+            "didn't sleep",
+            "don't sleep"
+          ],
+          "answer": "haven't slept",
+          "explain": {
+            "ua": "Lately → PP.",
+            "ru": "Lately → PP."
+          },
+          "id": "b1-u01-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "So far we ___ 100 km.",
+          "options": [
+            "have driven",
+            "drove",
+            "drive"
+          ],
+          "answer": "have driven",
+          "explain": {
+            "ua": "So far → PP.",
+            "ru": "So far → PP."
+          },
+          "id": "b1-u01-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "pp-vs-ps",
+          "bank": [
+            "have done",
+            "did"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ a lot today.",
+            "I ___ a lot yesterday.",
+            "I ___ it last month.",
+            "I ___ it recently."
+          ],
+          "answers": [
+            "have done",
+            "did",
+            "did",
+            "have done"
+          ],
+          "explain": {
+            "ua": "today / recently → PP; yesterday / last month → PS.",
+            "ru": "today / recently → PP; yesterday / last month → PS."
+          },
+          "id": "b1-u01-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "I've bought this car in 2021.",
+          "answer": "I bought this car in 2021.",
+          "accept": [],
+          "explain": {
+            "ua": "In 2021 → PS.",
+            "ru": "In 2021 → PS."
+          },
+          "id": "b1-u01-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "pp-vs-ps",
+          "audio_text": "I've been really busy lately.",
+          "options": [
+            "I've been really busy lately.",
+            "I was really busy lately.",
+            "I've been really busy later."
+          ],
+          "answer": "I've been really busy lately.",
+          "audio": "",
+          "explain": {
+            "ua": "Lately — останнім часом.",
+            "ru": "Lately — в последнее время."
+          },
+          "id": "b1-u01-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ps",
+          "prompt": {
+            "ua": "Сьогодні я ще нічого не їла.",
+            "ru": "Сегодня я ещё ничего не ела."
+          },
+          "answer": "I haven't eaten anything today.",
+          "accept": [
+            "I haven't eaten anything yet today.",
+            "I have not eaten anything today."
+          ],
+          "explain": {
+            "ua": "Today → PP.",
+            "ru": "Today → PP."
+          },
+          "id": "b1-u01-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u01-l03",
+      "title": {
+        "en": "for and since",
+        "ua": "for і since",
+        "ru": "for и since"
+      },
+      "recap": {
+        "from": "b1-u01-l02",
+        "note": {
+          "ua": "Згадаймо: PP: today, this week, recently, lately, so far, just, already, yet · PS: yesterday, last…, ago, in 2020",
+          "ru": "Вспомним: PP: today, this week, recently, lately, so far, just, already, yet · PS: yesterday, last…, ago, in 2020"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ps",
+            "question": "I ___ a lot this week.",
+            "options": [
+              "have worked",
+              "worked",
+              "work"
+            ],
+            "answer": "have worked",
+            "explain": {
+              "ua": "This week ще триває → PP.",
+              "ru": "This week ещё длится → PP."
+            },
+            "id": "b1-u01-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ps",
+            "question": "I ___ much lately.",
+            "options": [
+              "haven't slept",
+              "didn't sleep",
+              "don't sleep"
+            ],
+            "answer": "haven't slept",
+            "explain": {
+              "ua": "Lately → PP.",
+              "ru": "Lately → PP."
+            },
+            "id": "b1-u01-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "for + період (for 3 years) · since + початок (since 2020, since Monday)",
+          "ru": "for + период (for 3 years) · since + начало (since 2020, since Monday)"
+        },
+        "explain": {
+          "ua": "Дія почалася в минулому й триває досі → Present Perfect + for / since. Українською — теперішній час: «Я живу тут 5 років» = I've lived here for 5 years.",
+          "ru": "Действие началось в прошлом и длится до сих пор → Present Perfect + for / since. По-русски — настоящее время: «Я живу здесь 5 лет» = I've lived here for 5 years."
+        },
+        "examples": [
+          {
+            "en": "I've lived here for five years.",
+            "ua": "Я живу тут п'ять років.",
+            "ru": "Я живу здесь пять лет."
+          },
+          {
+            "en": "She's worked here since 2019.",
+            "ua": "Вона працює тут з 2019-го.",
+            "ru": "Она работает здесь с 2019-го."
+          },
+          {
+            "en": "We've known each other since school.",
+            "ua": "Ми знайомі ще зі школи.",
+            "ru": "Мы знакомы ещё со школы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "I've known her ___ ten years.",
+          "options": [
+            "for",
+            "since",
+            "ago"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "Період → for.",
+            "ru": "Период → for."
+          },
+          "id": "b1-u01-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "He's lived in Kyiv ___ 2015.",
+          "options": [
+            "since",
+            "for",
+            "ago"
+          ],
+          "answer": "since",
+          "explain": {
+            "ua": "Початок → since.",
+            "ru": "Начало → since."
+          },
+          "id": "b1-u01-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "We've been married ___ June.",
+          "options": [
+            "since",
+            "for",
+            "from"
+          ],
+          "answer": "since",
+          "explain": {
+            "ua": "Since June.",
+            "ru": "Since June."
+          },
+          "id": "b1-u01-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "They've had this car ___ a long time.",
+          "options": [
+            "for",
+            "since",
+            "during"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "For a long time.",
+            "ru": "For a long time."
+          },
+          "id": "b1-u01-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "for-since",
+          "bank": [
+            "for",
+            "since"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ Monday",
+            "___ two hours",
+            "___ I was a child",
+            "___ ages"
+          ],
+          "answers": [
+            "since",
+            "for",
+            "since",
+            "for"
+          ],
+          "explain": {
+            "ua": "Момент → since, період → for.",
+            "ru": "Момент → since, период → for."
+          },
+          "id": "b1-u01-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "for-since",
+          "sentence": "I live here for five years.",
+          "answer": "I've lived here for five years.",
+          "accept": [
+            "I have lived here for five years.",
+            "I've been living here for five years."
+          ],
+          "explain": {
+            "ua": "Досі триває → Present Perfect.",
+            "ru": "До сих пор длится → Present Perfect."
+          },
+          "id": "b1-u01-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "for-since",
+          "sentence": "She has worked here since three years.",
+          "answer": "She has worked here for three years.",
+          "accept": [
+            "She's worked here for three years."
+          ],
+          "explain": {
+            "ua": "Період → for.",
+            "ru": "Период → for."
+          },
+          "id": "b1-u01-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "for-since",
+          "audio_text": "I've known him since school.",
+          "options": [
+            "I've known him since school.",
+            "I know him since school.",
+            "I've known him for school."
+          ],
+          "answer": "I've known him since school.",
+          "audio": "",
+          "explain": {
+            "ua": "Since school.",
+            "ru": "Since school."
+          },
+          "id": "b1-u01-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "for-since",
+          "prompt": {
+            "ua": "Ми знайомі десять років.",
+            "ru": "Мы знакомы десять лет."
+          },
+          "answer": "We've known each other for ten years.",
+          "accept": [
+            "We have known each other for ten years."
+          ],
+          "explain": {
+            "ua": "Have known + for.",
+            "ru": "Have known + for."
+          },
+          "id": "b1-u01-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u01-l04",
+      "title": {
+        "en": "How long…?",
+        "ua": "How long…?",
+        "ru": "How long…?"
+      },
+      "recap": {
+        "from": "b1-u01-l03",
+        "note": {
+          "ua": "Згадаймо: for + період (for 3 years) · since + початок (since 2020, since Monday)",
+          "ru": "Вспомним: for + период (for 3 years) · since + начало (since 2020, since Monday)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "for-since",
+            "question": "I've known her ___ ten years.",
+            "options": [
+              "for",
+              "since",
+              "ago"
+            ],
+            "answer": "for",
+            "explain": {
+              "ua": "Період → for.",
+              "ru": "Период → for."
+            },
+            "id": "b1-u01-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "for-since",
+            "question": "They've had this car ___ a long time.",
+            "options": [
+              "for",
+              "since",
+              "during"
+            ],
+            "answer": "for",
+            "explain": {
+              "ua": "For a long time.",
+              "ru": "For a long time."
+            },
+            "id": "b1-u01-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "How long have you…? — скільки часу досі · How long did you…? — скільки тривало (вже закінчилося)",
+          "ru": "How long have you…? — сколько времени до сих пор · How long did you…? — сколько длилось (уже закончилось)"
+        },
+        "explain": {
+          "ua": "How long have you lived here? — ти досі тут живеш. How long did you live there? — ти там уже не живеш.",
+          "ru": "How long have you lived here? — ты до сих пор здесь живёшь. How long did you live there? — ты там уже не живёшь."
+        },
+        "examples": [
+          {
+            "en": "How long have you worked here? — For two years.",
+            "ua": "Скільки ти тут працюєш? — Два роки.",
+            "ru": "Сколько ты здесь работаешь? — Два года."
+          },
+          {
+            "en": "How long did you live in Poland? — Three years.",
+            "ua": "Скільки ти жив у Польщі? — Три роки.",
+            "ru": "Сколько ты жил в Польше? — Три года."
+          },
+          {
+            "en": "How long have you had this phone?",
+            "ua": "Скільки в тебе цей телефон?",
+            "ru": "Сколько у тебя этот телефон?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "how-long",
+          "question": {
+            "ua": "How long ___ you known Max? (ви досі друзі)",
+            "ru": "How long ___ you known Max? (вы до сих пор друзья)"
+          },
+          "options": [
+            "have",
+            "did",
+            "do"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Досі → have.",
+            "ru": "До сих пор → have."
+          },
+          "id": "b1-u01-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "how-long",
+          "question": {
+            "ua": "How long ___ you live in Paris? (вже не живеш там)",
+            "ru": "How long ___ you live in Paris? (уже не живёшь там)"
+          },
+          "options": [
+            "did",
+            "have",
+            "do"
+          ],
+          "answer": "did",
+          "explain": {
+            "ua": "Закінчилося → did.",
+            "ru": "Закончилось → did."
+          },
+          "id": "b1-u01-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "how-long",
+          "question": "How long has she ___ a teacher?",
+          "options": [
+            "been",
+            "was",
+            "be"
+          ],
+          "answer": "been",
+          "explain": {
+            "ua": "Has been.",
+            "ru": "Has been."
+          },
+          "id": "b1-u01-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "how-long",
+          "question": "— How long have you had your dog? — ___ three years.",
+          "options": [
+            "For",
+            "Since",
+            "Ago"
+          ],
+          "answer": "For",
+          "explain": {
+            "ua": "For three years.",
+            "ru": "For three years."
+          },
+          "id": "b1-u01-l04-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "how-long",
+          "question": "How long ___ you been married?",
+          "answer": "have",
+          "accept": [],
+          "explain": {
+            "ua": "Have you been…?",
+            "ru": "Have you been…?"
+          },
+          "id": "b1-u01-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "how-long",
+          "sentence": "How long do you live here?",
+          "answer": "How long have you lived here?",
+          "accept": [
+            "How long have you been living here?"
+          ],
+          "explain": {
+            "ua": "Досі → PP.",
+            "ru": "До сих пор → PP."
+          },
+          "id": "b1-u01-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "how-long",
+          "sentence": "How long are you married?",
+          "answer": "How long have you been married?",
+          "accept": [],
+          "explain": {
+            "ua": "Досі → have been.",
+            "ru": "До сих пор → have been."
+          },
+          "id": "b1-u01-l04-e07"
+        },
+        {
+          "type": "build",
+          "topic": "how-long",
+          "words": [
+            "How",
+            "this",
+            "have",
+            "had",
+            "car",
+            "you",
+            "long"
+          ],
+          "answer": "How long have you had this car",
+          "explain": {
+            "ua": "How long → have you had → this car?",
+            "ru": "How long → have you had → this car?"
+          },
+          "id": "b1-u01-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "how-long",
+          "prompt": {
+            "ua": "Скільки ти тут працюєш?",
+            "ru": "Сколько ты здесь работаешь?"
+          },
+          "answer": "How long have you worked here?",
+          "accept": [
+            "How long have you been working here?"
+          ],
+          "explain": {
+            "ua": "How long have you…?",
+            "ru": "How long have you…?"
+          },
+          "id": "b1-u01-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u01-l05",
+      "title": {
+        "en": "News and results",
+        "ua": "Новини й результати",
+        "ru": "Новости и результаты"
+      },
+      "recap": {
+        "from": "b1-u01-l04",
+        "note": {
+          "ua": "Згадаймо: How long have you…? — скільки часу досі · How long did you…? — скільки тривало (вже закінчилося)",
+          "ru": "Вспомним: How long have you…? — сколько времени до сих пор · How long did you…? — сколько длилось (уже закончилось)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "how-long",
+            "question": {
+              "ua": "How long ___ you known Max? (ви досі друзі)",
+              "ru": "How long ___ you known Max? (вы до сих пор друзья)"
+            },
+            "options": [
+              "have",
+              "did",
+              "do"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "Досі → have.",
+              "ru": "До сих пор → have."
+            },
+            "id": "b1-u01-l05-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "how-long",
+            "question": "How long ___ you been married?",
+            "answer": "have",
+            "accept": [],
+            "explain": {
+              "ua": "Have you been…?",
+              "ru": "Have you been…?"
+            },
+            "id": "b1-u01-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "новина / результат зараз → PP · подробиці (коли, де, як) → PS",
+          "ru": "новость / результат сейчас → PP · подробности (когда, где, как) → PS"
+        },
+        "explain": {
+          "ua": "Новину повідомляємо Present Perfect: I've broken my leg! Подробиці — Past Simple: I fell when I was skiing.",
+          "ru": "Новость сообщаем Present Perfect: I've broken my leg! Подробности — Past Simple: I fell when I was skiing."
+        },
+        "examples": [
+          {
+            "en": "Guess what! I've got a new job!",
+            "ua": "Уяви! У мене нова робота!",
+            "ru": "Представь! У меня новая работа!"
+          },
+          {
+            "en": "I started on Monday.",
+            "ua": "Я почав у понеділок.",
+            "ru": "Я начал в понедельник."
+          },
+          {
+            "en": "Someone has stolen my bike!",
+            "ua": "Хтось украв мій велосипед!",
+            "ru": "Кто-то украл мой велосипед!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-news",
+          "question": "Look! I ___ my finger.",
+          "options": [
+            "'ve cut",
+            "cut",
+            "was cutting"
+          ],
+          "answer": "'ve cut",
+          "explain": {
+            "ua": "Новина, результат видно → PP.",
+            "ru": "Новость, результат виден → PP."
+          },
+          "id": "b1-u01-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-news",
+          "question": "— How did it happen? — I ___ it with a knife.",
+          "options": [
+            "cut",
+            "have cut",
+            "'ve cut"
+          ],
+          "answer": "cut",
+          "explain": {
+            "ua": "Подробиця → PS.",
+            "ru": "Подробность → PS."
+          },
+          "id": "b1-u01-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-news",
+          "question": "The President ___ Lviv today.",
+          "options": [
+            "has visited",
+            "visit",
+            "visits"
+          ],
+          "answer": "has visited",
+          "explain": {
+            "ua": "Новина → PP.",
+            "ru": "Новость → PP."
+          },
+          "id": "b1-u01-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-news",
+          "question": "He arrived at 10 and ___ a speech.",
+          "options": [
+            "gave",
+            "has given",
+            "gives"
+          ],
+          "answer": "gave",
+          "explain": {
+            "ua": "Подробиці → PS.",
+            "ru": "Подробности → PS."
+          },
+          "id": "b1-u01-l05-e04"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Kate has got a new job.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She started her new job last year.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Where is the new job?",
+              "options": [
+                "in a bank",
+                "in a school",
+                "in a café"
+              ],
+              "answer": "in a bank"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Kate",
+              "line": "Guess what! I've got a new job!"
+            },
+            {
+              "speaker": "Ann",
+              "line": "Wow! Where?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "In a bank. I started on Monday."
+            },
+            {
+              "speaker": "Ann",
+              "line": "How was your first day?"
+            },
+            {
+              "speaker": "Kate",
+              "line": "It was great. I met my new team."
+            }
+          ],
+          "explain": {
+            "ua": "New job — bank — started Monday.",
+            "ru": "New job — bank — started Monday."
+          },
+          "id": "b1-u01-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-news",
+          "sentence": "Guess what! I passed my driving test! It was yesterday.",
+          "answer": "Guess what! I've passed my driving test! It was yesterday.",
+          "accept": [
+            "I've passed my driving test! It was yesterday."
+          ],
+          "explain": {
+            "ua": "Новина → PP, подробиця → PS.",
+            "ru": "Новость → PP, подробность → PS."
+          },
+          "id": "b1-u01-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-news",
+          "sentence": "I've lost my phone. I've lost it on the bus.",
+          "answer": "I've lost my phone. I lost it on the bus.",
+          "accept": [],
+          "explain": {
+            "ua": "Подробиця (де) → PS.",
+            "ru": "Подробность (где) → PS."
+          },
+          "id": "b1-u01-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "pp-news",
+          "audio_text": "Someone has taken my bag!",
+          "options": [
+            "Someone has taken my bag!",
+            "Someone took my back!",
+            "Someone has taken my bike!"
+          ],
+          "answer": "Someone has taken my bag!",
+          "audio": "",
+          "explain": {
+            "ua": "Has taken — новина.",
+            "ru": "Has taken — новость."
+          },
+          "id": "b1-u01-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-news",
+          "prompt": {
+            "ua": "Я знайшла нову роботу!",
+            "ru": "Я нашла новую работу!"
+          },
+          "answer": "I've found a new job!",
+          "accept": [
+            "I have found a new job!",
+            "I've got a new job!"
+          ],
+          "explain": {
+            "ua": "Новина → PP.",
+            "ru": "Новость → PP."
+          },
+          "id": "b1-u01-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u01-l06",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u01-l05",
+        "note": {
+          "ua": "Згадаймо: новина / результат зараз → PP · подробиці (коли, де, як) → PS",
+          "ru": "Вспомним: новость / результат сейчас → PP · подробности (когда, где, как) → PS"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-news",
+            "question": "Look! I ___ my finger.",
+            "options": [
+              "'ve cut",
+              "cut",
+              "was cutting"
+            ],
+            "answer": "'ve cut",
+            "explain": {
+              "ua": "Новина, результат видно → PP.",
+              "ru": "Новость, результат виден → PP."
+            },
+            "id": "b1-u01-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-news",
+            "question": "He arrived at 10 and ___ a speech.",
+            "options": [
+              "gave",
+              "has given",
+              "gives"
+            ],
+            "answer": "gave",
+            "explain": {
+              "ua": "Подробиці → PS.",
+              "ru": "Подробности → PS."
+            },
+            "id": "b1-u01-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "I ___ in Lviv since 2020.",
+          "options": [
+            "have lived",
+            "lived",
+            "live"
+          ],
+          "answer": "have lived",
+          "explain": {
+            "ua": "Since → PP.",
+            "ru": "Since → PP."
+          },
+          "id": "b1-u01-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ps",
+          "question": "We ___ in Warsaw for two years, then we moved to Berlin.",
+          "options": [
+            "lived",
+            "have lived",
+            "live"
+          ],
+          "answer": "lived",
+          "explain": {
+            "ua": "Закінчилося → PS.",
+            "ru": "Закончилось → PS."
+          },
+          "id": "b1-u01-l06-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Oleh has lived in Poland for three years.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "He has changed jobs once.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "When did he graduate?",
+              "options": [
+                "in 2018",
+                "in 2020",
+                "last year"
+              ],
+              "answer": "in 2018"
+            }
+          ],
+          "text": "My name is Oleh. I graduated from university in 2018. I moved to Poland three years ago and I've lived in Kraków since then. I've changed jobs twice. My first job was in a café, but I didn't like it. Now I work as a programmer. I've met a lot of new friends here.",
+          "explain": {
+            "ua": "Poland 3 years (since 2023), changed jobs twice, graduated 2018.",
+            "ru": "Poland 3 years (since 2023), changed jobs twice, graduated 2018."
+          },
+          "id": "b1-u01-l06-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "pp-vs-ps",
+          "bank": [
+            "graduated",
+            "moved",
+            "has lived",
+            "has changed"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Oleh ___ in 2018.",
+            "He ___ to Poland three years ago.",
+            "He ___ in Kraków since then.",
+            "He ___ jobs twice."
+          ],
+          "answers": [
+            "graduated",
+            "moved",
+            "has lived",
+            "has changed"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u01-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "I've graduated in 2018.",
+          "answer": "I graduated in 2018.",
+          "accept": [],
+          "explain": {
+            "ua": "In 2018 → PS.",
+            "ru": "In 2018 → PS."
+          },
+          "id": "b1-u01-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ps",
+          "sentence": "Did you ever eat sushi?",
+          "answer": "Have you ever eaten sushi?",
+          "accept": [
+            "Have you ever tried sushi?"
+          ],
+          "explain": {
+            "ua": "Досвід → PP.",
+            "ru": "Опыт → PP."
+          },
+          "id": "b1-u01-l06-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "have",
+            "changed",
+            "I",
+            "twice",
+            "jobs"
+          ],
+          "answer": "I have changed jobs twice",
+          "explain": {
+            "ua": "Have changed → twice.",
+            "ru": "Have changed → twice."
+          },
+          "id": "b1-u01-l06-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "pp-vs-ps",
+          "audio_text": "How long have you been here?",
+          "options": [
+            "How long have you been here?",
+            "How long were you here?",
+            "How long are you here?"
+          ],
+          "answer": "How long have you been here?",
+          "audio": "",
+          "explain": {
+            "ua": "Have been.",
+            "ru": "Have been."
+          },
+          "id": "b1-u01-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ps",
+          "prompt": {
+            "ua": "Ми переїхали сюди два роки тому.",
+            "ru": "Мы переехали сюда два года назад."
+          },
+          "answer": "We moved here two years ago.",
+          "accept": [],
+          "explain": {
+            "ua": "Ago → PS.",
+            "ru": "Ago → PS."
+          },
+          "id": "b1-u01-l06-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ps",
+          "prompt": {
+            "ua": "Я живу в Кракові з 2023 року.",
+            "ru": "Я живу в Кракове с 2023 года."
+          },
+          "answer": "I've lived in Kraków since 2023.",
+          "accept": [
+            "I have lived in Kraków since 2023.",
+            "I've been living in Kraków since 2023.",
+            "I've lived in Krakow since 2023."
+          ],
+          "explain": {
+            "ua": "Since → PP.",
+            "ru": "Since → PP."
+          },
+          "id": "b1-u01-l06-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "pp-vs-ps",
+      "question": "I ___ him last week.",
+      "options": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer": "saw",
+      "explain": {
+        "ua": "Last week → PS.",
+        "ru": "Last week → PS."
+      },
+      "id": "b1-u01-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "pp-vs-ps",
+      "question": "Have you ever ___ to Spain?",
+      "options": [
+        "been",
+        "went",
+        "was"
+      ],
+      "answer": "been",
+      "explain": {
+        "ua": "Ever → PP.",
+        "ru": "Ever → PP."
+      },
+      "id": "b1-u01-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "for-since",
+      "question": "She's worked here ___ 2019.",
+      "options": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "answer": "since",
+      "explain": {
+        "ua": "Since.",
+        "ru": "Since."
+      },
+      "id": "b1-u01-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "for-since",
+      "question": "I've known him ___ years.",
+      "options": [
+        "for",
+        "since",
+        "ago"
+      ],
+      "answer": "for",
+      "explain": {
+        "ua": "For.",
+        "ru": "For."
+      },
+      "id": "b1-u01-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "how-long",
+      "question": "How long ___ you had this flat?",
+      "options": [
+        "have",
+        "did",
+        "are"
+      ],
+      "answer": "have",
+      "explain": {
+        "ua": "How long have…?",
+        "ru": "How long have…?"
+      },
+      "id": "b1-u01-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "pp-vs-ps",
+      "question": "I ___ three coffees today. (drink)",
+      "answer": "have drunk",
+      "accept": [
+        "'ve drunk",
+        "have had",
+        "'ve had"
+      ],
+      "explain": {
+        "ua": "Today → PP.",
+        "ru": "Today → PP."
+      },
+      "id": "b1-u01-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "pp-vs-ps",
+      "question": "When ___ you move here?",
+      "answer": "did",
+      "accept": [],
+      "explain": {
+        "ua": "When → did.",
+        "ru": "When → did."
+      },
+      "id": "b1-u01-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "pp-vs-ps",
+      "sentence": "I have met her in 2015.",
+      "answer": "I met her in 2015.",
+      "accept": [],
+      "explain": {
+        "ua": "In 2015 → PS.",
+        "ru": "In 2015 → PS."
+      },
+      "id": "b1-u01-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "for-since",
+      "sentence": "I live here since May.",
+      "answer": "I've lived here since May.",
+      "accept": [
+        "I have lived here since May.",
+        "I've been living here since May."
+      ],
+      "explain": {
+        "ua": "Since → PP.",
+        "ru": "Since → PP."
+      },
+      "id": "b1-u01-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "for-since",
+      "words": [
+        "been",
+        "years",
+        "married",
+        "We",
+        "have",
+        "for",
+        "ten"
+      ],
+      "answer": "We have been married for ten years",
+      "explain": {
+        "ua": "Have been married → for ten years.",
+        "ru": "Have been married → for ten years."
+      },
+      "id": "b1-u01-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "how-long",
+      "prompt": {
+        "ua": "Скільки ви одружені?",
+        "ru": "Сколько вы женаты?"
+      },
+      "answer": "How long have you been married?",
+      "accept": [],
+      "explain": {
+        "ua": "How long have you been…?",
+        "ru": "How long have you been…?"
+      },
+      "id": "b1-u01-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "pp-news",
+      "audio_text": "I've just heard the news.",
+      "options": [
+        "I've just heard the news.",
+        "I just heard the noise.",
+        "I've just had the news."
+      ],
+      "answer": "I've just heard the news.",
+      "audio": "",
+      "explain": {
+        "ua": "News — новини.",
+        "ru": "News — новости."
+      },
+      "id": "b1-u01-cp12"
+    }
+  ]
+}

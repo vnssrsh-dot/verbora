@@ -26,7 +26,6 @@ function checkEx(e, where) {
   if (!REQUIRED[e.type]) return errors.push(`${at}: unknown type "${e.type}"`);
   for (const f of REQUIRED[e.type]) if (e[f] == null) errors.push(`${at}: ${e.type} needs "${f}"`);
   if (!e.topic) errors.push(`${at}: missing topic`);
-  else if (!topics[e.topic]) warn.push(`${at}: topic "${e.topic}" has no name in topics.json`);
   if (!e.explain?.ua || !e.explain?.ru) errors.push(`${at}: explain needs ua and ru`);
   if (['choose', 'listen', 'ipa'].includes(e.type) && e.options && !e.options.map(str).includes(str(e.answer))) errors.push(`${at}: answer is not among options`);
   if (e.options && e.options.length !== new Set(e.options.map(str)).size) errors.push(`${at}: duplicate options`);
@@ -43,6 +42,7 @@ function walk(dir) {
     const p = join(dir, f);
     if (statSync(p).isDirectory()) walk(p);
     else if (/unit-\d+\.json$/.test(f) || f === 'transcription.json') checkUnit(p);
+    else if (f === 'final-test.json') checkFinal(p);
   }
 }
 
@@ -62,6 +62,13 @@ function checkUnit(p) {
   });
   (u.checkpoint || []).forEach((e) => checkEx(e, `${w} checkpoint`));
   if (u.kind !== 'course' && u.checkpoint && (u.checkpoint.length < 10 || u.checkpoint.length > 12)) warn.push(`${w}: checkpoint has ${u.checkpoint.length} tasks (norm 10–12)`);
+}
+
+function checkFinal(p) {
+  const u = JSON.parse(readFileSync(p, 'utf8'));
+  const w = p.replace(root, '');
+  for (const f of ['id', 'level', 'kind', 'title', 'pass_score', 'exercises']) if (u[f] == null) errors.push(`${w}: missing "${f}"`);
+  (u.exercises || []).forEach((e) => checkEx(e, `${w}`));
 }
 
 walk(root);

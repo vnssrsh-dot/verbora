@@ -1,0 +1,1427 @@
+{
+  "id": "a1-u05",
+  "level": "A1",
+  "order": 5,
+  "kind": "vocab",
+  "title": {
+    "en": "Family",
+    "ua": "Сім'я",
+    "ru": "Семья"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "family",
+      "ipa": "/ˈfæməli/",
+      "ua": "сім'я",
+      "ru": "семья",
+      "example": "My family is big.",
+      "audio": ""
+    },
+    {
+      "word": "parents",
+      "ipa": "/ˈpeərənts/",
+      "ua": "батьки",
+      "ru": "родители",
+      "example": "My parents are from Lviv.",
+      "audio": ""
+    },
+    {
+      "word": "mother",
+      "ipa": "/ˈmʌðə/",
+      "ua": "мати",
+      "ru": "мать",
+      "example": "His mother is a teacher.",
+      "audio": ""
+    },
+    {
+      "word": "father",
+      "ipa": "/ˈfɑːðə/",
+      "ua": "батько",
+      "ru": "отец",
+      "example": "My father is 60.",
+      "audio": ""
+    },
+    {
+      "word": "grandmother",
+      "ipa": "/ˈɡrænmʌðə/",
+      "ua": "бабуся",
+      "ru": "бабушка",
+      "example": "My grandmother is kind.",
+      "audio": ""
+    },
+    {
+      "word": "grandfather",
+      "ipa": "/ˈɡrænfɑːðə/",
+      "ua": "дідусь",
+      "ru": "дедушка",
+      "example": "Her grandfather is 80.",
+      "audio": ""
+    },
+    {
+      "word": "grandparents",
+      "ipa": "/ˈɡrænpeərənts/",
+      "ua": "дідусь і бабуся",
+      "ru": "бабушка и дедушка",
+      "example": "Our grandparents are in the village.",
+      "audio": ""
+    },
+    {
+      "word": "aunt",
+      "ipa": "/ɑːnt/",
+      "ua": "тітка",
+      "ru": "тётя",
+      "example": "My aunt is a vet.",
+      "audio": ""
+    },
+    {
+      "word": "uncle",
+      "ipa": "/ˈʌŋkl/",
+      "ua": "дядько",
+      "ru": "дядя",
+      "example": "His uncle is from Poland.",
+      "audio": ""
+    },
+    {
+      "word": "cousin",
+      "ipa": "/ˈkʌzn/",
+      "ua": "двоюрідний брат / сестра",
+      "ru": "двоюродный брат / сестра",
+      "example": "My cousin is 15.",
+      "audio": ""
+    },
+    {
+      "word": "children",
+      "ipa": "/ˈtʃɪldrən/",
+      "ua": "діти",
+      "ru": "дети",
+      "example": "Their children are at school.",
+      "audio": ""
+    },
+    {
+      "word": "child",
+      "ipa": "/tʃaɪld/",
+      "ua": "дитина",
+      "ru": "ребёнок",
+      "example": "Their child is 2.",
+      "audio": ""
+    },
+    {
+      "word": "baby",
+      "ipa": "/ˈbeɪbi/",
+      "ua": "немовля",
+      "ru": "малыш",
+      "example": "The baby is happy.",
+      "audio": ""
+    },
+    {
+      "word": "twins",
+      "ipa": "/twɪnz/",
+      "ua": "близнюки",
+      "ru": "близнецы",
+      "example": "They are twins.",
+      "audio": ""
+    },
+    {
+      "word": "only child",
+      "ipa": "/ˌəʊnli ˈtʃaɪld/",
+      "ua": "єдина дитина",
+      "ru": "единственный ребёнок",
+      "example": "I'm an only child.",
+      "audio": ""
+    },
+    {
+      "word": "grandson",
+      "ipa": "/ˈɡrænsʌn/",
+      "ua": "онук",
+      "ru": "внук",
+      "example": "Her grandson is 5.",
+      "audio": ""
+    },
+    {
+      "word": "granddaughter",
+      "ipa": "/ˈɡrændɔːtə/",
+      "ua": "онука",
+      "ru": "внучка",
+      "example": "Their granddaughter is a baby.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u05-l01",
+      "title": {
+        "en": "Parents and children",
+        "ua": "Батьки й діти",
+        "ru": "Родители и дети"
+      },
+      "recap": {
+        "from": "a1-u04-l03",
+        "note": {
+          "ua": "Згадаймо: my · your · his · her · its · our · their",
+          "ru": "Вспомним: my · your · his · her · its · our · their"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pronouns-possessive",
+            "question": "Max is here. ___ car is red.",
+            "options": [
+              "His",
+              "Her",
+              "He"
+            ],
+            "answer": "His",
+            "explain": {
+              "ua": "Max → his.",
+              "ru": "Max → his."
+            },
+            "id": "a1-u05-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pronouns-possessive",
+            "question": "I'm Anna. ___ name is Anna.",
+            "options": [
+              "My",
+              "Me",
+              "I"
+            ],
+            "answer": "My",
+            "explain": {
+              "ua": "I → my.",
+              "ru": "I → my."
+            },
+            "id": "a1-u05-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "mother",
+              "right": {
+                "ua": "мати",
+                "ru": "мать"
+              }
+            },
+            {
+              "left": "father",
+              "right": {
+                "ua": "батько",
+                "ru": "отец"
+              }
+            },
+            {
+              "left": "parents",
+              "right": {
+                "ua": "батьки",
+                "ru": "родители"
+              }
+            },
+            {
+              "left": "children",
+              "right": {
+                "ua": "діти",
+                "ru": "дети"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u05-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Mother + father = ___",
+          "options": [
+            "parents",
+            "children",
+            "twins"
+          ],
+          "answer": "parents",
+          "explain": {
+            "ua": "Батьки — parents (не relatives!).",
+            "ru": "Родители — parents (не relatives!)."
+          },
+          "id": "a1-u05-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "One child, two ___",
+          "options": [
+            "children",
+            "childs",
+            "childrens"
+          ],
+          "answer": "children",
+          "explain": {
+            "ua": "Child → children — особлива множина.",
+            "ru": "Child → children — особое множественное."
+          },
+          "id": "a1-u05-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Mum = ___",
+          "options": [
+            "mother",
+            "father",
+            "aunt"
+          ],
+          "answer": "mother",
+          "explain": {
+            "ua": "Mum — розмовне від mother.",
+            "ru": "Mum — разговорное от mother."
+          },
+          "id": "a1-u05-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Two children born together are ___.",
+          "options": [
+            "twins",
+            "parents",
+            "cousins"
+          ],
+          "answer": "twins",
+          "explain": {
+            "ua": "Twins — близнюки.",
+            "ru": "Twins — близнецы."
+          },
+          "id": "a1-u05-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A very small child.",
+          "answer": "baby",
+          "accept": [],
+          "explain": {
+            "ua": "Baby — немовля.",
+            "ru": "Baby — малыш."
+          },
+          "id": "a1-u05-l01-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "I have no brothers or sisters. I'm an only ___.",
+          "answer": "child",
+          "accept": [],
+          "explain": {
+            "ua": "Only child — єдина дитина.",
+            "ru": "Only child — единственный ребёнок."
+          },
+          "id": "a1-u05-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈpeərənts/",
+          "options": [
+            "parents",
+            "parties",
+            "patients"
+          ],
+          "answer": "parents",
+          "explain": {
+            "ua": "/eə/ — як «еа».",
+            "ru": "/eə/ — как «эа»."
+          },
+          "id": "a1-u05-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мої батьки з Одеси.",
+            "ru": "Мои родители из Одессы."
+          },
+          "answer": "My parents are from Odesa.",
+          "accept": [],
+          "explain": {
+            "ua": "Parents — множина → are.",
+            "ru": "Parents — множественное → are."
+          },
+          "id": "a1-u05-l01-e09"
+        }
+      ],
+      "words": [
+        "family",
+        "parents",
+        "mother",
+        "father",
+        "children",
+        "child",
+        "baby",
+        "twins",
+        "only child"
+      ]
+    },
+    {
+      "id": "a1-u05-l02",
+      "title": {
+        "en": "Grandparents, aunts, uncles",
+        "ua": "Бабусі, тітки, дядьки",
+        "ru": "Бабушки, тёти, дяди"
+      },
+      "recap": {
+        "from": "a1-u05-l01",
+        "note": {
+          "ua": "Згадаймо: Батьки й діти",
+          "ru": "Вспомним: Родители и дети"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Mother + father = ___",
+            "options": [
+              "parents",
+              "children",
+              "twins"
+            ],
+            "answer": "parents",
+            "explain": {
+              "ua": "Батьки — parents (не relatives!).",
+              "ru": "Родители — parents (не relatives!)."
+            },
+            "id": "a1-u05-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Two children born together are ___.",
+            "options": [
+              "twins",
+              "parents",
+              "cousins"
+            ],
+            "answer": "twins",
+            "explain": {
+              "ua": "Twins — близнюки.",
+              "ru": "Twins — близнецы."
+            },
+            "id": "a1-u05-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "grandmother",
+              "right": {
+                "ua": "бабуся",
+                "ru": "бабушка"
+              }
+            },
+            {
+              "left": "grandfather",
+              "right": {
+                "ua": "дідусь",
+                "ru": "дедушка"
+              }
+            },
+            {
+              "left": "aunt",
+              "right": {
+                "ua": "тітка",
+                "ru": "тётя"
+              }
+            },
+            {
+              "left": "uncle",
+              "right": {
+                "ua": "дядько",
+                "ru": "дядя"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u05-l02-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your mother's mother.",
+          "answer": "grandmother",
+          "accept": [
+            "grandma",
+            "granny"
+          ],
+          "explain": {
+            "ua": "Grand- + mother.",
+            "ru": "Grand- + mother."
+          },
+          "id": "a1-u05-l02-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your father's brother.",
+          "answer": "uncle",
+          "accept": [],
+          "explain": {
+            "ua": "Uncle — дядько.",
+            "ru": "Uncle — дядя."
+          },
+          "id": "a1-u05-l02-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your mother's sister.",
+          "answer": "aunt",
+          "accept": [],
+          "explain": {
+            "ua": "Aunt — тітка.",
+            "ru": "Aunt — тётя."
+          },
+          "id": "a1-u05-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your aunt's son or daughter.",
+          "answer": "cousin",
+          "accept": [],
+          "explain": {
+            "ua": "Cousin — і брат, і сестра.",
+            "ru": "Cousin — и брат, и сестра."
+          },
+          "id": "a1-u05-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Grandmother + grandfather = ___",
+          "options": [
+            "grandparents",
+            "parents",
+            "grandchildren"
+          ],
+          "answer": "grandparents",
+          "explain": {
+            "ua": "Grandparents.",
+            "ru": "Grandparents."
+          },
+          "id": "a1-u05-l02-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My grandmother's son is my father or my ___.",
+          "options": [
+            "uncle",
+            "cousin",
+            "grandson"
+          ],
+          "answer": "uncle",
+          "explain": {
+            "ua": "Син бабусі — тато або дядько.",
+            "ru": "Сын бабушки — папа или дядя."
+          },
+          "id": "a1-u05-l02-e07"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "grandson",
+          "answer": "granddaughter",
+          "accept": [],
+          "explain": {
+            "ua": "Онук — онука.",
+            "ru": "Внук — внучка."
+          },
+          "id": "a1-u05-l02-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈkʌzn/",
+          "options": [
+            "cousin",
+            "cushion",
+            "kitchen"
+          ],
+          "answer": "cousin",
+          "explain": {
+            "ua": "ou тут читається як /ʌ/ — «а».",
+            "ru": "ou здесь читается как /ʌ/ — «а»."
+          },
+          "id": "a1-u05-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мій дядько з Польщі.",
+            "ru": "Мой дядя из Польши."
+          },
+          "answer": "My uncle is from Poland.",
+          "accept": [
+            "My uncle's from Poland."
+          ],
+          "explain": {
+            "ua": "Uncle → is.",
+            "ru": "Uncle → is."
+          },
+          "id": "a1-u05-l02-e10"
+        }
+      ],
+      "words": [
+        "grandmother",
+        "grandfather",
+        "grandparents",
+        "aunt",
+        "uncle",
+        "cousin",
+        "grandson",
+        "granddaughter"
+      ]
+    },
+    {
+      "id": "a1-u05-l03",
+      "title": {
+        "en": "Talking about family",
+        "ua": "Розповідаємо про сім'ю",
+        "ru": "Рассказываем о семье"
+      },
+      "recap": {
+        "from": "a1-u05-l02",
+        "note": {
+          "ua": "Згадаймо: Бабусі, тітки, дядьки",
+          "ru": "Вспомним: Бабушки, тёти, дяди"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Your mother's mother.",
+            "answer": "grandmother",
+            "accept": [
+              "grandma",
+              "granny"
+            ],
+            "explain": {
+              "ua": "Grand- + mother.",
+              "ru": "Grand- + mother."
+            },
+            "id": "a1-u05-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "Your aunt's son or daughter.",
+            "answer": "cousin",
+            "accept": [],
+            "explain": {
+              "ua": "Cousin — і брат, і сестра.",
+              "ru": "Cousin — и брат, и сестра."
+            },
+            "id": "a1-u05-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "This ___ my sister.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "This is… — це… (про одну людину).",
+            "ru": "This is… — это… (об одном человеке)."
+          },
+          "id": "a1-u05-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ are my parents.",
+          "options": [
+            "These",
+            "This",
+            "It"
+          ],
+          "answer": "These",
+          "explain": {
+            "ua": "Про двох і більше — These are…",
+            "ru": "О двух и больше — These are…"
+          },
+          "id": "a1-u05-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I have ___ brother.",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": "a",
+          "explain": {
+            "ua": "Один брат — a brother.",
+            "ru": "Один брат — a brother."
+          },
+          "id": "a1-u05-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Her family ___ big.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Family — одна сім'я → is.",
+            "ru": "Family — одна семья → is."
+          },
+          "id": "a1-u05-l03-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "My aunt ___ uncle are doctors.",
+          "answer": "and",
+          "accept": [],
+          "explain": {
+            "ua": "And — і.",
+            "ru": "And — и."
+          },
+          "id": "a1-u05-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "I",
+            "cousins",
+            "have",
+            "two"
+          ],
+          "answer": "I have two cousins",
+          "explain": {
+            "ua": "I → have → two cousins.",
+            "ru": "I → have → two cousins."
+          },
+          "id": "a1-u05-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My grandparents is kind.",
+          "answer": "My grandparents are kind.",
+          "accept": [],
+          "explain": {
+            "ua": "Grandparents — двоє → are.",
+            "ru": "Grandparents — двое → are."
+          },
+          "id": "a1-u05-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "This is my grandfather.",
+          "options": [
+            "This is my grandfather.",
+            "This is my grandmother.",
+            "These are my grandparents."
+          ],
+          "answer": "This is my grandfather.",
+          "audio": "",
+          "explain": {
+            "ua": "Grandfather — дідусь.",
+            "ru": "Grandfather — дедушка."
+          },
+          "id": "a1-u05-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Це мій двоюрідний брат.",
+            "ru": "Это мой двоюродный брат."
+          },
+          "answer": "This is my cousin.",
+          "accept": [
+            "He is my cousin."
+          ],
+          "explain": {
+            "ua": "Cousin.",
+            "ru": "Cousin."
+          },
+          "id": "a1-u05-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u05-l04",
+      "title": {
+        "en": "In context: Dan's family",
+        "ua": "У контексті: сім'я Дена",
+        "ru": "В контексте: семья Дэна"
+      },
+      "recap": {
+        "from": "a1-u05-l03",
+        "note": {
+          "ua": "Згадаймо: Розповідаємо про сім'ю",
+          "ru": "Вспомним: Рассказываем о семье"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This ___ my sister.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "This is… — це… (про одну людину).",
+              "ru": "This is… — это… (об одном человеке)."
+            },
+            "id": "a1-u05-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Her family ___ big.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "Family — одна сім'я → is.",
+              "ru": "Family — одна семья → is."
+            },
+            "id": "a1-u05-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Who is Rita?",
+              "options": [
+                "Dan's sister",
+                "Dan's aunt",
+                "Dan's mother"
+              ],
+              "answer": "Dan's aunt"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Dan is an only child.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Dan's cousins are twins.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "Where are Dan's grandparents?",
+              "options": [
+                "in the village",
+                "in London",
+                "at work"
+              ],
+              "answer": "in the village"
+            }
+          ],
+          "text": "Hi, I'm Dan. My family is big! My parents are Oleh and Ira. I have a sister, Kate. She is 12. My mum has a sister — my aunt Rita. Her husband is my uncle Ben. Their children are my cousins. They are twins! My grandparents are in the village. I love my family!",
+          "explain": {
+            "ua": "Rita — mum's sister. Cousins — twins. Grandparents — village.",
+            "ru": "Rita — mum's sister. Cousins — twins. Grandparents — village."
+          },
+          "id": "a1-u05-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "aunt",
+            "uncle",
+            "cousins",
+            "grandparents",
+            "sister"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Kate is Dan's ___.",
+            "Rita is Dan's ___.",
+            "Ben is Dan's ___.",
+            "Rita's twins are Dan's ___."
+          ],
+          "answers": [
+            "sister",
+            "aunt",
+            "uncle",
+            "cousins"
+          ],
+          "explain": {
+            "ua": "Kate — сестра, Rita — тітка, Ben — дядько, близнюки — cousins.",
+            "ru": "Kate — сестра, Rita — тётя, Ben — дядя, близнецы — cousins."
+          },
+          "id": "a1-u05-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Oleh and Ira are Dan's ___.",
+          "options": [
+            "parents",
+            "grandparents",
+            "cousins"
+          ],
+          "answer": "parents",
+          "explain": {
+            "ua": "Мама й тато — parents.",
+            "ru": "Мама и папа — parents."
+          },
+          "id": "a1-u05-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Dan is Ira's ___.",
+          "options": [
+            "son",
+            "daughter",
+            "uncle"
+          ],
+          "answer": "son",
+          "explain": {
+            "ua": "Dan — син.",
+            "ru": "Dan — сын."
+          },
+          "id": "a1-u05-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Kate is Oleh's ___.",
+          "options": [
+            "daughter",
+            "son",
+            "wife"
+          ],
+          "answer": "daughter",
+          "explain": {
+            "ua": "Kate — донька.",
+            "ru": "Kate — дочь."
+          },
+          "id": "a1-u05-l04-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "Ira is Oleh's ___.",
+          "answer": "wife",
+          "accept": [],
+          "explain": {
+            "ua": "Дружина — wife.",
+            "ru": "Жена — wife."
+          },
+          "id": "a1-u05-l04-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your father's father.",
+          "answer": "grandfather",
+          "accept": [
+            "grandpa"
+          ],
+          "explain": {
+            "ua": "Grand- + father.",
+            "ru": "Grand- + father."
+          },
+          "id": "a1-u05-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене велика сім'я.",
+            "ru": "У меня большая семья."
+          },
+          "answer": "My family is big.",
+          "accept": [
+            "I have a big family."
+          ],
+          "explain": {
+            "ua": "Family is big або I have a big family.",
+            "ru": "Family is big или I have a big family."
+          },
+          "id": "a1-u05-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u05-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u05-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: сім'я Дена",
+          "ru": "Вспомним: В контексте: семья Дэна"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Oleh and Ira are Dan's ___.",
+            "options": [
+              "parents",
+              "grandparents",
+              "cousins"
+            ],
+            "answer": "parents",
+            "explain": {
+              "ua": "Мама й тато — parents.",
+              "ru": "Мама и папа — parents."
+            },
+            "id": "a1-u05-l05-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "Ira is Oleh's ___.",
+            "answer": "wife",
+            "accept": [],
+            "explain": {
+              "ua": "Дружина — wife.",
+              "ru": "Жена — wife."
+            },
+            "id": "a1-u05-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "uncle",
+              "right": {
+                "ua": "дядько",
+                "ru": "дядя"
+              }
+            },
+            {
+              "left": "cousin",
+              "right": {
+                "ua": "двоюрідний брат",
+                "ru": "двоюродный брат"
+              }
+            },
+            {
+              "left": "twins",
+              "right": {
+                "ua": "близнюки",
+                "ru": "близнецы"
+              }
+            },
+            {
+              "left": "grandson",
+              "right": {
+                "ua": "онук",
+                "ru": "внук"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u05-l05-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your father and mother.",
+          "answer": "parents",
+          "accept": [],
+          "explain": {
+            "ua": "Parents — батьки.",
+            "ru": "Parents — родители."
+          },
+          "id": "a1-u05-l05-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Your son's son.",
+          "answer": "grandson",
+          "accept": [
+            "grandchild"
+          ],
+          "explain": {
+            "ua": "Grand- + son.",
+            "ru": "Grand- + son."
+          },
+          "id": "a1-u05-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My uncle's wife is my ___.",
+          "options": [
+            "aunt",
+            "cousin",
+            "sister"
+          ],
+          "answer": "aunt",
+          "explain": {
+            "ua": "Дружина дядька — тітка.",
+            "ru": "Жена дяди — тётя."
+          },
+          "id": "a1-u05-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Your grandmother's husband is your ___.",
+          "options": [
+            "grandfather",
+            "uncle",
+            "father"
+          ],
+          "answer": "grandfather",
+          "explain": {
+            "ua": "Чоловік бабусі — дідусь.",
+            "ru": "Муж бабушки — дедушка."
+          },
+          "id": "a1-u05-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Their childs are at school.",
+          "answer": "Their children are at school.",
+          "accept": [
+            "Their children are at school"
+          ],
+          "explain": {
+            "ua": "Child → children.",
+            "ru": "Child → children."
+          },
+          "id": "a1-u05-l05-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "aunt",
+          "answer": "uncle",
+          "accept": [],
+          "explain": {
+            "ua": "Тітка — дядько.",
+            "ru": "Тётя — дядя."
+          },
+          "id": "a1-u05-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "My cousins are twins.",
+          "options": [
+            "My cousins are twins.",
+            "My cousins are ten.",
+            "My cousin is a twin."
+          ],
+          "answer": "My cousins are twins.",
+          "audio": "",
+          "explain": {
+            "ua": "Twins — близнюки.",
+            "ru": "Twins — близнецы."
+          },
+          "id": "a1-u05-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мої дідусь і бабуся в селі.",
+            "ru": "Мои бабушка и дедушка в деревне."
+          },
+          "answer": "My grandparents are in the village.",
+          "accept": [
+            "My grandparents are in a village."
+          ],
+          "explain": {
+            "ua": "Grandparents → are.",
+            "ru": "Grandparents → are."
+          },
+          "id": "a1-u05-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я єдина дитина.",
+            "ru": "Я единственный ребёнок."
+          },
+          "answer": "I'm an only child.",
+          "accept": [
+            "I am an only child."
+          ],
+          "explain": {
+            "ua": "An only child.",
+            "ru": "An only child."
+          },
+          "id": "a1-u05-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Mother + father = ___",
+      "options": [
+        "parents",
+        "grandparents",
+        "twins"
+      ],
+      "answer": "parents",
+      "explain": {
+        "ua": "Parents.",
+        "ru": "Parents."
+      },
+      "id": "a1-u05-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Your aunt's daughter is your ___.",
+      "options": [
+        "cousin",
+        "sister",
+        "niece"
+      ],
+      "answer": "cousin",
+      "explain": {
+        "ua": "Cousin.",
+        "ru": "Cousin."
+      },
+      "id": "a1-u05-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Child → two ___",
+      "options": [
+        "children",
+        "childs",
+        "childrens"
+      ],
+      "answer": "children",
+      "explain": {
+        "ua": "Children.",
+        "ru": "Children."
+      },
+      "id": "a1-u05-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Your father's mother.",
+      "answer": "grandmother",
+      "accept": [
+        "grandma",
+        "granny"
+      ],
+      "explain": {
+        "ua": "Grand- + mother.",
+        "ru": "Grand- + mother."
+      },
+      "id": "a1-u05-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Your mother's brother.",
+      "answer": "uncle",
+      "accept": [],
+      "explain": {
+        "ua": "Uncle.",
+        "ru": "Uncle."
+      },
+      "id": "a1-u05-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "My grandparents ___ kind.",
+      "answer": "are",
+      "accept": [],
+      "explain": {
+        "ua": "Grandparents → are.",
+        "ru": "Grandparents → are."
+      },
+      "id": "a1-u05-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "aunt",
+          "right": {
+            "ua": "тітка",
+            "ru": "тётя"
+          }
+        },
+        {
+          "left": "wife",
+          "right": {
+            "ua": "дружина",
+            "ru": "жена"
+          }
+        },
+        {
+          "left": "daughter",
+          "right": {
+            "ua": "донька",
+            "ru": "дочь"
+          }
+        },
+        {
+          "left": "baby",
+          "right": {
+            "ua": "немовля",
+            "ru": "малыш"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u05-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I have two cousin.",
+      "answer": "I have two cousins.",
+      "accept": [],
+      "explain": {
+        "ua": "Два — множина: cousins.",
+        "ru": "Два — множественное: cousins."
+      },
+      "id": "a1-u05-cp08"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "parents",
+        "These",
+        "are",
+        "my"
+      ],
+      "answer": "These are my parents",
+      "explain": {
+        "ua": "These are → my parents.",
+        "ru": "These are → my parents."
+      },
+      "id": "a1-u05-cp09"
+    },
+    {
+      "type": "associate",
+      "topic": "vocab",
+      "cue": "grandmother",
+      "answer": "grandfather",
+      "accept": [
+        "grandson",
+        "granddaughter"
+      ],
+      "explain": {
+        "ua": "Бабуся — дідусь.",
+        "ru": "Бабушка — дедушка."
+      },
+      "id": "a1-u05-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Мій брат і я — близнюки.",
+        "ru": "Мой брат и я — близнецы."
+      },
+      "answer": "My brother and I are twins.",
+      "accept": [],
+      "explain": {
+        "ua": "We → are.",
+        "ru": "We → are."
+      },
+      "id": "a1-u05-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Her aunt is a vet.",
+      "options": [
+        "Her aunt is a vet.",
+        "Her aunt is a pet.",
+        "Her uncle is a vet."
+      ],
+      "answer": "Her aunt is a vet.",
+      "audio": "",
+      "explain": {
+        "ua": "Aunt — тітка.",
+        "ru": "Aunt — тётя."
+      },
+      "id": "a1-u05-cp12"
+    }
+  ]
+}

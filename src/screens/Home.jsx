@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useStore, streakAlive, streakLost } from '../lib/store.jsx';
 import { buildPath, levelPercent, levelUnlocked, nextStep } from '../lib/progress.js';
-import { LEVELS, levelInfo } from '../lib/content.js';
+import { LEVELS, levelInfo, finalTestMeta } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { haptic } from '../lib/telegram.js';
 import { Mascot, Icon, Bar, Sheet, Tile } from '../components.jsx';
@@ -228,7 +228,7 @@ function Serpentine({ path, state, t, lang, level, onLesson, onCheckpoint, onLev
         <button className="card row" style={{ marginTop: 10, opacity: path.finalTest === 'locked' ? 0.6 : 1 }}
           onClick={() => (path.finalTest === 'locked' ? onLocked({ title: t('levelTest'), text: t('locked'), emotion: 'thinking' }) : onLevelTest())}>
           <Tile icon={path.finalTest === 'done' ? 'crown' : 'flag'} size={44} tone={path.finalTest === 'locked' ? 'plain' : 'primary'} />
-          <span className="col grow" style={{ gap: 0, textAlign: 'left' }}><b>{t('levelTest')} {level}</b><span className="small">25 · {t('checkpointSub')}</span></span>
+          <span className="col grow" style={{ gap: 0, textAlign: 'left' }}><b>{t('levelTest')} {level}</b><span className="small">{finalTestMeta(level)?.count || 30} · {t('checkpointSub')}</span></span>
           {path.finalTest === 'locked' ? <Icon name="lock" /> : <Icon name="chevron" />}
         </button>
       )}

@@ -1,0 +1,1515 @@
+{
+  "id": "a1-u21",
+  "level": "A1",
+  "order": 21,
+  "kind": "vocab",
+  "title": {
+    "en": "Free time and hobbies",
+    "ua": "Вільний час і хобі",
+    "ru": "Свободное время и хобби"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "hobby",
+      "ipa": "/ˈhɒbi/",
+      "ua": "хобі",
+      "ru": "хобби",
+      "example": "What's your hobby?",
+      "audio": ""
+    },
+    {
+      "word": "free time",
+      "ipa": "/ˌfriː ˈtaɪm/",
+      "ua": "вільний час",
+      "ru": "свободное время",
+      "example": "In my free time I read.",
+      "audio": ""
+    },
+    {
+      "word": "football",
+      "ipa": "/ˈfʊtbɔːl/",
+      "ua": "футбол",
+      "ru": "футбол",
+      "example": "He plays football.",
+      "audio": ""
+    },
+    {
+      "word": "tennis",
+      "ipa": "/ˈtenɪs/",
+      "ua": "теніс",
+      "ru": "теннис",
+      "example": "We play tennis on Sundays.",
+      "audio": ""
+    },
+    {
+      "word": "yoga",
+      "ipa": "/ˈjəʊɡə/",
+      "ua": "йога",
+      "ru": "йога",
+      "example": "She does yoga.",
+      "audio": ""
+    },
+    {
+      "word": "gym",
+      "ipa": "/dʒɪm/",
+      "ua": "спортзал",
+      "ru": "спортзал",
+      "example": "I go to the gym.",
+      "audio": ""
+    },
+    {
+      "word": "swimming",
+      "ipa": "/ˈswɪmɪŋ/",
+      "ua": "плавання",
+      "ru": "плавание",
+      "example": "I love swimming.",
+      "audio": ""
+    },
+    {
+      "word": "running",
+      "ipa": "/ˈrʌnɪŋ/",
+      "ua": "біг",
+      "ru": "бег",
+      "example": "Running is good for you.",
+      "audio": ""
+    },
+    {
+      "word": "painting",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "ua": "малювання (фарбами)",
+      "ru": "рисование (красками)",
+      "example": "Painting is my hobby.",
+      "audio": ""
+    },
+    {
+      "word": "photography",
+      "ipa": "/fəˈtɒɡrəfi/",
+      "ua": "фотографія (хобі)",
+      "ru": "фотография (хобби)",
+      "example": "She loves photography.",
+      "audio": ""
+    },
+    {
+      "word": "video games",
+      "ipa": "/ˈvɪdiəʊ ɡeɪmz/",
+      "ua": "відеоігри",
+      "ru": "видеоигры",
+      "example": "My son plays video games.",
+      "audio": ""
+    },
+    {
+      "word": "travel",
+      "ipa": "/ˈtrævl/",
+      "ua": "подорожувати",
+      "ru": "путешествовать",
+      "example": "We love to travel.",
+      "audio": ""
+    },
+    {
+      "word": "listen to music",
+      "ipa": "/ˌlɪsn tə ˈmjuːzɪk/",
+      "ua": "слухати музику",
+      "ru": "слушать музыку",
+      "example": "I listen to music every day.",
+      "audio": ""
+    },
+    {
+      "word": "go for a walk",
+      "ipa": "/ˌɡəʊ fər ə ˈwɔːk/",
+      "ua": "гуляти, іти на прогулянку",
+      "ru": "гулять, идти на прогулку",
+      "example": "Let's go for a walk!",
+      "audio": ""
+    },
+    {
+      "word": "camping",
+      "ipa": "/ˈkæmpɪŋ/",
+      "ua": "кемпінг, похід з наметом",
+      "ru": "кемпинг, поход с палаткой",
+      "example": "We go camping in summer.",
+      "audio": ""
+    },
+    {
+      "word": "beach",
+      "ipa": "/biːtʃ/",
+      "ua": "пляж",
+      "ru": "пляж",
+      "example": "We relax on the beach.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u21-l01",
+      "title": {
+        "en": "Sports",
+        "ua": "Спорт",
+        "ru": "Спорт"
+      },
+      "recap": {
+        "from": "a1-u20-l02",
+        "note": {
+          "ua": "Згадаймо: Can you…? — прохання · Can I…? — дозвіл",
+          "ru": "Вспомним: Can you…? — просьба · Can I…? — разрешение"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "___ you help me, please?",
+            "options": [
+              "Can",
+              "Do",
+              "Are"
+            ],
+            "answer": "Can",
+            "explain": {
+              "ua": "Прохання — Can you…?",
+              "ru": "Просьба — Can you…?"
+            },
+            "id": "a1-u21-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "can",
+            "question": "Can he drive? — No, he ___.",
+            "options": [
+              "can't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": "can't",
+            "explain": {
+              "ua": "No, he can't.",
+              "ru": "No, he can't."
+            },
+            "id": "a1-u21-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "football",
+              "right": {
+                "ua": "футбол",
+                "ru": "футбол"
+              }
+            },
+            {
+              "left": "swimming",
+              "right": {
+                "ua": "плавання",
+                "ru": "плавание"
+              }
+            },
+            {
+              "left": "running",
+              "right": {
+                "ua": "біг",
+                "ru": "бег"
+              }
+            },
+            {
+              "left": "gym",
+              "right": {
+                "ua": "спортзал",
+                "ru": "спортзал"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u21-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I ___ football on Saturdays.",
+          "options": [
+            "play",
+            "do",
+            "go"
+          ],
+          "answer": "play",
+          "explain": {
+            "ua": "Ігри з м'ячем — play.",
+            "ru": "Игры с мячом — play."
+          },
+          "id": "a1-u21-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-simple-irregular",
+          "question": "She ___ yoga.",
+          "options": [
+            "does",
+            "plays",
+            "goes"
+          ],
+          "answer": "does",
+          "explain": {
+            "ua": "Yoga — do.",
+            "ru": "Yoga — do."
+          },
+          "id": "a1-u21-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We ___ swimming in summer.",
+          "options": [
+            "go",
+            "play",
+            "do"
+          ],
+          "answer": "go",
+          "explain": {
+            "ua": "Заняття на -ing часто з go: go swimming, go running.",
+            "ru": "Занятия на -ing часто с go: go swimming, go running."
+          },
+          "id": "a1-u21-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "play",
+            "do",
+            "go"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ tennis",
+            "___ yoga",
+            "___ running",
+            "___ football"
+          ],
+          "answers": [
+            "play",
+            "do",
+            "go",
+            "play"
+          ],
+          "explain": {
+            "ua": "play + ігри, do + yoga, go + -ing.",
+            "ru": "play + игры, do + yoga, go + -ing."
+          },
+          "id": "a1-u21-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A place with machines where you do sport.",
+          "answer": "gym",
+          "accept": [
+            "a gym",
+            "the gym"
+          ],
+          "explain": {
+            "ua": "Gym — спортзал.",
+            "ru": "Gym — спортзал."
+          },
+          "id": "a1-u21-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I play yoga.",
+          "answer": "I do yoga.",
+          "accept": [],
+          "explain": {
+            "ua": "Yoga — do, не play.",
+            "ru": "Yoga — do, не play."
+          },
+          "id": "a1-u21-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/dʒɪm/",
+          "options": [
+            "gym",
+            "game",
+            "jam"
+          ],
+          "answer": "gym",
+          "explain": {
+            "ua": "g перед y — /dʒ/, як «дж».",
+            "ru": "g перед y — /dʒ/, как «дж»."
+          },
+          "id": "a1-u21-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я ходжу в спортзал по понеділках.",
+            "ru": "Я хожу в спортзал по понедельникам."
+          },
+          "answer": "I go to the gym on Mondays.",
+          "accept": [
+            "I go to the gym on Monday."
+          ],
+          "explain": {
+            "ua": "Go to the gym + on Mondays.",
+            "ru": "Go to the gym + on Mondays."
+          },
+          "id": "a1-u21-l01-e09"
+        }
+      ],
+      "words": [
+        "football",
+        "tennis",
+        "yoga",
+        "gym",
+        "swimming",
+        "running"
+      ]
+    },
+    {
+      "id": "a1-u21-l02",
+      "title": {
+        "en": "Hobbies",
+        "ua": "Хобі",
+        "ru": "Хобби"
+      },
+      "recap": {
+        "from": "a1-u21-l01",
+        "note": {
+          "ua": "Згадаймо: Спорт",
+          "ru": "Вспомним: Спорт"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I ___ football on Saturdays.",
+            "options": [
+              "play",
+              "do",
+              "go"
+            ],
+            "answer": "play",
+            "explain": {
+              "ua": "Ігри з м'ячем — play.",
+              "ru": "Игры с мячом — play."
+            },
+            "id": "a1-u21-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A place with machines where you do sport.",
+            "answer": "gym",
+            "accept": [
+              "a gym",
+              "the gym"
+            ],
+            "explain": {
+              "ua": "Gym — спортзал.",
+              "ru": "Gym — спортзал."
+            },
+            "id": "a1-u21-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "painting",
+              "right": {
+                "ua": "малювання",
+                "ru": "рисование"
+              }
+            },
+            {
+              "left": "photography",
+              "right": {
+                "ua": "фотографія",
+                "ru": "фотография"
+              }
+            },
+            {
+              "left": "video games",
+              "right": {
+                "ua": "відеоігри",
+                "ru": "видеоигры"
+              }
+            },
+            {
+              "left": "travel",
+              "right": {
+                "ua": "подорожувати",
+                "ru": "путешествовать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u21-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's your ___? — Painting.",
+          "options": [
+            "hobby",
+            "job",
+            "name"
+          ],
+          "answer": "hobby",
+          "explain": {
+            "ua": "Hobby — хобі.",
+            "ru": "Hobby — хобби."
+          },
+          "id": "a1-u21-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In my ___ time I listen to music.",
+          "options": [
+            "free",
+            "busy",
+            "late"
+          ],
+          "answer": "free",
+          "explain": {
+            "ua": "Free time — вільний час.",
+            "ru": "Free time — свободное время."
+          },
+          "id": "a1-u21-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I listen ___ music.",
+          "options": [
+            "to",
+            "—",
+            "at"
+          ],
+          "answer": "to",
+          "explain": {
+            "ua": "Listen TO music.",
+            "ru": "Listen TO music."
+          },
+          "id": "a1-u21-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You take photos as a hobby.",
+          "answer": "photography",
+          "accept": [
+            "taking photos"
+          ],
+          "explain": {
+            "ua": "Photography.",
+            "ru": "Photography."
+          },
+          "id": "a1-u21-l02-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "camera",
+          "answer": "photography",
+          "accept": [
+            "photos",
+            "photographer"
+          ],
+          "explain": {
+            "ua": "Камера → фотографія.",
+            "ru": "Камера → фотография."
+          },
+          "id": "a1-u21-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I listen music every day.",
+          "answer": "I listen to music every day.",
+          "accept": [],
+          "explain": {
+            "ua": "Listen to.",
+            "ru": "Listen to."
+          },
+          "id": "a1-u21-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I like playing video games.",
+          "options": [
+            "I like playing video games.",
+            "I like paying video games.",
+            "I like playing video gyms."
+          ],
+          "answer": "I like playing video games.",
+          "audio": "",
+          "explain": {
+            "ua": "Video games — «відіоу геймз».",
+            "ru": "Video games — «видиоу геймз»."
+          },
+          "id": "a1-u21-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Моє хобі — фотографія.",
+            "ru": "Моё хобби — фотография."
+          },
+          "answer": "My hobby is photography.",
+          "accept": [],
+          "explain": {
+            "ua": "My hobby is…",
+            "ru": "My hobby is…"
+          },
+          "id": "a1-u21-l02-e09"
+        }
+      ],
+      "words": [
+        "hobby",
+        "free time",
+        "painting",
+        "photography",
+        "video games",
+        "listen to music"
+      ]
+    },
+    {
+      "id": "a1-u21-l03",
+      "title": {
+        "en": "Going out and holidays",
+        "ua": "Прогулянки й відпочинок",
+        "ru": "Прогулки и отдых"
+      },
+      "recap": {
+        "from": "a1-u21-l02",
+        "note": {
+          "ua": "Згадаймо: Хобі",
+          "ru": "Вспомним: Хобби"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's your ___? — Painting.",
+            "options": [
+              "hobby",
+              "job",
+              "name"
+            ],
+            "answer": "hobby",
+            "explain": {
+              "ua": "Hobby — хобі.",
+              "ru": "Hobby — хобби."
+            },
+            "id": "a1-u21-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You take photos as a hobby.",
+            "answer": "photography",
+            "accept": [
+              "taking photos"
+            ],
+            "explain": {
+              "ua": "Photography.",
+              "ru": "Photography."
+            },
+            "id": "a1-u21-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "go for a walk",
+              "right": {
+                "ua": "іти на прогулянку",
+                "ru": "идти на прогулку"
+              }
+            },
+            {
+              "left": "camping",
+              "right": {
+                "ua": "кемпінг",
+                "ru": "кемпинг"
+              }
+            },
+            {
+              "left": "beach",
+              "right": {
+                "ua": "пляж",
+                "ru": "пляж"
+              }
+            },
+            {
+              "left": "travel",
+              "right": {
+                "ua": "подорожувати",
+                "ru": "путешествовать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u21-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Let's go for a ___ in the park.",
+          "options": [
+            "walk",
+            "work",
+            "beach"
+          ],
+          "answer": "walk",
+          "explain": {
+            "ua": "Go for a walk — прогулянка.",
+            "ru": "Go for a walk — прогулка."
+          },
+          "id": "a1-u21-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We sleep in a tent when we go ___.",
+          "options": [
+            "camping",
+            "swimming",
+            "running"
+          ],
+          "answer": "camping",
+          "explain": {
+            "ua": "Camping — з наметом.",
+            "ru": "Camping — с палаткой."
+          },
+          "id": "a1-u21-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We relax on the ___ in summer.",
+          "options": [
+            "beach",
+            "gym",
+            "office"
+          ],
+          "answer": "beach",
+          "explain": {
+            "ua": "Beach — пляж.",
+            "ru": "Beach — пляж."
+          },
+          "id": "a1-u21-l03-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You do it when you visit other countries.",
+          "answer": "travel",
+          "accept": [
+            "travelling",
+            "traveling"
+          ],
+          "explain": {
+            "ua": "Travel — подорожувати.",
+            "ru": "Travel — путешествовать."
+          },
+          "id": "a1-u21-l03-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "sea",
+          "answer": "beach",
+          "accept": [
+            "swimming"
+          ],
+          "explain": {
+            "ua": "Море → пляж.",
+            "ru": "Море → пляж."
+          },
+          "id": "a1-u21-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We go to camping.",
+          "answer": "We go camping.",
+          "accept": [
+            "We go camping in summer."
+          ],
+          "explain": {
+            "ua": "Go + -ing — без to.",
+            "ru": "Go + -ing — без to."
+          },
+          "id": "a1-u21-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "summer",
+            "go",
+            "camping",
+            "in",
+            "We"
+          ],
+          "answer": "We go camping in summer",
+          "explain": {
+            "ua": "We → go camping → in summer.",
+            "ru": "We → go camping → in summer."
+          },
+          "id": "a1-u21-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ходімо на прогулянку!",
+            "ru": "Пойдём гулять!"
+          },
+          "answer": "Let's go for a walk!",
+          "accept": [
+            "Let's go for a walk"
+          ],
+          "explain": {
+            "ua": "Let's go for a walk.",
+            "ru": "Let's go for a walk."
+          },
+          "id": "a1-u21-l03-e09"
+        }
+      ],
+      "words": [
+        "travel",
+        "go for a walk",
+        "camping",
+        "beach"
+      ]
+    },
+    {
+      "id": "a1-u21-l04",
+      "title": {
+        "en": "In context: weekend plans",
+        "ua": "У контексті: плани на вихідні",
+        "ru": "В контексте: планы на выходные"
+      },
+      "recap": {
+        "from": "a1-u21-l03",
+        "note": {
+          "ua": "Згадаймо: Прогулянки й відпочинок",
+          "ru": "Вспомним: Прогулки и отдых"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Let's go for a ___ in the park.",
+            "options": [
+              "walk",
+              "work",
+              "beach"
+            ],
+            "answer": "walk",
+            "explain": {
+              "ua": "Go for a walk — прогулянка.",
+              "ru": "Go for a walk — прогулка."
+            },
+            "id": "a1-u21-l04-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You do it when you visit other countries.",
+            "answer": "travel",
+            "accept": [
+              "travelling",
+              "traveling"
+            ],
+            "explain": {
+              "ua": "Travel — подорожувати.",
+              "ru": "Travel — путешествовать."
+            },
+            "id": "a1-u21-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What does Ann do on Saturdays?",
+              "options": [
+                "yoga",
+                "football",
+                "camping"
+              ],
+              "answer": "yoga"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ben can't swim.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "They go to the beach on Sunday.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ben",
+              "line": "What do you do in your free time, Ann?"
+            },
+            {
+              "speaker": "Ann",
+              "line": "I do yoga on Saturdays. And I love painting. And you?"
+            },
+            {
+              "speaker": "Ben",
+              "line": "I play football and I go swimming."
+            },
+            {
+              "speaker": "Ann",
+              "line": "Can you swim well?"
+            },
+            {
+              "speaker": "Ben",
+              "line": "Yes, I can! Let's go to the beach on Sunday."
+            },
+            {
+              "speaker": "Ann",
+              "line": "Great idea!"
+            }
+          ],
+          "explain": {
+            "ua": "Ann — yoga on Saturdays; Ben swims; beach on Sunday.",
+            "ru": "Ann — yoga on Saturdays; Ben swims; beach on Sunday."
+          },
+          "id": "a1-u21-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "yoga",
+            "painting",
+            "football",
+            "beach"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ann does ___.",
+            "She loves ___.",
+            "Ben plays ___.",
+            "On Sunday they go to the ___."
+          ],
+          "answers": [
+            "yoga",
+            "painting",
+            "football",
+            "beach"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a1-u21-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "What do you do in your free time?",
+              "right": {
+                "ua": "Що ти робиш у вільний час?",
+                "ru": "Что ты делаешь в свободное время?"
+              }
+            },
+            {
+              "left": "Let's…",
+              "right": {
+                "ua": "Давай…",
+                "ru": "Давай…"
+              }
+            },
+            {
+              "left": "Great idea!",
+              "right": {
+                "ua": "Чудова ідея!",
+                "ru": "Отличная идея!"
+              }
+            },
+            {
+              "left": "I love…",
+              "right": {
+                "ua": "Я обожнюю…",
+                "ru": "Я обожаю…"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a1-u21-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Let's ___ to the beach!",
+          "options": [
+            "go",
+            "goes",
+            "to go"
+          ],
+          "answer": "go",
+          "explain": {
+            "ua": "Let's + дієслово без змін.",
+            "ru": "Let's + глагол без изменений."
+          },
+          "id": "a1-u21-l04-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "Ben goes ___. (swim)",
+          "answer": "swimming",
+          "accept": [
+            "swim"
+          ],
+          "explain": {
+            "ua": "Go swimming.",
+            "ru": "Go swimming."
+          },
+          "id": "a1-u21-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I love paint.",
+          "answer": "I love painting.",
+          "accept": [
+            "I love to paint."
+          ],
+          "explain": {
+            "ua": "Хобі — painting.",
+            "ru": "Хобби — painting."
+          },
+          "id": "a1-u21-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "What do you do in your free time?",
+          "options": [
+            "What do you do in your free time?",
+            "What do you do in your three time?",
+            "What do you do at your free time?"
+          ],
+          "answer": "What do you do in your free time?",
+          "audio": "",
+          "explain": {
+            "ua": "In your free time.",
+            "ru": "In your free time."
+          },
+          "id": "a1-u21-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я граю у футбол і ходжу плавати.",
+            "ru": "Я играю в футбол и хожу плавать."
+          },
+          "answer": "I play football and I go swimming.",
+          "accept": [
+            "I play football and go swimming."
+          ],
+          "explain": {
+            "ua": "Play football, go swimming.",
+            "ru": "Play football, go swimming."
+          },
+          "id": "a1-u21-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u21-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u21-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: плани на вихідні",
+          "ru": "Вспомним: В контексте: планы на выходные"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Let's ___ to the beach!",
+            "options": [
+              "go",
+              "goes",
+              "to go"
+            ],
+            "answer": "go",
+            "explain": {
+              "ua": "Let's + дієслово без змін.",
+              "ru": "Let's + глагол без изменений."
+            },
+            "id": "a1-u21-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "I love paint.",
+            "answer": "I love painting.",
+            "accept": [
+              "I love to paint."
+            ],
+            "explain": {
+              "ua": "Хобі — painting.",
+              "ru": "Хобби — painting."
+            },
+            "id": "a1-u21-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "tennis",
+              "right": {
+                "ua": "теніс",
+                "ru": "теннис"
+              }
+            },
+            {
+              "left": "yoga",
+              "right": {
+                "ua": "йога",
+                "ru": "йога"
+              }
+            },
+            {
+              "left": "hobby",
+              "right": {
+                "ua": "хобі",
+                "ru": "хобби"
+              }
+            },
+            {
+              "left": "free time",
+              "right": {
+                "ua": "вільний час",
+                "ru": "свободное время"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u21-l05-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "play",
+            "do",
+            "go"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ video games",
+            "___ camping",
+            "___ yoga",
+            "___ for a walk"
+          ],
+          "answers": [
+            "play",
+            "go",
+            "do",
+            "go"
+          ],
+          "explain": {
+            "ua": "play games, go camping, do yoga, go for a walk.",
+            "ru": "play games, go camping, do yoga, go for a walk."
+          },
+          "id": "a1-u21-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a sport?",
+          "options": [
+            "painting",
+            "tennis",
+            "running"
+          ],
+          "answer": "painting",
+          "explain": {
+            "ua": "Painting — хобі.",
+            "ru": "Painting — хобби."
+          },
+          "id": "a1-u21-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A game with a ball and two teams of 11 people.",
+          "answer": "football",
+          "accept": [],
+          "explain": {
+            "ua": "Football.",
+            "ru": "Football."
+          },
+          "id": "a1-u21-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "tent",
+          "answer": "camping",
+          "accept": [],
+          "explain": {
+            "ua": "Намет → кемпінг.",
+            "ru": "Палатка → кемпинг."
+          },
+          "id": "a1-u21-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "guitar",
+          "answer": "music",
+          "accept": [
+            "play the guitar"
+          ],
+          "explain": {
+            "ua": "Гітара → музика.",
+            "ru": "Гитара → музыка."
+          },
+          "id": "a1-u21-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "He plays the yoga.",
+          "answer": "He does yoga.",
+          "accept": [],
+          "explain": {
+            "ua": "Do yoga, без the.",
+            "ru": "Do yoga, без the."
+          },
+          "id": "a1-u21-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I go to swimming on Fridays.",
+          "answer": "I go swimming on Fridays.",
+          "accept": [],
+          "explain": {
+            "ua": "Go swimming — без to.",
+            "ru": "Go swimming — без to."
+          },
+          "id": "a1-u21-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She loves photography.",
+          "options": [
+            "She loves photography.",
+            "She loves photographs.",
+            "She lives photography."
+          ],
+          "answer": "She loves photography.",
+          "audio": "",
+          "explain": {
+            "ua": "Pho-TO-graphy.",
+            "ru": "Pho-TO-graphy."
+          },
+          "id": "a1-u21-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У вільний час я слухаю музику.",
+            "ru": "В свободное время я слушаю музыку."
+          },
+          "answer": "In my free time I listen to music.",
+          "accept": [
+            "I listen to music in my free time."
+          ],
+          "explain": {
+            "ua": "In my free time…",
+            "ru": "In my free time…"
+          },
+          "id": "a1-u21-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I ___ tennis.",
+      "options": [
+        "play",
+        "do",
+        "go"
+      ],
+      "answer": "play",
+      "explain": {
+        "ua": "Play tennis.",
+        "ru": "Play tennis."
+      },
+      "id": "a1-u21-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "She ___ yoga.",
+      "options": [
+        "does",
+        "plays",
+        "goes"
+      ],
+      "answer": "does",
+      "explain": {
+        "ua": "Does yoga.",
+        "ru": "Does yoga."
+      },
+      "id": "a1-u21-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We go ___ in summer.",
+      "options": [
+        "camping",
+        "camp",
+        "to camping"
+      ],
+      "answer": "camping",
+      "explain": {
+        "ua": "Go camping.",
+        "ru": "Go camping."
+      },
+      "id": "a1-u21-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A place where you do sport with machines.",
+      "answer": "gym",
+      "accept": [
+        "a gym",
+        "the gym"
+      ],
+      "explain": {
+        "ua": "Gym.",
+        "ru": "Gym."
+      },
+      "id": "a1-u21-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Your favourite thing to do in your free time.",
+      "answer": "hobby",
+      "accept": [
+        "a hobby"
+      ],
+      "explain": {
+        "ua": "Hobby.",
+        "ru": "Hobby."
+      },
+      "id": "a1-u21-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I listen ___ music.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Listen to.",
+        "ru": "Listen to."
+      },
+      "id": "a1-u21-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "beach",
+          "right": {
+            "ua": "пляж",
+            "ru": "пляж"
+          }
+        },
+        {
+          "left": "running",
+          "right": {
+            "ua": "біг",
+            "ru": "бег"
+          }
+        },
+        {
+          "left": "painting",
+          "right": {
+            "ua": "малювання",
+            "ru": "рисование"
+          }
+        },
+        {
+          "left": "travel",
+          "right": {
+            "ua": "подорожувати",
+            "ru": "путешествовать"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u21-cp07"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "play",
+        "do",
+        "go"
+      ],
+      "reuse": false,
+      "sentences": [
+        "___ running",
+        "___ football",
+        "___ yoga"
+      ],
+      "answers": [
+        "go",
+        "play",
+        "do"
+      ],
+      "explain": {
+        "ua": "go running, play football, do yoga.",
+        "ru": "go running, play football, do yoga."
+      },
+      "id": "a1-u21-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I play yoga.",
+      "answer": "I do yoga.",
+      "accept": [],
+      "explain": {
+        "ua": "Yoga — do, не play.",
+        "ru": "Yoga — do, не play."
+      },
+      "id": "a1-u21-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "walk",
+        "Let's",
+        "go",
+        "a",
+        "for"
+      ],
+      "answer": "Let's go for a walk",
+      "explain": {
+        "ua": "Let's → go for a walk.",
+        "ru": "Let's → go for a walk."
+      },
+      "id": "a1-u21-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Моє хобі — малювання.",
+        "ru": "Моё хобби — рисование."
+      },
+      "answer": "My hobby is painting.",
+      "accept": [],
+      "explain": {
+        "ua": "My hobby is…",
+        "ru": "My hobby is…"
+      },
+      "id": "a1-u21-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "We go to the gym on Mondays.",
+      "options": [
+        "We go to the gym on Mondays.",
+        "We go to the gym in Mondays.",
+        "We go to the game on Mondays."
+      ],
+      "answer": "We go to the gym on Mondays.",
+      "audio": "",
+      "explain": {
+        "ua": "Gym — «джим».",
+        "ru": "Gym — «джим»."
+      },
+      "id": "a1-u21-cp12"
+    }
+  ]
+}

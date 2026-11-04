@@ -1,0 +1,1021 @@
+{
+  "id": "a2-u18",
+  "level": "A2",
+  "order": 18,
+  "kind": "grammar",
+  "title": {
+    "en": "Adverbs",
+    "ua": "Прислівники",
+    "ru": "Наречия"
+  },
+  "rule": {
+    "formula": {
+      "ua": "прикметник + -ly = прислівник (як?): quick → quickly",
+      "ru": "прилагательное + -ly = наречие (как?): quick → quickly"
+    },
+    "explain": {
+      "ua": "Прикметник описує іменник (a slow car). Прислівник описує дію — як? (He drives slowly). Зазвичай + -ly. Є винятки: good → well, fast → fast, hard → hard.",
+      "ru": "Прилагательное описывает существительное (a slow car). Наречие описывает действие — как? (He drives slowly). Обычно + -ly. Есть исключения: good → well, fast → fast, hard → hard."
+    },
+    "examples": [
+      {
+        "en": "She speaks quietly.",
+        "ua": "Вона говорить тихо.",
+        "ru": "Она говорит тихо."
+      },
+      {
+        "en": "He is a good cook. He cooks well.",
+        "ua": "Він добрий кухар. Він добре готує.",
+        "ru": "Он хороший повар. Он хорошо готовит."
+      },
+      {
+        "en": "Drive carefully!",
+        "ua": "Їдь обережно!",
+        "ru": "Езжай осторожно!"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "quickly",
+      "ipa": "/ˈkwɪkli/",
+      "ua": "швидко",
+      "ru": "быстро",
+      "example": "He walks quickly.",
+      "audio": ""
+    },
+    {
+      "word": "slowly",
+      "ipa": "/ˈsləʊli/",
+      "ua": "повільно",
+      "ru": "медленно",
+      "example": "Speak slowly, please.",
+      "audio": ""
+    },
+    {
+      "word": "carefully",
+      "ipa": "/ˈkeəfəli/",
+      "ua": "обережно, уважно",
+      "ru": "осторожно, внимательно",
+      "example": "Read carefully.",
+      "audio": ""
+    },
+    {
+      "word": "quietly",
+      "ipa": "/ˈkwaɪətli/",
+      "ua": "тихо",
+      "ru": "тихо",
+      "example": "She speaks quietly.",
+      "audio": ""
+    },
+    {
+      "word": "loudly",
+      "ipa": "/ˈlaʊdli/",
+      "ua": "голосно",
+      "ru": "громко",
+      "example": "Don't talk loudly.",
+      "audio": ""
+    },
+    {
+      "word": "easily",
+      "ipa": "/ˈiːzəli/",
+      "ua": "легко",
+      "ru": "легко",
+      "example": "He won easily.",
+      "audio": ""
+    },
+    {
+      "word": "well",
+      "ipa": "/wel/",
+      "ua": "добре",
+      "ru": "хорошо",
+      "example": "She sings well.",
+      "audio": ""
+    },
+    {
+      "word": "badly",
+      "ipa": "/ˈbædli/",
+      "ua": "погано",
+      "ru": "плохо",
+      "example": "I slept badly.",
+      "audio": ""
+    },
+    {
+      "word": "fast",
+      "ipa": "/fɑːst/",
+      "ua": "швидко",
+      "ru": "быстро",
+      "example": "He runs fast.",
+      "audio": ""
+    },
+    {
+      "word": "hard",
+      "ipa": "/hɑːd/",
+      "ua": "старанно, важко",
+      "ru": "усердно, тяжело",
+      "example": "She works hard.",
+      "audio": ""
+    },
+    {
+      "word": "late",
+      "ipa": "/leɪt/",
+      "ua": "пізно",
+      "ru": "поздно",
+      "example": "He came late.",
+      "audio": ""
+    },
+    {
+      "word": "early",
+      "ipa": "/ˈɜːli/",
+      "ua": "рано",
+      "ru": "рано",
+      "example": "We left early.",
+      "audio": ""
+    },
+    {
+      "word": "happily",
+      "ipa": "/ˈhæpɪli/",
+      "ua": "щасливо",
+      "ru": "счастливо",
+      "example": "They lived happily.",
+      "audio": ""
+    },
+    {
+      "word": "really",
+      "ipa": "/ˈrɪəli/",
+      "ua": "справді, дуже",
+      "ru": "действительно, очень",
+      "example": "It's really good.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u18-l01",
+      "title": {
+        "en": "-ly",
+        "ua": "-ly",
+        "ru": "-ly"
+      },
+      "recap": {
+        "from": "a2-u17-l03",
+        "note": {
+          "ua": "Згадаймо: У лікаря й в аптеці",
+          "ru": "Вспомним: У врача и в аптеке"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'd like to make an ___ with Dr Smith.",
+            "options": [
+              "appointment",
+              "prescription",
+              "medicine"
+            ],
+            "answer": "appointment",
+            "explain": {
+              "ua": "Appointment — запис.",
+              "ru": "Appointment — запись."
+            },
+            "id": "a2-u18-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's the matter? — ___",
+            "options": [
+              "I've got a sore throat.",
+              "I'm fine, thanks.",
+              "It's ten dollars."
+            ],
+            "answer": "I've got a sore throat.",
+            "explain": {
+              "ua": "What's the matter? — що з вами?",
+              "ru": "What's the matter? — что с вами?"
+            },
+            "id": "a2-u18-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "slow → slowly · careful → carefully · easy → easily · gentle → gently",
+          "ru": "slow → slowly · careful → carefully · easy → easily · gentle → gently"
+        },
+        "explain": {
+          "ua": "Прислівник = прикметник + -ly. -y → -ily (happy → happily). -le → -ly (gentle → gently). Стоїть зазвичай після дієслова: He speaks slowly.",
+          "ru": "Наречие = прилагательное + -ly. -y → -ily (happy → happily). -le → -ly (gentle → gently). Стоит обычно после глагола: He speaks slowly."
+        },
+        "examples": [
+          {
+            "en": "He drives slowly.",
+            "ua": "Він їздить повільно.",
+            "ru": "Он ездит медленно."
+          },
+          {
+            "en": "Read the question carefully.",
+            "ua": "Уважно прочитай питання.",
+            "ru": "Внимательно прочитай вопрос."
+          },
+          {
+            "en": "She smiled happily.",
+            "ua": "Вона щасливо всміхнулася.",
+            "ru": "Она счастливо улыбнулась."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "Please speak ___ . I don't understand.",
+          "options": [
+            "slowly",
+            "slow",
+            "slowy"
+          ],
+          "answer": "slowly",
+          "explain": {
+            "ua": "Як? → slowly.",
+            "ru": "Как? → slowly."
+          },
+          "id": "a2-u18-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "He's a ___ driver.",
+          "options": [
+            "careful",
+            "carefully",
+            "carefuly"
+          ],
+          "answer": "careful",
+          "explain": {
+            "ua": "Який водій? → прикметник.",
+            "ru": "Какой водитель? → прилагательное."
+          },
+          "id": "a2-u18-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "He drives ___ .",
+          "options": [
+            "carefully",
+            "careful",
+            "carefuly"
+          ],
+          "answer": "carefully",
+          "explain": {
+            "ua": "Як водить? → прислівник.",
+            "ru": "Как водит? → наречие."
+          },
+          "id": "a2-u18-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "She passed the exam ___ .",
+          "options": [
+            "easily",
+            "easyly",
+            "easy"
+          ],
+          "answer": "easily",
+          "explain": {
+            "ua": "Easy → easily.",
+            "ru": "Easy → easily."
+          },
+          "id": "a2-u18-l01-e04"
+        },
+        {
+          "type": "match",
+          "topic": "adverbs",
+          "pairs": [
+            {
+              "left": "quiet",
+              "right": "quietly"
+            },
+            {
+              "left": "happy",
+              "right": "happily"
+            },
+            {
+              "left": "bad",
+              "right": "badly"
+            },
+            {
+              "left": "loud",
+              "right": "loudly"
+            }
+          ],
+          "explain": {
+            "ua": "Прикметник → прислівник.",
+            "ru": "Прилагательное → наречие."
+          },
+          "id": "a2-u18-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs",
+          "sentence": "The children played quiet.",
+          "answer": "The children played quietly.",
+          "accept": [],
+          "explain": {
+            "ua": "Як грали? → quietly.",
+            "ru": "Как играли? → quietly."
+          },
+          "id": "a2-u18-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs",
+          "sentence": "She is a quickly runner.",
+          "answer": "She is a quick runner.",
+          "accept": [
+            "She is a fast runner."
+          ],
+          "explain": {
+            "ua": "Який? → прикметник.",
+            "ru": "Какой? → прилагательное."
+          },
+          "id": "a2-u18-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "adverbs",
+          "audio_text": "Please drive carefully.",
+          "options": [
+            "Please drive carefully.",
+            "Please drive careful.",
+            "Please dive carefully."
+          ],
+          "answer": "Please drive carefully.",
+          "audio": "",
+          "explain": {
+            "ua": "Carefully.",
+            "ru": "Carefully."
+          },
+          "id": "a2-u18-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "adverbs",
+          "prompt": {
+            "ua": "Говори повільно, будь ласка.",
+            "ru": "Говори медленно, пожалуйста."
+          },
+          "answer": "Speak slowly, please.",
+          "accept": [
+            "Please speak slowly.",
+            "Please, speak slowly."
+          ],
+          "explain": {
+            "ua": "Slowly.",
+            "ru": "Slowly."
+          },
+          "id": "a2-u18-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u18-l02",
+      "title": {
+        "en": "well, fast, hard",
+        "ua": "well, fast, hard",
+        "ru": "well, fast, hard"
+      },
+      "recap": {
+        "from": "a2-u18-l01",
+        "note": {
+          "ua": "Згадаймо: slow → slowly · careful → carefully · easy → easily · gentle → gently",
+          "ru": "Вспомним: slow → slowly · careful → carefully · easy → easily · gentle → gently"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "adverbs",
+            "question": "Please speak ___ . I don't understand.",
+            "options": [
+              "slowly",
+              "slow",
+              "slowy"
+            ],
+            "answer": "slowly",
+            "explain": {
+              "ua": "Як? → slowly.",
+              "ru": "Как? → slowly."
+            },
+            "id": "a2-u18-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "adverbs",
+            "question": "She passed the exam ___ .",
+            "options": [
+              "easily",
+              "easyly",
+              "easy"
+            ],
+            "answer": "easily",
+            "explain": {
+              "ua": "Easy → easily.",
+              "ru": "Easy → easily."
+            },
+            "id": "a2-u18-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "good → well · fast → fast · hard → hard · late → late · early → early",
+        "explain": {
+          "ua": "Винятки: good → well (She sings well). Fast, hard, late, early — без змін. Увага: hardly означає «ледве», а не «важко»!",
+          "ru": "Исключения: good → well (She sings well). Fast, hard, late, early — без изменений. Внимание: hardly значит «едва», а не «тяжело»!"
+        },
+        "examples": [
+          {
+            "en": "She's a good singer. She sings well.",
+            "ua": "Вона добра співачка. Вона добре співає.",
+            "ru": "Она хорошая певица. Она хорошо поёт."
+          },
+          {
+            "en": "He works hard.",
+            "ua": "Він багато працює.",
+            "ru": "Он много работает."
+          },
+          {
+            "en": "The train goes fast.",
+            "ua": "Потяг їде швидко.",
+            "ru": "Поезд едет быстро."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "adverbs-irregular",
+          "question": "He speaks English very ___ .",
+          "options": [
+            "well",
+            "good",
+            "goodly"
+          ],
+          "answer": "well",
+          "explain": {
+            "ua": "Як? → well.",
+            "ru": "Как? → well."
+          },
+          "id": "a2-u18-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs-irregular",
+          "question": "She works very ___ .",
+          "options": [
+            "hard",
+            "hardly",
+            "hardy"
+          ],
+          "answer": "hard",
+          "explain": {
+            "ua": "Старанно → hard.",
+            "ru": "Усердно → hard."
+          },
+          "id": "a2-u18-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs-irregular",
+          "question": "He runs very ___ .",
+          "options": [
+            "fast",
+            "fastly",
+            "fasts"
+          ],
+          "answer": "fast",
+          "explain": {
+            "ua": "Fast без -ly.",
+            "ru": "Fast без -ly."
+          },
+          "id": "a2-u18-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs-irregular",
+          "question": "Your English is very ___ !",
+          "options": [
+            "good",
+            "well",
+            "goodly"
+          ],
+          "answer": "good",
+          "explain": {
+            "ua": "Is + прикметник → good.",
+            "ru": "Is + прилагательное → good."
+          },
+          "id": "a2-u18-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs-irregular",
+          "question": "I got up ___ today — at 5!",
+          "options": [
+            "early",
+            "earlily",
+            "earlyly"
+          ],
+          "answer": "early",
+          "explain": {
+            "ua": "Early без змін.",
+            "ru": "Early без изменений."
+          },
+          "id": "a2-u18-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "adverbs-irregular",
+          "bank": [
+            "good",
+            "well",
+            "hard",
+            "fast"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She's a ___ cook.",
+            "She cooks ___ .",
+            "He works ___ .",
+            "Don't drive so ___ !"
+          ],
+          "answers": [
+            "good",
+            "well",
+            "hard",
+            "fast"
+          ],
+          "explain": {
+            "ua": "Який? → good. Як? → well, hard, fast.",
+            "ru": "Какой? → good. Как? → well, hard, fast."
+          },
+          "id": "a2-u18-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs-irregular",
+          "sentence": "He plays tennis good.",
+          "answer": "He plays tennis well.",
+          "accept": [],
+          "explain": {
+            "ua": "Як грає? → well.",
+            "ru": "Как играет? → well."
+          },
+          "id": "a2-u18-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs-irregular",
+          "sentence": "She works hardly.",
+          "answer": "She works hard.",
+          "accept": [],
+          "explain": {
+            "ua": "Hardly = ледве!",
+            "ru": "Hardly = едва!"
+          },
+          "id": "a2-u18-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "adverbs-irregular",
+          "prompt": {
+            "ua": "Ти добре говориш англійською.",
+            "ru": "Ты хорошо говоришь по-английски."
+          },
+          "answer": "You speak English well.",
+          "accept": [
+            "You speak good English.",
+            "Your English is good."
+          ],
+          "explain": {
+            "ua": "Well.",
+            "ru": "Well."
+          },
+          "id": "a2-u18-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u18-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u18-l02",
+        "note": {
+          "ua": "Згадаймо: good → well · fast → fast · hard → hard · late → late · early → early",
+          "ru": "Вспомним: good → well · fast → fast · hard → hard · late → late · early → early"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "adverbs-irregular",
+            "question": "He speaks English very ___ .",
+            "options": [
+              "well",
+              "good",
+              "goodly"
+            ],
+            "answer": "well",
+            "explain": {
+              "ua": "Як? → well.",
+              "ru": "Как? → well."
+            },
+            "id": "a2-u18-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "adverbs-irregular",
+            "question": "I got up ___ today — at 5!",
+            "options": [
+              "early",
+              "earlily",
+              "earlyly"
+            ],
+            "answer": "early",
+            "explain": {
+              "ua": "Early без змін.",
+              "ru": "Early без изменений."
+            },
+            "id": "a2-u18-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "The baby is sleeping. Please talk ___ .",
+          "options": [
+            "quietly",
+            "quiet",
+            "quite"
+          ],
+          "answer": "quietly",
+          "explain": {
+            "ua": "Як? → quietly.",
+            "ru": "Як? → quietly."
+          },
+          "id": "a2-u18-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "adverbs",
+          "question": "This soup is ___ good!",
+          "options": [
+            "really",
+            "real",
+            "realy"
+          ],
+          "answer": "really",
+          "explain": {
+            "ua": "Really — дуже.",
+            "ru": "Really — очень."
+          },
+          "id": "a2-u18-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Lisa drives fast.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Lisa's husband cooks well.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "How does Lisa speak English?",
+              "options": [
+                "fluently",
+                "badly",
+                "slowly"
+              ],
+              "answer": "fluently"
+            }
+          ],
+          "text": "My wife Lisa is a careful driver — she drives slowly and carefully. I drive fast, so she always drives when we go on holiday! I cook well, but Lisa sings beautifully. She also speaks English fluently — she studied really hard.",
+          "explain": {
+            "ua": "Lisa drives slowly and carefully; husband cooks well; Lisa speaks English fluently.",
+            "ru": "Lisa drives slowly and carefully; husband cooks well; Lisa speaks English fluently."
+          },
+          "id": "a2-u18-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "adverbs",
+          "bank": [
+            "slowly",
+            "well",
+            "beautifully",
+            "hard"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Lisa drives ___ .",
+            "Her husband cooks ___ .",
+            "Lisa sings ___ .",
+            "She studied ___ ."
+          ],
+          "answers": [
+            "slowly",
+            "well",
+            "beautifully",
+            "hard"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u18-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs",
+          "sentence": "He answered the question correct.",
+          "answer": "He answered the question correctly.",
+          "accept": [],
+          "explain": {
+            "ua": "Як відповів? → correctly.",
+            "ru": "Как ответил? → correctly."
+          },
+          "id": "a2-u18-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "adverbs",
+          "sentence": "I slept bad.",
+          "answer": "I slept badly.",
+          "accept": [],
+          "explain": {
+            "ua": "Як спав? → badly.",
+            "ru": "Как спал? → badly."
+          },
+          "id": "a2-u18-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "She",
+            "fluently",
+            "speaks",
+            "English"
+          ],
+          "answer": "She speaks English fluently",
+          "explain": {
+            "ua": "Speaks English → fluently.",
+            "ru": "Speaks English → fluently."
+          },
+          "id": "a2-u18-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "adverbs",
+          "audio_text": "He sings really well.",
+          "options": [
+            "He sings really well.",
+            "He sings real well.",
+            "He sings really good."
+          ],
+          "answer": "He sings really well.",
+          "audio": "",
+          "explain": {
+            "ua": "Really well.",
+            "ru": "Really well."
+          },
+          "id": "a2-u18-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "adverbs",
+          "prompt": {
+            "ua": "Він пізно прийшов.",
+            "ru": "Он поздно пришёл."
+          },
+          "answer": "He came late.",
+          "accept": [
+            "He arrived late."
+          ],
+          "explain": {
+            "ua": "Late без -ly.",
+            "ru": "Late без -ly."
+          },
+          "id": "a2-u18-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "adverbs",
+      "question": "He speaks ___ .",
+      "options": [
+        "quietly",
+        "quiet",
+        "quiety"
+      ],
+      "answer": "quietly",
+      "explain": {
+        "ua": "Як? → -ly.",
+        "ru": "Как? → -ly."
+      },
+      "id": "a2-u18-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "adverbs-irregular",
+      "question": "She sings ___ .",
+      "options": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "answer": "well",
+      "explain": {
+        "ua": "Good → well.",
+        "ru": "Good → well."
+      },
+      "id": "a2-u18-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "adverbs-irregular",
+      "question": "He works ___ .",
+      "options": [
+        "hard",
+        "hardly",
+        "hardy"
+      ],
+      "answer": "hard",
+      "explain": {
+        "ua": "Hard.",
+        "ru": "Hard."
+      },
+      "id": "a2-u18-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "adverbs",
+      "question": "She's a ___ driver.",
+      "options": [
+        "careful",
+        "carefully",
+        "carefuly"
+      ],
+      "answer": "careful",
+      "explain": {
+        "ua": "Який? → прикметник.",
+        "ru": "Какой? → прилагательное."
+      },
+      "id": "a2-u18-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "adverbs",
+      "question": "Please drive ___ . (careful)",
+      "answer": "carefully",
+      "accept": [],
+      "explain": {
+        "ua": "Careful → carefully.",
+        "ru": "Careful → carefully."
+      },
+      "id": "a2-u18-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "adverbs",
+      "question": "They lived ___ . (happy)",
+      "answer": "happily",
+      "accept": [],
+      "explain": {
+        "ua": "Happy → happily.",
+        "ru": "Happy → happily."
+      },
+      "id": "a2-u18-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "easy",
+          "right": "easily"
+        },
+        {
+          "left": "good",
+          "right": "well"
+        },
+        {
+          "left": "fast",
+          "right": "fast"
+        },
+        {
+          "left": "slow",
+          "right": "slowly"
+        }
+      ],
+      "explain": {
+        "ua": "Прислівники.",
+        "ru": "Наречия."
+      },
+      "id": "a2-u18-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "adverbs-irregular",
+      "sentence": "He drives very good.",
+      "answer": "He drives very well.",
+      "accept": [],
+      "explain": {
+        "ua": "Well.",
+        "ru": "Well."
+      },
+      "id": "a2-u18-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "adverbs",
+      "sentence": "Speak slow, please.",
+      "answer": "Speak slowly, please.",
+      "accept": [
+        "Please speak slowly."
+      ],
+      "explain": {
+        "ua": "Slowly.",
+        "ru": "Slowly."
+      },
+      "id": "a2-u18-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "carefully",
+        "the",
+        "Read",
+        "text"
+      ],
+      "answer": "Read the text carefully",
+      "explain": {
+        "ua": "Read the text → carefully.",
+        "ru": "Read the text → carefully."
+      },
+      "id": "a2-u18-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "adverbs",
+      "prompt": {
+        "ua": "Я погано спав.",
+        "ru": "Я плохо спал."
+      },
+      "answer": "I slept badly.",
+      "accept": [
+        "I didn't sleep well."
+      ],
+      "explain": {
+        "ua": "Badly.",
+        "ru": "Badly."
+      },
+      "id": "a2-u18-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "adverbs-irregular",
+      "audio_text": "She runs very fast.",
+      "options": [
+        "She runs very fast.",
+        "She runs very fastly.",
+        "She runs very first."
+      ],
+      "answer": "She runs very fast.",
+      "audio": "",
+      "explain": {
+        "ua": "Fast.",
+        "ru": "Fast."
+      },
+      "id": "a2-u18-cp12"
+    }
+  ]
+}

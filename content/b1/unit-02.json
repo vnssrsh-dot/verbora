@@ -1,0 +1,1450 @@
+{
+  "id": "b1-u02",
+  "level": "B1",
+  "order": 2,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Perfect Continuous",
+    "ua": "Present Perfect Continuous",
+    "ru": "Present Perfect Continuous"
+  },
+  "rule": {
+    "formula": "have / has been + -ing",
+    "explain": {
+      "ua": "Present Perfect Continuous — дія почалася в минулому, триває досі (або щойно закінчилася) і важлива її тривалість: I've been waiting for an hour!",
+      "ru": "Present Perfect Continuous — действие началось в прошлом, длится до сих пор (или только что закончилось) и важна его длительность: I've been waiting for an hour!"
+    },
+    "examples": [
+      {
+        "en": "I've been learning English for two years.",
+        "ua": "Я вивчаю англійську два роки.",
+        "ru": "Я учу английский два года."
+      },
+      {
+        "en": "It's been raining all day.",
+        "ua": "Дощ іде весь день.",
+        "ru": "Дождь идёт весь день."
+      },
+      {
+        "en": "You're wet! Have you been swimming?",
+        "ua": "Ти мокрий! Ти плавав?",
+        "ru": "Ты мокрый! Ты плавал?"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "wait",
+      "ipa": "/weɪt/",
+      "ua": "чекати",
+      "ru": "ждать",
+      "example": "I've been waiting for ages.",
+      "audio": ""
+    },
+    {
+      "word": "all day",
+      "ipa": "/ˌɔːl ˈdeɪ/",
+      "ua": "увесь день",
+      "ru": "весь день",
+      "example": "It's been raining all day.",
+      "audio": ""
+    },
+    {
+      "word": "for ages",
+      "ipa": "/fər ˈeɪdʒɪz/",
+      "ua": "цілу вічність",
+      "ru": "целую вечность",
+      "example": "I've been waiting for ages.",
+      "audio": ""
+    },
+    {
+      "word": "tired",
+      "ipa": "/ˈtaɪəd/",
+      "ua": "втомлений",
+      "ru": "уставший",
+      "example": "You look tired.",
+      "audio": ""
+    },
+    {
+      "word": "cry",
+      "ipa": "/kraɪ/",
+      "ua": "плакати",
+      "ru": "плакать",
+      "example": "Have you been crying?",
+      "audio": ""
+    },
+    {
+      "word": "run",
+      "ipa": "/rʌn/",
+      "ua": "бігати",
+      "ru": "бегать",
+      "example": "I've been running.",
+      "audio": ""
+    },
+    {
+      "word": "paint",
+      "ipa": "/peɪnt/",
+      "ua": "фарбувати",
+      "ru": "красить",
+      "example": "We've been painting the kitchen.",
+      "audio": ""
+    },
+    {
+      "word": "dirty",
+      "ipa": "/ˈdɜːti/",
+      "ua": "брудний",
+      "ru": "грязный",
+      "example": "Your hands are dirty.",
+      "audio": ""
+    },
+    {
+      "word": "out of breath",
+      "ipa": "/ˌaʊt əv ˈbreθ/",
+      "ua": "задиханий",
+      "ru": "запыхавшийся",
+      "example": "Why are you out of breath?",
+      "audio": ""
+    },
+    {
+      "word": "work on",
+      "ipa": "/ˈwɜːk ɒn/",
+      "ua": "працювати над",
+      "ru": "работать над",
+      "example": "I've been working on a project.",
+      "audio": ""
+    },
+    {
+      "word": "practise",
+      "ipa": "/ˈpræktɪs/",
+      "ua": "практикуватися",
+      "ru": "практиковаться",
+      "example": "She's been practising the piano.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u02-l01",
+      "title": {
+        "en": "Form",
+        "ua": "Утворення",
+        "ru": "Образование"
+      },
+      "recap": {
+        "from": "b1-u01-l05",
+        "note": {
+          "ua": "Згадаймо: новина / результат зараз → PP · подробиці (коли, де, як) → PS",
+          "ru": "Вспомним: новость / результат сейчас → PP · подробности (когда, где, как) → PS"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-news",
+            "question": "Look! I ___ my finger.",
+            "options": [
+              "'ve cut",
+              "cut",
+              "was cutting"
+            ],
+            "answer": "'ve cut",
+            "explain": {
+              "ua": "Новина, результат видно → PP.",
+              "ru": "Новость, результат виден → PP."
+            },
+            "id": "b1-u02-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-news",
+            "question": "He arrived at 10 and ___ a speech.",
+            "options": [
+              "gave",
+              "has given",
+              "gives"
+            ],
+            "answer": "gave",
+            "explain": {
+              "ua": "Подробиці → PS.",
+              "ru": "Подробности → PS."
+            },
+            "id": "b1-u02-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I / you / we / they have been + -ing · he / she / it has been + -ing",
+          "ru": "I / you / we / they have been + -ing · he / she / it has been + -ing"
+        },
+        "explain": {
+          "ua": "Have been / has been + дієслово з -ing. Скорочено: I've been, she's been. Українською зазвичай теперішній час: «Я чекаю годину» = I've been waiting for an hour.",
+          "ru": "Have been / has been + глагол с -ing. Сокращённо: I've been, she's been. По-русски обычно настоящее время: «Я жду час» = I've been waiting for an hour."
+        },
+        "examples": [
+          {
+            "en": "I've been working since 8.",
+            "ua": "Я працюю з восьмої.",
+            "ru": "Я работаю с восьми."
+          },
+          {
+            "en": "She's been studying all evening.",
+            "ua": "Вона вчиться весь вечір.",
+            "ru": "Она занимается весь вечер."
+          },
+          {
+            "en": "They've been living here for years.",
+            "ua": "Вони живуть тут уже багато років.",
+            "ru": "Они живут здесь уже много лет."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "I ___ been waiting for 20 minutes.",
+          "options": [
+            "have",
+            "has",
+            "am"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "I → have been.",
+            "ru": "I → have been."
+          },
+          "id": "b1-u02-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "She has been ___ all day.",
+          "options": [
+            "working",
+            "work",
+            "worked"
+          ],
+          "answer": "working",
+          "explain": {
+            "ua": "Has been + -ing.",
+            "ru": "Has been + -ing."
+          },
+          "id": "b1-u02-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "It ___ raining since morning.",
+          "options": [
+            "has been",
+            "have been",
+            "is been"
+          ],
+          "answer": "has been",
+          "explain": {
+            "ua": "It → has been.",
+            "ru": "It → has been."
+          },
+          "id": "b1-u02-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "We've been ___ English for a year.",
+          "options": [
+            "learning",
+            "learn",
+            "learned"
+          ],
+          "answer": "learning",
+          "explain": {
+            "ua": "Been + -ing.",
+            "ru": "Been + -ing."
+          },
+          "id": "b1-u02-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "ppc",
+          "bank": [
+            "have",
+            "has"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ been reading.",
+            "Tom ___ been cooking.",
+            "The kids ___ been playing.",
+            "It ___ been snowing."
+          ],
+          "answers": [
+            "have",
+            "has",
+            "have",
+            "has"
+          ],
+          "explain": {
+            "ua": "I / kids → have; Tom / it → has.",
+            "ru": "I / kids → have; Tom / it → has."
+          },
+          "id": "b1-u02-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc",
+          "sentence": "I am waiting for an hour.",
+          "answer": "I've been waiting for an hour.",
+          "accept": [
+            "I have been waiting for an hour."
+          ],
+          "explain": {
+            "ua": "Тривалість досі → PPC.",
+            "ru": "Длительность до сих пор → PPC."
+          },
+          "id": "b1-u02-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc",
+          "sentence": "She has been work here since May.",
+          "answer": "She has been working here since May.",
+          "accept": [
+            "She's been working here since May."
+          ],
+          "explain": {
+            "ua": "Been + -ing.",
+            "ru": "Been + -ing."
+          },
+          "id": "b1-u02-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc",
+          "audio_text": "It's been raining all day.",
+          "options": [
+            "It's been raining all day.",
+            "It's raining all day.",
+            "It's been training all day."
+          ],
+          "answer": "It's been raining all day.",
+          "audio": "",
+          "explain": {
+            "ua": "It's been raining.",
+            "ru": "It's been raining."
+          },
+          "id": "b1-u02-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc",
+          "prompt": {
+            "ua": "Я чекаю тебе вже годину!",
+            "ru": "Я жду тебя уже час!"
+          },
+          "answer": "I've been waiting for you for an hour!",
+          "accept": [
+            "I have been waiting for you for an hour!",
+            "I've been waiting for an hour!"
+          ],
+          "explain": {
+            "ua": "Have been waiting + for.",
+            "ru": "Have been waiting + for."
+          },
+          "id": "b1-u02-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u02-l02",
+      "title": {
+        "en": "How long + duration",
+        "ua": "How long + тривалість",
+        "ru": "How long + длительность"
+      },
+      "recap": {
+        "from": "b1-u02-l01",
+        "note": {
+          "ua": "Згадаймо: I / you / we / they have been + -ing · he / she / it has been + -ing",
+          "ru": "Вспомним: I / you / we / they have been + -ing · he / she / it has been + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ppc",
+            "question": "I ___ been waiting for 20 minutes.",
+            "options": [
+              "have",
+              "has",
+              "am"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "I → have been.",
+              "ru": "I → have been."
+            },
+            "id": "b1-u02-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ppc",
+            "question": "We've been ___ English for a year.",
+            "options": [
+              "learning",
+              "learn",
+              "learned"
+            ],
+            "answer": "learning",
+            "explain": {
+              "ua": "Been + -ing.",
+              "ru": "Been + -ing."
+            },
+            "id": "b1-u02-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "How long have you been + -ing? · for / since",
+        "explain": {
+          "ua": "Питаємо про тривалість дії, яка досі йде: How long have you been learning English? — For three years.",
+          "ru": "Спрашиваем о длительности действия, которое ещё идёт: How long have you been learning English? — For three years."
+        },
+        "examples": [
+          {
+            "en": "How long have you been waiting?",
+            "ua": "Скільки ти вже чекаєш?",
+            "ru": "Сколько ты уже ждёшь?"
+          },
+          {
+            "en": "How long has she been working here?",
+            "ua": "Скільки вона тут працює?",
+            "ru": "Сколько она здесь работает?"
+          },
+          {
+            "en": "I've been driving since 2010.",
+            "ua": "Я воджу з 2010-го.",
+            "ru": "Я вожу с 2010-го."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc-how-long",
+          "question": "How long ___ you been living here?",
+          "options": [
+            "have",
+            "did",
+            "are"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "How long have you been…?",
+            "ru": "How long have you been…?"
+          },
+          "id": "b1-u02-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-how-long",
+          "question": "How long has he been ___ ?",
+          "options": [
+            "running",
+            "run",
+            "ran"
+          ],
+          "answer": "running",
+          "explain": {
+            "ua": "Been + -ing.",
+            "ru": "Been + -ing."
+          },
+          "id": "b1-u02-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "I've been learning Spanish ___ March.",
+          "options": [
+            "since",
+            "for",
+            "ago"
+          ],
+          "answer": "since",
+          "explain": {
+            "ua": "Since March.",
+            "ru": "Since March."
+          },
+          "id": "b1-u02-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "for-since",
+          "question": "She's been working ___ six hours without a break.",
+          "options": [
+            "for",
+            "since",
+            "during"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "For six hours.",
+            "ru": "For six hours."
+          },
+          "id": "b1-u02-l02-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "ppc-how-long",
+          "question": "How long ___ it been raining?",
+          "answer": "has",
+          "accept": [],
+          "explain": {
+            "ua": "It → has.",
+            "ru": "It → has."
+          },
+          "id": "b1-u02-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-how-long",
+          "sentence": "How long are you learning English?",
+          "answer": "How long have you been learning English?",
+          "accept": [],
+          "explain": {
+            "ua": "How long + PPC.",
+            "ru": "How long + PPC."
+          },
+          "id": "b1-u02-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "for-since",
+          "sentence": "I've been working here since five years.",
+          "answer": "I've been working here for five years.",
+          "accept": [
+            "I have been working here for five years."
+          ],
+          "explain": {
+            "ua": "Період → for.",
+            "ru": "Период → for."
+          },
+          "id": "b1-u02-l02-e07"
+        },
+        {
+          "type": "build",
+          "topic": "ppc-how-long",
+          "words": [
+            "waiting",
+            "you",
+            "have",
+            "How",
+            "long",
+            "been"
+          ],
+          "answer": "How long have you been waiting",
+          "explain": {
+            "ua": "How long → have you been → waiting?",
+            "ru": "How long → have you been → waiting?"
+          },
+          "id": "b1-u02-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc-how-long",
+          "prompt": {
+            "ua": "Скільки ти вже вчиш англійську?",
+            "ru": "Сколько ты уже учишь английский?"
+          },
+          "answer": "How long have you been learning English?",
+          "accept": [
+            "How long have you been studying English?"
+          ],
+          "explain": {
+            "ua": "How long have you been…?",
+            "ru": "How long have you been…?"
+          },
+          "id": "b1-u02-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u02-l03",
+      "title": {
+        "en": "Visible result",
+        "ua": "Видимий результат",
+        "ru": "Видимый результат"
+      },
+      "recap": {
+        "from": "b1-u02-l02",
+        "note": {
+          "ua": "Згадаймо: How long have you been + -ing? · for / since",
+          "ru": "Вспомним: How long have you been + -ing? · for / since"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ppc-how-long",
+            "question": "How long ___ you been living here?",
+            "options": [
+              "have",
+              "did",
+              "are"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "How long have you been…?",
+              "ru": "How long have you been…?"
+            },
+            "id": "b1-u02-l03-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "ppc-how-long",
+            "question": "How long ___ it been raining?",
+            "answer": "has",
+            "accept": [],
+            "explain": {
+              "ua": "It → has.",
+              "ru": "It → has."
+            },
+            "id": "b1-u02-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "видно наслідки щойно закінченої тривалої дії → PPC",
+          "ru": "видны последствия только что законченного длительного действия → PPC"
+        },
+        "explain": {
+          "ua": "Бачимо результат тривалої дії: You're out of breath. — I've been running. Your eyes are red. Have you been crying?",
+          "ru": "Видим результат длительного действия: You're out of breath. — I've been running. Your eyes are red. Have you been crying?"
+        },
+        "examples": [
+          {
+            "en": "Your hands are dirty. — I've been gardening.",
+            "ua": "У тебе брудні руки. — Я працював у саду.",
+            "ru": "У тебя грязные руки. — Я работал в саду."
+          },
+          {
+            "en": "Why are you so tired? — I've been working all night.",
+            "ua": "Чому ти такий втомлений? — Я працював усю ніч.",
+            "ru": "Почему ты такой уставший? — Я работал всю ночь."
+          },
+          {
+            "en": "The ground is wet. It's been raining.",
+            "ua": "Земля мокра. Ішов дощ.",
+            "ru": "Земля мокрая. Шёл дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc-result",
+          "question": "You're out of breath! — I ___ .",
+          "options": [
+            "'ve been running",
+            "run",
+            "ran"
+          ],
+          "answer": "'ve been running",
+          "explain": {
+            "ua": "Видно наслідок → PPC.",
+            "ru": "Виден результат → PPC."
+          },
+          "id": "b1-u02-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-result",
+          "question": "Your eyes are red. Have you been ___ ?",
+          "options": [
+            "crying",
+            "cry",
+            "cried"
+          ],
+          "answer": "crying",
+          "explain": {
+            "ua": "Been crying.",
+            "ru": "Been crying."
+          },
+          "id": "b1-u02-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-result",
+          "question": "The kitchen smells of paint. We ___ .",
+          "options": [
+            "'ve been painting",
+            "paint",
+            "painted"
+          ],
+          "answer": "'ve been painting",
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc-result",
+          "question": "The streets are wet. It ___ .",
+          "options": [
+            "'s been raining",
+            "rains",
+            "rained"
+          ],
+          "answer": "'s been raining",
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "ppc-result",
+          "pairs": [
+            {
+              "left": "You look tired.",
+              "right": "I've been working all day."
+            },
+            {
+              "left": "Your hands are dirty.",
+              "right": "I've been fixing the car."
+            },
+            {
+              "left": "You're wet!",
+              "right": "I've been swimming."
+            },
+            {
+              "left": "You're hot.",
+              "right": "I've been running."
+            }
+          ],
+          "explain": {
+            "ua": "Наслідок → причина.",
+            "ru": "Следствие → причина."
+          },
+          "id": "b1-u02-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-result",
+          "sentence": "You're sweaty. Did you run?",
+          "answer": "You're sweaty. Have you been running?",
+          "accept": [],
+          "explain": {
+            "ua": "Видно наслідок → PPC.",
+            "ru": "Виден результат → PPC."
+          },
+          "id": "b1-u02-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc-result",
+          "sentence": "I'm tired because I work all day.",
+          "answer": "I'm tired because I've been working all day.",
+          "accept": [
+            "I'm tired because I have been working all day."
+          ],
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc-result",
+          "audio_text": "Have you been crying?",
+          "options": [
+            "Have you been crying?",
+            "Have you been trying?",
+            "Did you cry?"
+          ],
+          "answer": "Have you been crying?",
+          "audio": "",
+          "explain": {
+            "ua": "Crying — плакати.",
+            "ru": "Crying — плакать."
+          },
+          "id": "b1-u02-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc-result",
+          "prompt": {
+            "ua": "Я втомилася, бо прибирала весь день.",
+            "ru": "Я устала, потому что убирала весь день."
+          },
+          "answer": "I'm tired because I've been cleaning all day.",
+          "accept": [
+            "I'm tired because I have been cleaning all day."
+          ],
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u02-l04",
+      "title": {
+        "en": "Perfect or Perfect Continuous?",
+        "ua": "Perfect чи Perfect Continuous?",
+        "ru": "Perfect или Perfect Continuous?"
+      },
+      "recap": {
+        "from": "b1-u02-l03",
+        "note": {
+          "ua": "Згадаймо: видно наслідки щойно закінченої тривалої дії → PPC",
+          "ru": "Вспомним: видны последствия только что законченного длительного действия → PPC"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "ppc-result",
+            "question": "You're out of breath! — I ___ .",
+            "options": [
+              "'ve been running",
+              "run",
+              "ran"
+            ],
+            "answer": "'ve been running",
+            "explain": {
+              "ua": "Видно наслідок → PPC.",
+              "ru": "Виден результат → PPC."
+            },
+            "id": "b1-u02-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "ppc-result",
+            "question": "The streets are wet. It ___ .",
+            "options": [
+              "'s been raining",
+              "rains",
+              "rained"
+            ],
+            "answer": "'s been raining",
+            "explain": {
+              "ua": "PPC.",
+              "ru": "PPC."
+            },
+            "id": "b1-u02-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "скільки зроблено / результат → PP · як довго триває процес → PPC",
+          "ru": "сколько сделано / результат → PP · как долго длится процесс → PPC"
+        },
+        "explain": {
+          "ua": "I've written three emails (результат, скільки). I've been writing emails all morning (процес, скільки часу). Know, like, have (мати) — тільки PP: I've known him for years.",
+          "ru": "I've written three emails (результат, сколько). I've been writing emails all morning (процесс, сколько времени). Know, like, have (иметь) — только PP: I've known him for years."
+        },
+        "examples": [
+          {
+            "en": "I've read 50 pages.",
+            "ua": "Я прочитав 50 сторінок.",
+            "ru": "Я прочитал 50 страниц."
+          },
+          {
+            "en": "I've been reading for two hours.",
+            "ua": "Я читаю дві години.",
+            "ru": "Я читаю два часа."
+          },
+          {
+            "en": "I've known her since school.",
+            "ua": "Я знаю її зі школи.",
+            "ru": "Я знаю её со школы."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc",
+          "question": "I ___ three cups of coffee today.",
+          "options": [
+            "'ve drunk",
+            "'ve been drinking",
+            "drink"
+          ],
+          "answer": "'ve drunk",
+          "explain": {
+            "ua": "Скільки → PP.",
+            "ru": "Сколько → PP."
+          },
+          "id": "b1-u02-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc",
+          "question": "I ___ coffee all morning — I can't sleep now!",
+          "options": [
+            "'ve been drinking",
+            "'ve drunk",
+            "drank"
+          ],
+          "answer": "'ve been drinking",
+          "explain": {
+            "ua": "Процес → PPC.",
+            "ru": "Процесс → PPC."
+          },
+          "id": "b1-u02-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc",
+          "question": "She ___ him for ten years.",
+          "options": [
+            "has known",
+            "has been knowing",
+            "knows"
+          ],
+          "answer": "has known",
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "b1-u02-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc",
+          "question": "They ___ the house. It looks great now!",
+          "options": [
+            "'ve painted",
+            "'ve been painting",
+            "paint"
+          ],
+          "answer": "'ve painted",
+          "explain": {
+            "ua": "Готовий результат → PP.",
+            "ru": "Готовый результат → PP."
+          },
+          "id": "b1-u02-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "pp-vs-ppc",
+          "question": "We ___ this car since 2019.",
+          "options": [
+            "'ve had",
+            "'ve been having",
+            "have"
+          ],
+          "answer": "'ve had",
+          "explain": {
+            "ua": "Have (мати) — без -ing.",
+            "ru": "Have (иметь) — без -ing."
+          },
+          "id": "b1-u02-l04-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "pp-vs-ppc",
+          "bank": [
+            "'ve written",
+            "'ve been writing"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ five emails.",
+            "I ___ emails for hours.",
+            "She ___ a book. It's finished!",
+            "She ___ a book for two years."
+          ],
+          "answers": [
+            "'ve written",
+            "'ve been writing",
+            "'ve written",
+            "'ve been writing"
+          ],
+          "explain": {
+            "ua": "Скільки / готово → PP; як довго → PPC.",
+            "ru": "Сколько / готово → PP; как долго → PPC."
+          },
+          "id": "b1-u02-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ppc",
+          "sentence": "I've been knowing him for years.",
+          "answer": "I've known him for years.",
+          "accept": [
+            "I have known him for years."
+          ],
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "b1-u02-l04-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "pp-vs-ppc",
+          "sentence": "I've been reading three books this month.",
+          "answer": "I've read three books this month.",
+          "accept": [
+            "I have read three books this month."
+          ],
+          "explain": {
+            "ua": "Скільки штук → PP.",
+            "ru": "Сколько штук → PP."
+          },
+          "id": "b1-u02-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "pp-vs-ppc",
+          "prompt": {
+            "ua": "Я знаю його з дитинства.",
+            "ru": "Я знаю его с детства."
+          },
+          "answer": "I've known him since I was a child.",
+          "accept": [
+            "I have known him since I was a child.",
+            "I've known him since childhood."
+          ],
+          "explain": {
+            "ua": "Know → PP.",
+            "ru": "Know → PP."
+          },
+          "id": "b1-u02-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u02-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u02-l04",
+        "note": {
+          "ua": "Згадаймо: скільки зроблено / результат → PP · як довго триває процес → PPC",
+          "ru": "Вспомним: сколько сделано / результат → PP · как долго длится процесс → PPC"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc",
+            "question": "I ___ three cups of coffee today.",
+            "options": [
+              "'ve drunk",
+              "'ve been drinking",
+              "drink"
+            ],
+            "answer": "'ve drunk",
+            "explain": {
+              "ua": "Скільки → PP.",
+              "ru": "Сколько → PP."
+            },
+            "id": "b1-u02-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc",
+            "question": "We ___ this car since 2019.",
+            "options": [
+              "'ve had",
+              "'ve been having",
+              "have"
+            ],
+            "answer": "'ve had",
+            "explain": {
+              "ua": "Have (мати) — без -ing.",
+              "ru": "Have (иметь) — без -ing."
+            },
+            "id": "b1-u02-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "I'm so tired. I ___ since 6 am.",
+          "options": [
+            "'ve been working",
+            "work",
+            "worked"
+          ],
+          "answer": "'ve been working",
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "ppc",
+          "question": "He ___ two marathons this year.",
+          "options": [
+            "has run",
+            "has been running",
+            "runs"
+          ],
+          "answer": "has run",
+          "explain": {
+            "ua": "Скільки → PP.",
+            "ru": "Сколько → PP."
+          },
+          "id": "b1-u02-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ira has been learning English for two years.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ira has been working on her project for a month.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "Why is Ira tired?",
+              "options": [
+                "she's been working all night",
+                "she's been running",
+                "she's been crying"
+              ],
+              "answer": "she's been working all night"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Max",
+              "line": "You look tired, Ira!"
+            },
+            {
+              "speaker": "Ira",
+              "line": "I've been working all night. I've been working on a big project for a week."
+            },
+            {
+              "speaker": "Max",
+              "line": "And how's your English?"
+            },
+            {
+              "speaker": "Ira",
+              "line": "Good! I've been learning it for two years. I've read five books in English this year."
+            }
+          ],
+          "explain": {
+            "ua": "Learning 2 years; project for a week; working all night.",
+            "ru": "Learning 2 years; project for a week; working all night."
+          },
+          "id": "b1-u02-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "ppc",
+          "bank": [
+            "'s been working",
+            "'s been learning",
+            "'s read"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ira ___ all night.",
+            "She ___ English for two years.",
+            "She ___ five books this year."
+          ],
+          "answers": [
+            "'s been working",
+            "'s been learning",
+            "'s read"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u02-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc",
+          "sentence": "How long do you wait?",
+          "answer": "How long have you been waiting?",
+          "accept": [],
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "ppc",
+          "sentence": "She's been liking him for years.",
+          "answer": "She's liked him for years.",
+          "accept": [
+            "She has liked him for years."
+          ],
+          "explain": {
+            "ua": "Like — без -ing.",
+            "ru": "Like — без -ing."
+          },
+          "id": "b1-u02-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "on",
+            "a",
+            "working",
+            "this",
+            "project",
+            "for",
+            "I",
+            "have",
+            "been",
+            "week"
+          ],
+          "answer": "I have been working on this project for a week",
+          "explain": {
+            "ua": "Have been working → for a week.",
+            "ru": "Have been working → for a week."
+          },
+          "id": "b1-u02-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "ppc",
+          "audio_text": "We've been painting the kitchen.",
+          "options": [
+            "We've been painting the kitchen.",
+            "We've painted the kitchen.",
+            "We've been painting the chicken."
+          ],
+          "answer": "We've been painting the kitchen.",
+          "audio": "",
+          "explain": {
+            "ua": "Painting.",
+            "ru": "Painting."
+          },
+          "id": "b1-u02-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "ppc",
+          "prompt": {
+            "ua": "Ти мокрий! Ти плавав?",
+            "ru": "Ты мокрый! Ты плавал?"
+          },
+          "answer": "You're wet! Have you been swimming?",
+          "accept": [
+            "You are wet! Have you been swimming?"
+          ],
+          "explain": {
+            "ua": "PPC.",
+            "ru": "PPC."
+          },
+          "id": "b1-u02-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "ppc",
+      "question": "I ___ waiting for an hour.",
+      "options": [
+        "'ve been",
+        "am",
+        "was"
+      ],
+      "answer": "'ve been",
+      "explain": {
+        "ua": "PPC.",
+        "ru": "PPC."
+      },
+      "id": "b1-u02-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "ppc",
+      "question": "She has been ___ all day.",
+      "options": [
+        "studying",
+        "study",
+        "studied"
+      ],
+      "answer": "studying",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u02-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "ppc-how-long",
+      "question": "How long ___ it been raining?",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": "has",
+      "explain": {
+        "ua": "It → has.",
+        "ru": "It → has."
+      },
+      "id": "b1-u02-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "pp-vs-ppc",
+      "question": "I ___ him for ten years.",
+      "options": [
+        "'ve known",
+        "'ve been knowing",
+        "know"
+      ],
+      "answer": "'ve known",
+      "explain": {
+        "ua": "Know → PP.",
+        "ru": "Know → PP."
+      },
+      "id": "b1-u02-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "ppc-result",
+      "question": "You're out of breath! Have you been ___ ?",
+      "options": [
+        "running",
+        "run",
+        "ran"
+      ],
+      "answer": "running",
+      "explain": {
+        "ua": "PPC.",
+        "ru": "PPC."
+      },
+      "id": "b1-u02-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "for-since",
+      "question": "We've been living here ___ 2021.",
+      "answer": "since",
+      "accept": [],
+      "explain": {
+        "ua": "Since.",
+        "ru": "Since."
+      },
+      "id": "b1-u02-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "pp-vs-ppc",
+      "question": "I've ___ two books this month. (read)",
+      "answer": "read",
+      "accept": [],
+      "explain": {
+        "ua": "Скільки → PP.",
+        "ru": "Сколько → PP."
+      },
+      "id": "b1-u02-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "ppc",
+      "sentence": "I'm learning English for three years.",
+      "answer": "I've been learning English for three years.",
+      "accept": [
+        "I have been learning English for three years."
+      ],
+      "explain": {
+        "ua": "PPC.",
+        "ru": "PPC."
+      },
+      "id": "b1-u02-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "ppc",
+      "sentence": "She has been work all day.",
+      "answer": "She has been working all day.",
+      "accept": [
+        "She's been working all day."
+      ],
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-u02-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "ppc",
+      "words": [
+        "been",
+        "has",
+        "since",
+        "snowing",
+        "morning",
+        "It"
+      ],
+      "answer": "It has been snowing since morning",
+      "explain": {
+        "ua": "Has been snowing → since morning.",
+        "ru": "Has been snowing → since morning."
+      },
+      "id": "b1-u02-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "ppc-how-long",
+      "prompt": {
+        "ua": "Скільки ти вже тут чекаєш?",
+        "ru": "Сколько ты уже здесь ждёшь?"
+      },
+      "answer": "How long have you been waiting here?",
+      "accept": [],
+      "explain": {
+        "ua": "PPC.",
+        "ru": "PPC."
+      },
+      "id": "b1-u02-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "ppc",
+      "audio_text": "I've been working on it for ages.",
+      "options": [
+        "I've been working on it for ages.",
+        "I work on it for ages.",
+        "I've been walking on it for ages."
+      ],
+      "answer": "I've been working on it for ages.",
+      "audio": "",
+      "explain": {
+        "ua": "For ages.",
+        "ru": "For ages."
+      },
+      "id": "b1-u02-cp12"
+    }
+  ]
+}

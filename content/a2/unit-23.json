@@ -1,0 +1,1549 @@
+{
+  "id": "a2-u23",
+  "level": "A2",
+  "order": 23,
+  "kind": "vocab",
+  "title": {
+    "en": "Holidays and active rest",
+    "ua": "Відпустка й активний відпочинок",
+    "ru": "Отпуск и активный отдых"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "holiday",
+      "ipa": "/ˈhɒlədeɪ/",
+      "ua": "відпустка, канікули",
+      "ru": "отпуск, каникулы",
+      "example": "We're on holiday.",
+      "audio": ""
+    },
+    {
+      "word": "day off",
+      "ipa": "/ˌdeɪ ˈɒf/",
+      "ua": "вихідний (день)",
+      "ru": "выходной (день)",
+      "example": "I've got a day off tomorrow.",
+      "audio": ""
+    },
+    {
+      "word": "resort",
+      "ipa": "/rɪˈzɔːt/",
+      "ua": "курорт",
+      "ru": "курорт",
+      "example": "a ski resort",
+      "audio": ""
+    },
+    {
+      "word": "campsite",
+      "ipa": "/ˈkæmpsaɪt/",
+      "ua": "кемпінг (місце)",
+      "ru": "кемпинг (место)",
+      "example": "We stayed at a campsite.",
+      "audio": ""
+    },
+    {
+      "word": "tent",
+      "ipa": "/tent/",
+      "ua": "намет",
+      "ru": "палатка",
+      "example": "We slept in a tent.",
+      "audio": ""
+    },
+    {
+      "word": "rucksack",
+      "ipa": "/ˈrʌksæk/",
+      "ua": "рюкзак",
+      "ru": "рюкзак",
+      "example": "Pack your rucksack.",
+      "audio": ""
+    },
+    {
+      "word": "guidebook",
+      "ipa": "/ˈɡaɪdbʊk/",
+      "ua": "путівник",
+      "ru": "путеводитель",
+      "example": "Check the guidebook.",
+      "audio": ""
+    },
+    {
+      "word": "guide",
+      "ipa": "/ɡaɪd/",
+      "ua": "екскурсовод, гід",
+      "ru": "экскурсовод, гид",
+      "example": "Our guide was great.",
+      "audio": ""
+    },
+    {
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "ua": "огляд визначних місць",
+      "ru": "осмотр достопримечательностей",
+      "example": "We went sightseeing.",
+      "audio": ""
+    },
+    {
+      "word": "souvenir",
+      "ipa": "/ˌsuːvəˈnɪə/",
+      "ua": "сувенір",
+      "ru": "сувенир",
+      "example": "I bought some souvenirs.",
+      "audio": ""
+    },
+    {
+      "word": "sunbathe",
+      "ipa": "/ˈsʌnbeɪð/",
+      "ua": "засмагати",
+      "ru": "загорать",
+      "example": "We sunbathed on the beach.",
+      "audio": ""
+    },
+    {
+      "word": "get a tan",
+      "ipa": "/ˌɡet ə ˈtæn/",
+      "ua": "засмагнути",
+      "ru": "загореть",
+      "example": "I got a tan.",
+      "audio": ""
+    },
+    {
+      "word": "hiking",
+      "ipa": "/ˈhaɪkɪŋ/",
+      "ua": "піший похід",
+      "ru": "пеший поход",
+      "example": "We went hiking in the mountains.",
+      "audio": ""
+    },
+    {
+      "word": "cycling",
+      "ipa": "/ˈsaɪklɪŋ/",
+      "ua": "катання на велосипеді",
+      "ru": "езда на велосипеде",
+      "example": "I love cycling.",
+      "audio": ""
+    },
+    {
+      "word": "first aid kit",
+      "ipa": "/ˌfɜːst ˈeɪd kɪt/",
+      "ua": "аптечка",
+      "ru": "аптечка",
+      "example": "Take a first aid kit.",
+      "audio": ""
+    },
+    {
+      "word": "binoculars",
+      "ipa": "/bɪˈnɒkjələz/",
+      "ua": "бінокль",
+      "ru": "бинокль",
+      "example": "Look through the binoculars.",
+      "audio": ""
+    },
+    {
+      "word": "map",
+      "ipa": "/mæp/",
+      "ua": "карта",
+      "ru": "карта",
+      "example": "Have you got a map?",
+      "audio": ""
+    },
+    {
+      "word": "dictionary",
+      "ipa": "/ˈdɪkʃənri/",
+      "ua": "словник",
+      "ru": "словарь",
+      "example": "Take a dictionary.",
+      "audio": ""
+    },
+    {
+      "word": "arrival / departure",
+      "ipa": "/əˈraɪvl/ /dɪˈpɑːtʃə/",
+      "ua": "прибуття / відправлення",
+      "ru": "прибытие / отправление",
+      "example": "arrival time",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u23-l01",
+      "title": {
+        "en": "Holiday places",
+        "ua": "Місця для відпочинку",
+        "ru": "Места для отдыха"
+      },
+      "recap": {
+        "from": "a2-u22-l02",
+        "note": {
+          "ua": "Згадаймо: when / before / after / until + теперішній = майбутнє",
+          "ru": "Вспомним: when / before / after / until + настоящее = будущее"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "time-clauses",
+            "question": "I'll call you when I ___ home.",
+            "options": [
+              "get",
+              "will get",
+              "got"
+            ],
+            "answer": "get",
+            "explain": {
+              "ua": "Після when — Present Simple.",
+              "ru": "После when — Present Simple."
+            },
+            "id": "a2-u23-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "time-clauses",
+            "question": "Text me as soon as you ___ .",
+            "options": [
+              "arrive",
+              "will arrive",
+              "arrived"
+            ],
+            "answer": "arrive",
+            "explain": {
+              "ua": "As soon as + Present Simple.",
+              "ru": "As soon as + Present Simple."
+            },
+            "id": "a2-u23-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "resort",
+              "right": {
+                "ua": "курорт",
+                "ru": "курорт"
+              }
+            },
+            {
+              "left": "campsite",
+              "right": {
+                "ua": "кемпінг",
+                "ru": "кемпинг"
+              }
+            },
+            {
+              "left": "tent",
+              "right": {
+                "ua": "намет",
+                "ru": "палатка"
+              }
+            },
+            {
+              "left": "day off",
+              "right": {
+                "ua": "вихідний",
+                "ru": "выходной"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u23-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We stayed in a ___ at the campsite.",
+          "options": [
+            "tent",
+            "rucksack",
+            "map"
+          ],
+          "answer": "tent",
+          "explain": {
+            "ua": "Tent — намет.",
+            "ru": "Tent — палатка."
+          },
+          "id": "a2-u23-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A place by the sea or in the mountains with hotels for tourists is a ___.",
+          "options": [
+            "resort",
+            "tent",
+            "guide"
+          ],
+          "answer": "resort",
+          "explain": {
+            "ua": "Resort — курорт.",
+            "ru": "Resort — курорт."
+          },
+          "id": "a2-u23-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I don't work tomorrow. I've got a ___.",
+          "options": [
+            "day off",
+            "holiday off",
+            "free day off"
+          ],
+          "answer": "day off",
+          "explain": {
+            "ua": "Day off — вихідний.",
+            "ru": "Day off — выходной."
+          },
+          "id": "a2-u23-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We're going ___ holiday in August.",
+          "options": [
+            "on",
+            "in",
+            "to"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "Go on holiday.",
+            "ru": "Go on holiday."
+          },
+          "id": "a2-u23-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A big bag you carry on your back.",
+          "answer": "rucksack",
+          "accept": [
+            "backpack",
+            "a rucksack"
+          ],
+          "explain": {
+            "ua": "Rucksack — рюкзак.",
+            "ru": "Rucksack — рюкзак."
+          },
+          "id": "a2-u23-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We go to holiday in July.",
+          "answer": "We go on holiday in July.",
+          "accept": [],
+          "explain": {
+            "ua": "Go on holiday.",
+            "ru": "Go on holiday."
+          },
+          "id": "a2-u23-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/rɪˈzɔːt/",
+          "options": [
+            "resort",
+            "result",
+            "report"
+          ],
+          "answer": "resort",
+          "explain": {
+            "ua": "s тут — /z/.",
+            "ru": "s здесь — /z/."
+          },
+          "id": "a2-u23-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми жили в наметі.",
+            "ru": "Мы жили в палатке."
+          },
+          "answer": "We stayed in a tent.",
+          "accept": [
+            "We lived in a tent.",
+            "We slept in a tent."
+          ],
+          "explain": {
+            "ua": "In a tent.",
+            "ru": "In a tent."
+          },
+          "id": "a2-u23-l01-e09"
+        }
+      ],
+      "words": [
+        "holiday",
+        "day off",
+        "resort",
+        "campsite",
+        "tent",
+        "rucksack"
+      ]
+    },
+    {
+      "id": "a2-u23-l02",
+      "title": {
+        "en": "Things to take",
+        "ua": "Що взяти з собою",
+        "ru": "Что взять с собой"
+      },
+      "recap": {
+        "from": "a2-u23-l01",
+        "note": {
+          "ua": "Згадаймо: Місця для відпочинку",
+          "ru": "Вспомним: Места для отдыха"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We stayed in a ___ at the campsite.",
+            "options": [
+              "tent",
+              "rucksack",
+              "map"
+            ],
+            "answer": "tent",
+            "explain": {
+              "ua": "Tent — намет.",
+              "ru": "Tent — палатка."
+            },
+            "id": "a2-u23-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We're going ___ holiday in August.",
+            "options": [
+              "on",
+              "in",
+              "to"
+            ],
+            "answer": "on",
+            "explain": {
+              "ua": "Go on holiday.",
+              "ru": "Go on holiday."
+            },
+            "id": "a2-u23-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "first aid kit",
+              "right": {
+                "ua": "аптечка",
+                "ru": "аптечка"
+              }
+            },
+            {
+              "left": "binoculars",
+              "right": {
+                "ua": "бінокль",
+                "ru": "бинокль"
+              }
+            },
+            {
+              "left": "guidebook",
+              "right": {
+                "ua": "путівник",
+                "ru": "путеводитель"
+              }
+            },
+            {
+              "left": "map",
+              "right": {
+                "ua": "карта",
+                "ru": "карта"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u23-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We need a ___ to translate words on our trip.",
+          "options": [
+            "dictionary",
+            "tent",
+            "souvenir"
+          ],
+          "answer": "dictionary",
+          "explain": {
+            "ua": "Dictionary — словник.",
+            "ru": "Dictionary — словарь."
+          },
+          "id": "a2-u23-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Can I borrow your ___ ? I want to see that ship.",
+          "options": [
+            "binoculars",
+            "guidebook",
+            "tent"
+          ],
+          "answer": "binoculars",
+          "explain": {
+            "ua": "Binoculars — бінокль.",
+            "ru": "Binoculars — бинокль."
+          },
+          "id": "a2-u23-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You cut your finger! Where's the ___ ?",
+          "options": [
+            "first aid kit",
+            "map",
+            "guidebook"
+          ],
+          "answer": "first aid kit",
+          "explain": {
+            "ua": "Аптечка.",
+            "ru": "Аптечка."
+          },
+          "id": "a2-u23-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A book with information for tourists about a city.",
+          "answer": "guidebook",
+          "accept": [
+            "a guidebook",
+            "travel guide"
+          ],
+          "explain": {
+            "ua": "Guidebook — путівник.",
+            "ru": "Guidebook — путеводитель."
+          },
+          "id": "a2-u23-l02-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "lost",
+          "answer": "map",
+          "accept": [
+            "a map",
+            "GPS"
+          ],
+          "explain": {
+            "ua": "Загубилися → карта.",
+            "ru": "Заблудились → карта."
+          },
+          "id": "a2-u23-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Where are my binocular?",
+          "answer": "Where are my binoculars?",
+          "accept": [],
+          "explain": {
+            "ua": "Binoculars — завжди множина.",
+            "ru": "Binoculars — всегда множественное."
+          },
+          "id": "a2-u23-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Don't forget the first aid kit.",
+          "options": [
+            "Don't forget the first aid kit.",
+            "Don't forget the first aid kid.",
+            "Don't forget the fast aid kit."
+          ],
+          "answer": "Don't forget the first aid kit.",
+          "audio": "",
+          "explain": {
+            "ua": "First aid kit.",
+            "ru": "First aid kit."
+          },
+          "id": "a2-u23-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Візьми карту й путівник.",
+            "ru": "Возьми карту и путеводитель."
+          },
+          "answer": "Take a map and a guidebook.",
+          "accept": [
+            "Take the map and the guidebook."
+          ],
+          "explain": {
+            "ua": "A map and a guidebook.",
+            "ru": "A map and a guidebook."
+          },
+          "id": "a2-u23-l02-e09"
+        }
+      ],
+      "words": [
+        "guidebook",
+        "first aid kit",
+        "binoculars",
+        "map",
+        "dictionary"
+      ]
+    },
+    {
+      "id": "a2-u23-l03",
+      "title": {
+        "en": "Activities",
+        "ua": "Заняття на відпочинку",
+        "ru": "Занятия на отдыхе"
+      },
+      "recap": {
+        "from": "a2-u23-l02",
+        "note": {
+          "ua": "Згадаймо: Що взяти з собою",
+          "ru": "Вспомним: Что взять с собой"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We need a ___ to translate words on our trip.",
+            "options": [
+              "dictionary",
+              "tent",
+              "souvenir"
+            ],
+            "answer": "dictionary",
+            "explain": {
+              "ua": "Dictionary — словник.",
+              "ru": "Dictionary — словарь."
+            },
+            "id": "a2-u23-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A book with information for tourists about a city.",
+            "answer": "guidebook",
+            "accept": [
+              "a guidebook",
+              "travel guide"
+            ],
+            "explain": {
+              "ua": "Guidebook — путівник.",
+              "ru": "Guidebook — путеводитель."
+            },
+            "id": "a2-u23-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "sightseeing",
+              "right": {
+                "ua": "огляд визначних місць",
+                "ru": "осмотр достопримечательностей"
+              }
+            },
+            {
+              "left": "sunbathe",
+              "right": {
+                "ua": "засмагати",
+                "ru": "загорать"
+              }
+            },
+            {
+              "left": "hiking",
+              "right": {
+                "ua": "піший похід",
+                "ru": "пеший поход"
+              }
+            },
+            {
+              "left": "souvenir",
+              "right": {
+                "ua": "сувенір",
+                "ru": "сувенир"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u23-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We went ___ in the mountains.",
+          "options": [
+            "hiking",
+            "sunbathing",
+            "sightseeing"
+          ],
+          "answer": "hiking",
+          "explain": {
+            "ua": "Гори → hiking.",
+            "ru": "Горы → hiking."
+          },
+          "id": "a2-u23-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "In Rome we went ___ — we saw the Colosseum.",
+          "options": [
+            "sightseeing",
+            "hiking",
+            "camping"
+          ],
+          "answer": "sightseeing",
+          "explain": {
+            "ua": "Визначні місця → sightseeing.",
+            "ru": "Достопримечательности → sightseeing."
+          },
+          "id": "a2-u23-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We lay on the beach and ___ .",
+          "options": [
+            "sunbathed",
+            "hiked",
+            "cycled"
+          ],
+          "answer": "sunbathed",
+          "explain": {
+            "ua": "Sunbathe — засмагати.",
+            "ru": "Sunbathe — загорать."
+          },
+          "id": "a2-u23-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I bought a lot of ___ for my friends.",
+          "options": [
+            "souvenirs",
+            "guides",
+            "tents"
+          ],
+          "answer": "souvenirs",
+          "explain": {
+            "ua": "Souvenirs.",
+            "ru": "Souvenirs."
+          },
+          "id": "a2-u23-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "go",
+            "get",
+            "buy"
+          ],
+          "reuse": true,
+          "sentences": [
+            "___ sightseeing",
+            "___ a tan",
+            "___ souvenirs",
+            "___ hiking"
+          ],
+          "answers": [
+            "go",
+            "get",
+            "buy",
+            "go"
+          ],
+          "explain": {
+            "ua": "go sightseeing / hiking, get a tan, buy souvenirs.",
+            "ru": "go sightseeing / hiking, get a tan, buy souvenirs."
+          },
+          "id": "a2-u23-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person who shows tourists a city.",
+          "answer": "guide",
+          "accept": [
+            "a guide",
+            "tour guide"
+          ],
+          "explain": {
+            "ua": "Guide — гід.",
+            "ru": "Guide — гид."
+          },
+          "id": "a2-u23-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We made sightseeing.",
+          "answer": "We went sightseeing.",
+          "accept": [],
+          "explain": {
+            "ua": "Go sightseeing.",
+            "ru": "Go sightseeing."
+          },
+          "id": "a2-u23-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я засмагла на пляжі.",
+            "ru": "Я загорела на пляже."
+          },
+          "answer": "I got a tan on the beach.",
+          "accept": [
+            "I got tanned on the beach."
+          ],
+          "explain": {
+            "ua": "Get a tan.",
+            "ru": "Get a tan."
+          },
+          "id": "a2-u23-l03-e09"
+        }
+      ],
+      "words": [
+        "guide",
+        "sightseeing",
+        "souvenir",
+        "sunbathe",
+        "get a tan",
+        "hiking",
+        "cycling"
+      ]
+    },
+    {
+      "id": "a2-u23-l04",
+      "title": {
+        "en": "In context: holiday plans",
+        "ua": "У контексті: плани на канікули",
+        "ru": "В контексте: планы на каникулы"
+      },
+      "recap": {
+        "from": "a2-u23-l03",
+        "note": {
+          "ua": "Згадаймо: Заняття на відпочинку",
+          "ru": "Вспомним: Занятия на отдыхе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We went ___ in the mountains.",
+            "options": [
+              "hiking",
+              "sunbathing",
+              "sightseeing"
+            ],
+            "answer": "hiking",
+            "explain": {
+              "ua": "Гори → hiking.",
+              "ru": "Горы → hiking."
+            },
+            "id": "a2-u23-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I bought a lot of ___ for my friends.",
+            "options": [
+              "souvenirs",
+              "guides",
+              "tents"
+            ],
+            "answer": "souvenirs",
+            "explain": {
+              "ua": "Souvenirs.",
+              "ru": "Souvenirs."
+            },
+            "id": "a2-u23-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "Where are Fiona's parents going?",
+              "options": [
+                "to India",
+                "to Bristol",
+                "to the mountains"
+              ],
+              "answer": "to India"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Fiona is going to stay with her aunt.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Jason has been to Bristol before.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What does Jason advise?",
+              "options": [
+                "explore the city and take photos",
+                "stay at home",
+                "go to India"
+              ],
+              "answer": "explore the city and take photos"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Fiona",
+              "line": "Hi, Jason! My holidays start soon. My parents are going to India, and I'm going to stay with my aunt for a week."
+            },
+            {
+              "speaker": "Jason",
+              "line": "Where does she live?"
+            },
+            {
+              "speaker": "Fiona",
+              "line": "In Bristol. But I don't know anyone there."
+            },
+            {
+              "speaker": "Jason",
+              "line": "You should explore the city! Take your camera and take photos of the sights. You can also go cycling or have a picnic."
+            },
+            {
+              "speaker": "Fiona",
+              "line": "Good idea! My aunt has two sons — my cousins. My uncle is good at camping, so maybe we'll go camping together."
+            },
+            {
+              "speaker": "Jason",
+              "line": "Sounds great!"
+            },
+            {
+              "speaker": "Fiona",
+              "line": "You can come to Bristol for a day too!"
+            },
+            {
+              "speaker": "Jason",
+              "line": "Thanks! I've never been to Bristol."
+            }
+          ],
+          "explain": {
+            "ua": "Parents → India; Fiona → aunt in Bristol; Jason: explore, take photos, cycling, picnic; never been to Bristol.",
+            "ru": "Parents → India; Fiona → aunt in Bristol; Jason: explore, take photos, cycling, picnic; never been to Bristol."
+          },
+          "id": "a2-u23-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "India",
+            "aunt",
+            "photos",
+            "camping",
+            "never"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Fiona's parents are going to ___.",
+            "Fiona is staying with her ___.",
+            "Jason says she should take ___.",
+            "Her uncle is good at ___.",
+            "Jason has ___ been to Bristol."
+          ],
+          "answers": [
+            "India",
+            "aunt",
+            "photos",
+            "camping",
+            "never"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u23-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Sounds great!",
+              "right": {
+                "ua": "Звучить чудово!",
+                "ru": "Звучит отлично!"
+              }
+            },
+            {
+              "left": "Good idea!",
+              "right": {
+                "ua": "Гарна ідея!",
+                "ru": "Хорошая идея!"
+              }
+            },
+            {
+              "left": "I don't know anyone",
+              "right": {
+                "ua": "я нікого не знаю",
+                "ru": "я никого не знаю"
+              }
+            },
+            {
+              "left": "be good at",
+              "right": {
+                "ua": "добре вміти",
+                "ru": "хорошо уметь"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u23-l04-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Take photos of sides.",
+          "answer": "Take photos of the sights.",
+          "accept": [],
+          "explain": {
+            "ua": "Визначні місця — sights.",
+            "ru": "Достопримечательности — sights."
+          },
+          "id": "a2-u23-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "pronouns-object",
+          "sentence": "I can learn something from he.",
+          "answer": "I can learn something from him.",
+          "accept": [],
+          "explain": {
+            "ua": "Після from — him.",
+            "ru": "После from — him."
+          },
+          "id": "a2-u23-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My uncle is good in camping.",
+          "answer": "My uncle is good at camping.",
+          "accept": [],
+          "explain": {
+            "ua": "Good AT.",
+            "ru": "Good AT."
+          },
+          "id": "a2-u23-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I've never been to Bristol.",
+          "options": [
+            "I've never been to Bristol.",
+            "I've ever been to Bristol.",
+            "I never went to Bristol."
+          ],
+          "answer": "I've never been to Bristol.",
+          "audio": "",
+          "explain": {
+            "ua": "Never been.",
+            "ru": "Never been."
+          },
+          "id": "a2-u23-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "should",
+          "prompt": {
+            "ua": "Тобі варто дослідити місто.",
+            "ru": "Тебе стоит исследовать город."
+          },
+          "answer": "You should explore the city.",
+          "accept": [],
+          "explain": {
+            "ua": "Should explore.",
+            "ru": "Should explore."
+          },
+          "id": "a2-u23-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u23-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u23-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: плани на канікули",
+          "ru": "Вспомним: В контексте: планы на каникулы"
+        },
+        "exercises": [
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Take photos of sides.",
+            "answer": "Take photos of the sights.",
+            "accept": [],
+            "explain": {
+              "ua": "Визначні місця — sights.",
+              "ru": "Достопримечательности — sights."
+            },
+            "id": "a2-u23-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "My uncle is good in camping.",
+            "answer": "My uncle is good at camping.",
+            "accept": [],
+            "explain": {
+              "ua": "Good AT.",
+              "ru": "Good AT."
+            },
+            "id": "a2-u23-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "campsite",
+              "right": {
+                "ua": "кемпінг",
+                "ru": "кемпинг"
+              }
+            },
+            {
+              "left": "souvenir",
+              "right": {
+                "ua": "сувенір",
+                "ru": "сувенир"
+              }
+            },
+            {
+              "left": "cycling",
+              "right": {
+                "ua": "катання на велосипеді",
+                "ru": "езда на велосипеде"
+              }
+            },
+            {
+              "left": "departure",
+              "right": {
+                "ua": "відправлення",
+                "ru": "отправление"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u23-l05-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "holiday voucher",
+            "weather",
+            "swimming",
+            "took",
+            "notebook"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Steve's parents won a ___ to a resort by the sea.",
+            "The ___ was warm and sunny.",
+            "Every morning Steve went ___.",
+            "He ___ a lot of photos.",
+            "He wrote in his ___ about his holiday."
+          ],
+          "answers": [
+            "holiday voucher",
+            "weather",
+            "swimming",
+            "took",
+            "notebook"
+          ],
+          "explain": {
+            "ua": "Розповідь про відпустку.",
+            "ru": "Рассказ об отпуске."
+          },
+          "id": "a2-u23-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A campsite can't be without ___.",
+          "options": [
+            "tents",
+            "guides",
+            "souvenirs"
+          ],
+          "answer": "tents",
+          "explain": {
+            "ua": "Кемпінг — намети.",
+            "ru": "Кемпинг — палатки."
+          },
+          "id": "a2-u23-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I can't go cycling. I haven't got a ___.",
+          "options": [
+            "bike",
+            "tent",
+            "map"
+          ],
+          "answer": "bike",
+          "explain": {
+            "ua": "Cycling — велосипед.",
+            "ru": "Cycling — велосипед."
+          },
+          "id": "a2-u23-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My mum has a ___ after sunbathing.",
+          "options": [
+            "tan",
+            "tent",
+            "tour"
+          ],
+          "answer": "tan",
+          "explain": {
+            "ua": "Has a tan — засмагла.",
+            "ru": "Has a tan — загорела."
+          },
+          "id": "a2-u23-l05-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The time when a plane or train leaves.",
+          "answer": "departure",
+          "accept": [
+            "departure time"
+          ],
+          "explain": {
+            "ua": "Departure — відправлення.",
+            "ru": "Departure — отправление."
+          },
+          "id": "a2-u23-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We're going to camping.",
+          "answer": "We're going camping.",
+          "accept": [
+            "We are going camping."
+          ],
+          "explain": {
+            "ua": "Go camping — без to.",
+            "ru": "Go camping — без to."
+          },
+          "id": "a2-u23-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Let's go hiking this weekend.",
+          "options": [
+            "Let's go hiking this weekend.",
+            "Let's go hiking this week.",
+            "Let's go biking this weekend."
+          ],
+          "answer": "Let's go hiking this weekend.",
+          "audio": "",
+          "explain": {
+            "ua": "Hiking.",
+            "ru": "Hiking."
+          },
+          "id": "a2-u23-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ми ходили на екскурсію містом.",
+            "ru": "Мы ходили на экскурсию по городу."
+          },
+          "answer": "We went sightseeing in the city.",
+          "accept": [
+            "We went on a city tour.",
+            "We went on a tour of the city.",
+            "We went sightseeing around the city."
+          ],
+          "explain": {
+            "ua": "Go sightseeing.",
+            "ru": "Go sightseeing."
+          },
+          "id": "a2-u23-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We slept in a ___.",
+      "options": [
+        "tent",
+        "map",
+        "guide"
+      ],
+      "answer": "tent",
+      "explain": {
+        "ua": "Tent.",
+        "ru": "Tent."
+      },
+      "id": "a2-u23-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We went ___ in Paris.",
+      "options": [
+        "sightseeing",
+        "hiking",
+        "sunbathing"
+      ],
+      "answer": "sightseeing",
+      "explain": {
+        "ua": "Sightseeing.",
+        "ru": "Sightseeing."
+      },
+      "id": "a2-u23-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We're going ___ holiday.",
+      "options": [
+        "on",
+        "in",
+        "to"
+      ],
+      "answer": "on",
+      "explain": {
+        "ua": "On holiday.",
+        "ru": "On holiday."
+      },
+      "id": "a2-u23-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A small box with medicine for a trip.",
+      "answer": "first aid kit",
+      "accept": [
+        "a first aid kit"
+      ],
+      "explain": {
+        "ua": "First aid kit.",
+        "ru": "First aid kit."
+      },
+      "id": "a2-u23-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A thing you buy to remember a place.",
+      "answer": "souvenir",
+      "accept": [
+        "a souvenir"
+      ],
+      "explain": {
+        "ua": "Souvenir.",
+        "ru": "Souvenir."
+      },
+      "id": "a2-u23-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I got a ___ on the beach.",
+      "answer": "tan",
+      "accept": [],
+      "explain": {
+        "ua": "Get a tan.",
+        "ru": "Get a tan."
+      },
+      "id": "a2-u23-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "rucksack",
+          "right": {
+            "ua": "рюкзак",
+            "ru": "рюкзак"
+          }
+        },
+        {
+          "left": "resort",
+          "right": {
+            "ua": "курорт",
+            "ru": "курорт"
+          }
+        },
+        {
+          "left": "guidebook",
+          "right": {
+            "ua": "путівник",
+            "ru": "путеводитель"
+          }
+        },
+        {
+          "left": "hiking",
+          "right": {
+            "ua": "піший похід",
+            "ru": "пеший поход"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u23-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We made sightseeing.",
+      "answer": "We went sightseeing.",
+      "accept": [],
+      "explain": {
+        "ua": "Go sightseeing.",
+        "ru": "Go sightseeing."
+      },
+      "id": "a2-u23-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Where are my binocular?",
+      "answer": "Where are my binoculars?",
+      "accept": [],
+      "explain": {
+        "ua": "Binoculars — множина.",
+        "ru": "Binoculars — множественное."
+      },
+      "id": "a2-u23-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "We",
+        "stayed",
+        "lake",
+        "the",
+        "at",
+        "by",
+        "campsite",
+        "a"
+      ],
+      "answer": "We stayed at a campsite by the lake",
+      "explain": {
+        "ua": "We stayed → at a campsite → by the lake.",
+        "ru": "We stayed → at a campsite → by the lake."
+      },
+      "id": "a2-u23-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Завтра в мене вихідний.",
+        "ru": "Завтра у меня выходной."
+      },
+      "answer": "I've got a day off tomorrow.",
+      "accept": [
+        "I have a day off tomorrow.",
+        "Tomorrow is my day off.",
+        "Tomorrow I have a day off."
+      ],
+      "explain": {
+        "ua": "Day off.",
+        "ru": "Day off."
+      },
+      "id": "a2-u23-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Our guide was really nice.",
+      "options": [
+        "Our guide was really nice.",
+        "Our guy was really nice.",
+        "Our guide was really late."
+      ],
+      "answer": "Our guide was really nice.",
+      "audio": "",
+      "explain": {
+        "ua": "Guide — «гайд».",
+        "ru": "Guide — «гайд»."
+      },
+      "id": "a2-u23-cp12"
+    }
+  ]
+}

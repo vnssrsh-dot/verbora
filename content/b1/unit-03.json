@@ -1,0 +1,1596 @@
+{
+  "id": "b1-u03",
+  "level": "B1",
+  "order": 3,
+  "kind": "vocab",
+  "title": {
+    "en": "Work and careers",
+    "ua": "Робота й кар'єра",
+    "ru": "Работа и карьера"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "ua": "колега",
+      "ru": "коллега",
+      "example": "My colleagues are friendly.",
+      "audio": ""
+    },
+    {
+      "word": "boss",
+      "ipa": "/bɒs/",
+      "ua": "начальник",
+      "ru": "начальник",
+      "example": "My boss is strict.",
+      "audio": ""
+    },
+    {
+      "word": "manager",
+      "ipa": "/ˈmænɪdʒə/",
+      "ua": "менеджер, керівник",
+      "ru": "менеджер, руководитель",
+      "example": "She's a project manager.",
+      "audio": ""
+    },
+    {
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "ua": "зарплата (місячна)",
+      "ru": "зарплата (месячная)",
+      "example": "a good salary",
+      "audio": ""
+    },
+    {
+      "word": "full-time",
+      "ipa": "/ˌfʊl ˈtaɪm/",
+      "ua": "повний робочий день",
+      "ru": "полный рабочий день",
+      "example": "a full-time job",
+      "audio": ""
+    },
+    {
+      "word": "part-time",
+      "ipa": "/ˌpɑːt ˈtaɪm/",
+      "ua": "неповний робочий день",
+      "ru": "неполный рабочий день",
+      "example": "She works part-time.",
+      "audio": ""
+    },
+    {
+      "word": "remote work",
+      "ipa": "/rɪˌməʊt ˈwɜːk/",
+      "ua": "віддалена робота",
+      "ru": "удалённая работа",
+      "example": "I do remote work.",
+      "audio": ""
+    },
+    {
+      "word": "responsible for",
+      "ipa": "/rɪˈspɒnsəbl fə/",
+      "ua": "відповідальний за",
+      "ru": "ответственный за",
+      "example": "I'm responsible for sales.",
+      "audio": ""
+    },
+    {
+      "word": "deal with",
+      "ipa": "/ˈdiːl wɪð/",
+      "ua": "мати справу з, займатися",
+      "ru": "иметь дело с, заниматься",
+      "example": "I deal with customers.",
+      "audio": ""
+    },
+    {
+      "word": "customer",
+      "ipa": "/ˈkʌstəmə/",
+      "ua": "клієнт, покупець",
+      "ru": "клиент, покупатель",
+      "example": "Our customers are happy.",
+      "audio": ""
+    },
+    {
+      "word": "apply for",
+      "ipa": "/əˈplaɪ fə/",
+      "ua": "подавати заявку на",
+      "ru": "подавать заявку на",
+      "example": "I applied for the job.",
+      "audio": ""
+    },
+    {
+      "word": "CV",
+      "ipa": "/ˌsiː ˈviː/",
+      "ua": "резюме",
+      "ru": "резюме",
+      "example": "Send us your CV.",
+      "audio": ""
+    },
+    {
+      "word": "job interview",
+      "ipa": "/ˈdʒɒb ˌɪntəvjuː/",
+      "ua": "співбесіда",
+      "ru": "собеседование",
+      "example": "I have a job interview tomorrow.",
+      "audio": ""
+    },
+    {
+      "word": "experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "ua": "досвід",
+      "ru": "опыт",
+      "example": "Do you have any experience?",
+      "audio": ""
+    },
+    {
+      "word": "skills",
+      "ipa": "/skɪlz/",
+      "ua": "навички",
+      "ru": "навыки",
+      "example": "good computer skills",
+      "audio": ""
+    },
+    {
+      "word": "get a promotion",
+      "ipa": "/ˌɡet ə prəˈməʊʃn/",
+      "ua": "отримати підвищення",
+      "ru": "получить повышение",
+      "example": "She got a promotion.",
+      "audio": ""
+    },
+    {
+      "word": "quit",
+      "ipa": "/kwɪt/",
+      "ua": "звільнитися (самому)",
+      "ru": "уволиться (самому)",
+      "example": "He quit his job.",
+      "audio": ""
+    },
+    {
+      "word": "be fired",
+      "ipa": "/biː ˈfaɪəd/",
+      "ua": "бути звільненим",
+      "ru": "быть уволенным",
+      "example": "He was fired.",
+      "audio": ""
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "ua": "кінцевий термін",
+      "ru": "дедлайн",
+      "example": "The deadline is Friday.",
+      "audio": ""
+    },
+    {
+      "word": "overtime",
+      "ipa": "/ˈəʊvətaɪm/",
+      "ua": "понаднормова робота",
+      "ru": "сверхурочная работа",
+      "example": "I work overtime.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u03-l01",
+      "title": {
+        "en": "People and conditions",
+        "ua": "Люди й умови",
+        "ru": "Люди и условия"
+      },
+      "recap": {
+        "from": "b1-u02-l04",
+        "note": {
+          "ua": "Згадаймо: скільки зроблено / результат → PP · як довго триває процес → PPC",
+          "ru": "Вспомним: сколько сделано / результат → PP · как долго длится процесс → PPC"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc",
+            "question": "I ___ three cups of coffee today.",
+            "options": [
+              "'ve drunk",
+              "'ve been drinking",
+              "drink"
+            ],
+            "answer": "'ve drunk",
+            "explain": {
+              "ua": "Скільки → PP.",
+              "ru": "Сколько → PP."
+            },
+            "id": "b1-u03-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "pp-vs-ppc",
+            "question": "We ___ this car since 2019.",
+            "options": [
+              "'ve had",
+              "'ve been having",
+              "have"
+            ],
+            "answer": "'ve had",
+            "explain": {
+              "ua": "Have (мати) — без -ing.",
+              "ru": "Have (иметь) — без -ing."
+            },
+            "id": "b1-u03-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "colleague",
+              "right": {
+                "ua": "колега",
+                "ru": "коллега"
+              }
+            },
+            {
+              "left": "boss",
+              "right": {
+                "ua": "начальник",
+                "ru": "начальник"
+              }
+            },
+            {
+              "left": "salary",
+              "right": {
+                "ua": "зарплата",
+                "ru": "зарплата"
+              }
+            },
+            {
+              "left": "customer",
+              "right": {
+                "ua": "клієнт",
+                "ru": "клиент"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u03-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work 4 hours a day. It's a ___ job.",
+          "options": [
+            "part-time",
+            "full-time",
+            "overtime"
+          ],
+          "answer": "part-time",
+          "explain": {
+            "ua": "Part-time.",
+            "ru": "Part-time."
+          },
+          "id": "b1-u03-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work from home. I do ___ work.",
+          "options": [
+            "remote",
+            "full",
+            "part"
+          ],
+          "answer": "remote",
+          "explain": {
+            "ua": "Remote work.",
+            "ru": "Remote work."
+          },
+          "id": "b1-u03-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I work 10 hours today — 2 hours of ___ .",
+          "options": [
+            "overtime",
+            "part-time",
+            "salary"
+          ],
+          "answer": "overtime",
+          "explain": {
+            "ua": "Overtime — понаднормово.",
+            "ru": "Overtime — сверхурочно."
+          },
+          "id": "b1-u03-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The money you get every month for your work.",
+          "answer": "salary",
+          "accept": [
+            "a salary",
+            "wage",
+            "pay"
+          ],
+          "explain": {
+            "ua": "Salary.",
+            "ru": "Salary."
+          },
+          "id": "b1-u03-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A person you work with.",
+          "answer": "colleague",
+          "accept": [
+            "a colleague",
+            "co-worker",
+            "coworker"
+          ],
+          "explain": {
+            "ua": "Colleague.",
+            "ru": "Colleague."
+          },
+          "id": "b1-u03-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My salary are good.",
+          "answer": "My salary is good.",
+          "accept": [],
+          "explain": {
+            "ua": "Salary — однина.",
+            "ru": "Salary — единственное."
+          },
+          "id": "b1-u03-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈkɒliːɡ/",
+          "options": [
+            "colleague",
+            "college",
+            "collect"
+          ],
+          "answer": "colleague",
+          "explain": {
+            "ua": "Не плутай colleague (колега) і college (коледж).",
+            "ru": "Не путай colleague (коллега) и college (колледж)."
+          },
+          "id": "b1-u03-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я працюю віддалено.",
+            "ru": "Я работаю удалённо."
+          },
+          "answer": "I work remotely.",
+          "accept": [
+            "I work from home.",
+            "I do remote work."
+          ],
+          "explain": {
+            "ua": "Remotely.",
+            "ru": "Remotely."
+          },
+          "id": "b1-u03-l01-e09"
+        }
+      ],
+      "words": [
+        "colleague",
+        "boss",
+        "manager",
+        "salary",
+        "full-time",
+        "part-time",
+        "remote work",
+        "overtime"
+      ]
+    },
+    {
+      "id": "b1-u03-l02",
+      "title": {
+        "en": "What I do",
+        "ua": "Що я роблю на роботі",
+        "ru": "Что я делаю на работе"
+      },
+      "recap": {
+        "from": "b1-u03-l01",
+        "note": {
+          "ua": "Згадаймо: Люди й умови",
+          "ru": "Вспомним: Люди и условия"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I work 4 hours a day. It's a ___ job.",
+            "options": [
+              "part-time",
+              "full-time",
+              "overtime"
+            ],
+            "answer": "part-time",
+            "explain": {
+              "ua": "Part-time.",
+              "ru": "Part-time."
+            },
+            "id": "b1-u03-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "The money you get every month for your work.",
+            "answer": "salary",
+            "accept": [
+              "a salary",
+              "wage",
+              "pay"
+            ],
+            "explain": {
+              "ua": "Salary.",
+              "ru": "Salary."
+            },
+            "id": "b1-u03-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "responsible for",
+              "right": {
+                "ua": "відповідальний за",
+                "ru": "ответственный за"
+              }
+            },
+            {
+              "left": "deal with",
+              "right": {
+                "ua": "мати справу з",
+                "ru": "иметь дело с"
+              }
+            },
+            {
+              "left": "deadline",
+              "right": {
+                "ua": "дедлайн",
+                "ru": "дедлайн"
+              }
+            },
+            {
+              "left": "skills",
+              "right": {
+                "ua": "навички",
+                "ru": "навыки"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u03-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm responsible ___ the website.",
+          "options": [
+            "for",
+            "of",
+            "about"
+          ],
+          "answer": "for",
+          "explain": {
+            "ua": "Responsible FOR.",
+            "ru": "Responsible FOR."
+          },
+          "id": "b1-u03-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I deal ___ customers every day.",
+          "options": [
+            "with",
+            "for",
+            "to"
+          ],
+          "answer": "with",
+          "explain": {
+            "ua": "Deal WITH.",
+            "ru": "Deal WITH."
+          },
+          "id": "b1-u03-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ is on Friday. We must finish by then.",
+          "options": [
+            "deadline",
+            "salary",
+            "overtime"
+          ],
+          "answer": "deadline",
+          "explain": {
+            "ua": "Deadline.",
+            "ru": "Deadline."
+          },
+          "id": "b1-u03-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Good communication ___ are important.",
+          "options": [
+            "skills",
+            "experience",
+            "customers"
+          ],
+          "answer": "skills",
+          "explain": {
+            "ua": "Skills — навички.",
+            "ru": "Skills — навыки."
+          },
+          "id": "b1-u03-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "for",
+            "with",
+            "as",
+            "in"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I work ___ a manager.",
+            "I'm responsible ___ a team of 5.",
+            "I deal ___ clients.",
+            "I work ___ marketing."
+          ],
+          "answers": [
+            "as",
+            "for",
+            "with",
+            "in"
+          ],
+          "explain": {
+            "ua": "as, responsible for, deal with, work in.",
+            "ru": "as, responsible for, deal with, work in."
+          },
+          "id": "b1-u03-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm responsible of the project.",
+          "answer": "I'm responsible for the project.",
+          "accept": [
+            "I am responsible for the project."
+          ],
+          "explain": {
+            "ua": "Responsible FOR.",
+            "ru": "Responsible FOR."
+          },
+          "id": "b1-u03-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Do you have experiences?",
+          "answer": "Do you have any experience?",
+          "accept": [
+            "Do you have experience?"
+          ],
+          "explain": {
+            "ua": "Experience (досвід) — незлічуване.",
+            "ru": "Experience (опыт) — неисчисляемое."
+          },
+          "id": "b1-u03-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я відповідаю за продажі.",
+            "ru": "Я отвечаю за продажи."
+          },
+          "answer": "I'm responsible for sales.",
+          "accept": [
+            "I am responsible for sales.",
+            "I'm in charge of sales."
+          ],
+          "explain": {
+            "ua": "Responsible for.",
+            "ru": "Responsible for."
+          },
+          "id": "b1-u03-l02-e09"
+        }
+      ],
+      "words": [
+        "customer",
+        "responsible for",
+        "deal with",
+        "deadline",
+        "skills",
+        "experience"
+      ]
+    },
+    {
+      "id": "b1-u03-l03",
+      "title": {
+        "en": "Getting and leaving a job",
+        "ua": "Знайти й залишити роботу",
+        "ru": "Найти и оставить работу"
+      },
+      "recap": {
+        "from": "b1-u03-l02",
+        "note": {
+          "ua": "Згадаймо: Що я роблю на роботі",
+          "ru": "Вспомним: Что я делаю на работе"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm responsible ___ the website.",
+            "options": [
+              "for",
+              "of",
+              "about"
+            ],
+            "answer": "for",
+            "explain": {
+              "ua": "Responsible FOR.",
+              "ru": "Responsible FOR."
+            },
+            "id": "b1-u03-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Good communication ___ are important.",
+            "options": [
+              "skills",
+              "experience",
+              "customers"
+            ],
+            "answer": "skills",
+            "explain": {
+              "ua": "Skills — навички.",
+              "ru": "Skills — навыки."
+            },
+            "id": "b1-u03-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "apply for",
+              "right": {
+                "ua": "подавати заявку",
+                "ru": "подавать заявку"
+              }
+            },
+            {
+              "left": "CV",
+              "right": {
+                "ua": "резюме",
+                "ru": "резюме"
+              }
+            },
+            {
+              "left": "job interview",
+              "right": {
+                "ua": "співбесіда",
+                "ru": "собеседование"
+              }
+            },
+            {
+              "left": "quit",
+              "right": {
+                "ua": "звільнитися",
+                "ru": "уволиться"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u03-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I saw an advert and ___ the job.",
+          "options": [
+            "applied for",
+            "applied to",
+            "quit"
+          ],
+          "answer": "applied for",
+          "explain": {
+            "ua": "Apply for a job.",
+            "ru": "Apply for a job."
+          },
+          "id": "b1-u03-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please send your ___ to hr@company.com.",
+          "options": [
+            "CV",
+            "salary",
+            "deadline"
+          ],
+          "answer": "CV",
+          "explain": {
+            "ua": "CV — резюме.",
+            "ru": "CV — резюме."
+          },
+          "id": "b1-u03-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She worked hard and got a ___ . Now she's a manager!",
+          "options": [
+            "promotion",
+            "deadline",
+            "salary"
+          ],
+          "answer": "promotion",
+          "explain": {
+            "ua": "Promotion — підвищення.",
+            "ru": "Promotion — повышение."
+          },
+          "id": "b1-u03-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He didn't like his boss, so he ___ .",
+          "options": [
+            "quit",
+            "was fired",
+            "applied"
+          ],
+          "answer": "quit",
+          "explain": {
+            "ua": "Сам пішов — quit.",
+            "ru": "Сам ушёл — quit."
+          },
+          "id": "b1-u03-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He was always late, so he ___ .",
+          "options": [
+            "was fired",
+            "quit",
+            "got a promotion"
+          ],
+          "answer": "was fired",
+          "explain": {
+            "ua": "Його звільнили — was fired.",
+            "ru": "Его уволили — was fired."
+          },
+          "id": "b1-u03-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A meeting where a company asks you questions before they give you a job.",
+          "answer": "job interview",
+          "accept": [
+            "interview",
+            "an interview",
+            "a job interview"
+          ],
+          "explain": {
+            "ua": "Job interview.",
+            "ru": "Job interview."
+          },
+          "id": "b1-u03-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I applied to this job.",
+          "answer": "I applied for this job.",
+          "accept": [
+            "I've applied for this job."
+          ],
+          "explain": {
+            "ua": "Apply FOR a job.",
+            "ru": "Apply FOR a job."
+          },
+          "id": "b1-u03-l03-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I've got a job interview tomorrow.",
+          "options": [
+            "I've got a job interview tomorrow.",
+            "I've got a job in a view tomorrow.",
+            "I had a job interview tomorrow."
+          ],
+          "answer": "I've got a job interview tomorrow.",
+          "audio": "",
+          "explain": {
+            "ua": "Job interview.",
+            "ru": "Job interview."
+          },
+          "id": "b1-u03-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вона отримала підвищення.",
+            "ru": "Она получила повышение."
+          },
+          "answer": "She got a promotion.",
+          "accept": [
+            "She was promoted.",
+            "She has got a promotion."
+          ],
+          "explain": {
+            "ua": "Get a promotion.",
+            "ru": "Get a promotion."
+          },
+          "id": "b1-u03-l03-e10"
+        }
+      ],
+      "words": [
+        "apply for",
+        "CV",
+        "job interview",
+        "get a promotion",
+        "quit",
+        "be fired"
+      ]
+    },
+    {
+      "id": "b1-u03-l04",
+      "title": {
+        "en": "In context: a job interview",
+        "ua": "У контексті: співбесіда",
+        "ru": "В контексте: собеседование"
+      },
+      "recap": {
+        "from": "b1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: Знайти й залишити роботу",
+          "ru": "Вспомним: Найти и оставить работу"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I saw an advert and ___ the job.",
+            "options": [
+              "applied for",
+              "applied to",
+              "quit"
+            ],
+            "answer": "applied for",
+            "explain": {
+              "ua": "Apply for a job.",
+              "ru": "Apply for a job."
+            },
+            "id": "b1-u03-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "He was always late, so he ___ .",
+            "options": [
+              "was fired",
+              "quit",
+              "got a promotion"
+            ],
+            "answer": "was fired",
+            "explain": {
+              "ua": "Його звільнили — was fired.",
+              "ru": "Его уволили — was fired."
+            },
+            "id": "b1-u03-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "How long has Anna worked as a designer?",
+              "options": [
+                "for five years",
+                "for two years",
+                "since last week"
+              ],
+              "answer": "for five years"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Anna wants to work full-time in the office.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "Anna is responsible for the company website now.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "Why does she want a new job?",
+              "options": [
+                "she wants new challenges",
+                "she was fired",
+                "her salary is too high"
+              ],
+              "answer": "she wants new challenges"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Manager",
+              "line": "Tell me about your experience."
+            },
+            {
+              "speaker": "Anna",
+              "line": "I've worked as a designer for five years. At the moment I'm responsible for our company website."
+            },
+            {
+              "speaker": "Manager",
+              "line": "What skills do you have?"
+            },
+            {
+              "speaker": "Anna",
+              "line": "I'm good at design programs and I deal with customers every day."
+            },
+            {
+              "speaker": "Manager",
+              "line": "Why do you want to change jobs?"
+            },
+            {
+              "speaker": "Anna",
+              "line": "I'd like new challenges. And I'd like to do remote work two days a week."
+            },
+            {
+              "speaker": "Manager",
+              "line": "That's possible. We'll call you on Friday."
+            }
+          ],
+          "explain": {
+            "ua": "Designer 5 years, responsible for website, wants remote/part, wants new challenges.",
+            "ru": "Designer 5 years, responsible for website, wants remote/part, wants new challenges."
+          },
+          "id": "b1-u03-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "experience",
+            "responsible for",
+            "deal with",
+            "remote"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Tell me about your ___.",
+            "I'm ___ our website.",
+            "I ___ customers every day.",
+            "I'd like to do ___ work."
+          ],
+          "answers": [
+            "experience",
+            "responsible for",
+            "deal with",
+            "remote"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u03-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Tell me about…",
+              "right": {
+                "ua": "Розкажіть про…",
+                "ru": "Расскажите о…"
+              }
+            },
+            {
+              "left": "I'm good at…",
+              "right": {
+                "ua": "Я добре вмію…",
+                "ru": "Я хорошо умею…"
+              }
+            },
+            {
+              "left": "new challenges",
+              "right": {
+                "ua": "нові виклики",
+                "ru": "новые вызовы"
+              }
+            },
+            {
+              "left": "We'll call you.",
+              "right": {
+                "ua": "Ми вам зателефонуємо.",
+                "ru": "Мы вам позвоним."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази на співбесіді.",
+            "ru": "Фразы на собеседовании."
+          },
+          "id": "b1-u03-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I'm good ___ working in a team.",
+          "options": [
+            "at",
+            "in",
+            "for"
+          ],
+          "answer": "at",
+          "explain": {
+            "ua": "Good AT.",
+            "ru": "Good AT."
+          },
+          "id": "b1-u03-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "for-since",
+          "sentence": "I work as designer five years.",
+          "answer": "I've worked as a designer for five years.",
+          "accept": [
+            "I have worked as a designer for five years.",
+            "I've been working as a designer for five years."
+          ],
+          "explain": {
+            "ua": "PP + for, і артикль a.",
+            "ru": "PP + for, и артикль a."
+          },
+          "id": "b1-u03-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm good in English.",
+          "answer": "I'm good at English.",
+          "accept": [
+            "I am good at English."
+          ],
+          "explain": {
+            "ua": "Good AT.",
+            "ru": "Good AT."
+          },
+          "id": "b1-u03-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Why do you want to change jobs?",
+          "options": [
+            "Why do you want to change jobs?",
+            "Why do you want to charge jobs?",
+            "Why did you want to change jobs?"
+          ],
+          "answer": "Why do you want to change jobs?",
+          "audio": "",
+          "explain": {
+            "ua": "Change jobs.",
+            "ru": "Change jobs."
+          },
+          "id": "b1-u03-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я маю досвід роботи з клієнтами.",
+            "ru": "У меня есть опыт работы с клиентами."
+          },
+          "answer": "I have experience of working with customers.",
+          "accept": [
+            "I have experience working with customers.",
+            "I have experience with customers.",
+            "I've got experience of working with clients.",
+            "I have experience working with clients."
+          ],
+          "explain": {
+            "ua": "Experience.",
+            "ru": "Experience."
+          },
+          "id": "b1-u03-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u03-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u03-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: співбесіда",
+          "ru": "Вспомним: В контексте: собеседование"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I'm good ___ working in a team.",
+            "options": [
+              "at",
+              "in",
+              "for"
+            ],
+            "answer": "at",
+            "explain": {
+              "ua": "Good AT.",
+              "ru": "Good AT."
+            },
+            "id": "b1-u03-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "I'm good in English.",
+            "answer": "I'm good at English.",
+            "accept": [
+              "I am good at English."
+            ],
+            "explain": {
+              "ua": "Good AT.",
+              "ru": "Good AT."
+            },
+            "id": "b1-u03-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "overtime",
+              "right": {
+                "ua": "понаднормово",
+                "ru": "сверхурочно"
+              }
+            },
+            {
+              "left": "manager",
+              "right": {
+                "ua": "керівник",
+                "ru": "руководитель"
+              }
+            },
+            {
+              "left": "promotion",
+              "right": {
+                "ua": "підвищення",
+                "ru": "повышение"
+              }
+            },
+            {
+              "left": "be fired",
+              "right": {
+                "ua": "бути звільненим",
+                "ru": "быть уволенным"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u03-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a person?",
+          "options": [
+            "colleague",
+            "salary",
+            "deadline"
+          ],
+          "answer": "colleague",
+          "explain": {
+            "ua": "Colleague — людина.",
+            "ru": "Colleague — человек."
+          },
+          "id": "b1-u03-l05-e02"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "quit",
+            "applied for",
+            "got a promotion",
+            "deadline"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Max ___ five jobs last month.",
+            "He ___ his old job because he was bored.",
+            "After a year he ___ .",
+            "His ___ is tomorrow."
+          ],
+          "answers": [
+            "applied for",
+            "quit",
+            "got a promotion",
+            "deadline"
+          ],
+          "explain": {
+            "ua": "Подумай про сенс.",
+            "ru": "Подумай о смысле."
+          },
+          "id": "b1-u03-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A document with your education and work experience.",
+          "answer": "CV",
+          "accept": [
+            "a CV",
+            "resume",
+            "résumé"
+          ],
+          "explain": {
+            "ua": "CV.",
+            "ru": "CV."
+          },
+          "id": "b1-u03-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "interview",
+          "answer": "CV",
+          "accept": [
+            "job",
+            "questions"
+          ],
+          "explain": {
+            "ua": "Співбесіда → резюме.",
+            "ru": "Собеседование → резюме."
+          },
+          "id": "b1-u03-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "He was quit.",
+          "answer": "He quit.",
+          "accept": [
+            "He quit his job."
+          ],
+          "explain": {
+            "ua": "Сам — quit; його — was fired.",
+            "ru": "Сам — quit; его — was fired."
+          },
+          "id": "b1-u03-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I make overtime.",
+          "answer": "I work overtime.",
+          "accept": [
+            "I do overtime."
+          ],
+          "explain": {
+            "ua": "Work overtime.",
+            "ru": "Work overtime."
+          },
+          "id": "b1-u03-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "She's responsible for a team of ten.",
+          "options": [
+            "She's responsible for a team of ten.",
+            "She's responsible of a team of ten.",
+            "She's responsible for a tea of ten."
+          ],
+          "answer": "She's responsible for a team of ten.",
+          "audio": "",
+          "explain": {
+            "ua": "Responsible for.",
+            "ru": "Responsible for."
+          },
+          "id": "b1-u03-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мене звільнили.",
+            "ru": "Меня уволили."
+          },
+          "answer": "I was fired.",
+          "accept": [
+            "I got fired.",
+            "I've been fired."
+          ],
+          "explain": {
+            "ua": "Was fired.",
+            "ru": "Was fired."
+          },
+          "id": "b1-u03-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I'm responsible ___ the budget.",
+      "options": [
+        "for",
+        "of",
+        "with"
+      ],
+      "answer": "for",
+      "explain": {
+        "ua": "For.",
+        "ru": "For."
+      },
+      "id": "b1-u03-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "He ___ his job because he was bored.",
+      "options": [
+        "quit",
+        "was fired",
+        "applied"
+      ],
+      "answer": "quit",
+      "explain": {
+        "ua": "Quit.",
+        "ru": "Quit."
+      },
+      "id": "b1-u03-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I work from home. It's ___ work.",
+      "options": [
+        "remote",
+        "part",
+        "full"
+      ],
+      "answer": "remote",
+      "explain": {
+        "ua": "Remote.",
+        "ru": "Remote."
+      },
+      "id": "b1-u03-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person you work with.",
+      "answer": "colleague",
+      "accept": [
+        "a colleague",
+        "co-worker",
+        "coworker"
+      ],
+      "explain": {
+        "ua": "Colleague.",
+        "ru": "Colleague."
+      },
+      "id": "b1-u03-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The last day to finish a task.",
+      "answer": "deadline",
+      "accept": [
+        "a deadline"
+      ],
+      "explain": {
+        "ua": "Deadline.",
+        "ru": "Deadline."
+      },
+      "id": "b1-u03-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "I deal ___ customers.",
+      "answer": "with",
+      "accept": [],
+      "explain": {
+        "ua": "Deal with.",
+        "ru": "Deal with."
+      },
+      "id": "b1-u03-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "salary",
+          "right": {
+            "ua": "зарплата",
+            "ru": "зарплата"
+          }
+        },
+        {
+          "left": "skills",
+          "right": {
+            "ua": "навички",
+            "ru": "навыки"
+          }
+        },
+        {
+          "left": "CV",
+          "right": {
+            "ua": "резюме",
+            "ru": "резюме"
+          }
+        },
+        {
+          "left": "part-time",
+          "right": {
+            "ua": "неповний день",
+            "ru": "неполный день"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u03-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I applied to the job.",
+      "answer": "I applied for the job.",
+      "accept": [],
+      "explain": {
+        "ua": "Apply for.",
+        "ru": "Apply for."
+      },
+      "id": "b1-u03-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I have many experiences in sales.",
+      "answer": "I have a lot of experience in sales.",
+      "accept": [
+        "I have much experience in sales.",
+        "I have lots of experience in sales."
+      ],
+      "explain": {
+        "ua": "Experience — незлічуване.",
+        "ru": "Experience — неисчисляемое."
+      },
+      "id": "b1-u03-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "got",
+        "last",
+        "a",
+        "year",
+        "promotion",
+        "She"
+      ],
+      "answer": "She got a promotion last year",
+      "explain": {
+        "ua": "Got a promotion → last year.",
+        "ru": "Got a promotion → last year."
+      },
+      "id": "b1-u03-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "У мене завтра співбесіда.",
+        "ru": "У меня завтра собеседование."
+      },
+      "answer": "I've got a job interview tomorrow.",
+      "accept": [
+        "I have a job interview tomorrow.",
+        "I have an interview tomorrow.",
+        "I've got an interview tomorrow."
+      ],
+      "explain": {
+        "ua": "Job interview.",
+        "ru": "Job interview."
+      },
+      "id": "b1-u03-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The deadline is on Friday.",
+      "options": [
+        "The deadline is on Friday.",
+        "The dead line is in Friday.",
+        "The deadline was on Friday."
+      ],
+      "answer": "The deadline is on Friday.",
+      "audio": "",
+      "explain": {
+        "ua": "Deadline.",
+        "ru": "Deadline."
+      },
+      "id": "b1-u03-cp12"
+    }
+  ]
+}

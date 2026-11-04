@@ -1,0 +1,1585 @@
+{
+  "id": "c1-u16",
+  "level": "C1",
+  "order": 16,
+  "kind": "vocab",
+  "title": {
+    "en": "Psychology and relationships",
+    "ua": "Психологія й стосунки",
+    "ru": "Психология и отношения"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "motivation",
+      "ipa": "/ˌməʊtɪˈveɪʃn/",
+      "ua": "мотивація",
+      "ru": "мотивация",
+      "example": "lack of motivation",
+      "audio": ""
+    },
+    {
+      "word": "willpower",
+      "ipa": "/ˈwɪlpaʊə/",
+      "ua": "сила волі",
+      "ru": "сила воли",
+      "example": "It takes willpower.",
+      "audio": ""
+    },
+    {
+      "word": "procrastinate",
+      "ipa": "/prəˈkræstɪneɪt/",
+      "ua": "відкладати на потім",
+      "ru": "откладывать на потом",
+      "example": "Stop procrastinating!",
+      "audio": ""
+    },
+    {
+      "word": "self-esteem",
+      "ipa": "/ˌself ɪˈstiːm/",
+      "ua": "самооцінка",
+      "ru": "самооценка",
+      "example": "low self-esteem",
+      "audio": ""
+    },
+    {
+      "word": "confidence",
+      "ipa": "/ˈkɒnfɪdəns/",
+      "ua": "впевненість",
+      "ru": "уверенность",
+      "example": "gain confidence",
+      "audio": ""
+    },
+    {
+      "word": "mindset",
+      "ipa": "/ˈmaɪndset/",
+      "ua": "мислення, установка",
+      "ru": "мышление, установка",
+      "example": "a growth mindset",
+      "audio": ""
+    },
+    {
+      "word": "comfort zone",
+      "ipa": "/ˈkʌmfət zəʊn/",
+      "ua": "зона комфорту",
+      "ru": "зона комфорта",
+      "example": "step out of your comfort zone",
+      "audio": ""
+    },
+    {
+      "word": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "ua": "стійкий, життєстійкий",
+      "ru": "стойкий, жизнестойкий",
+      "example": "Children are very resilient.",
+      "audio": ""
+    },
+    {
+      "word": "overwhelmed",
+      "ipa": "/ˌəʊvəˈwelmd/",
+      "ua": "перевантажений, приголомшений",
+      "ru": "перегружен, ошеломлён",
+      "example": "I feel overwhelmed.",
+      "audio": ""
+    },
+    {
+      "word": "empathy",
+      "ipa": "/ˈempəθi/",
+      "ua": "емпатія, співчуття",
+      "ru": "эмпатия, сочувствие",
+      "example": "show empathy",
+      "audio": ""
+    },
+    {
+      "word": "supportive",
+      "ipa": "/səˈpɔːtɪv/",
+      "ua": "той, хто підтримує",
+      "ru": "поддерживающий",
+      "example": "a supportive partner",
+      "audio": ""
+    },
+    {
+      "word": "trust",
+      "ipa": "/trʌst/",
+      "ua": "довіра; довіряти",
+      "ru": "доверие; доверять",
+      "example": "build trust",
+      "audio": ""
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˌəʊpən ˈʌp/",
+      "ua": "відкритися (емоційно)",
+      "ru": "открыться (эмоционально)",
+      "example": "It's hard for him to open up.",
+      "audio": ""
+    },
+    {
+      "word": "boundaries",
+      "ipa": "/ˈbaʊndriz/",
+      "ua": "особисті межі",
+      "ru": "личные границы",
+      "example": "set boundaries",
+      "audio": ""
+    },
+    {
+      "word": "conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "ua": "конфлікт",
+      "ru": "конфликт",
+      "example": "avoid conflict",
+      "audio": ""
+    },
+    {
+      "word": "resolve",
+      "ipa": "/rɪˈzɒlv/",
+      "ua": "розв'язати",
+      "ru": "разрешить",
+      "example": "resolve a conflict",
+      "audio": ""
+    },
+    {
+      "word": "take for granted",
+      "ipa": "/teɪk fə ˈɡrɑːntɪd/",
+      "ua": "сприймати як належне",
+      "ru": "принимать как должное",
+      "example": "Don't take her for granted.",
+      "audio": ""
+    },
+    {
+      "word": "peer pressure",
+      "ipa": "/ˈpɪə ˌpreʃə/",
+      "ua": "тиск оточення",
+      "ru": "давление сверстников",
+      "example": "Teenagers face peer pressure.",
+      "audio": ""
+    },
+    {
+      "word": "cope with",
+      "ipa": "/ˈkəʊp wɪð/",
+      "ua": "справлятися з",
+      "ru": "справляться с",
+      "example": "cope with stress",
+      "audio": ""
+    },
+    {
+      "word": "burn out",
+      "ipa": "/ˌbɜːn ˈaʊt/",
+      "ua": "вигоріти",
+      "ru": "выгореть",
+      "example": "Don't work so hard — you'll burn out.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u16-l01",
+      "title": {
+        "en": "Motivation and habits",
+        "ua": "Мотивація й звички",
+        "ru": "Мотивация и привычки"
+      },
+      "recap": {
+        "from": "c1-u15-l02",
+        "note": {
+          "ua": "Згадаймо: In other words… · What I mean is… · To put it another way… · Let me rephrase that. · It's a kind of… · It's something you use for… · Could you elaborate?",
+          "ru": "Вспомним: In other words… · What I mean is… · To put it another way… · Let me rephrase that. · It's a kind of… · It's something you use for… · Could you elaborate?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "paraphrasing",
+            "question": "In other ___ , the answer is no.",
+            "options": [
+              "words",
+              "terms",
+              "ways"
+            ],
+            "answer": "words",
+            "explain": {
+              "ua": "In other words.",
+              "ru": "In other words."
+            },
+            "id": "c1-u16-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "paraphrasing",
+            "question": "It's a ___ of machine for making coffee.",
+            "options": [
+              "kind",
+              "type of",
+              "sort to"
+            ],
+            "answer": "kind",
+            "explain": {
+              "ua": "It's a kind of…",
+              "ru": "It's a kind of…"
+            },
+            "id": "c1-u16-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "motivation",
+              "right": {
+                "ua": "мотивація",
+                "ru": "мотивация"
+              }
+            },
+            {
+              "left": "willpower",
+              "right": {
+                "ua": "сила волі",
+                "ru": "сила воли"
+              }
+            },
+            {
+              "left": "procrastinate",
+              "right": {
+                "ua": "відкладати",
+                "ru": "откладывать"
+              }
+            },
+            {
+              "left": "mindset",
+              "right": {
+                "ua": "мислення",
+                "ru": "мышление"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u16-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I always ___ — I start my work at the last minute.",
+          "options": [
+            "procrastinate",
+            "motivate",
+            "resolve"
+          ],
+          "answer": "procrastinate",
+          "explain": {
+            "ua": "Procrastinate.",
+            "ru": "Procrastinate."
+          },
+          "id": "c1-u16-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It takes a lot of ___ to give up sugar.",
+          "options": [
+            "willpower",
+            "empathy",
+            "trust"
+          ],
+          "answer": "willpower",
+          "explain": {
+            "ua": "Willpower.",
+            "ru": "Willpower."
+          },
+          "id": "c1-u16-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "With a growth ___ , you see mistakes as a chance to learn.",
+          "options": [
+            "mindset",
+            "comfort zone",
+            "boundary"
+          ],
+          "answer": "mindset",
+          "explain": {
+            "ua": "Growth mindset.",
+            "ru": "Growth mindset."
+          },
+          "id": "c1-u16-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Moving abroad pushed me out of my comfort ___ .",
+          "options": [
+            "zone",
+            "area",
+            "place"
+          ],
+          "answer": "zone",
+          "explain": {
+            "ua": "Comfort zone.",
+            "ru": "Comfort zone."
+          },
+          "id": "c1-u16-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I have no ___ to study after a long day at work.",
+          "options": [
+            "motivation",
+            "willpower",
+            "self-esteem"
+          ],
+          "answer": "motivation",
+          "explain": {
+            "ua": "Motivation.",
+            "ru": "Motivation."
+          },
+          "id": "c1-u16-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Putting off things that you should do now.",
+          "answer": "procrastinate",
+          "accept": [
+            "procrastination",
+            "procrastinating"
+          ],
+          "explain": {
+            "ua": "Procrastinate.",
+            "ru": "Procrastinate."
+          },
+          "id": "c1-u16-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I'm procrastinating to do my homework.",
+          "answer": "I'm putting off my homework.",
+          "accept": [
+            "I'm procrastinating on my homework.",
+            "I keep putting off my homework.",
+            "I'm procrastinating."
+          ],
+          "explain": {
+            "ua": "Procrastinate — без to + дієслово.",
+            "ru": "Procrastinate — без to + глагол."
+          },
+          "id": "c1-u16-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/prəˈkræstɪneɪt/",
+          "options": [
+            "procrastinate",
+            "concentrate",
+            "pronounce"
+          ],
+          "answer": "procrastinate",
+          "explain": {
+            "ua": "Наголос на другому складі.",
+            "ru": "Ударение на втором слоге."
+          },
+          "id": "c1-u16-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вийди із зони комфорту.",
+            "ru": "Выйди из зоны комфорта."
+          },
+          "answer": "Step out of your comfort zone.",
+          "accept": [
+            "Get out of your comfort zone.",
+            "Leave your comfort zone.",
+            "Step outside your comfort zone."
+          ],
+          "explain": {
+            "ua": "Comfort zone.",
+            "ru": "Comfort zone."
+          },
+          "id": "c1-u16-l01-e10"
+        }
+      ],
+      "words": [
+        "motivation",
+        "willpower",
+        "procrastinate",
+        "mindset",
+        "comfort zone"
+      ]
+    },
+    {
+      "id": "c1-u16-l02",
+      "title": {
+        "en": "Emotions and resilience",
+        "ua": "Емоції й стійкість",
+        "ru": "Эмоции и стойкость"
+      },
+      "recap": {
+        "from": "c1-u16-l01",
+        "note": {
+          "ua": "Згадаймо: Мотивація й звички",
+          "ru": "Вспомним: Мотивация и привычки"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I always ___ — I start my work at the last minute.",
+            "options": [
+              "procrastinate",
+              "motivate",
+              "resolve"
+            ],
+            "answer": "procrastinate",
+            "explain": {
+              "ua": "Procrastinate.",
+              "ru": "Procrastinate."
+            },
+            "id": "c1-u16-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I have no ___ to study after a long day at work.",
+            "options": [
+              "motivation",
+              "willpower",
+              "self-esteem"
+            ],
+            "answer": "motivation",
+            "explain": {
+              "ua": "Motivation.",
+              "ru": "Motivation."
+            },
+            "id": "c1-u16-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "self-esteem",
+              "right": {
+                "ua": "самооцінка",
+                "ru": "самооценка"
+              }
+            },
+            {
+              "left": "confidence",
+              "right": {
+                "ua": "впевненість",
+                "ru": "уверенность"
+              }
+            },
+            {
+              "left": "resilient",
+              "right": {
+                "ua": "стійкий",
+                "ru": "стойкий"
+              }
+            },
+            {
+              "left": "overwhelmed",
+              "right": {
+                "ua": "перевантажений",
+                "ru": "перегружен"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u16-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Kids who are criticised all the time often have low ___ .",
+          "options": [
+            "self-esteem",
+            "willpower",
+            "mindset"
+          ],
+          "answer": "self-esteem",
+          "explain": {
+            "ua": "Low self-esteem.",
+            "ru": "Low self-esteem."
+          },
+          "id": "c1-u16-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Public speaking helped me gain ___ .",
+          "options": [
+            "confidence",
+            "conflict",
+            "pressure"
+          ],
+          "answer": "confidence",
+          "explain": {
+            "ua": "Gain confidence.",
+            "ru": "Gain confidence."
+          },
+          "id": "c1-u16-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Ukrainians are incredibly ___ — they keep going no matter what.",
+          "options": [
+            "resilient",
+            "overwhelmed",
+            "supportive"
+          ],
+          "answer": "resilient",
+          "explain": {
+            "ua": "Resilient.",
+            "ru": "Resilient."
+          },
+          "id": "c1-u16-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Work, kids, moving house… I feel completely ___ .",
+          "options": [
+            "overwhelmed",
+            "resilient",
+            "confident"
+          ],
+          "answer": "overwhelmed",
+          "explain": {
+            "ua": "Overwhelmed.",
+            "ru": "Overwhelmed."
+          },
+          "id": "c1-u16-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "How do you ___ with stress?",
+          "options": [
+            "cope",
+            "deal",
+            "resolve"
+          ],
+          "answer": "cope",
+          "explain": {
+            "ua": "Cope with.",
+            "ru": "Cope with."
+          },
+          "id": "c1-u16-l02-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "If you work 70 hours a week, you'll ___ .",
+          "options": [
+            "burn out",
+            "open up",
+            "cope"
+          ],
+          "answer": "burn out",
+          "explain": {
+            "ua": "Burn out.",
+            "ru": "Burn out."
+          },
+          "id": "c1-u16-l02-e07"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "confidence",
+            "resilient",
+            "overwhelmed",
+            "cope"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She lacks ___ at work.",
+            "He's ___ — he always bounces back.",
+            "I'm ___ with all these emails.",
+            "Exercise helps me ___ with stress."
+          ],
+          "answers": [
+            "confidence",
+            "resilient",
+            "overwhelmed",
+            "cope"
+          ],
+          "explain": {
+            "ua": "Емоції.",
+            "ru": "Эмоции."
+          },
+          "id": "c1-u16-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "I feel overwhelmed.",
+          "options": [
+            "I feel overwhelmed.",
+            "I feel well-informed.",
+            "I fell overwhelmed."
+          ],
+          "answer": "I feel overwhelmed.",
+          "audio": "",
+          "explain": {
+            "ua": "Overwhelmed.",
+            "ru": "Overwhelmed."
+          },
+          "id": "c1-u16-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Як ти справляєшся зі стресом?",
+            "ru": "Как ты справляешься со стрессом?"
+          },
+          "answer": "How do you cope with stress?",
+          "accept": [
+            "How do you deal with stress?",
+            "How do you manage stress?"
+          ],
+          "explain": {
+            "ua": "Cope with.",
+            "ru": "Cope with."
+          },
+          "id": "c1-u16-l02-e10"
+        }
+      ],
+      "words": [
+        "self-esteem",
+        "confidence",
+        "resilient",
+        "overwhelmed",
+        "cope with",
+        "burn out"
+      ]
+    },
+    {
+      "id": "c1-u16-l03",
+      "title": {
+        "en": "Relationships",
+        "ua": "Стосунки",
+        "ru": "Отношения"
+      },
+      "recap": {
+        "from": "c1-u16-l02",
+        "note": {
+          "ua": "Згадаймо: Емоції й стійкість",
+          "ru": "Вспомним: Эмоции и стойкость"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Kids who are criticised all the time often have low ___ .",
+            "options": [
+              "self-esteem",
+              "willpower",
+              "mindset"
+            ],
+            "answer": "self-esteem",
+            "explain": {
+              "ua": "Low self-esteem.",
+              "ru": "Low self-esteem."
+            },
+            "id": "c1-u16-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Work, kids, moving house… I feel completely ___ .",
+            "options": [
+              "overwhelmed",
+              "resilient",
+              "confident"
+            ],
+            "answer": "overwhelmed",
+            "explain": {
+              "ua": "Overwhelmed.",
+              "ru": "Overwhelmed."
+            },
+            "id": "c1-u16-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "empathy",
+              "right": {
+                "ua": "емпатія",
+                "ru": "эмпатия"
+              }
+            },
+            {
+              "left": "trust",
+              "right": {
+                "ua": "довіра",
+                "ru": "доверие"
+              }
+            },
+            {
+              "left": "boundaries",
+              "right": {
+                "ua": "межі",
+                "ru": "границы"
+              }
+            },
+            {
+              "left": "take for granted",
+              "right": {
+                "ua": "сприймати як належне",
+                "ru": "принимать как должное"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u16-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A good friend shows ___ — they understand how you feel.",
+          "options": [
+            "empathy",
+            "willpower",
+            "conflict"
+          ],
+          "answer": "empathy",
+          "explain": {
+            "ua": "Empathy.",
+            "ru": "Empathy."
+          },
+          "id": "c1-u16-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's important to set ___ with your boss — no calls at night.",
+          "options": [
+            "boundaries",
+            "conflicts",
+            "mindsets"
+          ],
+          "answer": "boundaries",
+          "explain": {
+            "ua": "Set boundaries.",
+            "ru": "Set boundaries."
+          },
+          "id": "c1-u16-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Once you lose someone's ___ , it's hard to get it back.",
+          "options": [
+            "trust",
+            "empathy",
+            "pressure"
+          ],
+          "answer": "trust",
+          "explain": {
+            "ua": "Trust.",
+            "ru": "Trust."
+          },
+          "id": "c1-u16-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "He finally ___ and told me about his problems.",
+          "options": [
+            "opened up",
+            "burnt out",
+            "took for granted"
+          ],
+          "answer": "opened up",
+          "explain": {
+            "ua": "Open up.",
+            "ru": "Open up."
+          },
+          "id": "c1-u16-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Don't take your parents for ___ . Call them more often.",
+          "options": [
+            "granted",
+            "grant",
+            "given"
+          ],
+          "answer": "granted",
+          "explain": {
+            "ua": "Take for granted.",
+            "ru": "Take for granted."
+          },
+          "id": "c1-u16-l03-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My husband is very ___ — he always believes in me.",
+          "options": [
+            "supportive",
+            "overwhelmed",
+            "resilient"
+          ],
+          "answer": "supportive",
+          "explain": {
+            "ua": "Supportive.",
+            "ru": "Supportive."
+          },
+          "id": "c1-u16-l03-e07"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "They talked for hours and finally ___ the conflict.",
+          "options": [
+            "resolved",
+            "coped",
+            "procrastinated"
+          ],
+          "answer": "resolved",
+          "explain": {
+            "ua": "Resolve a conflict.",
+            "ru": "Resolve a conflict."
+          },
+          "id": "c1-u16-l03-e08"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Teenagers often suffer from peers pressure.",
+          "answer": "Teenagers often suffer from peer pressure.",
+          "accept": [
+            "Teenagers often face peer pressure."
+          ],
+          "explain": {
+            "ua": "Peer pressure.",
+            "ru": "Peer pressure."
+          },
+          "id": "c1-u16-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Не сприймай мене як належне.",
+            "ru": "Не принимай меня как должное."
+          },
+          "answer": "Don't take me for granted.",
+          "accept": [],
+          "explain": {
+            "ua": "Take for granted.",
+            "ru": "Take for granted."
+          },
+          "id": "c1-u16-l03-e10"
+        }
+      ],
+      "words": [
+        "empathy",
+        "supportive",
+        "trust",
+        "open up",
+        "boundaries",
+        "conflict",
+        "resolve",
+        "take for granted",
+        "peer pressure"
+      ]
+    },
+    {
+      "id": "c1-u16-l04",
+      "title": {
+        "en": "In context: setting boundaries",
+        "ua": "У контексті: особисті межі",
+        "ru": "В контексте: личные границы"
+      },
+      "recap": {
+        "from": "c1-u16-l03",
+        "note": {
+          "ua": "Згадаймо: Стосунки",
+          "ru": "Вспомним: Отношения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "A good friend shows ___ — they understand how you feel.",
+            "options": [
+              "empathy",
+              "willpower",
+              "conflict"
+            ],
+            "answer": "empathy",
+            "explain": {
+              "ua": "Empathy.",
+              "ru": "Empathy."
+            },
+            "id": "c1-u16-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Don't take your parents for ___ . Call them more often.",
+            "options": [
+              "granted",
+              "grant",
+              "given"
+            ],
+            "answer": "granted",
+            "explain": {
+              "ua": "Take for granted.",
+              "ru": "Take for granted."
+            },
+            "id": "c1-u16-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What was Marta's problem?",
+              "options": [
+                "she couldn't say no",
+                "she had no friends",
+                "she lost her job"
+              ],
+              "answer": "she couldn't say no"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Marta's therapist suggested setting boundaries.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Her friends stopped talking to her.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "How does Marta feel now?",
+              "options": [
+                "more confident",
+                "more overwhelmed",
+                "lonely"
+              ],
+              "answer": "more confident"
+            }
+          ],
+          "text": "For years, Marta couldn't say no. She helped colleagues with their work, answered messages at midnight and always put other people first. Eventually, she felt overwhelmed and almost burnt out. Her therapist suggested she start setting boundaries. At first, Marta was afraid people would be angry, but most of her friends were very supportive. Some colleagues had taken her for granted, and they had to adjust. Now she has more time for herself and feels far more confident.",
+          "explain": {
+            "ua": "Couldn't say no; overwhelmed; burnt out; therapist: boundaries; friends supportive; more confident.",
+            "ru": "Couldn't say no; overwhelmed; burnt out; therapist: boundaries; friends supportive; more confident."
+          },
+          "id": "c1-u16-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "say no",
+            "overwhelmed",
+            "boundaries",
+            "supportive",
+            "for granted"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Marta couldn't ___.",
+            "She felt ___.",
+            "She started setting ___.",
+            "Her friends were ___.",
+            "Some colleagues had taken her ___."
+          ],
+          "answers": [
+            "say no",
+            "overwhelmed",
+            "boundaries",
+            "supportive",
+            "for granted"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u16-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "put others first",
+              "right": {
+                "ua": "ставити інших на перше місце",
+                "ru": "ставить других на первое место"
+              }
+            },
+            {
+              "left": "eventually",
+              "right": {
+                "ua": "зрештою",
+                "ru": "в конце концов"
+              }
+            },
+            {
+              "left": "adjust",
+              "right": {
+                "ua": "пристосуватися",
+                "ru": "приспособиться"
+              }
+            },
+            {
+              "left": "far more",
+              "right": {
+                "ua": "набагато більше",
+                "ru": "намного больше"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з тексту.",
+            "ru": "Фразы из текста."
+          },
+          "id": "c1-u16-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "subjunctive",
+          "question": "Her therapist suggested she ___ setting boundaries.",
+          "options": [
+            "start",
+            "starts",
+            "to start"
+          ],
+          "answer": "start",
+          "explain": {
+            "ua": "Suggest + S + базова форма.",
+            "ru": "Suggest + S + базовая форма."
+          },
+          "id": "c1-u16-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Some colleagues took her as granted.",
+          "answer": "Some colleagues took her for granted.",
+          "accept": [],
+          "explain": {
+            "ua": "Take for granted.",
+            "ru": "Take for granted."
+          },
+          "id": "c1-u16-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She feels much more confidence.",
+          "answer": "She feels much more confident.",
+          "accept": [
+            "She feels far more confident.",
+            "She has much more confidence."
+          ],
+          "explain": {
+            "ua": "Feel + прикметник.",
+            "ru": "Feel + прилагательное."
+          },
+          "id": "c1-u16-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Most of her friends were very supportive.",
+          "options": [
+            "Most of her friends were very supportive.",
+            "Most of her friends were very sportive.",
+            "Most of her friends were very expensive."
+          ],
+          "answer": "Most of her friends were very supportive.",
+          "audio": "",
+          "explain": {
+            "ua": "Supportive.",
+            "ru": "Supportive."
+          },
+          "id": "c1-u16-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Важливо встановлювати межі.",
+            "ru": "Важно устанавливать границы."
+          },
+          "answer": "It's important to set boundaries.",
+          "accept": [
+            "It is important to set boundaries.",
+            "Setting boundaries is important."
+          ],
+          "explain": {
+            "ua": "Set boundaries.",
+            "ru": "Set boundaries."
+          },
+          "id": "c1-u16-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "c1-u16-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u16-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: особисті межі",
+          "ru": "Вспомним: В контексте: личные границы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "subjunctive",
+            "question": "Her therapist suggested she ___ setting boundaries.",
+            "options": [
+              "start",
+              "starts",
+              "to start"
+            ],
+            "answer": "start",
+            "explain": {
+              "ua": "Suggest + S + базова форма.",
+              "ru": "Suggest + S + базовая форма."
+            },
+            "id": "c1-u16-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "She feels much more confidence.",
+            "answer": "She feels much more confident.",
+            "accept": [
+              "She feels far more confident.",
+              "She has much more confidence."
+            ],
+            "explain": {
+              "ua": "Feel + прикметник.",
+              "ru": "Feel + прилагательное."
+            },
+            "id": "c1-u16-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "resilient",
+              "right": {
+                "ua": "стійкий",
+                "ru": "стойкий"
+              }
+            },
+            {
+              "left": "open up",
+              "right": {
+                "ua": "відкритися",
+                "ru": "открыться"
+              }
+            },
+            {
+              "left": "cope with",
+              "right": {
+                "ua": "справлятися",
+                "ru": "справляться"
+              }
+            },
+            {
+              "left": "peer pressure",
+              "right": {
+                "ua": "тиск оточення",
+                "ru": "давление сверстников"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u16-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Confidence ↔ ___",
+          "options": [
+            "insecurity",
+            "empathy",
+            "willpower"
+          ],
+          "answer": "insecurity",
+          "explain": {
+            "ua": "Впевненість ↔ невпевненість.",
+            "ru": "Уверенность ↔ неуверенность."
+          },
+          "id": "c1-u16-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a good quality in a partner?",
+          "options": [
+            "supportive",
+            "overwhelmed",
+            "procrastinating"
+          ],
+          "answer": "supportive",
+          "explain": {
+            "ua": "Supportive.",
+            "ru": "Supportive."
+          },
+          "id": "c1-u16-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The ability to understand other people's feelings.",
+          "answer": "empathy",
+          "accept": [],
+          "explain": {
+            "ua": "Empathy.",
+            "ru": "Empathy."
+          },
+          "id": "c1-u16-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Personal rules about what you accept from others.",
+          "answer": "boundaries",
+          "accept": [
+            "boundary",
+            "personal boundaries"
+          ],
+          "explain": {
+            "ua": "Boundaries.",
+            "ru": "Boundaries."
+          },
+          "id": "c1-u16-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "therapist",
+          "answer": "self-esteem",
+          "accept": [
+            "therapy",
+            "feelings",
+            "mental health",
+            "stress",
+            "anxiety"
+          ],
+          "explain": {
+            "ua": "Терапевт → самооцінка.",
+            "ru": "Терапевт → самооценка."
+          },
+          "id": "c1-u16-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I can't cope this stress.",
+          "answer": "I can't cope with this stress.",
+          "accept": [],
+          "explain": {
+            "ua": "Cope WITH.",
+            "ru": "Cope WITH."
+          },
+          "id": "c1-u16-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Children are very resilient.",
+          "options": [
+            "Children are very resilient.",
+            "Children are very resistant.",
+            "Children are very reliant."
+          ],
+          "answer": "Children are very resilient.",
+          "audio": "",
+          "explain": {
+            "ua": "Resilient.",
+            "ru": "Resilient."
+          },
+          "id": "c1-u16-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені важко відкриватися людям.",
+            "ru": "Мне трудно открываться людям."
+          },
+          "answer": "It's hard for me to open up to people.",
+          "accept": [
+            "I find it hard to open up to people.",
+            "It's difficult for me to open up to people.",
+            "It is hard for me to open up to people."
+          ],
+          "explain": {
+            "ua": "Open up.",
+            "ru": "Open up."
+          },
+          "id": "c1-u16-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Stop ___ and start working!",
+      "options": [
+        "procrastinating",
+        "resolving",
+        "coping"
+      ],
+      "answer": "procrastinating",
+      "explain": {
+        "ua": "Procrastinate.",
+        "ru": "Procrastinate."
+      },
+      "id": "c1-u16-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "She has very low ___ .",
+      "options": [
+        "self-esteem",
+        "willpower",
+        "trust"
+      ],
+      "answer": "self-esteem",
+      "explain": {
+        "ua": "Self-esteem.",
+        "ru": "Self-esteem."
+      },
+      "id": "c1-u16-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Don't take your friends for ___ .",
+      "options": [
+        "granted",
+        "given",
+        "grant"
+      ],
+      "answer": "granted",
+      "explain": {
+        "ua": "For granted.",
+        "ru": "For granted."
+      },
+      "id": "c1-u16-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Strength to control yourself and do hard things.",
+      "answer": "willpower",
+      "accept": [
+        "self-control",
+        "discipline"
+      ],
+      "explain": {
+        "ua": "Willpower.",
+        "ru": "Willpower."
+      },
+      "id": "c1-u16-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "Feeling that there is too much to deal with.",
+      "answer": "overwhelmed",
+      "accept": [],
+      "explain": {
+        "ua": "Overwhelmed.",
+        "ru": "Overwhelmed."
+      },
+      "id": "c1-u16-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "We need to ___ this conflict.",
+      "answer": "resolve",
+      "accept": [
+        "solve"
+      ],
+      "explain": {
+        "ua": "Resolve.",
+        "ru": "Resolve."
+      },
+      "id": "c1-u16-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "mindset",
+          "right": {
+            "ua": "мислення",
+            "ru": "мышление"
+          }
+        },
+        {
+          "left": "comfort zone",
+          "right": {
+            "ua": "зона комфорту",
+            "ru": "зона комфорта"
+          }
+        },
+        {
+          "left": "trust",
+          "right": {
+            "ua": "довіра",
+            "ru": "доверие"
+          }
+        },
+        {
+          "left": "empathy",
+          "right": {
+            "ua": "емпатія",
+            "ru": "эмпатия"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "c1-u16-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "He finally opened.",
+      "answer": "He finally opened up.",
+      "accept": [],
+      "explain": {
+        "ua": "Open up.",
+        "ru": "Open up."
+      },
+      "id": "c1-u16-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I can't cope stress.",
+      "answer": "I can't cope with stress.",
+      "accept": [],
+      "explain": {
+        "ua": "Cope with.",
+        "ru": "Cope with."
+      },
+      "id": "c1-u16-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "very",
+        "She",
+        "is",
+        "kind",
+        "and",
+        "supportive"
+      ],
+      "answer": "She is very supportive and kind",
+      "explain": {
+        "ua": "Supportive.",
+        "ru": "Supportive."
+      },
+      "id": "c1-u16-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Їй потрібно більше впевненості.",
+        "ru": "Ей нужно больше уверенности."
+      },
+      "answer": "She needs more confidence.",
+      "accept": [
+        "She needs to be more confident."
+      ],
+      "explain": {
+        "ua": "Confidence.",
+        "ru": "Confidence."
+      },
+      "id": "c1-u16-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "It takes willpower.",
+      "options": [
+        "It takes willpower.",
+        "It takes power.",
+        "It took willpower."
+      ],
+      "answer": "It takes willpower.",
+      "audio": "",
+      "explain": {
+        "ua": "Willpower.",
+        "ru": "Willpower."
+      },
+      "id": "c1-u16-cp12"
+    }
+  ]
+}

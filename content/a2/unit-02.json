@@ -1,0 +1,1504 @@
+{
+  "id": "a2-u02",
+  "level": "A2",
+  "order": 2,
+  "kind": "vocab",
+  "title": {
+    "en": "Travel and transport",
+    "ua": "Подорожі й транспорт",
+    "ru": "Путешествия и транспорт"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "train",
+      "ipa": "/treɪn/",
+      "ua": "потяг",
+      "ru": "поезд",
+      "example": "We went by train.",
+      "audio": ""
+    },
+    {
+      "word": "plane",
+      "ipa": "/pleɪn/",
+      "ua": "літак",
+      "ru": "самолёт",
+      "example": "The plane is late.",
+      "audio": ""
+    },
+    {
+      "word": "taxi",
+      "ipa": "/ˈtæksi/",
+      "ua": "таксі",
+      "ru": "такси",
+      "example": "Let's take a taxi.",
+      "audio": ""
+    },
+    {
+      "word": "underground",
+      "ipa": "/ˈʌndəɡraʊnd/",
+      "ua": "метро",
+      "ru": "метро",
+      "example": "The underground is fast.",
+      "audio": ""
+    },
+    {
+      "word": "ferry",
+      "ipa": "/ˈferi/",
+      "ua": "пором",
+      "ru": "паром",
+      "example": "We took a ferry.",
+      "audio": ""
+    },
+    {
+      "word": "airport",
+      "ipa": "/ˈeəpɔːt/",
+      "ua": "аеропорт",
+      "ru": "аэропорт",
+      "example": "The airport is far.",
+      "audio": ""
+    },
+    {
+      "word": "platform",
+      "ipa": "/ˈplætfɔːm/",
+      "ua": "платформа",
+      "ru": "платформа",
+      "example": "Platform 3.",
+      "audio": ""
+    },
+    {
+      "word": "ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "ua": "квиток",
+      "ru": "билет",
+      "example": "Two tickets, please.",
+      "audio": ""
+    },
+    {
+      "word": "return ticket",
+      "ipa": "/rɪˈtɜːn ˌtɪkɪt/",
+      "ua": "квиток туди й назад",
+      "ru": "билет туда и обратно",
+      "example": "A return ticket to Lviv.",
+      "audio": ""
+    },
+    {
+      "word": "single ticket",
+      "ipa": "/ˈsɪŋɡl ˌtɪkɪt/",
+      "ua": "квиток в один бік",
+      "ru": "билет в одну сторону",
+      "example": "A single, please.",
+      "audio": ""
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpɑːspɔːt/",
+      "ua": "паспорт",
+      "ru": "паспорт",
+      "example": "Show your passport.",
+      "audio": ""
+    },
+    {
+      "word": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "ua": "багаж",
+      "ru": "багаж",
+      "example": "My luggage is heavy.",
+      "audio": ""
+    },
+    {
+      "word": "suitcase",
+      "ipa": "/ˈsuːtkeɪs/",
+      "ua": "валіза",
+      "ru": "чемодан",
+      "example": "A big suitcase.",
+      "audio": ""
+    },
+    {
+      "word": "arrive",
+      "ipa": "/əˈraɪv/",
+      "ua": "прибувати",
+      "ru": "прибывать",
+      "example": "The train arrives at 5.",
+      "audio": ""
+    },
+    {
+      "word": "leave",
+      "ipa": "/liːv/",
+      "ua": "відправлятися",
+      "ru": "отправляться",
+      "example": "The bus leaves at 7.",
+      "audio": ""
+    },
+    {
+      "word": "delayed",
+      "ipa": "/dɪˈleɪd/",
+      "ua": "затриманий",
+      "ru": "задержан",
+      "example": "Our flight is delayed.",
+      "audio": ""
+    },
+    {
+      "word": "miss",
+      "ipa": "/mɪs/",
+      "ua": "спізнитися на (транспорт)",
+      "ru": "опоздать на (транспорт)",
+      "example": "I missed the bus.",
+      "audio": ""
+    },
+    {
+      "word": "by car / by train",
+      "ipa": "/baɪ kɑː/",
+      "ua": "машиною / потягом",
+      "ru": "на машине / на поезде",
+      "example": "We go by car.",
+      "audio": ""
+    },
+    {
+      "word": "on foot",
+      "ipa": "/ɒn ˈfʊt/",
+      "ua": "пішки",
+      "ru": "пешком",
+      "example": "I go to work on foot.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u02-l01",
+      "title": {
+        "en": "Transport",
+        "ua": "Транспорт",
+        "ru": "Транспорт"
+      },
+      "recap": {
+        "from": "a2-u01-l06",
+        "note": {
+          "ua": "Згадаймо: Did + хто + базова форма? · What did you do?",
+          "ru": "Вспомним: Did + кто + базовая форма? · What did you do?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "Did you ___ the news?",
+            "options": [
+              "hear",
+              "heard",
+              "hears"
+            ],
+            "answer": "hear",
+            "explain": {
+              "ua": "Після did — базова.",
+              "ru": "После did — базовая."
+            },
+            "id": "a2-u02-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-questions",
+            "question": "Did he pay? — No, he ___.",
+            "options": [
+              "didn't",
+              "wasn't",
+              "doesn't"
+            ],
+            "answer": "didn't",
+            "explain": {
+              "ua": "No, he didn't.",
+              "ru": "No, he didn't."
+            },
+            "id": "a2-u02-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "train",
+              "right": {
+                "ua": "потяг",
+                "ru": "поезд"
+              }
+            },
+            {
+              "left": "plane",
+              "right": {
+                "ua": "літак",
+                "ru": "самолёт"
+              }
+            },
+            {
+              "left": "ferry",
+              "right": {
+                "ua": "пором",
+                "ru": "паром"
+              }
+            },
+            {
+              "left": "underground",
+              "right": {
+                "ua": "метро",
+                "ru": "метро"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u02-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I go to work ___ bus.",
+          "options": [
+            "by",
+            "on",
+            "with"
+          ],
+          "answer": "by",
+          "explain": {
+            "ua": "By bus / by car / by train.",
+            "ru": "By bus / by car / by train."
+          },
+          "id": "a2-u02-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I walk to work. I go ___ foot.",
+          "options": [
+            "on",
+            "by",
+            "with"
+          ],
+          "answer": "on",
+          "explain": {
+            "ua": "Пішки — on foot (виняток).",
+            "ru": "Пешком — on foot (исключение)."
+          },
+          "id": "a2-u02-l01-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "It flies in the sky and takes people to other countries.",
+          "answer": "plane",
+          "accept": [
+            "a plane",
+            "an aeroplane",
+            "airplane"
+          ],
+          "explain": {
+            "ua": "Plane — літак.",
+            "ru": "Plane — самолёт."
+          },
+          "id": "a2-u02-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "It takes people and cars across the sea or a river.",
+          "answer": "ferry",
+          "accept": [
+            "a ferry",
+            "boat"
+          ],
+          "explain": {
+            "ua": "Ferry — пором.",
+            "ru": "Ferry — паром."
+          },
+          "id": "a2-u02-l01-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "station",
+          "answer": "train",
+          "accept": [
+            "platform"
+          ],
+          "explain": {
+            "ua": "Вокзал → потяг.",
+            "ru": "Вокзал → поезд."
+          },
+          "id": "a2-u02-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I go to work with car.",
+          "answer": "I go to work by car.",
+          "accept": [],
+          "explain": {
+            "ua": "Транспорт — by.",
+            "ru": "Транспорт — by."
+          },
+          "id": "a2-u02-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈferi/",
+          "options": [
+            "ferry",
+            "fairy",
+            "very"
+          ],
+          "answer": "ferry",
+          "explain": {
+            "ua": "/e/ — коротке «е».",
+            "ru": "/e/ — короткое «э»."
+          },
+          "id": "a2-u02-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Візьмімо таксі.",
+            "ru": "Давай возьмём такси."
+          },
+          "answer": "Let's take a taxi.",
+          "accept": [
+            "Let's get a taxi."
+          ],
+          "explain": {
+            "ua": "Take a taxi.",
+            "ru": "Take a taxi."
+          },
+          "id": "a2-u02-l01-e09"
+        }
+      ],
+      "words": [
+        "train",
+        "plane",
+        "taxi",
+        "underground",
+        "ferry",
+        "by car / by train",
+        "on foot"
+      ]
+    },
+    {
+      "id": "a2-u02-l02",
+      "title": {
+        "en": "At the station and airport",
+        "ua": "На вокзалі й в аеропорту",
+        "ru": "На вокзале и в аэропорту"
+      },
+      "recap": {
+        "from": "a2-u02-l01",
+        "note": {
+          "ua": "Згадаймо: Транспорт",
+          "ru": "Вспомним: Транспорт"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I go to work ___ bus.",
+            "options": [
+              "by",
+              "on",
+              "with"
+            ],
+            "answer": "by",
+            "explain": {
+              "ua": "By bus / by car / by train.",
+              "ru": "By bus / by car / by train."
+            },
+            "id": "a2-u02-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "It takes people and cars across the sea or a river.",
+            "answer": "ferry",
+            "accept": [
+              "a ferry",
+              "boat"
+            ],
+            "explain": {
+              "ua": "Ferry — пором.",
+              "ru": "Ferry — паром."
+            },
+            "id": "a2-u02-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "ticket",
+              "right": {
+                "ua": "квиток",
+                "ru": "билет"
+              }
+            },
+            {
+              "left": "passport",
+              "right": {
+                "ua": "паспорт",
+                "ru": "паспорт"
+              }
+            },
+            {
+              "left": "luggage",
+              "right": {
+                "ua": "багаж",
+                "ru": "багаж"
+              }
+            },
+            {
+              "left": "platform",
+              "right": {
+                "ua": "платформа",
+                "ru": "платформа"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u02-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A ticket there and back = a ___ ticket.",
+          "options": [
+            "return",
+            "single",
+            "one"
+          ],
+          "answer": "return",
+          "explain": {
+            "ua": "Return — туди й назад.",
+            "ru": "Return — туда и обратно."
+          },
+          "id": "a2-u02-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A ticket only there = a ___ ticket.",
+          "options": [
+            "single",
+            "return",
+            "double"
+          ],
+          "answer": "single",
+          "explain": {
+            "ua": "Single — в один бік.",
+            "ru": "Single — в одну сторону."
+          },
+          "id": "a2-u02-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Show your ___ at the airport.",
+          "options": [
+            "passport",
+            "platform",
+            "luggage"
+          ],
+          "answer": "passport",
+          "explain": {
+            "ua": "Passport.",
+            "ru": "Passport."
+          },
+          "id": "a2-u02-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A big bag for clothes when you travel.",
+          "answer": "suitcase",
+          "accept": [
+            "a suitcase"
+          ],
+          "explain": {
+            "ua": "Suitcase — валіза.",
+            "ru": "Suitcase — чемодан."
+          },
+          "id": "a2-u02-l02-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "plane",
+          "answer": "airport",
+          "accept": [
+            "an airport"
+          ],
+          "explain": {
+            "ua": "Літак → аеропорт.",
+            "ru": "Самолёт → аэропорт."
+          },
+          "id": "a2-u02-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My luggages are heavy.",
+          "answer": "My luggage is heavy.",
+          "accept": [],
+          "explain": {
+            "ua": "Luggage — незлічуване, без -s.",
+            "ru": "Luggage — неисчисляемое, без -s."
+          },
+          "id": "a2-u02-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "A return ticket to Kyiv, please.",
+          "options": [
+            "A return ticket to Kyiv, please.",
+            "A single ticket to Kyiv, please.",
+            "A return ticket to Kyiv, police."
+          ],
+          "answer": "A return ticket to Kyiv, please.",
+          "audio": "",
+          "explain": {
+            "ua": "Return.",
+            "ru": "Return."
+          },
+          "id": "a2-u02-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Квиток в один бік до Львова, будь ласка.",
+            "ru": "Билет в одну сторону до Львова, пожалуйста."
+          },
+          "answer": "A single ticket to Lviv, please.",
+          "accept": [
+            "A single to Lviv, please.",
+            "One single ticket to Lviv, please."
+          ],
+          "explain": {
+            "ua": "Single ticket.",
+            "ru": "Single ticket."
+          },
+          "id": "a2-u02-l02-e09"
+        }
+      ],
+      "words": [
+        "airport",
+        "platform",
+        "ticket",
+        "return ticket",
+        "single ticket",
+        "passport",
+        "luggage",
+        "suitcase"
+      ]
+    },
+    {
+      "id": "a2-u02-l03",
+      "title": {
+        "en": "Arrive, leave, miss",
+        "ua": "Прибувати, відправлятися, спізнюватися",
+        "ru": "Прибывать, отправляться, опаздывать"
+      },
+      "recap": {
+        "from": "a2-u02-l02",
+        "note": {
+          "ua": "Згадаймо: На вокзалі й в аеропорту",
+          "ru": "Вспомним: На вокзале и в аэропорту"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "A ticket there and back = a ___ ticket.",
+            "options": [
+              "return",
+              "single",
+              "one"
+            ],
+            "answer": "return",
+            "explain": {
+              "ua": "Return — туди й назад.",
+              "ru": "Return — туда и обратно."
+            },
+            "id": "a2-u02-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A big bag for clothes when you travel.",
+            "answer": "suitcase",
+            "accept": [
+              "a suitcase"
+            ],
+            "explain": {
+              "ua": "Suitcase — валіза.",
+              "ru": "Suitcase — чемодан."
+            },
+            "id": "a2-u02-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "arrive",
+              "right": {
+                "ua": "прибувати",
+                "ru": "прибывать"
+              }
+            },
+            {
+              "left": "leave",
+              "right": {
+                "ua": "відправлятися",
+                "ru": "отправляться"
+              }
+            },
+            {
+              "left": "delayed",
+              "right": {
+                "ua": "затриманий",
+                "ru": "задержан"
+              }
+            },
+            {
+              "left": "miss",
+              "right": {
+                "ua": "спізнитися на",
+                "ru": "опоздать на"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u02-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The train ___ at 9:15. We're waiting on the platform.",
+          "options": [
+            "arrives",
+            "misses",
+            "delays"
+          ],
+          "answer": "arrives",
+          "explain": {
+            "ua": "Arrive — прибувати.",
+            "ru": "Arrive — прибывать."
+          },
+          "id": "a2-u02-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I was late and I ___ the bus.",
+          "options": [
+            "missed",
+            "lost",
+            "left"
+          ],
+          "answer": "missed",
+          "explain": {
+            "ua": "Miss the bus — спізнитися на автобус.",
+            "ru": "Miss the bus — опоздать на автобус."
+          },
+          "id": "a2-u02-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Our flight is ___. It leaves at 10, not 8.",
+          "options": [
+            "delayed",
+            "missed",
+            "arrived"
+          ],
+          "answer": "delayed",
+          "explain": {
+            "ua": "Delayed — затримується.",
+            "ru": "Delayed — задерживается."
+          },
+          "id": "a2-u02-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We arrived ___ Kyiv at 6.",
+          "options": [
+            "in",
+            "to",
+            "at"
+          ],
+          "answer": "in",
+          "explain": {
+            "ua": "Arrive in + місто, arrive at + місце (station).",
+            "ru": "Arrive in + город, arrive at + место (station)."
+          },
+          "id": "a2-u02-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We arrived to the airport.",
+          "answer": "We arrived at the airport.",
+          "accept": [],
+          "explain": {
+            "ua": "Arrive at — не to.",
+            "ru": "Arrive at — не to."
+          },
+          "id": "a2-u02-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I lost the train.",
+          "answer": "I missed the train.",
+          "accept": [],
+          "explain": {
+            "ua": "Спізнитися на потяг — miss.",
+            "ru": "Опоздать на поезд — miss."
+          },
+          "id": "a2-u02-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "does",
+            "the",
+            "bus",
+            "When",
+            "leave"
+          ],
+          "answer": "When does the bus leave",
+          "explain": {
+            "ua": "When → does → the bus → leave?",
+            "ru": "When → does → the bus → leave?"
+          },
+          "id": "a2-u02-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Наш рейс затримується.",
+            "ru": "Наш рейс задерживается."
+          },
+          "answer": "Our flight is delayed.",
+          "accept": [],
+          "explain": {
+            "ua": "Is delayed.",
+            "ru": "Is delayed."
+          },
+          "id": "a2-u02-l03-e09"
+        }
+      ],
+      "words": [
+        "arrive",
+        "leave",
+        "delayed",
+        "miss"
+      ]
+    },
+    {
+      "id": "a2-u02-l04",
+      "title": {
+        "en": "In context: at the station",
+        "ua": "У контексті: на вокзалі",
+        "ru": "В контексте: на вокзале"
+      },
+      "recap": {
+        "from": "a2-u02-l03",
+        "note": {
+          "ua": "Згадаймо: Прибувати, відправлятися, спізнюватися",
+          "ru": "Вспомним: Прибывать, отправляться, опаздывать"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The train ___ at 9:15. We're waiting on the platform.",
+            "options": [
+              "arrives",
+              "misses",
+              "delays"
+            ],
+            "answer": "arrives",
+            "explain": {
+              "ua": "Arrive — прибувати.",
+              "ru": "Arrive — прибывать."
+            },
+            "id": "a2-u02-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We arrived ___ Kyiv at 6.",
+            "options": [
+              "in",
+              "to",
+              "at"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Arrive in + місто, arrive at + місце (station).",
+              "ru": "Arrive in + город, arrive at + место (station)."
+            },
+            "id": "a2-u02-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What ticket does Ira buy?",
+              "options": [
+                "a return ticket",
+                "a single ticket",
+                "two tickets"
+              ],
+              "answer": "a return ticket"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The train leaves from platform 4.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The train is on time.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Ira",
+              "line": "Hello! A return ticket to Odesa, please."
+            },
+            {
+              "speaker": "Clerk",
+              "line": "Sure. That's 30 dollars."
+            },
+            {
+              "speaker": "Ira",
+              "line": "Here you are. When does the next train leave?"
+            },
+            {
+              "speaker": "Clerk",
+              "line": "At 10:30 from platform 4. But it's delayed — about 20 minutes."
+            },
+            {
+              "speaker": "Ira",
+              "line": "Oh no! When does it arrive in Odesa?"
+            },
+            {
+              "speaker": "Clerk",
+              "line": "At about 4 pm."
+            }
+          ],
+          "explain": {
+            "ua": "Return, platform 4, delayed 20 minutes.",
+            "ru": "Return, platform 4, delayed 20 minutes."
+          },
+          "id": "a2-u02-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "return",
+            "platform",
+            "delayed",
+            "arrives"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ira buys a ___ ticket.",
+            "The train leaves from ___ 4.",
+            "The train is ___.",
+            "It ___ in Odesa at 4 pm."
+          ],
+          "answers": [
+            "return",
+            "platform",
+            "delayed",
+            "arrives"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u02-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Here you are.",
+              "right": {
+                "ua": "Ось, будь ласка (даю).",
+                "ru": "Вот, пожалуйста (даю)."
+              }
+            },
+            {
+              "left": "That's 30 dollars.",
+              "right": {
+                "ua": "З вас 30 доларів.",
+                "ru": "С вас 30 долларов."
+              }
+            },
+            {
+              "left": "the next train",
+              "right": {
+                "ua": "наступний потяг",
+                "ru": "следующий поезд"
+              }
+            },
+            {
+              "left": "about 20 minutes",
+              "right": {
+                "ua": "приблизно 20 хвилин",
+                "ru": "примерно 20 минут"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u02-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— Here you are. means…",
+          "options": [
+            "I'm giving you something.",
+            "I'm here.",
+            "Where are you?"
+          ],
+          "answer": "I'm giving you something.",
+          "explain": {
+            "ua": "Here you are — коли щось даємо.",
+            "ru": "Here you are — когда что-то даём."
+          },
+          "id": "a2-u02-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You sit there and wait for the train. It has a number.",
+          "answer": "platform",
+          "accept": [
+            "a platform"
+          ],
+          "explain": {
+            "ua": "Platform.",
+            "ru": "Platform."
+          },
+          "id": "a2-u02-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-simple-wh",
+          "sentence": "When leaves the train?",
+          "answer": "When does the train leave?",
+          "accept": [],
+          "explain": {
+            "ua": "Питання — does + leave.",
+            "ru": "Вопрос — does + leave."
+          },
+          "id": "a2-u02-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The train is delayed.",
+          "options": [
+            "The train is delayed.",
+            "The train is late day.",
+            "The plane is delayed."
+          ],
+          "answer": "The train is delayed.",
+          "audio": "",
+          "explain": {
+            "ua": "Delayed — «ділейд».",
+            "ru": "Delayed — «дилейд»."
+          },
+          "id": "a2-u02-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "О котрій прибуває потяг?",
+            "ru": "Во сколько прибывает поезд?"
+          },
+          "answer": "What time does the train arrive?",
+          "accept": [
+            "When does the train arrive?"
+          ],
+          "explain": {
+            "ua": "Does … arrive.",
+            "ru": "Does … arrive."
+          },
+          "id": "a2-u02-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u02-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u02-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: на вокзалі",
+          "ru": "Вспомним: В контексте: на вокзале"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— Here you are. means…",
+            "options": [
+              "I'm giving you something.",
+              "I'm here.",
+              "Where are you?"
+            ],
+            "answer": "I'm giving you something.",
+            "explain": {
+              "ua": "Here you are — коли щось даємо.",
+              "ru": "Here you are — когда что-то даём."
+            },
+            "id": "a2-u02-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "present-simple-wh",
+            "sentence": "When leaves the train?",
+            "answer": "When does the train leave?",
+            "accept": [],
+            "explain": {
+              "ua": "Питання — does + leave.",
+              "ru": "Вопрос — does + leave."
+            },
+            "id": "a2-u02-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "suitcase",
+              "right": {
+                "ua": "валіза",
+                "ru": "чемодан"
+              }
+            },
+            {
+              "left": "airport",
+              "right": {
+                "ua": "аеропорт",
+                "ru": "аэропорт"
+              }
+            },
+            {
+              "left": "on foot",
+              "right": {
+                "ua": "пішки",
+                "ru": "пешком"
+              }
+            },
+            {
+              "left": "return ticket",
+              "right": {
+                "ua": "квиток туди й назад",
+                "ru": "билет туда и обратно"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u02-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT transport?",
+          "options": [
+            "platform",
+            "ferry",
+            "taxi"
+          ],
+          "answer": "platform",
+          "explain": {
+            "ua": "Platform — місце.",
+            "ru": "Platform — место."
+          },
+          "id": "a2-u02-l05-e02"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "by",
+            "on",
+            "at",
+            "in"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ train",
+            "___ foot",
+            "arrive ___ the station",
+            "arrive ___ London"
+          ],
+          "answers": [
+            "by",
+            "on",
+            "at",
+            "in"
+          ],
+          "explain": {
+            "ua": "by train, on foot, arrive at / in.",
+            "ru": "by train, on foot, arrive at / in."
+          },
+          "id": "a2-u02-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "All your bags and suitcases when you travel.",
+          "answer": "luggage",
+          "accept": [
+            "baggage"
+          ],
+          "explain": {
+            "ua": "Luggage.",
+            "ru": "Luggage."
+          },
+          "id": "a2-u02-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "passport",
+          "answer": "airport",
+          "accept": [
+            "travel",
+            "border"
+          ],
+          "explain": {
+            "ua": "Паспорт → аеропорт.",
+            "ru": "Паспорт → аэропорт."
+          },
+          "id": "a2-u02-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We went there by foot.",
+          "answer": "We went there on foot.",
+          "accept": [],
+          "explain": {
+            "ua": "On foot.",
+            "ru": "On foot."
+          },
+          "id": "a2-u02-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I missed my keys.",
+          "answer": "I lost my keys.",
+          "accept": [],
+          "explain": {
+            "ua": "Загубити — lose; miss — про транспорт.",
+            "ru": "Потерять — lose; miss — о транспорте."
+          },
+          "id": "a2-u02-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "We missed the last bus.",
+          "options": [
+            "We missed the last bus.",
+            "We lost the last bus.",
+            "We missed the last boss."
+          ],
+          "answer": "We missed the last bus.",
+          "audio": "",
+          "explain": {
+            "ua": "Missed.",
+            "ru": "Missed."
+          },
+          "id": "a2-u02-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я їжджу на роботу метро.",
+            "ru": "Я езжу на работу на метро."
+          },
+          "answer": "I go to work by underground.",
+          "accept": [
+            "I go to work by metro.",
+            "I go to work by subway.",
+            "I take the underground to work."
+          ],
+          "explain": {
+            "ua": "By underground.",
+            "ru": "By underground."
+          },
+          "id": "a2-u02-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "We went there ___ train.",
+      "options": [
+        "by",
+        "on",
+        "with"
+      ],
+      "answer": "by",
+      "explain": {
+        "ua": "By train.",
+        "ru": "By train."
+      },
+      "id": "a2-u02-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I ___ the bus and was late.",
+      "options": [
+        "missed",
+        "lost",
+        "left"
+      ],
+      "answer": "missed",
+      "explain": {
+        "ua": "Miss the bus.",
+        "ru": "Miss the bus."
+      },
+      "id": "a2-u02-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "A ticket there and back = ___",
+      "options": [
+        "a return ticket",
+        "a single ticket",
+        "a platform"
+      ],
+      "answer": "a return ticket",
+      "explain": {
+        "ua": "Return.",
+        "ru": "Return."
+      },
+      "id": "a2-u02-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You show it at the border.",
+      "answer": "passport",
+      "accept": [
+        "a passport"
+      ],
+      "explain": {
+        "ua": "Passport.",
+        "ru": "Passport."
+      },
+      "id": "a2-u02-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The place where planes arrive and leave.",
+      "answer": "airport",
+      "accept": [
+        "an airport"
+      ],
+      "explain": {
+        "ua": "Airport.",
+        "ru": "Airport."
+      },
+      "id": "a2-u02-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "The plane ___ at 6. (arrive)",
+      "answer": "arrives",
+      "accept": [],
+      "explain": {
+        "ua": "Plane → arrives.",
+        "ru": "Plane → arrives."
+      },
+      "id": "a2-u02-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "delayed",
+          "right": {
+            "ua": "затриманий",
+            "ru": "задержан"
+          }
+        },
+        {
+          "left": "ferry",
+          "right": {
+            "ua": "пором",
+            "ru": "паром"
+          }
+        },
+        {
+          "left": "luggage",
+          "right": {
+            "ua": "багаж",
+            "ru": "багаж"
+          }
+        },
+        {
+          "left": "platform",
+          "right": {
+            "ua": "платформа",
+            "ru": "платформа"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a2-u02-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We arrived to Lviv.",
+      "answer": "We arrived in Lviv.",
+      "accept": [],
+      "explain": {
+        "ua": "Місто — arrive in.",
+        "ru": "Город — arrive in."
+      },
+      "id": "a2-u02-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "My luggages are here.",
+      "answer": "My luggage is here.",
+      "accept": [],
+      "explain": {
+        "ua": "Luggage — без -s.",
+        "ru": "Luggage — без -s."
+      },
+      "id": "a2-u02-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "is",
+        "Our",
+        "flight",
+        "delayed"
+      ],
+      "answer": "Our flight is delayed",
+      "explain": {
+        "ua": "Our flight → is → delayed.",
+        "ru": "Our flight → is → delayed."
+      },
+      "id": "a2-u02-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я ходжу на роботу пішки.",
+        "ru": "Я хожу на работу пешком."
+      },
+      "answer": "I go to work on foot.",
+      "accept": [
+        "I walk to work."
+      ],
+      "explain": {
+        "ua": "On foot.",
+        "ru": "On foot."
+      },
+      "id": "a2-u02-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The bus leaves from here.",
+      "options": [
+        "The bus leaves from here.",
+        "The bus lives from here.",
+        "The bus leaves from there."
+      ],
+      "answer": "The bus leaves from here.",
+      "audio": "",
+      "explain": {
+        "ua": "Leaves — «лівз».",
+        "ru": "Leaves — «ливз»."
+      },
+      "id": "a2-u02-cp12"
+    }
+  ]
+}

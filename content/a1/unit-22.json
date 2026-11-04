@@ -1,0 +1,1941 @@
+{
+  "id": "a1-u22",
+  "level": "A1",
+  "order": 22,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Continuous",
+    "ua": "Present Continuous",
+    "ru": "Present Continuous"
+  },
+  "rule": {
+    "formula": {
+      "ua": "am / is / are + дієслово-ing",
+      "ru": "am / is / are + глагол-ing"
+    },
+    "explain": {
+      "ua": "Present Continuous — те, що відбувається зараз, у цю мить: I'm reading now. Будується з to be (am / is / are) + дієслово з -ing.",
+      "ru": "Present Continuous — то, что происходит сейчас, в этот момент: I'm reading now. Строится из to be (am / is / are) + глагол с -ing."
+    },
+    "examples": [
+      {
+        "en": "I'm working now.",
+        "ua": "Я зараз працюю.",
+        "ru": "Я сейчас работаю."
+      },
+      {
+        "en": "She is cooking dinner.",
+        "ua": "Вона готує вечерю (зараз).",
+        "ru": "Она готовит ужин (сейчас)."
+      },
+      {
+        "en": "Look! It's raining.",
+        "ua": "Дивись! Іде дощ.",
+        "ru": "Смотри! Идёт дождь."
+      }
+    ],
+    "compare": {
+      "ua": "В українській «я читаю» — і «зазвичай», і «зараз». В англійській це різні часи: I read (зазвичай) і I'm reading (зараз).",
+      "ru": "В русском «я читаю» — и «обычно», и «сейчас». В английском это разные времена: I read (обычно) и I'm reading (сейчас)."
+    }
+  },
+  "vocab": [
+    {
+      "word": "now",
+      "ipa": "/naʊ/",
+      "ua": "зараз",
+      "ru": "сейчас",
+      "example": "I'm busy now.",
+      "audio": ""
+    },
+    {
+      "word": "right now",
+      "ipa": "/ˌraɪt ˈnaʊ/",
+      "ua": "просто зараз",
+      "ru": "прямо сейчас",
+      "example": "She's sleeping right now.",
+      "audio": ""
+    },
+    {
+      "word": "at the moment",
+      "ipa": "/ət ðə ˈməʊmənt/",
+      "ua": "на даний момент",
+      "ru": "в данный момент",
+      "example": "He's working at the moment.",
+      "audio": ""
+    },
+    {
+      "word": "look!",
+      "ipa": "/lʊk/",
+      "ua": "дивись!",
+      "ru": "смотри!",
+      "example": "Look! The baby is walking!",
+      "audio": ""
+    },
+    {
+      "word": "listen!",
+      "ipa": "/ˈlɪsn/",
+      "ua": "слухай!",
+      "ru": "слушай!",
+      "example": "Listen! Someone is singing.",
+      "audio": ""
+    },
+    {
+      "word": "rain",
+      "ipa": "/reɪn/",
+      "ua": "іти (про дощ); дощ",
+      "ru": "идти (о дожде); дождь",
+      "example": "It's raining.",
+      "audio": ""
+    },
+    {
+      "word": "snow",
+      "ipa": "/snəʊ/",
+      "ua": "іти (про сніг); сніг",
+      "ru": "идти (о снеге); снег",
+      "example": "It's snowing!",
+      "audio": ""
+    },
+    {
+      "word": "wait",
+      "ipa": "/weɪt/",
+      "ua": "чекати",
+      "ru": "ждать",
+      "example": "I'm waiting for the bus.",
+      "audio": ""
+    },
+    {
+      "word": "write",
+      "ipa": "/raɪt/",
+      "ua": "писати",
+      "ru": "писать",
+      "example": "She's writing an email.",
+      "audio": ""
+    },
+    {
+      "word": "run",
+      "ipa": "/rʌn/",
+      "ua": "бігти",
+      "ru": "бежать",
+      "example": "The dog is running.",
+      "audio": ""
+    },
+    {
+      "word": "sit",
+      "ipa": "/sɪt/",
+      "ua": "сидіти",
+      "ru": "сидеть",
+      "example": "They're sitting in a café.",
+      "audio": ""
+    },
+    {
+      "word": "wear",
+      "ipa": "/weə/",
+      "ua": "бути вдягненим, носити",
+      "ru": "быть одетым, носить",
+      "example": "She's wearing a red dress.",
+      "audio": ""
+    },
+    {
+      "word": "talk",
+      "ipa": "/tɔːk/",
+      "ua": "розмовляти",
+      "ru": "разговаривать",
+      "example": "Who are you talking to?",
+      "audio": ""
+    },
+    {
+      "word": "think",
+      "ipa": "/θɪŋk/",
+      "ua": "думати",
+      "ru": "думать",
+      "example": "I think it's good.",
+      "audio": ""
+    },
+    {
+      "word": "want",
+      "ipa": "/wɒnt/",
+      "ua": "хотіти",
+      "ru": "хотеть",
+      "example": "I want a coffee.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u22-l01",
+      "title": {
+        "en": "I'm working",
+        "ua": "I'm working",
+        "ru": "I'm working"
+      },
+      "recap": {
+        "from": "a1-u21-l03",
+        "note": {
+          "ua": "Згадаймо: Прогулянки й відпочинок",
+          "ru": "Вспомним: Прогулки и отдых"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Let's go for a ___ in the park.",
+            "options": [
+              "walk",
+              "work",
+              "beach"
+            ],
+            "answer": "walk",
+            "explain": {
+              "ua": "Go for a walk — прогулянка.",
+              "ru": "Go for a walk — прогулка."
+            },
+            "id": "a1-u22-l01-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You do it when you visit other countries.",
+            "answer": "travel",
+            "accept": [
+              "travelling",
+              "traveling"
+            ],
+            "explain": {
+              "ua": "Travel — подорожувати.",
+              "ru": "Travel — путешествовать."
+            },
+            "id": "a1-u22-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'm / he's / she's / we're / they're + дієслово-ing",
+          "ru": "I'm / he's / she's / we're / they're + глагол-ing"
+        },
+        "explain": {
+          "ua": "Беремо to be (am / is / are) і додаємо до дієслова -ing: I'm reading. She's sleeping. They're playing.",
+          "ru": "Берём to be (am / is / are) и добавляем к глаголу -ing: I'm reading. She's sleeping. They're playing."
+        },
+        "examples": [
+          {
+            "en": "I'm reading a book.",
+            "ua": "Я читаю книжку (зараз).",
+            "ru": "Я читаю книгу (сейчас)."
+          },
+          {
+            "en": "He's sleeping.",
+            "ua": "Він спить.",
+            "ru": "Он спит."
+          },
+          {
+            "en": "We're watching a film.",
+            "ua": "Ми дивимося фільм.",
+            "ru": "Мы смотрим фильм."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous-positive",
+          "question": "I ___ reading now.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": "am",
+          "explain": {
+            "ua": "I → am + -ing.",
+            "ru": "I → am + -ing."
+          },
+          "id": "a1-u22-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-positive",
+          "question": "She ___ cooking.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "She → is + -ing.",
+            "ru": "She → is + -ing."
+          },
+          "id": "a1-u22-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-positive",
+          "question": "They are ___ football.",
+          "options": [
+            "playing",
+            "play",
+            "plays"
+          ],
+          "answer": "playing",
+          "explain": {
+            "ua": "Are + -ing.",
+            "ru": "Are + -ing."
+          },
+          "id": "a1-u22-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-positive",
+          "question": "Look! The dog ___.",
+          "options": [
+            "is running",
+            "runs",
+            "are running"
+          ],
+          "answer": "is running",
+          "explain": {
+            "ua": "Look! → зараз → is + -ing.",
+            "ru": "Look! → сейчас → is + -ing."
+          },
+          "id": "a1-u22-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "present-continuous-positive",
+          "question": "We ___ watching TV.",
+          "answer": "are",
+          "accept": [
+            "'re"
+          ],
+          "explain": {
+            "ua": "We → are.",
+            "ru": "We → are."
+          },
+          "id": "a1-u22-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-positive",
+          "sentence": "I reading a book.",
+          "answer": "I'm reading a book.",
+          "accept": [
+            "I am reading a book."
+          ],
+          "explain": {
+            "ua": "Не забувай am!",
+            "ru": "Не забывай am!"
+          },
+          "id": "a1-u22-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-positive",
+          "sentence": "She is cook now.",
+          "answer": "She is cooking now.",
+          "accept": [
+            "She's cooking now."
+          ],
+          "explain": {
+            "ua": "Потрібне -ing.",
+            "ru": "Нужно -ing."
+          },
+          "id": "a1-u22-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-continuous-positive",
+          "words": [
+            "are",
+            "bus",
+            "waiting",
+            "We",
+            "the",
+            "for"
+          ],
+          "answer": "We are waiting for the bus",
+          "explain": {
+            "ua": "We are → waiting → for the bus.",
+            "ru": "We are → waiting → for the bus."
+          },
+          "id": "a1-u22-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous-positive",
+          "prompt": {
+            "ua": "Я зараз працюю.",
+            "ru": "Я сейчас работаю."
+          },
+          "answer": "I'm working now.",
+          "accept": [
+            "I am working now.",
+            "I'm working at the moment."
+          ],
+          "explain": {
+            "ua": "Зараз → am working.",
+            "ru": "Сейчас → am working."
+          },
+          "id": "a1-u22-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l02",
+      "title": {
+        "en": "-ing spelling",
+        "ua": "Правила -ing",
+        "ru": "Правила -ing"
+      },
+      "recap": {
+        "from": "a1-u22-l01",
+        "note": {
+          "ua": "Згадаймо: I'm / he's / she's / we're / they're + дієслово-ing",
+          "ru": "Вспомним: I'm / he's / she's / we're / they're + глагол-ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-continuous-positive",
+            "question": "I ___ reading now.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "answer": "am",
+            "explain": {
+              "ua": "I → am + -ing.",
+              "ru": "I → am + -ing."
+            },
+            "id": "a1-u22-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "present-continuous-positive",
+            "question": "We ___ watching TV.",
+            "answer": "are",
+            "accept": [
+              "'re"
+            ],
+            "explain": {
+              "ua": "We → are.",
+              "ru": "We → are."
+            },
+            "id": "a1-u22-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "read → reading · write → writing · run → running · sit → sitting",
+        "explain": {
+          "ua": "Зазвичай просто +ing. Німе -e в кінці зникає: write → writing. Короткі слова (приголосний-голосний-приголосний) подвоюють останню літеру: run → running, swim → swimming.",
+          "ru": "Обычно просто +ing. Немая -e в конце пропадает: write → writing. Короткие слова (согласный-гласный-согласный) удваивают последнюю букву: run → running, swim → swimming."
+        },
+        "examples": [
+          {
+            "en": "cook → cooking",
+            "ua": "готувати",
+            "ru": "готовить"
+          },
+          {
+            "en": "make → making",
+            "ua": "робити",
+            "ru": "делать"
+          },
+          {
+            "en": "swim → swimming",
+            "ua": "плавати",
+            "ru": "плавать"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous-spelling",
+          "question": "write → ___",
+          "options": [
+            "writing",
+            "writeing",
+            "writting"
+          ],
+          "answer": "writing",
+          "explain": {
+            "ua": "-e зникає.",
+            "ru": "-e пропадает."
+          },
+          "id": "a1-u22-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-spelling",
+          "question": "run → ___",
+          "options": [
+            "running",
+            "runing",
+            "runeing"
+          ],
+          "answer": "running",
+          "explain": {
+            "ua": "Подвоюємо n.",
+            "ru": "Удваиваем n."
+          },
+          "id": "a1-u22-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-spelling",
+          "question": "play → ___",
+          "options": [
+            "playing",
+            "plaing",
+            "playying"
+          ],
+          "answer": "playing",
+          "explain": {
+            "ua": "Просто +ing.",
+            "ru": "Просто +ing."
+          },
+          "id": "a1-u22-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-spelling",
+          "question": "sit → ___",
+          "options": [
+            "sitting",
+            "siting",
+            "sitteing"
+          ],
+          "answer": "sitting",
+          "explain": {
+            "ua": "Подвоюємо t.",
+            "ru": "Удваиваем t."
+          },
+          "id": "a1-u22-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-spelling",
+          "question": "make → ___",
+          "options": [
+            "making",
+            "makeing",
+            "makking"
+          ],
+          "answer": "making",
+          "explain": {
+            "ua": "-e зникає.",
+            "ru": "-e пропадает."
+          },
+          "id": "a1-u22-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "present-continuous-spelling",
+          "pairs": [
+            {
+              "left": "dance",
+              "right": "dancing"
+            },
+            {
+              "left": "swim",
+              "right": "swimming"
+            },
+            {
+              "left": "read",
+              "right": "reading"
+            },
+            {
+              "left": "come",
+              "right": "coming"
+            }
+          ],
+          "explain": {
+            "ua": "Правила -ing.",
+            "ru": "Правила -ing."
+          },
+          "id": "a1-u22-l02-e06"
+        },
+        {
+          "type": "fill",
+          "topic": "present-continuous-spelling",
+          "question": "She is ___ a letter. (write)",
+          "answer": "writing",
+          "accept": [],
+          "explain": {
+            "ua": "Write → writing.",
+            "ru": "Write → writing."
+          },
+          "id": "a1-u22-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-spelling",
+          "sentence": "The kids are swiming.",
+          "answer": "The kids are swimming.",
+          "accept": [],
+          "explain": {
+            "ua": "Swim → swimming (подвоєння).",
+            "ru": "Swim → swimming (удвоение)."
+          },
+          "id": "a1-u22-l02-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈrʌnɪŋ/",
+          "options": [
+            "running",
+            "raining",
+            "ringing"
+          ],
+          "answer": "running",
+          "explain": {
+            "ua": "/ʌ/ — коротке «а».",
+            "ru": "/ʌ/ — короткое «а»."
+          },
+          "id": "a1-u22-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l03",
+      "title": {
+        "en": "Negatives",
+        "ua": "Заперечення",
+        "ru": "Отрицания"
+      },
+      "recap": {
+        "from": "a1-u22-l02",
+        "note": {
+          "ua": "Згадаймо: read → reading · write → writing · run → running · sit → sitting",
+          "ru": "Вспомним: read → reading · write → writing · run → running · sit → sitting"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-continuous-spelling",
+            "question": "write → ___",
+            "options": [
+              "writing",
+              "writeing",
+              "writting"
+            ],
+            "answer": "writing",
+            "explain": {
+              "ua": "-e зникає.",
+              "ru": "-e пропадает."
+            },
+            "id": "a1-u22-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-continuous-spelling",
+            "question": "sit → ___",
+            "options": [
+              "sitting",
+              "siting",
+              "sitteing"
+            ],
+            "answer": "sitting",
+            "explain": {
+              "ua": "Подвоюємо t.",
+              "ru": "Удваиваем t."
+            },
+            "id": "a1-u22-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "I'm not · isn't · aren't + дієслово-ing",
+          "ru": "I'm not · isn't · aren't + глагол-ing"
+        },
+        "explain": {
+          "ua": "Заперечення — як у to be: I'm not working. She isn't sleeping. They aren't listening.",
+          "ru": "Отрицание — как в to be: I'm not working. She isn't sleeping. They aren't listening."
+        },
+        "examples": [
+          {
+            "en": "I'm not working today.",
+            "ua": "Я сьогодні не працюю.",
+            "ru": "Я сегодня не работаю."
+          },
+          {
+            "en": "He isn't listening.",
+            "ua": "Він не слухає.",
+            "ru": "Он не слушает."
+          },
+          {
+            "en": "It isn't raining now.",
+            "ua": "Зараз не йде дощ.",
+            "ru": "Сейчас не идёт дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous-negative",
+          "question": "I ___ sleeping.",
+          "options": [
+            "'m not",
+            "don't",
+            "isn't"
+          ],
+          "answer": "'m not",
+          "explain": {
+            "ua": "I'm not + -ing.",
+            "ru": "I'm not + -ing."
+          },
+          "id": "a1-u22-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-negative",
+          "question": "She ___ listening to me.",
+          "options": [
+            "isn't",
+            "doesn't",
+            "aren't"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "She isn't + -ing.",
+            "ru": "She isn't + -ing."
+          },
+          "id": "a1-u22-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-negative",
+          "question": "They ___ playing now.",
+          "options": [
+            "aren't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "They aren't + -ing.",
+            "ru": "They aren't + -ing."
+          },
+          "id": "a1-u22-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-negative",
+          "question": "It ___ raining.",
+          "options": [
+            "isn't",
+            "doesn't",
+            "not"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "It isn't raining.",
+            "ru": "It isn't raining."
+          },
+          "id": "a1-u22-l03-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-continuous-negative",
+          "bank": [
+            "'m not",
+            "isn't",
+            "aren't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ working.",
+            "Max ___ sleeping.",
+            "We ___ waiting.",
+            "The phone ___ ringing."
+          ],
+          "answers": [
+            "'m not",
+            "isn't",
+            "aren't",
+            "isn't"
+          ],
+          "explain": {
+            "ua": "I'm not, he / it isn't, we aren't.",
+            "ru": "I'm not, he / it isn't, we aren't."
+          },
+          "id": "a1-u22-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-negative",
+          "sentence": "He doesn't watching TV.",
+          "answer": "He isn't watching TV.",
+          "accept": [
+            "He is not watching TV.",
+            "He's not watching TV."
+          ],
+          "explain": {
+            "ua": "У Continuous — isn't, не doesn't.",
+            "ru": "В Continuous — isn't, не doesn't."
+          },
+          "id": "a1-u22-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-negative",
+          "sentence": "We not are eating.",
+          "answer": "We aren't eating.",
+          "accept": [
+            "We are not eating.",
+            "We're not eating."
+          ],
+          "explain": {
+            "ua": "Порядок: are + not.",
+            "ru": "Порядок: are + not."
+          },
+          "id": "a1-u22-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-continuous-negative",
+          "audio_text": "I'm not wearing a coat.",
+          "options": [
+            "I'm not wearing a coat.",
+            "I'm wearing a coat.",
+            "I'm not wearing a hat."
+          ],
+          "answer": "I'm not wearing a coat.",
+          "audio": "",
+          "explain": {
+            "ua": "Not — головне слово.",
+            "ru": "Not — главное слово."
+          },
+          "id": "a1-u22-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous-negative",
+          "prompt": {
+            "ua": "Він зараз не працює.",
+            "ru": "Он сейчас не работает."
+          },
+          "answer": "He isn't working now.",
+          "accept": [
+            "He is not working now.",
+            "He's not working now.",
+            "He isn't working at the moment."
+          ],
+          "explain": {
+            "ua": "Isn't working.",
+            "ru": "Isn't working."
+          },
+          "id": "a1-u22-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l04",
+      "title": {
+        "en": "Questions",
+        "ua": "Питання",
+        "ru": "Вопросы"
+      },
+      "recap": {
+        "from": "a1-u22-l03",
+        "note": {
+          "ua": "Згадаймо: I'm not · isn't · aren't + дієслово-ing",
+          "ru": "Вспомним: I'm not · isn't · aren't + глагол-ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-continuous-negative",
+            "question": "I ___ sleeping.",
+            "options": [
+              "'m not",
+              "don't",
+              "isn't"
+            ],
+            "answer": "'m not",
+            "explain": {
+              "ua": "I'm not + -ing.",
+              "ru": "I'm not + -ing."
+            },
+            "id": "a1-u22-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-continuous-negative",
+            "question": "It ___ raining.",
+            "options": [
+              "isn't",
+              "doesn't",
+              "not"
+            ],
+            "answer": "isn't",
+            "explain": {
+              "ua": "It isn't raining.",
+              "ru": "It isn't raining."
+            },
+            "id": "a1-u22-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Am I / Is she / Are you + дієслово-ing? · What are you doing?",
+          "ru": "Am I / Is she / Are you + глагол-ing? · What are you doing?"
+        },
+        "explain": {
+          "ua": "Питання: am / is / are на початок. Найчастіше питання: What are you doing? — Що ти робиш (зараз)?",
+          "ru": "Вопрос: am / is / are в начало. Самый частый вопрос: What are you doing? — Что ты делаешь (сейчас)?"
+        },
+        "examples": [
+          {
+            "en": "Are you working?",
+            "ua": "Ти працюєш (зараз)?",
+            "ru": "Ты работаешь (сейчас)?"
+          },
+          {
+            "en": "Is it raining?",
+            "ua": "Іде дощ?",
+            "ru": "Идёт дождь?"
+          },
+          {
+            "en": "What are you doing? — I'm cooking.",
+            "ua": "Що ти робиш? — Готую.",
+            "ru": "Что ты делаешь? — Готовлю."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous-questions",
+          "question": "___ you listening?",
+          "options": [
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "You → Are + -ing?",
+            "ru": "You → Are + -ing?"
+          },
+          "id": "a1-u22-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-questions",
+          "question": "___ she sleeping?",
+          "options": [
+            "Is",
+            "Does",
+            "Are"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "She → Is + -ing?",
+            "ru": "She → Is + -ing?"
+          },
+          "id": "a1-u22-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-questions",
+          "question": "What ___ you doing?",
+          "options": [
+            "are",
+            "do",
+            "is"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "What are you doing?",
+            "ru": "What are you doing?"
+          },
+          "id": "a1-u22-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-questions",
+          "question": "Is it raining? — Yes, it ___.",
+          "options": [
+            "is",
+            "does",
+            "rains"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Yes, it is.",
+            "ru": "Yes, it is."
+          },
+          "id": "a1-u22-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous-questions",
+          "question": "Are they playing? — No, they ___.",
+          "options": [
+            "aren't",
+            "don't",
+            "isn't"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "No, they aren't.",
+            "ru": "No, they aren't."
+          },
+          "id": "a1-u22-l04-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "present-continuous-questions",
+          "question": "Who ___ you talking to?",
+          "answer": "are",
+          "accept": [],
+          "explain": {
+            "ua": "You → are.",
+            "ru": "You → are."
+          },
+          "id": "a1-u22-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous-questions",
+          "sentence": "Do you waiting for me?",
+          "answer": "Are you waiting for me?",
+          "accept": [],
+          "explain": {
+            "ua": "Continuous — are, не do.",
+            "ru": "Continuous — are, не do."
+          },
+          "id": "a1-u22-l04-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-continuous-questions",
+          "words": [
+            "wearing",
+            "What",
+            "she",
+            "is"
+          ],
+          "answer": "What is she wearing",
+          "explain": {
+            "ua": "What → is → she → wearing?",
+            "ru": "What → is → she → wearing?"
+          },
+          "id": "a1-u22-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous-questions",
+          "prompt": {
+            "ua": "Що ти робиш?",
+            "ru": "Что ты делаешь?"
+          },
+          "answer": "What are you doing?",
+          "accept": [],
+          "explain": {
+            "ua": "Зараз → What are you doing?",
+            "ru": "Сейчас → What are you doing?"
+          },
+          "id": "a1-u22-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l05",
+      "title": {
+        "en": "Present Simple or Continuous?",
+        "ua": "Present Simple чи Continuous?",
+        "ru": "Present Simple или Continuous?"
+      },
+      "recap": {
+        "from": "a1-u22-l04",
+        "note": {
+          "ua": "Згадаймо: Am I / Is she / Are you + дієслово-ing? · What are you doing?",
+          "ru": "Вспомним: Am I / Is she / Are you + глагол-ing? · What are you doing?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-continuous-questions",
+            "question": "___ you listening?",
+            "options": [
+              "Are",
+              "Do",
+              "Is"
+            ],
+            "answer": "Are",
+            "explain": {
+              "ua": "You → Are + -ing?",
+              "ru": "You → Are + -ing?"
+            },
+            "id": "a1-u22-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-continuous-questions",
+            "question": "Are they playing? — No, they ___.",
+            "options": [
+              "aren't",
+              "don't",
+              "isn't"
+            ],
+            "answer": "aren't",
+            "explain": {
+              "ua": "No, they aren't.",
+              "ru": "No, they aren't."
+            },
+            "id": "a1-u22-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "зазвичай → I work · зараз → I'm working",
+          "ru": "обычно → I work · сейчас → I'm working"
+        },
+        "explain": {
+          "ua": "Simple — звички й факти (every day, usually, always). Continuous — дія зараз (now, at the moment, Look!).",
+          "ru": "Simple — привычки и факты (every day, usually, always). Continuous — действие сейчас (now, at the moment, Look!)."
+        },
+        "examples": [
+          {
+            "en": "I usually drink tea, but now I'm drinking coffee.",
+            "ua": "Зазвичай я п'ю чай, але зараз п'ю каву.",
+            "ru": "Обычно я пью чай, но сейчас пью кофе."
+          },
+          {
+            "en": "She works in a bank. She's working now.",
+            "ua": "Вона працює в банку. Вона зараз на роботі.",
+            "ru": "Она работает в банке. Она сейчас работает."
+          },
+          {
+            "en": "It often rains in autumn. It's raining now.",
+            "ua": "Восени часто дощить. Зараз іде дощ.",
+            "ru": "Осенью часто идёт дождь. Сейчас идёт дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "I ___ coffee every morning.",
+          "options": [
+            "drink",
+            "am drinking",
+            "drinking"
+          ],
+          "answer": "drink",
+          "explain": {
+            "ua": "Every morning → Simple.",
+            "ru": "Every morning → Simple."
+          },
+          "id": "a1-u22-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "Look! She ___ !",
+          "options": [
+            "is dancing",
+            "dances",
+            "dance"
+          ],
+          "answer": "is dancing",
+          "explain": {
+            "ua": "Look! → Continuous.",
+            "ru": "Look! → Continuous."
+          },
+          "id": "a1-u22-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "He usually ___ to work by bus.",
+          "options": [
+            "goes",
+            "is going",
+            "go"
+          ],
+          "answer": "goes",
+          "explain": {
+            "ua": "Usually → Simple.",
+            "ru": "Usually → Simple."
+          },
+          "id": "a1-u22-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "Shh! The baby ___.",
+          "options": [
+            "is sleeping",
+            "sleeps",
+            "sleep"
+          ],
+          "answer": "is sleeping",
+          "explain": {
+            "ua": "Зараз → Continuous.",
+            "ru": "Сейчас → Continuous."
+          },
+          "id": "a1-u22-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "We ___ TV at the moment.",
+          "options": [
+            "are watching",
+            "watch",
+            "watches"
+          ],
+          "answer": "are watching",
+          "explain": {
+            "ua": "At the moment → Continuous.",
+            "ru": "At the moment → Continuous."
+          },
+          "id": "a1-u22-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "simple-vs-continuous",
+          "pairs": [
+            {
+              "left": "every day",
+              "right": "I cook"
+            },
+            {
+              "left": "now",
+              "right": "I'm cooking"
+            },
+            {
+              "left": "usually",
+              "right": "she reads"
+            },
+            {
+              "left": "at the moment",
+              "right": "she's reading"
+            }
+          ],
+          "explain": {
+            "ua": "Маркер → час.",
+            "ru": "Маркер → время."
+          },
+          "id": "a1-u22-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "simple-vs-continuous",
+          "sentence": "I am going to the gym every Monday.",
+          "answer": "I go to the gym every Monday.",
+          "accept": [],
+          "explain": {
+            "ua": "Every Monday — звичка → Simple.",
+            "ru": "Every Monday — привычка → Simple."
+          },
+          "id": "a1-u22-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "simple-vs-continuous",
+          "sentence": "Listen! Somebody sings.",
+          "answer": "Listen! Somebody is singing.",
+          "accept": [
+            "Listen! Somebody's singing."
+          ],
+          "explain": {
+            "ua": "Listen! → зараз.",
+            "ru": "Listen! → сейчас."
+          },
+          "id": "a1-u22-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "simple-vs-continuous",
+          "prompt": {
+            "ua": "Зазвичай я п'ю чай, але зараз п'ю каву.",
+            "ru": "Обычно я пью чай, но сейчас пью кофе."
+          },
+          "answer": "I usually drink tea, but now I'm drinking coffee.",
+          "accept": [
+            "I usually drink tea but now I'm drinking coffee.",
+            "I usually drink tea, but now I am drinking coffee."
+          ],
+          "explain": {
+            "ua": "Usually → drink, now → am drinking.",
+            "ru": "Usually → drink, now → am drinking."
+          },
+          "id": "a1-u22-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l06",
+      "title": {
+        "en": "State verbs",
+        "ua": "Дієслова стану",
+        "ru": "Глаголы состояния"
+      },
+      "recap": {
+        "from": "a1-u22-l05",
+        "note": {
+          "ua": "Згадаймо: зазвичай → I work · зараз → I'm working",
+          "ru": "Вспомним: обычно → I work · сейчас → I'm working"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "simple-vs-continuous",
+            "question": "I ___ coffee every morning.",
+            "options": [
+              "drink",
+              "am drinking",
+              "drinking"
+            ],
+            "answer": "drink",
+            "explain": {
+              "ua": "Every morning → Simple.",
+              "ru": "Every morning → Simple."
+            },
+            "id": "a1-u22-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "simple-vs-continuous",
+            "question": "We ___ TV at the moment.",
+            "options": [
+              "are watching",
+              "watch",
+              "watches"
+            ],
+            "answer": "are watching",
+            "explain": {
+              "ua": "At the moment → Continuous.",
+              "ru": "At the moment → Continuous."
+            },
+            "id": "a1-u22-l06-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "like, love, want, know, need, understand — без -ing",
+          "ru": "like, love, want, know, need, understand — без -ing"
+        },
+        "explain": {
+          "ua": "Дієслова почуттів і думок майже не вживаються з -ing, навіть «зараз»: I want a coffee now (не I'm wanting). I know. I understand.",
+          "ru": "Глаголы чувств и мыслей почти не употребляются с -ing, даже «сейчас»: I want a coffee now (не I'm wanting). I know. I understand."
+        },
+        "examples": [
+          {
+            "en": "I want a coffee now.",
+            "ua": "Я зараз хочу каву.",
+            "ru": "Я сейчас хочу кофе."
+          },
+          {
+            "en": "I don't understand you.",
+            "ua": "Я тебе не розумію.",
+            "ru": "Я тебя не понимаю."
+          },
+          {
+            "en": "She likes this song.",
+            "ua": "Їй подобається ця пісня.",
+            "ru": "Ей нравится эта песня."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "I ___ a glass of water now.",
+          "options": [
+            "want",
+            "am wanting",
+            "wanting"
+          ],
+          "answer": "want",
+          "explain": {
+            "ua": "Want — без -ing.",
+            "ru": "Want — без -ing."
+          },
+          "id": "a1-u22-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "Sorry, I ___ you.",
+          "options": [
+            "don't understand",
+            "am not understanding",
+            "not understand"
+          ],
+          "answer": "don't understand",
+          "explain": {
+            "ua": "Understand — без -ing.",
+            "ru": "Understand — без -ing."
+          },
+          "id": "a1-u22-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "She ___ the answer.",
+          "options": [
+            "knows",
+            "is knowing",
+            "know"
+          ],
+          "answer": "knows",
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "a1-u22-l06-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "simple-vs-continuous",
+          "question": "Look, he ___ an ice cream!",
+          "options": [
+            "is eating",
+            "eats",
+            "eat"
+          ],
+          "answer": "is eating",
+          "explain": {
+            "ua": "Eat — дія, Look! → -ing.",
+            "ru": "Eat — действие, Look! → -ing."
+          },
+          "id": "a1-u22-l06-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "state-verbs",
+          "question": "We ___ a new car.",
+          "options": [
+            "need",
+            "are needing",
+            "needing"
+          ],
+          "answer": "need",
+          "explain": {
+            "ua": "Need — без -ing.",
+            "ru": "Need — без -ing."
+          },
+          "id": "a1-u22-l06-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "state-verbs",
+          "bank": [
+            "like",
+            "know",
+            "is cooking",
+            "are playing"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ this film.",
+            "Mum ___ dinner now.",
+            "I ___ his name.",
+            "The kids ___ in the garden."
+          ],
+          "answers": [
+            "like",
+            "is cooking",
+            "know",
+            "are playing"
+          ],
+          "explain": {
+            "ua": "Стан → без -ing. Дія зараз → -ing.",
+            "ru": "Состояние → без -ing. Действие сейчас → -ing."
+          },
+          "id": "a1-u22-l06-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "state-verbs",
+          "sentence": "I'm knowing her.",
+          "answer": "I know her.",
+          "accept": [],
+          "explain": {
+            "ua": "Know — без -ing.",
+            "ru": "Know — без -ing."
+          },
+          "id": "a1-u22-l06-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "state-verbs",
+          "sentence": "Are you liking it?",
+          "answer": "Do you like it?",
+          "accept": [],
+          "explain": {
+            "ua": "Like — без -ing.",
+            "ru": "Like — без -ing."
+          },
+          "id": "a1-u22-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "state-verbs",
+          "prompt": {
+            "ua": "Я тебе не розумію.",
+            "ru": "Я тебя не понимаю."
+          },
+          "answer": "I don't understand you.",
+          "accept": [
+            "I do not understand you."
+          ],
+          "explain": {
+            "ua": "Understand — без -ing.",
+            "ru": "Understand — без -ing."
+          },
+          "id": "a1-u22-l06-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u22-l07",
+      "title": {
+        "en": "Practice: what's happening?",
+        "ua": "Практика: що відбувається?",
+        "ru": "Практика: что происходит?"
+      },
+      "recap": {
+        "from": "a1-u22-l06",
+        "note": {
+          "ua": "Згадаймо: like, love, want, know, need, understand — без -ing",
+          "ru": "Вспомним: like, love, want, know, need, understand — без -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "I ___ a glass of water now.",
+            "options": [
+              "want",
+              "am wanting",
+              "wanting"
+            ],
+            "answer": "want",
+            "explain": {
+              "ua": "Want — без -ing.",
+              "ru": "Want — без -ing."
+            },
+            "id": "a1-u22-l07-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "state-verbs",
+            "question": "We ___ a new car.",
+            "options": [
+              "need",
+              "are needing",
+              "needing"
+            ],
+            "answer": "need",
+            "explain": {
+              "ua": "Need — без -ing.",
+              "ru": "Need — без -ing."
+            },
+            "id": "a1-u22-l07-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-continuous",
+          "question": "Shh! I ___ to music.",
+          "options": [
+            "'m listening",
+            "listen",
+            "listening"
+          ],
+          "answer": "'m listening",
+          "explain": {
+            "ua": "Зараз → am + -ing.",
+            "ru": "Сейчас → am + -ing."
+          },
+          "id": "a1-u22-l07-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-continuous",
+          "question": "She usually ___ jeans, but today she's wearing a dress.",
+          "options": [
+            "wears",
+            "is wearing",
+            "wear"
+          ],
+          "answer": "wears",
+          "explain": {
+            "ua": "Usually → Simple.",
+            "ru": "Usually → Simple."
+          },
+          "id": "a1-u22-l07-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Kate's mum is cooking.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Kate's dad is watching TV.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What is Kate doing?",
+              "options": [
+                "writing a message",
+                "playing",
+                "sleeping"
+              ],
+              "answer": "writing a message"
+            }
+          ],
+          "text": "It's Sunday evening. My mum is cooking dinner in the kitchen. My dad is sitting on the sofa — he's reading a book. My brothers are playing video games. The cat is sleeping. And me? I'm writing this message to you!",
+          "explain": {
+            "ua": "Mum cooking, dad reading, kids playing, Kate writing.",
+            "ru": "Mum cooking, dad reading, kids playing, Kate writing."
+          },
+          "id": "a1-u22-l07-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-continuous",
+          "bank": [
+            "is cooking",
+            "is reading",
+            "are playing",
+            "is sleeping"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Mum ___.",
+            "Dad ___.",
+            "The brothers ___.",
+            "The cat ___."
+          ],
+          "answers": [
+            "is cooking",
+            "is reading",
+            "are playing",
+            "is sleeping"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a1-u22-l07-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous",
+          "sentence": "What do you doing?",
+          "answer": "What are you doing?",
+          "accept": [],
+          "explain": {
+            "ua": "Continuous — are.",
+            "ru": "Continuous — are."
+          },
+          "id": "a1-u22-l07-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-continuous",
+          "sentence": "It rains now.",
+          "answer": "It's raining now.",
+          "accept": [
+            "It is raining now."
+          ],
+          "explain": {
+            "ua": "Зараз → Continuous.",
+            "ru": "Сейчас → Continuous."
+          },
+          "id": "a1-u22-l07-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "sitting",
+            "The",
+            "in",
+            "are",
+            "garden",
+            "the",
+            "children"
+          ],
+          "answer": "The children are sitting in the garden",
+          "explain": {
+            "ua": "The children → are sitting → in the garden.",
+            "ru": "The children → are sitting → in the garden."
+          },
+          "id": "a1-u22-l07-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-continuous",
+          "audio_text": "Is it snowing?",
+          "options": [
+            "Is it snowing?",
+            "Is it snowing now?",
+            "It is snowing."
+          ],
+          "answer": "Is it snowing?",
+          "audio": "",
+          "explain": {
+            "ua": "Is it… — питання.",
+            "ru": "Is it… — вопрос."
+          },
+          "id": "a1-u22-l07-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous",
+          "prompt": {
+            "ua": "Дивись! Іде сніг!",
+            "ru": "Смотри! Идёт снег!"
+          },
+          "answer": "Look! It's snowing!",
+          "accept": [
+            "Look! It is snowing!"
+          ],
+          "explain": {
+            "ua": "Look! → is snowing.",
+            "ru": "Look! → is snowing."
+          },
+          "id": "a1-u22-l07-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "present-continuous",
+          "prompt": {
+            "ua": "Вона зараз розмовляє з мамою.",
+            "ru": "Она сейчас разговаривает с мамой."
+          },
+          "answer": "She's talking to her mum now.",
+          "accept": [
+            "She is talking to her mum now.",
+            "She's talking with her mum now.",
+            "She is talking to her mother now."
+          ],
+          "explain": {
+            "ua": "Is talking.",
+            "ru": "Is talking."
+          },
+          "id": "a1-u22-l07-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "present-continuous",
+      "question": "Look! He ___ .",
+      "options": [
+        "is running",
+        "runs",
+        "run"
+      ],
+      "answer": "is running",
+      "explain": {
+        "ua": "Look! → -ing.",
+        "ru": "Look! → -ing."
+      },
+      "id": "a1-u22-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "simple-vs-continuous",
+      "question": "I ___ coffee every day.",
+      "options": [
+        "drink",
+        "am drinking",
+        "drinking"
+      ],
+      "answer": "drink",
+      "explain": {
+        "ua": "Every day → Simple.",
+        "ru": "Every day → Simple."
+      },
+      "id": "a1-u22-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "present-continuous-spelling",
+      "question": "swim → ___",
+      "options": [
+        "swimming",
+        "swiming",
+        "swimeing"
+      ],
+      "answer": "swimming",
+      "explain": {
+        "ua": "Подвоєння.",
+        "ru": "Удвоение."
+      },
+      "id": "a1-u22-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "present-continuous",
+      "question": "What ___ you doing?",
+      "options": [
+        "are",
+        "do",
+        "does"
+      ],
+      "answer": "are",
+      "explain": {
+        "ua": "What are you doing?",
+        "ru": "What are you doing?"
+      },
+      "id": "a1-u22-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "state-verbs",
+      "question": "I ___ a new phone.",
+      "options": [
+        "want",
+        "am wanting",
+        "wanting"
+      ],
+      "answer": "want",
+      "explain": {
+        "ua": "Want — без -ing.",
+        "ru": "Want — без -ing."
+      },
+      "id": "a1-u22-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "present-continuous",
+      "question": "She ___ sleeping now.",
+      "answer": "is",
+      "accept": [
+        "'s"
+      ],
+      "explain": {
+        "ua": "She → is.",
+        "ru": "She → is."
+      },
+      "id": "a1-u22-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "present-continuous",
+      "question": "They ___ working today.",
+      "answer": "aren't",
+      "accept": [
+        "are not",
+        "'re not"
+      ],
+      "explain": {
+        "ua": "Заперечення — aren't.",
+        "ru": "Отрицание — aren't."
+      },
+      "id": "a1-u22-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "present-continuous",
+      "sentence": "I waiting for you.",
+      "answer": "I'm waiting for you.",
+      "accept": [
+        "I am waiting for you."
+      ],
+      "explain": {
+        "ua": "Не забувай am.",
+        "ru": "Не забывай am."
+      },
+      "id": "a1-u22-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "state-verbs",
+      "sentence": "He isn't knowing.",
+      "answer": "He doesn't know.",
+      "accept": [],
+      "explain": {
+        "ua": "Know — без -ing.",
+        "ru": "Know — без -ing."
+      },
+      "id": "a1-u22-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Is",
+        "now",
+        "it",
+        "raining"
+      ],
+      "answer": "Is it raining now",
+      "explain": {
+        "ua": "Is → it → raining → now?",
+        "ru": "Is → it → raining → now?"
+      },
+      "id": "a1-u22-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "present-continuous",
+      "prompt": {
+        "ua": "Ми зараз дивимося фільм.",
+        "ru": "Мы сейчас смотрим фильм."
+      },
+      "answer": "We're watching a film now.",
+      "accept": [
+        "We are watching a film now.",
+        "We're watching a movie now.",
+        "We are watching a movie now."
+      ],
+      "explain": {
+        "ua": "Are watching.",
+        "ru": "Are watching."
+      },
+      "id": "a1-u22-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "present-continuous",
+      "audio_text": "She's wearing a red dress.",
+      "options": [
+        "She's wearing a red dress.",
+        "She wears a red dress.",
+        "She's wearing a red dog."
+      ],
+      "answer": "She's wearing a red dress.",
+      "audio": "",
+      "explain": {
+        "ua": "Is wearing.",
+        "ru": "Is wearing."
+      },
+      "id": "a1-u22-cp12"
+    }
+  ]
+}

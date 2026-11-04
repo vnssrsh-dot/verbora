@@ -1,0 +1,1242 @@
+{
+  "id": "b1-u13",
+  "level": "B1",
+  "order": 13,
+  "kind": "grammar",
+  "title": {
+    "en": "Gerund and infinitive",
+    "ua": "Герундій та інфінітив",
+    "ru": "Герундий и инфинитив"
+  },
+  "rule": {
+    "formula": {
+      "ua": "дієслово + -ing · дієслово + to · stop / remember / try / forget — змінюють сенс",
+      "ru": "глагол + -ing · глагол + to · stop / remember / try / forget — меняют смысл"
+    },
+    "explain": {
+      "ua": "Деякі дієслова вимагають -ing (avoid, suggest, keep), інші — to (agree, refuse, promise). Кілька дієслів можуть мати обидва, але сенс тоді різний: I stopped smoking ≠ I stopped to smoke.",
+      "ru": "Некоторые глаголы требуют -ing (avoid, suggest, keep), другие — to (agree, refuse, promise). Несколько глаголов могут иметь оба, но смысл тогда разный: I stopped smoking ≠ I stopped to smoke."
+    },
+    "examples": [
+      {
+        "en": "He keeps calling me.",
+        "ua": "Він постійно мені дзвонить.",
+        "ru": "Он постоянно мне звонит."
+      },
+      {
+        "en": "She refused to help.",
+        "ua": "Вона відмовилася допомогти.",
+        "ru": "Она отказалась помочь."
+      },
+      {
+        "en": "I stopped smoking two years ago.",
+        "ua": "Я кинув курити два роки тому.",
+        "ru": "Я бросил курить два года назад."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "avoid",
+      "ipa": "/əˈvɔɪd/",
+      "ua": "уникати",
+      "ru": "избегать",
+      "example": "Avoid eating late.",
+      "audio": ""
+    },
+    {
+      "word": "suggest",
+      "ipa": "/səˈdʒest/",
+      "ua": "пропонувати",
+      "ru": "предлагать",
+      "example": "I suggest leaving early.",
+      "audio": ""
+    },
+    {
+      "word": "keep",
+      "ipa": "/kiːp/",
+      "ua": "продовжувати, постійно щось робити",
+      "ru": "продолжать, постоянно что-то делать",
+      "example": "Keep trying!",
+      "audio": ""
+    },
+    {
+      "word": "imagine",
+      "ipa": "/ɪˈmædʒɪn/",
+      "ua": "уявляти",
+      "ru": "представлять",
+      "example": "Imagine living there!",
+      "audio": ""
+    },
+    {
+      "word": "consider",
+      "ipa": "/kənˈsɪdə/",
+      "ua": "розглядати, обмірковувати",
+      "ru": "рассматривать, обдумывать",
+      "example": "I'm considering moving.",
+      "audio": ""
+    },
+    {
+      "word": "agree",
+      "ipa": "/əˈɡriː/",
+      "ua": "погоджуватися",
+      "ru": "соглашаться",
+      "example": "He agreed to help.",
+      "audio": ""
+    },
+    {
+      "word": "refuse",
+      "ipa": "/rɪˈfjuːz/",
+      "ua": "відмовлятися",
+      "ru": "отказываться",
+      "example": "She refused to pay.",
+      "audio": ""
+    },
+    {
+      "word": "promise",
+      "ipa": "/ˈprɒmɪs/",
+      "ua": "обіцяти",
+      "ru": "обещать",
+      "example": "He promised to call.",
+      "audio": ""
+    },
+    {
+      "word": "offer",
+      "ipa": "/ˈɒfə/",
+      "ua": "пропонувати (зробити самому)",
+      "ru": "предлагать (сделать самому)",
+      "example": "She offered to drive.",
+      "audio": ""
+    },
+    {
+      "word": "afford",
+      "ipa": "/əˈfɔːd/",
+      "ua": "дозволити собі",
+      "ru": "позволить себе",
+      "example": "We can't afford to buy it.",
+      "audio": ""
+    },
+    {
+      "word": "pretend",
+      "ipa": "/prɪˈtend/",
+      "ua": "удавати",
+      "ru": "притворяться",
+      "example": "He pretended to be asleep.",
+      "audio": ""
+    },
+    {
+      "word": "remember",
+      "ipa": "/rɪˈmembə/",
+      "ua": "пам'ятати; не забути",
+      "ru": "помнить; не забыть",
+      "example": "Remember to lock the door.",
+      "audio": ""
+    },
+    {
+      "word": "forget",
+      "ipa": "/fəˈɡet/",
+      "ua": "забувати",
+      "ru": "забывать",
+      "example": "I'll never forget meeting her.",
+      "audio": ""
+    },
+    {
+      "word": "stop",
+      "ipa": "/stɒp/",
+      "ua": "припиняти; зупинятися",
+      "ru": "прекращать; останавливаться",
+      "example": "Stop talking!",
+      "audio": ""
+    },
+    {
+      "word": "try",
+      "ipa": "/traɪ/",
+      "ua": "намагатися; пробувати",
+      "ru": "стараться; пробовать",
+      "example": "Try turning it off and on.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u13-l01",
+      "title": {
+        "en": "Verbs + -ing",
+        "ua": "Дієслова + -ing",
+        "ru": "Глаголы + -ing"
+      },
+      "recap": {
+        "from": "b1-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Онлайн і проблеми",
+          "ru": "Вспомним: Онлайн и проблемы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The ___ is very slow. I can't watch videos.",
+            "options": [
+              "connection",
+              "charger",
+              "password"
+            ],
+            "answer": "connection",
+            "explain": {
+              "ua": "Connection.",
+              "ru": "Connection."
+            },
+            "id": "b1-u13-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's the ___ password? — It's on the router.",
+            "options": [
+              "Wi-Fi",
+              "account",
+              "app"
+            ],
+            "answer": "Wi-Fi",
+            "explain": {
+              "ua": "Wi-Fi.",
+              "ru": "Wi-Fi."
+            },
+            "id": "b1-u13-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "avoid · suggest · keep · imagine · consider · mind · finish · enjoy · practise + -ing",
+        "explain": {
+          "ua": "Ці дієслова вимагають -ing після себе. Також -ing — після прийменників: good at cooking, interested in learning, before leaving.",
+          "ru": "Эти глаголы требуют -ing после себя. Также -ing — после предлогов: good at cooking, interested in learning, before leaving."
+        },
+        "examples": [
+          {
+            "en": "I suggest taking a taxi.",
+            "ua": "Пропоную взяти таксі.",
+            "ru": "Предлагаю взять такси."
+          },
+          {
+            "en": "She keeps forgetting my name.",
+            "ua": "Вона постійно забуває моє ім'я.",
+            "ru": "Она постоянно забывает моё имя."
+          },
+          {
+            "en": "I'm thinking about changing jobs.",
+            "ua": "Я думаю про те, щоб змінити роботу.",
+            "ru": "Я думаю о том, чтобы сменить работу."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "I suggest ___ early.",
+          "options": [
+            "leaving",
+            "to leave",
+            "leave"
+          ],
+          "answer": "leaving",
+          "explain": {
+            "ua": "Suggest + -ing.",
+            "ru": "Suggest + -ing."
+          },
+          "id": "b1-u13-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "Try to avoid ___ fast food.",
+          "options": [
+            "eating",
+            "to eat",
+            "eat"
+          ],
+          "answer": "eating",
+          "explain": {
+            "ua": "Avoid + -ing.",
+            "ru": "Avoid + -ing."
+          },
+          "id": "b1-u13-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "He keeps ___ me the same question.",
+          "options": [
+            "asking",
+            "to ask",
+            "ask"
+          ],
+          "answer": "asking",
+          "explain": {
+            "ua": "Keep + -ing.",
+            "ru": "Keep + -ing."
+          },
+          "id": "b1-u13-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "We're considering ___ to Canada.",
+          "options": [
+            "moving",
+            "to move",
+            "move"
+          ],
+          "answer": "moving",
+          "explain": {
+            "ua": "Consider + -ing.",
+            "ru": "Consider + -ing."
+          },
+          "id": "b1-u13-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "She's good at ___ .",
+          "options": [
+            "drawing",
+            "to draw",
+            "draw"
+          ],
+          "answer": "drawing",
+          "explain": {
+            "ua": "Після прийменника — -ing.",
+            "ru": "После предлога — -ing."
+          },
+          "id": "b1-u13-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund",
+          "question": "Can you imagine ___ on a desert island?",
+          "options": [
+            "living",
+            "to live",
+            "live"
+          ],
+          "answer": "living",
+          "explain": {
+            "ua": "Imagine + -ing.",
+            "ru": "Imagine + -ing."
+          },
+          "id": "b1-u13-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund",
+          "sentence": "I suggest to go by train.",
+          "answer": "I suggest going by train.",
+          "accept": [],
+          "explain": {
+            "ua": "Suggest + -ing.",
+            "ru": "Suggest + -ing."
+          },
+          "id": "b1-u13-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund",
+          "sentence": "Thank you for help me.",
+          "answer": "Thank you for helping me.",
+          "accept": [],
+          "explain": {
+            "ua": "Після for — -ing.",
+            "ru": "После for — -ing."
+          },
+          "id": "b1-u13-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "gerund",
+          "prompt": {
+            "ua": "Я уникаю кави ввечері.",
+            "ru": "Я избегаю кофе вечером."
+          },
+          "answer": "I avoid drinking coffee in the evening.",
+          "accept": [
+            "I avoid coffee in the evening."
+          ],
+          "explain": {
+            "ua": "Avoid + -ing.",
+            "ru": "Avoid + -ing."
+          },
+          "id": "b1-u13-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u13-l02",
+      "title": {
+        "en": "Verbs + to",
+        "ua": "Дієслова + to",
+        "ru": "Глаголы + to"
+      },
+      "recap": {
+        "from": "b1-u13-l01",
+        "note": {
+          "ua": "Згадаймо: avoid · suggest · keep · imagine · consider · mind · finish · enjoy · practise + -ing",
+          "ru": "Вспомним: avoid · suggest · keep · imagine · consider · mind · finish · enjoy · practise + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "gerund",
+            "question": "I suggest ___ early.",
+            "options": [
+              "leaving",
+              "to leave",
+              "leave"
+            ],
+            "answer": "leaving",
+            "explain": {
+              "ua": "Suggest + -ing.",
+              "ru": "Suggest + -ing."
+            },
+            "id": "b1-u13-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "gerund",
+            "question": "She's good at ___ .",
+            "options": [
+              "drawing",
+              "to draw",
+              "draw"
+            ],
+            "answer": "drawing",
+            "explain": {
+              "ua": "Після прийменника — -ing.",
+              "ru": "После предлога — -ing."
+            },
+            "id": "b1-u13-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "agree · refuse · promise · offer · afford · pretend · decide · hope · plan · manage + to",
+        "explain": {
+          "ua": "Ці дієслова — з to + базове дієслово. Часто про рішення, обіцянки, наміри.",
+          "ru": "Эти глаголы — с to + базовый глагол. Часто о решениях, обещаниях, намерениях."
+        },
+        "examples": [
+          {
+            "en": "He promised to call me.",
+            "ua": "Він пообіцяв мені подзвонити.",
+            "ru": "Он пообещал мне позвонить."
+          },
+          {
+            "en": "We can't afford to go on holiday.",
+            "ua": "Ми не можемо дозволити собі відпустку.",
+            "ru": "Мы не можем позволить себе отпуск."
+          },
+          {
+            "en": "She pretended not to see me.",
+            "ua": "Вона вдала, що мене не бачить.",
+            "ru": "Она сделала вид, что меня не видит."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "infinitive",
+          "question": "He refused ___ me the money.",
+          "options": [
+            "to give",
+            "giving",
+            "give"
+          ],
+          "answer": "to give",
+          "explain": {
+            "ua": "Refuse + to.",
+            "ru": "Refuse + to."
+          },
+          "id": "b1-u13-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "infinitive",
+          "question": "She agreed ___ us.",
+          "options": [
+            "to help",
+            "helping",
+            "help"
+          ],
+          "answer": "to help",
+          "explain": {
+            "ua": "Agree + to.",
+            "ru": "Agree + to."
+          },
+          "id": "b1-u13-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "infinitive",
+          "question": "My neighbour offered ___ my bags.",
+          "options": [
+            "to carry",
+            "carrying",
+            "carry"
+          ],
+          "answer": "to carry",
+          "explain": {
+            "ua": "Offer + to.",
+            "ru": "Offer + to."
+          },
+          "id": "b1-u13-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "infinitive",
+          "question": "We can't afford ___ a new car.",
+          "options": [
+            "to buy",
+            "buying",
+            "buy"
+          ],
+          "answer": "to buy",
+          "explain": {
+            "ua": "Afford + to.",
+            "ru": "Afford + to."
+          },
+          "id": "b1-u13-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "infinitive",
+          "question": "He pretended ___ asleep.",
+          "options": [
+            "to be",
+            "being",
+            "be"
+          ],
+          "answer": "to be",
+          "explain": {
+            "ua": "Pretend + to.",
+            "ru": "Pretend + to."
+          },
+          "id": "b1-u13-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "gerund-vs-infinitive",
+          "bank": [
+            "to call",
+            "calling"
+          ],
+          "reuse": true,
+          "sentences": [
+            "He promised ___ me.",
+            "He kept ___ me.",
+            "I suggest ___ her.",
+            "She refused ___ him."
+          ],
+          "answers": [
+            "to call",
+            "calling",
+            "calling",
+            "to call"
+          ],
+          "explain": {
+            "ua": "promise / refuse + to; keep / suggest + -ing.",
+            "ru": "promise / refuse + to; keep / suggest + -ing."
+          },
+          "id": "b1-u13-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "infinitive",
+          "sentence": "He promised calling me.",
+          "answer": "He promised to call me.",
+          "accept": [],
+          "explain": {
+            "ua": "Promise + to.",
+            "ru": "Promise + to."
+          },
+          "id": "b1-u13-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "infinitive",
+          "sentence": "She pretended not seeing me.",
+          "answer": "She pretended not to see me.",
+          "accept": [],
+          "explain": {
+            "ua": "Pretend + not to.",
+            "ru": "Pretend + not to."
+          },
+          "id": "b1-u13-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "infinitive",
+          "prompt": {
+            "ua": "Він погодився допомогти.",
+            "ru": "Он согласился помочь."
+          },
+          "answer": "He agreed to help.",
+          "accept": [],
+          "explain": {
+            "ua": "Agree + to.",
+            "ru": "Agree + to."
+          },
+          "id": "b1-u13-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u13-l03",
+      "title": {
+        "en": "stop, remember, try, forget",
+        "ua": "stop, remember, try, forget",
+        "ru": "stop, remember, try, forget"
+      },
+      "recap": {
+        "from": "b1-u13-l02",
+        "note": {
+          "ua": "Згадаймо: agree · refuse · promise · offer · afford · pretend · decide · hope · plan · manage + to",
+          "ru": "Вспомним: agree · refuse · promise · offer · afford · pretend · decide · hope · plan · manage + to"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "infinitive",
+            "question": "He refused ___ me the money.",
+            "options": [
+              "to give",
+              "giving",
+              "give"
+            ],
+            "answer": "to give",
+            "explain": {
+              "ua": "Refuse + to.",
+              "ru": "Refuse + to."
+            },
+            "id": "b1-u13-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "infinitive",
+            "question": "He pretended ___ asleep.",
+            "options": [
+              "to be",
+              "being",
+              "be"
+            ],
+            "answer": "to be",
+            "explain": {
+              "ua": "Pretend + to.",
+              "ru": "Pretend + to."
+            },
+            "id": "b1-u13-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "stop doing (кинути) ≠ stop to do (зупинитися, щоб) · remember doing (пам'ятаю, що робив) ≠ remember to do (не забути зробити)",
+          "ru": "stop doing (бросить) ≠ stop to do (остановиться, чтобы) · remember doing (помню, что делал) ≠ remember to do (не забыть сделать)"
+        },
+        "explain": {
+          "ua": "Try doing — спробувати як варіант (Try restarting it). Try to do — намагатися (I tried to open it, but couldn't). Forget doing — забути, що вже було; forget to do — забути зробити.",
+          "ru": "Try doing — попробовать как вариант (Try restarting it). Try to do — стараться (I tried to open it, but couldn't). Forget doing — забыть, что уже было; forget to do — забыть сделать."
+        },
+        "examples": [
+          {
+            "en": "I stopped eating sugar.",
+            "ua": "Я перестала їсти цукор.",
+            "ru": "Я перестала есть сахар."
+          },
+          {
+            "en": "We stopped to buy some water.",
+            "ua": "Ми зупинилися, щоб купити води.",
+            "ru": "Мы остановились, чтобы купить воды."
+          },
+          {
+            "en": "Remember to lock the door!",
+            "ua": "Не забудь замкнути двері!",
+            "ru": "Не забудь закрыть дверь!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "He stopped ___ . He doesn't smoke now.",
+          "options": [
+            "smoking",
+            "to smoke",
+            "smoke"
+          ],
+          "answer": "smoking",
+          "explain": {
+            "ua": "Кинув → stop + -ing.",
+            "ru": "Бросил → stop + -ing."
+          },
+          "id": "b1-u13-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "We were tired, so we stopped ___ a coffee.",
+          "options": [
+            "to have",
+            "having",
+            "have"
+          ],
+          "answer": "to have",
+          "explain": {
+            "ua": "Зупинилися, щоб → stop + to.",
+            "ru": "Остановились, чтобы → stop + to."
+          },
+          "id": "b1-u13-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "Please remember ___ milk on your way home.",
+          "options": [
+            "to buy",
+            "buying",
+            "buy"
+          ],
+          "answer": "to buy",
+          "explain": {
+            "ua": "Не забудь зробити → to.",
+            "ru": "Не забудь сделать → to."
+          },
+          "id": "b1-u13-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "I remember ___ to Paris as a child. It was great.",
+          "options": [
+            "going",
+            "to go",
+            "go"
+          ],
+          "answer": "going",
+          "explain": {
+            "ua": "Пам'ятаю, що було → -ing.",
+            "ru": "Помню, что было → -ing."
+          },
+          "id": "b1-u13-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "The laptop doesn't work? Try ___ it off and on again.",
+          "options": [
+            "turning",
+            "to turn",
+            "turn"
+          ],
+          "answer": "turning",
+          "explain": {
+            "ua": "Спробуй як варіант → -ing.",
+            "ru": "Попробуй как вариант → -ing."
+          },
+          "id": "b1-u13-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "verb-pattern-meaning",
+          "question": "I tried ___ the window, but it was stuck.",
+          "options": [
+            "to open",
+            "opening",
+            "open"
+          ],
+          "answer": "to open",
+          "explain": {
+            "ua": "Намагався → to.",
+            "ru": "Старался → to."
+          },
+          "id": "b1-u13-l03-e06"
+        },
+        {
+          "type": "match",
+          "topic": "verb-pattern-meaning",
+          "pairs": [
+            {
+              "left": "I stopped drinking coffee.",
+              "right": {
+                "ua": "Я кинув пити каву.",
+                "ru": "Я бросил пить кофе."
+              }
+            },
+            {
+              "left": "I stopped to drink coffee.",
+              "right": {
+                "ua": "Я зупинився випити кави.",
+                "ru": "Я остановился выпить кофе."
+              }
+            },
+            {
+              "left": "I forgot to call him.",
+              "right": {
+                "ua": "Я забув йому подзвонити.",
+                "ru": "Я забыл ему позвонить."
+              }
+            },
+            {
+              "left": "I'll never forget meeting him.",
+              "right": {
+                "ua": "Я ніколи не забуду нашу зустріч.",
+                "ru": "Я никогда не забуду нашу встречу."
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Різний сенс.",
+            "ru": "Разный смысл."
+          },
+          "id": "b1-u13-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "verb-pattern-meaning",
+          "sentence": "Don't forget locking the door!",
+          "answer": "Don't forget to lock the door!",
+          "accept": [],
+          "explain": {
+            "ua": "Не забудь зробити → to.",
+            "ru": "Не забудь сделать → to."
+          },
+          "id": "b1-u13-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "verb-pattern-meaning",
+          "prompt": {
+            "ua": "Не забудь подзвонити мамі!",
+            "ru": "Не забудь позвонить маме!"
+          },
+          "answer": "Remember to call Mum!",
+          "accept": [
+            "Don't forget to call Mum!",
+            "Don't forget to call your mum!",
+            "Remember to call your mum!"
+          ],
+          "explain": {
+            "ua": "Remember / don't forget + to.",
+            "ru": "Remember / don't forget + to."
+          },
+          "id": "b1-u13-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u13-l04",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u13-l03",
+        "note": {
+          "ua": "Згадаймо: stop doing (кинути) ≠ stop to do (зупинитися, щоб) · remember doing (пам'ятаю, що робив) ≠ remember to do (не забути зробити)",
+          "ru": "Вспомним: stop doing (бросить) ≠ stop to do (остановиться, чтобы) · remember doing (помню, что делал) ≠ remember to do (не забыть сделать)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "verb-pattern-meaning",
+            "question": "He stopped ___ . He doesn't smoke now.",
+            "options": [
+              "smoking",
+              "to smoke",
+              "smoke"
+            ],
+            "answer": "smoking",
+            "explain": {
+              "ua": "Кинув → stop + -ing.",
+              "ru": "Бросил → stop + -ing."
+            },
+            "id": "b1-u13-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "verb-pattern-meaning",
+            "question": "The laptop doesn't work? Try ___ it off and on again.",
+            "options": [
+              "turning",
+              "to turn",
+              "turn"
+            ],
+            "answer": "turning",
+            "explain": {
+              "ua": "Спробуй як варіант → -ing.",
+              "ru": "Попробуй как вариант → -ing."
+            },
+            "id": "b1-u13-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "gerund-infinitive",
+          "bank": [
+            "moving",
+            "to rent",
+            "living",
+            "to find"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We're considering ___ to Lisbon.",
+            "We can't afford ___ a big flat.",
+            "Imagine ___ by the ocean!",
+            "We hope ___ a job there."
+          ],
+          "answers": [
+            "moving",
+            "to rent",
+            "living",
+            "to find"
+          ],
+          "explain": {
+            "ua": "consider / imagine + -ing; afford / hope + to.",
+            "ru": "consider / imagine + -ing; afford / hope + to."
+          },
+          "id": "b1-u13-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund-infinitive",
+          "question": "I'll never forget ___ the sea for the first time.",
+          "options": [
+            "seeing",
+            "to see",
+            "see"
+          ],
+          "answer": "seeing",
+          "explain": {
+            "ua": "Спогад → -ing.",
+            "ru": "Воспоминание → -ing."
+          },
+          "id": "b1-u13-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "gerund-infinitive",
+          "question": "She managed ___ the exam.",
+          "options": [
+            "to pass",
+            "passing",
+            "pass"
+          ],
+          "answer": "to pass",
+          "explain": {
+            "ua": "Manage + to.",
+            "ru": "Manage + to."
+          },
+          "id": "b1-u13-l04-e03"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Tom has stopped eating sweets.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Tom refused to go to the gym.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did his doctor suggest?",
+              "options": [
+                "walking more",
+                "eating more",
+                "sleeping less"
+              ],
+              "answer": "walking more"
+            }
+          ],
+          "text": "Last year my doctor suggested walking more and avoiding sugar. At first I kept forgetting, but then I decided to change. I stopped eating sweets and my friend offered to go to the gym with me. I agreed to try. Now I enjoy training and I can't imagine living without sport!",
+          "explain": {
+            "ua": "Stopped sweets; agreed to go to gym; doctor suggested walking.",
+            "ru": "Stopped sweets; agreed to go to gym; doctor suggested walking."
+          },
+          "id": "b1-u13-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund-infinitive",
+          "sentence": "I can't imagine to live without music.",
+          "answer": "I can't imagine living without music.",
+          "accept": [],
+          "explain": {
+            "ua": "Imagine + -ing.",
+            "ru": "Imagine + -ing."
+          },
+          "id": "b1-u13-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund-infinitive",
+          "sentence": "She offered helping me.",
+          "answer": "She offered to help me.",
+          "accept": [],
+          "explain": {
+            "ua": "Offer + to.",
+            "ru": "Offer + to."
+          },
+          "id": "b1-u13-l04-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "refused",
+            "answer",
+            "the",
+            "to",
+            "He",
+            "question"
+          ],
+          "answer": "He refused to answer the question",
+          "explain": {
+            "ua": "Refused → to answer.",
+            "ru": "Refused → to answer."
+          },
+          "id": "b1-u13-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "gerund-infinitive",
+          "audio_text": "Remember to lock the door.",
+          "options": [
+            "Remember to lock the door.",
+            "Remember locking the door.",
+            "Remember to look at the door."
+          ],
+          "answer": "Remember to lock the door.",
+          "audio": "",
+          "explain": {
+            "ua": "Remember to.",
+            "ru": "Remember to."
+          },
+          "id": "b1-u13-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "gerund-infinitive",
+          "prompt": {
+            "ua": "Ми зупинилися, щоб пообідати.",
+            "ru": "Мы остановились, чтобы пообедать."
+          },
+          "answer": "We stopped to have lunch.",
+          "accept": [
+            "We stopped for lunch.",
+            "We stopped to eat lunch."
+          ],
+          "explain": {
+            "ua": "Stop + to.",
+            "ru": "Stop + to."
+          },
+          "id": "b1-u13-l04-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "gerund",
+      "question": "I suggest ___ a taxi.",
+      "options": [
+        "taking",
+        "to take",
+        "take"
+      ],
+      "answer": "taking",
+      "explain": {
+        "ua": "Suggest + -ing.",
+        "ru": "Suggest + -ing."
+      },
+      "id": "b1-u13-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "infinitive",
+      "question": "He promised ___ on time.",
+      "options": [
+        "to be",
+        "being",
+        "be"
+      ],
+      "answer": "to be",
+      "explain": {
+        "ua": "Promise + to.",
+        "ru": "Promise + to."
+      },
+      "id": "b1-u13-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "gerund",
+      "question": "She keeps ___ late.",
+      "options": [
+        "coming",
+        "to come",
+        "come"
+      ],
+      "answer": "coming",
+      "explain": {
+        "ua": "Keep + -ing.",
+        "ru": "Keep + -ing."
+      },
+      "id": "b1-u13-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "infinitive",
+      "question": "We can't afford ___ abroad this year.",
+      "options": [
+        "to go",
+        "going",
+        "go"
+      ],
+      "answer": "to go",
+      "explain": {
+        "ua": "Afford + to.",
+        "ru": "Afford + to."
+      },
+      "id": "b1-u13-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "verb-pattern-meaning",
+      "question": "I stopped ___ meat. I'm vegetarian now.",
+      "options": [
+        "eating",
+        "to eat",
+        "eat"
+      ],
+      "answer": "eating",
+      "explain": {
+        "ua": "Кинув → -ing.",
+        "ru": "Бросил → -ing."
+      },
+      "id": "b1-u13-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "verb-pattern-meaning",
+      "question": "Remember ___ lock the door.",
+      "answer": "to",
+      "accept": [],
+      "explain": {
+        "ua": "Remember to.",
+        "ru": "Remember to."
+      },
+      "id": "b1-u13-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "verb-pattern-meaning",
+      "question": "Try ___ it off and on. (turn)",
+      "answer": "turning",
+      "accept": [],
+      "explain": {
+        "ua": "Спробуй варіант → -ing.",
+        "ru": "Попробуй вариант → -ing."
+      },
+      "id": "b1-u13-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "infinitive",
+      "sentence": "She refused paying.",
+      "answer": "She refused to pay.",
+      "accept": [],
+      "explain": {
+        "ua": "Refuse + to.",
+        "ru": "Refuse + to."
+      },
+      "id": "b1-u13-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "gerund",
+      "sentence": "I avoid to drive at night.",
+      "answer": "I avoid driving at night.",
+      "accept": [],
+      "explain": {
+        "ua": "Avoid + -ing.",
+        "ru": "Avoid + -ing."
+      },
+      "id": "b1-u13-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "infinitive",
+      "words": [
+        "me",
+        "hear",
+        "He",
+        "pretended",
+        "to",
+        "not"
+      ],
+      "answer": "He pretended not to hear me",
+      "explain": {
+        "ua": "Pretended → not to hear me.",
+        "ru": "Pretended → not to hear me."
+      },
+      "id": "b1-u13-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "verb-pattern-meaning",
+      "prompt": {
+        "ua": "Я пам'ятаю, як зустріла тебе вперше.",
+        "ru": "Я помню, как встретила тебя впервые."
+      },
+      "answer": "I remember meeting you for the first time.",
+      "accept": [
+        "I remember meeting you the first time."
+      ],
+      "explain": {
+        "ua": "Remember + -ing.",
+        "ru": "Remember + -ing."
+      },
+      "id": "b1-u13-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "infinitive",
+      "audio_text": "She agreed to help us.",
+      "options": [
+        "She agreed to help us.",
+        "She agreed helping us.",
+        "She agrees to help us."
+      ],
+      "answer": "She agreed to help us.",
+      "audio": "",
+      "explain": {
+        "ua": "Agreed to.",
+        "ru": "Agreed to."
+      },
+      "id": "b1-u13-cp12"
+    }
+  ]
+}

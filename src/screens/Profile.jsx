@@ -1,9 +1,8 @@
 import { useState } from 'react';
 import { useStore, streakAlive, freshState, today } from '../lib/store.jsx';
-import { LEVELS } from '../lib/content.js';
+import { LEVELS, topicName } from '../lib/content.js';
 import { levelPercent, currentLevel } from '../lib/progress.js';
 import { BADGES } from '../lib/badges.js';
-import { TOPIC_NAMES } from '../lib/i18n.js';
 import { loc } from '../lib/loc.js';
 import { tgUser } from '../lib/telegram.js';
 import { TopBar, Icon, Mascot, Bar, Toggle, Sheet, Tile } from '../components.jsx';
@@ -74,7 +73,7 @@ export default function Profile({ nav, t, lang }) {
             const acc = Math.round((r.ok / (r.ok + r.bad)) * 100);
             return (
               <div key={tp} className="col" style={{ gap: 4 }}>
-                <div className="row between"><span className="small" style={{ color: 'var(--text)' }}>{loc(TOPIC_NAMES[tp], lang) || tp}</span><span className="tiny">{acc}%</span></div>
+                <div className="row between"><span className="small" style={{ color: 'var(--text)' }}>{topicName(tp, lang)}</span><span className="tiny">{acc}%</span></div>
                 <Bar value={acc} style={{ height: 6 }} />
               </div>
             );

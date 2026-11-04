@@ -1,0 +1,1074 @@
+{
+  "id": "b1-u21",
+  "level": "B1",
+  "order": 21,
+  "kind": "grammar",
+  "title": {
+    "en": "Linking ideas and retelling",
+    "ua": "Зв'язне мовлення й переказ",
+    "ru": "Связная речь и пересказ"
+  },
+  "rule": {
+    "formula": "however · although · in addition · first / then / after that / finally · in my opinion",
+    "explain": {
+      "ua": "Щоб розповідь звучала природно, з'єднуємо думки: протиставлення (however, although), додавання (also, in addition), послідовність (first, then, after that, finally), думка (in my opinion, I think).",
+      "ru": "Чтобы рассказ звучал естественно, соединяем мысли: противопоставление (however, although), добавление (also, in addition), последовательность (first, then, after that, finally), мнение (in my opinion, I think)."
+    },
+    "examples": [
+      {
+        "en": "The hotel was cheap. However, it was very clean.",
+        "ua": "Готель був дешевий. Однак дуже чистий.",
+        "ru": "Отель был дешёвый. Однако очень чистый."
+      },
+      {
+        "en": "Although it was raining, we went out.",
+        "ua": "Хоча йшов дощ, ми вийшли.",
+        "ru": "Хотя шёл дождь, мы вышли."
+      },
+      {
+        "en": "First we had breakfast. After that we went to the museum.",
+        "ua": "Спочатку ми поснідали. Потім пішли в музей.",
+        "ru": "Сначала мы позавтракали. Потом пошли в музей."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "however",
+      "ipa": "/haʊˈevə/",
+      "ua": "однак",
+      "ru": "однако",
+      "example": "However, it was late.",
+      "audio": ""
+    },
+    {
+      "word": "although",
+      "ipa": "/ɔːlˈðəʊ/",
+      "ua": "хоча",
+      "ru": "хотя",
+      "example": "Although he was tired, …",
+      "audio": ""
+    },
+    {
+      "word": "in addition",
+      "ipa": "/ɪn əˈdɪʃn/",
+      "ua": "крім того",
+      "ru": "кроме того",
+      "example": "In addition, it's cheap.",
+      "audio": ""
+    },
+    {
+      "word": "also",
+      "ipa": "/ˈɔːlsəʊ/",
+      "ua": "також",
+      "ru": "также",
+      "example": "She also speaks French.",
+      "audio": ""
+    },
+    {
+      "word": "first of all",
+      "ipa": "/ˌfɜːst əv ˈɔːl/",
+      "ua": "насамперед",
+      "ru": "прежде всего",
+      "example": "First of all, thank you.",
+      "audio": ""
+    },
+    {
+      "word": "after that",
+      "ipa": "/ˌɑːftə ˈðæt/",
+      "ua": "після цього",
+      "ru": "после этого",
+      "example": "After that we left.",
+      "audio": ""
+    },
+    {
+      "word": "in the end",
+      "ipa": "/ɪn ði ˈend/",
+      "ua": "зрештою",
+      "ru": "в конце концов",
+      "example": "In the end, it was fine.",
+      "audio": ""
+    },
+    {
+      "word": "finally",
+      "ipa": "/ˈfaɪnəli/",
+      "ua": "нарешті; насамкінець",
+      "ru": "наконец; в заключение",
+      "example": "Finally, we arrived.",
+      "audio": ""
+    },
+    {
+      "word": "in my opinion",
+      "ipa": "/ɪn maɪ əˈpɪnjən/",
+      "ua": "на мою думку",
+      "ru": "по-моему",
+      "example": "In my opinion, it's great.",
+      "audio": ""
+    },
+    {
+      "word": "for example",
+      "ipa": "/fər ɪɡˈzɑːmpl/",
+      "ua": "наприклад",
+      "ru": "например",
+      "example": "for example, apples",
+      "audio": ""
+    },
+    {
+      "word": "on the other hand",
+      "ipa": "/ɒn ði ˌʌðə ˈhænd/",
+      "ua": "з іншого боку",
+      "ru": "с другой стороны",
+      "example": "On the other hand, it's expensive.",
+      "audio": ""
+    },
+    {
+      "word": "to sum up",
+      "ipa": "/tə ˈsʌm ʌp/",
+      "ua": "підсумовуючи",
+      "ru": "подводя итог",
+      "example": "To sum up, it was a great trip.",
+      "audio": ""
+    },
+    {
+      "word": "retell",
+      "ipa": "/ˌriːˈtel/",
+      "ua": "переказувати",
+      "ru": "пересказывать",
+      "example": "Retell the story.",
+      "audio": ""
+    },
+    {
+      "word": "main idea",
+      "ipa": "/ˌmeɪn aɪˈdɪə/",
+      "ua": "головна думка",
+      "ru": "главная мысль",
+      "example": "What's the main idea?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u21-l01",
+      "title": {
+        "en": "however, although",
+        "ua": "however, although",
+        "ru": "however, although"
+      },
+      "recap": {
+        "from": "b1-u20-l04",
+        "note": {
+          "ua": "Згадаймо: By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple",
+          "ru": "Вспомним: By the time + Past Simple, Past Perfect · after + Past Perfect · before + Past Simple"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-perfect-time",
+            "question": "By the time I got to the shop, it ___ .",
+            "options": [
+              "had closed",
+              "closed",
+              "has closed"
+            ],
+            "answer": "had closed",
+            "explain": {
+              "ua": "By the time → had.",
+              "ru": "By the time → had."
+            },
+            "id": "b1-u21-l01-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-perfect-time",
+            "question": "By the time we got up, the sun ___ already risen.",
+            "answer": "had",
+            "accept": [],
+            "explain": {
+              "ua": "Had risen.",
+              "ru": "Had risen."
+            },
+            "id": "b1-u21-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "however — на початку нового речення, після нього кома · although — з'єднує дві частини одного речення",
+          "ru": "however — в начале нового предложения, после него запятая · although — соединяет две части одного предложения"
+        },
+        "explain": {
+          "ua": "It was expensive. However, it was worth it. Although it was expensive, it was worth it. But — простіше: It was expensive, but it was worth it.",
+          "ru": "It was expensive. However, it was worth it. Although it was expensive, it was worth it. But — проще: It was expensive, but it was worth it."
+        },
+        "examples": [
+          {
+            "en": "The film was long. However, it wasn't boring.",
+            "ua": "Фільм був довгий. Однак не нудний.",
+            "ru": "Фильм был длинный. Однако не скучный."
+          },
+          {
+            "en": "Although she was tired, she finished the work.",
+            "ua": "Хоча вона втомилася, вона закінчила роботу.",
+            "ru": "Хотя она устала, она закончила работу."
+          },
+          {
+            "en": "I like my job. On the other hand, the salary is low.",
+            "ua": "Мені подобається робота. З іншого боку, зарплата низька.",
+            "ru": "Мне нравится работа. С другой стороны, зарплата низкая."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "linkers-contrast",
+          "question": "The flat is small. ___ , it's very cosy.",
+          "options": [
+            "However",
+            "Although",
+            "Because"
+          ],
+          "answer": "However",
+          "explain": {
+            "ua": "Нове речення → However.",
+            "ru": "Новое предложение → However."
+          },
+          "id": "b1-u21-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-contrast",
+          "question": "___ it was cold, we went swimming.",
+          "options": [
+            "Although",
+            "However",
+            "But"
+          ],
+          "answer": "Although",
+          "explain": {
+            "ua": "Одне речення → Although.",
+            "ru": "Одно предложение → Although."
+          },
+          "id": "b1-u21-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-contrast",
+          "question": "It was cheap, ___ it was good.",
+          "options": [
+            "but",
+            "however",
+            "although"
+          ],
+          "answer": "but",
+          "explain": {
+            "ua": "Простий зв'язок — but.",
+            "ru": "Простая связь — but."
+          },
+          "id": "b1-u21-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-contrast",
+          "question": "City life is exciting. On the other ___ , it's noisy.",
+          "options": [
+            "hand",
+            "side",
+            "way"
+          ],
+          "answer": "hand",
+          "explain": {
+            "ua": "On the other hand.",
+            "ru": "On the other hand."
+          },
+          "id": "b1-u21-l01-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-contrast",
+          "sentence": "However it was late, we stayed.",
+          "answer": "Although it was late, we stayed.",
+          "accept": [
+            "It was late. However, we stayed."
+          ],
+          "explain": {
+            "ua": "Дві частини одного речення → although.",
+            "ru": "Две части одного предложения → although."
+          },
+          "id": "b1-u21-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-contrast",
+          "sentence": "It was raining. Although, we went out.",
+          "answer": "It was raining. However, we went out.",
+          "accept": [
+            "Although it was raining, we went out."
+          ],
+          "explain": {
+            "ua": "Нове речення → However.",
+            "ru": "Новое предложение → However."
+          },
+          "id": "b1-u21-l01-e06"
+        },
+        {
+          "type": "build",
+          "topic": "linkers-contrast",
+          "words": [
+            "went",
+            "Although",
+            "was",
+            "to",
+            "work",
+            "he",
+            "he",
+            "ill"
+          ],
+          "answer": "Although he was ill he went to work",
+          "explain": {
+            "ua": "Although he was ill → he went to work.",
+            "ru": "Although he was ill → he went to work."
+          },
+          "id": "b1-u21-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers-contrast",
+          "audio_text": "However, the salary was low.",
+          "options": [
+            "However, the salary was low.",
+            "Although, the salary was low.",
+            "However, the celery was low."
+          ],
+          "answer": "However, the salary was low.",
+          "audio": "",
+          "explain": {
+            "ua": "However.",
+            "ru": "However."
+          },
+          "id": "b1-u21-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers-contrast",
+          "prompt": {
+            "ua": "Хоча було пізно, ми не пішли спати.",
+            "ru": "Хотя было поздно, мы не пошли спать."
+          },
+          "answer": "Although it was late, we didn't go to bed.",
+          "accept": [
+            "Although it was late, we did not go to bed."
+          ],
+          "explain": {
+            "ua": "Although.",
+            "ru": "Although."
+          },
+          "id": "b1-u21-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u21-l02",
+      "title": {
+        "en": "Sequencing and adding",
+        "ua": "Послідовність і доповнення",
+        "ru": "Последовательность и дополнение"
+      },
+      "recap": {
+        "from": "b1-u21-l01",
+        "note": {
+          "ua": "Згадаймо: however — на початку нового речення, після нього кома · although — з'єднує дві частини одного речення",
+          "ru": "Вспомним: however — в начале нового предложения, после него запятая · although — соединяет две части одного предложения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-contrast",
+            "question": "The flat is small. ___ , it's very cosy.",
+            "options": [
+              "However",
+              "Although",
+              "Because"
+            ],
+            "answer": "However",
+            "explain": {
+              "ua": "Нове речення → However.",
+              "ru": "Новое предложение → However."
+            },
+            "id": "b1-u21-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-contrast",
+            "question": "City life is exciting. On the other ___ , it's noisy.",
+            "options": [
+              "hand",
+              "side",
+              "way"
+            ],
+            "answer": "hand",
+            "explain": {
+              "ua": "On the other hand.",
+              "ru": "On the other hand."
+            },
+            "id": "b1-u21-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "first (of all) → then / next / after that → finally / in the end · also / in addition / for example",
+        "explain": {
+          "ua": "Послідовність робить переказ зрозумілим. Finally — останній крок у списку. In the end — чим усе закінчилося (після проблем).",
+          "ru": "Последовательность делает пересказ понятным. Finally — последний шаг в списке. In the end — чем всё закончилось (после проблем)."
+        },
+        "examples": [
+          {
+            "en": "First, we bought tickets. Then we found our seats.",
+            "ua": "Спочатку купили квитки. Потім знайшли місця.",
+            "ru": "Сначала купили билеты. Потом нашли места."
+          },
+          {
+            "en": "We got lost twice, but in the end we found the hotel.",
+            "ua": "Ми двічі заблукали, але зрештою знайшли готель.",
+            "ru": "Мы дважды заблудились, но в итоге нашли отель."
+          },
+          {
+            "en": "It's cheap. In addition, it's close to the sea.",
+            "ua": "Це дешево. Крім того, близько до моря.",
+            "ru": "Это дёшево. Кроме того, близко к морю."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "linkers-sequence",
+          "bank": [
+            "First",
+            "Then",
+            "After that",
+            "Finally"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___, open the app.",
+            "___ choose your level.",
+            "___, start the first lesson.",
+            "___, check your progress."
+          ],
+          "answers": [
+            "First",
+            "Then",
+            "After that",
+            "Finally"
+          ],
+          "explain": {
+            "ua": "Порядок кроків.",
+            "ru": "Порядок шагов."
+          },
+          "id": "b1-u21-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-sequence",
+          "question": "We had a lot of problems, but ___ everything was fine.",
+          "options": [
+            "in the end",
+            "finally of all",
+            "first"
+          ],
+          "answer": "in the end",
+          "explain": {
+            "ua": "Чим закінчилося → in the end.",
+            "ru": "Чем закончилось → in the end."
+          },
+          "id": "b1-u21-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-adding",
+          "question": "The hotel was great. ___ , the staff were very friendly.",
+          "options": [
+            "In addition",
+            "However",
+            "Although"
+          ],
+          "answer": "In addition",
+          "explain": {
+            "ua": "Додаємо → in addition.",
+            "ru": "Добавляем → in addition."
+          },
+          "id": "b1-u21-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-adding",
+          "question": "I love fruit, ___ apples and peaches.",
+          "options": [
+            "for example",
+            "however",
+            "finally"
+          ],
+          "answer": "for example",
+          "explain": {
+            "ua": "Приклад → for example.",
+            "ru": "Пример → for example."
+          },
+          "id": "b1-u21-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers-sequence",
+          "question": "___ , the trip was amazing. (summary)",
+          "options": [
+            "To sum up",
+            "First of all",
+            "On the other hand"
+          ],
+          "answer": "To sum up",
+          "explain": {
+            "ua": "Підсумок → to sum up.",
+            "ru": "Итог → to sum up."
+          },
+          "id": "b1-u21-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "linkers-sequence",
+          "pairs": [
+            {
+              "left": "first of all",
+              "right": {
+                "ua": "насамперед",
+                "ru": "прежде всего"
+              }
+            },
+            {
+              "left": "after that",
+              "right": {
+                "ua": "після цього",
+                "ru": "после этого"
+              }
+            },
+            {
+              "left": "in the end",
+              "right": {
+                "ua": "зрештою",
+                "ru": "в итоге"
+              }
+            },
+            {
+              "left": "to sum up",
+              "right": {
+                "ua": "підсумовуючи",
+                "ru": "подводя итог"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Сполучники.",
+            "ru": "Союзы."
+          },
+          "id": "b1-u21-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers-sequence",
+          "sentence": "At the end we found the hotel.",
+          "answer": "In the end we found the hotel.",
+          "accept": [
+            "Finally we found the hotel.",
+            "In the end, we found the hotel."
+          ],
+          "explain": {
+            "ua": "Зрештою — in the end.",
+            "ru": "В итоге — in the end."
+          },
+          "id": "b1-u21-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers-sequence",
+          "audio_text": "First of all, thank you for coming.",
+          "options": [
+            "First of all, thank you for coming.",
+            "Firstly of all, thank you for coming.",
+            "First of all, thank you for calling."
+          ],
+          "answer": "First of all, thank you for coming.",
+          "audio": "",
+          "explain": {
+            "ua": "First of all.",
+            "ru": "First of all."
+          },
+          "id": "b1-u21-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers-sequence",
+          "prompt": {
+            "ua": "Спочатку ми поснідали, а після цього пішли гуляти.",
+            "ru": "Сначала мы позавтракали, а после этого пошли гулять."
+          },
+          "answer": "First we had breakfast, and after that we went for a walk.",
+          "accept": [
+            "First, we had breakfast and after that we went for a walk.",
+            "First we had breakfast. After that we went for a walk.",
+            "First, we had breakfast. After that, we went for a walk."
+          ],
+          "explain": {
+            "ua": "First … after that.",
+            "ru": "First … after that."
+          },
+          "id": "b1-u21-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u21-l03",
+      "title": {
+        "en": "Practice: retell the story",
+        "ua": "Практика: перекажи історію",
+        "ru": "Практика: перескажи историю"
+      },
+      "recap": {
+        "from": "b1-u21-l02",
+        "note": {
+          "ua": "Згадаймо: first (of all) → then / next / after that → finally / in the end · also / in addition / for example",
+          "ru": "Вспомним: first (of all) → then / next / after that → finally / in the end · also / in addition / for example"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "linkers-sequence",
+            "question": "We had a lot of problems, but ___ everything was fine.",
+            "options": [
+              "in the end",
+              "finally of all",
+              "first"
+            ],
+            "answer": "in the end",
+            "explain": {
+              "ua": "Чим закінчилося → in the end.",
+              "ru": "Чем закончилось → in the end."
+            },
+            "id": "b1-u21-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "linkers-sequence",
+            "question": "___ , the trip was amazing. (summary)",
+            "options": [
+              "To sum up",
+              "First of all",
+              "On the other hand"
+            ],
+            "answer": "To sum up",
+            "explain": {
+              "ua": "Підсумок → to sum up.",
+              "ru": "Итог → to sum up."
+            },
+            "id": "b1-u21-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What did Charlie do before the show?",
+              "options": [
+                "she worked as a shop assistant",
+                "she was a teacher",
+                "she studied dance at university"
+              ],
+              "answer": "she worked as a shop assistant"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Charlie's mum was a dancer.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Charlie won the show on her first try.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What happened in the end?",
+              "options": [
+                "she won and became a dancer",
+                "she gave up",
+                "she went back to the shop"
+              ],
+              "answer": "she won and became a dancer"
+            }
+          ],
+          "text": "A few years ago, a young woman called Charlie worked as a shop assistant. However, she dreamed of being a dancer, like her mum. First, she went to lots of auditions. It was hard, and at first she failed. Although she was disappointed, she didn't give up. After that, she trained every evening after work. Finally, she got a place on a TV talent show. In the end, she won it! Her video got over six million views, and she found a job as a dancer.",
+          "explain": {
+            "ua": "Shop assistant; mum dancer; many auditions, failed first; in the end won.",
+            "ru": "Shop assistant; mum dancer; many auditions, failed first; in the end won."
+          },
+          "id": "b1-u21-l03-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "linkers",
+          "bank": [
+            "However",
+            "First",
+            "Although",
+            "After that",
+            "In the end"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She worked in a shop. ___, she dreamed of dancing.",
+            "___, she went to auditions.",
+            "___ she failed, she didn't give up.",
+            "___, she trained every evening.",
+            "___, she won the show."
+          ],
+          "answers": [
+            "However",
+            "First",
+            "Although",
+            "After that",
+            "In the end"
+          ],
+          "explain": {
+            "ua": "Сполучники з тексту.",
+            "ru": "Союзы из текста."
+          },
+          "id": "b1-u21-l03-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "dreamed of being",
+              "right": {
+                "ua": "мріяла стати",
+                "ru": "мечтала стать"
+              }
+            },
+            {
+              "left": "audition",
+              "right": {
+                "ua": "прослуховування",
+                "ru": "прослушивание"
+              }
+            },
+            {
+              "left": "talent show",
+              "right": {
+                "ua": "шоу талантів",
+                "ru": "шоу талантов"
+              }
+            },
+            {
+              "left": "views",
+              "right": {
+                "ua": "перегляди",
+                "ru": "просмотры"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Слова з тексту.",
+            "ru": "Слова из текста."
+          },
+          "id": "b1-u21-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "linkers",
+          "question": "What's the main idea of the story?",
+          "options": [
+            "Don't give up on your dream.",
+            "Shops are boring.",
+            "TV shows are easy."
+          ],
+          "answer": "Don't give up on your dream.",
+          "explain": {
+            "ua": "Головна думка — не здаватися.",
+            "ru": "Главная мысль — не сдаваться."
+          },
+          "id": "b1-u21-l03-e04"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "of",
+            "a",
+            "She",
+            "dreamed",
+            "dancer",
+            "being"
+          ],
+          "answer": "She dreamed of being a dancer",
+          "explain": {
+            "ua": "Dreamed of → being a dancer.",
+            "ru": "Dreamed of → being a dancer."
+          },
+          "id": "b1-u21-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "gerund",
+          "sentence": "She dreamed to be a dancer.",
+          "answer": "She dreamed of being a dancer.",
+          "accept": [],
+          "explain": {
+            "ua": "Dream of + -ing.",
+            "ru": "Dream of + -ing."
+          },
+          "id": "b1-u21-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "linkers",
+          "sentence": "Over six million views was on her video.",
+          "answer": "Her video got over six million views.",
+          "accept": [
+            "There were over six million views on her video."
+          ],
+          "explain": {
+            "ua": "Views — множина.",
+            "ru": "Views — множественное."
+          },
+          "id": "b1-u21-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "linkers",
+          "audio_text": "In the end, she won the show.",
+          "options": [
+            "In the end, she won the show.",
+            "At the end, she won the show.",
+            "In the end, she one the show."
+          ],
+          "answer": "In the end, she won the show.",
+          "audio": "",
+          "explain": {
+            "ua": "In the end.",
+            "ru": "In the end."
+          },
+          "id": "b1-u21-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "linkers",
+          "prompt": {
+            "ua": "Хоча було важко, вона не здалася.",
+            "ru": "Хотя было трудно, она не сдалась."
+          },
+          "answer": "Although it was hard, she didn't give up.",
+          "accept": [
+            "Although it was difficult, she didn't give up.",
+            "Although it was hard, she did not give up."
+          ],
+          "explain": {
+            "ua": "Although.",
+            "ru": "Although."
+          },
+          "id": "b1-u21-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "linkers-contrast",
+      "question": "It was late. ___ , we kept working.",
+      "options": [
+        "However",
+        "Although",
+        "So"
+      ],
+      "answer": "However",
+      "explain": {
+        "ua": "However.",
+        "ru": "However."
+      },
+      "id": "b1-u21-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-contrast",
+      "question": "___ it was raining, we went to the beach.",
+      "options": [
+        "Although",
+        "However",
+        "In addition"
+      ],
+      "answer": "Although",
+      "explain": {
+        "ua": "Although.",
+        "ru": "Although."
+      },
+      "id": "b1-u21-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-sequence",
+      "question": "We had problems, but ___ we arrived.",
+      "options": [
+        "in the end",
+        "at the end",
+        "first"
+      ],
+      "answer": "in the end",
+      "explain": {
+        "ua": "In the end.",
+        "ru": "In the end."
+      },
+      "id": "b1-u21-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-adding",
+      "question": "The flat is cheap. ___ , it's near the metro.",
+      "options": [
+        "In addition",
+        "However",
+        "Although"
+      ],
+      "answer": "In addition",
+      "explain": {
+        "ua": "In addition.",
+        "ru": "In addition."
+      },
+      "id": "b1-u21-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-adding",
+      "question": "I like sports, ___ tennis and swimming.",
+      "options": [
+        "for example",
+        "however",
+        "although"
+      ],
+      "answer": "for example",
+      "explain": {
+        "ua": "For example.",
+        "ru": "For example."
+      },
+      "id": "b1-u21-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "linkers-adding",
+      "question": "___ my opinion, this is the best café.",
+      "answer": "In",
+      "accept": [],
+      "explain": {
+        "ua": "In my opinion.",
+        "ru": "In my opinion."
+      },
+      "id": "b1-u21-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "linkers-sequence",
+      "question": "To sum ___, it was a great day.",
+      "answer": "up",
+      "accept": [],
+      "explain": {
+        "ua": "To sum up.",
+        "ru": "To sum up."
+      },
+      "id": "b1-u21-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers-contrast",
+      "sentence": "Although, it was expensive.",
+      "answer": "However, it was expensive.",
+      "accept": [
+        "Although it was expensive, …",
+        "It was expensive, though."
+      ],
+      "explain": {
+        "ua": "However.",
+        "ru": "However."
+      },
+      "id": "b1-u21-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "linkers-sequence",
+      "sentence": "At the end, everything was OK.",
+      "answer": "In the end, everything was OK.",
+      "accept": [],
+      "explain": {
+        "ua": "In the end.",
+        "ru": "In the end."
+      },
+      "id": "b1-u21-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "linkers-sequence",
+      "words": [
+        "the",
+        "all",
+        "First",
+        "bought",
+        "of",
+        "we",
+        "tickets"
+      ],
+      "answer": "First of all we bought the tickets",
+      "explain": {
+        "ua": "First of all → we bought the tickets.",
+        "ru": "First of all → we bought the tickets."
+      },
+      "id": "b1-u21-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "linkers-contrast",
+      "prompt": {
+        "ua": "З іншого боку, це дорого.",
+        "ru": "С другой стороны, это дорого."
+      },
+      "answer": "On the other hand, it's expensive.",
+      "accept": [
+        "On the other hand, it is expensive."
+      ],
+      "explain": {
+        "ua": "On the other hand.",
+        "ru": "On the other hand."
+      },
+      "id": "b1-u21-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "linkers-sequence",
+      "audio_text": "Finally, check your answers.",
+      "options": [
+        "Finally, check your answers.",
+        "Final, check your answers.",
+        "Firstly, check your answers."
+      ],
+      "answer": "Finally, check your answers.",
+      "audio": "",
+      "explain": {
+        "ua": "Finally.",
+        "ru": "Finally."
+      },
+      "id": "b1-u21-cp12"
+    }
+  ]
+}

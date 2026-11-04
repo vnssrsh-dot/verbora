@@ -1,0 +1,1425 @@
+{
+  "id": "b1-u08",
+  "level": "B1",
+  "order": 8,
+  "kind": "grammar",
+  "title": {
+    "en": "Passive: basics",
+    "ua": "Пасив: основи",
+    "ru": "Пассив: основы"
+  },
+  "rule": {
+    "formula": {
+      "ua": "be (am / is / are / was / were) + V3 — дію виконують над кимось / чимось",
+      "ru": "be (am / is / are / was / were) + V3 — действие совершают над кем-то / чем-то"
+    },
+    "explain": {
+      "ua": "Пасив — коли важливо, що сталося, а не хто зробив: The house was built in 1900. Виконавця додаємо через by, тільки якщо це важливо: The book was written by Shevchenko.",
+      "ru": "Пассив — когда важно, что произошло, а не кто сделал: The house was built in 1900. Исполнителя добавляем через by, только если это важно: The book was written by Shevchenko."
+    },
+    "examples": [
+      {
+        "en": "English is spoken all over the world.",
+        "ua": "Англійською розмовляють у всьому світі.",
+        "ru": "На английском говорят во всём мире."
+      },
+      {
+        "en": "My bike was stolen.",
+        "ua": "Мій велосипед украли.",
+        "ru": "Мой велосипед украли."
+      },
+      {
+        "en": "This photo was taken by my dad.",
+        "ua": "Це фото зробив мій тато.",
+        "ru": "Это фото сделал мой папа."
+      }
+    ],
+    "compare": {
+      "ua": "Українською часто кажемо «кажуть, украли, будують» (без «хто»). Англійською це пасив: It is said, it was stolen, it is being built.",
+      "ru": "По-русски часто говорим «говорят, украли, строят» (без «кто»). По-английски это пассив: It is said, it was stolen, it is being built."
+    }
+  },
+  "vocab": [
+    {
+      "word": "build → built",
+      "ipa": "/bɪlt/",
+      "ua": "будувати → збудований",
+      "ru": "строить → построенный",
+      "example": "The bridge was built in 1950.",
+      "audio": ""
+    },
+    {
+      "word": "make → made",
+      "ipa": "/meɪd/",
+      "ua": "робити → зроблений",
+      "ru": "делать → сделанный",
+      "example": "Made in Ukraine.",
+      "audio": ""
+    },
+    {
+      "word": "steal → stolen",
+      "ipa": "/ˈstəʊlən/",
+      "ua": "красти → вкрадений",
+      "ru": "красть → украденный",
+      "example": "My phone was stolen.",
+      "audio": ""
+    },
+    {
+      "word": "write → written",
+      "ipa": "/ˈrɪtn/",
+      "ua": "писати → написаний",
+      "ru": "писать → написанный",
+      "example": "It was written in 1840.",
+      "audio": ""
+    },
+    {
+      "word": "invent → invented",
+      "ipa": "/ɪnˈventɪd/",
+      "ua": "винаходити → винайдений",
+      "ru": "изобретать → изобретённый",
+      "example": "The phone was invented in 1876.",
+      "audio": ""
+    },
+    {
+      "word": "grow → grown",
+      "ipa": "/ɡrəʊn/",
+      "ua": "вирощувати → вирощений",
+      "ru": "выращивать → выращенный",
+      "example": "Coffee is grown in Brazil.",
+      "audio": ""
+    },
+    {
+      "word": "speak → spoken",
+      "ipa": "/ˈspəʊkən/",
+      "ua": "говорити → розмовна (мова)",
+      "ru": "говорить → разговорный (язык)",
+      "example": "Spanish is spoken here.",
+      "audio": ""
+    },
+    {
+      "word": "deliver",
+      "ipa": "/dɪˈlɪvə/",
+      "ua": "доставляти",
+      "ru": "доставлять",
+      "example": "The parcel was delivered.",
+      "audio": ""
+    },
+    {
+      "word": "produce",
+      "ipa": "/prəˈdjuːs/",
+      "ua": "виробляти",
+      "ru": "производить",
+      "example": "Cars are produced here.",
+      "audio": ""
+    },
+    {
+      "word": "employ",
+      "ipa": "/ɪmˈplɔɪ/",
+      "ua": "наймати",
+      "ru": "нанимать",
+      "example": "500 people are employed here.",
+      "audio": ""
+    },
+    {
+      "word": "damage",
+      "ipa": "/ˈdæmɪdʒ/",
+      "ua": "пошкоджувати",
+      "ru": "повреждать",
+      "example": "The car was damaged.",
+      "audio": ""
+    },
+    {
+      "word": "by",
+      "ipa": "/baɪ/",
+      "ua": "(ким) — у пасиві",
+      "ru": "(кем) — в пассиве",
+      "example": "written by Lesya Ukrainka",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u08-l01",
+      "title": {
+        "en": "Present Simple Passive",
+        "ua": "Present Simple Passive",
+        "ru": "Present Simple Passive"
+      },
+      "recap": {
+        "from": "b1-u07-l04",
+        "note": {
+          "ua": "Згадаймо: реально / можливо → If + Present, will · уявно / малоймовірно → If + Past, would",
+          "ru": "Вспомним: реально / возможно → If + Present, will · воображаемо / маловероятно → If + Past, would"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "first-vs-second",
+            "question": "If it ___ tomorrow, we'll cancel the picnic.",
+            "options": [
+              "rains",
+              "rained",
+              "would rain"
+            ],
+            "answer": "rains",
+            "explain": {
+              "ua": "Реально → first.",
+              "ru": "Реально → first."
+            },
+            "id": "b1-u08-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "first-vs-second",
+            "question": "I'm going to the shop. If I see some nice bread, I ___ it.",
+            "options": [
+              "'ll buy",
+              "'d buy",
+              "bought"
+            ],
+            "answer": "'ll buy",
+            "explain": {
+              "ua": "Реально.",
+              "ru": "Реально."
+            },
+            "id": "b1-u08-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "am / is / are + V3",
+        "explain": {
+          "ua": "Факти, процеси, загальне: Coffee is grown in Brazil. Cars are made in this factory. Is / are — залежно від однини / множини.",
+          "ru": "Факты, процессы, общее: Coffee is grown in Brazil. Cars are made in this factory. Is / are — в зависимости от единственного / множественного."
+        },
+        "examples": [
+          {
+            "en": "Cheese is made from milk.",
+            "ua": "Сир роблять з молока.",
+            "ru": "Сыр делают из молока."
+          },
+          {
+            "en": "These phones are made in China.",
+            "ua": "Ці телефони виробляють у Китаї.",
+            "ru": "Эти телефоны производят в Китае."
+          },
+          {
+            "en": "The office is cleaned every day.",
+            "ua": "Офіс прибирають щодня.",
+            "ru": "Офис убирают каждый день."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-present",
+          "question": "Coffee ___ in Brazil.",
+          "options": [
+            "is grown",
+            "grows",
+            "are grown"
+          ],
+          "answer": "is grown",
+          "explain": {
+            "ua": "Coffee — однина → is + V3.",
+            "ru": "Coffee — единственное → is + V3."
+          },
+          "id": "b1-u08-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-present",
+          "question": "English ___ in many countries.",
+          "options": [
+            "is spoken",
+            "speaks",
+            "is speak"
+          ],
+          "answer": "is spoken",
+          "explain": {
+            "ua": "Is + spoken.",
+            "ru": "Is + spoken."
+          },
+          "id": "b1-u08-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-present",
+          "question": "These cars ___ in Germany.",
+          "options": [
+            "are made",
+            "is made",
+            "make"
+          ],
+          "answer": "are made",
+          "explain": {
+            "ua": "Множина → are.",
+            "ru": "Множественное → are."
+          },
+          "id": "b1-u08-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-present",
+          "question": "Bread ___ from flour.",
+          "options": [
+            "is made",
+            "makes",
+            "is make"
+          ],
+          "answer": "is made",
+          "explain": {
+            "ua": "Is made.",
+            "ru": "Is made."
+          },
+          "id": "b1-u08-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "passive-present",
+          "question": "The rooms ___ cleaned every morning.",
+          "answer": "are",
+          "accept": [],
+          "explain": {
+            "ua": "Rooms → are.",
+            "ru": "Rooms → are."
+          },
+          "id": "b1-u08-l01-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "passive-present",
+          "bank": [
+            "is",
+            "are"
+          ],
+          "reuse": true,
+          "sentences": [
+            "Rice ___ grown in Asia.",
+            "Cars ___ produced here.",
+            "This song ___ played on the radio.",
+            "The letters ___ delivered at 9."
+          ],
+          "answers": [
+            "is",
+            "are",
+            "is",
+            "are"
+          ],
+          "explain": {
+            "ua": "Однина → is, множина → are.",
+            "ru": "Единственное → is, множественное → are."
+          },
+          "id": "b1-u08-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-present",
+          "sentence": "Cheese is make from milk.",
+          "answer": "Cheese is made from milk.",
+          "accept": [],
+          "explain": {
+            "ua": "Потрібна V3 — made.",
+            "ru": "Нужна V3 — made."
+          },
+          "id": "b1-u08-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-present",
+          "sentence": "Spanish speaks in Mexico.",
+          "answer": "Spanish is spoken in Mexico.",
+          "accept": [],
+          "explain": {
+            "ua": "Мова не говорить сама → пасив.",
+            "ru": "Язык не говорит сам → пассив."
+          },
+          "id": "b1-u08-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-present",
+          "prompt": {
+            "ua": "Цей сир роблять у Франції.",
+            "ru": "Этот сыр делают во Франции."
+          },
+          "answer": "This cheese is made in France.",
+          "accept": [],
+          "explain": {
+            "ua": "Is made.",
+            "ru": "Is made."
+          },
+          "id": "b1-u08-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u08-l02",
+      "title": {
+        "en": "Past Simple Passive",
+        "ua": "Past Simple Passive",
+        "ru": "Past Simple Passive"
+      },
+      "recap": {
+        "from": "b1-u08-l01",
+        "note": {
+          "ua": "Згадаймо: am / is / are + V3",
+          "ru": "Вспомним: am / is / are + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-present",
+            "question": "Coffee ___ in Brazil.",
+            "options": [
+              "is grown",
+              "grows",
+              "are grown"
+            ],
+            "answer": "is grown",
+            "explain": {
+              "ua": "Coffee — однина → is + V3.",
+              "ru": "Coffee — единственное → is + V3."
+            },
+            "id": "b1-u08-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "passive-present",
+            "question": "The rooms ___ cleaned every morning.",
+            "answer": "are",
+            "accept": [],
+            "explain": {
+              "ua": "Rooms → are.",
+              "ru": "Rooms → are."
+            },
+            "id": "b1-u08-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "was / were + V3",
+        "explain": {
+          "ua": "Що сталося в минулому: My car was stolen. The pyramids were built 4,500 years ago.",
+          "ru": "Что произошло в прошлом: My car was stolen. The pyramids were built 4,500 years ago."
+        },
+        "examples": [
+          {
+            "en": "My phone was stolen yesterday.",
+            "ua": "Учора в мене вкрали телефон.",
+            "ru": "Вчера у меня украли телефон."
+          },
+          {
+            "en": "The telephone was invented in 1876.",
+            "ua": "Телефон винайшли у 1876-му.",
+            "ru": "Телефон изобрели в 1876-м."
+          },
+          {
+            "en": "We were invited to a wedding.",
+            "ua": "Нас запросили на весілля.",
+            "ru": "Нас пригласили на свадьбу."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-past",
+          "question": "This house ___ in 1920.",
+          "options": [
+            "was built",
+            "built",
+            "is built"
+          ],
+          "answer": "was built",
+          "explain": {
+            "ua": "Минуле → was + V3.",
+            "ru": "Прошлое → was + V3."
+          },
+          "id": "b1-u08-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-past",
+          "question": "My keys ___ on the bus.",
+          "options": [
+            "were found",
+            "was found",
+            "found"
+          ],
+          "answer": "were found",
+          "explain": {
+            "ua": "Keys → were.",
+            "ru": "Keys → were."
+          },
+          "id": "b1-u08-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-past",
+          "question": "The film ___ in Odesa.",
+          "options": [
+            "was made",
+            "made",
+            "were made"
+          ],
+          "answer": "was made",
+          "explain": {
+            "ua": "Was made.",
+            "ru": "Was made."
+          },
+          "id": "b1-u08-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-past",
+          "question": "We ___ to the party.",
+          "options": [
+            "were invited",
+            "was invited",
+            "invited"
+          ],
+          "answer": "were invited",
+          "explain": {
+            "ua": "We → were.",
+            "ru": "We → were."
+          },
+          "id": "b1-u08-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-past",
+          "question": "The parcel ___ this morning.",
+          "options": [
+            "was delivered",
+            "delivered",
+            "is delivered"
+          ],
+          "answer": "was delivered",
+          "explain": {
+            "ua": "This morning (минуле) → was.",
+            "ru": "This morning (прошлое) → was."
+          },
+          "id": "b1-u08-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "passive-past",
+          "pairs": [
+            {
+              "left": "build",
+              "right": "built"
+            },
+            {
+              "left": "steal",
+              "right": "stolen"
+            },
+            {
+              "left": "write",
+              "right": "written"
+            },
+            {
+              "left": "invent",
+              "right": "invented"
+            }
+          ],
+          "explain": {
+            "ua": "V3 для пасиву.",
+            "ru": "V3 для пассива."
+          },
+          "id": "b1-u08-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-past",
+          "sentence": "My bike stole last night.",
+          "answer": "My bike was stolen last night.",
+          "accept": [],
+          "explain": {
+            "ua": "Велосипед не крав — його вкрали.",
+            "ru": "Велосипед не крал — его украли."
+          },
+          "id": "b1-u08-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-past",
+          "sentence": "The letters was sent yesterday.",
+          "answer": "The letters were sent yesterday.",
+          "accept": [],
+          "explain": {
+            "ua": "Letters → were.",
+            "ru": "Letters → were."
+          },
+          "id": "b1-u08-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-past",
+          "prompt": {
+            "ua": "Мою машину пошкодили.",
+            "ru": "Мою машину повредили."
+          },
+          "answer": "My car was damaged.",
+          "accept": [
+            "My car has been damaged."
+          ],
+          "explain": {
+            "ua": "Was damaged.",
+            "ru": "Was damaged."
+          },
+          "id": "b1-u08-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u08-l03",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "b1-u08-l02",
+        "note": {
+          "ua": "Згадаймо: was / were + V3",
+          "ru": "Вспомним: was / were + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-past",
+            "question": "This house ___ in 1920.",
+            "options": [
+              "was built",
+              "built",
+              "is built"
+            ],
+            "answer": "was built",
+            "explain": {
+              "ua": "Минуле → was + V3.",
+              "ru": "Прошлое → was + V3."
+            },
+            "id": "b1-u08-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-past",
+            "question": "The parcel ___ this morning.",
+            "options": [
+              "was delivered",
+              "delivered",
+              "is delivered"
+            ],
+            "answer": "was delivered",
+            "explain": {
+              "ua": "This morning (минуле) → was.",
+              "ru": "This morning (прошлое) → was."
+            },
+            "id": "b1-u08-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "isn't / aren't / wasn't / weren't + V3 · Is it…? Was it…?",
+        "explain": {
+          "ua": "Як із to be: The room isn't cleaned. Was the parcel delivered? When was it built? Where are they made?",
+          "ru": "Как с to be: The room isn't cleaned. Was the parcel delivered? When was it built? Where are they made?"
+        },
+        "examples": [
+          {
+            "en": "The house wasn't damaged.",
+            "ua": "Будинок не постраждав.",
+            "ru": "Дом не пострадал."
+          },
+          {
+            "en": "When was this bridge built?",
+            "ua": "Коли збудували цей міст?",
+            "ru": "Когда построили этот мост?"
+          },
+          {
+            "en": "Is breakfast included?",
+            "ua": "Сніданок включено?",
+            "ru": "Завтрак включён?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-questions",
+          "question": "___ breakfast included in the price?",
+          "options": [
+            "Is",
+            "Does",
+            "Was"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "Is … included?",
+            "ru": "Is … included?"
+          },
+          "id": "b1-u08-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-questions",
+          "question": "When ___ this castle built?",
+          "options": [
+            "was",
+            "did",
+            "is"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Was … built?",
+            "ru": "Was … built?"
+          },
+          "id": "b1-u08-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-questions",
+          "question": "Where ___ these shoes made?",
+          "options": [
+            "are",
+            "do",
+            "is"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Shoes → are.",
+            "ru": "Shoes → are."
+          },
+          "id": "b1-u08-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-questions",
+          "question": "The window ___ broken. It was open.",
+          "options": [
+            "wasn't",
+            "didn't",
+            "isn't"
+          ],
+          "answer": "wasn't",
+          "explain": {
+            "ua": "Wasn't + V3.",
+            "ru": "Wasn't + V3."
+          },
+          "id": "b1-u08-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-questions",
+          "question": "Were you invited? — Yes, I ___ .",
+          "options": [
+            "was",
+            "were",
+            "did"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Yes, I was.",
+            "ru": "Yes, I was."
+          },
+          "id": "b1-u08-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-questions",
+          "sentence": "When did the bridge built?",
+          "answer": "When was the bridge built?",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив — was, не did.",
+            "ru": "Пассив — was, не did."
+          },
+          "id": "b1-u08-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-questions",
+          "sentence": "Is the tip include?",
+          "answer": "Is the tip included?",
+          "accept": [],
+          "explain": {
+            "ua": "V3 — included.",
+            "ru": "V3 — included."
+          },
+          "id": "b1-u08-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "passive-questions",
+          "audio_text": "Where was this photo taken?",
+          "options": [
+            "Where was this photo taken?",
+            "Where did this photo take?",
+            "Where was this photo token?"
+          ],
+          "answer": "Where was this photo taken?",
+          "audio": "",
+          "explain": {
+            "ua": "Was … taken.",
+            "ru": "Was … taken."
+          },
+          "id": "b1-u08-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-questions",
+          "prompt": {
+            "ua": "Коли було написано цю книжку?",
+            "ru": "Когда была написана эта книга?"
+          },
+          "answer": "When was this book written?",
+          "accept": [],
+          "explain": {
+            "ua": "When was … written?",
+            "ru": "When was … written?"
+          },
+          "id": "b1-u08-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u08-l04",
+      "title": {
+        "en": "by + when to use passive",
+        "ua": "by + коли потрібен пасив",
+        "ru": "by + когда нужен пассив"
+      },
+      "recap": {
+        "from": "b1-u08-l03",
+        "note": {
+          "ua": "Згадаймо: isn't / aren't / wasn't / weren't + V3 · Is it…? Was it…?",
+          "ru": "Вспомним: isn't / aren't / wasn't / weren't + V3 · Is it…? Was it…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-questions",
+            "question": "___ breakfast included in the price?",
+            "options": [
+              "Is",
+              "Does",
+              "Was"
+            ],
+            "answer": "Is",
+            "explain": {
+              "ua": "Is … included?",
+              "ru": "Is … included?"
+            },
+            "id": "b1-u08-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-questions",
+            "question": "Were you invited? — Yes, I ___ .",
+            "options": [
+              "was",
+              "were",
+              "did"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "Yes, I was.",
+              "ru": "Yes, I was."
+            },
+            "id": "b1-u08-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "пасив — коли головне ЩО, а не ХТО · by + виконавець — лише якщо важливо",
+          "ru": "пассив — когда главное ЧТО, а не КТО · by + исполнитель — только если важно"
+        },
+        "explain": {
+          "ua": "The window was broken (ким — не знаємо / неважливо). Hamlet was written by Shakespeare (хто — важливо). Не кажемо by someone / by people.",
+          "ru": "The window was broken (кем — не знаем / неважно). Hamlet was written by Shakespeare (кто — важно). Не говорим by someone / by people."
+        },
+        "examples": [
+          {
+            "en": "Kobzar was written by Taras Shevchenko.",
+            "ua": "«Кобзар» написав Тарас Шевченко.",
+            "ru": "«Кобзарь» написал Тарас Шевченко."
+          },
+          {
+            "en": "Penicillin was discovered by Alexander Fleming.",
+            "ua": "Пеніцилін відкрив Александр Флемінг.",
+            "ru": "Пенициллин открыл Александр Флеминг."
+          },
+          {
+            "en": "The museum was opened in 2005.",
+            "ua": "Музей відкрили у 2005-му.",
+            "ru": "Музей открыли в 2005-м."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive-by",
+          "question": "The Mona Lisa was painted ___ Leonardo da Vinci.",
+          "options": [
+            "by",
+            "from",
+            "with"
+          ],
+          "answer": "by",
+          "explain": {
+            "ua": "Ким — by.",
+            "ru": "Кем — by."
+          },
+          "id": "b1-u08-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-by",
+          "question": "The light bulb ___ by Edison.",
+          "options": [
+            "was invented",
+            "invented",
+            "is invent"
+          ],
+          "answer": "was invented",
+          "explain": {
+            "ua": "Was invented by.",
+            "ru": "Was invented by."
+          },
+          "id": "b1-u08-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-by",
+          "question": "Which sounds better? (we don't know who did it)",
+          "options": [
+            "My wallet was stolen.",
+            "Somebody was stolen my wallet.",
+            "My wallet was stolen by someone."
+          ],
+          "answer": "My wallet was stolen.",
+          "explain": {
+            "ua": "Виконавець невідомий — без by.",
+            "ru": "Исполнитель неизвестен — без by."
+          },
+          "id": "b1-u08-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "passive-by",
+          "question": "Shevchenko ___ Kobzar.",
+          "options": [
+            "wrote",
+            "was written",
+            "is written"
+          ],
+          "answer": "wrote",
+          "explain": {
+            "ua": "Активний: Шевченко написав.",
+            "ru": "Активный: Шевченко написал."
+          },
+          "id": "b1-u08-l04-e04"
+        },
+        {
+          "type": "match",
+          "topic": "passive-by",
+          "pairs": [
+            {
+              "left": "Guernica was painted",
+              "right": "by Picasso."
+            },
+            {
+              "left": "The radio was invented",
+              "right": "by Marconi."
+            },
+            {
+              "left": "Harry Potter was written",
+              "right": "by J. K. Rowling."
+            },
+            {
+              "left": "Romeo and Juliet was written",
+              "right": "by Shakespeare."
+            }
+          ],
+          "explain": {
+            "ua": "Хто автор?",
+            "ru": "Кто автор?"
+          },
+          "id": "b1-u08-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-by",
+          "sentence": "The book was written from Lesya Ukrainka.",
+          "answer": "The book was written by Lesya Ukrainka.",
+          "accept": [],
+          "explain": {
+            "ua": "Ким — by.",
+            "ru": "Кем — by."
+          },
+          "id": "b1-u08-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "passive-by",
+          "sentence": "The Eiffel Tower built in 1889.",
+          "answer": "The Eiffel Tower was built in 1889.",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив — was built.",
+            "ru": "Пассив — was built."
+          },
+          "id": "b1-u08-l04-e07"
+        },
+        {
+          "type": "build",
+          "topic": "passive-by",
+          "words": [
+            "my",
+            "by",
+            "This",
+            "written",
+            "brother",
+            "was",
+            "song"
+          ],
+          "answer": "This song was written by my brother",
+          "explain": {
+            "ua": "Was written → by my brother.",
+            "ru": "Was written → by my brother."
+          },
+          "id": "b1-u08-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive-by",
+          "prompt": {
+            "ua": "Цю картину намалювала моя сестра.",
+            "ru": "Эту картину нарисовала моя сестра."
+          },
+          "answer": "This picture was painted by my sister.",
+          "accept": [
+            "My sister painted this picture.",
+            "This painting was painted by my sister.",
+            "This picture was drawn by my sister."
+          ],
+          "explain": {
+            "ua": "Пасив + by.",
+            "ru": "Пассив + by."
+          },
+          "id": "b1-u08-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "b1-u08-l05",
+      "title": {
+        "en": "Practice: how it's made",
+        "ua": "Практика: як це зроблено",
+        "ru": "Практика: как это сделано"
+      },
+      "recap": {
+        "from": "b1-u08-l04",
+        "note": {
+          "ua": "Згадаймо: пасив — коли головне ЩО, а не ХТО · by + виконавець — лише якщо важливо",
+          "ru": "Вспомним: пассив — когда главное ЧТО, а не КТО · by + исполнитель — только если важно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-by",
+            "question": "The Mona Lisa was painted ___ Leonardo da Vinci.",
+            "options": [
+              "by",
+              "from",
+              "with"
+            ],
+            "answer": "by",
+            "explain": {
+              "ua": "Ким — by.",
+              "ru": "Кем — by."
+            },
+            "id": "b1-u08-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-by",
+            "question": "Shevchenko ___ Kobzar.",
+            "options": [
+              "wrote",
+              "was written",
+              "is written"
+            ],
+            "answer": "wrote",
+            "explain": {
+              "ua": "Активний: Шевченко написав.",
+              "ru": "Активный: Шевченко написал."
+            },
+            "id": "b1-u08-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "passive",
+          "question": "Chocolate ___ from cocoa beans.",
+          "options": [
+            "is made",
+            "makes",
+            "made"
+          ],
+          "answer": "is made",
+          "explain": {
+            "ua": "Present Passive.",
+            "ru": "Present Passive."
+          },
+          "id": "b1-u08-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "passive",
+          "question": "The first chocolate bar ___ in 1847.",
+          "options": [
+            "was made",
+            "is made",
+            "made"
+          ],
+          "answer": "was made",
+          "explain": {
+            "ua": "Past Passive.",
+            "ru": "Past Passive."
+          },
+          "id": "b1-u08-l05-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Cocoa is grown in Africa and South America.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The beans are eaten raw.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What happens to the beans first?",
+              "options": [
+                "they are dried",
+                "they are frozen",
+                "they are boiled"
+              ],
+              "answer": "they are dried"
+            }
+          ],
+          "text": "How is chocolate made? Cocoa trees are grown in Africa and South America. The beans are picked by hand. Then they are dried in the sun and sent to factories. There, the beans are roasted and mixed with sugar and milk. The first chocolate bar was made in England in 1847.",
+          "explain": {
+            "ua": "Grown → dried → roasted → mixed with sugar; first bar 1847.",
+            "ru": "Grown → dried → roasted → mixed with sugar; first bar 1847."
+          },
+          "id": "b1-u08-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "passive",
+          "bank": [
+            "are grown",
+            "are picked",
+            "are dried",
+            "was made"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Cocoa trees ___ in Africa.",
+            "The beans ___ by hand.",
+            "Then they ___ in the sun.",
+            "The first bar ___ in 1847."
+          ],
+          "answers": [
+            "are grown",
+            "are picked",
+            "are dried",
+            "was made"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "b1-u08-l05-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "passive",
+          "sentence": "The beans are roast.",
+          "answer": "The beans are roasted.",
+          "accept": [
+            "The beans get roasted."
+          ],
+          "explain": {
+            "ua": "V3.",
+            "ru": "V3."
+          },
+          "id": "b1-u08-l05-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "passive",
+          "sentence": "Chocolate was invent in Mexico.",
+          "answer": "Chocolate was invented in Mexico.",
+          "accept": [],
+          "explain": {
+            "ua": "V3 — invented.",
+            "ru": "V3 — invented."
+          },
+          "id": "b1-u08-l05-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "hand",
+            "by",
+            "are",
+            "beans",
+            "The",
+            "picked"
+          ],
+          "answer": "The beans are picked by hand",
+          "explain": {
+            "ua": "Are picked → by hand.",
+            "ru": "Are picked → by hand."
+          },
+          "id": "b1-u08-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "passive",
+          "audio_text": "It was made in Ukraine.",
+          "options": [
+            "It was made in Ukraine.",
+            "It made in Ukraine.",
+            "It is made in Ukraine."
+          ],
+          "answer": "It was made in Ukraine.",
+          "audio": "",
+          "explain": {
+            "ua": "Was made.",
+            "ru": "Was made."
+          },
+          "id": "b1-u08-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "passive",
+          "prompt": {
+            "ua": "Мій велосипед украли.",
+            "ru": "Мой велосипед украли."
+          },
+          "answer": "My bike was stolen.",
+          "accept": [
+            "My bike has been stolen.",
+            "My bicycle was stolen."
+          ],
+          "explain": {
+            "ua": "Пасив.",
+            "ru": "Пассив."
+          },
+          "id": "b1-u08-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "passive-present",
+      "question": "English ___ all over the world.",
+      "options": [
+        "is spoken",
+        "speaks",
+        "spoken"
+      ],
+      "answer": "is spoken",
+      "explain": {
+        "ua": "Пасив.",
+        "ru": "Пассив."
+      },
+      "id": "b1-u08-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-past",
+      "question": "The bridge ___ in 1950.",
+      "options": [
+        "was built",
+        "built",
+        "is built"
+      ],
+      "answer": "was built",
+      "explain": {
+        "ua": "Past Passive.",
+        "ru": "Past Passive."
+      },
+      "id": "b1-u08-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-present",
+      "question": "These shoes ___ in Italy.",
+      "options": [
+        "are made",
+        "is made",
+        "make"
+      ],
+      "answer": "are made",
+      "explain": {
+        "ua": "Are made.",
+        "ru": "Are made."
+      },
+      "id": "b1-u08-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-questions",
+      "question": "When ___ the phone invented?",
+      "options": [
+        "was",
+        "did",
+        "is"
+      ],
+      "answer": "was",
+      "explain": {
+        "ua": "Was … invented?",
+        "ru": "Was … invented?"
+      },
+      "id": "b1-u08-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "passive-by",
+      "question": "The book was written ___ Ivan Franko.",
+      "options": [
+        "by",
+        "from",
+        "of"
+      ],
+      "answer": "by",
+      "explain": {
+        "ua": "By.",
+        "ru": "By."
+      },
+      "id": "b1-u08-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-past",
+      "question": "Our flat ___ cleaned yesterday.",
+      "answer": "was",
+      "accept": [],
+      "explain": {
+        "ua": "Was.",
+        "ru": "Was."
+      },
+      "id": "b1-u08-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "passive-present",
+      "question": "Rice is ___ in China. (grow)",
+      "answer": "grown",
+      "accept": [],
+      "explain": {
+        "ua": "Grow → grown.",
+        "ru": "Grow → grown."
+      },
+      "id": "b1-u08-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "passive-past",
+      "sentence": "My wallet stole.",
+      "answer": "My wallet was stolen.",
+      "accept": [
+        "My wallet has been stolen."
+      ],
+      "explain": {
+        "ua": "Пасив.",
+        "ru": "Пассив."
+      },
+      "id": "b1-u08-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "passive-questions",
+      "sentence": "When did this house build?",
+      "answer": "When was this house built?",
+      "accept": [],
+      "explain": {
+        "ua": "Was … built.",
+        "ru": "Was … built."
+      },
+      "id": "b1-u08-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "passive-questions",
+      "words": [
+        "breakfast",
+        "included",
+        "the",
+        "in",
+        "Is",
+        "price"
+      ],
+      "answer": "Is breakfast included in the price",
+      "explain": {
+        "ua": "Is breakfast → included → in the price?",
+        "ru": "Is breakfast → included → in the price?"
+      },
+      "id": "b1-u08-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "passive-past",
+      "prompt": {
+        "ua": "Цей будинок збудували у 1900 році.",
+        "ru": "Этот дом построили в 1900 году."
+      },
+      "answer": "This house was built in 1900.",
+      "accept": [],
+      "explain": {
+        "ua": "Was built.",
+        "ru": "Was built."
+      },
+      "id": "b1-u08-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-past",
+      "audio_text": "The parcel was delivered this morning.",
+      "options": [
+        "The parcel was delivered this morning.",
+        "The parcel delivered this morning.",
+        "The party was delivered this morning."
+      ],
+      "answer": "The parcel was delivered this morning.",
+      "audio": "",
+      "explain": {
+        "ua": "Was delivered.",
+        "ru": "Was delivered."
+      },
+      "id": "b1-u08-cp12"
+    }
+  ]
+}

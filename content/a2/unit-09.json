@@ -1,0 +1,1520 @@
+{
+  "id": "a2-u09",
+  "level": "A2",
+  "order": 9,
+  "kind": "vocab",
+  "title": {
+    "en": "Shopping for food",
+    "ua": "Купуємо продукти",
+    "ru": "Покупаем продукты"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "supermarket",
+      "ipa": "/ˈsuːpəmɑːkɪt/",
+      "ua": "супермаркет",
+      "ru": "супермаркет",
+      "example": "I go to the supermarket on Saturdays.",
+      "audio": ""
+    },
+    {
+      "word": "bakery",
+      "ipa": "/ˈbeɪkəri/",
+      "ua": "пекарня",
+      "ru": "пекарня",
+      "example": "Fresh bread from the bakery.",
+      "audio": ""
+    },
+    {
+      "word": "butcher's",
+      "ipa": "/ˈbʊtʃəz/",
+      "ua": "м'ясна крамниця",
+      "ru": "мясная лавка",
+      "example": "Buy meat at the butcher's.",
+      "audio": ""
+    },
+    {
+      "word": "greengrocer's",
+      "ipa": "/ˈɡriːnɡrəʊsəz/",
+      "ua": "овочева крамниця",
+      "ru": "овощной магазин",
+      "example": "Fruit from the greengrocer's.",
+      "audio": ""
+    },
+    {
+      "word": "market",
+      "ipa": "/ˈmɑːkɪt/",
+      "ua": "ринок",
+      "ru": "рынок",
+      "example": "The market is open on Sundays.",
+      "audio": ""
+    },
+    {
+      "word": "aisle",
+      "ipa": "/aɪl/",
+      "ua": "прохід, ряд (у магазині)",
+      "ru": "проход, ряд (в магазине)",
+      "example": "Rice is in aisle 5.",
+      "audio": ""
+    },
+    {
+      "word": "trolley",
+      "ipa": "/ˈtrɒli/",
+      "ua": "візок",
+      "ru": "тележка",
+      "example": "Take a trolley.",
+      "audio": ""
+    },
+    {
+      "word": "basket",
+      "ipa": "/ˈbɑːskɪt/",
+      "ua": "кошик",
+      "ru": "корзина",
+      "example": "I only need a basket.",
+      "audio": ""
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃekaʊt/",
+      "ua": "каса",
+      "ru": "касса",
+      "example": "Pay at the checkout.",
+      "audio": ""
+    },
+    {
+      "word": "shopping list",
+      "ipa": "/ˈʃɒpɪŋ lɪst/",
+      "ua": "список покупок",
+      "ru": "список покупок",
+      "example": "Have you got the shopping list?",
+      "audio": ""
+    },
+    {
+      "word": "a bottle of",
+      "ipa": "/ə ˈbɒtl əv/",
+      "ua": "пляшка",
+      "ru": "бутылка",
+      "example": "a bottle of water",
+      "audio": ""
+    },
+    {
+      "word": "a packet of",
+      "ipa": "/ə ˈpækɪt əv/",
+      "ua": "пачка",
+      "ru": "пачка",
+      "example": "a packet of biscuits",
+      "audio": ""
+    },
+    {
+      "word": "a loaf of",
+      "ipa": "/ə ˈləʊf əv/",
+      "ua": "буханець",
+      "ru": "буханка",
+      "example": "a loaf of bread",
+      "audio": ""
+    },
+    {
+      "word": "a can of",
+      "ipa": "/ə ˈkæn əv/",
+      "ua": "бляшанка",
+      "ru": "банка (жестяная)",
+      "example": "a can of beans",
+      "audio": ""
+    },
+    {
+      "word": "a jar of",
+      "ipa": "/ə ˈdʒɑːr əv/",
+      "ua": "банка (скляна)",
+      "ru": "банка (стеклянная)",
+      "example": "a jar of honey",
+      "audio": ""
+    },
+    {
+      "word": "a kilo of",
+      "ipa": "/ə ˈkiːləʊ əv/",
+      "ua": "кілограм",
+      "ru": "килограмм",
+      "example": "half a kilo of carrots",
+      "audio": ""
+    },
+    {
+      "word": "dairy",
+      "ipa": "/ˈdeəri/",
+      "ua": "молочні продукти",
+      "ru": "молочные продукты",
+      "example": "the dairy section",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u09-l01",
+      "title": {
+        "en": "Shops",
+        "ua": "Магазини",
+        "ru": "Магазины"
+      },
+      "recap": {
+        "from": "a2-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Який смак?",
+          "ru": "Вспомним: Какой вкус?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "This soup has too much salt. It's too ___.",
+            "options": [
+              "salty",
+              "sweet",
+              "fresh"
+            ],
+            "answer": "salty",
+            "explain": {
+              "ua": "Salty — солоний.",
+              "ru": "Salty — солёный."
+            },
+            "id": "a2-u09-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Mmm, this cake is ___!",
+            "options": [
+              "delicious",
+              "raw",
+              "frozen"
+            ],
+            "answer": "delicious",
+            "explain": {
+              "ua": "Delicious — дуже смачний.",
+              "ru": "Delicious — очень вкусный."
+            },
+            "id": "a2-u09-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "bakery",
+              "right": {
+                "ua": "пекарня",
+                "ru": "пекарня"
+              }
+            },
+            {
+              "left": "butcher's",
+              "right": {
+                "ua": "м'ясна крамниця",
+                "ru": "мясная лавка"
+              }
+            },
+            {
+              "left": "greengrocer's",
+              "right": {
+                "ua": "овочева крамниця",
+                "ru": "овощной магазин"
+              }
+            },
+            {
+              "left": "market",
+              "right": {
+                "ua": "ринок",
+                "ru": "рынок"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u09-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Where can you buy buns and cakes?",
+          "options": [
+            "at the bakery",
+            "at the butcher's",
+            "at the pharmacy"
+          ],
+          "answer": "at the bakery",
+          "explain": {
+            "ua": "Bakery — пекарня.",
+            "ru": "Bakery — пекарня."
+          },
+          "id": "a2-u09-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Where can you buy chicken and beef?",
+          "options": [
+            "at the butcher's",
+            "at the bakery",
+            "at the greengrocer's"
+          ],
+          "answer": "at the butcher's",
+          "explain": {
+            "ua": "Butcher's — м'ясо.",
+            "ru": "Butcher's — мясо."
+          },
+          "id": "a2-u09-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Where can you buy onions and plums?",
+          "options": [
+            "at the greengrocer's",
+            "at the butcher's",
+            "at the bakery"
+          ],
+          "answer": "at the greengrocer's",
+          "explain": {
+            "ua": "Greengrocer's — овочі й фрукти.",
+            "ru": "Greengrocer's — овощи и фрукты."
+          },
+          "id": "a2-u09-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Milk, kefir and cheese are in the ___ section.",
+          "options": [
+            "dairy",
+            "frozen",
+            "meat"
+          ],
+          "answer": "dairy",
+          "explain": {
+            "ua": "Dairy — молочне.",
+            "ru": "Dairy — молочное."
+          },
+          "id": "a2-u09-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A big shop where you can buy everything for the house.",
+          "answer": "supermarket",
+          "accept": [
+            "a supermarket"
+          ],
+          "explain": {
+            "ua": "Supermarket.",
+            "ru": "Supermarket."
+          },
+          "id": "a2-u09-l01-e06"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "bread",
+          "answer": "bakery",
+          "accept": [
+            "baker's",
+            "the bakery"
+          ],
+          "explain": {
+            "ua": "Хліб → пекарня.",
+            "ru": "Хлеб → пекарня."
+          },
+          "id": "a2-u09-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/aɪl/",
+          "options": [
+            "aisle",
+            "isle",
+            "all"
+          ],
+          "answer": "aisle",
+          "explain": {
+            "ua": "s у aisle не читається — «айл».",
+            "ru": "s в aisle не читается — «айл»."
+          },
+          "id": "a2-u09-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Де тут пекарня?",
+            "ru": "Где здесь пекарня?"
+          },
+          "answer": "Where is the bakery?",
+          "accept": [
+            "Where's the bakery?",
+            "Is there a bakery near here?"
+          ],
+          "explain": {
+            "ua": "Where is…?",
+            "ru": "Where is…?"
+          },
+          "id": "a2-u09-l01-e09"
+        }
+      ],
+      "words": [
+        "supermarket",
+        "bakery",
+        "butcher's",
+        "greengrocer's",
+        "market",
+        "dairy"
+      ]
+    },
+    {
+      "id": "a2-u09-l02",
+      "title": {
+        "en": "In the supermarket",
+        "ua": "У супермаркеті",
+        "ru": "В супермаркете"
+      },
+      "recap": {
+        "from": "a2-u09-l01",
+        "note": {
+          "ua": "Згадаймо: Магазини",
+          "ru": "Вспомним: Магазины"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Where can you buy buns and cakes?",
+            "options": [
+              "at the bakery",
+              "at the butcher's",
+              "at the pharmacy"
+            ],
+            "answer": "at the bakery",
+            "explain": {
+              "ua": "Bakery — пекарня.",
+              "ru": "Bakery — пекарня."
+            },
+            "id": "a2-u09-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Milk, kefir and cheese are in the ___ section.",
+            "options": [
+              "dairy",
+              "frozen",
+              "meat"
+            ],
+            "answer": "dairy",
+            "explain": {
+              "ua": "Dairy — молочне.",
+              "ru": "Dairy — молочное."
+            },
+            "id": "a2-u09-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "trolley",
+              "right": {
+                "ua": "візок",
+                "ru": "тележка"
+              }
+            },
+            {
+              "left": "basket",
+              "right": {
+                "ua": "кошик",
+                "ru": "корзина"
+              }
+            },
+            {
+              "left": "checkout",
+              "right": {
+                "ua": "каса",
+                "ru": "касса"
+              }
+            },
+            {
+              "left": "aisle",
+              "right": {
+                "ua": "ряд",
+                "ru": "ряд"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u09-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "You pay at the ___.",
+          "options": [
+            "checkout",
+            "aisle",
+            "trolley"
+          ],
+          "answer": "checkout",
+          "explain": {
+            "ua": "Checkout — каса.",
+            "ru": "Checkout — касса."
+          },
+          "id": "a2-u09-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I need a lot of things. I'll take a ___.",
+          "options": [
+            "trolley",
+            "basket",
+            "list"
+          ],
+          "answer": "trolley",
+          "explain": {
+            "ua": "Багато речей — trolley.",
+            "ru": "Много вещей — trolley."
+          },
+          "id": "a2-u09-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Excuse me, where's the rice? — In ___ 4.",
+          "options": [
+            "aisle",
+            "checkout",
+            "basket"
+          ],
+          "answer": "aisle",
+          "explain": {
+            "ua": "Aisle — ряд.",
+            "ru": "Aisle — ряд."
+          },
+          "id": "a2-u09-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A paper with all the things you want to buy.",
+          "answer": "shopping list",
+          "accept": [
+            "a shopping list",
+            "list"
+          ],
+          "explain": {
+            "ua": "Shopping list.",
+            "ru": "Shopping list."
+          },
+          "id": "a2-u09-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "I'm just looking, ___ you.",
+          "answer": "thank",
+          "accept": [],
+          "explain": {
+            "ua": "I'm just looking, thank you — просто дивлюся.",
+            "ru": "I'm just looking, thank you — просто смотрю."
+          },
+          "id": "a2-u09-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Where is the cash desk? I want to pay.",
+          "answer": "Where is the checkout? I want to pay.",
+          "accept": [
+            "Where's the checkout? I want to pay."
+          ],
+          "explain": {
+            "ua": "У супермаркеті — checkout.",
+            "ru": "В супермаркете — checkout."
+          },
+          "id": "a2-u09-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Can I help you? — No, I'm just looking.",
+          "options": [
+            "Can I help you? — No, I'm just looking.",
+            "Can I help you? — No, I'm just cooking.",
+            "Can you help me? — No, I'm just looking."
+          ],
+          "answer": "Can I help you? — No, I'm just looking.",
+          "audio": "",
+          "explain": {
+            "ua": "Just looking.",
+            "ru": "Just looking."
+          },
+          "id": "a2-u09-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я шукаю візок.",
+            "ru": "Я ищу тележку."
+          },
+          "answer": "I'm looking for a trolley.",
+          "accept": [
+            "I am looking for a trolley."
+          ],
+          "explain": {
+            "ua": "Look for — шукати.",
+            "ru": "Look for — искать."
+          },
+          "id": "a2-u09-l02-e09"
+        }
+      ],
+      "words": [
+        "aisle",
+        "trolley",
+        "basket",
+        "checkout",
+        "shopping list"
+      ]
+    },
+    {
+      "id": "a2-u09-l03",
+      "title": {
+        "en": "Containers and amounts",
+        "ua": "Упаковки й кількість",
+        "ru": "Упаковки и количество"
+      },
+      "recap": {
+        "from": "a2-u09-l02",
+        "note": {
+          "ua": "Згадаймо: У супермаркеті",
+          "ru": "Вспомним: В супермаркете"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "You pay at the ___.",
+            "options": [
+              "checkout",
+              "aisle",
+              "trolley"
+            ],
+            "answer": "checkout",
+            "explain": {
+              "ua": "Checkout — каса.",
+              "ru": "Checkout — касса."
+            },
+            "id": "a2-u09-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A paper with all the things you want to buy.",
+            "answer": "shopping list",
+            "accept": [
+              "a shopping list",
+              "list"
+            ],
+            "explain": {
+              "ua": "Shopping list.",
+              "ru": "Shopping list."
+            },
+            "id": "a2-u09-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "a bottle of",
+              "right": "water"
+            },
+            {
+              "left": "a loaf of",
+              "right": "bread"
+            },
+            {
+              "left": "a jar of",
+              "right": "honey"
+            },
+            {
+              "left": "a packet of",
+              "right": "biscuits"
+            }
+          ],
+          "explain": {
+            "ua": "Упаковка + продукт.",
+            "ru": "Упаковка + продукт."
+          },
+          "id": "a2-u09-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "a ___ of bread",
+          "options": [
+            "loaf",
+            "bottle",
+            "can"
+          ],
+          "answer": "loaf",
+          "explain": {
+            "ua": "A loaf of bread.",
+            "ru": "A loaf of bread."
+          },
+          "id": "a2-u09-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "a ___ of milk",
+          "options": [
+            "bottle",
+            "loaf",
+            "packet"
+          ],
+          "answer": "bottle",
+          "explain": {
+            "ua": "A bottle of milk.",
+            "ru": "A bottle of milk."
+          },
+          "id": "a2-u09-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "a ___ of beans",
+          "options": [
+            "can",
+            "loaf",
+            "bottle"
+          ],
+          "answer": "can",
+          "explain": {
+            "ua": "A can of beans.",
+            "ru": "A can of beans."
+          },
+          "id": "a2-u09-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "half a ___ of carrots",
+          "options": [
+            "kilo",
+            "loaf",
+            "jar"
+          ],
+          "answer": "kilo",
+          "explain": {
+            "ua": "Half a kilo.",
+            "ru": "Half a kilo."
+          },
+          "id": "a2-u09-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "bottle",
+            "packet",
+            "jar",
+            "kilo"
+          ],
+          "reuse": false,
+          "sentences": [
+            "a ___ of juice",
+            "a ___ of tea",
+            "a ___ of jam",
+            "a ___ of apples"
+          ],
+          "answers": [
+            "bottle",
+            "packet",
+            "jar",
+            "kilo"
+          ],
+          "explain": {
+            "ua": "Упаковки.",
+            "ru": "Упаковки."
+          },
+          "id": "a2-u09-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Two breads, please.",
+          "answer": "Two loaves of bread, please.",
+          "accept": [
+            "Two loaves of bread please."
+          ],
+          "explain": {
+            "ua": "Bread — незлічуване: loaves of bread.",
+            "ru": "Bread — неисчисляемое: loaves of bread."
+          },
+          "id": "a2-u09-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "A kilo apples, please.",
+          "answer": "A kilo of apples, please.",
+          "accept": [
+            "A kilo of apples please."
+          ],
+          "explain": {
+            "ua": "A kilo OF.",
+            "ru": "A kilo OF."
+          },
+          "id": "a2-u09-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Пляшку води, будь ласка.",
+            "ru": "Бутылку воды, пожалуйста."
+          },
+          "answer": "A bottle of water, please.",
+          "accept": [
+            "A bottle of water please."
+          ],
+          "explain": {
+            "ua": "A bottle of.",
+            "ru": "A bottle of."
+          },
+          "id": "a2-u09-l03-e09"
+        }
+      ],
+      "words": [
+        "a bottle of",
+        "a packet of",
+        "a loaf of",
+        "a can of",
+        "a jar of",
+        "a kilo of"
+      ]
+    },
+    {
+      "id": "a2-u09-l04",
+      "title": {
+        "en": "In context: Amy at the supermarket",
+        "ua": "У контексті: Емі в супермаркеті",
+        "ru": "В контексте: Эми в супермаркете"
+      },
+      "recap": {
+        "from": "a2-u09-l03",
+        "note": {
+          "ua": "Згадаймо: Упаковки й кількість",
+          "ru": "Вспомним: Упаковки и количество"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "a ___ of bread",
+            "options": [
+              "loaf",
+              "bottle",
+              "can"
+            ],
+            "answer": "loaf",
+            "explain": {
+              "ua": "A loaf of bread.",
+              "ru": "A loaf of bread."
+            },
+            "id": "a2-u09-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "half a ___ of carrots",
+            "options": [
+              "kilo",
+              "loaf",
+              "jar"
+            ],
+            "answer": "kilo",
+            "explain": {
+              "ua": "Half a kilo.",
+              "ru": "Half a kilo."
+            },
+            "id": "a2-u09-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What oil does Mum want?",
+              "options": [
+                "olive oil",
+                "sunflower oil",
+                "no oil"
+              ],
+              "answer": "olive oil"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Mum wants orange juice and fizzy drinks.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Amy knows how to choose a watermelon.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "How many carrots?",
+              "options": [
+                "half a kilo",
+                "two kilos",
+                "one"
+              ],
+              "answer": "half a kilo"
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Amy",
+              "line": "Hi, Mum! Dad and I are at the supermarket. We've got your list, but what oil should we buy?"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Get olive oil. It's in the aisle with the rice."
+            },
+            {
+              "speaker": "Amy",
+              "line": "OK. Orange juice or fizzy drinks?"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Get both. And a loaf of bread from the bakery, please."
+            },
+            {
+              "speaker": "Amy",
+              "line": "Sure. Anything else?"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Half a kilo of carrots — they're near the apples. And a watermelon."
+            },
+            {
+              "speaker": "Amy",
+              "line": "I don't know how to choose a good one!"
+            },
+            {
+              "speaker": "Mum",
+              "line": "Ask Dad. He's the watermelon expert!"
+            }
+          ],
+          "explain": {
+            "ua": "Olive oil, both drinks, half a kilo of carrots, Dad chooses the watermelon.",
+            "ru": "Olive oil, both drinks, half a kilo of carrots, Dad chooses the watermelon."
+          },
+          "id": "a2-u09-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "olive oil",
+            "a loaf of",
+            "half a kilo",
+            "Dad"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Mum wants ___.",
+            "She wants ___ bread.",
+            "She needs ___ of carrots.",
+            "___ chooses the watermelon."
+          ],
+          "answers": [
+            "olive oil",
+            "a loaf of",
+            "half a kilo",
+            "Dad"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a2-u09-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Where is the olive oil?",
+          "options": [
+            "in the aisle with the rice",
+            "at the checkout",
+            "at the bakery"
+          ],
+          "answer": "in the aisle with the rice",
+          "explain": {
+            "ua": "Біля рису.",
+            "ru": "Рядом с рисом."
+          },
+          "id": "a2-u09-l04-e03"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "Anything else?",
+              "right": {
+                "ua": "Щось іще?",
+                "ru": "Что-нибудь ещё?"
+              }
+            },
+            {
+              "left": "Get both.",
+              "right": {
+                "ua": "Бери обидва.",
+                "ru": "Бери оба."
+              }
+            },
+            {
+              "left": "near the apples",
+              "right": {
+                "ua": "біля яблук",
+                "ru": "рядом с яблоками"
+              }
+            },
+            {
+              "left": "expert",
+              "right": {
+                "ua": "знавець",
+                "ru": "знаток"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "a2-u09-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Drinks with gas, like cola.",
+          "answer": "fizzy drinks",
+          "accept": [
+            "fizzy drink",
+            "soda"
+          ],
+          "explain": {
+            "ua": "Fizzy drinks — газовані напої.",
+            "ru": "Fizzy drinks — газированные напитки."
+          },
+          "id": "a2-u09-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Buy a bread at the bakery.",
+          "answer": "Buy a loaf of bread at the bakery.",
+          "accept": [
+            "Buy some bread at the bakery.",
+            "Buy bread at the bakery."
+          ],
+          "explain": {
+            "ua": "Bread — без a: a loaf of bread або some bread.",
+            "ru": "Bread — без a: a loaf of bread или some bread."
+          },
+          "id": "a2-u09-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Anything else?",
+          "options": [
+            "Anything else?",
+            "Something else.",
+            "Anything nice?"
+          ],
+          "answer": "Anything else?",
+          "audio": "",
+          "explain": {
+            "ua": "Anything else — щось іще?",
+            "ru": "Anything else — что-нибудь ещё?"
+          },
+          "id": "a2-u09-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Візьми пів кіло моркви.",
+            "ru": "Возьми полкило моркови."
+          },
+          "answer": "Get half a kilo of carrots.",
+          "accept": [
+            "Take half a kilo of carrots.",
+            "Buy half a kilo of carrots."
+          ],
+          "explain": {
+            "ua": "Half a kilo of.",
+            "ru": "Half a kilo of."
+          },
+          "id": "a2-u09-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a2-u09-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u09-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: Емі в супермаркеті",
+          "ru": "Вспомним: В контексте: Эми в супермаркете"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Where is the olive oil?",
+            "options": [
+              "in the aisle with the rice",
+              "at the checkout",
+              "at the bakery"
+            ],
+            "answer": "in the aisle with the rice",
+            "explain": {
+              "ua": "Біля рису.",
+              "ru": "Рядом с рисом."
+            },
+            "id": "a2-u09-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "Buy a bread at the bakery.",
+            "answer": "Buy a loaf of bread at the bakery.",
+            "accept": [
+              "Buy some bread at the bakery.",
+              "Buy bread at the bakery."
+            ],
+            "explain": {
+              "ua": "Bread — без a: a loaf of bread або some bread.",
+              "ru": "Bread — без a: a loaf of bread или some bread."
+            },
+            "id": "a2-u09-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "checkout",
+              "right": {
+                "ua": "каса",
+                "ru": "касса"
+              }
+            },
+            {
+              "left": "jar",
+              "right": {
+                "ua": "скляна банка",
+                "ru": "стеклянная банка"
+              }
+            },
+            {
+              "left": "butcher's",
+              "right": {
+                "ua": "м'ясна крамниця",
+                "ru": "мясная лавка"
+              }
+            },
+            {
+              "left": "basket",
+              "right": {
+                "ua": "кошик",
+                "ru": "корзина"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a2-u09-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Where can you buy flour, sugar and coffee?",
+          "options": [
+            "at the supermarket",
+            "at the butcher's",
+            "at the bakery"
+          ],
+          "answer": "at the supermarket",
+          "explain": {
+            "ua": "Бакалія — у супермаркеті.",
+            "ru": "Бакалея — в супермаркете."
+          },
+          "id": "a2-u09-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cottage cheese, kefir, sour cream — they're ___.",
+          "options": [
+            "dairy products",
+            "frozen food",
+            "drinks"
+          ],
+          "answer": "dairy products",
+          "explain": {
+            "ua": "Молочні продукти.",
+            "ru": "Молочные продукты."
+          },
+          "id": "a2-u09-l05-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "loaf",
+            "can",
+            "bottle",
+            "packet"
+          ],
+          "reuse": true,
+          "sentences": [
+            "a ___ of cola",
+            "a ___ of crisps",
+            "a ___ of tuna",
+            "a ___ of bread"
+          ],
+          "answers": [
+            "can",
+            "packet",
+            "can",
+            "loaf"
+          ],
+          "explain": {
+            "ua": "Упаковки.",
+            "ru": "Упаковки."
+          },
+          "id": "a2-u09-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A small bag you carry in a shop for a few things.",
+          "answer": "basket",
+          "accept": [
+            "a basket"
+          ],
+          "explain": {
+            "ua": "Basket.",
+            "ru": "Basket."
+          },
+          "id": "a2-u09-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "meat",
+          "answer": "butcher's",
+          "accept": [
+            "butcher",
+            "the butcher's"
+          ],
+          "explain": {
+            "ua": "М'ясо → м'ясна крамниця.",
+            "ru": "Мясо → мясная лавка."
+          },
+          "id": "a2-u09-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Pay at the aisle.",
+          "answer": "Pay at the checkout.",
+          "accept": [],
+          "explain": {
+            "ua": "Платимо на касі.",
+            "ru": "Платим на кассе."
+          },
+          "id": "a2-u09-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "A jar of honey, please.",
+          "options": [
+            "A jar of honey, please.",
+            "A jar of money, please.",
+            "A can of honey, please."
+          ],
+          "answer": "A jar of honey, please.",
+          "audio": "",
+          "explain": {
+            "ua": "Jar — «джа:».",
+            "ru": "Jar — «джа:»."
+          },
+          "id": "a2-u09-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Де молочний відділ?",
+            "ru": "Где молочный отдел?"
+          },
+          "answer": "Where is the dairy section?",
+          "accept": [
+            "Where's the dairy section?",
+            "Where is the dairy aisle?"
+          ],
+          "explain": {
+            "ua": "Dairy section.",
+            "ru": "Dairy section."
+          },
+          "id": "a2-u09-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Buy bread at the ___.",
+      "options": [
+        "bakery",
+        "butcher's",
+        "pharmacy"
+      ],
+      "answer": "bakery",
+      "explain": {
+        "ua": "Bakery.",
+        "ru": "Bakery."
+      },
+      "id": "a2-u09-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Pay at the ___.",
+      "options": [
+        "checkout",
+        "aisle",
+        "trolley"
+      ],
+      "answer": "checkout",
+      "explain": {
+        "ua": "Checkout.",
+        "ru": "Checkout."
+      },
+      "id": "a2-u09-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "a ___ of honey",
+      "options": [
+        "jar",
+        "loaf",
+        "packet"
+      ],
+      "answer": "jar",
+      "explain": {
+        "ua": "A jar of.",
+        "ru": "A jar of."
+      },
+      "id": "a2-u09-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A big basket on wheels in a supermarket.",
+      "answer": "trolley",
+      "accept": [
+        "a trolley",
+        "shopping cart",
+        "cart"
+      ],
+      "explain": {
+        "ua": "Trolley.",
+        "ru": "Trolley."
+      },
+      "id": "a2-u09-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A shop where you buy meat.",
+      "answer": "butcher's",
+      "accept": [
+        "the butcher's",
+        "butcher",
+        "a butcher's"
+      ],
+      "explain": {
+        "ua": "Butcher's.",
+        "ru": "Butcher's."
+      },
+      "id": "a2-u09-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "a ___ of bread",
+      "answer": "loaf",
+      "accept": [],
+      "explain": {
+        "ua": "A loaf of bread.",
+        "ru": "A loaf of bread."
+      },
+      "id": "a2-u09-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "a can of",
+          "right": "beans"
+        },
+        {
+          "left": "a bottle of",
+          "right": "oil"
+        },
+        {
+          "left": "a packet of",
+          "right": "rice"
+        },
+        {
+          "left": "a kilo of",
+          "right": "potatoes"
+        }
+      ],
+      "explain": {
+        "ua": "Упаковки.",
+        "ru": "Упаковки."
+      },
+      "id": "a2-u09-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Two breads, please.",
+      "answer": "Two loaves of bread, please.",
+      "accept": [
+        "Two loaves of bread please."
+      ],
+      "explain": {
+        "ua": "Loaves of bread.",
+        "ru": "Loaves of bread."
+      },
+      "id": "a2-u09-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "A kilo tomatoes.",
+      "answer": "A kilo of tomatoes.",
+      "accept": [],
+      "explain": {
+        "ua": "A kilo OF.",
+        "ru": "A kilo OF."
+      },
+      "id": "a2-u09-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "you",
+        "just",
+        "I'm",
+        "looking",
+        "thank"
+      ],
+      "answer": "I'm just looking thank you",
+      "explain": {
+        "ua": "I'm just looking → thank you.",
+        "ru": "I'm just looking → thank you."
+      },
+      "id": "a2-u09-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Щось іще?",
+        "ru": "Что-нибудь ещё?"
+      },
+      "answer": "Anything else?",
+      "accept": [],
+      "explain": {
+        "ua": "Anything else?",
+        "ru": "Anything else?"
+      },
+      "id": "a2-u09-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The rice is in aisle five.",
+      "options": [
+        "The rice is in aisle five.",
+        "The rice is in I'll five.",
+        "The ice is in aisle five."
+      ],
+      "answer": "The rice is in aisle five.",
+      "audio": "",
+      "explain": {
+        "ua": "Aisle — «айл».",
+        "ru": "Aisle — «айл»."
+      },
+      "id": "a2-u09-cp12"
+    }
+  ]
+}

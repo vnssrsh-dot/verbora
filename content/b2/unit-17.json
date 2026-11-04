@@ -1,0 +1,1001 @@
+{
+  "id": "b2-u17",
+  "level": "B2",
+  "order": 17,
+  "kind": "grammar",
+  "title": {
+    "en": "Causatives and participle clauses",
+    "ua": "Каузативи й дієприслівникові звороти",
+    "ru": "Каузативы и причастные обороты"
+  },
+  "rule": {
+    "formula": {
+      "ua": "make / let + sb + дієслово · get + sb + to do · Having done…, … · -ing / V3 на початку речення",
+      "ru": "make / let + sb + глагол · get + sb + to do · Having done…, … · -ing / V3 в начале предложения"
+    },
+    "explain": {
+      "ua": "Make — змусити: She made me cry. Let — дозволити: Let me help. Get sb to do — умовити: I got him to fix it. Звороти скорочують речення: Having finished work, I went home.",
+      "ru": "Make — заставить: She made me cry. Let — позволить: Let me help. Get sb to do — уговорить: I got him to fix it. Обороты сокращают предложение: Having finished work, I went home."
+    },
+    "examples": [
+      {
+        "en": "My parents made me study.",
+        "ua": "Батьки змушували мене вчитися.",
+        "ru": "Родители заставляли меня учиться."
+      },
+      {
+        "en": "My boss let me leave early.",
+        "ua": "Начальник дозволив мені піти раніше.",
+        "ru": "Начальник разрешил мне уйти раньше."
+      },
+      {
+        "en": "Feeling tired, she went to bed.",
+        "ua": "Відчуваючи втому, вона лягла спати.",
+        "ru": "Чувствуя усталость, она легла спать."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "make someone do",
+      "ipa": "/meɪk/",
+      "ua": "змусити когось",
+      "ru": "заставить кого-то",
+      "example": "He made me laugh.",
+      "audio": ""
+    },
+    {
+      "word": "let someone do",
+      "ipa": "/let/",
+      "ua": "дозволити комусь",
+      "ru": "позволить кому-то",
+      "example": "Let me go.",
+      "audio": ""
+    },
+    {
+      "word": "get someone to do",
+      "ipa": "/ɡet/",
+      "ua": "умовити когось",
+      "ru": "уговорить кого-то",
+      "example": "I got her to help.",
+      "audio": ""
+    },
+    {
+      "word": "be allowed to",
+      "ipa": "/biː əˈlaʊd tə/",
+      "ua": "мати дозвіл",
+      "ru": "иметь разрешение",
+      "example": "We're not allowed to smoke.",
+      "audio": ""
+    },
+    {
+      "word": "persuade",
+      "ipa": "/pəˈsweɪd/",
+      "ua": "переконати",
+      "ru": "убедить",
+      "example": "She persuaded me to go.",
+      "audio": ""
+    },
+    {
+      "word": "force",
+      "ipa": "/fɔːs/",
+      "ua": "змусити (силою)",
+      "ru": "заставить (силой)",
+      "example": "They were forced to leave.",
+      "audio": ""
+    },
+    {
+      "word": "having done",
+      "ipa": "/ˈhævɪŋ dʌn/",
+      "ua": "зробивши",
+      "ru": "сделав",
+      "example": "Having eaten, we left.",
+      "audio": ""
+    },
+    {
+      "word": "realising",
+      "ipa": "/ˈrɪəlaɪzɪŋ/",
+      "ua": "усвідомивши",
+      "ru": "осознав",
+      "example": "Realising the time, I ran.",
+      "audio": ""
+    },
+    {
+      "word": "worried",
+      "ipa": "/ˈwʌrid/",
+      "ua": "стривожений",
+      "ru": "обеспокоенный",
+      "example": "Worried about the test, he couldn't sleep.",
+      "audio": ""
+    },
+    {
+      "word": "built in",
+      "ipa": "/ˌbɪlt ˈɪn/",
+      "ua": "збудований у",
+      "ru": "построенный в",
+      "example": "Built in 1900, the house is very old.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u17-l01",
+      "title": {
+        "en": "make, let, get",
+        "ua": "make, let, get",
+        "ru": "make, let, get"
+      },
+      "recap": {
+        "from": "b2-u16-l02",
+        "note": {
+          "ua": "Згадаймо: get on with · fall out with · make up · let down · look up to · count on · bring up",
+          "ru": "Вспомним: get on with · fall out with · make up · let down · look up to · count on · bring up"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "phrasal-relationships",
+            "question": "I ___ well with my sister-in-law.",
+            "options": [
+              "get on",
+              "get over",
+              "get off"
+            ],
+            "answer": "get on",
+            "explain": {
+              "ua": "Get on with.",
+              "ru": "Get on with."
+            },
+            "id": "b2-u17-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "phrasal-relationships",
+            "question": "You promised to come! You really ___ me ___ .",
+            "options": [
+              "let / down",
+              "put / off",
+              "turned / down"
+            ],
+            "answer": "let / down",
+            "explain": {
+              "ua": "Let down.",
+              "ru": "Let down."
+            },
+            "id": "b2-u17-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "make + sb + дієслово (без to) · let + sb + дієслово (без to) · get + sb + to + дієслово",
+          "ru": "make + sb + глагол (без to) · let + sb + глагол (без to) · get + sb + to + глагол"
+        },
+        "explain": {
+          "ua": "Make і let — без to! She made me wait. They let us in. Get — з to: I got my brother to drive me. У пасиві: I was made to wait (тут to з'являється). Let у пасиві не вживають — be allowed to.",
+          "ru": "Make и let — без to! She made me wait. They let us in. Get — с to: I got my brother to drive me. В пассиве: I was made to wait (здесь to появляется). Let в пассиве не употребляют — be allowed to."
+        },
+        "examples": [
+          {
+            "en": "The film made me cry.",
+            "ua": "Фільм довів мене до сліз.",
+            "ru": "Фильм довёл меня до слёз."
+          },
+          {
+            "en": "Let me think.",
+            "ua": "Дай подумати.",
+            "ru": "Дай подумать."
+          },
+          {
+            "en": "I finally got him to call the doctor.",
+            "ua": "Я нарешті вмовила його подзвонити лікарю.",
+            "ru": "Я наконец уговорила его позвонить врачу."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "causative-make-let",
+          "question": "My mum made me ___ my room.",
+          "options": [
+            "clean",
+            "to clean",
+            "cleaning"
+          ],
+          "answer": "clean",
+          "explain": {
+            "ua": "Make + без to.",
+            "ru": "Make + без to."
+          },
+          "id": "b2-u17-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-make-let",
+          "question": "They didn't let us ___ photos.",
+          "options": [
+            "take",
+            "to take",
+            "taking"
+          ],
+          "answer": "take",
+          "explain": {
+            "ua": "Let + без to.",
+            "ru": "Let + без to."
+          },
+          "id": "b2-u17-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-make-let",
+          "question": "I got my husband ___ the dishes.",
+          "options": [
+            "to wash",
+            "wash",
+            "washing"
+          ],
+          "answer": "to wash",
+          "explain": {
+            "ua": "Get + to.",
+            "ru": "Get + to."
+          },
+          "id": "b2-u17-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-make-let",
+          "question": "We were made ___ for two hours.",
+          "options": [
+            "to wait",
+            "wait",
+            "waiting"
+          ],
+          "answer": "to wait",
+          "explain": {
+            "ua": "Пасив make → to.",
+            "ru": "Пассив make → to."
+          },
+          "id": "b2-u17-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "causative-make-let",
+          "question": "Children ___ to use phones in class.",
+          "options": [
+            "aren't allowed",
+            "aren't let",
+            "don't let"
+          ],
+          "answer": "aren't allowed",
+          "explain": {
+            "ua": "Пасив let → be allowed to.",
+            "ru": "Пассив let → be allowed to."
+          },
+          "id": "b2-u17-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "causative-make-let",
+          "pairs": [
+            {
+              "left": "make",
+              "right": {
+                "ua": "змусити",
+                "ru": "заставить"
+              }
+            },
+            {
+              "left": "let",
+              "right": {
+                "ua": "дозволити",
+                "ru": "позволить"
+              }
+            },
+            {
+              "left": "get … to",
+              "right": {
+                "ua": "умовити",
+                "ru": "уговорить"
+              }
+            },
+            {
+              "left": "be allowed to",
+              "right": {
+                "ua": "мати дозвіл",
+                "ru": "иметь разрешение"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "b2-u17-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "causative-make-let",
+          "sentence": "She made me to wait.",
+          "answer": "She made me wait.",
+          "accept": [],
+          "explain": {
+            "ua": "Make — без to.",
+            "ru": "Make — без to."
+          },
+          "id": "b2-u17-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "causative-make-let",
+          "sentence": "My parents let me to go.",
+          "answer": "My parents let me go.",
+          "accept": [
+            "My parents allowed me to go."
+          ],
+          "explain": {
+            "ua": "Let — без to.",
+            "ru": "Let — без to."
+          },
+          "id": "b2-u17-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "causative-make-let",
+          "prompt": {
+            "ua": "Дай мені допомогти.",
+            "ru": "Дай мне помочь."
+          },
+          "answer": "Let me help.",
+          "accept": [
+            "Let me help you."
+          ],
+          "explain": {
+            "ua": "Let + без to.",
+            "ru": "Let + без to."
+          },
+          "id": "b2-u17-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u17-l02",
+      "title": {
+        "en": "Participle clauses",
+        "ua": "Дієприслівникові звороти",
+        "ru": "Причастные обороты"
+      },
+      "recap": {
+        "from": "b2-u17-l01",
+        "note": {
+          "ua": "Згадаймо: make + sb + дієслово (без to) · let + sb + дієслово (без to) · get + sb + to + дієслово",
+          "ru": "Вспомним: make + sb + глагол (без to) · let + sb + глагол (без to) · get + sb + to + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "causative-make-let",
+            "question": "My mum made me ___ my room.",
+            "options": [
+              "clean",
+              "to clean",
+              "cleaning"
+            ],
+            "answer": "clean",
+            "explain": {
+              "ua": "Make + без to.",
+              "ru": "Make + без to."
+            },
+            "id": "b2-u17-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "causative-make-let",
+            "question": "Children ___ to use phones in class.",
+            "options": [
+              "aren't allowed",
+              "aren't let",
+              "don't let"
+            ],
+            "answer": "aren't allowed",
+            "explain": {
+              "ua": "Пасив let → be allowed to.",
+              "ru": "Пассив let → be allowed to."
+            },
+            "id": "b2-u17-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "-ing (одночасно / причина) · Having + V3 (спочатку одне, потім інше) · V3 (пасивне значення)",
+          "ru": "-ing (одновременно / причина) · Having + V3 (сначала одно, потом другое) · V3 (пассивное значение)"
+        },
+        "explain": {
+          "ua": "Скорочуємо речення з тим самим підметом: As I felt tired, I went to bed → Feeling tired, I went to bed. After I had finished, I left → Having finished, I left. The house, which was built in 1900… → Built in 1900, the house…",
+          "ru": "Сокращаем предложения с тем же подлежащим: As I felt tired, I went to bed → Feeling tired, I went to bed. After I had finished, I left → Having finished, I left. The house, which was built in 1900… → Built in 1900, the house…"
+        },
+        "examples": [
+          {
+            "en": "Walking home, I met an old friend.",
+            "ua": "Ідучи додому, я зустрів старого друга.",
+            "ru": "Идя домой, я встретил старого друга."
+          },
+          {
+            "en": "Having lost my keys, I couldn't get in.",
+            "ua": "Загубивши ключі, я не міг зайти.",
+            "ru": "Потеряв ключи, я не мог войти."
+          },
+          {
+            "en": "Made in Italy, these shoes are expensive.",
+            "ua": "Ці туфлі зроблені в Італії й дорогі.",
+            "ru": "Сделанные в Италии, эти туфли дорогие."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "participle-clauses",
+          "question": "___ the door, she saw a big dog.",
+          "options": [
+            "Opening",
+            "Opened",
+            "Having open"
+          ],
+          "answer": "Opening",
+          "explain": {
+            "ua": "Одночасно → -ing.",
+            "ru": "Одновременно → -ing."
+          },
+          "id": "b2-u17-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "participle-clauses",
+          "question": "___ dinner, we went for a walk.",
+          "options": [
+            "Having eaten",
+            "Eating",
+            "Eaten"
+          ],
+          "answer": "Having eaten",
+          "explain": {
+            "ua": "Спочатку → Having V3.",
+            "ru": "Сначала → Having V3."
+          },
+          "id": "b2-u17-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "participle-clauses",
+          "question": "___ in 1850, the bridge is the oldest in the city.",
+          "options": [
+            "Built",
+            "Building",
+            "Having built"
+          ],
+          "answer": "Built",
+          "explain": {
+            "ua": "Пасивне → V3.",
+            "ru": "Пассивное → V3."
+          },
+          "id": "b2-u17-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "participle-clauses",
+          "question": "Not ___ what to do, I called my mum.",
+          "options": [
+            "knowing",
+            "known",
+            "know"
+          ],
+          "answer": "knowing",
+          "explain": {
+            "ua": "Причина → -ing.",
+            "ru": "Причина → -ing."
+          },
+          "id": "b2-u17-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "participle-clauses",
+          "question": "___ the news, she started crying.",
+          "options": [
+            "Having heard",
+            "Heard",
+            "Hear"
+          ],
+          "answer": "Having heard",
+          "explain": {
+            "ua": "Спочатку почула.",
+            "ru": "Сначала услышала."
+          },
+          "id": "b2-u17-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "participle-clauses",
+          "pairs": [
+            {
+              "left": "As I was tired,",
+              "right": "Being tired,"
+            },
+            {
+              "left": "After she had finished,",
+              "right": "Having finished,"
+            },
+            {
+              "left": "Because I didn't know,",
+              "right": "Not knowing,"
+            },
+            {
+              "left": "The car, which was made in Japan,",
+              "right": "Made in Japan, the car…"
+            }
+          ],
+          "explain": {
+            "ua": "Повне → скорочене.",
+            "ru": "Полное → сокращённое."
+          },
+          "id": "b2-u17-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "participle-clauses",
+          "sentence": "Having finish my work, I went home.",
+          "answer": "Having finished my work, I went home.",
+          "accept": [],
+          "explain": {
+            "ua": "Having + V3.",
+            "ru": "Having + V3."
+          },
+          "id": "b2-u17-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "participle-clauses",
+          "sentence": "Not know the answer, I said nothing.",
+          "answer": "Not knowing the answer, I said nothing.",
+          "accept": [],
+          "explain": {
+            "ua": "Not + -ing.",
+            "ru": "Not + -ing."
+          },
+          "id": "b2-u17-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "participle-clauses",
+          "prompt": {
+            "ua": "Загубивши паспорт, він не зміг полетіти.",
+            "ru": "Потеряв паспорт, он не смог улететь."
+          },
+          "answer": "Having lost his passport, he couldn't fly.",
+          "accept": [
+            "Having lost his passport, he could not fly.",
+            "Having lost his passport, he wasn't able to fly."
+          ],
+          "explain": {
+            "ua": "Having + V3.",
+            "ru": "Having + V3."
+          },
+          "id": "b2-u17-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u17-l03",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b2-u17-l02",
+        "note": {
+          "ua": "Згадаймо: -ing (одночасно / причина) · Having + V3 (спочатку одне, потім інше) · V3 (пасивне значення)",
+          "ru": "Вспомним: -ing (одновременно / причина) · Having + V3 (сначала одно, потом другое) · V3 (пассивное значение)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "participle-clauses",
+            "question": "___ the door, she saw a big dog.",
+            "options": [
+              "Opening",
+              "Opened",
+              "Having open"
+            ],
+            "answer": "Opening",
+            "explain": {
+              "ua": "Одночасно → -ing.",
+              "ru": "Одновременно → -ing."
+            },
+            "id": "b2-u17-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "participle-clauses",
+            "question": "___ the news, she started crying.",
+            "options": [
+              "Having heard",
+              "Heard",
+              "Hear"
+            ],
+            "answer": "Having heard",
+            "explain": {
+              "ua": "Спочатку почула.",
+              "ru": "Сначала услышала."
+            },
+            "id": "b2-u17-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "wordbank",
+          "topic": "causatives",
+          "bank": [
+            "made",
+            "let",
+            "got",
+            "allowed"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The teacher ___ us rewrite the essay.",
+            "My dad ___ me use his car.",
+            "I ___ my friend to help me move.",
+            "We weren't ___ to leave early."
+          ],
+          "answers": [
+            "made",
+            "let",
+            "got",
+            "allowed"
+          ],
+          "explain": {
+            "ua": "Make / let / get / be allowed.",
+            "ru": "Make / let / get / be allowed."
+          },
+          "id": "b2-u17-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "causatives",
+          "question": "___ the bus, I ran to the station.",
+          "options": [
+            "Having missed",
+            "Missed",
+            "Miss"
+          ],
+          "answer": "Having missed",
+          "explain": {
+            "ua": "Спочатку пропустив.",
+            "ru": "Сначала пропустил."
+          },
+          "id": "b2-u17-l03-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ira's parents made her learn the piano.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "She was allowed to stop after one year.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did she do having finished school?",
+              "options": [
+                "she became a music teacher",
+                "she stopped playing",
+                "she moved abroad"
+              ],
+              "answer": "she became a music teacher"
+            }
+          ],
+          "text": "When I was a child, my parents made me practise the piano every day. I hated it, but they didn't let me stop. Having finished school, I realised I loved music, and I became a music teacher. Now, remembering my childhood, I never force my students — I let them choose the music they want to play.",
+          "explain": {
+            "ua": "Parents made her learn; not allowed to stop; having finished school — music teacher; now lets kids choose.",
+            "ru": "Parents made her learn; not allowed to stop; having finished school — music teacher; now lets kids choose."
+          },
+          "id": "b2-u17-l03-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "causatives",
+          "sentence": "My boss doesn't let me to work from home.",
+          "answer": "My boss doesn't let me work from home.",
+          "accept": [
+            "My boss doesn't allow me to work from home."
+          ],
+          "explain": {
+            "ua": "Let — без to.",
+            "ru": "Let — без to."
+          },
+          "id": "b2-u17-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "causatives",
+          "sentence": "We were made wait outside.",
+          "answer": "We were made to wait outside.",
+          "accept": [],
+          "explain": {
+            "ua": "Пасив make → to.",
+            "ru": "Пассив make → to."
+          },
+          "id": "b2-u17-l03-e05"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "school",
+            "Having",
+            "finished",
+            "she",
+            "became",
+            "a",
+            "teacher"
+          ],
+          "answer": "Having finished school she became a teacher",
+          "explain": {
+            "ua": "Having finished school → she became a teacher.",
+            "ru": "Having finished school → she became a teacher."
+          },
+          "id": "b2-u17-l03-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "causatives",
+          "audio_text": "Not knowing the way, we used a map.",
+          "options": [
+            "Not knowing the way, we used a map.",
+            "Not know the way, we used a map.",
+            "Not knowing the way, we used a mop."
+          ],
+          "answer": "Not knowing the way, we used a map.",
+          "audio": "",
+          "explain": {
+            "ua": "Not knowing.",
+            "ru": "Not knowing."
+          },
+          "id": "b2-u17-l03-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "causatives",
+          "prompt": {
+            "ua": "Він змусив мене сміятися.",
+            "ru": "Он заставил меня смеяться."
+          },
+          "answer": "He made me laugh.",
+          "accept": [],
+          "explain": {
+            "ua": "Make + без to.",
+            "ru": "Make + без to."
+          },
+          "id": "b2-u17-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "causatives",
+          "prompt": {
+            "ua": "Я вмовила чоловіка піти до лікаря.",
+            "ru": "Я уговорила мужа пойти к врачу."
+          },
+          "answer": "I got my husband to go to the doctor.",
+          "accept": [
+            "I got my husband to see a doctor.",
+            "I persuaded my husband to go to the doctor.",
+            "I persuaded my husband to see a doctor."
+          ],
+          "explain": {
+            "ua": "Get + to.",
+            "ru": "Get + to."
+          },
+          "id": "b2-u17-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "causative-make-let",
+      "question": "She made me ___ again.",
+      "options": [
+        "try",
+        "to try",
+        "trying"
+      ],
+      "answer": "try",
+      "explain": {
+        "ua": "Make.",
+        "ru": "Make."
+      },
+      "id": "b2-u17-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "causative-make-let",
+      "question": "Let me ___ you.",
+      "options": [
+        "help",
+        "to help",
+        "helping"
+      ],
+      "answer": "help",
+      "explain": {
+        "ua": "Let.",
+        "ru": "Let."
+      },
+      "id": "b2-u17-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "causative-make-let",
+      "question": "I got him ___ the car.",
+      "options": [
+        "to fix",
+        "fix",
+        "fixed"
+      ],
+      "answer": "to fix",
+      "explain": {
+        "ua": "Get + to.",
+        "ru": "Get + to."
+      },
+      "id": "b2-u17-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "causative-make-let",
+      "question": "We aren't ___ to park here.",
+      "options": [
+        "allowed",
+        "let",
+        "made"
+      ],
+      "answer": "allowed",
+      "explain": {
+        "ua": "Be allowed to.",
+        "ru": "Be allowed to."
+      },
+      "id": "b2-u17-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "participle-clauses",
+      "question": "___ the email, she called me.",
+      "options": [
+        "Having read",
+        "Read",
+        "Reading had"
+      ],
+      "answer": "Having read",
+      "explain": {
+        "ua": "Having V3.",
+        "ru": "Having V3."
+      },
+      "id": "b2-u17-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "participle-clauses",
+      "question": "___ tired, I went to bed early. (feel)",
+      "answer": "Feeling",
+      "accept": [],
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b2-u17-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "participle-clauses",
+      "question": "___ in 1890, the house needs repairs. (build)",
+      "answer": "Built",
+      "accept": [],
+      "explain": {
+        "ua": "V3.",
+        "ru": "V3."
+      },
+      "id": "b2-u17-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "causative-make-let",
+      "sentence": "They let us to come in.",
+      "answer": "They let us come in.",
+      "accept": [
+        "They allowed us to come in.",
+        "They let us in."
+      ],
+      "explain": {
+        "ua": "Без to.",
+        "ru": "Без to."
+      },
+      "id": "b2-u17-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "participle-clauses",
+      "sentence": "Having eat breakfast, we left.",
+      "answer": "Having eaten breakfast, we left.",
+      "accept": [],
+      "explain": {
+        "ua": "V3.",
+        "ru": "V3."
+      },
+      "id": "b2-u17-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "causative-make-let",
+      "words": [
+        "My",
+        "learn",
+        "English",
+        "me",
+        "made",
+        "parents"
+      ],
+      "answer": "My parents made me learn English",
+      "explain": {
+        "ua": "Made me → learn English.",
+        "ru": "Made me → learn English."
+      },
+      "id": "b2-u17-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "participle-clauses",
+      "prompt": {
+        "ua": "Не знаючи, що сказати, я мовчав.",
+        "ru": "Не зная, что сказать, я молчал."
+      },
+      "answer": "Not knowing what to say, I said nothing.",
+      "accept": [
+        "Not knowing what to say, I kept silent.",
+        "Not knowing what to say, I was silent.",
+        "Not knowing what to say, I stayed silent."
+      ],
+      "explain": {
+        "ua": "Not + -ing.",
+        "ru": "Not + -ing."
+      },
+      "id": "b2-u17-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "causative-make-let",
+      "audio_text": "We were made to wait.",
+      "options": [
+        "We were made to wait.",
+        "We were made wait.",
+        "We made to wait."
+      ],
+      "answer": "We were made to wait.",
+      "audio": "",
+      "explain": {
+        "ua": "Were made to.",
+        "ru": "Were made to."
+      },
+      "id": "b2-u17-cp12"
+    }
+  ]
+}

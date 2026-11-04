@@ -1,0 +1,1683 @@
+{
+  "id": "a2-u03",
+  "level": "A2",
+  "order": 3,
+  "kind": "grammar",
+  "title": {
+    "en": "Past Continuous",
+    "ua": "Past Continuous",
+    "ru": "Past Continuous"
+  },
+  "rule": {
+    "formula": {
+      "ua": "was / were + дієслово-ing",
+      "ru": "was / were + глагол-ing"
+    },
+    "explain": {
+      "ua": "Past Continuous — дія, яка тривала в певний момент минулого: At 8 pm I was cooking. Часто — фон для іншої, короткої дії: I was cooking when the phone rang.",
+      "ru": "Past Continuous — действие, которое длилось в определённый момент прошлого: At 8 pm I was cooking. Часто — фон для другого, короткого действия: I was cooking when the phone rang."
+    },
+    "examples": [
+      {
+        "en": "At 7 I was having dinner.",
+        "ua": "О сьомій я вечеряв.",
+        "ru": "В семь я ужинал."
+      },
+      {
+        "en": "They were sleeping.",
+        "ua": "Вони спали (у той момент).",
+        "ru": "Они спали (в тот момент)."
+      },
+      {
+        "en": "I was walking when it started to rain.",
+        "ua": "Я гуляв, коли почався дощ.",
+        "ru": "Я гулял, когда начался дождь."
+      }
+    ],
+    "compare": {
+      "ua": "Це «минулий Continuous»: як I'm cooking, тільки am / is / are → was / were.",
+      "ru": "Это «прошедший Continuous»: как I'm cooking, только am / is / are → was / were."
+    }
+  },
+  "vocab": [
+    {
+      "word": "ring → rang",
+      "ipa": "/ræŋ/",
+      "ua": "дзвонити → задзвонив",
+      "ru": "звонить → зазвонил",
+      "example": "The phone rang.",
+      "audio": ""
+    },
+    {
+      "word": "fall → fell",
+      "ipa": "/fel/",
+      "ua": "падати → впав",
+      "ru": "падать → упал",
+      "example": "He fell.",
+      "audio": ""
+    },
+    {
+      "word": "break → broke",
+      "ipa": "/brəʊk/",
+      "ua": "ламати → зламав",
+      "ru": "ломать → сломал",
+      "example": "I broke my phone.",
+      "audio": ""
+    },
+    {
+      "word": "happen",
+      "ipa": "/ˈhæpən/",
+      "ua": "траплятися",
+      "ru": "случаться",
+      "example": "What happened?",
+      "audio": ""
+    },
+    {
+      "word": "accident",
+      "ipa": "/ˈæksɪdənt/",
+      "ua": "аварія, нещасний випадок",
+      "ru": "авария, несчастный случай",
+      "example": "I saw an accident.",
+      "audio": ""
+    },
+    {
+      "word": "suddenly",
+      "ipa": "/ˈsʌdənli/",
+      "ua": "раптом",
+      "ru": "вдруг",
+      "example": "Suddenly the lights went out.",
+      "audio": ""
+    },
+    {
+      "word": "while",
+      "ipa": "/waɪl/",
+      "ua": "поки, у той час як",
+      "ru": "пока, в то время как",
+      "example": "while I was sleeping",
+      "audio": ""
+    },
+    {
+      "word": "when",
+      "ipa": "/wen/",
+      "ua": "коли",
+      "ru": "когда",
+      "example": "when he called",
+      "audio": ""
+    },
+    {
+      "word": "shine",
+      "ipa": "/ʃaɪn/",
+      "ua": "світити",
+      "ru": "светить",
+      "example": "The sun was shining.",
+      "audio": ""
+    },
+    {
+      "word": "drive",
+      "ipa": "/draɪv/",
+      "ua": "їхати (за кермом)",
+      "ru": "ехать (за рулём)",
+      "example": "I was driving home.",
+      "audio": ""
+    },
+    {
+      "word": "wait",
+      "ipa": "/weɪt/",
+      "ua": "чекати",
+      "ru": "ждать",
+      "example": "We were waiting for you.",
+      "audio": ""
+    },
+    {
+      "word": "lights",
+      "ipa": "/laɪts/",
+      "ua": "світло",
+      "ru": "свет",
+      "example": "The lights went out.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u03-l01",
+      "title": {
+        "en": "was / were + -ing",
+        "ua": "was / were + -ing",
+        "ru": "was / were + -ing"
+      },
+      "recap": {
+        "from": "a2-u02-l03",
+        "note": {
+          "ua": "Згадаймо: Прибувати, відправлятися, спізнюватися",
+          "ru": "Вспомним: Прибывать, отправляться, опаздывать"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The train ___ at 9:15. We're waiting on the platform.",
+            "options": [
+              "arrives",
+              "misses",
+              "delays"
+            ],
+            "answer": "arrives",
+            "explain": {
+              "ua": "Arrive — прибувати.",
+              "ru": "Arrive — прибывать."
+            },
+            "id": "a2-u03-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "We arrived ___ Kyiv at 6.",
+            "options": [
+              "in",
+              "to",
+              "at"
+            ],
+            "answer": "in",
+            "explain": {
+              "ua": "Arrive in + місто, arrive at + місце (station).",
+              "ru": "Arrive in + город, arrive at + место (station)."
+            },
+            "id": "a2-u03-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I / he / she / it was + -ing · we / you / they were + -ing",
+        "explain": {
+          "ua": "Що відбувалося в конкретний момент: Yesterday at 9 I was working. Вибір was / were — як у to be.",
+          "ru": "Что происходило в конкретный момент: Yesterday at 9 I was working. Выбор was / were — как в to be."
+        },
+        "examples": [
+          {
+            "en": "At 9 I was working.",
+            "ua": "О дев'ятій я працював.",
+            "ru": "В девять я работал."
+          },
+          {
+            "en": "She was reading.",
+            "ua": "Вона читала.",
+            "ru": "Она читала."
+          },
+          {
+            "en": "We were watching TV.",
+            "ua": "Ми дивилися телевізор.",
+            "ru": "Мы смотрели телевизор."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "At 8 pm I ___ dinner.",
+          "options": [
+            "was cooking",
+            "were cooking",
+            "cooked"
+          ],
+          "answer": "was cooking",
+          "explain": {
+            "ua": "I → was + -ing.",
+            "ru": "I → was + -ing."
+          },
+          "id": "a2-u03-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "They ___ football at 5.",
+          "options": [
+            "were playing",
+            "was playing",
+            "played"
+          ],
+          "answer": "were playing",
+          "explain": {
+            "ua": "They → were + -ing.",
+            "ru": "They → were + -ing."
+          },
+          "id": "a2-u03-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "The sun ___ .",
+          "options": [
+            "was shining",
+            "were shining",
+            "shone"
+          ],
+          "answer": "was shining",
+          "explain": {
+            "ua": "Sun = it → was.",
+            "ru": "Sun = it → was."
+          },
+          "id": "a2-u03-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "What ___ you doing at 10?",
+          "options": [
+            "were",
+            "was",
+            "did"
+          ],
+          "answer": "were",
+          "explain": {
+            "ua": "You → were.",
+            "ru": "You → were."
+          },
+          "id": "a2-u03-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-continuous",
+          "bank": [
+            "was",
+            "were"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ sleeping.",
+            "We ___ waiting.",
+            "Max ___ driving.",
+            "The kids ___ playing."
+          ],
+          "answers": [
+            "was",
+            "were",
+            "was",
+            "were"
+          ],
+          "explain": {
+            "ua": "I / Max → was, we / kids → were.",
+            "ru": "I / Max → was, we / kids → were."
+          },
+          "id": "a2-u03-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "She were reading a book.",
+          "answer": "She was reading a book.",
+          "accept": [],
+          "explain": {
+            "ua": "She → was.",
+            "ru": "She → was."
+          },
+          "id": "a2-u03-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "At 7 we was having breakfast.",
+          "answer": "At 7 we were having breakfast.",
+          "accept": [],
+          "explain": {
+            "ua": "We → were.",
+            "ru": "We → were."
+          },
+          "id": "a2-u03-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "past-continuous",
+          "words": [
+            "for",
+            "the",
+            "I",
+            "bus",
+            "waiting",
+            "was"
+          ],
+          "answer": "I was waiting for the bus",
+          "explain": {
+            "ua": "I → was waiting → for the bus.",
+            "ru": "I → was waiting → for the bus."
+          },
+          "id": "a2-u03-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous",
+          "prompt": {
+            "ua": "Учора о шостій я працювала.",
+            "ru": "Вчера в шесть я работала."
+          },
+          "answer": "Yesterday at 6 I was working.",
+          "accept": [
+            "I was working at 6 yesterday.",
+            "At 6 yesterday I was working."
+          ],
+          "explain": {
+            "ua": "Was working.",
+            "ru": "Was working."
+          },
+          "id": "a2-u03-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u03-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "a2-u03-l01",
+        "note": {
+          "ua": "Згадаймо: I / he / she / it was + -ing · we / you / they were + -ing",
+          "ru": "Вспомним: I / he / she / it was + -ing · we / you / they were + -ing"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-continuous",
+            "question": "At 8 pm I ___ dinner.",
+            "options": [
+              "was cooking",
+              "were cooking",
+              "cooked"
+            ],
+            "answer": "was cooking",
+            "explain": {
+              "ua": "I → was + -ing.",
+              "ru": "I → was + -ing."
+            },
+            "id": "a2-u03-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-continuous",
+            "question": "What ___ you doing at 10?",
+            "options": [
+              "were",
+              "was",
+              "did"
+            ],
+            "answer": "were",
+            "explain": {
+              "ua": "You → were.",
+              "ru": "You → were."
+            },
+            "id": "a2-u03-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "wasn't / weren't + -ing · Was she…-ing? · What were you doing?",
+        "explain": {
+          "ua": "Заперечення — wasn't / weren't. Питання — was / were на початок. Відповідь: Yes, I was. / No, they weren't.",
+          "ru": "Отрицание — wasn't / weren't. Вопрос — was / were в начало. Ответ: Yes, I was. / No, they weren't."
+        },
+        "examples": [
+          {
+            "en": "I wasn't sleeping.",
+            "ua": "Я не спав.",
+            "ru": "Я не спал."
+          },
+          {
+            "en": "Were you working at 6?",
+            "ua": "Ти працював о шостій?",
+            "ru": "Ты работал в шесть?"
+          },
+          {
+            "en": "What were they doing?",
+            "ua": "Що вони робили?",
+            "ru": "Что они делали?"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "I ___ listening. Sorry!",
+          "options": [
+            "wasn't",
+            "weren't",
+            "didn't"
+          ],
+          "answer": "wasn't",
+          "explain": {
+            "ua": "I → wasn't.",
+            "ru": "I → wasn't."
+          },
+          "id": "a2-u03-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "They ___ working yesterday.",
+          "options": [
+            "weren't",
+            "wasn't",
+            "didn't"
+          ],
+          "answer": "weren't",
+          "explain": {
+            "ua": "They → weren't.",
+            "ru": "They → weren't."
+          },
+          "id": "a2-u03-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "___ she driving?",
+          "options": [
+            "Was",
+            "Were",
+            "Did"
+          ],
+          "answer": "Was",
+          "explain": {
+            "ua": "She → Was.",
+            "ru": "She → Was."
+          },
+          "id": "a2-u03-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "Were you sleeping? — No, I ___.",
+          "options": [
+            "wasn't",
+            "weren't",
+            "didn't"
+          ],
+          "answer": "wasn't",
+          "explain": {
+            "ua": "No, I wasn't.",
+            "ru": "No, I wasn't."
+          },
+          "id": "a2-u03-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "What ___ he wearing?",
+          "options": [
+            "was",
+            "were",
+            "did"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "He → was.",
+            "ru": "He → was."
+          },
+          "id": "a2-u03-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "Did you sleeping at 11?",
+          "answer": "Were you sleeping at 11?",
+          "accept": [],
+          "explain": {
+            "ua": "Continuous — were.",
+            "ru": "Continuous — were."
+          },
+          "id": "a2-u03-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "He wasn't listen.",
+          "answer": "He wasn't listening.",
+          "accept": [
+            "He was not listening."
+          ],
+          "explain": {
+            "ua": "Потрібне -ing.",
+            "ru": "Нужно -ing."
+          },
+          "id": "a2-u03-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-continuous",
+          "audio_text": "What were you doing?",
+          "options": [
+            "What were you doing?",
+            "What was you doing?",
+            "What are you doing?"
+          ],
+          "answer": "What were you doing?",
+          "audio": "",
+          "explain": {
+            "ua": "Were — минуле.",
+            "ru": "Were — прошлое."
+          },
+          "id": "a2-u03-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous",
+          "prompt": {
+            "ua": "Що ти робив о дев'ятій?",
+            "ru": "Что ты делал в девять?"
+          },
+          "answer": "What were you doing at 9?",
+          "accept": [
+            "What were you doing at nine?"
+          ],
+          "explain": {
+            "ua": "What were you doing…?",
+            "ru": "What were you doing…?"
+          },
+          "id": "a2-u03-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u03-l03",
+      "title": {
+        "en": "while",
+        "ua": "while",
+        "ru": "while"
+      },
+      "recap": {
+        "from": "a2-u03-l02",
+        "note": {
+          "ua": "Згадаймо: wasn't / weren't + -ing · Was she…-ing? · What were you doing?",
+          "ru": "Вспомним: wasn't / weren't + -ing · Was she…-ing? · What were you doing?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-continuous",
+            "question": "I ___ listening. Sorry!",
+            "options": [
+              "wasn't",
+              "weren't",
+              "didn't"
+            ],
+            "answer": "wasn't",
+            "explain": {
+              "ua": "I → wasn't.",
+              "ru": "I → wasn't."
+            },
+            "id": "a2-u03-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-continuous",
+            "question": "What ___ he wearing?",
+            "options": [
+              "was",
+              "were",
+              "did"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "He → was.",
+              "ru": "He → was."
+            },
+            "id": "a2-u03-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "while + Past Continuous — дві тривалі дії одночасно",
+          "ru": "while + Past Continuous — два длительных действия одновременно"
+        },
+        "explain": {
+          "ua": "While — «поки, у той час як». Дві дії тривали одночасно: While I was cooking, he was reading.",
+          "ru": "While — «пока, в то время как». Два действия длились одновременно: While I was cooking, he was reading."
+        },
+        "examples": [
+          {
+            "en": "While I was cooking, he was reading.",
+            "ua": "Поки я готувала, він читав.",
+            "ru": "Пока я готовила, он читал."
+          },
+          {
+            "en": "She was singing while she was working.",
+            "ua": "Вона співала, поки працювала.",
+            "ru": "Она пела, пока работала."
+          },
+          {
+            "en": "While we were driving, it was raining.",
+            "ua": "Поки ми їхали, ішов дощ.",
+            "ru": "Пока мы ехали, шёл дождь."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-continuous-while",
+          "question": "___ I was working, the kids were playing.",
+          "options": [
+            "While",
+            "When",
+            "During"
+          ],
+          "answer": "While",
+          "explain": {
+            "ua": "While + тривала дія.",
+            "ru": "While + длительное действие."
+          },
+          "id": "a2-u03-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous-while",
+          "question": "While she ___ , he was cleaning.",
+          "options": [
+            "was cooking",
+            "cooked",
+            "cooks"
+          ],
+          "answer": "was cooking",
+          "explain": {
+            "ua": "While + was -ing.",
+            "ru": "While + was -ing."
+          },
+          "id": "a2-u03-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous-while",
+          "question": "We were talking while we ___ .",
+          "options": [
+            "were walking",
+            "walked",
+            "walk"
+          ],
+          "answer": "were walking",
+          "explain": {
+            "ua": "Обидві дії тривали.",
+            "ru": "Оба действия длились."
+          },
+          "id": "a2-u03-l03-e03"
+        },
+        {
+          "type": "fill",
+          "topic": "past-continuous-while",
+          "question": "While I was ___ , I listened to music. (drive)",
+          "answer": "driving",
+          "accept": [],
+          "explain": {
+            "ua": "Drive → driving.",
+            "ru": "Drive → driving."
+          },
+          "id": "a2-u03-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "past-continuous-while",
+          "pairs": [
+            {
+              "left": "While I was reading,",
+              "right": "my dog was sleeping."
+            },
+            {
+              "left": "While they were swimming,",
+              "right": "we were sitting on the beach."
+            },
+            {
+              "left": "While Mum was cooking,",
+              "right": "Dad was washing the dishes."
+            }
+          ],
+          "explain": {
+            "ua": "Дві дії одночасно.",
+            "ru": "Два действия одновременно."
+          },
+          "id": "a2-u03-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous-while",
+          "sentence": "While I cooked, he was watching TV.",
+          "answer": "While I was cooking, he was watching TV.",
+          "accept": [],
+          "explain": {
+            "ua": "Після while — тривала дія.",
+            "ru": "После while — длительное действие."
+          },
+          "id": "a2-u03-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "past-continuous-while",
+          "words": [
+            "working",
+            "sleeping",
+            "I",
+            "was",
+            "was",
+            "While",
+            "he"
+          ],
+          "answer": "While he was sleeping I was working",
+          "explain": {
+            "ua": "While he was sleeping → I was working.",
+            "ru": "While he was sleeping → I was working."
+          },
+          "id": "a2-u03-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-continuous-while",
+          "audio_text": "While we were waiting, it started to rain.",
+          "options": [
+            "While we were waiting, it started to rain.",
+            "When we were waiting, it starts to rain.",
+            "While we waited, it started to rain."
+          ],
+          "answer": "While we were waiting, it started to rain.",
+          "audio": "",
+          "explain": {
+            "ua": "While we were waiting.",
+            "ru": "While we were waiting."
+          },
+          "id": "a2-u03-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous-while",
+          "prompt": {
+            "ua": "Поки я спала, він працював.",
+            "ru": "Пока я спала, он работал."
+          },
+          "answer": "While I was sleeping, he was working.",
+          "accept": [
+            "He was working while I was sleeping."
+          ],
+          "explain": {
+            "ua": "While + was -ing.",
+            "ru": "While + was -ing."
+          },
+          "id": "a2-u03-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u03-l04",
+      "title": {
+        "en": "when — interrupted action",
+        "ua": "when — перервана дія",
+        "ru": "when — прерванное действие"
+      },
+      "recap": {
+        "from": "a2-u03-l03",
+        "note": {
+          "ua": "Згадаймо: while + Past Continuous — дві тривалі дії одночасно",
+          "ru": "Вспомним: while + Past Continuous — два длительных действия одновременно"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-continuous-while",
+            "question": "___ I was working, the kids were playing.",
+            "options": [
+              "While",
+              "When",
+              "During"
+            ],
+            "answer": "While",
+            "explain": {
+              "ua": "While + тривала дія.",
+              "ru": "While + длительное действие."
+            },
+            "id": "a2-u03-l04-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "past-continuous-while",
+            "question": "While I was ___ , I listened to music. (drive)",
+            "answer": "driving",
+            "accept": [],
+            "explain": {
+              "ua": "Drive → driving.",
+              "ru": "Drive → driving."
+            },
+            "id": "a2-u03-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "Past Continuous (довга дія) + when + Past Simple (коротка)",
+          "ru": "Past Continuous (длинное действие) + when + Past Simple (короткое)"
+        },
+        "explain": {
+          "ua": "Довга дія тривала — і раптом сталася коротка: I was cooking when the phone rang. Довга — Continuous, коротка — Simple.",
+          "ru": "Длинное действие длилось — и вдруг случилось короткое: I was cooking when the phone rang. Длинное — Continuous, короткое — Simple."
+        },
+        "examples": [
+          {
+            "en": "I was cooking when the phone rang.",
+            "ua": "Я готувала, коли задзвонив телефон.",
+            "ru": "Я готовила, когда зазвонил телефон."
+          },
+          {
+            "en": "We were walking when it started to rain.",
+            "ua": "Ми гуляли, коли почався дощ.",
+            "ru": "Мы гуляли, когда начался дождь."
+          },
+          {
+            "en": "He fell while he was running.",
+            "ua": "Він упав, поки біг.",
+            "ru": "Он упал, пока бежал."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-continuous-when",
+          "question": "I was sleeping when the phone ___ .",
+          "options": [
+            "rang",
+            "was ringing",
+            "rings"
+          ],
+          "answer": "rang",
+          "explain": {
+            "ua": "Коротка дія — Past Simple.",
+            "ru": "Короткое действие — Past Simple."
+          },
+          "id": "a2-u03-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous-when",
+          "question": "She ___ a shower when the lights went out.",
+          "options": [
+            "was taking",
+            "took",
+            "takes"
+          ],
+          "answer": "was taking",
+          "explain": {
+            "ua": "Довга дія — Continuous.",
+            "ru": "Длинное действие — Continuous."
+          },
+          "id": "a2-u03-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous-when",
+          "question": "We were driving home when we ___ an accident.",
+          "options": [
+            "saw",
+            "were seeing",
+            "see"
+          ],
+          "answer": "saw",
+          "explain": {
+            "ua": "Коротка — saw.",
+            "ru": "Короткое — saw."
+          },
+          "id": "a2-u03-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous-when",
+          "question": "He ___ his leg while he was skiing.",
+          "options": [
+            "broke",
+            "was breaking",
+            "breaks"
+          ],
+          "answer": "broke",
+          "explain": {
+            "ua": "Коротка дія — broke.",
+            "ru": "Короткое действие — broke."
+          },
+          "id": "a2-u03-l04-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-continuous-when",
+          "bank": [
+            "was reading",
+            "came",
+            "were having",
+            "rang"
+          ],
+          "reuse": false,
+          "sentences": [
+            "I ___ a book when Max came in.",
+            "Max ___ in when I was reading.",
+            "We ___ dinner when the phone rang.",
+            "We were having dinner when the phone ___ ."
+          ],
+          "answers": [
+            "was reading",
+            "came",
+            "were having",
+            "rang"
+          ],
+          "explain": {
+            "ua": "Довга — was -ing, коротка — Past Simple.",
+            "ru": "Длинное — was -ing, короткое — Past Simple."
+          },
+          "id": "a2-u03-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous-when",
+          "sentence": "I cooked when you were calling.",
+          "answer": "I was cooking when you called.",
+          "accept": [],
+          "explain": {
+            "ua": "Довга — Continuous, коротка — Simple.",
+            "ru": "Длинное — Continuous, короткое — Simple."
+          },
+          "id": "a2-u03-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous-when",
+          "sentence": "When I arrived, they were have dinner.",
+          "answer": "When I arrived, they were having dinner.",
+          "accept": [],
+          "explain": {
+            "ua": "Were having.",
+            "ru": "Were having."
+          },
+          "id": "a2-u03-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-continuous-when",
+          "audio_text": "What happened? — I fell when I was running.",
+          "options": [
+            "What happened? — I fell when I was running.",
+            "What happened? — I fell when I run.",
+            "What happens? — I fell when I was running."
+          ],
+          "answer": "What happened? — I fell when I was running.",
+          "audio": "",
+          "explain": {
+            "ua": "Fell — коротка, was running — довга.",
+            "ru": "Fell — короткое, was running — длинное."
+          },
+          "id": "a2-u03-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous-when",
+          "prompt": {
+            "ua": "Я гуляла з собакою, коли почався дощ.",
+            "ru": "Я гуляла с собакой, когда начался дождь."
+          },
+          "answer": "I was walking the dog when it started to rain.",
+          "accept": [
+            "I was walking my dog when it started to rain.",
+            "I was walking the dog when it started raining.",
+            "I was walking my dog when it started raining."
+          ],
+          "explain": {
+            "ua": "Was walking + started.",
+            "ru": "Was walking + started."
+          },
+          "id": "a2-u03-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u03-l05",
+      "title": {
+        "en": "Past Simple or Continuous?",
+        "ua": "Past Simple чи Continuous?",
+        "ru": "Past Simple или Continuous?"
+      },
+      "recap": {
+        "from": "a2-u03-l04",
+        "note": {
+          "ua": "Згадаймо: Past Continuous (довга дія) + when + Past Simple (коротка)",
+          "ru": "Вспомним: Past Continuous (длинное действие) + when + Past Simple (короткое)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-continuous-when",
+            "question": "I was sleeping when the phone ___ .",
+            "options": [
+              "rang",
+              "was ringing",
+              "rings"
+            ],
+            "answer": "rang",
+            "explain": {
+              "ua": "Коротка дія — Past Simple.",
+              "ru": "Короткое действие — Past Simple."
+            },
+            "id": "a2-u03-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-continuous-when",
+            "question": "He ___ his leg while he was skiing.",
+            "options": [
+              "broke",
+              "was breaking",
+              "breaks"
+            ],
+            "answer": "broke",
+            "explain": {
+              "ua": "Коротка дія — broke.",
+              "ru": "Короткое действие — broke."
+            },
+            "id": "a2-u03-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "завершена подія → Simple · процес у момент → Continuous",
+          "ru": "законченное событие → Simple · процесс в момент → Continuous"
+        },
+        "explain": {
+          "ua": "Що сталося? → Simple (I broke my phone). Що відбувалося? → Continuous (I was talking on the phone).",
+          "ru": "Что случилось? → Simple (I broke my phone). Что происходило? → Continuous (I was talking on the phone)."
+        },
+        "examples": [
+          {
+            "en": "I watched a film yesterday.",
+            "ua": "Учора я подивився фільм.",
+            "ru": "Вчера я посмотрел фильм."
+          },
+          {
+            "en": "At 9 I was watching a film.",
+            "ua": "О дев'ятій я дивився фільм.",
+            "ru": "В девять я смотрел фильм."
+          },
+          {
+            "en": "I was watching a film when you called.",
+            "ua": "Я дивився фільм, коли ти подзвонив.",
+            "ru": "Я смотрел фильм, когда ты позвонил."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-simple-vs-continuous",
+          "question": "Yesterday I ___ my grandma.",
+          "options": [
+            "visited",
+            "was visiting",
+            "visit"
+          ],
+          "answer": "visited",
+          "explain": {
+            "ua": "Завершена подія → Simple.",
+            "ru": "Законченное событие → Simple."
+          },
+          "id": "a2-u03-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-vs-continuous",
+          "question": "At midnight we ___ .",
+          "options": [
+            "were sleeping",
+            "slept",
+            "sleep"
+          ],
+          "answer": "were sleeping",
+          "explain": {
+            "ua": "У момент → Continuous.",
+            "ru": "В момент → Continuous."
+          },
+          "id": "a2-u03-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-vs-continuous",
+          "question": "I ___ my keys last week.",
+          "options": [
+            "lost",
+            "was losing",
+            "lose"
+          ],
+          "answer": "lost",
+          "explain": {
+            "ua": "Подія → Simple.",
+            "ru": "Событие → Simple."
+          },
+          "id": "a2-u03-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-vs-continuous",
+          "question": "It ___ when we left the house.",
+          "options": [
+            "was raining",
+            "rained",
+            "rains"
+          ],
+          "answer": "was raining",
+          "explain": {
+            "ua": "Фон → Continuous.",
+            "ru": "Фон → Continuous."
+          },
+          "id": "a2-u03-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "past-simple-vs-continuous",
+          "question": "— What happened? — I ___ off my bike.",
+          "options": [
+            "fell",
+            "was falling",
+            "fall"
+          ],
+          "answer": "fell",
+          "explain": {
+            "ua": "What happened? → Simple.",
+            "ru": "What happened? → Simple."
+          },
+          "id": "a2-u03-l05-e05"
+        },
+        {
+          "type": "match",
+          "topic": "past-simple-vs-continuous",
+          "pairs": [
+            {
+              "left": "At 6 o'clock",
+              "right": "I was cooking."
+            },
+            {
+              "left": "Last year",
+              "right": "I went to Paris."
+            },
+            {
+              "left": "When you called,",
+              "right": "I was driving."
+            },
+            {
+              "left": "Suddenly",
+              "right": "the lights went out."
+            }
+          ],
+          "explain": {
+            "ua": "Момент — Continuous, подія — Simple.",
+            "ru": "Момент — Continuous, событие — Simple."
+          },
+          "id": "a2-u03-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-vs-continuous",
+          "sentence": "I was going to Spain last year.",
+          "answer": "I went to Spain last year.",
+          "accept": [],
+          "explain": {
+            "ua": "Завершена поїздка → Simple.",
+            "ru": "Законченная поездка → Simple."
+          },
+          "id": "a2-u03-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "past-simple-vs-continuous",
+          "sentence": "At 10 I watched TV, so I didn't hear you.",
+          "answer": "At 10 I was watching TV, so I didn't hear you.",
+          "accept": [],
+          "explain": {
+            "ua": "У момент → Continuous.",
+            "ru": "В момент → Continuous."
+          },
+          "id": "a2-u03-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-simple-vs-continuous",
+          "prompt": {
+            "ua": "Що сталося?",
+            "ru": "Что случилось?"
+          },
+          "answer": "What happened?",
+          "accept": [],
+          "explain": {
+            "ua": "Подія → Simple.",
+            "ru": "Событие → Simple."
+          },
+          "id": "a2-u03-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u03-l06",
+      "title": {
+        "en": "Practice: what happened?",
+        "ua": "Практика: що сталося?",
+        "ru": "Практика: что случилось?"
+      },
+      "recap": {
+        "from": "a2-u03-l05",
+        "note": {
+          "ua": "Згадаймо: завершена подія → Simple · процес у момент → Continuous",
+          "ru": "Вспомним: законченное событие → Simple · процесс в момент → Continuous"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "past-simple-vs-continuous",
+            "question": "Yesterday I ___ my grandma.",
+            "options": [
+              "visited",
+              "was visiting",
+              "visit"
+            ],
+            "answer": "visited",
+            "explain": {
+              "ua": "Завершена подія → Simple.",
+              "ru": "Законченное событие → Simple."
+            },
+            "id": "a2-u03-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "past-simple-vs-continuous",
+            "question": "— What happened? — I ___ off my bike.",
+            "options": [
+              "fell",
+              "was falling",
+              "fall"
+            ],
+            "answer": "fell",
+            "explain": {
+              "ua": "What happened? → Simple.",
+              "ru": "What happened? → Simple."
+            },
+            "id": "a2-u03-l06-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "When I came in, my kids ___ .",
+          "options": [
+            "were sleeping",
+            "slept",
+            "sleep"
+          ],
+          "answer": "were sleeping",
+          "explain": {
+            "ua": "Фон — Continuous.",
+            "ru": "Фон — Continuous."
+          },
+          "id": "a2-u03-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "past-continuous",
+          "question": "While she was cooking, she ___ her finger.",
+          "options": [
+            "cut",
+            "was cutting",
+            "cuts"
+          ],
+          "answer": "cut",
+          "explain": {
+            "ua": "Коротка подія — Simple.",
+            "ru": "Короткое событие — Simple."
+          },
+          "id": "a2-u03-l06-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Tom was driving to work.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "It was sunny.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What did Tom see?",
+              "options": [
+                "an accident",
+                "a friend",
+                "a dog"
+              ],
+              "answer": "an accident"
+            }
+          ],
+          "text": "Yesterday morning I was driving to work. It was raining and I was listening to the radio. Suddenly I saw an accident. Two cars were standing in the middle of the road. Nobody was hurt, but the drivers were shouting. I stopped and called the police.",
+          "explain": {
+            "ua": "Driving, raining, saw an accident, called the police.",
+            "ru": "Driving, raining, saw an accident, called the police."
+          },
+          "id": "a2-u03-l06-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "past-continuous",
+          "bank": [
+            "was driving",
+            "was raining",
+            "saw",
+            "called"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Tom ___ to work.",
+            "It ___ .",
+            "Suddenly he ___ an accident.",
+            "He stopped and ___ the police."
+          ],
+          "answers": [
+            "was driving",
+            "was raining",
+            "saw",
+            "called"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u03-l06-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "While I walked, I was meeting Ann.",
+          "answer": "While I was walking, I met Ann.",
+          "accept": [],
+          "explain": {
+            "ua": "Довга — Continuous, коротка — Simple.",
+            "ru": "Длинное — Continuous, короткое — Simple."
+          },
+          "id": "a2-u03-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "past-continuous",
+          "sentence": "What did you doing at 8?",
+          "answer": "What were you doing at 8?",
+          "accept": [],
+          "explain": {
+            "ua": "Continuous — were.",
+            "ru": "Continuous — were."
+          },
+          "id": "a2-u03-l06-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "singing",
+            "was",
+            "sun",
+            "shining",
+            "birds",
+            "the",
+            "and",
+            "The",
+            "were"
+          ],
+          "answer": "The sun was shining and the birds were singing",
+          "explain": {
+            "ua": "Два фони — обидва Continuous.",
+            "ru": "Два фона — оба Continuous."
+          },
+          "id": "a2-u03-l06-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "past-continuous",
+          "audio_text": "Suddenly the lights went out.",
+          "options": [
+            "Suddenly the lights went out.",
+            "Suddenly the lights were going out.",
+            "Suddenly the light went off."
+          ],
+          "answer": "Suddenly the lights went out.",
+          "audio": "",
+          "explain": {
+            "ua": "Went out — згасло.",
+            "ru": "Went out — погас."
+          },
+          "id": "a2-u03-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous",
+          "prompt": {
+            "ua": "Він упав, коли біг.",
+            "ru": "Он упал, когда бежал."
+          },
+          "answer": "He fell when he was running.",
+          "accept": [
+            "He fell while he was running."
+          ],
+          "explain": {
+            "ua": "Fell + was running.",
+            "ru": "Fell + was running."
+          },
+          "id": "a2-u03-l06-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "past-continuous",
+          "prompt": {
+            "ua": "Ми вечеряли, коли вони прийшли.",
+            "ru": "Мы ужинали, когда они пришли."
+          },
+          "answer": "We were having dinner when they came.",
+          "accept": [
+            "We were having dinner when they arrived.",
+            "We were eating dinner when they came."
+          ],
+          "explain": {
+            "ua": "Were having + came.",
+            "ru": "Were having + came."
+          },
+          "id": "a2-u03-l06-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "past-continuous",
+      "question": "At 9 I ___ breakfast.",
+      "options": [
+        "was having",
+        "were having",
+        "had"
+      ],
+      "answer": "was having",
+      "explain": {
+        "ua": "У момент → was -ing.",
+        "ru": "В момент → was -ing."
+      },
+      "id": "a2-u03-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "past-continuous",
+      "question": "They ___ when I called.",
+      "options": [
+        "were sleeping",
+        "was sleeping",
+        "slept"
+      ],
+      "answer": "were sleeping",
+      "explain": {
+        "ua": "They → were.",
+        "ru": "They → were."
+      },
+      "id": "a2-u03-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "past-continuous-when",
+      "question": "I was reading when the phone ___ .",
+      "options": [
+        "rang",
+        "was ringing",
+        "rings"
+      ],
+      "answer": "rang",
+      "explain": {
+        "ua": "Коротка → Simple.",
+        "ru": "Короткое → Simple."
+      },
+      "id": "a2-u03-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "past-continuous-while",
+      "question": "___ I was cooking, he was cleaning.",
+      "options": [
+        "While",
+        "When",
+        "During"
+      ],
+      "answer": "While",
+      "explain": {
+        "ua": "While + тривала.",
+        "ru": "While + длительное."
+      },
+      "id": "a2-u03-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "past-simple-vs-continuous",
+      "question": "Last year we ___ to Italy.",
+      "options": [
+        "went",
+        "were going",
+        "go"
+      ],
+      "answer": "went",
+      "explain": {
+        "ua": "Подія → Simple.",
+        "ru": "Событие → Simple."
+      },
+      "id": "a2-u03-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "past-continuous",
+      "question": "What ___ you doing at 10?",
+      "answer": "were",
+      "accept": [],
+      "explain": {
+        "ua": "You → were.",
+        "ru": "You → were."
+      },
+      "id": "a2-u03-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "past-continuous",
+      "question": "She ___ listening. (not)",
+      "answer": "wasn't",
+      "accept": [
+        "was not"
+      ],
+      "explain": {
+        "ua": "She → wasn't.",
+        "ru": "She → wasn't."
+      },
+      "id": "a2-u03-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "past-simple-vs-continuous",
+      "sentence": "I was see an accident.",
+      "answer": "I saw an accident.",
+      "accept": [],
+      "explain": {
+        "ua": "Подія → saw.",
+        "ru": "Событие → saw."
+      },
+      "id": "a2-u03-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "past-continuous-when",
+      "sentence": "While we walked, it was starting to rain.",
+      "answer": "While we were walking, it started to rain.",
+      "accept": [],
+      "explain": {
+        "ua": "Довга — Continuous, коротка — Simple.",
+        "ru": "Длинное — Continuous, короткое — Simple."
+      },
+      "id": "a2-u03-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "past-continuous",
+      "words": [
+        "sun",
+        "shining",
+        "was",
+        "The"
+      ],
+      "answer": "The sun was shining",
+      "explain": {
+        "ua": "The sun → was shining.",
+        "ru": "The sun → was shining."
+      },
+      "id": "a2-u03-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "past-continuous",
+      "prompt": {
+        "ua": "Що ти робила вчора о восьмій?",
+        "ru": "Что ты делала вчера в восемь?"
+      },
+      "answer": "What were you doing at 8 yesterday?",
+      "accept": [
+        "What were you doing yesterday at 8?",
+        "What were you doing at eight yesterday?"
+      ],
+      "explain": {
+        "ua": "What were you doing…?",
+        "ru": "What were you doing…?"
+      },
+      "id": "a2-u03-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "past-continuous-when",
+      "audio_text": "I was driving when I saw it.",
+      "options": [
+        "I was driving when I saw it.",
+        "I drove when I was seeing it.",
+        "I was driving when I see it."
+      ],
+      "answer": "I was driving when I saw it.",
+      "audio": "",
+      "explain": {
+        "ua": "Was driving + saw.",
+        "ru": "Was driving + saw."
+      },
+      "id": "a2-u03-cp12"
+    }
+  ]
+}

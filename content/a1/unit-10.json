@@ -1,0 +1,1513 @@
+{
+  "id": "a1-u10",
+  "level": "A1",
+  "order": 10,
+  "kind": "vocab",
+  "title": {
+    "en": "Food",
+    "ua": "Їжа",
+    "ru": "Еда"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "bread",
+      "ipa": "/bred/",
+      "ua": "хліб",
+      "ru": "хлеб",
+      "example": "I love fresh bread.",
+      "audio": ""
+    },
+    {
+      "word": "cheese",
+      "ipa": "/tʃiːz/",
+      "ua": "сир (твердий)",
+      "ru": "сыр",
+      "example": "This cheese is French.",
+      "audio": ""
+    },
+    {
+      "word": "milk",
+      "ipa": "/mɪlk/",
+      "ua": "молоко",
+      "ru": "молоко",
+      "example": "A glass of milk, please.",
+      "audio": ""
+    },
+    {
+      "word": "egg",
+      "ipa": "/eɡ/",
+      "ua": "яйце",
+      "ru": "яйцо",
+      "example": "Two eggs for breakfast.",
+      "audio": ""
+    },
+    {
+      "word": "meat",
+      "ipa": "/miːt/",
+      "ua": "м'ясо",
+      "ru": "мясо",
+      "example": "I don't eat meat.",
+      "audio": ""
+    },
+    {
+      "word": "chicken",
+      "ipa": "/ˈtʃɪkɪn/",
+      "ua": "курка, курятина",
+      "ru": "курица",
+      "example": "Chicken and rice, please.",
+      "audio": ""
+    },
+    {
+      "word": "fish",
+      "ipa": "/fɪʃ/",
+      "ua": "риба",
+      "ru": "рыба",
+      "example": "The fish is fresh.",
+      "audio": ""
+    },
+    {
+      "word": "rice",
+      "ipa": "/raɪs/",
+      "ua": "рис",
+      "ru": "рис",
+      "example": "Rice with vegetables.",
+      "audio": ""
+    },
+    {
+      "word": "potato",
+      "ipa": "/pəˈteɪtəʊ/",
+      "ua": "картопля",
+      "ru": "картофель",
+      "example": "Potatoes are cheap.",
+      "audio": ""
+    },
+    {
+      "word": "vegetables",
+      "ipa": "/ˈvedʒtəblz/",
+      "ua": "овочі",
+      "ru": "овощи",
+      "example": "Vegetables are healthy.",
+      "audio": ""
+    },
+    {
+      "word": "fruit",
+      "ipa": "/fruːt/",
+      "ua": "фрукти",
+      "ru": "фрукты",
+      "example": "I eat fruit every day.",
+      "audio": ""
+    },
+    {
+      "word": "apple",
+      "ipa": "/ˈæpl/",
+      "ua": "яблуко",
+      "ru": "яблоко",
+      "example": "An apple a day!",
+      "audio": ""
+    },
+    {
+      "word": "banana",
+      "ipa": "/bəˈnɑːnə/",
+      "ua": "банан",
+      "ru": "банан",
+      "example": "Bananas are yellow.",
+      "audio": ""
+    },
+    {
+      "word": "water",
+      "ipa": "/ˈwɔːtə/",
+      "ua": "вода",
+      "ru": "вода",
+      "example": "Water, please.",
+      "audio": ""
+    },
+    {
+      "word": "coffee",
+      "ipa": "/ˈkɒfi/",
+      "ua": "кава",
+      "ru": "кофе",
+      "example": "A coffee with milk, please.",
+      "audio": ""
+    },
+    {
+      "word": "tea",
+      "ipa": "/tiː/",
+      "ua": "чай",
+      "ru": "чай",
+      "example": "Black tea, please.",
+      "audio": ""
+    },
+    {
+      "word": "juice",
+      "ipa": "/dʒuːs/",
+      "ua": "сік",
+      "ru": "сок",
+      "example": "Orange juice is sweet.",
+      "audio": ""
+    },
+    {
+      "word": "breakfast",
+      "ipa": "/ˈbrekfəst/",
+      "ua": "сніданок",
+      "ru": "завтрак",
+      "example": "Breakfast is at 8.",
+      "audio": ""
+    },
+    {
+      "word": "lunch",
+      "ipa": "/lʌntʃ/",
+      "ua": "обід",
+      "ru": "обед",
+      "example": "Lunch is at 1.",
+      "audio": ""
+    },
+    {
+      "word": "dinner",
+      "ipa": "/ˈdɪnə/",
+      "ua": "вечеря",
+      "ru": "ужин",
+      "example": "Dinner is ready!",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u10-l01",
+      "title": {
+        "en": "Basic food",
+        "ua": "Основні продукти",
+        "ru": "Основные продукты"
+      },
+      "recap": {
+        "from": "a1-u09-l02",
+        "note": {
+          "ua": "Згадаймо: these — багато, тут · those — багато, там",
+          "ru": "Вспомним: these — много, здесь · those — много, там"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "demonstratives",
+            "question": "___ shoes are new. (here 👋)",
+            "options": [
+              "These",
+              "Those",
+              "This"
+            ],
+            "answer": "These",
+            "explain": {
+              "ua": "Багато + поруч → these.",
+              "ru": "Много + рядом → these."
+            },
+            "id": "a1-u10-l01-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "demonstratives",
+            "sentence": "This shoes are expensive.",
+            "answer": "These shoes are expensive.",
+            "accept": [],
+            "explain": {
+              "ua": "Shoes — множина → these.",
+              "ru": "Shoes — множественное → these."
+            },
+            "id": "a1-u10-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "bread",
+              "right": {
+                "ua": "хліб",
+                "ru": "хлеб"
+              }
+            },
+            {
+              "left": "cheese",
+              "right": {
+                "ua": "сир",
+                "ru": "сыр"
+              }
+            },
+            {
+              "left": "meat",
+              "right": {
+                "ua": "м'ясо",
+                "ru": "мясо"
+              }
+            },
+            {
+              "left": "fish",
+              "right": {
+                "ua": "риба",
+                "ru": "рыба"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u10-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Cows give us ___.",
+          "options": [
+            "milk",
+            "eggs",
+            "bread"
+          ],
+          "answer": "milk",
+          "explain": {
+            "ua": "Корова → молоко.",
+            "ru": "Корова → молоко."
+          },
+          "id": "a1-u10-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Chickens give us ___.",
+          "options": [
+            "eggs",
+            "milk",
+            "cheese"
+          ],
+          "answer": "eggs",
+          "explain": {
+            "ua": "Кури → яйця.",
+            "ru": "Куры → яйца."
+          },
+          "id": "a1-u10-l01-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "It's white or yellow. It's made from milk. People love it on pizza.",
+          "answer": "cheese",
+          "accept": [],
+          "explain": {
+            "ua": "Cheese — сир.",
+            "ru": "Cheese — сыр."
+          },
+          "id": "a1-u10-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "You need it for a sandwich.",
+          "answer": "bread",
+          "accept": [],
+          "explain": {
+            "ua": "Bread — хліб.",
+            "ru": "Bread — хлеб."
+          },
+          "id": "a1-u10-l01-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "sea",
+          "answer": "fish",
+          "accept": [],
+          "explain": {
+            "ua": "Море → риба.",
+            "ru": "Море → рыба."
+          },
+          "id": "a1-u10-l01-e06"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/tʃiːz/",
+          "options": [
+            "cheese",
+            "chips",
+            "choose"
+          ],
+          "answer": "cheese",
+          "explain": {
+            "ua": "/tʃ/ — «ч», /iː/ — довге «і».",
+            "ru": "/tʃ/ — «ч», /iː/ — долгое «и»."
+          },
+          "id": "a1-u10-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I love chickens with rice.",
+          "answer": "I love chicken with rice.",
+          "accept": [],
+          "explain": {
+            "ua": "Курятина як їжа — chicken без -s.",
+            "ru": "Курица как еда — chicken без -s."
+          },
+          "id": "a1-u10-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Хліб свіжий.",
+            "ru": "Хлеб свежий."
+          },
+          "answer": "The bread is fresh.",
+          "accept": [
+            "Bread is fresh."
+          ],
+          "explain": {
+            "ua": "Bread — незлічуване, без -s.",
+            "ru": "Bread — неисчисляемое, без -s."
+          },
+          "id": "a1-u10-l01-e09"
+        }
+      ],
+      "words": [
+        "bread",
+        "cheese",
+        "milk",
+        "egg",
+        "meat",
+        "chicken",
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "a1-u10-l02",
+      "title": {
+        "en": "Fruit, vegetables, drinks",
+        "ua": "Фрукти, овочі, напої",
+        "ru": "Фрукты, овощи, напитки"
+      },
+      "recap": {
+        "from": "a1-u10-l01",
+        "note": {
+          "ua": "Згадаймо: Основні продукти",
+          "ru": "Вспомним: Основные продукты"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Cows give us ___.",
+            "options": [
+              "milk",
+              "eggs",
+              "bread"
+            ],
+            "answer": "milk",
+            "explain": {
+              "ua": "Корова → молоко.",
+              "ru": "Корова → молоко."
+            },
+            "id": "a1-u10-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "You need it for a sandwich.",
+            "answer": "bread",
+            "accept": [],
+            "explain": {
+              "ua": "Bread — хліб.",
+              "ru": "Bread — хлеб."
+            },
+            "id": "a1-u10-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "apple",
+              "right": {
+                "ua": "яблуко",
+                "ru": "яблоко"
+              }
+            },
+            {
+              "left": "potato",
+              "right": {
+                "ua": "картопля",
+                "ru": "картофель"
+              }
+            },
+            {
+              "left": "juice",
+              "right": {
+                "ua": "сік",
+                "ru": "сок"
+              }
+            },
+            {
+              "left": "tea",
+              "right": {
+                "ua": "чай",
+                "ru": "чай"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u10-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A banana is a ___.",
+          "options": [
+            "fruit",
+            "vegetable",
+            "drink"
+          ],
+          "answer": "fruit",
+          "explain": {
+            "ua": "Banana — фрукт.",
+            "ru": "Banana — фрукт."
+          },
+          "id": "a1-u10-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "A potato is a ___.",
+          "options": [
+            "vegetable",
+            "fruit",
+            "drink"
+          ],
+          "answer": "vegetable",
+          "explain": {
+            "ua": "Potato — овоч.",
+            "ru": "Potato — овощ."
+          },
+          "id": "a1-u10-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Coffee is a ___.",
+          "options": [
+            "drink",
+            "fruit",
+            "vegetable"
+          ],
+          "answer": "drink",
+          "explain": {
+            "ua": "Coffee — напій.",
+            "ru": "Coffee — напиток."
+          },
+          "id": "a1-u10-l02-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A long yellow fruit.",
+          "answer": "banana",
+          "accept": [
+            "a banana"
+          ],
+          "explain": {
+            "ua": "Banana.",
+            "ru": "Banana."
+          },
+          "id": "a1-u10-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "water",
+            "coffee",
+            "juice",
+            "tea"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Black ___ with lemon.",
+            "Orange ___.",
+            "A ___ with milk.",
+            "A glass of ___."
+          ],
+          "answers": [
+            "tea",
+            "juice",
+            "coffee",
+            "water"
+          ],
+          "explain": {
+            "ua": "tea with lemon, orange juice, coffee with milk, a glass of water.",
+            "ru": "tea with lemon, orange juice, coffee with milk, a glass of water."
+          },
+          "id": "a1-u10-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I eat a lot of fruits and vegetable.",
+          "answer": "I eat a lot of fruit and vegetables.",
+          "accept": [
+            "I eat a lot of fruits and vegetables."
+          ],
+          "explain": {
+            "ua": "Fruit зазвичай без -s, vegetables — з -s.",
+            "ru": "Fruit обычно без -s, vegetables — с -s."
+          },
+          "id": "a1-u10-l02-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈwɔːtə/",
+          "options": [
+            "water",
+            "waiter",
+            "winter"
+          ],
+          "answer": "water",
+          "explain": {
+            "ua": "/ɔː/ — довге «о».",
+            "ru": "/ɔː/ — долгое «о»."
+          },
+          "id": "a1-u10-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Сік, будь ласка.",
+            "ru": "Сок, пожалуйста."
+          },
+          "answer": "Juice, please.",
+          "accept": [
+            "A juice, please.",
+            "Some juice, please."
+          ],
+          "explain": {
+            "ua": "Please — в кінці.",
+            "ru": "Please — в конце."
+          },
+          "id": "a1-u10-l02-e09"
+        }
+      ],
+      "words": [
+        "potato",
+        "vegetables",
+        "fruit",
+        "apple",
+        "banana",
+        "water",
+        "coffee",
+        "tea",
+        "juice"
+      ]
+    },
+    {
+      "id": "a1-u10-l03",
+      "title": {
+        "en": "Meals",
+        "ua": "Прийоми їжі",
+        "ru": "Приёмы пищи"
+      },
+      "recap": {
+        "from": "a1-u10-l02",
+        "note": {
+          "ua": "Згадаймо: Фрукти, овочі, напої",
+          "ru": "Вспомним: Фрукты, овощи, напитки"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "A banana is a ___.",
+            "options": [
+              "fruit",
+              "vegetable",
+              "drink"
+            ],
+            "answer": "fruit",
+            "explain": {
+              "ua": "Banana — фрукт.",
+              "ru": "Banana — фрукт."
+            },
+            "id": "a1-u10-l03-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A long yellow fruit.",
+            "answer": "banana",
+            "accept": [
+              "a banana"
+            ],
+            "explain": {
+              "ua": "Banana.",
+              "ru": "Banana."
+            },
+            "id": "a1-u10-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "breakfast",
+              "right": {
+                "ua": "сніданок",
+                "ru": "завтрак"
+              }
+            },
+            {
+              "left": "lunch",
+              "right": {
+                "ua": "обід",
+                "ru": "обед"
+              }
+            },
+            {
+              "left": "dinner",
+              "right": {
+                "ua": "вечеря",
+                "ru": "ужин"
+              }
+            },
+            {
+              "left": "have breakfast",
+              "right": {
+                "ua": "снідати",
+                "ru": "завтракать"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u10-l03-e01"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The first meal of the day.",
+          "answer": "breakfast",
+          "accept": [],
+          "explain": {
+            "ua": "Breakfast — сніданок.",
+            "ru": "Breakfast — завтрак."
+          },
+          "id": "a1-u10-l03-e02"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The meal in the middle of the day.",
+          "answer": "lunch",
+          "accept": [],
+          "explain": {
+            "ua": "Lunch — обід.",
+            "ru": "Lunch — обед."
+          },
+          "id": "a1-u10-l03-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The main meal in the evening.",
+          "answer": "dinner",
+          "accept": [],
+          "explain": {
+            "ua": "Dinner — вечеря.",
+            "ru": "Dinner — ужин."
+          },
+          "id": "a1-u10-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I have ___ at 8 in the morning.",
+          "options": [
+            "breakfast",
+            "dinner",
+            "lunch"
+          ],
+          "answer": "breakfast",
+          "explain": {
+            "ua": "Зранку — breakfast.",
+            "ru": "Утром — breakfast."
+          },
+          "id": "a1-u10-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "We ___ dinner at 7.",
+          "options": [
+            "have",
+            "eat at",
+            "make at"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Have breakfast / lunch / dinner — без артикля.",
+            "ru": "Have breakfast / lunch / dinner — без артикля."
+          },
+          "id": "a1-u10-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-zero",
+          "sentence": "I have a breakfast at 8.",
+          "answer": "I have breakfast at 8.",
+          "accept": [],
+          "explain": {
+            "ua": "Have breakfast — без a.",
+            "ru": "Have breakfast — без a."
+          },
+          "id": "a1-u10-l03-e07"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "ready",
+            "Dinner",
+            "is"
+          ],
+          "answer": "Dinner is ready",
+          "explain": {
+            "ua": "Dinner → is → ready.",
+            "ru": "Dinner → is → ready."
+          },
+          "id": "a1-u10-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я снідаю о восьмій.",
+            "ru": "Я завтракаю в восемь."
+          },
+          "answer": "I have breakfast at 8.",
+          "accept": [
+            "I have breakfast at eight.",
+            "I eat breakfast at 8."
+          ],
+          "explain": {
+            "ua": "Снідати — have breakfast.",
+            "ru": "Завтракать — have breakfast."
+          },
+          "id": "a1-u10-l03-e09"
+        }
+      ],
+      "words": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "a1-u10-l04",
+      "title": {
+        "en": "In context: in a café",
+        "ua": "У контексті: у кафе",
+        "ru": "В контексте: в кафе"
+      },
+      "recap": {
+        "from": "a1-u10-l03",
+        "note": {
+          "ua": "Згадаймо: Прийоми їжі",
+          "ru": "Вспомним: Приёмы пищи"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "The first meal of the day.",
+            "answer": "breakfast",
+            "accept": [],
+            "explain": {
+              "ua": "Breakfast — сніданок.",
+              "ru": "Breakfast — завтрак."
+            },
+            "id": "a1-u10-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I have ___ at 8 in the morning.",
+            "options": [
+              "breakfast",
+              "dinner",
+              "lunch"
+            ],
+            "answer": "breakfast",
+            "explain": {
+              "ua": "Зранку — breakfast.",
+              "ru": "Утром — breakfast."
+            },
+            "id": "a1-u10-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What does Nick want for breakfast?",
+              "options": [
+                "eggs and bread",
+                "fish and rice",
+                "chicken"
+              ],
+              "answer": "eggs and bread"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Nick wants coffee with milk.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ola wants meat.",
+              "answer": false
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Waiter",
+              "line": "Good morning! What would you like?"
+            },
+            {
+              "speaker": "Nick",
+              "line": "Two eggs and bread, please. And a coffee with milk."
+            },
+            {
+              "speaker": "Waiter",
+              "line": "And for you?"
+            },
+            {
+              "speaker": "Ola",
+              "line": "I don't eat meat or eggs. Fruit, please. And orange juice."
+            },
+            {
+              "speaker": "Waiter",
+              "line": "OK. Two eggs, bread, coffee, fruit and juice."
+            }
+          ],
+          "explain": {
+            "ua": "Nick — eggs, bread, coffee with milk. Ola — fruit and juice.",
+            "ru": "Nick — eggs, bread, coffee with milk. Ola — fruit and juice."
+          },
+          "id": "a1-u10-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "eggs",
+            "coffee",
+            "fruit",
+            "juice"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Nick wants two ___.",
+            "He wants a ___ with milk.",
+            "Ola wants ___.",
+            "She wants orange ___."
+          ],
+          "answers": [
+            "eggs",
+            "coffee",
+            "fruit",
+            "juice"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "a1-u10-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "What would you like?",
+              "right": {
+                "ua": "Що бажаєте?",
+                "ru": "Что желаете?"
+              }
+            },
+            {
+              "left": "…, please.",
+              "right": {
+                "ua": "…, будь ласка.",
+                "ru": "…, пожалуйста."
+              }
+            },
+            {
+              "left": "I don't eat meat.",
+              "right": {
+                "ua": "Я не їм м'ясо.",
+                "ru": "Я не ем мясо."
+              }
+            },
+            {
+              "left": "And for you?",
+              "right": {
+                "ua": "А для вас?",
+                "ru": "А для вас?"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази в кафе.",
+            "ru": "Фразы в кафе."
+          },
+          "id": "a1-u10-l04-e03"
+        },
+        {
+          "type": "fill",
+          "topic": "vocab",
+          "question": "Two eggs and bread, ___.",
+          "answer": "please",
+          "accept": [],
+          "explain": {
+            "ua": "Please — будь ласка.",
+            "ru": "Please — пожалуйста."
+          },
+          "id": "a1-u10-l04-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A hot drink. It's black or with milk. People drink it in the morning.",
+          "answer": "coffee",
+          "accept": [
+            "tea"
+          ],
+          "explain": {
+            "ua": "Coffee — кава.",
+            "ru": "Coffee — кофе."
+          },
+          "id": "a1-u10-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "A coffee with milk, please me.",
+          "answer": "A coffee with milk, please.",
+          "accept": [],
+          "explain": {
+            "ua": "Просто please, без me.",
+            "ru": "Просто please, без me."
+          },
+          "id": "a1-u10-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Orange juice, please.",
+          "options": [
+            "Orange juice, please.",
+            "Orange cheese, please.",
+            "Orange juice, police."
+          ],
+          "answer": "Orange juice, please.",
+          "audio": "",
+          "explain": {
+            "ua": "Juice — «джус».",
+            "ru": "Juice — «джус»."
+          },
+          "id": "a1-u10-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Каву з молоком, будь ласка.",
+            "ru": "Кофе с молоком, пожалуйста."
+          },
+          "answer": "A coffee with milk, please.",
+          "accept": [
+            "Coffee with milk, please."
+          ],
+          "explain": {
+            "ua": "A coffee with milk.",
+            "ru": "A coffee with milk."
+          },
+          "id": "a1-u10-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "a1-u10-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a1-u10-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: у кафе",
+          "ru": "Вспомним: В контексте: в кафе"
+        },
+        "exercises": [
+          {
+            "type": "fill",
+            "topic": "vocab",
+            "question": "Two eggs and bread, ___.",
+            "answer": "please",
+            "accept": [],
+            "explain": {
+              "ua": "Please — будь ласка.",
+              "ru": "Please — пожалуйста."
+            },
+            "id": "a1-u10-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "A coffee with milk, please me.",
+            "answer": "A coffee with milk, please.",
+            "accept": [],
+            "explain": {
+              "ua": "Просто please, без me.",
+              "ru": "Просто please, без me."
+            },
+            "id": "a1-u10-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "rice",
+              "right": {
+                "ua": "рис",
+                "ru": "рис"
+              }
+            },
+            {
+              "left": "chicken",
+              "right": {
+                "ua": "курка",
+                "ru": "курица"
+              }
+            },
+            {
+              "left": "vegetables",
+              "right": {
+                "ua": "овочі",
+                "ru": "овощи"
+              }
+            },
+            {
+              "left": "water",
+              "right": {
+                "ua": "вода",
+                "ru": "вода"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "a1-u10-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a fruit?",
+          "options": [
+            "potato",
+            "apple",
+            "banana"
+          ],
+          "answer": "potato",
+          "explain": {
+            "ua": "Potato — овоч.",
+            "ru": "Potato — овощ."
+          },
+          "id": "a1-u10-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is a drink?",
+          "options": [
+            "tea",
+            "rice",
+            "bread"
+          ],
+          "answer": "tea",
+          "explain": {
+            "ua": "Tea — напій.",
+            "ru": "Tea — напиток."
+          },
+          "id": "a1-u10-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A small round white food from Asia. People eat it with chicken or fish.",
+          "answer": "rice",
+          "accept": [],
+          "explain": {
+            "ua": "Rice — рис.",
+            "ru": "Rice — рис."
+          },
+          "id": "a1-u10-l05-e04"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "cow",
+          "answer": "milk",
+          "accept": [
+            "meat",
+            "cheese"
+          ],
+          "explain": {
+            "ua": "Корова → молоко.",
+            "ru": "Корова → молоко."
+          },
+          "id": "a1-u10-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "tree",
+          "answer": "apple",
+          "accept": [
+            "fruit",
+            "apples"
+          ],
+          "explain": {
+            "ua": "Дерево → яблуко.",
+            "ru": "Дерево → яблоко."
+          },
+          "id": "a1-u10-l05-e06"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "reuse": false,
+          "sentences": [
+            "At 8 am — ___.",
+            "At 1 pm — ___.",
+            "At 7 pm — ___."
+          ],
+          "answers": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "explain": {
+            "ua": "Ранок — обід — вечір.",
+            "ru": "Утро — обед — вечер."
+          },
+          "id": "a1-u10-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "articles-zero",
+          "sentence": "I want a bread.",
+          "answer": "I want bread.",
+          "accept": [
+            "I want some bread."
+          ],
+          "explain": {
+            "ua": "Bread — без a.",
+            "ru": "Bread — без a."
+          },
+          "id": "a1-u10-l05-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Fish and rice for dinner.",
+          "options": [
+            "Fish and rice for dinner.",
+            "Fish and rice for lunch.",
+            "Fish and ice for dinner."
+          ],
+          "answer": "Fish and rice for dinner.",
+          "audio": "",
+          "explain": {
+            "ua": "Rice — «райс».",
+            "ru": "Rice — «райс»."
+          },
+          "id": "a1-u10-l05-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Вечеря готова!",
+            "ru": "Ужин готов!"
+          },
+          "answer": "Dinner is ready!",
+          "accept": [],
+          "explain": {
+            "ua": "Dinner is ready.",
+            "ru": "Dinner is ready."
+          },
+          "id": "a1-u10-l05-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Cows give us ___.",
+      "options": [
+        "milk",
+        "eggs",
+        "juice"
+      ],
+      "answer": "milk",
+      "explain": {
+        "ua": "Milk.",
+        "ru": "Milk."
+      },
+      "id": "a1-u10-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "An apple is a ___.",
+      "options": [
+        "fruit",
+        "vegetable",
+        "drink"
+      ],
+      "answer": "fruit",
+      "explain": {
+        "ua": "Fruit.",
+        "ru": "Fruit."
+      },
+      "id": "a1-u10-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I have ___ at 1 pm.",
+      "options": [
+        "lunch",
+        "breakfast",
+        "dinner"
+      ],
+      "answer": "lunch",
+      "explain": {
+        "ua": "Обід — lunch.",
+        "ru": "Обед — lunch."
+      },
+      "id": "a1-u10-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "The first meal of the day.",
+      "answer": "breakfast",
+      "accept": [],
+      "explain": {
+        "ua": "Breakfast.",
+        "ru": "Breakfast."
+      },
+      "id": "a1-u10-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You need it for a sandwich.",
+      "answer": "bread",
+      "accept": [],
+      "explain": {
+        "ua": "Bread.",
+        "ru": "Bread."
+      },
+      "id": "a1-u10-cp05"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A hot drink from China or India. Black or green.",
+      "answer": "tea",
+      "accept": [],
+      "explain": {
+        "ua": "Tea.",
+        "ru": "Tea."
+      },
+      "id": "a1-u10-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "meat",
+          "right": {
+            "ua": "м'ясо",
+            "ru": "мясо"
+          }
+        },
+        {
+          "left": "fish",
+          "right": {
+            "ua": "риба",
+            "ru": "рыба"
+          }
+        },
+        {
+          "left": "juice",
+          "right": {
+            "ua": "сік",
+            "ru": "сок"
+          }
+        },
+        {
+          "left": "dinner",
+          "right": {
+            "ua": "вечеря",
+            "ru": "ужин"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "a1-u10-cp07"
+    },
+    {
+      "type": "wordbank",
+      "topic": "vocab",
+      "bank": [
+        "tea",
+        "eggs",
+        "rice"
+      ],
+      "reuse": false,
+      "sentences": [
+        "Chicken and ___.",
+        "Two ___ for breakfast.",
+        "Green ___."
+      ],
+      "answers": [
+        "rice",
+        "eggs",
+        "tea"
+      ],
+      "explain": {
+        "ua": "rice, eggs, tea.",
+        "ru": "rice, eggs, tea."
+      },
+      "id": "a1-u10-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We have a dinner at 7.",
+      "answer": "We have dinner at 7.",
+      "accept": [
+        "We have dinner at seven."
+      ],
+      "explain": {
+        "ua": "Have dinner — без a.",
+        "ru": "Have dinner — без a."
+      },
+      "id": "a1-u10-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "A",
+        "please",
+        "of",
+        "water",
+        "glass"
+      ],
+      "answer": "A glass of water please",
+      "explain": {
+        "ua": "A glass of water → please.",
+        "ru": "A glass of water → please."
+      },
+      "id": "a1-u10-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Я не їм м'ясо.",
+        "ru": "Я не ем мясо."
+      },
+      "answer": "I don't eat meat.",
+      "accept": [
+        "I do not eat meat."
+      ],
+      "explain": {
+        "ua": "I don't eat meat.",
+        "ru": "I don't eat meat."
+      },
+      "id": "a1-u10-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "Bread and cheese, please.",
+      "options": [
+        "Bread and cheese, please.",
+        "Bread and peas, please.",
+        "Bed and cheese, please."
+      ],
+      "answer": "Bread and cheese, please.",
+      "audio": "",
+      "explain": {
+        "ua": "Cheese — «чіз».",
+        "ru": "Cheese — «чиз»."
+      },
+      "id": "a1-u10-cp12"
+    }
+  ]
+}

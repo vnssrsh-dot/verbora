@@ -1,0 +1,1023 @@
+{
+  "id": "a1-u11",
+  "level": "A1",
+  "order": 11,
+  "kind": "grammar",
+  "title": {
+    "en": "There is / there are",
+    "ua": "There is / there are",
+    "ru": "There is / there are"
+  },
+  "rule": {
+    "formula": {
+      "ua": "There is + один · There are + багато",
+      "ru": "There is + один · There are + много"
+    },
+    "explain": {
+      "ua": "There is / there are — «є, знаходиться». Так кажемо, що щось десь є: There is a café near my house.",
+      "ru": "There is / there are — «есть, находится». Так говорим, что что-то где-то есть: There is a café near my house."
+    },
+    "examples": [
+      {
+        "en": "There is a park near my house.",
+        "ua": "Біля мого будинку є парк.",
+        "ru": "Возле моего дома есть парк."
+      },
+      {
+        "en": "There are two beds in the room.",
+        "ua": "У кімнаті два ліжка.",
+        "ru": "В комнате две кровати."
+      },
+      {
+        "en": "Is there a bank here?",
+        "ua": "Тут є банк?",
+        "ru": "Здесь есть банк?"
+      }
+    ],
+    "compare": {
+      "ua": "Українською кажемо з кінця: «У кімнаті є стіл». Англійською починаємо з there is: There is a table in the room.",
+      "ru": "По-русски говорим с конца: «В комнате есть стол». По-английски начинаем с there is: There is a table in the room."
+    }
+  },
+  "vocab": [
+    {
+      "word": "park",
+      "ipa": "/pɑːk/",
+      "ua": "парк",
+      "ru": "парк",
+      "example": "There is a park near here.",
+      "audio": ""
+    },
+    {
+      "word": "shop",
+      "ipa": "/ʃɒp/",
+      "ua": "магазин",
+      "ru": "магазин",
+      "example": "There are two shops.",
+      "audio": ""
+    },
+    {
+      "word": "café",
+      "ipa": "/ˈkæfeɪ/",
+      "ua": "кафе",
+      "ru": "кафе",
+      "example": "There is a nice café here.",
+      "audio": ""
+    },
+    {
+      "word": "bank",
+      "ipa": "/bæŋk/",
+      "ua": "банк",
+      "ru": "банк",
+      "example": "Is there a bank near here?",
+      "audio": ""
+    },
+    {
+      "word": "school",
+      "ipa": "/skuːl/",
+      "ua": "школа",
+      "ru": "школа",
+      "example": "There is a school in my street.",
+      "audio": ""
+    },
+    {
+      "word": "street",
+      "ipa": "/striːt/",
+      "ua": "вулиця",
+      "ru": "улица",
+      "example": "My street is quiet.",
+      "audio": ""
+    },
+    {
+      "word": "room",
+      "ipa": "/ruːm/",
+      "ua": "кімната",
+      "ru": "комната",
+      "example": "There are three rooms.",
+      "audio": ""
+    },
+    {
+      "word": "bed",
+      "ipa": "/bed/",
+      "ua": "ліжко",
+      "ru": "кровать",
+      "example": "There is a big bed.",
+      "audio": ""
+    },
+    {
+      "word": "chair",
+      "ipa": "/tʃeə/",
+      "ua": "стілець",
+      "ru": "стул",
+      "example": "There are four chairs.",
+      "audio": ""
+    },
+    {
+      "word": "near",
+      "ipa": "/nɪə/",
+      "ua": "біля, поблизу",
+      "ru": "рядом, недалеко",
+      "example": "There is a bus stop near my house.",
+      "audio": ""
+    },
+    {
+      "word": "in",
+      "ipa": "/ɪn/",
+      "ua": "в, у",
+      "ru": "в",
+      "example": "There is a cat in the room.",
+      "audio": ""
+    },
+    {
+      "word": "on",
+      "ipa": "/ɒn/",
+      "ua": "на",
+      "ru": "на",
+      "example": "There are books on the table.",
+      "audio": ""
+    },
+    {
+      "word": "any",
+      "ipa": "/ˈeni/",
+      "ua": "якісь (у питаннях і запереченнях)",
+      "ru": "какие-нибудь (в вопросах и отрицаниях)",
+      "example": "Are there any shops?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-u11-l01",
+      "title": {
+        "en": "There is, there are",
+        "ua": "There is, there are",
+        "ru": "There is, there are"
+      },
+      "recap": {
+        "from": "a1-u10-l03",
+        "note": {
+          "ua": "Згадаймо: Прийоми їжі",
+          "ru": "Вспомним: Приёмы пищи"
+        },
+        "exercises": [
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "The first meal of the day.",
+            "answer": "breakfast",
+            "accept": [],
+            "explain": {
+              "ua": "Breakfast — сніданок.",
+              "ru": "Breakfast — завтрак."
+            },
+            "id": "a1-u11-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I have ___ at 8 in the morning.",
+            "options": [
+              "breakfast",
+              "dinner",
+              "lunch"
+            ],
+            "answer": "breakfast",
+            "explain": {
+              "ua": "Зранку — breakfast.",
+              "ru": "Утром — breakfast."
+            },
+            "id": "a1-u11-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "There is a… · There are two… / some…",
+        "explain": {
+          "ua": "Одна річ — there is (скорочено there's). Дві й більше — there are. Після there is — a / an.",
+          "ru": "Один предмет — there is (сокращённо there's). Два и больше — there are. После there is — a / an."
+        },
+        "examples": [
+          {
+            "en": "There's a café in my street.",
+            "ua": "На моїй вулиці є кафе.",
+            "ru": "На моей улице есть кафе."
+          },
+          {
+            "en": "There are three rooms.",
+            "ua": "Є три кімнати.",
+            "ru": "Есть три комнаты."
+          },
+          {
+            "en": "There are some books on the table.",
+            "ua": "На столі є книжки.",
+            "ru": "На столе есть книги."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ a park near my house.",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Один парк → there is.",
+            "ru": "Один парк → there is."
+          },
+          "id": "a1-u11-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ two shops in my street.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Два магазини → there are.",
+            "ru": "Два магазина → there are."
+          },
+          "id": "a1-u11-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ a bed and a chair in the room.",
+          "options": [
+            "is",
+            "are",
+            "be"
+          ],
+          "answer": "is",
+          "explain": {
+            "ua": "Перше слово — одна річ (a bed) → is.",
+            "ru": "Первое слово — один предмет (a bed) → is."
+          },
+          "id": "a1-u11-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There are ___ chairs.",
+          "options": [
+            "four",
+            "a",
+            "an"
+          ],
+          "answer": "four",
+          "explain": {
+            "ua": "Are + множина.",
+            "ru": "Are + множественное."
+          },
+          "id": "a1-u11-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "there-is-are",
+          "bank": [
+            "is",
+            "are"
+          ],
+          "reuse": true,
+          "sentences": [
+            "There ___ a café.",
+            "There ___ some books.",
+            "There ___ an apple.",
+            "There ___ five people."
+          ],
+          "answers": [
+            "is",
+            "are",
+            "is",
+            "are"
+          ],
+          "explain": {
+            "ua": "Одне → is, багато → are.",
+            "ru": "Одно → is, много → are."
+          },
+          "id": "a1-u11-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "There is three rooms.",
+          "answer": "There are three rooms.",
+          "accept": [],
+          "explain": {
+            "ua": "Три → are.",
+            "ru": "Три → are."
+          },
+          "id": "a1-u11-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "In the room is a table.",
+          "answer": "There is a table in the room.",
+          "accept": [],
+          "explain": {
+            "ua": "Починаємо з there is.",
+            "ru": "Начинаем с there is."
+          },
+          "id": "a1-u11-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "there-is-are",
+          "words": [
+            "here",
+            "school",
+            "near",
+            "a",
+            "is",
+            "There"
+          ],
+          "answer": "There is a school near here",
+          "explain": {
+            "ua": "There is → a school → near here.",
+            "ru": "There is → a school → near here."
+          },
+          "id": "a1-u11-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "У кімнаті є ліжко.",
+            "ru": "В комнате есть кровать."
+          },
+          "answer": "There is a bed in the room.",
+          "accept": [
+            "There's a bed in the room."
+          ],
+          "explain": {
+            "ua": "There is + a bed + in the room.",
+            "ru": "There is + a bed + in the room."
+          },
+          "id": "a1-u11-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u11-l02",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "a1-u11-l01",
+        "note": {
+          "ua": "Згадаймо: There is a… · There are two… / some…",
+          "ru": "Вспомним: There is a… · There are two… / some…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "There ___ a park near my house.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "answer": "is",
+            "explain": {
+              "ua": "Один парк → there is.",
+              "ru": "Один парк → there is."
+            },
+            "id": "a1-u11-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "There are ___ chairs.",
+            "options": [
+              "four",
+              "a",
+              "an"
+            ],
+            "answer": "four",
+            "explain": {
+              "ua": "Are + множина.",
+              "ru": "Are + множественное."
+            },
+            "id": "a1-u11-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "There isn't a… · There aren't any… · Is there a…? · Are there any…?",
+        "explain": {
+          "ua": "Заперечення: there isn't / there aren't. Питання: is / are на початок. У множині в питаннях і запереченнях — any.",
+          "ru": "Отрицание: there isn't / there aren't. Вопрос: is / are в начало. Во множественном в вопросах и отрицаниях — any."
+        },
+        "examples": [
+          {
+            "en": "There isn't a bank here.",
+            "ua": "Тут немає банку.",
+            "ru": "Здесь нет банка."
+          },
+          {
+            "en": "There aren't any shops.",
+            "ua": "Немає магазинів.",
+            "ru": "Нет магазинов."
+          },
+          {
+            "en": "Is there a café near here? — Yes, there is.",
+            "ua": "Тут поруч є кафе? — Так.",
+            "ru": "Тут рядом есть кафе? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "___ there a bank near here?",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "Один банк → Is there…?",
+            "ru": "Один банк → Is there…?"
+          },
+          "id": "a1-u11-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "___ there any shops?",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "answer": "Are",
+          "explain": {
+            "ua": "Shops → Are there…?",
+            "ru": "Shops → Are there…?"
+          },
+          "id": "a1-u11-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ any chairs in the room.",
+          "options": [
+            "aren't",
+            "isn't",
+            "not"
+          ],
+          "answer": "aren't",
+          "explain": {
+            "ua": "Множина → aren't any.",
+            "ru": "Множественное → aren't any."
+          },
+          "id": "a1-u11-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "Is there a park? — No, there ___.",
+          "options": [
+            "isn't",
+            "aren't",
+            "is"
+          ],
+          "answer": "isn't",
+          "explain": {
+            "ua": "No, there isn't.",
+            "ru": "No, there isn't."
+          },
+          "id": "a1-u11-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "Are there any cafés? — Yes, there ___.",
+          "options": [
+            "are",
+            "is",
+            "aren't"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Yes, there are.",
+            "ru": "Yes, there are."
+          },
+          "id": "a1-u11-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "there-is-are",
+          "question": "There ___ a school in my street.",
+          "answer": "isn't",
+          "accept": [
+            "is not",
+            "'s no",
+            "is no"
+          ],
+          "explain": {
+            "ua": "Заперечення → isn't.",
+            "ru": "Отрицание → isn't."
+          },
+          "id": "a1-u11-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "There aren't some books.",
+          "answer": "There aren't any books.",
+          "accept": [],
+          "explain": {
+            "ua": "У запереченні — any.",
+            "ru": "В отрицании — any."
+          },
+          "id": "a1-u11-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "there-is-are",
+          "audio_text": "Is there a café near here?",
+          "options": [
+            "Is there a café near here?",
+            "There is a café near here.",
+            "Is there a car near here?"
+          ],
+          "answer": "Is there a café near here?",
+          "audio": "",
+          "explain": {
+            "ua": "Is на початку — питання.",
+            "ru": "Is в начале — вопрос."
+          },
+          "id": "a1-u11-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "Тут поруч є банк?",
+            "ru": "Здесь рядом есть банк?"
+          },
+          "answer": "Is there a bank near here?",
+          "accept": [],
+          "explain": {
+            "ua": "Is there…?",
+            "ru": "Is there…?"
+          },
+          "id": "a1-u11-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a1-u11-l03",
+      "title": {
+        "en": "Practice: my street",
+        "ua": "Практика: моя вулиця",
+        "ru": "Практика: моя улица"
+      },
+      "recap": {
+        "from": "a1-u11-l02",
+        "note": {
+          "ua": "Згадаймо: There isn't a… · There aren't any… · Is there a…? · Are there any…?",
+          "ru": "Вспомним: There isn't a… · There aren't any… · Is there a…? · Are there any…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "___ there a bank near here?",
+            "options": [
+              "Is",
+              "Are",
+              "Am"
+            ],
+            "answer": "Is",
+            "explain": {
+              "ua": "Один банк → Is there…?",
+              "ru": "Один банк → Is there…?"
+            },
+            "id": "a1-u11-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "there-is-are",
+            "question": "Are there any cafés? — Yes, there ___.",
+            "options": [
+              "are",
+              "is",
+              "aren't"
+            ],
+            "answer": "are",
+            "explain": {
+              "ua": "Yes, there are.",
+              "ru": "Yes, there are."
+            },
+            "id": "a1-u11-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "There is a school in Ira's street.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "There are two cafés.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What isn't in her street?",
+              "options": [
+                "a bank",
+                "a park",
+                "a shop"
+              ],
+              "answer": "a bank"
+            }
+          ],
+          "text": "I live in a small street. There is a school and a park. There is one café and there are two shops. There isn't a bank, but there's a bank in the next street. There are a lot of trees. I love my street!",
+          "explain": {
+            "ua": "School — yes, one café, no bank.",
+            "ru": "School — yes, one café, no bank."
+          },
+          "id": "a1-u11-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "There ___ a lot of trees in the park.",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "answer": "are",
+          "explain": {
+            "ua": "Trees → are.",
+            "ru": "Trees → are."
+          },
+          "id": "a1-u11-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "there-is-are",
+          "question": "___ there a shop near your house?",
+          "options": [
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "answer": "Is",
+          "explain": {
+            "ua": "Is there…?",
+            "ru": "Is there…?"
+          },
+          "id": "a1-u11-l03-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "there-is-are",
+          "bank": [
+            "is",
+            "are",
+            "isn't",
+            "aren't"
+          ],
+          "reuse": true,
+          "sentences": [
+            "There ___ a park.",
+            "There ___ any banks.",
+            "There ___ two shops.",
+            "There ___ a cinema."
+          ],
+          "answers": [
+            "is",
+            "aren't",
+            "are",
+            "isn't"
+          ],
+          "explain": {
+            "ua": "Перевір: одне чи багато, так чи ні.",
+            "ru": "Проверь: одно или много, да или нет."
+          },
+          "id": "a1-u11-l03-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "Are there a café here?",
+          "answer": "Is there a café here?",
+          "accept": [],
+          "explain": {
+            "ua": "A café — одне → Is there.",
+            "ru": "A café — одно → Is there."
+          },
+          "id": "a1-u11-l03-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "there-is-are",
+          "sentence": "Have a park near my house.",
+          "answer": "There is a park near my house.",
+          "accept": [
+            "There's a park near my house."
+          ],
+          "explain": {
+            "ua": "«Є» про місце — there is, не have.",
+            "ru": "«Есть» о месте — there is, не have."
+          },
+          "id": "a1-u11-l03-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "my",
+            "shops",
+            "are",
+            "There",
+            "in",
+            "street",
+            "two"
+          ],
+          "answer": "There are two shops in my street",
+          "explain": {
+            "ua": "There are → two shops → in my street.",
+            "ru": "There are → two shops → in my street."
+          },
+          "id": "a1-u11-l03-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "there-is-are",
+          "audio_text": "There aren't any cafés here.",
+          "options": [
+            "There aren't any cafés here.",
+            "There are any cafés here.",
+            "There isn't a café here."
+          ],
+          "answer": "There aren't any cafés here.",
+          "audio": "",
+          "explain": {
+            "ua": "Aren't any — немає жодних.",
+            "ru": "Aren't any — нет никаких."
+          },
+          "id": "a1-u11-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "На столі є книжки.",
+            "ru": "На столе есть книги."
+          },
+          "answer": "There are books on the table.",
+          "accept": [
+            "There are some books on the table."
+          ],
+          "explain": {
+            "ua": "Книжки — множина → there are.",
+            "ru": "Книги — множественное → there are."
+          },
+          "id": "a1-u11-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "there-is-are",
+          "prompt": {
+            "ua": "Тут немає парку.",
+            "ru": "Здесь нет парка."
+          },
+          "answer": "There isn't a park here.",
+          "accept": [
+            "There is no park here.",
+            "There's no park here."
+          ],
+          "explain": {
+            "ua": "There isn't a…",
+            "ru": "There isn't a…"
+          },
+          "id": "a1-u11-l03-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "there-is-are",
+      "question": "There ___ a cat in the room.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "Один кіт → is.",
+        "ru": "Один кот → is."
+      },
+      "id": "a1-u11-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "there-is-are",
+      "question": "There ___ three chairs.",
+      "options": [
+        "are",
+        "is",
+        "be"
+      ],
+      "answer": "are",
+      "explain": {
+        "ua": "Три → are.",
+        "ru": "Три → are."
+      },
+      "id": "a1-u11-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "there-is-are",
+      "question": "___ there any shops near here?",
+      "options": [
+        "Are",
+        "Is",
+        "Do"
+      ],
+      "answer": "Are",
+      "explain": {
+        "ua": "Shops → Are there…?",
+        "ru": "Shops → Are there…?"
+      },
+      "id": "a1-u11-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "there-is-are",
+      "question": "Is there a bank? — Yes, there ___.",
+      "options": [
+        "is",
+        "are",
+        "isn't"
+      ],
+      "answer": "is",
+      "explain": {
+        "ua": "Yes, there is.",
+        "ru": "Yes, there is."
+      },
+      "id": "a1-u11-cp04"
+    },
+    {
+      "type": "fill",
+      "topic": "there-is-are",
+      "question": "There ___ any cafés in my street.",
+      "answer": "aren't",
+      "accept": [
+        "are not",
+        "are no"
+      ],
+      "explain": {
+        "ua": "Множина + заперечення → aren't.",
+        "ru": "Множественное + отрицание → aren't."
+      },
+      "id": "a1-u11-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "there-is-are",
+      "question": "There ___ an apple on the table.",
+      "answer": "is",
+      "accept": [
+        "'s"
+      ],
+      "explain": {
+        "ua": "An apple → is.",
+        "ru": "An apple → is."
+      },
+      "id": "a1-u11-cp06"
+    },
+    {
+      "type": "wordbank",
+      "topic": "there-is-are",
+      "bank": [
+        "is",
+        "are"
+      ],
+      "reuse": true,
+      "sentences": [
+        "There ___ a school.",
+        "There ___ two parks.",
+        "There ___ some people."
+      ],
+      "answers": [
+        "is",
+        "are",
+        "are"
+      ],
+      "explain": {
+        "ua": "Одне → is, багато → are.",
+        "ru": "Одно → is, много → are."
+      },
+      "id": "a1-u11-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "there-is-are",
+      "sentence": "There is two beds.",
+      "answer": "There are two beds.",
+      "accept": [],
+      "explain": {
+        "ua": "Two → are.",
+        "ru": "Two → are."
+      },
+      "id": "a1-u11-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "there-is-are",
+      "sentence": "There aren't some chairs.",
+      "answer": "There aren't any chairs.",
+      "accept": [],
+      "explain": {
+        "ua": "Заперечення → any.",
+        "ru": "Отрицание → any."
+      },
+      "id": "a1-u11-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "near",
+        "here",
+        "there",
+        "a",
+        "Is",
+        "café"
+      ],
+      "answer": "Is there a café near here",
+      "explain": {
+        "ua": "Is there → a café → near here?",
+        "ru": "Is there → a café → near here?"
+      },
+      "id": "a1-u11-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "there-is-are",
+      "prompt": {
+        "ua": "У моїй вулиці є школа.",
+        "ru": "На моей улице есть школа."
+      },
+      "answer": "There is a school in my street.",
+      "accept": [
+        "There's a school in my street.",
+        "There is a school on my street."
+      ],
+      "explain": {
+        "ua": "There is…",
+        "ru": "There is…"
+      },
+      "id": "a1-u11-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "there-is-are",
+      "audio_text": "There are some books on the table.",
+      "options": [
+        "There are some books on the table.",
+        "There is a book on the table.",
+        "There are some boots on the table."
+      ],
+      "answer": "There are some books on the table.",
+      "audio": "",
+      "explain": {
+        "ua": "Books — книжки.",
+        "ru": "Books — книги."
+      },
+      "id": "a1-u11-cp12"
+    }
+  ]
+}

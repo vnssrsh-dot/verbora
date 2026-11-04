@@ -1,0 +1,991 @@
+{
+  "id": "b2-u06",
+  "level": "B2",
+  "order": 6,
+  "kind": "grammar",
+  "title": {
+    "en": "Mixed conditionals",
+    "ua": "Змішані умовні речення",
+    "ru": "Смешанные условные"
+  },
+  "rule": {
+    "formula": {
+      "ua": "минуле → теперішнє: If + had V3, would + дієслово · теперішнє → минуле: If + Past, would have V3",
+      "ru": "прошлое → настоящее: If + had V3, would + глагол · настоящее → прошлое: If + Past, would have V3"
+    },
+    "explain": {
+      "ua": "Іноді умова й результат у різних часах. Минула подія впливає на зараз: If I had taken the job, I would be rich now. Постійна риса впливала на минуле: If I weren't so shy, I would have spoken to her.",
+      "ru": "Иногда условие и результат в разных временах. Прошлое событие влияет на сейчас: If I had taken the job, I would be rich now. Постоянная черта влияла на прошлое: If I weren't so shy, I would have spoken to her."
+    },
+    "examples": [
+      {
+        "en": "If I had studied medicine, I would be a doctor now.",
+        "ua": "Якби я вивчав медицину, я б зараз був лікарем.",
+        "ru": "Если бы я учился на медика, я бы сейчас был врачом."
+      },
+      {
+        "en": "If she weren't so busy, she would have come yesterday.",
+        "ua": "Якби вона не була така зайнята, вона б прийшла вчора.",
+        "ru": "Если бы она не была так занята, она бы пришла вчера."
+      },
+      {
+        "en": "If we hadn't moved, we wouldn't know each other.",
+        "ua": "Якби ми не переїхали, ми б не були знайомі.",
+        "ru": "Если бы мы не переехали, мы бы не были знакомы."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "now",
+      "ipa": "/naʊ/",
+      "ua": "зараз",
+      "ru": "сейчас",
+      "example": "I would be rich now.",
+      "audio": ""
+    },
+    {
+      "word": "still",
+      "ipa": "/stɪl/",
+      "ua": "досі",
+      "ru": "всё ещё",
+      "example": "We'd still be friends.",
+      "audio": ""
+    },
+    {
+      "word": "shy",
+      "ipa": "/ʃaɪ/",
+      "ua": "сором'язливий",
+      "ru": "застенчивый",
+      "example": "If I weren't so shy…",
+      "audio": ""
+    },
+    {
+      "word": "afraid of",
+      "ipa": "/əˈfreɪd əv/",
+      "ua": "боїться",
+      "ru": "боится",
+      "example": "If he weren't afraid of flying…",
+      "audio": ""
+    },
+    {
+      "word": "take the job",
+      "ipa": "/ˌteɪk ðə ˈdʒɒb/",
+      "ua": "погодитися на роботу",
+      "ru": "согласиться на работу",
+      "example": "If I'd taken the job…",
+      "audio": ""
+    },
+    {
+      "word": "abroad",
+      "ipa": "/əˈbrɔːd/",
+      "ua": "за кордоном",
+      "ru": "за границей",
+      "example": "I'd be living abroad.",
+      "audio": ""
+    },
+    {
+      "word": "fluent",
+      "ipa": "/ˈfluːənt/",
+      "ua": "вільний (про мову)",
+      "ru": "свободный (о языке)",
+      "example": "I'd be fluent in English.",
+      "audio": ""
+    },
+    {
+      "word": "decision",
+      "ipa": "/dɪˈsɪʒn/",
+      "ua": "рішення",
+      "ru": "решение",
+      "example": "a big decision",
+      "audio": ""
+    },
+    {
+      "word": "different",
+      "ipa": "/ˈdɪfrənt/",
+      "ua": "інший",
+      "ru": "другой",
+      "example": "My life would be different.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b2-u06-l01",
+      "title": {
+        "en": "Past → present",
+        "ua": "Минуле → теперішнє",
+        "ru": "Прошлое → настоящее"
+      },
+      "recap": {
+        "from": "b2-u05-l02",
+        "note": {
+          "ua": "Згадаймо: If only / I wish + had V3 · could have / might have — інші можливості в минулому",
+          "ru": "Вспомним: If only / I wish + had V3 · could have / might have — другие возможности в прошлом"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "third-conditional-regret",
+            "question": "If you ___ me, I wouldn't have made this mistake!",
+            "options": [
+              "had warned",
+              "warned",
+              "would warn"
+            ],
+            "answer": "had warned",
+            "explain": {
+              "ua": "Had warned.",
+              "ru": "Had warned."
+            },
+            "id": "b2-u06-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "third-conditional-regret",
+            "question": "If we ___ booked earlier, we'd have got cheaper tickets.",
+            "options": [
+              "had",
+              "have",
+              "would"
+            ],
+            "answer": "had",
+            "explain": {
+              "ua": "Had booked.",
+              "ru": "Had booked."
+            },
+            "id": "b2-u06-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If + had V3 (минуле), would + дієслово (зараз)",
+          "ru": "If + had V3 (прошлое), would + глагол (сейчас)"
+        },
+        "explain": {
+          "ua": "Минула подія — і наслідок, який ми бачимо зараз. Слово now часто підказує: If I hadn't missed the flight, I would be in Rome now.",
+          "ru": "Прошлое событие — и последствие, которое мы видим сейчас. Слово now часто подсказывает: If I hadn't missed the flight, I would be in Rome now."
+        },
+        "examples": [
+          {
+            "en": "If I'd gone to bed earlier, I wouldn't be so tired now.",
+            "ua": "Якби я ліг раніше, я б зараз не був такий втомлений.",
+            "ru": "Если бы я лёг раньше, я бы сейчас не был таким уставшим."
+          },
+          {
+            "en": "If she had accepted the offer, she would live in London now.",
+            "ua": "Якби вона прийняла пропозицію, вона б зараз жила в Лондоні.",
+            "ru": "Если бы она приняла предложение, она бы сейчас жила в Лондоне."
+          },
+          {
+            "en": "If we hadn't met, my life would be very different.",
+            "ua": "Якби ми не зустрілися, моє життя було б зовсім іншим.",
+            "ru": "Если бы мы не встретились, моя жизнь была бы совсем другой."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If I had taken that job, I ___ in Paris now.",
+          "options": [
+            "would live",
+            "would have lived",
+            "lived"
+          ],
+          "answer": "would live",
+          "explain": {
+            "ua": "Зараз → would + дієслово.",
+            "ru": "Сейчас → would + глагол."
+          },
+          "id": "b2-u06-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If you ___ breakfast, you wouldn't be hungry now.",
+          "options": [
+            "had eaten",
+            "ate",
+            "would eat"
+          ],
+          "answer": "had eaten",
+          "explain": {
+            "ua": "Минуле → had V3.",
+            "ru": "Прошлое → had V3."
+          },
+          "id": "b2-u06-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If I'd learned English as a child, I ___ fluent now.",
+          "options": [
+            "would be",
+            "would have been",
+            "am"
+          ],
+          "answer": "would be",
+          "explain": {
+            "ua": "Now → would be.",
+            "ru": "Now → would be."
+          },
+          "id": "b2-u06-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "We wouldn't be lost if you ___ the map!",
+          "options": [
+            "had brought",
+            "brought",
+            "would bring"
+          ],
+          "answer": "had brought",
+          "explain": {
+            "ua": "Had brought.",
+            "ru": "Had brought."
+          },
+          "id": "b2-u06-l01-e04"
+        },
+        {
+          "type": "fill",
+          "topic": "mixed-conditionals",
+          "question": "If she hadn't missed the train, she ___ be here now.",
+          "answer": "would",
+          "accept": [
+            "'d"
+          ],
+          "explain": {
+            "ua": "Would be.",
+            "ru": "Would be."
+          },
+          "id": "b2-u06-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "mixed-conditionals",
+          "sentence": "If I had saved money, I would have a car now have.",
+          "answer": "If I had saved money, I would have a car now.",
+          "accept": [
+            "If I'd saved money, I'd have a car now."
+          ],
+          "explain": {
+            "ua": "Would + have (мати).",
+            "ru": "Would + have (иметь)."
+          },
+          "id": "b2-u06-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "mixed-conditionals",
+          "sentence": "If I hadn't broken my leg, I would have played tomorrow.",
+          "answer": "If I hadn't broken my leg, I would play tomorrow.",
+          "accept": [
+            "If I hadn't broken my leg, I'd play tomorrow.",
+            "If I hadn't broken my leg, I would be playing tomorrow."
+          ],
+          "explain": {
+            "ua": "Майбутнє / зараз → would + дієслово.",
+            "ru": "Будущее / сейчас → would + глагол."
+          },
+          "id": "b2-u06-l01-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "mixed-conditionals",
+          "audio_text": "If we hadn't moved, we wouldn't know each other.",
+          "options": [
+            "If we hadn't moved, we wouldn't know each other.",
+            "If we didn't move, we wouldn't know each other.",
+            "If we hadn't moved, we won't know each other."
+          ],
+          "answer": "If we hadn't moved, we wouldn't know each other.",
+          "audio": "",
+          "explain": {
+            "ua": "Mixed.",
+            "ru": "Mixed."
+          },
+          "id": "b2-u06-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "mixed-conditionals",
+          "prompt": {
+            "ua": "Якби я вивчила японську, я б зараз жила в Токіо.",
+            "ru": "Если бы я выучила японский, я бы сейчас жила в Токио."
+          },
+          "answer": "If I had learned Japanese, I would live in Tokyo now.",
+          "accept": [
+            "If I'd learned Japanese, I'd live in Tokyo now.",
+            "If I had learned Japanese, I would be living in Tokyo now.",
+            "If I had learnt Japanese, I would live in Tokyo now."
+          ],
+          "explain": {
+            "ua": "Mixed.",
+            "ru": "Mixed."
+          },
+          "id": "b2-u06-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u06-l02",
+      "title": {
+        "en": "Present → past",
+        "ua": "Теперішнє → минуле",
+        "ru": "Настоящее → прошлое"
+      },
+      "recap": {
+        "from": "b2-u06-l01",
+        "note": {
+          "ua": "Згадаймо: If + had V3 (минуле), would + дієслово (зараз)",
+          "ru": "Вспомним: If + had V3 (прошлое), would + глагол (сейчас)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "mixed-conditionals",
+            "question": "If I had taken that job, I ___ in Paris now.",
+            "options": [
+              "would live",
+              "would have lived",
+              "lived"
+            ],
+            "answer": "would live",
+            "explain": {
+              "ua": "Зараз → would + дієслово.",
+              "ru": "Сейчас → would + глагол."
+            },
+            "id": "b2-u06-l02-r01"
+          },
+          {
+            "type": "fill",
+            "topic": "mixed-conditionals",
+            "question": "If she hadn't missed the train, she ___ be here now.",
+            "answer": "would",
+            "accept": [
+              "'d"
+            ],
+            "explain": {
+              "ua": "Would be.",
+              "ru": "Would be."
+            },
+            "id": "b2-u06-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "If + Past (постійна риса / факт), would have V3 (у минулому)",
+          "ru": "If + Past (постоянная черта / факт), would have V3 (в прошлом)"
+        },
+        "explain": {
+          "ua": "Постійна ситуація пояснює минулу подію: If I weren't afraid of flying, I would have gone to Japan last year. If he spoke English, he would have got the job.",
+          "ru": "Постоянная ситуация объясняет прошлое событие: If I weren't afraid of flying, I would have gone to Japan last year. If he spoke English, he would have got the job."
+        },
+        "examples": [
+          {
+            "en": "If I weren't so shy, I would have asked her out.",
+            "ua": "Якби я не був таким сором'язливим, я б запросив її на побачення.",
+            "ru": "Если бы я не был таким застенчивым, я бы пригласил её на свидание."
+          },
+          {
+            "en": "If he were more careful, he wouldn't have lost his wallet.",
+            "ua": "Якби він був уважнішим, він би не загубив гаманець.",
+            "ru": "Если бы он был внимательнее, он бы не потерял кошелёк."
+          },
+          {
+            "en": "If I didn't love you, I wouldn't have come.",
+            "ua": "Якби я тебе не любив, я б не приїхав.",
+            "ru": "Если бы я тебя не любил, я бы не приехал."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If I ___ afraid of flying, I would have visited you last summer.",
+          "options": [
+            "weren't",
+            "hadn't been",
+            "wouldn't be"
+          ],
+          "answer": "weren't",
+          "explain": {
+            "ua": "Постійна риса → Past.",
+            "ru": "Постоянная черта → Past."
+          },
+          "id": "b2-u06-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If she spoke French, she ___ the job in Paris.",
+          "options": [
+            "would have got",
+            "would get",
+            "got"
+          ],
+          "answer": "would have got",
+          "explain": {
+            "ua": "Минуле → would have V3.",
+            "ru": "Прошлое → would have V3."
+          },
+          "id": "b2-u06-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If he ___ so lazy, he would have finished the project.",
+          "options": [
+            "weren't",
+            "hadn't",
+            "wasn't been"
+          ],
+          "answer": "weren't",
+          "explain": {
+            "ua": "Weren't.",
+            "ru": "Weren't."
+          },
+          "id": "b2-u06-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "mixed-conditionals",
+          "question": "If I didn't trust you, I ___ you my keys.",
+          "options": [
+            "wouldn't have given",
+            "won't give",
+            "didn't give"
+          ],
+          "answer": "wouldn't have given",
+          "explain": {
+            "ua": "Would have given.",
+            "ru": "Would have given."
+          },
+          "id": "b2-u06-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "mixed-conditionals",
+          "pairs": [
+            {
+              "left": "If I were taller,",
+              "right": "I would have joined the basketball team."
+            },
+            {
+              "left": "If she weren't so kind,",
+              "right": "she wouldn't have helped us."
+            },
+            {
+              "left": "If we lived closer,",
+              "right": "we would have visited more often."
+            }
+          ],
+          "explain": {
+            "ua": "Риса → минуле.",
+            "ru": "Черта → прошлое."
+          },
+          "id": "b2-u06-l02-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "mixed-conditionals",
+          "sentence": "If I wasn't been so busy, I would have called.",
+          "answer": "If I weren't so busy, I would have called.",
+          "accept": [
+            "If I wasn't so busy, I would have called.",
+            "If I weren't so busy, I'd have called."
+          ],
+          "explain": {
+            "ua": "Weren't.",
+            "ru": "Weren't."
+          },
+          "id": "b2-u06-l02-e06"
+        },
+        {
+          "type": "build",
+          "topic": "mixed-conditionals",
+          "words": [
+            "would",
+            "have",
+            "If",
+            "I",
+            "I",
+            "said",
+            "were",
+            "something",
+            "braver"
+          ],
+          "answer": "If I were braver I would have said something",
+          "explain": {
+            "ua": "If I were braver → I would have said something.",
+            "ru": "If I were braver → I would have said something."
+          },
+          "id": "b2-u06-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "mixed-conditionals",
+          "audio_text": "If I weren't so shy, I would have spoken to her.",
+          "options": [
+            "If I weren't so shy, I would have spoken to her.",
+            "If I weren't so shy, I would speak to her.",
+            "If I wasn't so sly, I would have spoken to her."
+          ],
+          "answer": "If I weren't so shy, I would have spoken to her.",
+          "audio": "",
+          "explain": {
+            "ua": "Mixed.",
+            "ru": "Mixed."
+          },
+          "id": "b2-u06-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "mixed-conditionals",
+          "prompt": {
+            "ua": "Якби він знав англійську, він би отримав ту роботу.",
+            "ru": "Если бы он знал английский, он бы получил ту работу."
+          },
+          "answer": "If he spoke English, he would have got that job.",
+          "accept": [
+            "If he knew English, he would have got that job.",
+            "If he spoke English, he'd have got that job.",
+            "If he spoke English, he would have gotten that job."
+          ],
+          "explain": {
+            "ua": "Mixed.",
+            "ru": "Mixed."
+          },
+          "id": "b2-u06-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "b2-u06-l03",
+      "title": {
+        "en": "All conditionals",
+        "ua": "Усі умовні",
+        "ru": "Все условные"
+      },
+      "recap": {
+        "from": "b2-u06-l02",
+        "note": {
+          "ua": "Згадаймо: If + Past (постійна риса / факт), would have V3 (у минулому)",
+          "ru": "Вспомним: If + Past (постоянная черта / факт), would have V3 (в прошлом)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "mixed-conditionals",
+            "question": "If I ___ afraid of flying, I would have visited you last summer.",
+            "options": [
+              "weren't",
+              "hadn't been",
+              "wouldn't be"
+            ],
+            "answer": "weren't",
+            "explain": {
+              "ua": "Постійна риса → Past.",
+              "ru": "Постоянная черта → Past."
+            },
+            "id": "b2-u06-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "mixed-conditionals",
+            "question": "If I didn't trust you, I ___ you my keys.",
+            "options": [
+              "wouldn't have given",
+              "won't give",
+              "didn't give"
+            ],
+            "answer": "wouldn't have given",
+            "explain": {
+              "ua": "Would have given.",
+              "ru": "Would have given."
+            },
+            "id": "b2-u06-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "0: If + Present, Present · 1: If + Present, will · 2: If + Past, would · 3: If + had V3, would have V3 · mixed",
+        "explain": {
+          "ua": "Головне питання: про що ми? Факт (0), реальне майбутнє (1), уявне зараз (2), уявне минуле (3) чи змішане.",
+          "ru": "Главный вопрос: о чём мы? Факт (0), реальное будущее (1), воображаемое сейчас (2), воображаемое прошлое (3) или смешанное."
+        },
+        "examples": [
+          {
+            "en": "If you heat ice, it melts. (0)",
+            "ua": "Якщо нагріти лід, він тане.",
+            "ru": "Если нагреть лёд, он тает."
+          },
+          {
+            "en": "If it rains, I'll stay home. (1)",
+            "ua": "Якщо піде дощ, я залишуся вдома.",
+            "ru": "Если пойдёт дождь, я останусь дома."
+          },
+          {
+            "en": "If I were you, I'd go. (2) / If I'd known, I'd have gone. (3)",
+            "ua": "На твоєму місці я б пішов. / Якби я знав, я б пішов.",
+            "ru": "На твоём месте я бы пошёл. / Если бы я знал, я бы пошёл."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "all-conditionals",
+          "question": "If you mix red and white, you ___ pink.",
+          "options": [
+            "get",
+            "will get",
+            "would get"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "Факт → 0.",
+            "ru": "Факт → 0."
+          },
+          "id": "b2-u06-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "all-conditionals",
+          "question": "If I see Tom tomorrow, I ___ him.",
+          "options": [
+            "'ll tell",
+            "'d tell",
+            "'d have told"
+          ],
+          "answer": "'ll tell",
+          "explain": {
+            "ua": "Реальне → 1.",
+            "ru": "Реальное → 1."
+          },
+          "id": "b2-u06-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "all-conditionals",
+          "question": "If I ___ a million, I'd buy an island.",
+          "options": [
+            "had",
+            "have",
+            "had had"
+          ],
+          "answer": "had",
+          "explain": {
+            "ua": "Уявне зараз → 2.",
+            "ru": "Воображаемое сейчас → 2."
+          },
+          "id": "b2-u06-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "all-conditionals",
+          "question": "If you had come to the party, you ___ Max.",
+          "options": [
+            "would have met",
+            "would meet",
+            "will meet"
+          ],
+          "answer": "would have met",
+          "explain": {
+            "ua": "Уявне минуле → 3.",
+            "ru": "Воображаемое прошлое → 3."
+          },
+          "id": "b2-u06-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "all-conditionals",
+          "question": "If I hadn't moved to Kyiv, I ___ my husband.",
+          "options": [
+            "wouldn't know",
+            "won't know",
+            "don't know"
+          ],
+          "answer": "wouldn't know",
+          "explain": {
+            "ua": "Минуле → зараз (mixed).",
+            "ru": "Прошлое → сейчас (mixed)."
+          },
+          "id": "b2-u06-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "all-conditionals",
+          "bank": [
+            "melts",
+            "'ll go",
+            "would buy",
+            "would have won",
+            "would be"
+          ],
+          "reuse": false,
+          "sentences": [
+            "If you heat ice, it ___.",
+            "If it's sunny tomorrow, we ___ out.",
+            "If I were rich, I ___ a castle.",
+            "If we'd played better, we ___.",
+            "If I'd taken that job, I ___ rich now."
+          ],
+          "answers": [
+            "melts",
+            "'ll go",
+            "would buy",
+            "would have won",
+            "would be"
+          ],
+          "explain": {
+            "ua": "0 / 1 / 2 / 3 / mixed.",
+            "ru": "0 / 1 / 2 / 3 / mixed."
+          },
+          "id": "b2-u06-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "all-conditionals",
+          "sentence": "If I will have time, I'll call you.",
+          "answer": "If I have time, I'll call you.",
+          "accept": [],
+          "explain": {
+            "ua": "First: If + Present.",
+            "ru": "First: If + Present."
+          },
+          "id": "b2-u06-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "all-conditionals",
+          "sentence": "If I knew it yesterday, I would have told you.",
+          "answer": "If I had known it yesterday, I would have told you.",
+          "accept": [
+            "If I'd known yesterday, I'd have told you."
+          ],
+          "explain": {
+            "ua": "Минуле → had known.",
+            "ru": "Прошлое → had known."
+          },
+          "id": "b2-u06-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "all-conditionals",
+          "prompt": {
+            "ua": "Якщо матиму час, я тобі допоможу.",
+            "ru": "Если у меня будет время, я тебе помогу."
+          },
+          "answer": "If I have time, I'll help you.",
+          "accept": [
+            "If I have time, I will help you."
+          ],
+          "explain": {
+            "ua": "First conditional.",
+            "ru": "First conditional."
+          },
+          "id": "b2-u06-l03-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "mixed-conditionals",
+      "question": "If I had studied harder, I ___ a better job now.",
+      "options": [
+        "would have",
+        "would have had",
+        "will have"
+      ],
+      "answer": "would have",
+      "explain": {
+        "ua": "Mixed: минуле → зараз.",
+        "ru": "Mixed: прошлое → сейчас."
+      },
+      "id": "b2-u06-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "mixed-conditionals",
+      "question": "If I ___ so shy, I would have talked to him.",
+      "options": [
+        "weren't",
+        "hadn't been",
+        "won't be"
+      ],
+      "answer": "weren't",
+      "explain": {
+        "ua": "Mixed: риса → минуле.",
+        "ru": "Mixed: черта → прошлое."
+      },
+      "id": "b2-u06-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "all-conditionals",
+      "question": "If it ___ tomorrow, we'll cancel.",
+      "options": [
+        "rains",
+        "rained",
+        "had rained"
+      ],
+      "answer": "rains",
+      "explain": {
+        "ua": "First.",
+        "ru": "First."
+      },
+      "id": "b2-u06-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "all-conditionals",
+      "question": "If you heat water, it ___ .",
+      "options": [
+        "boils",
+        "will boil",
+        "would boil"
+      ],
+      "answer": "boils",
+      "explain": {
+        "ua": "Zero.",
+        "ru": "Zero."
+      },
+      "id": "b2-u06-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "all-conditionals",
+      "question": "If I'd known, I ___ come.",
+      "options": [
+        "would have",
+        "would",
+        "will"
+      ],
+      "answer": "would have",
+      "explain": {
+        "ua": "Third.",
+        "ru": "Third."
+      },
+      "id": "b2-u06-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "mixed-conditionals",
+      "question": "If we hadn't met, my life ___ be different.",
+      "answer": "would",
+      "accept": [],
+      "explain": {
+        "ua": "Would be.",
+        "ru": "Would be."
+      },
+      "id": "b2-u06-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "all-conditionals",
+      "question": "If I ___ you, I'd apologise.",
+      "answer": "were",
+      "accept": [],
+      "explain": {
+        "ua": "If I were you.",
+        "ru": "If I were you."
+      },
+      "id": "b2-u06-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "mixed-conditionals",
+      "sentence": "If I had taken the job, I would have lived in London now.",
+      "answer": "If I had taken the job, I would live in London now.",
+      "accept": [
+        "If I'd taken the job, I'd live in London now.",
+        "If I had taken the job, I would be living in London now."
+      ],
+      "explain": {
+        "ua": "Now → would live.",
+        "ru": "Now → would live."
+      },
+      "id": "b2-u06-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "mixed-conditionals",
+      "sentence": "If he would be taller, he would have played basketball.",
+      "answer": "If he were taller, he would have played basketball.",
+      "accept": [
+        "If he was taller, he would have played basketball."
+      ],
+      "explain": {
+        "ua": "If + Past.",
+        "ru": "If + Past."
+      },
+      "id": "b2-u06-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "mixed-conditionals",
+      "words": [
+        "be",
+        "saved",
+        "would",
+        "money",
+        "now",
+        "I",
+        "I",
+        "If",
+        "rich",
+        "had"
+      ],
+      "answer": "If I had saved money I would be rich now",
+      "explain": {
+        "ua": "If I had saved money → I would be rich now.",
+        "ru": "If I had saved money → I would be rich now."
+      },
+      "id": "b2-u06-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "mixed-conditionals",
+      "prompt": {
+        "ua": "Якби я не спізнилася на рейс, я б зараз була в Римі.",
+        "ru": "Если бы я не опоздала на рейс, я бы сейчас была в Риме."
+      },
+      "answer": "If I hadn't missed the flight, I would be in Rome now.",
+      "accept": [
+        "If I hadn't missed my flight, I would be in Rome now.",
+        "If I hadn't missed the flight, I'd be in Rome now."
+      ],
+      "explain": {
+        "ua": "Mixed.",
+        "ru": "Mixed."
+      },
+      "id": "b2-u06-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "mixed-conditionals",
+      "audio_text": "I would be fluent now.",
+      "options": [
+        "I would be fluent now.",
+        "I would have been fluent now.",
+        "I will be fluent now."
+      ],
+      "answer": "I would be fluent now.",
+      "audio": "",
+      "explain": {
+        "ua": "Would be.",
+        "ru": "Would be."
+      },
+      "id": "b2-u06-cp12"
+    }
+  ]
+}

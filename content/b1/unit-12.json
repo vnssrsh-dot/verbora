@@ -1,0 +1,1562 @@
+{
+  "id": "b1-u12",
+  "level": "B1",
+  "order": 12,
+  "kind": "vocab",
+  "title": {
+    "en": "Technology and the internet",
+    "ua": "Технології й інтернет",
+    "ru": "Технологии и интернет"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "device",
+      "ipa": "/dɪˈvaɪs/",
+      "ua": "пристрій",
+      "ru": "устройство",
+      "example": "smart devices",
+      "audio": ""
+    },
+    {
+      "word": "laptop",
+      "ipa": "/ˈlæptɒp/",
+      "ua": "ноутбук",
+      "ru": "ноутбук",
+      "example": "My laptop is slow.",
+      "audio": ""
+    },
+    {
+      "word": "screen",
+      "ipa": "/skriːn/",
+      "ua": "екран",
+      "ru": "экран",
+      "example": "The screen is broken.",
+      "audio": ""
+    },
+    {
+      "word": "charger",
+      "ipa": "/ˈtʃɑːdʒə/",
+      "ua": "зарядка",
+      "ru": "зарядка",
+      "example": "Have you got a charger?",
+      "audio": ""
+    },
+    {
+      "word": "battery",
+      "ipa": "/ˈbætəri/",
+      "ua": "батарея",
+      "ru": "батарея",
+      "example": "My battery is low.",
+      "audio": ""
+    },
+    {
+      "word": "app",
+      "ipa": "/æp/",
+      "ua": "застосунок",
+      "ru": "приложение",
+      "example": "Download the app.",
+      "audio": ""
+    },
+    {
+      "word": "download",
+      "ipa": "/ˌdaʊnˈləʊd/",
+      "ua": "завантажувати",
+      "ru": "скачивать",
+      "example": "Download the file.",
+      "audio": ""
+    },
+    {
+      "word": "upload",
+      "ipa": "/ˌʌpˈləʊd/",
+      "ua": "вивантажувати",
+      "ru": "загружать (в сеть)",
+      "example": "Upload your photo.",
+      "audio": ""
+    },
+    {
+      "word": "install",
+      "ipa": "/ɪnˈstɔːl/",
+      "ua": "встановлювати",
+      "ru": "устанавливать",
+      "example": "Install the update.",
+      "audio": ""
+    },
+    {
+      "word": "update",
+      "ipa": "/ˌʌpˈdeɪt/",
+      "ua": "оновлення; оновлювати",
+      "ru": "обновление; обновлять",
+      "example": "a software update",
+      "audio": ""
+    },
+    {
+      "word": "password",
+      "ipa": "/ˈpɑːswɜːd/",
+      "ua": "пароль",
+      "ru": "пароль",
+      "example": "I forgot my password.",
+      "audio": ""
+    },
+    {
+      "word": "log in / log out",
+      "ipa": "/ˌlɒɡ ˈɪn/",
+      "ua": "увійти / вийти (з акаунта)",
+      "ru": "войти / выйти (из аккаунта)",
+      "example": "Log in to your account.",
+      "audio": ""
+    },
+    {
+      "word": "account",
+      "ipa": "/əˈkaʊnt/",
+      "ua": "акаунт, обліковий запис",
+      "ru": "аккаунт, учётная запись",
+      "example": "Create an account.",
+      "audio": ""
+    },
+    {
+      "word": "Wi-Fi",
+      "ipa": "/ˈwaɪ faɪ/",
+      "ua": "вайфай",
+      "ru": "вайфай",
+      "example": "What's the Wi-Fi password?",
+      "audio": ""
+    },
+    {
+      "word": "connection",
+      "ipa": "/kəˈnekʃn/",
+      "ua": "з'єднання",
+      "ru": "соединение",
+      "example": "The connection is bad.",
+      "audio": ""
+    },
+    {
+      "word": "crash",
+      "ipa": "/kræʃ/",
+      "ua": "зависати, падати (про програму)",
+      "ru": "зависать, падать (о программе)",
+      "example": "My computer crashed.",
+      "audio": ""
+    },
+    {
+      "word": "social media",
+      "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+      "ua": "соцмережі",
+      "ru": "соцсети",
+      "example": "I don't use social media much.",
+      "audio": ""
+    },
+    {
+      "word": "post",
+      "ipa": "/pəʊst/",
+      "ua": "допис; публікувати",
+      "ru": "пост; публиковать",
+      "example": "She posted a photo.",
+      "audio": ""
+    },
+    {
+      "word": "share",
+      "ipa": "/ʃeə/",
+      "ua": "ділитися, поширювати",
+      "ru": "делиться, делать репост",
+      "example": "Share this link.",
+      "audio": ""
+    },
+    {
+      "word": "turn on / turn off",
+      "ipa": "/ˌtɜːn ˈɒn/",
+      "ua": "увімкнути / вимкнути",
+      "ru": "включить / выключить",
+      "example": "Turn off your phone.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "b1-u12-l01",
+      "title": {
+        "en": "Devices",
+        "ua": "Пристрої",
+        "ru": "Устройства"
+      },
+      "recap": {
+        "from": "b1-u11-l03",
+        "note": {
+          "ua": "Згадаймо: Can I…? · Could I…? · May I…? (формально) · Do you mind if I…?",
+          "ru": "Вспомним: Can I…? · Could I…? · May I…? (формально) · Do you mind if I…?"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "permission",
+            "question": "___ I come in? (formal)",
+            "options": [
+              "May",
+              "Do",
+              "Would"
+            ],
+            "answer": "May",
+            "explain": {
+              "ua": "Формально — May I…?",
+              "ru": "Формально — May I…?"
+            },
+            "id": "b1-u12-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "permission",
+            "question": "— Do you mind if I smoke? — ___ (= please don't)",
+            "options": [
+              "Yes, I do, sorry.",
+              "No, not at all.",
+              "Go ahead."
+            ],
+            "answer": "Yes, I do, sorry.",
+            "explain": {
+              "ua": "Yes, I do = я проти.",
+              "ru": "Yes, I do = я против."
+            },
+            "id": "b1-u12-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "laptop",
+              "right": {
+                "ua": "ноутбук",
+                "ru": "ноутбук"
+              }
+            },
+            {
+              "left": "screen",
+              "right": {
+                "ua": "екран",
+                "ru": "экран"
+              }
+            },
+            {
+              "left": "charger",
+              "right": {
+                "ua": "зарядка",
+                "ru": "зарядка"
+              }
+            },
+            {
+              "left": "battery",
+              "right": {
+                "ua": "батарея",
+                "ru": "батарея"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u12-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My battery is low. Where's the ___ ?",
+          "options": [
+            "charger",
+            "screen",
+            "password"
+          ],
+          "answer": "charger",
+          "explain": {
+            "ua": "Charger.",
+            "ru": "Charger."
+          },
+          "id": "b1-u12-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I dropped my phone and the ___ broke.",
+          "options": [
+            "screen",
+            "battery",
+            "app"
+          ],
+          "answer": "screen",
+          "explain": {
+            "ua": "Screen.",
+            "ru": "Screen."
+          },
+          "id": "b1-u12-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Please ___ your phones during the film.",
+          "options": [
+            "turn off",
+            "turn on",
+            "log in"
+          ],
+          "answer": "turn off",
+          "explain": {
+            "ua": "Turn off — вимкнути.",
+            "ru": "Turn off — выключить."
+          },
+          "id": "b1-u12-l01-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A small computer you can carry.",
+          "answer": "laptop",
+          "accept": [
+            "a laptop",
+            "notebook"
+          ],
+          "explain": {
+            "ua": "Laptop.",
+            "ru": "Laptop."
+          },
+          "id": "b1-u12-l01-e05"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A phone, a tablet, a smartwatch — they're all…",
+          "answer": "devices",
+          "accept": [
+            "device",
+            "gadgets",
+            "gadget"
+          ],
+          "explain": {
+            "ua": "Devices.",
+            "ru": "Devices."
+          },
+          "id": "b1-u12-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My laptop is low battery.",
+          "answer": "My laptop battery is low.",
+          "accept": [
+            "My laptop's battery is low."
+          ],
+          "explain": {
+            "ua": "Battery is low.",
+            "ru": "Battery is low."
+          },
+          "id": "b1-u12-l01-e07"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈbætəri/",
+          "options": [
+            "battery",
+            "butter",
+            "bakery"
+          ],
+          "answer": "battery",
+          "explain": {
+            "ua": "/æ/ на початку.",
+            "ru": "/æ/ в начале."
+          },
+          "id": "b1-u12-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Увімкни ноутбук.",
+            "ru": "Включи ноутбук."
+          },
+          "answer": "Turn on the laptop.",
+          "accept": [
+            "Turn the laptop on.",
+            "Switch on the laptop."
+          ],
+          "explain": {
+            "ua": "Turn on.",
+            "ru": "Turn on."
+          },
+          "id": "b1-u12-l01-e09"
+        }
+      ],
+      "words": [
+        "device",
+        "laptop",
+        "screen",
+        "charger",
+        "battery",
+        "turn on / turn off"
+      ]
+    },
+    {
+      "id": "b1-u12-l02",
+      "title": {
+        "en": "Apps and accounts",
+        "ua": "Застосунки й акаунти",
+        "ru": "Приложения и аккаунты"
+      },
+      "recap": {
+        "from": "b1-u12-l01",
+        "note": {
+          "ua": "Згадаймо: Пристрої",
+          "ru": "Вспомним: Устройства"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "My battery is low. Where's the ___ ?",
+            "options": [
+              "charger",
+              "screen",
+              "password"
+            ],
+            "answer": "charger",
+            "explain": {
+              "ua": "Charger.",
+              "ru": "Charger."
+            },
+            "id": "b1-u12-l02-r01"
+          },
+          {
+            "type": "define",
+            "topic": "vocab",
+            "definition": "A small computer you can carry.",
+            "answer": "laptop",
+            "accept": [
+              "a laptop",
+              "notebook"
+            ],
+            "explain": {
+              "ua": "Laptop.",
+              "ru": "Laptop."
+            },
+            "id": "b1-u12-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "download",
+              "right": {
+                "ua": "завантажити",
+                "ru": "скачать"
+              }
+            },
+            {
+              "left": "install",
+              "right": {
+                "ua": "встановити",
+                "ru": "установить"
+              }
+            },
+            {
+              "left": "password",
+              "right": {
+                "ua": "пароль",
+                "ru": "пароль"
+              }
+            },
+            {
+              "left": "account",
+              "right": {
+                "ua": "акаунт",
+                "ru": "аккаунт"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u12-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "___ the app from the App Store.",
+          "options": [
+            "Download",
+            "Upload",
+            "Log out"
+          ],
+          "answer": "Download",
+          "explain": {
+            "ua": "Download — завантажити собі.",
+            "ru": "Download — скачать себе."
+          },
+          "id": "b1-u12-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I can't ___ . I forgot my password!",
+          "options": [
+            "log in",
+            "turn off",
+            "share"
+          ],
+          "answer": "log in",
+          "explain": {
+            "ua": "Log in.",
+            "ru": "Log in."
+          },
+          "id": "b1-u12-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Your phone needs an ___ . Install it tonight.",
+          "options": [
+            "update",
+            "account",
+            "charger"
+          ],
+          "answer": "update",
+          "explain": {
+            "ua": "Update.",
+            "ru": "Update."
+          },
+          "id": "b1-u12-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Create an ___ with your email.",
+          "options": [
+            "account",
+            "app",
+            "update"
+          ],
+          "answer": "account",
+          "explain": {
+            "ua": "Account.",
+            "ru": "Account."
+          },
+          "id": "b1-u12-l02-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "download",
+            "upload",
+            "install",
+            "log out"
+          ],
+          "reuse": false,
+          "sentences": [
+            "___ a film to watch on the plane.",
+            "___ your photos to the cloud.",
+            "___ the new version.",
+            "Don't forget to ___ on a public computer."
+          ],
+          "answers": [
+            "download",
+            "upload",
+            "install",
+            "log out"
+          ],
+          "explain": {
+            "ua": "Download — до себе, upload — у мережу.",
+            "ru": "Download — к себе, upload — в сеть."
+          },
+          "id": "b1-u12-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "I forgot my pass.",
+          "answer": "I forgot my password.",
+          "accept": [
+            "I've forgotten my password."
+          ],
+          "explain": {
+            "ua": "Password.",
+            "ru": "Password."
+          },
+          "id": "b1-u12-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Log in to your account.",
+          "options": [
+            "Log in to your account.",
+            "Log out of your account.",
+            "Look in to your account."
+          ],
+          "answer": "Log in to your account.",
+          "audio": "",
+          "explain": {
+            "ua": "Log in.",
+            "ru": "Log in."
+          },
+          "id": "b1-u12-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я забула пароль.",
+            "ru": "Я забыла пароль."
+          },
+          "answer": "I forgot my password.",
+          "accept": [
+            "I've forgotten my password.",
+            "I have forgotten my password."
+          ],
+          "explain": {
+            "ua": "Password.",
+            "ru": "Password."
+          },
+          "id": "b1-u12-l02-e09"
+        }
+      ],
+      "words": [
+        "app",
+        "download",
+        "upload",
+        "install",
+        "update",
+        "password",
+        "log in / log out",
+        "account"
+      ]
+    },
+    {
+      "id": "b1-u12-l03",
+      "title": {
+        "en": "Online and problems",
+        "ua": "Онлайн і проблеми",
+        "ru": "Онлайн и проблемы"
+      },
+      "recap": {
+        "from": "b1-u12-l02",
+        "note": {
+          "ua": "Згадаймо: Застосунки й акаунти",
+          "ru": "Вспомним: Приложения и аккаунты"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "___ the app from the App Store.",
+            "options": [
+              "Download",
+              "Upload",
+              "Log out"
+            ],
+            "answer": "Download",
+            "explain": {
+              "ua": "Download — завантажити собі.",
+              "ru": "Download — скачать себе."
+            },
+            "id": "b1-u12-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Create an ___ with your email.",
+            "options": [
+              "account",
+              "app",
+              "update"
+            ],
+            "answer": "account",
+            "explain": {
+              "ua": "Account.",
+              "ru": "Account."
+            },
+            "id": "b1-u12-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "connection",
+              "right": {
+                "ua": "з'єднання",
+                "ru": "соединение"
+              }
+            },
+            {
+              "left": "crash",
+              "right": {
+                "ua": "зависати",
+                "ru": "зависать"
+              }
+            },
+            {
+              "left": "post",
+              "right": {
+                "ua": "публікувати",
+                "ru": "публиковать"
+              }
+            },
+            {
+              "left": "share",
+              "right": {
+                "ua": "ділитися",
+                "ru": "делиться"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u12-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ is very slow. I can't watch videos.",
+          "options": [
+            "connection",
+            "charger",
+            "password"
+          ],
+          "answer": "connection",
+          "explain": {
+            "ua": "Connection.",
+            "ru": "Connection."
+          },
+          "id": "b1-u12-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "My computer ___ and I lost my work!",
+          "options": [
+            "crashed",
+            "downloaded",
+            "posted"
+          ],
+          "answer": "crashed",
+          "explain": {
+            "ua": "Crash.",
+            "ru": "Crash."
+          },
+          "id": "b1-u12-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "She ___ a photo of her dog on Instagram.",
+          "options": [
+            "posted",
+            "installed",
+            "crashed"
+          ],
+          "answer": "posted",
+          "explain": {
+            "ua": "Post.",
+            "ru": "Post."
+          },
+          "id": "b1-u12-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Can you ___ the link with me?",
+          "options": [
+            "share",
+            "crash",
+            "turn off"
+          ],
+          "answer": "share",
+          "explain": {
+            "ua": "Share.",
+            "ru": "Share."
+          },
+          "id": "b1-u12-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "— What's the ___ password? — It's on the router.",
+          "options": [
+            "Wi-Fi",
+            "account",
+            "app"
+          ],
+          "answer": "Wi-Fi",
+          "explain": {
+            "ua": "Wi-Fi.",
+            "ru": "Wi-Fi."
+          },
+          "id": "b1-u12-l03-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Instagram, TikTok, Facebook — they're all…",
+          "answer": "social media",
+          "accept": [
+            "social networks",
+            "social network"
+          ],
+          "explain": {
+            "ua": "Social media.",
+            "ru": "Social media."
+          },
+          "id": "b1-u12-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Can you share me the link?",
+          "answer": "Can you share the link with me?",
+          "accept": [
+            "Can you send me the link?"
+          ],
+          "explain": {
+            "ua": "Share something with someone.",
+            "ru": "Share something with someone."
+          },
+          "id": "b1-u12-l03-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The connection is really bad here.",
+          "options": [
+            "The connection is really bad here.",
+            "The collection is really bad here.",
+            "The connection is really bad there."
+          ],
+          "answer": "The connection is really bad here.",
+          "audio": "",
+          "explain": {
+            "ua": "Connection.",
+            "ru": "Connection."
+          },
+          "id": "b1-u12-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "У мене завис комп'ютер.",
+            "ru": "У меня завис компьютер."
+          },
+          "answer": "My computer crashed.",
+          "accept": [
+            "My computer has crashed.",
+            "My computer froze."
+          ],
+          "explain": {
+            "ua": "Crashed.",
+            "ru": "Crashed."
+          },
+          "id": "b1-u12-l03-e10"
+        }
+      ],
+      "words": [
+        "Wi-Fi",
+        "connection",
+        "crash",
+        "social media",
+        "post",
+        "share"
+      ]
+    },
+    {
+      "id": "b1-u12-l04",
+      "title": {
+        "en": "In context: tech support",
+        "ua": "У контексті: техпідтримка",
+        "ru": "В контексте: техподдержка"
+      },
+      "recap": {
+        "from": "b1-u12-l03",
+        "note": {
+          "ua": "Згадаймо: Онлайн і проблеми",
+          "ru": "Вспомним: Онлайн и проблемы"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The ___ is very slow. I can't watch videos.",
+            "options": [
+              "connection",
+              "charger",
+              "password"
+            ],
+            "answer": "connection",
+            "explain": {
+              "ua": "Connection.",
+              "ru": "Connection."
+            },
+            "id": "b1-u12-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "— What's the ___ password? — It's on the router.",
+            "options": [
+              "Wi-Fi",
+              "account",
+              "app"
+            ],
+            "answer": "Wi-Fi",
+            "explain": {
+              "ua": "Wi-Fi.",
+              "ru": "Wi-Fi."
+            },
+            "id": "b1-u12-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What's Olga's problem?",
+              "options": [
+                "she can't log in",
+                "her screen is broken",
+                "she has no Wi-Fi"
+              ],
+              "answer": "she can't log in"
+            },
+            {
+              "type": "truefalse",
+              "statement": "Olga has installed the update.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "The support worker tells her to reset her password.",
+              "answer": true
+            }
+          ],
+          "dialog": [
+            {
+              "speaker": "Support",
+              "line": "Hello, VERBORA support. How can I help?"
+            },
+            {
+              "speaker": "Olga",
+              "line": "Hi! I can't log in to my account. The app says my password is wrong."
+            },
+            {
+              "speaker": "Support",
+              "line": "Have you installed the latest update?"
+            },
+            {
+              "speaker": "Olga",
+              "line": "No, I haven't."
+            },
+            {
+              "speaker": "Support",
+              "line": "OK. First, click 'Forgot password' and reset it. Then install the update and log in again."
+            },
+            {
+              "speaker": "Olga",
+              "line": "It works! Thank you!"
+            }
+          ],
+          "explain": {
+            "ua": "Can't log in; hasn't updated; reset password; then install update.",
+            "ru": "Can't log in; hasn't updated; reset password; then install update."
+          },
+          "id": "b1-u12-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "log in",
+            "update",
+            "reset",
+            "works"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Olga can't ___.",
+            "She hasn't installed the ___.",
+            "She should ___ her password.",
+            "In the end it ___."
+          ],
+          "answers": [
+            "log in",
+            "update",
+            "reset",
+            "works"
+          ],
+          "explain": {
+            "ua": "Перечитай діалог.",
+            "ru": "Перечитай диалог."
+          },
+          "id": "b1-u12-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "How can I help?",
+              "right": {
+                "ua": "Чим можу допомогти?",
+                "ru": "Чем могу помочь?"
+              }
+            },
+            {
+              "left": "latest",
+              "right": {
+                "ua": "останній, найновіший",
+                "ru": "последний, новейший"
+              }
+            },
+            {
+              "left": "click",
+              "right": {
+                "ua": "натиснути",
+                "ru": "нажать"
+              }
+            },
+            {
+              "left": "It works!",
+              "right": {
+                "ua": "Працює!",
+                "ru": "Работает!"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Корисні фрази.",
+            "ru": "Полезные фразы."
+          },
+          "id": "b1-u12-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "Have you ___ the latest update?",
+          "options": [
+            "installed",
+            "install",
+            "installing"
+          ],
+          "answer": "installed",
+          "explain": {
+            "ua": "Have + V3.",
+            "ru": "Have + V3."
+          },
+          "id": "b1-u12-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "My password don't work.",
+          "answer": "My password doesn't work.",
+          "accept": [
+            "My password isn't working."
+          ],
+          "explain": {
+            "ua": "Password → doesn't.",
+            "ru": "Password → doesn't."
+          },
+          "id": "b1-u12-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "First click and then install update.",
+          "answer": "First click, and then install the update.",
+          "accept": [
+            "First, click and then install the update."
+          ],
+          "explain": {
+            "ua": "Потрібен артикль the.",
+            "ru": "Нужен артикль the."
+          },
+          "id": "b1-u12-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "Have you installed the latest update?",
+          "options": [
+            "Have you installed the latest update?",
+            "Have you installed the late update?",
+            "Did you install the latest update?"
+          ],
+          "answer": "Have you installed the latest update?",
+          "audio": "",
+          "explain": {
+            "ua": "Latest update.",
+            "ru": "Latest update."
+          },
+          "id": "b1-u12-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Я не можу увійти в акаунт.",
+            "ru": "Я не могу войти в аккаунт."
+          },
+          "answer": "I can't log in to my account.",
+          "accept": [
+            "I can't log into my account.",
+            "I cannot log in to my account."
+          ],
+          "explain": {
+            "ua": "Log in.",
+            "ru": "Log in."
+          },
+          "id": "b1-u12-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "b1-u12-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "b1-u12-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: техпідтримка",
+          "ru": "Вспомним: В контексте: техподдержка"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "Have you ___ the latest update?",
+            "options": [
+              "installed",
+              "install",
+              "installing"
+            ],
+            "answer": "installed",
+            "explain": {
+              "ua": "Have + V3.",
+              "ru": "Have + V3."
+            },
+            "id": "b1-u12-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "First click and then install update.",
+            "answer": "First click, and then install the update.",
+            "accept": [
+              "First, click and then install the update."
+            ],
+            "explain": {
+              "ua": "Потрібен артикль the.",
+              "ru": "Нужен артикль the."
+            },
+            "id": "b1-u12-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "update",
+              "right": {
+                "ua": "оновлення",
+                "ru": "обновление"
+              }
+            },
+            {
+              "left": "upload",
+              "right": {
+                "ua": "вивантажити",
+                "ru": "загрузить в сеть"
+              }
+            },
+            {
+              "left": "social media",
+              "right": {
+                "ua": "соцмережі",
+                "ru": "соцсети"
+              }
+            },
+            {
+              "left": "device",
+              "right": {
+                "ua": "пристрій",
+                "ru": "устройство"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "b1-u12-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Which is NOT a device?",
+          "options": [
+            "password",
+            "laptop",
+            "tablet"
+          ],
+          "answer": "password",
+          "explain": {
+            "ua": "Password — не пристрій.",
+            "ru": "Password — не устройство."
+          },
+          "id": "b1-u12-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Download ↔ ___",
+          "options": [
+            "upload",
+            "install",
+            "update"
+          ],
+          "answer": "upload",
+          "explain": {
+            "ua": "Download ↔ upload.",
+            "ru": "Download ↔ upload."
+          },
+          "id": "b1-u12-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Log in ↔ ___",
+          "options": [
+            "log out",
+            "log off on",
+            "turn on"
+          ],
+          "answer": "log out",
+          "explain": {
+            "ua": "Log in ↔ log out.",
+            "ru": "Log in ↔ log out."
+          },
+          "id": "b1-u12-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A secret word you use to log in.",
+          "answer": "password",
+          "accept": [
+            "a password"
+          ],
+          "explain": {
+            "ua": "Password.",
+            "ru": "Password."
+          },
+          "id": "b1-u12-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "battery",
+          "answer": "charger",
+          "accept": [
+            "charge",
+            "power"
+          ],
+          "explain": {
+            "ua": "Батарея → зарядка.",
+            "ru": "Батарея → зарядка."
+          },
+          "id": "b1-u12-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "Turn out the light.",
+          "answer": "Turn off the light.",
+          "accept": [
+            "Switch off the light."
+          ],
+          "explain": {
+            "ua": "Turn off.",
+            "ru": "Turn off."
+          },
+          "id": "b1-u12-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "My phone is dead. Can I borrow your charger?",
+          "options": [
+            "My phone is dead. Can I borrow your charger?",
+            "My phone is dead. Can I lend your charger?",
+            "My phone is bad. Can I borrow your charger?"
+          ],
+          "answer": "My phone is dead. Can I borrow your charger?",
+          "audio": "",
+          "explain": {
+            "ua": "Borrow your charger.",
+            "ru": "Borrow your charger."
+          },
+          "id": "b1-u12-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Поділися зі мною посиланням.",
+            "ru": "Поделись со мной ссылкой."
+          },
+          "answer": "Share the link with me.",
+          "accept": [
+            "Send me the link.",
+            "Share the link with me, please."
+          ],
+          "explain": {
+            "ua": "Share with.",
+            "ru": "Share with."
+          },
+          "id": "b1-u12-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "My battery is low. Can I use your ___ ?",
+      "options": [
+        "charger",
+        "password",
+        "screen"
+      ],
+      "answer": "charger",
+      "explain": {
+        "ua": "Charger.",
+        "ru": "Charger."
+      },
+      "id": "b1-u12-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I can't ___ . My password is wrong.",
+      "options": [
+        "log in",
+        "turn off",
+        "upload"
+      ],
+      "answer": "log in",
+      "explain": {
+        "ua": "Log in.",
+        "ru": "Log in."
+      },
+      "id": "b1-u12-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "My computer ___ and I lost everything.",
+      "options": [
+        "crashed",
+        "posted",
+        "shared"
+      ],
+      "answer": "crashed",
+      "explain": {
+        "ua": "Crashed.",
+        "ru": "Crashed."
+      },
+      "id": "b1-u12-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A program on your phone.",
+      "answer": "app",
+      "accept": [
+        "an app",
+        "application"
+      ],
+      "explain": {
+        "ua": "App.",
+        "ru": "App."
+      },
+      "id": "b1-u12-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "To get a file from the internet onto your device.",
+      "answer": "download",
+      "accept": [],
+      "explain": {
+        "ua": "Download.",
+        "ru": "Download."
+      },
+      "id": "b1-u12-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "Please turn ___ your phones.",
+      "answer": "off",
+      "accept": [],
+      "explain": {
+        "ua": "Turn off.",
+        "ru": "Turn off."
+      },
+      "id": "b1-u12-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "screen",
+          "right": {
+            "ua": "екран",
+            "ru": "экран"
+          }
+        },
+        {
+          "left": "account",
+          "right": {
+            "ua": "акаунт",
+            "ru": "аккаунт"
+          }
+        },
+        {
+          "left": "connection",
+          "right": {
+            "ua": "з'єднання",
+            "ru": "соединение"
+          }
+        },
+        {
+          "left": "install",
+          "right": {
+            "ua": "встановити",
+            "ru": "установить"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-u12-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Can you share me the photo?",
+      "answer": "Can you share the photo with me?",
+      "accept": [
+        "Can you send me the photo?"
+      ],
+      "explain": {
+        "ua": "Share with.",
+        "ru": "Share with."
+      },
+      "id": "b1-u12-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "I uploaded the film to watch on the plane.",
+      "answer": "I downloaded the film to watch on the plane.",
+      "accept": [],
+      "explain": {
+        "ua": "До себе — download.",
+        "ru": "К себе — download."
+      },
+      "id": "b1-u12-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "Wi-Fi",
+        "is",
+        "password",
+        "What",
+        "the"
+      ],
+      "answer": "What is the Wi-Fi password",
+      "explain": {
+        "ua": "What is → the Wi-Fi password?",
+        "ru": "What is → the Wi-Fi password?"
+      },
+      "id": "b1-u12-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Встанови оновлення.",
+        "ru": "Установи обновление."
+      },
+      "answer": "Install the update.",
+      "accept": [
+        "Install the update, please."
+      ],
+      "explain": {
+        "ua": "Install.",
+        "ru": "Install."
+      },
+      "id": "b1-u12-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "She posted it on social media.",
+      "options": [
+        "She posted it on social media.",
+        "She posted it in social media.",
+        "She pasted it on social media."
+      ],
+      "answer": "She posted it on social media.",
+      "audio": "",
+      "explain": {
+        "ua": "On social media.",
+        "ru": "On social media."
+      },
+      "id": "b1-u12-cp12"
+    }
+  ]
+}

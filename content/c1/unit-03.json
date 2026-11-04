@@ -1,0 +1,1214 @@
+{
+  "id": "c1-u03",
+  "level": "C1",
+  "order": 3,
+  "kind": "grammar",
+  "title": {
+    "en": "Future in the past",
+    "ua": "Майбутнє в минулому",
+    "ru": "Будущее в прошедшем"
+  },
+  "rule": {
+    "formula": "was / were going to · would · was / were about to · was / were to",
+    "explain": {
+      "ua": "Коли розповідаємо про минуле й говоримо, що тоді ще мало статися: I was going to call you (планувала, але не подзвонила). I knew she would win. We were about to leave when… He was to become president (так і сталося — книжний стиль).",
+      "ru": "Когда рассказываем о прошлом и говорим, что тогда ещё должно было случиться: I was going to call you (собиралась, но не позвонила). I knew she would win. We were about to leave when… He was to become president (так и случилось — книжный стиль)."
+    },
+    "examples": [
+      {
+        "en": "I was going to call you, but I forgot.",
+        "ua": "Я збиралася тобі подзвонити, але забула.",
+        "ru": "Я собиралась тебе позвонить, но забыла."
+      },
+      {
+        "en": "She promised she would help.",
+        "ua": "Вона пообіцяла, що допоможе.",
+        "ru": "Она пообещала, что поможет."
+      },
+      {
+        "en": "We were about to leave when it started to rain.",
+        "ua": "Ми вже збиралися виходити, коли почався дощ.",
+        "ru": "Мы уже собирались выходить, когда начался дождь."
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "was going to",
+      "ipa": "/wəz ˈɡəʊɪŋ tə/",
+      "ua": "збирався",
+      "ru": "собирался",
+      "example": "I was going to tell you.",
+      "audio": ""
+    },
+    {
+      "word": "would",
+      "ipa": "/wʊd/",
+      "ua": "(майбутнє з минулого)",
+      "ru": "(будущее из прошлого)",
+      "example": "I knew you would come.",
+      "audio": ""
+    },
+    {
+      "word": "was about to",
+      "ipa": "/wəz əˈbaʊt tə/",
+      "ua": "ось-ось мав",
+      "ru": "вот-вот должен был",
+      "example": "I was about to go to bed.",
+      "audio": ""
+    },
+    {
+      "word": "was to",
+      "ipa": "/wəz tə/",
+      "ua": "мав (судилося)",
+      "ru": "предстояло, суждено было",
+      "example": "She was to become famous.",
+      "audio": ""
+    },
+    {
+      "word": "was supposed to",
+      "ipa": "/wəz səˈpəʊzd tə/",
+      "ua": "мав (за планом)",
+      "ru": "должен был (по плану)",
+      "example": "He was supposed to arrive at 6.",
+      "audio": ""
+    },
+    {
+      "word": "was due to",
+      "ipa": "/wəz ˈdjuː tə/",
+      "ua": "мав (за розкладом)",
+      "ru": "должен был (по расписанию)",
+      "example": "The plane was due to land at 9.",
+      "audio": ""
+    },
+    {
+      "word": "on the point of",
+      "ipa": "/ɒn ðə ˈpɔɪnt əv/",
+      "ua": "на межі, ось-ось",
+      "ru": "на грани, вот-вот",
+      "example": "I was on the point of giving up.",
+      "audio": ""
+    },
+    {
+      "word": "little did I know",
+      "ipa": "/ˈlɪtl dɪd aɪ nəʊ/",
+      "ua": "я й гадки не мала",
+      "ru": "я и не подозревала",
+      "example": "Little did I know I would stay forever.",
+      "audio": ""
+    },
+    {
+      "word": "at the time",
+      "ipa": "/ət ðə taɪm/",
+      "ua": "тоді, на той момент",
+      "ru": "тогда, на тот момент",
+      "example": "At the time, I didn't know.",
+      "audio": ""
+    },
+    {
+      "word": "eventually",
+      "ipa": "/ɪˈventʃuəli/",
+      "ua": "зрештою",
+      "ru": "в конце концов",
+      "example": "Eventually, she became a doctor.",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u03-l01",
+      "title": {
+        "en": "was going to",
+        "ua": "was going to",
+        "ru": "was going to"
+      },
+      "recap": {
+        "from": "c1-u02-l03",
+        "note": {
+          "ua": "Згадаймо: do / does / did + дієслово (без -s, без -ed) — «справді, таки»",
+          "ru": "Вспомним: do / does / did + глагол (без -s, без -ed) — «действительно, всё-таки»"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "emphatic-do",
+            "question": "— You never listen! — I ___ listen!",
+            "options": [
+              "do",
+              "am",
+              "does"
+            ],
+            "answer": "do",
+            "explain": {
+              "ua": "I do + дієслово.",
+              "ru": "I do + глагол."
+            },
+            "id": "c1-u03-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "emphatic-do",
+            "question": "___ sit down, please!",
+            "options": [
+              "Do",
+              "Does",
+              "Did"
+            ],
+            "answer": "Do",
+            "explain": {
+              "ua": "Do sit down.",
+              "ru": "Do sit down."
+            },
+            "id": "c1-u03-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "was / were going to + дієслово — план у минулому (часто нездійснений)",
+          "ru": "was / were going to + глагол — план в прошлом (часто несбывшийся)"
+        },
+        "explain": {
+          "ua": "I was going to study, but my friends came over. Часто після нього йде but. Схоже: was supposed to — «мав, за планом / за домовленістю»: The bus was supposed to come at 8 (але не прийшов).",
+          "ru": "I was going to study, but my friends came over. Часто после него идёт but. Похоже: was supposed to — «должен был, по плану / по договорённости»: The bus was supposed to come at 8 (но не пришёл)."
+        },
+        "examples": [
+          {
+            "en": "We were going to buy a house, but prices went up.",
+            "ua": "Ми збиралися купити будинок, але ціни зросли.",
+            "ru": "Мы собирались купить дом, но цены выросли."
+          },
+          {
+            "en": "I was going to call, but my phone died.",
+            "ua": "Я збирався подзвонити, але телефон сів.",
+            "ru": "Я собирался позвонить, но телефон сел."
+          },
+          {
+            "en": "You were supposed to be here an hour ago!",
+            "ua": "Ти мав бути тут годину тому!",
+            "ru": "Ты должен был быть здесь час назад!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "I ___ going to tell you, but I forgot.",
+          "options": [
+            "was",
+            "am",
+            "will"
+          ],
+          "answer": "was",
+          "explain": {
+            "ua": "Was going to.",
+            "ru": "Was going to."
+          },
+          "id": "c1-u03-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "They were going to ___ married in June.",
+          "options": [
+            "get",
+            "got",
+            "getting"
+          ],
+          "answer": "get",
+          "explain": {
+            "ua": "Going to + базова форма.",
+            "ru": "Going to + базовая форма."
+          },
+          "id": "c1-u03-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "The train ___ to arrive at 5, but it was late.",
+          "options": [
+            "was supposed",
+            "supposed",
+            "is supposed"
+          ],
+          "answer": "was supposed",
+          "explain": {
+            "ua": "Was supposed to.",
+            "ru": "Was supposed to."
+          },
+          "id": "c1-u03-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "— Did you go to the gym? — No, I was going to, ___ I was too tired.",
+          "options": [
+            "but",
+            "so",
+            "because"
+          ],
+          "answer": "but",
+          "explain": {
+            "ua": "Нездійснений план → but.",
+            "ru": "Несбывшийся план → but."
+          },
+          "id": "c1-u03-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "We were going to ___ you a surprise party!",
+          "options": [
+            "throw",
+            "threw",
+            "thrown"
+          ],
+          "answer": "throw",
+          "explain": {
+            "ua": "Throw a party.",
+            "ru": "Throw a party."
+          },
+          "id": "c1-u03-l01-e05"
+        },
+        {
+          "type": "match",
+          "topic": "future-in-past",
+          "pairs": [
+            {
+              "left": "was going to",
+              "right": {
+                "ua": "збирався",
+                "ru": "собирался"
+              }
+            },
+            {
+              "left": "was supposed to",
+              "right": {
+                "ua": "мав (за планом)",
+                "ru": "должен был (по плану)"
+              }
+            },
+            {
+              "left": "was due to",
+              "right": {
+                "ua": "мав (за розкладом)",
+                "ru": "по расписанию"
+              }
+            },
+            {
+              "left": "at the time",
+              "right": {
+                "ua": "тоді",
+                "ru": "тогда"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Значення.",
+            "ru": "Значения."
+          },
+          "id": "c1-u03-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "I was going to called you.",
+          "answer": "I was going to call you.",
+          "accept": [],
+          "explain": {
+            "ua": "Going to + call.",
+            "ru": "Going to + call."
+          },
+          "id": "c1-u03-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "You supposed to be here at nine.",
+          "answer": "You were supposed to be here at nine.",
+          "accept": [],
+          "explain": {
+            "ua": "Were supposed to.",
+            "ru": "Were supposed to."
+          },
+          "id": "c1-u03-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-in-past",
+          "prompt": {
+            "ua": "Я збиралася тобі написати, але забула.",
+            "ru": "Я собиралась тебе написать, но забыла."
+          },
+          "answer": "I was going to text you, but I forgot.",
+          "accept": [
+            "I was going to write to you, but I forgot.",
+            "I was going to message you, but I forgot.",
+            "I was going to write you, but I forgot."
+          ],
+          "explain": {
+            "ua": "Was going to.",
+            "ru": "Was going to."
+          },
+          "id": "c1-u03-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u03-l02",
+      "title": {
+        "en": "would",
+        "ua": "would",
+        "ru": "would"
+      },
+      "recap": {
+        "from": "c1-u03-l01",
+        "note": {
+          "ua": "Згадаймо: was / were going to + дієслово — план у минулому (часто нездійснений)",
+          "ru": "Вспомним: was / were going to + глагол — план в прошлом (часто несбывшийся)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "I ___ going to tell you, but I forgot.",
+            "options": [
+              "was",
+              "am",
+              "will"
+            ],
+            "answer": "was",
+            "explain": {
+              "ua": "Was going to.",
+              "ru": "Was going to."
+            },
+            "id": "c1-u03-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "We were going to ___ you a surprise party!",
+            "options": [
+              "throw",
+              "threw",
+              "thrown"
+            ],
+            "answer": "throw",
+            "explain": {
+              "ua": "Throw a party.",
+              "ru": "Throw a party."
+            },
+            "id": "c1-u03-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "said / knew / thought / hoped / promised + (that) + S + would + дієслово",
+          "ru": "said / knew / thought / hoped / promised + (that) + S + would + глагол"
+        },
+        "explain": {
+          "ua": "Will з минулого стає would: I think she will come → I thought she would come. Те саме в непрямій мові: He said he would call.",
+          "ru": "Will из прошлого становится would: I think she will come → I thought she would come. То же в косвенной речи: He said he would call."
+        },
+        "examples": [
+          {
+            "en": "I knew you would understand.",
+            "ua": "Я знала, що ти зрозумієш.",
+            "ru": "Я знала, что ты поймёшь."
+          },
+          {
+            "en": "He promised he wouldn't be late.",
+            "ua": "Він пообіцяв, що не спізниться.",
+            "ru": "Он пообещал, что не опоздает."
+          },
+          {
+            "en": "Little did I know that I would stay here forever.",
+            "ua": "Я й гадки не мала, що залишуся тут назавжди.",
+            "ru": "Я и не подозревала, что останусь здесь навсегда."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "I thought it ___ rain, so I took an umbrella.",
+          "options": [
+            "would",
+            "will",
+            "is going"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Thought → would.",
+            "ru": "Thought → would."
+          },
+          "id": "c1-u03-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "She promised she ___ call me.",
+          "options": [
+            "would",
+            "will",
+            "was"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Promised → would.",
+            "ru": "Promised → would."
+          },
+          "id": "c1-u03-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "We hoped the weather ___ be better.",
+          "options": [
+            "would",
+            "will",
+            "was"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Hoped → would.",
+            "ru": "Hoped → would."
+          },
+          "id": "c1-u03-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "He said he ___ be late.",
+          "options": [
+            "wouldn't",
+            "won't",
+            "didn't"
+          ],
+          "answer": "wouldn't",
+          "explain": {
+            "ua": "Заперечення → wouldn't.",
+            "ru": "Отрицание → wouldn't."
+          },
+          "id": "c1-u03-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "I never imagined that I ___ live abroad.",
+          "options": [
+            "would",
+            "will",
+            "am going to"
+          ],
+          "answer": "would",
+          "explain": {
+            "ua": "Imagined → would.",
+            "ru": "Imagined → would."
+          },
+          "id": "c1-u03-l02-e05"
+        },
+        {
+          "type": "match",
+          "topic": "future-in-past",
+          "pairs": [
+            {
+              "left": "I think she'll win.",
+              "right": "I thought she would win."
+            },
+            {
+              "left": "He says he'll help.",
+              "right": "He said he would help."
+            },
+            {
+              "left": "I hope it won't rain.",
+              "right": "I hoped it wouldn't rain."
+            },
+            {
+              "left": "I know you'll love it.",
+              "right": "I knew you would love it."
+            }
+          ],
+          "explain": {
+            "ua": "Теперішнє → минуле.",
+            "ru": "Настоящее → прошедшее."
+          },
+          "id": "c1-u03-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "I knew you will come.",
+          "answer": "I knew you would come.",
+          "accept": [],
+          "explain": {
+            "ua": "Knew → would.",
+            "ru": "Knew → would."
+          },
+          "id": "c1-u03-l02-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "She told me she will help me.",
+          "answer": "She told me she would help me.",
+          "accept": [],
+          "explain": {
+            "ua": "Told → would.",
+            "ru": "Told → would."
+          },
+          "id": "c1-u03-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-in-past",
+          "prompt": {
+            "ua": "Я знала, що ти прийдеш.",
+            "ru": "Я знала, что ты придёшь."
+          },
+          "answer": "I knew you would come.",
+          "accept": [
+            "I knew that you would come.",
+            "I knew you'd come."
+          ],
+          "explain": {
+            "ua": "Knew → would.",
+            "ru": "Knew → would."
+          },
+          "id": "c1-u03-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u03-l03",
+      "title": {
+        "en": "was about to, was to",
+        "ua": "was about to, was to",
+        "ru": "was about to, was to"
+      },
+      "recap": {
+        "from": "c1-u03-l02",
+        "note": {
+          "ua": "Згадаймо: said / knew / thought / hoped / promised + (that) + S + would + дієслово",
+          "ru": "Вспомним: said / knew / thought / hoped / promised + (that) + S + would + глагол"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "I thought it ___ rain, so I took an umbrella.",
+            "options": [
+              "would",
+              "will",
+              "is going"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Thought → would.",
+              "ru": "Thought → would."
+            },
+            "id": "c1-u03-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "I never imagined that I ___ live abroad.",
+            "options": [
+              "would",
+              "will",
+              "am going to"
+            ],
+            "answer": "would",
+            "explain": {
+              "ua": "Imagined → would.",
+              "ru": "Imagined → would."
+            },
+            "id": "c1-u03-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "was about to + дієслово — ось-ось мав · was to + дієслово — судилося (книжне) · was to have + V3 — мав, але не сталося",
+          "ru": "was about to + глагол — вот-вот должен был · was to + глагол — суждено было (книжное) · was to have + V3 — должен был, но не случилось"
+        },
+        "explain": {
+          "ua": "We were about to leave when the phone rang — ми вже виходили. She was to become one of the best writers of her time — так і сталося, розповідь про долю. The wedding was to have taken place in May — мало, але не відбулося.",
+          "ru": "We were about to leave when the phone rang — мы уже выходили. She was to become one of the best writers of her time — так и случилось, рассказ о судьбе. The wedding was to have taken place in May — должна была, но не состоялась."
+        },
+        "examples": [
+          {
+            "en": "I was about to give up when I found the answer.",
+            "ua": "Я вже готова була здатися, коли знайшла відповідь.",
+            "ru": "Я уже готова была сдаться, когда нашла ответ."
+          },
+          {
+            "en": "He didn't know that he was to become a famous artist.",
+            "ua": "Він не знав, що стане відомим художником.",
+            "ru": "Он не знал, что станет известным художником."
+          },
+          {
+            "en": "The meeting was to have taken place on Monday.",
+            "ua": "Зустріч мала відбутися в понеділок (але не відбулася).",
+            "ru": "Встреча должна была состояться в понедельник (но не состоялась)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "I was ___ to leave when you called.",
+          "options": [
+            "about",
+            "going",
+            "due"
+          ],
+          "answer": "about",
+          "explain": {
+            "ua": "Was about to — ось-ось.",
+            "ru": "Was about to — вот-вот."
+          },
+          "id": "c1-u03-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "Nobody knew that the boy ___ become a great scientist.",
+          "options": [
+            "was to",
+            "is to",
+            "will"
+          ],
+          "answer": "was to",
+          "explain": {
+            "ua": "Судилося → was to.",
+            "ru": "Суждено → was to."
+          },
+          "id": "c1-u03-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "The plane was ___ to land at 9.",
+          "options": [
+            "due",
+            "about",
+            "on"
+          ],
+          "answer": "due",
+          "explain": {
+            "ua": "За розкладом → due to.",
+            "ru": "По расписанию → due to."
+          },
+          "id": "c1-u03-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "I was on the point ___ giving up.",
+          "options": [
+            "of",
+            "to",
+            "for"
+          ],
+          "answer": "of",
+          "explain": {
+            "ua": "On the point of + -ing.",
+            "ru": "On the point of + -ing."
+          },
+          "id": "c1-u03-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "The concert was to have ___ place in May, but it was cancelled.",
+          "options": [
+            "taken",
+            "take",
+            "took"
+          ],
+          "answer": "taken",
+          "explain": {
+            "ua": "Was to have + V3.",
+            "ru": "Was to have + V3."
+          },
+          "id": "c1-u03-l03-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "future-in-past",
+          "bank": [
+            "about",
+            "to",
+            "due",
+            "point"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We were ___ to eat when he arrived.",
+            "She was ___ become queen.",
+            "The bus was ___ at 7.",
+            "I was on the ___ of crying."
+          ],
+          "answers": [
+            "about",
+            "to",
+            "due",
+            "point"
+          ],
+          "explain": {
+            "ua": "Різні форми.",
+            "ru": "Разные формы."
+          },
+          "id": "c1-u03-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "I was about leaving when she came.",
+          "answer": "I was about to leave when she came.",
+          "accept": [],
+          "explain": {
+            "ua": "About to + дієслово.",
+            "ru": "About to + глагол."
+          },
+          "id": "c1-u03-l03-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "We were on the point to leave.",
+          "answer": "We were on the point of leaving.",
+          "accept": [],
+          "explain": {
+            "ua": "On the point of + -ing.",
+            "ru": "On the point of + -ing."
+          },
+          "id": "c1-u03-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "future-in-past",
+          "prompt": {
+            "ua": "Я вже збиралася спати, коли він подзвонив.",
+            "ru": "Я уже собиралась спать, когда он позвонил."
+          },
+          "answer": "I was about to go to bed when he called.",
+          "accept": [
+            "I was about to go to sleep when he called.",
+            "I was just about to go to bed when he called.",
+            "I was about to go to bed when he rang."
+          ],
+          "explain": {
+            "ua": "Was about to.",
+            "ru": "Was about to."
+          },
+          "id": "c1-u03-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "c1-u03-l04",
+      "title": {
+        "en": "Practice: a life story",
+        "ua": "Практика: історія життя",
+        "ru": "Практика: история жизни"
+      },
+      "recap": {
+        "from": "c1-u03-l03",
+        "note": {
+          "ua": "Згадаймо: was about to + дієслово — ось-ось мав · was to + дієслово — судилося (книжне) · was to have + V3 — мав, але не сталося",
+          "ru": "Вспомним: was about to + глагол — вот-вот должен был · was to + глагол — суждено было (книжное) · was to have + V3 — должен был, но не случилось"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "I was ___ to leave when you called.",
+            "options": [
+              "about",
+              "going",
+              "due"
+            ],
+            "answer": "about",
+            "explain": {
+              "ua": "Was about to — ось-ось.",
+              "ru": "Was about to — вот-вот."
+            },
+            "id": "c1-u03-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-in-past",
+            "question": "The concert was to have ___ place in May, but it was cancelled.",
+            "options": [
+              "taken",
+              "take",
+              "took"
+            ],
+            "answer": "taken",
+            "explain": {
+              "ua": "Was to have + V3.",
+              "ru": "Was to have + V3."
+            },
+            "id": "c1-u03-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Iryna planned to become a doctor.",
+              "answer": false
+            },
+            {
+              "type": "truefalse",
+              "statement": "She was about to leave Lisbon when she got a job offer.",
+              "answer": true
+            },
+            {
+              "type": "choose",
+              "question": "What did she become?",
+              "options": [
+                "a successful designer",
+                "a lawyer",
+                "a teacher"
+              ],
+              "answer": "a successful designer"
+            }
+          ],
+          "text": "When Iryna moved to Lisbon in 2018, she was going to stay for just one year. She was supposed to go back to Ukraine and become a lawyer, like her father. But in her last week, when she was about to buy a plane ticket, a design studio offered her a job. Little did she know that she would stay in Portugal for good. She was to become one of the best-known designers in the city.",
+          "explain": {
+            "ua": "Was going to be a lawyer; moved for 1 year; about to leave → job offer; was to become a designer.",
+            "ru": "Was going to be a lawyer; moved for 1 year; about to leave → job offer; was to become a designer."
+          },
+          "id": "c1-u03-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "future-in-past",
+          "bank": [
+            "was going to",
+            "was supposed to",
+            "was about to",
+            "would",
+            "was to"
+          ],
+          "reuse": false,
+          "sentences": [
+            "She ___ stay for one year.",
+            "She ___ become a lawyer.",
+            "She ___ buy a ticket when she got the offer.",
+            "She didn't know she ___ stay for good.",
+            "She ___ become a famous designer."
+          ],
+          "answers": [
+            "was going to",
+            "was supposed to",
+            "was about to",
+            "would",
+            "was to"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u03-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "future-in-past",
+          "question": "'For good' means…",
+          "options": [
+            "forever",
+            "for a good reason",
+            "for a short time"
+          ],
+          "answer": "forever",
+          "explain": {
+            "ua": "For good = назавжди.",
+            "ru": "For good = навсегда."
+          },
+          "id": "c1-u03-l04-e03"
+        },
+        {
+          "type": "fix",
+          "topic": "future-in-past",
+          "sentence": "Little did she knew she would stay.",
+          "answer": "Little did she know she would stay.",
+          "accept": [],
+          "explain": {
+            "ua": "Did + know.",
+            "ru": "Did + know."
+          },
+          "id": "c1-u03-l04-e04"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "buy",
+            "was",
+            "ticket",
+            "a",
+            "about",
+            "to",
+            "She"
+          ],
+          "answer": "She was about to buy a ticket",
+          "explain": {
+            "ua": "Was about to → buy a ticket.",
+            "ru": "Was about to → buy a ticket."
+          },
+          "id": "c1-u03-l04-e05"
+        },
+        {
+          "type": "listen",
+          "topic": "future-in-past",
+          "audio_text": "I was going to tell you.",
+          "options": [
+            "I was going to tell you.",
+            "I'm going to tell you.",
+            "I was going to sell you."
+          ],
+          "answer": "I was going to tell you.",
+          "audio": "",
+          "explain": {
+            "ua": "Was going to.",
+            "ru": "Was going to."
+          },
+          "id": "c1-u03-l04-e06"
+        },
+        {
+          "type": "translate",
+          "topic": "future-in-past",
+          "prompt": {
+            "ua": "Ми мали зустрітися о шостій.",
+            "ru": "Мы должны были встретиться в шесть."
+          },
+          "answer": "We were supposed to meet at six.",
+          "accept": [
+            "We were supposed to meet at 6.",
+            "We were going to meet at six.",
+            "We were to meet at six."
+          ],
+          "explain": {
+            "ua": "Was supposed to.",
+            "ru": "Was supposed to."
+          },
+          "id": "c1-u03-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "future-in-past",
+          "prompt": {
+            "ua": "Я й гадки не мала, що залишуся тут.",
+            "ru": "Я и не подозревала, что останусь здесь."
+          },
+          "answer": "Little did I know I would stay here.",
+          "accept": [
+            "Little did I know that I would stay here.",
+            "I had no idea I would stay here.",
+            "I had no idea that I would stay here."
+          ],
+          "explain": {
+            "ua": "Little did I know.",
+            "ru": "Little did I know."
+          },
+          "id": "c1-u03-l04-e08"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "future-in-past",
+      "question": "I ___ going to call you, but I was busy.",
+      "options": [
+        "was",
+        "am",
+        "would"
+      ],
+      "answer": "was",
+      "explain": {
+        "ua": "Was going to.",
+        "ru": "Was going to."
+      },
+      "id": "c1-u03-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "future-in-past",
+      "question": "She said she ___ help me.",
+      "options": [
+        "would",
+        "will",
+        "is going"
+      ],
+      "answer": "would",
+      "explain": {
+        "ua": "Would.",
+        "ru": "Would."
+      },
+      "id": "c1-u03-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "future-in-past",
+      "question": "We were ___ to leave when it started to snow.",
+      "options": [
+        "about",
+        "due",
+        "supposed"
+      ],
+      "answer": "about",
+      "explain": {
+        "ua": "About to.",
+        "ru": "About to."
+      },
+      "id": "c1-u03-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "future-in-past",
+      "question": "The film was ___ to start at 8.",
+      "options": [
+        "due",
+        "about",
+        "on"
+      ],
+      "answer": "due",
+      "explain": {
+        "ua": "Due to.",
+        "ru": "Due to."
+      },
+      "id": "c1-u03-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "future-in-past",
+      "question": "He didn't know he ___ become a champion.",
+      "options": [
+        "was to",
+        "is to",
+        "will"
+      ],
+      "answer": "was to",
+      "explain": {
+        "ua": "Was to.",
+        "ru": "Was to."
+      },
+      "id": "c1-u03-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "future-in-past",
+      "question": "You were ___ to be here at 9!",
+      "answer": "supposed",
+      "accept": [],
+      "explain": {
+        "ua": "Supposed to.",
+        "ru": "Supposed to."
+      },
+      "id": "c1-u03-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "future-in-past",
+      "question": "I was on the point ___ leaving.",
+      "answer": "of",
+      "accept": [],
+      "explain": {
+        "ua": "On the point of.",
+        "ru": "On the point of."
+      },
+      "id": "c1-u03-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "future-in-past",
+      "sentence": "I thought you will like it.",
+      "answer": "I thought you would like it.",
+      "accept": [],
+      "explain": {
+        "ua": "Thought → would.",
+        "ru": "Thought → would."
+      },
+      "id": "c1-u03-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "future-in-past",
+      "sentence": "I was about to calling you.",
+      "answer": "I was about to call you.",
+      "accept": [],
+      "explain": {
+        "ua": "About to + call.",
+        "ru": "About to + call."
+      },
+      "id": "c1-u03-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "future-in-past",
+      "words": [
+        "would",
+        "I",
+        "knew",
+        "you",
+        "understand"
+      ],
+      "answer": "I knew you would understand",
+      "explain": {
+        "ua": "Knew → would.",
+        "ru": "Knew → would."
+      },
+      "id": "c1-u03-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "future-in-past",
+      "prompt": {
+        "ua": "Я збиралася піти, але залишилась.",
+        "ru": "Я собиралась уйти, но осталась."
+      },
+      "answer": "I was going to leave, but I stayed.",
+      "accept": [
+        "I was going to go, but I stayed."
+      ],
+      "explain": {
+        "ua": "Was going to.",
+        "ru": "Was going to."
+      },
+      "id": "c1-u03-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "future-in-past",
+      "audio_text": "We were about to leave.",
+      "options": [
+        "We were about to leave.",
+        "We were about to live.",
+        "We are about to leave."
+      ],
+      "answer": "We were about to leave.",
+      "audio": "",
+      "explain": {
+        "ua": "Were about to.",
+        "ru": "Were about to."
+      },
+      "id": "c1-u03-cp12"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 // UI strings. Ukrainian is the default, Russian is secondary (SPEC §2).
 const S = {
   ua: {
-    start: 'Почати', next: 'Далі', check: 'Перевірити', continue: 'Продовжити', understood: 'Зрозуміло!',
+    start: 'Почати', loading: 'Завантажую урок…', newWords: 'Нові слова', newWordsSub: 'Послухай і запам’ятай — далі будуть завдання з ними.', next: 'Далі', check: 'Перевірити', continue: 'Продовжити', understood: 'Зрозуміло!',
     back: 'Назад', skip: 'Пропустити', close: 'Закрити', done: 'Готово', later: 'Пізніше',
     slogan: 'Your language journey with Verbi',
     chooseLang: 'Обери мову пояснень', chooseLangSub: 'Змінити можна будь-коли в налаштуваннях',
@@ -69,7 +69,7 @@ const S = {
     fromLevelComing: 'Контент рівня {level} готується. А поки можна повторити попередні рівні або пройти мінікурс транскрипції.',
   },
   ru: {
-    start: 'Начать', next: 'Далее', check: 'Проверить', continue: 'Продолжить', understood: 'Понятно!',
+    start: 'Начать', loading: 'Загружаю урок…', newWords: 'Новые слова', newWordsSub: 'Послушай и запомни — дальше будут задания с ними.', next: 'Далее', check: 'Проверить', continue: 'Продолжить', understood: 'Понятно!',
     back: 'Назад', skip: 'Пропустить', close: 'Закрыть', done: 'Готово', later: 'Позже',
     slogan: 'Your language journey with Verbi',
     chooseLang: 'Выбери язык объяснений', chooseLangSub: 'Поменять можно в любой момент в настройках',
@@ -147,6 +147,3 @@ export function makeT(lang) {
   };
 }
 
-// Readable names for topic tags live in content/topics.json.
-import topics from '../../content/topics.json';
-export const TOPIC_NAMES = topics;

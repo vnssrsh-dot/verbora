@@ -1,0 +1,1580 @@
+{
+  "id": "c1-u08",
+  "level": "C1",
+  "order": 8,
+  "kind": "vocab",
+  "title": {
+    "en": "Arts and culture",
+    "ua": "Мистецтво й культура",
+    "ru": "Искусство и культура"
+  },
+  "rule": null,
+  "vocab": [
+    {
+      "word": "masterpiece",
+      "ipa": "/ˈmɑːstəpiːs/",
+      "ua": "шедевр",
+      "ru": "шедевр",
+      "example": "a true masterpiece",
+      "audio": ""
+    },
+    {
+      "word": "exhibition",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "ua": "виставка",
+      "ru": "выставка",
+      "example": "an art exhibition",
+      "audio": ""
+    },
+    {
+      "word": "sculpture",
+      "ipa": "/ˈskʌlptʃə/",
+      "ua": "скульптура",
+      "ru": "скульптура",
+      "example": "a bronze sculpture",
+      "audio": ""
+    },
+    {
+      "word": "portrait",
+      "ipa": "/ˈpɔːtrɪt/",
+      "ua": "портрет",
+      "ru": "портрет",
+      "example": "a self-portrait",
+      "audio": ""
+    },
+    {
+      "word": "abstract",
+      "ipa": "/ˈæbstrækt/",
+      "ua": "абстрактний",
+      "ru": "абстрактный",
+      "example": "abstract art",
+      "audio": ""
+    },
+    {
+      "word": "plot",
+      "ipa": "/plɒt/",
+      "ua": "сюжет",
+      "ru": "сюжет",
+      "example": "a complicated plot",
+      "audio": ""
+    },
+    {
+      "word": "setting",
+      "ipa": "/ˈsetɪŋ/",
+      "ua": "місце й час дії",
+      "ru": "место и время действия",
+      "example": "The setting is 1920s Paris.",
+      "audio": ""
+    },
+    {
+      "word": "genre",
+      "ipa": "/ˈʒɒnrə/",
+      "ua": "жанр",
+      "ru": "жанр",
+      "example": "my favourite genre",
+      "audio": ""
+    },
+    {
+      "word": "adaptation",
+      "ipa": "/ˌædæpˈteɪʃn/",
+      "ua": "екранізація, адаптація",
+      "ru": "экранизация, адаптация",
+      "example": "a film adaptation of the novel",
+      "audio": ""
+    },
+    {
+      "word": "sequel",
+      "ipa": "/ˈsiːkwəl/",
+      "ua": "продовження (фільму, книги)",
+      "ru": "продолжение (фильма, книги)",
+      "example": "The sequel was disappointing.",
+      "audio": ""
+    },
+    {
+      "word": "premiere",
+      "ipa": "/ˈpremieə/",
+      "ua": "прем'єра",
+      "ru": "премьера",
+      "example": "the world premiere",
+      "audio": ""
+    },
+    {
+      "word": "audience",
+      "ipa": "/ˈɔːdiəns/",
+      "ua": "глядачі, аудиторія",
+      "ru": "зрители, аудитория",
+      "example": "The audience loved it.",
+      "audio": ""
+    },
+    {
+      "word": "performance",
+      "ipa": "/pəˈfɔːməns/",
+      "ua": "виступ, гра (актора)",
+      "ru": "выступление, игра (актёра)",
+      "example": "an outstanding performance",
+      "audio": ""
+    },
+    {
+      "word": "critic",
+      "ipa": "/ˈkrɪtɪk/",
+      "ua": "критик",
+      "ru": "критик",
+      "example": "film critics",
+      "audio": ""
+    },
+    {
+      "word": "acclaimed",
+      "ipa": "/əˈkleɪmd/",
+      "ua": "визнаний, схвалений",
+      "ru": "признанный, получивший признание",
+      "example": "a critically acclaimed novel",
+      "audio": ""
+    },
+    {
+      "word": "thought-provoking",
+      "ipa": "/ˈθɔːt prəvəʊkɪŋ/",
+      "ua": "що змушує замислитися",
+      "ru": "заставляющий задуматься",
+      "example": "a thought-provoking film",
+      "audio": ""
+    },
+    {
+      "word": "gripping",
+      "ipa": "/ˈɡrɪpɪŋ/",
+      "ua": "захопливий",
+      "ru": "захватывающий",
+      "example": "a gripping thriller",
+      "audio": ""
+    },
+    {
+      "word": "overrated",
+      "ipa": "/ˌəʊvəˈreɪtɪd/",
+      "ua": "переоцінений",
+      "ru": "переоценённый",
+      "example": "I think it's overrated.",
+      "audio": ""
+    },
+    {
+      "word": "predictable",
+      "ipa": "/prɪˈdɪktəbl/",
+      "ua": "передбачуваний",
+      "ru": "предсказуемый",
+      "example": "The ending was predictable.",
+      "audio": ""
+    },
+    {
+      "word": "moving",
+      "ipa": "/ˈmuːvɪŋ/",
+      "ua": "зворушливий",
+      "ru": "трогательный",
+      "example": "a moving story",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c1-u08-l01",
+      "title": {
+        "en": "Art and museums",
+        "ua": "Мистецтво й музеї",
+        "ru": "Искусство и музеи"
+      },
+      "recap": {
+        "from": "c1-u07-l02",
+        "note": {
+          "ua": "Згадаймо: дієслово / прийменник + being + V3 · дієслово + to be + V3 · Having been + V3, … · to have been + V3",
+          "ru": "Вспомним: глагол / предлог + being + V3 · глагол + to be + V3 · Having been + V3, … · to have been + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "passive-forms",
+            "question": "I hate ___ when I'm working.",
+            "options": [
+              "being interrupted",
+              "to interrupt",
+              "interrupted"
+            ],
+            "answer": "being interrupted",
+            "explain": {
+              "ua": "Hate + being + V3.",
+              "ru": "Hate + being + V3."
+            },
+            "id": "c1-u08-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "passive-forms",
+            "question": "___ warned about the storm, we stayed at home.",
+            "options": [
+              "Having been",
+              "Having",
+              "Being have"
+            ],
+            "answer": "Having been",
+            "explain": {
+              "ua": "Having been + V3.",
+              "ru": "Having been + V3."
+            },
+            "id": "c1-u08-l01-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "masterpiece",
+              "right": {
+                "ua": "шедевр",
+                "ru": "шедевр"
+              }
+            },
+            {
+              "left": "exhibition",
+              "right": {
+                "ua": "виставка",
+                "ru": "выставка"
+              }
+            },
+            {
+              "left": "sculpture",
+              "right": {
+                "ua": "скульптура",
+                "ru": "скульптура"
+              }
+            },
+            {
+              "left": "portrait",
+              "right": {
+                "ua": "портрет",
+                "ru": "портрет"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u08-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The Mona Lisa is a ___ .",
+          "options": [
+            "masterpiece",
+            "sequel",
+            "genre"
+          ],
+          "answer": "masterpiece",
+          "explain": {
+            "ua": "Masterpiece.",
+            "ru": "Masterpiece."
+          },
+          "id": "c1-u08-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "There's a new photography ___ at the gallery.",
+          "options": [
+            "exhibition",
+            "premiere",
+            "plot"
+          ],
+          "answer": "exhibition",
+          "explain": {
+            "ua": "Exhibition.",
+            "ru": "Exhibition."
+          },
+          "id": "c1-u08-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Picasso painted many ___ of his friends.",
+          "options": [
+            "portraits",
+            "sculptures",
+            "sequels"
+          ],
+          "answer": "portraits",
+          "explain": {
+            "ua": "Portraits.",
+            "ru": "Portraits."
+          },
+          "id": "c1-u08-l01-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I don't understand ___ art — it's just shapes and colours.",
+          "options": [
+            "abstract",
+            "acclaimed",
+            "moving"
+          ],
+          "answer": "abstract",
+          "explain": {
+            "ua": "Abstract art.",
+            "ru": "Abstract art."
+          },
+          "id": "c1-u08-l01-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Michelangelo's David is a famous ___ .",
+          "options": [
+            "sculpture",
+            "portrait",
+            "audience"
+          ],
+          "answer": "sculpture",
+          "explain": {
+            "ua": "Sculpture.",
+            "ru": "Sculpture."
+          },
+          "id": "c1-u08-l01-e06"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A work of art that is the best of its kind.",
+          "answer": "masterpiece",
+          "accept": [
+            "a masterpiece"
+          ],
+          "explain": {
+            "ua": "Masterpiece.",
+            "ru": "Masterpiece."
+          },
+          "id": "c1-u08-l01-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "We visited an exposition of modern art.",
+          "answer": "We visited an exhibition of modern art.",
+          "accept": [
+            "We went to an exhibition of modern art.",
+            "We visited a modern art exhibition."
+          ],
+          "explain": {
+            "ua": "Виставка → exhibition.",
+            "ru": "Выставка → exhibition."
+          },
+          "id": "c1-u08-l01-e08"
+        },
+        {
+          "type": "ipa",
+          "topic": "vocab",
+          "ipa": "/ˈskʌlptʃə/",
+          "options": [
+            "sculpture",
+            "culture",
+            "scripture"
+          ],
+          "answer": "sculpture",
+          "explain": {
+            "ua": "p майже не чути.",
+            "ru": "p почти не слышно."
+          },
+          "id": "c1-u08-l01-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Ця картина — справжній шедевр.",
+            "ru": "Эта картина — настоящий шедевр."
+          },
+          "answer": "This painting is a real masterpiece.",
+          "accept": [
+            "This painting is a true masterpiece.",
+            "This picture is a real masterpiece."
+          ],
+          "explain": {
+            "ua": "Masterpiece.",
+            "ru": "Masterpiece."
+          },
+          "id": "c1-u08-l01-e10"
+        }
+      ],
+      "words": [
+        "masterpiece",
+        "exhibition",
+        "sculpture",
+        "portrait",
+        "abstract"
+      ]
+    },
+    {
+      "id": "c1-u08-l02",
+      "title": {
+        "en": "Films and books",
+        "ua": "Фільми й книжки",
+        "ru": "Фильмы и книги"
+      },
+      "recap": {
+        "from": "c1-u08-l01",
+        "note": {
+          "ua": "Згадаймо: Мистецтво й музеї",
+          "ru": "Вспомним: Искусство и музеи"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The Mona Lisa is a ___ .",
+            "options": [
+              "masterpiece",
+              "sequel",
+              "genre"
+            ],
+            "answer": "masterpiece",
+            "explain": {
+              "ua": "Masterpiece.",
+              "ru": "Masterpiece."
+            },
+            "id": "c1-u08-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "Michelangelo's David is a famous ___ .",
+            "options": [
+              "sculpture",
+              "portrait",
+              "audience"
+            ],
+            "answer": "sculpture",
+            "explain": {
+              "ua": "Sculpture.",
+              "ru": "Sculpture."
+            },
+            "id": "c1-u08-l02-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "plot",
+              "right": {
+                "ua": "сюжет",
+                "ru": "сюжет"
+              }
+            },
+            {
+              "left": "setting",
+              "right": {
+                "ua": "місце дії",
+                "ru": "место действия"
+              }
+            },
+            {
+              "left": "sequel",
+              "right": {
+                "ua": "продовження",
+                "ru": "продолжение"
+              }
+            },
+            {
+              "left": "adaptation",
+              "right": {
+                "ua": "екранізація",
+                "ru": "экранизация"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u08-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ is very complicated — I got lost halfway.",
+          "options": [
+            "plot",
+            "audience",
+            "critic"
+          ],
+          "answer": "plot",
+          "explain": {
+            "ua": "Plot.",
+            "ru": "Plot."
+          },
+          "id": "c1-u08-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ of the novel is a small village in the Carpathians.",
+          "options": [
+            "setting",
+            "genre",
+            "sequel"
+          ],
+          "answer": "setting",
+          "explain": {
+            "ua": "Setting.",
+            "ru": "Setting."
+          },
+          "id": "c1-u08-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Horror isn't my favourite ___ .",
+          "options": [
+            "genre",
+            "plot",
+            "premiere"
+          ],
+          "answer": "genre",
+          "explain": {
+            "ua": "Genre.",
+            "ru": "Genre."
+          },
+          "id": "c1-u08-l02-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The film is an ___ of a famous novel.",
+          "options": [
+            "adaptation",
+            "exhibition",
+            "audience"
+          ],
+          "answer": "adaptation",
+          "explain": {
+            "ua": "Adaptation.",
+            "ru": "Adaptation."
+          },
+          "id": "c1-u08-l02-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The first film was great, but the ___ was terrible.",
+          "options": [
+            "sequel",
+            "setting",
+            "portrait"
+          ],
+          "answer": "sequel",
+          "explain": {
+            "ua": "Sequel.",
+            "ru": "Sequel."
+          },
+          "id": "c1-u08-l02-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The ___ stood up and clapped at the end.",
+          "options": [
+            "audience",
+            "critic",
+            "plot"
+          ],
+          "answer": "audience",
+          "explain": {
+            "ua": "Audience.",
+            "ru": "Audience."
+          },
+          "id": "c1-u08-l02-e07"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "premiere",
+            "performance",
+            "audience",
+            "critics"
+          ],
+          "reuse": false,
+          "sentences": [
+            "We went to the ___ of the film.",
+            "Her ___ as the queen was brilliant.",
+            "The ___ loved it.",
+            "But the ___ hated it."
+          ],
+          "answers": [
+            "premiere",
+            "performance",
+            "audience",
+            "critics"
+          ],
+          "explain": {
+            "ua": "Кіно й театр.",
+            "ru": "Кино и театр."
+          },
+          "id": "c1-u08-l02-e08"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "The sequel was disappointing.",
+          "options": [
+            "The sequel was disappointing.",
+            "The equal was disappointing.",
+            "The sequel was disappearing."
+          ],
+          "answer": "The sequel was disappointing.",
+          "audio": "",
+          "explain": {
+            "ua": "Sequel.",
+            "ru": "Sequel."
+          },
+          "id": "c1-u08-l02-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Сюжет дуже передбачуваний.",
+            "ru": "Сюжет очень предсказуемый."
+          },
+          "answer": "The plot is very predictable.",
+          "accept": [
+            "The storyline is very predictable."
+          ],
+          "explain": {
+            "ua": "Plot.",
+            "ru": "Plot."
+          },
+          "id": "c1-u08-l02-e10"
+        }
+      ],
+      "words": [
+        "plot",
+        "setting",
+        "genre",
+        "adaptation",
+        "sequel",
+        "premiere",
+        "audience",
+        "performance"
+      ]
+    },
+    {
+      "id": "c1-u08-l03",
+      "title": {
+        "en": "Reviews and opinions",
+        "ua": "Рецензії й думки",
+        "ru": "Рецензии и мнения"
+      },
+      "recap": {
+        "from": "c1-u08-l02",
+        "note": {
+          "ua": "Згадаймо: Фільми й книжки",
+          "ru": "Вспомним: Фильмы и книги"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The ___ is very complicated — I got lost halfway.",
+            "options": [
+              "plot",
+              "audience",
+              "critic"
+            ],
+            "answer": "plot",
+            "explain": {
+              "ua": "Plot.",
+              "ru": "Plot."
+            },
+            "id": "c1-u08-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The film is an ___ of a famous novel.",
+            "options": [
+              "adaptation",
+              "exhibition",
+              "audience"
+            ],
+            "answer": "adaptation",
+            "explain": {
+              "ua": "Adaptation.",
+              "ru": "Adaptation."
+            },
+            "id": "c1-u08-l03-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "gripping",
+              "right": {
+                "ua": "захопливий",
+                "ru": "захватывающий"
+              }
+            },
+            {
+              "left": "overrated",
+              "right": {
+                "ua": "переоцінений",
+                "ru": "переоценённый"
+              }
+            },
+            {
+              "left": "thought-provoking",
+              "right": {
+                "ua": "змушує замислитися",
+                "ru": "заставляет задуматься"
+              }
+            },
+            {
+              "left": "moving",
+              "right": {
+                "ua": "зворушливий",
+                "ru": "трогательный"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u08-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I couldn't put the book down. It was so ___ !",
+          "options": [
+            "gripping",
+            "predictable",
+            "overrated"
+          ],
+          "answer": "gripping",
+          "explain": {
+            "ua": "Gripping.",
+            "ru": "Gripping."
+          },
+          "id": "c1-u08-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Everyone loves that film, but I think it's ___ .",
+          "options": [
+            "overrated",
+            "acclaimed",
+            "moving"
+          ],
+          "answer": "overrated",
+          "explain": {
+            "ua": "Overrated.",
+            "ru": "Overrated."
+          },
+          "id": "c1-u08-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I cried at the end. It was really ___ .",
+          "options": [
+            "moving",
+            "gripping",
+            "abstract"
+          ],
+          "answer": "moving",
+          "explain": {
+            "ua": "Moving.",
+            "ru": "Moving."
+          },
+          "id": "c1-u08-l03-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "I knew how it would end after ten minutes. So ___ !",
+          "options": [
+            "predictable",
+            "thought-provoking",
+            "acclaimed"
+          ],
+          "answer": "predictable",
+          "explain": {
+            "ua": "Predictable.",
+            "ru": "Predictable."
+          },
+          "id": "c1-u08-l03-e05"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "The novel was critically ___ and won many prizes.",
+          "options": [
+            "acclaimed",
+            "overrated",
+            "predictable"
+          ],
+          "answer": "acclaimed",
+          "explain": {
+            "ua": "Acclaimed.",
+            "ru": "Acclaimed."
+          },
+          "id": "c1-u08-l03-e06"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "It's a ___ documentary about climate change. I'm still thinking about it.",
+          "options": [
+            "thought-provoking",
+            "predictable",
+            "overrated"
+          ],
+          "answer": "thought-provoking",
+          "explain": {
+            "ua": "Thought-provoking.",
+            "ru": "Thought-provoking."
+          },
+          "id": "c1-u08-l03-e07"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "Exciting and holding your attention completely.",
+          "answer": "gripping",
+          "accept": [
+            "thrilling"
+          ],
+          "explain": {
+            "ua": "Gripping.",
+            "ru": "Gripping."
+          },
+          "id": "c1-u08-l03-e08"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The film was very touched.",
+          "answer": "The film was very moving.",
+          "accept": [
+            "The film was very touching."
+          ],
+          "explain": {
+            "ua": "Зворушливий → moving.",
+            "ru": "Трогательный → moving."
+          },
+          "id": "c1-u08-l03-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Мені здається, цей фільм переоцінений.",
+            "ru": "Мне кажется, этот фильм переоценён."
+          },
+          "answer": "I think this film is overrated.",
+          "accept": [
+            "I think the film is overrated.",
+            "In my opinion, this film is overrated.",
+            "I think this movie is overrated."
+          ],
+          "explain": {
+            "ua": "Overrated.",
+            "ru": "Overrated."
+          },
+          "id": "c1-u08-l03-e10"
+        }
+      ],
+      "words": [
+        "critic",
+        "acclaimed",
+        "thought-provoking",
+        "gripping",
+        "overrated",
+        "predictable",
+        "moving"
+      ]
+    },
+    {
+      "id": "c1-u08-l04",
+      "title": {
+        "en": "In context: a review",
+        "ua": "У контексті: рецензія",
+        "ru": "В контексте: рецензия"
+      },
+      "recap": {
+        "from": "c1-u08-l03",
+        "note": {
+          "ua": "Згадаймо: Рецензії й думки",
+          "ru": "Вспомним: Рецензии и мнения"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "I couldn't put the book down. It was so ___ !",
+            "options": [
+              "gripping",
+              "predictable",
+              "overrated"
+            ],
+            "answer": "gripping",
+            "explain": {
+              "ua": "Gripping.",
+              "ru": "Gripping."
+            },
+            "id": "c1-u08-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "The novel was critically ___ and won many prizes.",
+            "options": [
+              "acclaimed",
+              "overrated",
+              "predictable"
+            ],
+            "answer": "acclaimed",
+            "explain": {
+              "ua": "Acclaimed.",
+              "ru": "Acclaimed."
+            },
+            "id": "c1-u08-l04-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "choose",
+              "question": "What is the film based on?",
+              "options": [
+                "a novel",
+                "a true story",
+                "a play"
+              ],
+              "answer": "a novel"
+            },
+            {
+              "type": "truefalse",
+              "statement": "The reviewer liked the main actress.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "The reviewer thinks the ending is surprising.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What is the reviewer's overall opinion?",
+              "options": [
+                "good but a bit overrated",
+                "a complete masterpiece",
+                "boring and terrible"
+              ],
+              "answer": "good but a bit overrated"
+            }
+          ],
+          "text": "'The Last Summer' is an adaptation of the acclaimed novel by Olena Koval. The setting is Odesa in the 1920s, and the city looks stunning on screen. The plot is gripping for the first hour, and Maria Lysenko gives an outstanding performance as the young poet. Sadly, the ending is rather predictable, and the film is twenty minutes too long. It's a moving, thought-provoking story, but in my view, it's slightly overrated. Three stars out of five.",
+          "explain": {
+            "ua": "Adaptation of novel; setting Odesa 1920s; gripping plot; outstanding performance; predictable ending; a bit overrated.",
+            "ru": "Adaptation of novel; setting Odesa 1920s; gripping plot; outstanding performance; predictable ending; a bit overrated."
+          },
+          "id": "c1-u08-l04-e01"
+        },
+        {
+          "type": "wordbank",
+          "topic": "vocab",
+          "bank": [
+            "adaptation",
+            "setting",
+            "performance",
+            "predictable",
+            "overrated"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The film is an ___ of a novel.",
+            "The ___ is Odesa in the 1920s.",
+            "Maria gives an outstanding ___.",
+            "The ending is ___.",
+            "The critic thinks it's slightly ___."
+          ],
+          "answers": [
+            "adaptation",
+            "setting",
+            "performance",
+            "predictable",
+            "overrated"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "c1-u08-l04-e02"
+        },
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "stunning",
+              "right": {
+                "ua": "приголомшливий",
+                "ru": "потрясающий"
+              }
+            },
+            {
+              "left": "outstanding",
+              "right": {
+                "ua": "видатний",
+                "ru": "выдающийся"
+              }
+            },
+            {
+              "left": "rather",
+              "right": {
+                "ua": "доволі",
+                "ru": "довольно"
+              }
+            },
+            {
+              "left": "out of five",
+              "right": {
+                "ua": "з п'яти",
+                "ru": "из пяти"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Фрази з тексту.",
+            "ru": "Фразы из текста."
+          },
+          "id": "c1-u08-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "'Stunning' is closest to…",
+          "options": [
+            "very beautiful",
+            "very boring",
+            "very long"
+          ],
+          "answer": "very beautiful",
+          "explain": {
+            "ua": "Stunning — дуже гарний.",
+            "ru": "Stunning — очень красивый."
+          },
+          "id": "c1-u08-l04-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The film is based in a novel.",
+          "answer": "The film is based on a novel.",
+          "accept": [
+            "The film is an adaptation of a novel."
+          ],
+          "explain": {
+            "ua": "Based ON.",
+            "ru": "Based ON."
+          },
+          "id": "c1-u08-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "She gives an outstanding play as the poet.",
+          "answer": "She gives an outstanding performance as the poet.",
+          "accept": [],
+          "explain": {
+            "ua": "Гра актора → performance.",
+            "ru": "Игра актёра → performance."
+          },
+          "id": "c1-u08-l04-e06"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "It's slightly overrated.",
+          "options": [
+            "It's slightly overrated.",
+            "It's slightly overheated.",
+            "It's highly overrated."
+          ],
+          "answer": "It's slightly overrated.",
+          "audio": "",
+          "explain": {
+            "ua": "Slightly overrated.",
+            "ru": "Slightly overrated."
+          },
+          "id": "c1-u08-l04-e07"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Фільм знято за романом.",
+            "ru": "Фильм снят по роману."
+          },
+          "answer": "The film is based on a novel.",
+          "accept": [
+            "The film is an adaptation of a novel.",
+            "The movie is based on a novel."
+          ],
+          "explain": {
+            "ua": "Based on.",
+            "ru": "Based on."
+          },
+          "id": "c1-u08-l04-e08"
+        }
+      ]
+    },
+    {
+      "id": "c1-u08-l05",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "c1-u08-l04",
+        "note": {
+          "ua": "Згадаймо: У контексті: рецензія",
+          "ru": "Вспомним: В контексте: рецензия"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "vocab",
+            "question": "'Stunning' is closest to…",
+            "options": [
+              "very beautiful",
+              "very boring",
+              "very long"
+            ],
+            "answer": "very beautiful",
+            "explain": {
+              "ua": "Stunning — дуже гарний.",
+              "ru": "Stunning — очень красивый."
+            },
+            "id": "c1-u08-l05-r01"
+          },
+          {
+            "type": "fix",
+            "topic": "vocab",
+            "sentence": "She gives an outstanding play as the poet.",
+            "answer": "She gives an outstanding performance as the poet.",
+            "accept": [],
+            "explain": {
+              "ua": "Гра актора → performance.",
+              "ru": "Игра актёра → performance."
+            },
+            "id": "c1-u08-l05-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "match",
+          "topic": "vocab",
+          "pairs": [
+            {
+              "left": "audience",
+              "right": {
+                "ua": "глядачі",
+                "ru": "зрители"
+              }
+            },
+            {
+              "left": "critic",
+              "right": {
+                "ua": "критик",
+                "ru": "критик"
+              }
+            },
+            {
+              "left": "premiere",
+              "right": {
+                "ua": "прем'єра",
+                "ru": "премьера"
+              }
+            },
+            {
+              "left": "genre",
+              "right": {
+                "ua": "жанр",
+                "ru": "жанр"
+              }
+            }
+          ],
+          "explain": {
+            "ua": "Повтори картки.",
+            "ru": "Повтори карточки."
+          },
+          "id": "c1-u08-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Gripping ↔ ___",
+          "options": [
+            "boring",
+            "moving",
+            "acclaimed"
+          ],
+          "answer": "boring",
+          "explain": {
+            "ua": "Захопливий ↔ нудний.",
+            "ru": "Захватывающий ↔ скучный."
+          },
+          "id": "c1-u08-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "vocab",
+          "question": "Overrated ↔ ___",
+          "options": [
+            "underrated",
+            "acclaimed",
+            "predictable"
+          ],
+          "answer": "underrated",
+          "explain": {
+            "ua": "Переоцінений ↔ недооцінений.",
+            "ru": "Переоценённый ↔ недооценённый."
+          },
+          "id": "c1-u08-l05-e03"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "The story of a film or book.",
+          "answer": "plot",
+          "accept": [
+            "the plot",
+            "story",
+            "storyline"
+          ],
+          "explain": {
+            "ua": "Plot.",
+            "ru": "Plot."
+          },
+          "id": "c1-u08-l05-e04"
+        },
+        {
+          "type": "define",
+          "topic": "vocab",
+          "definition": "A film or book that continues an earlier story.",
+          "answer": "sequel",
+          "accept": [
+            "a sequel"
+          ],
+          "explain": {
+            "ua": "Sequel.",
+            "ru": "Sequel."
+          },
+          "id": "c1-u08-l05-e05"
+        },
+        {
+          "type": "associate",
+          "topic": "vocab",
+          "cue": "museum",
+          "answer": "exhibition",
+          "accept": [
+            "art",
+            "painting",
+            "gallery",
+            "sculpture"
+          ],
+          "explain": {
+            "ua": "Музей → виставка.",
+            "ru": "Музей → выставка."
+          },
+          "id": "c1-u08-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "vocab",
+          "sentence": "The publics loved the show.",
+          "answer": "The audience loved the show.",
+          "accept": [],
+          "explain": {
+            "ua": "Глядачі → audience.",
+            "ru": "Зрители → audience."
+          },
+          "id": "c1-u08-l05-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "vocab",
+          "audio_text": "A thought-provoking documentary",
+          "options": [
+            "A thought-provoking documentary",
+            "A thought-provoked documentary",
+            "A taught-provoking documentary"
+          ],
+          "answer": "A thought-provoking documentary",
+          "audio": "",
+          "explain": {
+            "ua": "Thought-provoking.",
+            "ru": "Thought-provoking."
+          },
+          "id": "c1-u08-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "vocab",
+          "prompt": {
+            "ua": "Кінцівка була дуже зворушливою.",
+            "ru": "Концовка была очень трогательной."
+          },
+          "answer": "The ending was very moving.",
+          "accept": [
+            "The ending was really moving.",
+            "The ending was very touching."
+          ],
+          "explain": {
+            "ua": "Moving.",
+            "ru": "Moving."
+          },
+          "id": "c1-u08-l05-e09"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "Guernica is Picasso's ___ .",
+      "options": [
+        "masterpiece",
+        "sequel",
+        "audience"
+      ],
+      "answer": "masterpiece",
+      "explain": {
+        "ua": "Masterpiece.",
+        "ru": "Masterpiece."
+      },
+      "id": "c1-u08-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "The ___ of the novel is 19th-century London.",
+      "options": [
+        "setting",
+        "audience",
+        "critic"
+      ],
+      "answer": "setting",
+      "explain": {
+        "ua": "Setting.",
+        "ru": "Setting."
+      },
+      "id": "c1-u08-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "vocab",
+      "question": "I knew the ending. It was so ___ .",
+      "options": [
+        "predictable",
+        "gripping",
+        "moving"
+      ],
+      "answer": "predictable",
+      "explain": {
+        "ua": "Predictable.",
+        "ru": "Predictable."
+      },
+      "id": "c1-u08-cp03"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "All the people watching a film or play.",
+      "answer": "audience",
+      "accept": [
+        "the audience"
+      ],
+      "explain": {
+        "ua": "Audience.",
+        "ru": "Audience."
+      },
+      "id": "c1-u08-cp04"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who writes reviews.",
+      "answer": "critic",
+      "accept": [
+        "a critic",
+        "reviewer"
+      ],
+      "explain": {
+        "ua": "Critic.",
+        "ru": "Critic."
+      },
+      "id": "c1-u08-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "vocab",
+      "question": "The film is an ___ of the book.",
+      "answer": "adaptation",
+      "accept": [],
+      "explain": {
+        "ua": "Adaptation.",
+        "ru": "Adaptation."
+      },
+      "id": "c1-u08-cp06"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "gripping",
+          "right": {
+            "ua": "захопливий",
+            "ru": "захватывающий"
+          }
+        },
+        {
+          "left": "setting",
+          "right": {
+            "ua": "місце дії",
+            "ru": "место действия"
+          }
+        },
+        {
+          "left": "portrait",
+          "right": {
+            "ua": "портрет",
+            "ru": "портрет"
+          }
+        },
+        {
+          "left": "acclaimed",
+          "right": {
+            "ua": "визнаний",
+            "ru": "признанный"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "c1-u08-cp07"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "It's a very thought-provoked book.",
+      "answer": "It's a very thought-provoking book.",
+      "accept": [],
+      "explain": {
+        "ua": "Thought-provoking.",
+        "ru": "Thought-provoking."
+      },
+      "id": "c1-u08-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "We went to the exposition.",
+      "answer": "We went to the exhibition.",
+      "accept": [],
+      "explain": {
+        "ua": "Exhibition.",
+        "ru": "Exhibition."
+      },
+      "id": "c1-u08-cp09"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "absolutely",
+        "was",
+        "Her",
+        "performance",
+        "outstanding"
+      ],
+      "answer": "Her performance was absolutely outstanding",
+      "explain": {
+        "ua": "Her performance → was outstanding.",
+        "ru": "Her performance → was outstanding."
+      },
+      "id": "c1-u08-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "Продовження було гіршим.",
+        "ru": "Продолжение было хуже."
+      },
+      "answer": "The sequel was worse.",
+      "accept": [
+        "The sequel was worse than the first one.",
+        "The sequel wasn't as good."
+      ],
+      "explain": {
+        "ua": "Sequel.",
+        "ru": "Sequel."
+      },
+      "id": "c1-u08-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "vocab",
+      "audio_text": "The audience gave a standing ovation.",
+      "options": [
+        "The audience gave a standing ovation.",
+        "The audience gave a standing nation.",
+        "The audience gave a sitting ovation."
+      ],
+      "answer": "The audience gave a standing ovation.",
+      "audio": "",
+      "explain": {
+        "ua": "Standing ovation.",
+        "ru": "Standing ovation."
+      },
+      "id": "c1-u08-cp12"
+    }
+  ]
+}

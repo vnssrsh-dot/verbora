@@ -1,0 +1,1964 @@
+{
+  "id": "a2-u14",
+  "level": "A2",
+  "order": 14,
+  "kind": "grammar",
+  "title": {
+    "en": "Present Perfect: introduction",
+    "ua": "Present Perfect: знайомство",
+    "ru": "Present Perfect: знакомство"
+  },
+  "rule": {
+    "formula": {
+      "ua": "have / has + V3 (третя форма)",
+      "ru": "have / has + V3 (третья форма)"
+    },
+    "explain": {
+      "ua": "Present Perfect пов'язує минуле з теперішнім: досвід у житті (I've been to Paris), щойно зроблене (I've just finished), результат зараз (I've lost my keys — їх немає). Точний час не називаємо!",
+      "ru": "Present Perfect связывает прошлое с настоящим: опыт в жизни (I've been to Paris), только что сделанное (I've just finished), результат сейчас (I've lost my keys — их нет). Точное время не называем!"
+    },
+    "examples": [
+      {
+        "en": "I've been to London.",
+        "ua": "Я бував у Лондоні.",
+        "ru": "Я бывал в Лондоне."
+      },
+      {
+        "en": "She has just left.",
+        "ua": "Вона щойно пішла.",
+        "ru": "Она только что ушла."
+      },
+      {
+        "en": "Have you ever tried sushi?",
+        "ua": "Ти коли-небудь куштував суші?",
+        "ru": "Ты когда-нибудь пробовал суши?"
+      }
+    ],
+    "compare": {
+      "ua": "В українській такого часу немає — перекладаємо минулим. Головне: якщо є yesterday, last week, in 2020 — це вже Past Simple, а не Present Perfect.",
+      "ru": "В русском такого времени нет — переводим прошедшим. Главное: если есть yesterday, last week, in 2020 — это уже Past Simple, а не Present Perfect."
+    }
+  },
+  "vocab": [
+    {
+      "word": "be → was/were → been",
+      "ipa": "/biːn/",
+      "ua": "бути → був → бував",
+      "ru": "быть → был → бывал",
+      "example": "I've been to Rome.",
+      "audio": ""
+    },
+    {
+      "word": "go → went → gone",
+      "ipa": "/ɡɒn/",
+      "ua": "іти → пішов → пішов (і ще там)",
+      "ru": "идти → пошёл → ушёл (и ещё там)",
+      "example": "He's gone to work.",
+      "audio": ""
+    },
+    {
+      "word": "see → saw → seen",
+      "ipa": "/siːn/",
+      "ua": "бачити → бачив",
+      "ru": "видеть → видел",
+      "example": "I've seen this film.",
+      "audio": ""
+    },
+    {
+      "word": "eat → ate → eaten",
+      "ipa": "/ˈiːtn/",
+      "ua": "їсти → їв",
+      "ru": "есть → ел",
+      "example": "Have you eaten?",
+      "audio": ""
+    },
+    {
+      "word": "do → did → done",
+      "ipa": "/dʌn/",
+      "ua": "робити → зробив",
+      "ru": "делать → сделал",
+      "example": "I've done my homework.",
+      "audio": ""
+    },
+    {
+      "word": "make → made → made",
+      "ipa": "/meɪd/",
+      "ua": "робити → зробив",
+      "ru": "делать → сделал",
+      "example": "She's made a cake.",
+      "audio": ""
+    },
+    {
+      "word": "buy → bought → bought",
+      "ipa": "/bɔːt/",
+      "ua": "купувати → купив",
+      "ru": "покупать → купил",
+      "example": "We've bought a car.",
+      "audio": ""
+    },
+    {
+      "word": "lose → lost → lost",
+      "ipa": "/lɒst/",
+      "ua": "губити → загубив",
+      "ru": "терять → потерял",
+      "example": "I've lost my phone.",
+      "audio": ""
+    },
+    {
+      "word": "try",
+      "ipa": "/traɪ/",
+      "ua": "пробувати, куштувати",
+      "ru": "пробовать",
+      "example": "Have you tried it?",
+      "audio": ""
+    },
+    {
+      "word": "ever",
+      "ipa": "/ˈevə/",
+      "ua": "коли-небудь",
+      "ru": "когда-нибудь",
+      "example": "Have you ever…?",
+      "audio": ""
+    },
+    {
+      "word": "never",
+      "ipa": "/ˈnevə/",
+      "ua": "ніколи",
+      "ru": "никогда",
+      "example": "I've never been there.",
+      "audio": ""
+    },
+    {
+      "word": "just",
+      "ipa": "/dʒʌst/",
+      "ua": "щойно",
+      "ru": "только что",
+      "example": "I've just arrived.",
+      "audio": ""
+    },
+    {
+      "word": "already",
+      "ipa": "/ɔːlˈredi/",
+      "ua": "вже",
+      "ru": "уже",
+      "example": "I've already eaten.",
+      "audio": ""
+    },
+    {
+      "word": "yet",
+      "ipa": "/jet/",
+      "ua": "ще (не); вже? (у питанні)",
+      "ru": "ещё (не); уже? (в вопросе)",
+      "example": "Not yet. Have you finished yet?",
+      "audio": ""
+    },
+    {
+      "word": "abroad",
+      "ipa": "/əˈbrɔːd/",
+      "ua": "за кордоном",
+      "ru": "за границей",
+      "example": "Have you been abroad?",
+      "audio": ""
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a2-u14-l01",
+      "title": {
+        "en": "have / has + V3",
+        "ua": "have / has + V3",
+        "ru": "have / has + V3"
+      },
+      "recap": {
+        "from": "a2-u13-l02",
+        "note": {
+          "ua": "Згадаймо: домовленість → I'm meeting · план, намір → I'm going to · рішення / думка → I'll",
+          "ru": "Вспомним: договорённость → I'm meeting · план, намерение → I'm going to · решение / мнение → I'll"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "future-forms",
+            "question": "My train ticket is for 8 am. I ___ at 8.",
+            "options": [
+              "'m leaving",
+              "'ll leave",
+              "leave"
+            ],
+            "answer": "'m leaving",
+            "explain": {
+              "ua": "Квиток є → домовленість.",
+              "ru": "Билет есть → договорённость."
+            },
+            "id": "a2-u14-l01-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "future-forms",
+            "question": "— Are you free on Friday? — Sorry, I ___ my grandma.",
+            "options": [
+              "'m visiting",
+              "'ll visit",
+              "visit"
+            ],
+            "answer": "'m visiting",
+            "explain": {
+              "ua": "Вже домовлено → -ing.",
+              "ru": "Уже договорено → -ing."
+            },
+            "id": "a2-u14-l01-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "I / you / we / they have ('ve) + V3 · he / she / it has ('s) + V3",
+        "explain": {
+          "ua": "Have для I, you, we, they; has для he, she, it. Далі — третя форма дієслова (V3): I've finished, she's bought.",
+          "ru": "Have для I, you, we, they; has для he, she, it. Дальше — третья форма глагола (V3): I've finished, she's bought."
+        },
+        "examples": [
+          {
+            "en": "I've finished my work.",
+            "ua": "Я закінчив роботу.",
+            "ru": "Я закончил работу."
+          },
+          {
+            "en": "She's bought a new phone.",
+            "ua": "Вона купила новий телефон.",
+            "ru": "Она купила новый телефон."
+          },
+          {
+            "en": "We've cleaned the flat.",
+            "ua": "Ми прибрали квартиру.",
+            "ru": "Мы убрали квартиру."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "I ___ finished.",
+          "options": [
+            "have",
+            "has",
+            "am"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "I → have.",
+            "ru": "I → have."
+          },
+          "id": "a2-u14-l01-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "She ___ cleaned her room.",
+          "options": [
+            "has",
+            "have",
+            "is"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "She → has.",
+            "ru": "She → has."
+          },
+          "id": "a2-u14-l01-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "They've ___ a new car.",
+          "options": [
+            "bought",
+            "buy",
+            "buyed"
+          ],
+          "answer": "bought",
+          "explain": {
+            "ua": "V3 від buy — bought.",
+            "ru": "V3 от buy — bought."
+          },
+          "id": "a2-u14-l01-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "He's lost his keys. He's = He ___",
+          "options": [
+            "has",
+            "is",
+            "was"
+          ],
+          "answer": "has",
+          "explain": {
+            "ua": "He's + V3 = He has.",
+            "ru": "He's + V3 = He has."
+          },
+          "id": "a2-u14-l01-e04"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-perfect",
+          "bank": [
+            "have",
+            "has"
+          ],
+          "reuse": true,
+          "sentences": [
+            "I ___ seen it.",
+            "Max ___ left.",
+            "We ___ eaten.",
+            "The film ___ started."
+          ],
+          "answers": [
+            "have",
+            "has",
+            "have",
+            "has"
+          ],
+          "explain": {
+            "ua": "I / we → have, he / it → has.",
+            "ru": "I / we → have, he / it → has."
+          },
+          "id": "a2-u14-l01-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "She have finished.",
+          "answer": "She has finished.",
+          "accept": [
+            "She's finished."
+          ],
+          "explain": {
+            "ua": "She → has.",
+            "ru": "She → has."
+          },
+          "id": "a2-u14-l01-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "I have buy a dress.",
+          "answer": "I have bought a dress.",
+          "accept": [
+            "I've bought a dress."
+          ],
+          "explain": {
+            "ua": "Потрібна V3 — bought.",
+            "ru": "Нужна V3 — bought."
+          },
+          "id": "a2-u14-l01-e07"
+        },
+        {
+          "type": "build",
+          "topic": "present-perfect",
+          "words": [
+            "have",
+            "cleaned",
+            "the",
+            "kitchen",
+            "We"
+          ],
+          "answer": "We have cleaned the kitchen",
+          "explain": {
+            "ua": "We have → cleaned → the kitchen.",
+            "ru": "We have → cleaned → the kitchen."
+          },
+          "id": "a2-u14-l01-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect",
+          "prompt": {
+            "ua": "Я загубила ключі.",
+            "ru": "Я потеряла ключи."
+          },
+          "answer": "I've lost my keys.",
+          "accept": [
+            "I have lost my keys.",
+            "I've lost the keys."
+          ],
+          "explain": {
+            "ua": "Результат зараз → Present Perfect.",
+            "ru": "Результат сейчас → Present Perfect."
+          },
+          "id": "a2-u14-l01-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l02",
+      "title": {
+        "en": "V3 of regular verbs",
+        "ua": "V3 правильних дієслів",
+        "ru": "V3 правильных глаголов"
+      },
+      "recap": {
+        "from": "a2-u14-l01",
+        "note": {
+          "ua": "Згадаймо: I / you / we / they have ('ve) + V3 · he / she / it has ('s) + V3",
+          "ru": "Вспомним: I / you / we / they have ('ve) + V3 · he / she / it has ('s) + V3"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "I ___ finished.",
+            "options": [
+              "have",
+              "has",
+              "am"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "I → have.",
+              "ru": "I → have."
+            },
+            "id": "a2-u14-l02-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "He's lost his keys. He's = He ___",
+            "options": [
+              "has",
+              "is",
+              "was"
+            ],
+            "answer": "has",
+            "explain": {
+              "ua": "He's + V3 = He has.",
+              "ru": "He's + V3 = He has."
+            },
+            "id": "a2-u14-l02-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "правильні: V3 = V2 = -ed (work → worked → worked)",
+          "ru": "правильные: V3 = V2 = -ed (work → worked → worked)"
+        },
+        "explain": {
+          "ua": "У правильних дієслів третя форма така сама, як минула: -ed. I've worked, she's cooked, we've visited.",
+          "ru": "У правильных глаголов третья форма такая же, как прошедшая: -ed. I've worked, she's cooked, we've visited."
+        },
+        "examples": [
+          {
+            "en": "I've cooked dinner.",
+            "ua": "Я приготувала вечерю.",
+            "ru": "Я приготовила ужин."
+          },
+          {
+            "en": "He's called you three times.",
+            "ua": "Він дзвонив тобі тричі.",
+            "ru": "Он звонил тебе три раза."
+          },
+          {
+            "en": "We've stopped.",
+            "ua": "Ми зупинилися.",
+            "ru": "Мы остановились."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect-regular",
+          "question": "I've ___ my homework. (finish)",
+          "options": [
+            "finished",
+            "finish",
+            "finishing"
+          ],
+          "answer": "finished",
+          "explain": {
+            "ua": "V3 = -ed.",
+            "ru": "V3 = -ed."
+          },
+          "id": "a2-u14-l02-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-regular",
+          "question": "She's ___ to Italy three times. (travel)",
+          "options": [
+            "travelled",
+            "travel",
+            "travels"
+          ],
+          "answer": "travelled",
+          "explain": {
+            "ua": "Travel → travelled.",
+            "ru": "Travel → travelled."
+          },
+          "id": "a2-u14-l02-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-regular",
+          "question": "They've ___ in Kyiv for years. (live)",
+          "options": [
+            "lived",
+            "live",
+            "living"
+          ],
+          "answer": "lived",
+          "explain": {
+            "ua": "-e → +d.",
+            "ru": "-e → +d."
+          },
+          "id": "a2-u14-l02-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-regular",
+          "question": "We've ___ the problem. (study)",
+          "options": [
+            "studied",
+            "studyed",
+            "study"
+          ],
+          "answer": "studied",
+          "explain": {
+            "ua": "y → -ied.",
+            "ru": "y → -ied."
+          },
+          "id": "a2-u14-l02-e04"
+        },
+        {
+          "type": "match",
+          "topic": "present-perfect-regular",
+          "pairs": [
+            {
+              "left": "work",
+              "right": "worked"
+            },
+            {
+              "left": "try",
+              "right": "tried"
+            },
+            {
+              "left": "stop",
+              "right": "stopped"
+            },
+            {
+              "left": "watch",
+              "right": "watched"
+            }
+          ],
+          "explain": {
+            "ua": "Правильні: V3 = -ed.",
+            "ru": "Правильные: V3 = -ed."
+          },
+          "id": "a2-u14-l02-e05"
+        },
+        {
+          "type": "fill",
+          "topic": "present-perfect-regular",
+          "question": "He has ___ the window. (open)",
+          "answer": "opened",
+          "accept": [],
+          "explain": {
+            "ua": "+ed.",
+            "ru": "+ed."
+          },
+          "id": "a2-u14-l02-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-regular",
+          "sentence": "I've wash the dishes.",
+          "answer": "I've washed the dishes.",
+          "accept": [
+            "I have washed the dishes."
+          ],
+          "explain": {
+            "ua": "V3 — washed.",
+            "ru": "V3 — washed."
+          },
+          "id": "a2-u14-l02-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-perfect-regular",
+          "audio_text": "She's called you.",
+          "options": [
+            "She's called you.",
+            "She calls you.",
+            "She's cold you."
+          ],
+          "answer": "She's called you.",
+          "audio": "",
+          "explain": {
+            "ua": "Called — «колд».",
+            "ru": "Called — «колд»."
+          },
+          "id": "a2-u14-l02-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect-regular",
+          "prompt": {
+            "ua": "Ми прибрали кухню.",
+            "ru": "Мы убрали кухню."
+          },
+          "answer": "We've cleaned the kitchen.",
+          "accept": [
+            "We have cleaned the kitchen."
+          ],
+          "explain": {
+            "ua": "Have cleaned.",
+            "ru": "Have cleaned."
+          },
+          "id": "a2-u14-l02-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l03",
+      "title": {
+        "en": "V3 of irregular verbs",
+        "ua": "V3 неправильних дієслів",
+        "ru": "V3 неправильных глаголов"
+      },
+      "recap": {
+        "from": "a2-u14-l02",
+        "note": {
+          "ua": "Згадаймо: правильні: V3 = V2 = -ed (work → worked → worked)",
+          "ru": "Вспомним: правильные: V3 = V2 = -ed (work → worked → worked)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect-regular",
+            "question": "I've ___ my homework. (finish)",
+            "options": [
+              "finished",
+              "finish",
+              "finishing"
+            ],
+            "answer": "finished",
+            "explain": {
+              "ua": "V3 = -ed.",
+              "ru": "V3 = -ed."
+            },
+            "id": "a2-u14-l03-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect-regular",
+            "question": "We've ___ the problem. (study)",
+            "options": [
+              "studied",
+              "studyed",
+              "study"
+            ],
+            "answer": "studied",
+            "explain": {
+              "ua": "y → -ied.",
+              "ru": "y → -ied."
+            },
+            "id": "a2-u14-l03-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "go → went → gone · see → saw → seen · do → did → done · be → was → been",
+        "explain": {
+          "ua": "Неправильні дієслова мають три форми. Частина має однакові V2 і V3 (buy → bought → bought), а частина — різні (see → saw → seen). Учимо трійками!",
+          "ru": "Неправильные глаголы имеют три формы. У части V2 и V3 одинаковые (buy → bought → bought), а у части — разные (see → saw → seen). Учим тройками!"
+        },
+        "examples": [
+          {
+            "en": "I've seen this film.",
+            "ua": "Я бачив цей фільм.",
+            "ru": "Я видел этот фильм."
+          },
+          {
+            "en": "Have you eaten?",
+            "ua": "Ти поїв?",
+            "ru": "Ты поел?"
+          },
+          {
+            "en": "She's done it!",
+            "ua": "Вона це зробила!",
+            "ru": "Она это сделала!"
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect-irregular",
+          "question": "I've ___ this film twice.",
+          "options": [
+            "seen",
+            "saw",
+            "see"
+          ],
+          "answer": "seen",
+          "explain": {
+            "ua": "See → saw → seen.",
+            "ru": "See → saw → seen."
+          },
+          "id": "a2-u14-l03-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-irregular",
+          "question": "Have you ___ breakfast?",
+          "options": [
+            "eaten",
+            "ate",
+            "eat"
+          ],
+          "answer": "eaten",
+          "explain": {
+            "ua": "Eat → ate → eaten.",
+            "ru": "Eat → ate → eaten."
+          },
+          "id": "a2-u14-l03-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-irregular",
+          "question": "She's ___ her homework.",
+          "options": [
+            "done",
+            "did",
+            "do"
+          ],
+          "answer": "done",
+          "explain": {
+            "ua": "Do → did → done.",
+            "ru": "Do → did → done."
+          },
+          "id": "a2-u14-l03-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-irregular",
+          "question": "We've ___ a cake.",
+          "options": [
+            "made",
+            "maked",
+            "make"
+          ],
+          "answer": "made",
+          "explain": {
+            "ua": "Make → made → made.",
+            "ru": "Make → made → made."
+          },
+          "id": "a2-u14-l03-e04"
+        },
+        {
+          "type": "match",
+          "topic": "present-perfect-irregular",
+          "pairs": [
+            {
+              "left": "see",
+              "right": "seen"
+            },
+            {
+              "left": "eat",
+              "right": "eaten"
+            },
+            {
+              "left": "go",
+              "right": "gone"
+            },
+            {
+              "left": "write",
+              "right": "written"
+            }
+          ],
+          "explain": {
+            "ua": "V1 → V3.",
+            "ru": "V1 → V3."
+          },
+          "id": "a2-u14-l03-e05"
+        },
+        {
+          "type": "match",
+          "topic": "present-perfect-irregular",
+          "pairs": [
+            {
+              "left": "buy",
+              "right": "bought"
+            },
+            {
+              "left": "find",
+              "right": "found"
+            },
+            {
+              "left": "meet",
+              "right": "met"
+            },
+            {
+              "left": "tell",
+              "right": "told"
+            }
+          ],
+          "explain": {
+            "ua": "V2 = V3 у цих дієслів.",
+            "ru": "V2 = V3 у этих глаголов."
+          },
+          "id": "a2-u14-l03-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-irregular",
+          "sentence": "I've saw that film.",
+          "answer": "I've seen that film.",
+          "accept": [
+            "I have seen that film."
+          ],
+          "explain": {
+            "ua": "Після have — V3 seen.",
+            "ru": "После have — V3 seen."
+          },
+          "id": "a2-u14-l03-e07"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-irregular",
+          "question": "Max isn't here. He's ___ to work.",
+          "options": [
+            "gone",
+            "been",
+            "went"
+          ],
+          "answer": "gone",
+          "explain": {
+            "ua": "Gone — пішов і ще там. Been — був і повернувся.",
+            "ru": "Gone — ушёл и ещё там. Been — был и вернулся."
+          },
+          "id": "a2-u14-l03-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect-irregular",
+          "prompt": {
+            "ua": "Я це вже зробив.",
+            "ru": "Я это уже сделал."
+          },
+          "answer": "I've already done it.",
+          "accept": [
+            "I have already done it."
+          ],
+          "explain": {
+            "ua": "Do → done.",
+            "ru": "Do → done."
+          },
+          "id": "a2-u14-l03-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l04",
+      "title": {
+        "en": "ever / never — experience",
+        "ua": "ever / never — досвід",
+        "ru": "ever / never — опыт"
+      },
+      "recap": {
+        "from": "a2-u14-l03",
+        "note": {
+          "ua": "Згадаймо: go → went → gone · see → saw → seen · do → did → done · be → was → been",
+          "ru": "Вспомним: go → went → gone · see → saw → seen · do → did → done · be → was → been"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect-irregular",
+            "question": "I've ___ this film twice.",
+            "options": [
+              "seen",
+              "saw",
+              "see"
+            ],
+            "answer": "seen",
+            "explain": {
+              "ua": "See → saw → seen.",
+              "ru": "See → saw → seen."
+            },
+            "id": "a2-u14-l04-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect-irregular",
+            "question": "We've ___ a cake.",
+            "options": [
+              "made",
+              "maked",
+              "make"
+            ],
+            "answer": "made",
+            "explain": {
+              "ua": "Make → made → made.",
+              "ru": "Make → made → made."
+            },
+            "id": "a2-u14-l04-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "Have you ever + V3? · I've never + V3 · I've been to…",
+        "explain": {
+          "ua": "Досвід за все життя: Have you ever been to Italy? — Yes, I have. / No, I've never been there. Been to = бував у.",
+          "ru": "Опыт за всю жизнь: Have you ever been to Italy? — Yes, I have. / No, I've never been there. Been to = бывал в."
+        },
+        "examples": [
+          {
+            "en": "Have you ever been to Spain?",
+            "ua": "Ти коли-небудь бував в Іспанії?",
+            "ru": "Ты когда-нибудь был в Испании?"
+          },
+          {
+            "en": "I've never tried oysters.",
+            "ua": "Я ніколи не куштував устриць.",
+            "ru": "Я никогда не пробовал устриц."
+          },
+          {
+            "en": "She's been to Paris twice.",
+            "ua": "Вона двічі бувала в Парижі.",
+            "ru": "Она дважды была в Париже."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect-experience",
+          "question": "Have you ___ been to Poland?",
+          "options": [
+            "ever",
+            "never",
+            "yet"
+          ],
+          "answer": "ever",
+          "explain": {
+            "ua": "Питання про досвід — ever.",
+            "ru": "Вопрос об опыте — ever."
+          },
+          "id": "a2-u14-l04-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-experience",
+          "question": "I've ___ eaten sushi. I want to try it!",
+          "options": [
+            "never",
+            "ever",
+            "already"
+          ],
+          "answer": "never",
+          "explain": {
+            "ua": "Never — ніколи.",
+            "ru": "Never — никогда."
+          },
+          "id": "a2-u14-l04-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-experience",
+          "question": "Have you ever seen snow? — Yes, I ___.",
+          "options": [
+            "have",
+            "did",
+            "am"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Yes, I have.",
+            "ru": "Yes, I have."
+          },
+          "id": "a2-u14-l04-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-experience",
+          "question": "She's been ___ Italy three times.",
+          "options": [
+            "to",
+            "in",
+            "at"
+          ],
+          "answer": "to",
+          "explain": {
+            "ua": "Been TO.",
+            "ru": "Been TO."
+          },
+          "id": "a2-u14-l04-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-experience",
+          "question": "Has he ever flown a plane? — No, he ___.",
+          "options": [
+            "hasn't",
+            "didn't",
+            "haven't"
+          ],
+          "answer": "hasn't",
+          "explain": {
+            "ua": "No, he hasn't.",
+            "ru": "No, he hasn't."
+          },
+          "id": "a2-u14-l04-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-experience",
+          "sentence": "I haven't never been there.",
+          "answer": "I've never been there.",
+          "accept": [
+            "I have never been there.",
+            "I haven't ever been there."
+          ],
+          "explain": {
+            "ua": "Never вже заперечення.",
+            "ru": "Never уже отрицание."
+          },
+          "id": "a2-u14-l04-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-experience",
+          "sentence": "Did you ever been to London?",
+          "answer": "Have you ever been to London?",
+          "accept": [],
+          "explain": {
+            "ua": "Досвід → Have you ever…?",
+            "ru": "Опыт → Have you ever…?"
+          },
+          "id": "a2-u14-l04-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-perfect-experience",
+          "audio_text": "Have you ever been abroad?",
+          "options": [
+            "Have you ever been abroad?",
+            "Have you ever been a broad?",
+            "Have you never been abroad?"
+          ],
+          "answer": "Have you ever been abroad?",
+          "audio": "",
+          "explain": {
+            "ua": "Abroad — за кордоном.",
+            "ru": "Abroad — за границей."
+          },
+          "id": "a2-u14-l04-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect-experience",
+          "prompt": {
+            "ua": "Я ніколи не була в Лондоні.",
+            "ru": "Я никогда не была в Лондоне."
+          },
+          "answer": "I've never been to London.",
+          "accept": [
+            "I have never been to London."
+          ],
+          "explain": {
+            "ua": "Never been to.",
+            "ru": "Never been to."
+          },
+          "id": "a2-u14-l04-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l05",
+      "title": {
+        "en": "just / already / yet",
+        "ua": "just / already / yet",
+        "ru": "just / already / yet"
+      },
+      "recap": {
+        "from": "a2-u14-l04",
+        "note": {
+          "ua": "Згадаймо: Have you ever + V3? · I've never + V3 · I've been to…",
+          "ru": "Вспомним: Have you ever + V3? · I've never + V3 · I've been to…"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect-experience",
+            "question": "Have you ___ been to Poland?",
+            "options": [
+              "ever",
+              "never",
+              "yet"
+            ],
+            "answer": "ever",
+            "explain": {
+              "ua": "Питання про досвід — ever.",
+              "ru": "Вопрос об опыте — ever."
+            },
+            "id": "a2-u14-l05-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect-experience",
+            "question": "Has he ever flown a plane? — No, he ___.",
+            "options": [
+              "hasn't",
+              "didn't",
+              "haven't"
+            ],
+            "answer": "hasn't",
+            "explain": {
+              "ua": "No, he hasn't.",
+              "ru": "No, he hasn't."
+            },
+            "id": "a2-u14-l05-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": {
+          "ua": "just — щойно · already — вже · yet — ще не (−) / вже? (?)",
+          "ru": "just — только что · already — уже · yet — ещё не (−) / уже? (?)"
+        },
+        "explain": {
+          "ua": "Just і already — між have і V3: I've just eaten. I've already seen it. Yet — у кінці речення: I haven't finished yet. Have you finished yet?",
+          "ru": "Just и already — между have и V3: I've just eaten. I've already seen it. Yet — в конце предложения: I haven't finished yet. Have you finished yet?"
+        },
+        "examples": [
+          {
+            "en": "I've just woken up.",
+            "ua": "Я щойно прокинувся.",
+            "ru": "Я только что проснулся."
+          },
+          {
+            "en": "She's already left.",
+            "ua": "Вона вже пішла.",
+            "ru": "Она уже ушла."
+          },
+          {
+            "en": "Have you done it yet? — Not yet.",
+            "ua": "Ти вже зробив? — Ще ні.",
+            "ru": "Ты уже сделал? — Ещё нет."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect-just-already-yet",
+          "question": "I've ___ arrived. I'm still in my coat.",
+          "options": [
+            "just",
+            "yet",
+            "ever"
+          ],
+          "answer": "just",
+          "explain": {
+            "ua": "Щойно — just.",
+            "ru": "Только что — just."
+          },
+          "id": "a2-u14-l05-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-just-already-yet",
+          "question": "I haven't finished ___.",
+          "options": [
+            "yet",
+            "already",
+            "just"
+          ],
+          "answer": "yet",
+          "explain": {
+            "ua": "Ще не — yet у кінці.",
+            "ru": "Ещё не — yet в конце."
+          },
+          "id": "a2-u14-l05-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-just-already-yet",
+          "question": "— Let's watch this film. — I've ___ seen it.",
+          "options": [
+            "already",
+            "yet",
+            "ever"
+          ],
+          "answer": "already",
+          "explain": {
+            "ua": "Вже — already.",
+            "ru": "Уже — already."
+          },
+          "id": "a2-u14-l05-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-just-already-yet",
+          "question": "Have you bought the tickets ___?",
+          "options": [
+            "yet",
+            "already",
+            "just"
+          ],
+          "answer": "yet",
+          "explain": {
+            "ua": "Питання «вже?» — yet у кінці.",
+            "ru": "Вопрос «уже?» — yet в конце."
+          },
+          "id": "a2-u14-l05-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect-just-already-yet",
+          "question": "She has ___ called. She'll be here in 5 minutes.",
+          "options": [
+            "just",
+            "yet",
+            "never"
+          ],
+          "answer": "just",
+          "explain": {
+            "ua": "Just — щойно.",
+            "ru": "Just — только что."
+          },
+          "id": "a2-u14-l05-e05"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-perfect-just-already-yet",
+          "bank": [
+            "just",
+            "already",
+            "yet"
+          ],
+          "reuse": false,
+          "sentences": [
+            "The bus has ___ left. You can still see it!",
+            "I've ___ done it — don't worry.",
+            "Has the film started ___?"
+          ],
+          "answers": [
+            "just",
+            "already",
+            "yet"
+          ],
+          "explain": {
+            "ua": "just, already — середина; yet — кінець.",
+            "ru": "just, already — середина; yet — конец."
+          },
+          "id": "a2-u14-l05-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-just-already-yet",
+          "sentence": "I've finished yet.",
+          "answer": "I've already finished.",
+          "accept": [
+            "I have already finished.",
+            "I've just finished."
+          ],
+          "explain": {
+            "ua": "У ствердженні — already, не yet.",
+            "ru": "В утверждении — already, не yet."
+          },
+          "id": "a2-u14-l05-e07"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect-just-already-yet",
+          "sentence": "I haven't yet eaten.",
+          "answer": "I haven't eaten yet.",
+          "accept": [
+            "I have not eaten yet."
+          ],
+          "explain": {
+            "ua": "Yet — у кінці.",
+            "ru": "Yet — в конце."
+          },
+          "id": "a2-u14-l05-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect-just-already-yet",
+          "prompt": {
+            "ua": "Я щойно поснідала.",
+            "ru": "Я только что позавтракала."
+          },
+          "answer": "I've just had breakfast.",
+          "accept": [
+            "I have just had breakfast."
+          ],
+          "explain": {
+            "ua": "Just — між have і V3.",
+            "ru": "Just — между have и V3."
+          },
+          "id": "a2-u14-l05-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l06",
+      "title": {
+        "en": "Negatives and questions",
+        "ua": "Заперечення і питання",
+        "ru": "Отрицания и вопросы"
+      },
+      "recap": {
+        "from": "a2-u14-l05",
+        "note": {
+          "ua": "Згадаймо: just — щойно · already — вже · yet — ще не (−) / вже? (?)",
+          "ru": "Вспомним: just — только что · already — уже · yet — ещё не (−) / уже? (?)"
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect-just-already-yet",
+            "question": "I've ___ arrived. I'm still in my coat.",
+            "options": [
+              "just",
+              "yet",
+              "ever"
+            ],
+            "answer": "just",
+            "explain": {
+              "ua": "Щойно — just.",
+              "ru": "Только что — just."
+            },
+            "id": "a2-u14-l06-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect-just-already-yet",
+            "question": "She has ___ called. She'll be here in 5 minutes.",
+            "options": [
+              "just",
+              "yet",
+              "never"
+            ],
+            "answer": "just",
+            "explain": {
+              "ua": "Just — щойно.",
+              "ru": "Just — только что."
+            },
+            "id": "a2-u14-l06-r02"
+          }
+        ]
+      },
+      "rule": {
+        "formula": "haven't / hasn't + V3 · Have / Has … + V3? · Yes, I have. / No, she hasn't.",
+        "explain": {
+          "ua": "Заперечення: haven't / hasn't + V3. Питання: Have / Has на початок. Коротка відповідь — з have / has.",
+          "ru": "Отрицание: haven't / hasn't + V3. Вопрос: Have / Has в начало. Краткий ответ — с have / has."
+        },
+        "examples": [
+          {
+            "en": "I haven't seen him.",
+            "ua": "Я його не бачив.",
+            "ru": "Я его не видел."
+          },
+          {
+            "en": "Has she called? — No, she hasn't.",
+            "ua": "Вона дзвонила? — Ні.",
+            "ru": "Она звонила? — Нет."
+          },
+          {
+            "en": "Have you finished? — Yes, I have.",
+            "ua": "Ти закінчив? — Так.",
+            "ru": "Ты закончил? — Да."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "I ___ seen her today.",
+          "options": [
+            "haven't",
+            "hasn't",
+            "didn't"
+          ],
+          "answer": "haven't",
+          "explain": {
+            "ua": "I → haven't.",
+            "ru": "I → haven't."
+          },
+          "id": "a2-u14-l06-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "He ___ called me.",
+          "options": [
+            "hasn't",
+            "haven't",
+            "isn't"
+          ],
+          "answer": "hasn't",
+          "explain": {
+            "ua": "He → hasn't.",
+            "ru": "He → hasn't."
+          },
+          "id": "a2-u14-l06-e02"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "___ you done your homework?",
+          "options": [
+            "Have",
+            "Has",
+            "Did"
+          ],
+          "answer": "Have",
+          "explain": {
+            "ua": "You → Have you…?",
+            "ru": "You → Have you…?"
+          },
+          "id": "a2-u14-l06-e03"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "___ the film started?",
+          "options": [
+            "Has",
+            "Have",
+            "Is"
+          ],
+          "answer": "Has",
+          "explain": {
+            "ua": "Film = it → Has.",
+            "ru": "Film = it → Has."
+          },
+          "id": "a2-u14-l06-e04"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "Have they arrived? — Yes, they ___.",
+          "options": [
+            "have",
+            "did",
+            "are"
+          ],
+          "answer": "have",
+          "explain": {
+            "ua": "Yes, they have.",
+            "ru": "Yes, they have."
+          },
+          "id": "a2-u14-l06-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "Has you seen my keys?",
+          "answer": "Have you seen my keys?",
+          "accept": [],
+          "explain": {
+            "ua": "You → Have.",
+            "ru": "You → Have."
+          },
+          "id": "a2-u14-l06-e06"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "She hasn't finish.",
+          "answer": "She hasn't finished.",
+          "accept": [
+            "She has not finished."
+          ],
+          "explain": {
+            "ua": "Потрібна V3.",
+            "ru": "Нужна V3."
+          },
+          "id": "a2-u14-l06-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-perfect",
+          "audio_text": "Have you seen my phone?",
+          "options": [
+            "Have you seen my phone?",
+            "Did you see my phone?",
+            "Have you seen my phones?"
+          ],
+          "answer": "Have you seen my phone?",
+          "audio": "",
+          "explain": {
+            "ua": "Have you seen…?",
+            "ru": "Have you seen…?"
+          },
+          "id": "a2-u14-l06-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect",
+          "prompt": {
+            "ua": "Ти бачив мої ключі?",
+            "ru": "Ты видел мои ключи?"
+          },
+          "answer": "Have you seen my keys?",
+          "accept": [],
+          "explain": {
+            "ua": "Результат зараз → Present Perfect.",
+            "ru": "Результат сейчас → Present Perfect."
+          },
+          "id": "a2-u14-l06-e09"
+        }
+      ]
+    },
+    {
+      "id": "a2-u14-l07",
+      "title": {
+        "en": "Practice",
+        "ua": "Практика",
+        "ru": "Практика"
+      },
+      "recap": {
+        "from": "a2-u14-l06",
+        "note": {
+          "ua": "Згадаймо: haven't / hasn't + V3 · Have / Has … + V3? · Yes, I have. / No, she hasn't.",
+          "ru": "Вспомним: haven't / hasn't + V3 · Have / Has … + V3? · Yes, I have. / No, she hasn't."
+        },
+        "exercises": [
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "I ___ seen her today.",
+            "options": [
+              "haven't",
+              "hasn't",
+              "didn't"
+            ],
+            "answer": "haven't",
+            "explain": {
+              "ua": "I → haven't.",
+              "ru": "I → haven't."
+            },
+            "id": "a2-u14-l07-r01"
+          },
+          {
+            "type": "choose",
+            "topic": "present-perfect",
+            "question": "Have they arrived? — Yes, they ___.",
+            "options": [
+              "have",
+              "did",
+              "are"
+            ],
+            "answer": "have",
+            "explain": {
+              "ua": "Yes, they have.",
+              "ru": "Yes, they have."
+            },
+            "id": "a2-u14-l07-r02"
+          }
+        ]
+      },
+      "rule": null,
+      "exercises": [
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "I've ___ been to Japan. It's my dream.",
+          "options": [
+            "never",
+            "ever",
+            "yet"
+          ],
+          "answer": "never",
+          "explain": {
+            "ua": "Never.",
+            "ru": "Never."
+          },
+          "id": "a2-u14-l07-e01"
+        },
+        {
+          "type": "choose",
+          "topic": "present-perfect",
+          "question": "— Is Tom here? — No, he's ___ home.",
+          "options": [
+            "gone",
+            "been",
+            "went"
+          ],
+          "answer": "gone",
+          "explain": {
+            "ua": "Пішов і ще там — gone.",
+            "ru": "Ушёл и ещё там — gone."
+          },
+          "id": "a2-u14-l07-e02"
+        },
+        {
+          "type": "reading",
+          "topic": "reading",
+          "audio": "",
+          "questions": [
+            {
+              "type": "truefalse",
+              "statement": "Ivan has been to Italy.",
+              "answer": true
+            },
+            {
+              "type": "truefalse",
+              "statement": "Ivan has tried sushi.",
+              "answer": false
+            },
+            {
+              "type": "choose",
+              "question": "What has Ivan just done?",
+              "options": [
+                "booked a trip",
+                "lost his passport",
+                "learned Japanese"
+              ],
+              "answer": "booked a trip"
+            }
+          ],
+          "text": "I love travelling! I've been to Italy, Spain and Poland. I've eaten pizza in Naples and I've swum in the Mediterranean Sea. But I've never been to Asia and I've never tried real sushi. Good news: I've just booked a trip to Japan! I haven't packed my suitcase yet.",
+          "explain": {
+            "ua": "Italy — yes; sushi — never; just booked a trip to Japan.",
+            "ru": "Italy — yes; sushi — never; just booked a trip to Japan."
+          },
+          "id": "a2-u14-l07-e03"
+        },
+        {
+          "type": "wordbank",
+          "topic": "present-perfect",
+          "bank": [
+            "been",
+            "eaten",
+            "never",
+            "just",
+            "yet"
+          ],
+          "reuse": false,
+          "sentences": [
+            "Ivan has ___ to Italy.",
+            "He's ___ pizza in Naples.",
+            "He's ___ tried sushi.",
+            "He's ___ booked a trip.",
+            "He hasn't packed ___."
+          ],
+          "answers": [
+            "been",
+            "eaten",
+            "never",
+            "just",
+            "yet"
+          ],
+          "explain": {
+            "ua": "Перечитай текст.",
+            "ru": "Перечитай текст."
+          },
+          "id": "a2-u14-l07-e04"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "I've been to Paris last year.",
+          "answer": "I went to Paris last year.",
+          "accept": [
+            "I was in Paris last year."
+          ],
+          "explain": {
+            "ua": "Last year — точний час → Past Simple.",
+            "ru": "Last year — точное время → Past Simple."
+          },
+          "id": "a2-u14-l07-e05"
+        },
+        {
+          "type": "fix",
+          "topic": "present-perfect",
+          "sentence": "Have you ever eat sushi?",
+          "answer": "Have you ever eaten sushi?",
+          "accept": [
+            "Have you ever tried sushi?"
+          ],
+          "explain": {
+            "ua": "V3 — eaten.",
+            "ru": "V3 — eaten."
+          },
+          "id": "a2-u14-l07-e06"
+        },
+        {
+          "type": "build",
+          "topic": "word-order",
+          "words": [
+            "work",
+            "you",
+            "Have",
+            "yet",
+            "finished",
+            "your"
+          ],
+          "answer": "Have you finished your work yet",
+          "explain": {
+            "ua": "Have you finished → your work → yet?",
+            "ru": "Have you finished → your work → yet?"
+          },
+          "id": "a2-u14-l07-e07"
+        },
+        {
+          "type": "listen",
+          "topic": "present-perfect",
+          "audio_text": "She's just left.",
+          "options": [
+            "She's just left.",
+            "She's just laughed.",
+            "She just leaves."
+          ],
+          "answer": "She's just left.",
+          "audio": "",
+          "explain": {
+            "ua": "Just left — щойно пішла.",
+            "ru": "Just left — только что ушла."
+          },
+          "id": "a2-u14-l07-e08"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect",
+          "prompt": {
+            "ua": "Ти вже купила квитки?",
+            "ru": "Ты уже купила билеты?"
+          },
+          "answer": "Have you bought the tickets yet?",
+          "accept": [
+            "Have you already bought the tickets?",
+            "Have you bought tickets yet?"
+          ],
+          "explain": {
+            "ua": "Питання «вже?» → yet.",
+            "ru": "Вопрос «уже?» → yet."
+          },
+          "id": "a2-u14-l07-e09"
+        },
+        {
+          "type": "translate",
+          "topic": "present-perfect",
+          "prompt": {
+            "ua": "Я ніколи не куштувала устриць.",
+            "ru": "Я никогда не пробовала устриц."
+          },
+          "answer": "I've never tried oysters.",
+          "accept": [
+            "I have never tried oysters.",
+            "I've never eaten oysters."
+          ],
+          "explain": {
+            "ua": "Never tried.",
+            "ru": "Never tried."
+          },
+          "id": "a2-u14-l07-e10"
+        }
+      ]
+    }
+  ],
+  "checkpoint": [
+    {
+      "type": "choose",
+      "topic": "present-perfect",
+      "question": "She ___ bought a car.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": "has",
+      "explain": {
+        "ua": "She → has.",
+        "ru": "She → has."
+      },
+      "id": "a2-u14-cp01"
+    },
+    {
+      "type": "choose",
+      "topic": "present-perfect-irregular",
+      "question": "I've ___ that film.",
+      "options": [
+        "seen",
+        "saw",
+        "see"
+      ],
+      "answer": "seen",
+      "explain": {
+        "ua": "V3 — seen.",
+        "ru": "V3 — seen."
+      },
+      "id": "a2-u14-cp02"
+    },
+    {
+      "type": "choose",
+      "topic": "present-perfect-experience",
+      "question": "Have you ___ been to Rome?",
+      "options": [
+        "ever",
+        "never",
+        "yet"
+      ],
+      "answer": "ever",
+      "explain": {
+        "ua": "Ever.",
+        "ru": "Ever."
+      },
+      "id": "a2-u14-cp03"
+    },
+    {
+      "type": "choose",
+      "topic": "present-perfect-just-already-yet",
+      "question": "I haven't finished ___.",
+      "options": [
+        "yet",
+        "already",
+        "just"
+      ],
+      "answer": "yet",
+      "explain": {
+        "ua": "Yet — у кінці.",
+        "ru": "Yet — в конце."
+      },
+      "id": "a2-u14-cp04"
+    },
+    {
+      "type": "choose",
+      "topic": "present-perfect",
+      "question": "Has he called? — No, he ___.",
+      "options": [
+        "hasn't",
+        "didn't",
+        "haven't"
+      ],
+      "answer": "hasn't",
+      "explain": {
+        "ua": "No, he hasn't.",
+        "ru": "No, he hasn't."
+      },
+      "id": "a2-u14-cp05"
+    },
+    {
+      "type": "fill",
+      "topic": "present-perfect-irregular",
+      "question": "We've ___ dinner. (eat)",
+      "answer": "eaten",
+      "accept": [],
+      "explain": {
+        "ua": "Eat → eaten.",
+        "ru": "Eat → eaten."
+      },
+      "id": "a2-u14-cp06"
+    },
+    {
+      "type": "fill",
+      "topic": "present-perfect-just-already-yet",
+      "question": "I've ___ arrived. I'm still wearing my coat.",
+      "answer": "just",
+      "accept": [],
+      "explain": {
+        "ua": "Щойно — just.",
+        "ru": "Только что — just."
+      },
+      "id": "a2-u14-cp07"
+    },
+    {
+      "type": "match",
+      "topic": "present-perfect-irregular",
+      "pairs": [
+        {
+          "left": "go",
+          "right": "gone"
+        },
+        {
+          "left": "do",
+          "right": "done"
+        },
+        {
+          "left": "buy",
+          "right": "bought"
+        },
+        {
+          "left": "be",
+          "right": "been"
+        }
+      ],
+      "explain": {
+        "ua": "V3.",
+        "ru": "V3."
+      },
+      "id": "a2-u14-cp08"
+    },
+    {
+      "type": "fix",
+      "topic": "present-perfect",
+      "sentence": "I've been to Lviv in 2020.",
+      "answer": "I went to Lviv in 2020.",
+      "accept": [
+        "I was in Lviv in 2020."
+      ],
+      "explain": {
+        "ua": "In 2020 → Past Simple.",
+        "ru": "In 2020 → Past Simple."
+      },
+      "id": "a2-u14-cp09"
+    },
+    {
+      "type": "fix",
+      "topic": "present-perfect-irregular",
+      "sentence": "She has went home.",
+      "answer": "She has gone home.",
+      "accept": [
+        "She's gone home."
+      ],
+      "explain": {
+        "ua": "V3 — gone.",
+        "ru": "V3 — gone."
+      },
+      "id": "a2-u14-cp10"
+    },
+    {
+      "type": "translate",
+      "topic": "present-perfect-just-already-yet",
+      "prompt": {
+        "ua": "Я вже це бачила.",
+        "ru": "Я уже это видела."
+      },
+      "answer": "I've already seen it.",
+      "accept": [
+        "I have already seen it.",
+        "I've seen it already."
+      ],
+      "explain": {
+        "ua": "Already + V3.",
+        "ru": "Already + V3."
+      },
+      "id": "a2-u14-cp11"
+    },
+    {
+      "type": "listen",
+      "topic": "present-perfect-experience",
+      "audio_text": "Have you ever tried it?",
+      "options": [
+        "Have you ever tried it?",
+        "Have you ever tired it?",
+        "Did you ever try it?"
+      ],
+      "answer": "Have you ever tried it?",
+      "audio": "",
+      "explain": {
+        "ua": "Tried — куштував.",
+        "ru": "Tried — пробовал."
+      },
+      "id": "a2-u14-cp12"
+    }
+  ]
+}

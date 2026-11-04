@@ -1,0 +1,540 @@
+{
+  "id": "b1-final",
+  "level": "B1",
+  "kind": "final-test",
+  "title": {
+    "en": "B1 final test",
+    "ua": "Фінальний тест B1",
+    "ru": "Финальный тест B1"
+  },
+  "pass_score": 0.8,
+  "exercises": [
+    {
+      "type": "choose",
+      "topic": "pp-vs-ps",
+      "question": "I ___ him last week.",
+      "options": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer": "saw",
+      "explain": {
+        "ua": "Last week → PS.",
+        "ru": "Last week → PS."
+      },
+      "id": "b1-final-01",
+      "source": "b1-u01-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "for-since",
+      "question": "We've been living here ___ 2021.",
+      "answer": "since",
+      "accept": [],
+      "explain": {
+        "ua": "Since.",
+        "ru": "Since."
+      },
+      "id": "b1-final-02",
+      "source": "b1-u02-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "vocab",
+      "prompt": {
+        "ua": "У мене завтра співбесіда.",
+        "ru": "У меня завтра собеседование."
+      },
+      "answer": "I've got a job interview tomorrow.",
+      "accept": [
+        "I have a job interview tomorrow.",
+        "I have an interview tomorrow.",
+        "I've got an interview tomorrow."
+      ],
+      "explain": {
+        "ua": "Job interview.",
+        "ru": "Job interview."
+      },
+      "id": "b1-final-03",
+      "source": "b1-u03-cp11"
+    },
+    {
+      "type": "choose",
+      "topic": "used-to",
+      "question": "I'm used to ___ alone.",
+      "options": [
+        "living",
+        "live",
+        "lived"
+      ],
+      "answer": "living",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-final-04",
+      "source": "b1-u04-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "My in-laws is nice.",
+      "answer": "My in-laws are nice.",
+      "accept": [],
+      "explain": {
+        "ua": "Множина.",
+        "ru": "Множественное."
+      },
+      "id": "b1-final-05",
+      "source": "b1-u05-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "first-conditional",
+      "question": "If it ___ tomorrow, we'll stay in.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained"
+      ],
+      "answer": "rains",
+      "explain": {
+        "ua": "If + Present.",
+        "ru": "If + Present."
+      },
+      "id": "b1-final-06",
+      "source": "b1-u06-cp02"
+    },
+    {
+      "type": "fill",
+      "topic": "if-i-were-you",
+      "question": "If I were you, I ___ worry. (not)",
+      "answer": "wouldn't",
+      "accept": [
+        "would not"
+      ],
+      "explain": {
+        "ua": "Wouldn't.",
+        "ru": "Wouldn't."
+      },
+      "id": "b1-final-07",
+      "source": "b1-u07-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-past",
+      "audio_text": "The parcel was delivered this morning.",
+      "options": [
+        "The parcel was delivered this morning.",
+        "The parcel delivered this morning.",
+        "The party was delivered this morning."
+      ],
+      "answer": "The parcel was delivered this morning.",
+      "audio": "",
+      "explain": {
+        "ua": "Was delivered.",
+        "ru": "Was delivered."
+      },
+      "id": "b1-final-08",
+      "source": "b1-u08-cp12"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "A person who fixes taps and pipes.",
+      "answer": "plumber",
+      "accept": [
+        "a plumber"
+      ],
+      "explain": {
+        "ua": "Plumber.",
+        "ru": "Plumber."
+      },
+      "id": "b1-final-09",
+      "source": "b1-u09-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "modals-certainty",
+      "words": [
+        "be",
+        "at",
+        "home",
+        "They",
+        "must"
+      ],
+      "answer": "They must be at home",
+      "explain": {
+        "ua": "They must be → at home.",
+        "ru": "They must be → at home."
+      },
+      "id": "b1-final-10",
+      "source": "b1-u10-cp10"
+    },
+    {
+      "type": "choose",
+      "topic": "requests",
+      "question": "Would you mind ___ the door?",
+      "options": [
+        "closing",
+        "to close",
+        "close"
+      ],
+      "answer": "closing",
+      "explain": {
+        "ua": "-ing.",
+        "ru": "-ing."
+      },
+      "id": "b1-final-11",
+      "source": "b1-u11-cp03"
+    },
+    {
+      "type": "fix",
+      "topic": "vocab",
+      "sentence": "Can you share me the photo?",
+      "answer": "Can you share the photo with me?",
+      "accept": [
+        "Can you send me the photo?"
+      ],
+      "explain": {
+        "ua": "Share with.",
+        "ru": "Share with."
+      },
+      "id": "b1-final-12",
+      "source": "b1-u12-cp08"
+    },
+    {
+      "type": "choose",
+      "topic": "gerund",
+      "question": "I suggest ___ a taxi.",
+      "options": [
+        "taking",
+        "to take",
+        "take"
+      ],
+      "answer": "taking",
+      "explain": {
+        "ua": "Suggest + -ing.",
+        "ru": "Suggest + -ing."
+      },
+      "id": "b1-final-13",
+      "source": "b1-u13-cp01"
+    },
+    {
+      "type": "fill",
+      "topic": "reported-tenses",
+      "question": "'I've lost my phone.' → He said he ___ lost his phone.",
+      "answer": "had",
+      "accept": [],
+      "explain": {
+        "ua": "Have → had.",
+        "ru": "Have → had."
+      },
+      "id": "b1-final-14",
+      "source": "b1-u14-cp06"
+    },
+    {
+      "type": "translate",
+      "topic": "relative-where-whose",
+      "prompt": {
+        "ua": "Це кафе, де ми познайомилися.",
+        "ru": "Это кафе, где мы познакомились."
+      },
+      "answer": "This is the café where we met.",
+      "accept": [
+        "This is the cafe where we met.",
+        "That's the café where we met."
+      ],
+      "explain": {
+        "ua": "Where.",
+        "ru": "Where."
+      },
+      "id": "b1-final-15",
+      "source": "b1-u15-cp11"
+    },
+    {
+      "type": "define",
+      "topic": "vocab",
+      "definition": "You feel this when you are alone.",
+      "answer": "lonely",
+      "accept": [],
+      "explain": {
+        "ua": "Lonely.",
+        "ru": "Lonely."
+      },
+      "id": "b1-final-16",
+      "source": "b1-u16-cp04"
+    },
+    {
+      "type": "fix",
+      "topic": "phrasal-verbs",
+      "sentence": "I'm looking after my keys.",
+      "answer": "I'm looking for my keys.",
+      "accept": [
+        "I am looking for my keys."
+      ],
+      "explain": {
+        "ua": "Шукати — look for.",
+        "ru": "Искать — look for."
+      },
+      "id": "b1-final-17",
+      "source": "b1-u17-cp09"
+    },
+    {
+      "type": "choose",
+      "topic": "too-enough",
+      "question": "Is she ___ to watch this film?",
+      "options": [
+        "old enough",
+        "enough old",
+        "too old enough"
+      ],
+      "answer": "old enough",
+      "explain": {
+        "ua": "Old enough.",
+        "ru": "Old enough."
+      },
+      "id": "b1-final-18",
+      "source": "b1-u18-cp02"
+    },
+    {
+      "type": "match",
+      "topic": "vocab",
+      "pairs": [
+        {
+          "left": "article",
+          "right": {
+            "ua": "стаття",
+            "ru": "статья"
+          }
+        },
+        {
+          "left": "review",
+          "right": {
+            "ua": "відгук",
+            "ru": "отзыв"
+          }
+        },
+        {
+          "left": "podcast",
+          "right": {
+            "ua": "подкаст",
+            "ru": "подкаст"
+          }
+        },
+        {
+          "left": "documentary",
+          "right": {
+            "ua": "документалка",
+            "ru": "документалка"
+          }
+        }
+      ],
+      "explain": {
+        "ua": "Повтори картки.",
+        "ru": "Повтори карточки."
+      },
+      "id": "b1-final-19",
+      "source": "b1-u19-cp07"
+    },
+    {
+      "type": "listen",
+      "topic": "past-perfect-order",
+      "audio_text": "Someone had broken in.",
+      "options": [
+        "Someone had broken in.",
+        "Someone has broken in.",
+        "Someone had broken it."
+      ],
+      "answer": "Someone had broken in.",
+      "audio": "",
+      "explain": {
+        "ua": "Had broken in.",
+        "ru": "Had broken in."
+      },
+      "id": "b1-final-20",
+      "source": "b1-u20-cp12"
+    },
+    {
+      "type": "choose",
+      "topic": "linkers-adding",
+      "question": "I like sports, ___ tennis and swimming.",
+      "options": [
+        "for example",
+        "however",
+        "although"
+      ],
+      "answer": "for example",
+      "explain": {
+        "ua": "For example.",
+        "ru": "For example."
+      },
+      "id": "b1-final-21",
+      "source": "b1-u21-cp05"
+    },
+    {
+      "type": "build",
+      "topic": "word-order",
+      "words": [
+        "passport",
+        "Bring",
+        "copy",
+        "of",
+        "your",
+        "a"
+      ],
+      "answer": "Bring a copy of your passport",
+      "explain": {
+        "ua": "Bring → a copy of → your passport.",
+        "ru": "Bring → a copy of → your passport."
+      },
+      "id": "b1-final-22",
+      "source": "b1-u22-cp10"
+    },
+    {
+      "type": "listen",
+      "topic": "pp-news",
+      "audio_text": "I've just heard the news.",
+      "options": [
+        "I've just heard the news.",
+        "I just heard the noise.",
+        "I've just had the news."
+      ],
+      "answer": "I've just heard the news.",
+      "audio": "",
+      "explain": {
+        "ua": "News — новини.",
+        "ru": "News — новости."
+      },
+      "id": "b1-final-23",
+      "source": "b1-u01-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "ppc",
+      "audio_text": "I've been working on it for ages.",
+      "options": [
+        "I've been working on it for ages.",
+        "I work on it for ages.",
+        "I've been walking on it for ages."
+      ],
+      "answer": "I've been working on it for ages.",
+      "audio": "",
+      "explain": {
+        "ua": "For ages.",
+        "ru": "For ages."
+      },
+      "id": "b1-final-24",
+      "source": "b1-u02-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "used-to",
+      "audio_text": "I don't smoke anymore.",
+      "options": [
+        "I don't smoke anymore.",
+        "I don't smoke any more time.",
+        "I didn't smoke anymore."
+      ],
+      "answer": "I don't smoke anymore.",
+      "audio": "",
+      "explain": {
+        "ua": "Anymore.",
+        "ru": "Anymore."
+      },
+      "id": "b1-final-25",
+      "source": "b1-u04-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "zero-conditional",
+      "audio_text": "If you don't water plants, they die.",
+      "options": [
+        "If you don't water plants, they die.",
+        "If you don't water plants, they'll die.",
+        "If you don't want plants, they die."
+      ],
+      "answer": "If you don't water plants, they die.",
+      "audio": "",
+      "explain": {
+        "ua": "Zero.",
+        "ru": "Zero."
+      },
+      "id": "b1-final-26",
+      "source": "b1-u06-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "if-i-were-you",
+      "audio_text": "If I were you, I'd take it.",
+      "options": [
+        "If I were you, I'd take it.",
+        "If I were you, I'll take it.",
+        "If I was you, I take it."
+      ],
+      "answer": "If I were you, I'd take it.",
+      "audio": "",
+      "explain": {
+        "ua": "I'd take it.",
+        "ru": "I'd take it."
+      },
+      "id": "b1-final-27",
+      "source": "b1-u07-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "passive-past",
+      "audio_text": "The parcel was delivered this morning.",
+      "options": [
+        "The parcel was delivered this morning.",
+        "The parcel delivered this morning.",
+        "The party was delivered this morning."
+      ],
+      "answer": "The parcel was delivered this morning.",
+      "audio": "",
+      "explain": {
+        "ua": "Was delivered.",
+        "ru": "Was delivered."
+      },
+      "id": "b1-final-28",
+      "source": "b1-u08-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "modals-possibility",
+      "audio_text": "She could be right.",
+      "options": [
+        "She could be right.",
+        "She couldn't be right.",
+        "She could be late."
+      ],
+      "answer": "She could be right.",
+      "audio": "",
+      "explain": {
+        "ua": "Could be.",
+        "ru": "Could be."
+      },
+      "id": "b1-final-29",
+      "source": "b1-u10-cp12"
+    },
+    {
+      "type": "listen",
+      "topic": "requests",
+      "audio_text": "Could you pass the salt, please?",
+      "options": [
+        "Could you pass the salt, please?",
+        "Could you past the salt, please?",
+        "Could you pass the soap, please?"
+      ],
+      "answer": "Could you pass the salt, please?",
+      "audio": "",
+      "explain": {
+        "ua": "Pass the salt.",
+        "ru": "Pass the salt."
+      },
+      "id": "b1-final-30",
+      "source": "b1-u11-cp12"
+    }
+  ]
+}
