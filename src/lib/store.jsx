@@ -1,9 +1,14 @@
 import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import { BADGES } from './badges.js';
+import { tgUser } from './telegram.js';
 
 // Local-first progress store. Persists to localStorage; the same shape is what a future
 // Supabase sync would upload (SPEC §10). Every read/write is guarded — storage can be unavailable.
-const KEY = 'verbora:v1';
+// One key per Telegram account: two accounts on the same phone never share progress.
+// Outside Telegram (browser, demo) the plain key is used.
+const LEGACY_KEY = 'verbora:v1';
+const tgId = tgUser()?.id;
+const KEY = tgId ? `${LEGACY_KEY}:${tgId}` : LEGACY_KEY;
 
 export const today = (d = new Date()) => {
   const z = new Date(d.getTime() - d.getTimezoneOffset() * 60000);
@@ -38,7 +43,12 @@ export function freshState() {
 
 function load() {
   try {
-    const raw = localStorage.getItem(KEY);
+    let raw = localStorage.getItem(KEY);
+    // first launch after the per-account switch: adopt progress saved under the old shared key, once
+    if (!raw && KEY !== LEGACY_KEY) {
+      raw = localStorage.getItem(LEGACY_KEY);
+      if (raw) localStorage.removeItem(LEGACY_KEY);
+    }
     if (!raw) return freshState();
     const s = JSON.parse(raw);
     const base = freshState();
