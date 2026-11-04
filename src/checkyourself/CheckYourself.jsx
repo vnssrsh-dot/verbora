@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import pool from '../../content/check-yourself/pool.json';
+import translations from '../../content/check-yourself/translations.json';
 import icons from 'virtual:cy-icons';
 import { buildPack, normalize, compareWords } from './pack.js';
 import { useStore, addXp, bumpStreak, awardBadges } from '../lib/store.jsx';
@@ -141,7 +142,7 @@ function Run({ items, theme, t, lang, sound, onExit, onFinish }) {
         <span className="pill">{stepNo === 1 ? t('cyStep1') : t('cyStep2')}</span>
       </div>
       <WordStep key={`w-${i}`} word={item.word} active={stepNo === 1} t={t} lang={lang} sound={sound} onDone={done} />
-      {stepNo === 2 && <SentenceStep key={`s-${i}`} sentence={item.sentence} word={item.word} t={t} sound={sound} onDone={done} />}
+      {stepNo === 2 && <SentenceStep key={`s-${i}`} sentence={item.sentence} word={item.word} t={t} lang={lang} sound={sound} onDone={done} />}
       {askExit && (
         <Sheet onClose={() => setAskExit(false)}>
           <div className="row"><Mascot emotion="sad" size={80} /><div className="col" style={{ gap: 4 }}><div className="h3">{t('exit')}</div><div className="small">{t('exitSub')}</div></div></div>
@@ -258,7 +259,7 @@ function WordStep({ word, active, t, lang, sound, onDone }) {
 }
 
 // ---------- step 2: dictation by ear ----------
-function SentenceStep({ sentence, t, sound, onDone }) {
+function SentenceStep({ sentence, t, lang, sound, onDone }) {
   const tokens = useMemo(() => tokenize(sentence.text), [sentence.id]);
   const expected = tokens.filter((x) => x.word).map((x) => x.word);
   const [value, setValue] = useState('');
@@ -352,11 +353,25 @@ function SentenceStep({ sentence, t, sound, onDone }) {
           </div>
         </>
       )}
+      {finished && <div style={{ height: 210 }} aria-hidden />}
       {finished && (
-        <>
-          {status === 'revealed' && <div className="small"><b>{t('cyAnswer')}</b> <span className="en" style={{ color: 'var(--text)' }}>{sentence.text}</span></div>}
-          <button className="btn" onClick={() => onDone(status === 'ok' && !hint)}>{t('next')} <Icon name="arrow" size={18} /></button>
-        </>
+        // result sheet, same look as the lesson feedback: verdict + the sentence and its translation
+        <div style={{ position: 'fixed', left: 0, right: 0, bottom: 0, zIndex: 30, display: 'flex', justifyContent: 'center' }}>
+          <div className={`fb ${status === 'ok' ? 'fb-ok' : 'fb-bad'}`} style={{ width: '100%', maxWidth: 480 }}>
+            <div className="row" style={{ alignItems: 'flex-start', gap: 12 }}>
+              <span className="fb-icon"><Icon name={status === 'ok' ? 'check' : 'close'} size={22} stroke={3} /></span>
+              <div className="col grow" style={{ gap: 6, minWidth: 0 }}>
+                <div className="fb-title">{status === 'ok' ? t('correct') : t('wrong')}</div>
+                <div className="fb-answer">
+                  <span className="en">{sentence.text}</span>
+                  {translations[sentence.id] && <span className="small" style={{ color: 'var(--text-2)' }}>{loc(translations[sentence.id], lang)}</span>}
+                </div>
+              </div>
+              <Mascot emotion={status === 'ok' ? 'correct' : 'mistake'} size={60} anim={status === 'ok' ? 'bounce' : 'shake'} />
+            </div>
+            <button className="btn" onClick={() => onDone(status === 'ok' && !hint)}>{t('next')} <Icon name="arrow" size={18} /></button>
+          </div>
+        </div>
       )}
     </div>
   );

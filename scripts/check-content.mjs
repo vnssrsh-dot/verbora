@@ -72,6 +72,15 @@ function checkFinal(p) {
 }
 
 walk(root);
+
+// «Перевір себе»: every sentence needs a ua/ru translation
+try {
+  const pool = JSON.parse(readFileSync(join(root, 'check-yourself/pool.json'), 'utf8'));
+  const tr = JSON.parse(readFileSync(join(root, 'check-yourself/translations.json'), 'utf8'));
+  for (const t of pool.themes) for (const w of t.words) for (const s of w.sentences) {
+    if (!tr[s.id]?.ua || !tr[s.id]?.ru) errors.push(`check-yourself: no ua/ru translation for ${s.id}`);
+  }
+} catch (e) { errors.push(`check-yourself: ${e.message}`); }
 for (const x of warn) console.log('⚠', x);
 for (const x of errors) console.log('✖', x);
 console.log(errors.length ? `\n${errors.length} error(s)` : `\n✓ content OK (${ids.size} exercises)`);
