@@ -30,7 +30,11 @@ export default function App() {
   const { state } = useStore();
   const lang = state.lang || 'ua';
   const t = useMemo(() => makeT(lang), [lang]);
-  const [stack, setStack] = useState(() => [mk({ name: 'home' })]);
+  // A link ending in #check opens «Перевір себе» right away.
+  const [stack, setStack] = useState(() => {
+    const deep = typeof location !== 'undefined' && /^#check\b/.test(location.hash);
+    return deep ? [mk({ name: 'courses' }), mk({ name: 'check' })] : [mk({ name: 'home' })];
+  });
   const current = stack[stack.length - 1];
 
   useEffect(() => {
