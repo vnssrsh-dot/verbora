@@ -35,7 +35,13 @@ export function buildIndex(root) {
       });
     }
   }
-  return { units, finals, topicTitles };
+  let checkYourself = null;
+  const cyFile = join(root, 'check-yourself', 'pool.json');
+  if (existsSync(cyFile)) {
+    const pool = JSON.parse(readFileSync(cyFile, 'utf8'));
+    checkYourself = { packSize: pool.pack_size, refreshDays: pool.refresh_days };
+  }
+  return { units, finals, topicTitles, checkYourself };
 }
 
 export default function contentIndex() {
@@ -51,6 +57,38 @@ export default function contentIndex() {
         if (existsSync(dir)) for (const f of readdirSync(dir)) this.addWatchFile(join(dir, f));
       }
       return `export default ${JSON.stringify(buildIndex(root))};`;
+    },
+  };
+}
+
+// Lucide icons used by «Перевір себе»: only the icons named in pool.json are bundled.
+// Icons missing from the installed lucide-react version fall back to a close one.
+const CY_ID = 'virtual:cy-icons';
+const CY_RID = '\0' + CY_ID;
+const CY_FALLBACK = { earbuds: 'headphones' };
+export function cyIcons() {
+  let root;
+  return {
+    name: 'cy-icons',
+    configResolved(c) { root = c.root; },
+    resolveId(id) { return id === CY_ID ? CY_RID : null; },
+    async load(id) {
+      if (id !== CY_RID) return null;
+      const file = join(root, 'content/check-yourself/pool.json');
+      this.addWatchFile(file);
+      const pool = JSON.parse(readFileSync(file, 'utf8'));
+      const lucide = await import('lucide-react');
+      const pascal = (n) => n.split('-').map((x) => x[0].toUpperCase() + x.slice(1)).join('');
+      const names = new Set();
+      for (const t of pool.themes) { names.add(t.icon); for (const w of t.words) names.add(w.icon); }
+      const map = {};
+      for (const n of names) {
+        let use = lucide[pascal(n)] ? n : CY_FALLBACK[n];
+        if (!use || !lucide[pascal(use)]) { this.warn(`lucide icon "${n}" not found, using circle-help`); use = 'circle-help'; }
+        map[n] = pascal(use);
+      }
+      const comps = [...new Set(Object.values(map))];
+      return `import { ${comps.join(', ')} } from 'lucide-react';\nexport default { ${Object.entries(map).map(([k, v]) => `${JSON.stringify(k)}: ${v}`).join(', ')} };`;
     },
   };
 }

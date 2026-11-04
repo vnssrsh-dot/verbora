@@ -1,0 +1,7103 @@
+{
+  "id": "check-yourself",
+  "pack_size": 10,
+  "refresh_days": 2,
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "themes": [
+    {
+      "id": "food",
+      "title": {
+        "en": "Food and drinks",
+        "ua": "Їжа й напої",
+        "ru": "Еда и напитки"
+      },
+      "icon": "apple",
+      "words": [
+        {
+          "id": "food-01",
+          "word": "apple",
+          "level": "A1",
+          "icon": "apple",
+          "ipa": "/ˈæpl/",
+          "ua": "яблуко",
+          "ru": "яблоко",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I eat an apple every day.",
+              "id": "food-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If you're hungry, take an apple from the fridge.",
+              "id": "food-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "An apple a day is said to keep the doctor away.",
+              "id": "food-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-02",
+          "word": "egg",
+          "level": "A1",
+          "icon": "egg",
+          "ipa": "/eɡ/",
+          "ua": "яйце",
+          "ru": "яйцо",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have an egg for breakfast.",
+              "id": "food-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "She boiled an egg for her son.",
+              "id": "food-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The cake needs another egg, otherwise it'll be too dry.",
+              "id": "food-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-03",
+          "word": "milk",
+          "level": "A1",
+          "icon": "milk",
+          "ipa": "/mɪlk/",
+          "ua": "молоко",
+          "ru": "молоко",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The milk is in the fridge.",
+              "id": "food-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We ran out of milk yesterday.",
+              "id": "food-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The milk must have gone off — it smells strange.",
+              "id": "food-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-04",
+          "word": "coffee",
+          "level": "A1",
+          "icon": "coffee",
+          "ipa": "/ˈkɒfi/",
+          "ua": "кава",
+          "ru": "кофе",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I drink coffee in the morning.",
+              "id": "food-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've already had three cups of coffee today.",
+              "id": "food-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had I not drunk so much coffee, I would have slept better.",
+              "id": "food-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-05",
+          "word": "cake",
+          "level": "A1",
+          "icon": "cake",
+          "ipa": "/keɪk/",
+          "ua": "торт",
+          "ru": "торт",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This cake is very sweet.",
+              "id": "food-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My grandma made a chocolate cake for my birthday.",
+              "id": "food-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The cake was being decorated when the guests arrived.",
+              "id": "food-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-06",
+          "word": "pizza",
+          "level": "A1",
+          "icon": "pizza",
+          "ipa": "/ˈpiːtsə/",
+          "ua": "піца",
+          "ru": "пицца",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "We have pizza on Fridays.",
+              "id": "food-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Let's order a pizza tonight.",
+              "id": "food-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If we order pizza now, it'll arrive in thirty minutes.",
+              "id": "food-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-07",
+          "word": "banana",
+          "level": "A1",
+          "icon": "banana",
+          "ipa": "/bəˈnɑːnə/",
+          "ua": "банан",
+          "ru": "банан",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The monkey has a banana.",
+              "id": "food-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I'm going to put a banana in my smoothie.",
+              "id": "food-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Bananas should be stored outside the fridge.",
+              "id": "food-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-08",
+          "word": "fish",
+          "level": "A1",
+          "icon": "fish",
+          "ipa": "/fɪʃ/",
+          "ua": "риба",
+          "ru": "рыба",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My cat likes fish.",
+              "id": "food-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We caught a big fish in the lake.",
+              "id": "food-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Rarely have I eaten such fresh fish.",
+              "id": "food-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-09",
+          "word": "carrot",
+          "level": "A1",
+          "icon": "carrot",
+          "ipa": "/ˈkærət/",
+          "ua": "морква",
+          "ru": "морковь",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The rabbit eats a carrot.",
+              "id": "food-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Cut the carrot into small pieces.",
+              "id": "food-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Carrots are good for your eyes, or so my mum says.",
+              "id": "food-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-10",
+          "word": "soup",
+          "level": "A1",
+          "icon": "soup",
+          "ipa": "/suːp/",
+          "ua": "суп",
+          "ru": "суп",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The soup is hot.",
+              "id": "food-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My mum cooked chicken soup when I was ill.",
+              "id": "food-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The soup is believed to have been invented by monks.",
+              "id": "food-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-11",
+          "word": "cherry",
+          "level": "A2",
+          "icon": "cherry",
+          "ipa": "/ˈtʃeri/",
+          "ua": "вишня, черешня",
+          "ru": "вишня, черешня",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "There's a cherry on top of the cake.",
+              "id": "food-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "We've picked all the cherries from the tree.",
+              "id": "food-11-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not only did they pick the cherries, but they also made jam.",
+              "id": "food-11-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-12",
+          "word": "grape",
+          "level": "A2",
+          "icon": "grape",
+          "ipa": "/ɡreɪp/",
+          "ua": "виноград",
+          "ru": "виноград",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "These grapes are very sweet.",
+              "id": "food-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Wine is made from grapes.",
+              "id": "food-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The grapes were picked by hand last September.",
+              "id": "food-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-13",
+          "word": "sandwich",
+          "level": "A2",
+          "icon": "sandwich",
+          "ipa": "/ˈsænwɪtʃ/",
+          "ua": "сендвіч, бутерброд",
+          "ru": "сэндвич, бутерброд",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I made a cheese sandwich for lunch.",
+              "id": "food-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Would you like a sandwich while you wait?",
+              "id": "food-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The sandwich had been left in the sun all day.",
+              "id": "food-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-14",
+          "word": "salad",
+          "level": "A2",
+          "icon": "salad",
+          "ipa": "/ˈsæləd/",
+          "ua": "салат",
+          "ru": "салат",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I'd like a green salad, please.",
+              "id": "food-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I usually have a salad when I'm on a diet.",
+              "id": "food-14-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "What I need after the holidays is a light salad.",
+              "id": "food-14-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-15",
+          "word": "croissant",
+          "level": "B1",
+          "icon": "croissant",
+          "ipa": "/ˈkwæsɒ̃/",
+          "ua": "круасан",
+          "ru": "круассан",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I've never had a croissant as good as this one.",
+              "id": "food-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The croissants are baked fresh every morning.",
+              "id": "food-15-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Were I in Paris now, I'd be having a croissant.",
+              "id": "food-15-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-16",
+          "word": "ice cream",
+          "level": "A1",
+          "icon": "ice-cream-cone",
+          "ipa": "/ˌaɪs ˈkriːm/",
+          "ua": "морозиво",
+          "ru": "мороженое",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The children love ice cream.",
+              "id": "food-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We bought ice cream on the beach.",
+              "id": "food-16-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If it's hot tomorrow, we'll get some ice cream.",
+              "id": "food-16-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-17",
+          "word": "hamburger",
+          "level": "A1",
+          "icon": "hamburger",
+          "ipa": "/ˈhæmbɜːɡə/",
+          "ua": "гамбургер",
+          "ru": "гамбургер",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I want a hamburger, please.",
+              "id": "food-17-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We had hamburgers at the new café.",
+              "id": "food-17-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The hamburgers are made from local beef.",
+              "id": "food-17-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-18",
+          "word": "cookie",
+          "level": "A1",
+          "icon": "cookie",
+          "ipa": "/ˈkʊki/",
+          "ua": "печиво",
+          "ru": "печенье",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This cookie is very good.",
+              "id": "food-18-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My grandma baked cookies for us.",
+              "id": "food-18-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've already eaten three cookies!",
+              "id": "food-18-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-19",
+          "word": "sweets",
+          "level": "A1",
+          "icon": "candy",
+          "ipa": "/swiːts/",
+          "ua": "цукерки",
+          "ru": "конфеты",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Children like sweets.",
+              "id": "food-19-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I bought some sweets for the trip.",
+              "id": "food-19-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Sweets shouldn't be eaten before dinner.",
+              "id": "food-19-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-20",
+          "word": "lemon",
+          "level": "A1",
+          "icon": "citrus",
+          "ipa": "/ˈlemən/",
+          "ua": "лимон",
+          "ru": "лимон",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have tea with lemon.",
+              "id": "food-20-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Squeeze a lemon over the fish.",
+              "id": "food-20-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "When life gives you lemons, make lemonade.",
+              "id": "food-20-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-21",
+          "word": "chicken",
+          "level": "A1",
+          "icon": "drumstick",
+          "ipa": "/ˈtʃɪkɪn/",
+          "ua": "курка, курятина",
+          "ru": "курица",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "We have chicken for dinner.",
+              "id": "food-21-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My mum cooked chicken with potatoes.",
+              "id": "food-21-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The chicken should be cooked for at least an hour.",
+              "id": "food-21-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-22",
+          "word": "water",
+          "level": "A1",
+          "icon": "glass-water",
+          "ipa": "/ˈwɔːtə/",
+          "ua": "вода",
+          "ru": "вода",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Can I have some water?",
+              "id": "food-22-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I drank a lot of water after the run.",
+              "id": "food-22-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "You should drink two litres of water a day.",
+              "id": "food-22-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-23",
+          "word": "popcorn",
+          "level": "A2",
+          "icon": "popcorn",
+          "ipa": "/ˈpɒpkɔːn/",
+          "ua": "попкорн",
+          "ru": "попкорн",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We bought popcorn at the cinema.",
+              "id": "food-23-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I always eat popcorn when I watch a film.",
+              "id": "food-23-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "What's a film without popcorn?",
+              "id": "food-23-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-24",
+          "word": "donut",
+          "level": "A2",
+          "icon": "donut",
+          "ipa": "/ˈdəʊnʌt/",
+          "ua": "пончик",
+          "ru": "пончик",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I had a donut with my coffee.",
+              "id": "food-24-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If you eat another donut, you'll feel sick.",
+              "id": "food-24-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-25",
+          "word": "lollipop",
+          "level": "A2",
+          "icon": "lollipop",
+          "ipa": "/ˈlɒlipɒp/",
+          "ua": "льодяник на паличці",
+          "ru": "леденец на палочке",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The doctor gave my son a lollipop.",
+              "id": "food-25-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Lollipops are often given to children after a visit to the dentist.",
+              "id": "food-25-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-26",
+          "word": "wine",
+          "level": "A2",
+          "icon": "wine",
+          "ipa": "/waɪn/",
+          "ua": "вино",
+          "ru": "вино",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Would you like a glass of wine?",
+              "id": "food-26-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "This wine is made in the south of Ukraine.",
+              "id": "food-26-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The wine is said to improve with age.",
+              "id": "food-26-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-27",
+          "word": "beer",
+          "level": "A2",
+          "icon": "beer",
+          "ipa": "/bɪə/",
+          "ua": "пиво",
+          "ru": "пиво",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "He ordered a beer and a pizza.",
+              "id": "food-27-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've never tasted Czech beer.",
+              "id": "food-27-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-28",
+          "word": "beans",
+          "level": "A2",
+          "icon": "bean",
+          "ipa": "/biːnz/",
+          "ua": "квасоля, боби",
+          "ru": "фасоль, бобы",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I'd like beans on toast, please.",
+              "id": "food-28-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Beans are a good source of protein.",
+              "id": "food-28-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-29",
+          "word": "nut",
+          "level": "B1",
+          "icon": "nut",
+          "ipa": "/nʌt/",
+          "ua": "горіх",
+          "ru": "орех",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The squirrel is eating a nut.",
+              "id": "food-29-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "This cake may contain nuts.",
+              "id": "food-29-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "She's allergic to nuts, so do check the label.",
+              "id": "food-29-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-30",
+          "word": "wheat",
+          "level": "B1",
+          "icon": "wheat",
+          "ipa": "/wiːt/",
+          "ua": "пшениця",
+          "ru": "пшеница",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Ukraine grows a lot of wheat.",
+              "id": "food-30-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Bread is made from wheat flour.",
+              "id": "food-30-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Ukraine is often called the breadbasket of Europe because of its wheat.",
+              "id": "food-30-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "food-31",
+          "word": "saucepan",
+          "level": "B1",
+          "icon": "cooking-pot",
+          "ipa": "/ˈsɔːspən/",
+          "ua": "каструля",
+          "ru": "кастрюля",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Put the potatoes in a saucepan with water.",
+              "id": "food-31-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The soup was left in the saucepan overnight.",
+              "id": "food-31-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": {
+        "en": "At home",
+        "ua": "Удома",
+        "ru": "Дома"
+      },
+      "icon": "house",
+      "words": [
+        {
+          "id": "home-01",
+          "word": "bed",
+          "level": "A1",
+          "icon": "bed",
+          "ipa": "/bed/",
+          "ua": "ліжко",
+          "ru": "кровать",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My bed is very soft.",
+              "id": "home-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I went to bed late last night.",
+              "id": "home-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The bed needs to be made before the guests come.",
+              "id": "home-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-02",
+          "word": "sofa",
+          "level": "A1",
+          "icon": "sofa",
+          "ipa": "/ˈsəʊfə/",
+          "ua": "диван",
+          "ru": "диван",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The dog is on the sofa.",
+              "id": "home-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We bought a new sofa last week.",
+              "id": "home-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've been lying on the sofa all afternoon.",
+              "id": "home-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-03",
+          "word": "lamp",
+          "level": "A1",
+          "icon": "lamp",
+          "ipa": "/læmp/",
+          "ua": "лампа",
+          "ru": "лампа",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The lamp is on the table.",
+              "id": "home-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Can you turn off the lamp, please?",
+              "id": "home-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The lamp must have been broken during the move.",
+              "id": "home-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-04",
+          "word": "key",
+          "level": "A1",
+          "icon": "key",
+          "ipa": "/kiː/",
+          "ua": "ключ",
+          "ru": "ключ",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Where is my key?",
+              "id": "home-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I lost my key yesterday.",
+              "id": "home-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If I find the key, I'll open the door for you.",
+              "id": "home-04-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Little did I know that the key was in my pocket all along.",
+              "id": "home-04-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-05",
+          "word": "door",
+          "level": "A1",
+          "icon": "door-open",
+          "ipa": "/dɔː/",
+          "ua": "двері",
+          "ru": "дверь",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Please close the door.",
+              "id": "home-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Somebody knocked on the door at midnight.",
+              "id": "home-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The door had been left open, so the cat escaped.",
+              "id": "home-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-06",
+          "word": "clock",
+          "level": "A1",
+          "icon": "clock",
+          "ipa": "/klɒk/",
+          "ua": "годинник (настінний)",
+          "ru": "часы (настенные)",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The clock is on the wall.",
+              "id": "home-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The clock stopped at five o'clock.",
+              "id": "home-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The clock has been broken for weeks.",
+              "id": "home-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-07",
+          "word": "umbrella",
+          "level": "A1",
+          "icon": "umbrella",
+          "ipa": "/ʌmˈbrelə/",
+          "ua": "парасолька",
+          "ru": "зонт",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Take an umbrella. It's raining.",
+              "id": "home-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I left my umbrella on the bus.",
+              "id": "home-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "I should have taken an umbrella this morning.",
+              "id": "home-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-08",
+          "word": "scissors",
+          "level": "A2",
+          "icon": "scissors",
+          "ipa": "/ˈsɪzəz/",
+          "ua": "ножиці",
+          "ru": "ножницы",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Can I borrow your scissors?",
+              "id": "home-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Keep the scissors away from the children.",
+              "id": "home-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "These scissors are too blunt to cut paper.",
+              "id": "home-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-09",
+          "word": "bath",
+          "level": "A2",
+          "icon": "bath",
+          "ipa": "/bɑːθ/",
+          "ua": "ванна",
+          "ru": "ванна",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I had a hot bath after work.",
+              "id": "home-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "She's been in the bath for an hour!",
+              "id": "home-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "What I really need now is a long, hot bath.",
+              "id": "home-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-10",
+          "word": "fridge",
+          "level": "A2",
+          "icon": "refrigerator",
+          "ipa": "/frɪdʒ/",
+          "ua": "холодильник",
+          "ru": "холодильник",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Put the milk in the fridge.",
+              "id": "home-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "There's nothing in the fridge, so let's eat out.",
+              "id": "home-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The fridge is expected to be delivered on Monday.",
+              "id": "home-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-11",
+          "word": "microwave",
+          "level": "B1",
+          "icon": "microwave",
+          "ipa": "/ˈmaɪkrəweɪv/",
+          "ua": "мікрохвильовка",
+          "ru": "микроволновка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Heat the soup in the microwave for two minutes.",
+              "id": "home-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The microwave was invented by accident.",
+              "id": "home-11-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not until the microwave broke did we start cooking properly.",
+              "id": "home-11-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-12",
+          "word": "washing machine",
+          "level": "B1",
+          "icon": "washing-machine",
+          "ipa": "/ˈwɒʃɪŋ məˌʃiːn/",
+          "ua": "пральна машина",
+          "ru": "стиральная машина",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The washing machine has stopped working.",
+              "id": "home-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "I'm having the washing machine repaired tomorrow.",
+              "id": "home-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had we read the instructions, the washing machine wouldn't have flooded the kitchen.",
+              "id": "home-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-13",
+          "word": "light bulb",
+          "level": "B1",
+          "icon": "lightbulb",
+          "ipa": "/ˈlaɪt bʌlb/",
+          "ua": "лампочка",
+          "ru": "лампочка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We need to change the light bulb in the kitchen.",
+              "id": "home-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The light bulb is often said to be Edison's invention.",
+              "id": "home-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It wasn't Edison who made the first light bulb.",
+              "id": "home-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-14",
+          "word": "broom",
+          "level": "B2",
+          "icon": "broom",
+          "ipa": "/bruːm/",
+          "ua": "мітла, віник",
+          "ru": "метла, веник",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The floor needs to be swept — where's the broom?",
+              "id": "home-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "In fairy tales, witches would fly on a broom.",
+              "id": "home-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-15",
+          "word": "shower",
+          "level": "A1",
+          "icon": "shower-head",
+          "ipa": "/ˈʃaʊə/",
+          "ua": "душ",
+          "ru": "душ",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have a shower every morning.",
+              "id": "home-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I was in the shower when you called.",
+              "id": "home-15-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The shower needs to be fixed.",
+              "id": "home-15-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-16",
+          "word": "toilet",
+          "level": "A1",
+          "icon": "toilet",
+          "ipa": "/ˈtɔɪlət/",
+          "ua": "туалет, унітаз",
+          "ru": "туалет, унитаз",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Where is the toilet?",
+              "id": "home-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Excuse me, can I use your toilet?",
+              "id": "home-16-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The toilet has been broken for two days.",
+              "id": "home-16-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-17",
+          "word": "armchair",
+          "level": "A2",
+          "icon": "armchair",
+          "ipa": "/ˈɑːmtʃeə/",
+          "ua": "крісло",
+          "ru": "кресло",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Grandpa is sleeping in the armchair.",
+              "id": "home-17-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've bought an old armchair at the market.",
+              "id": "home-17-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "All I want is a good book and a comfy armchair.",
+              "id": "home-17-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-18",
+          "word": "lock",
+          "level": "A2",
+          "icon": "lock",
+          "ipa": "/lɒk/",
+          "ua": "замок (на дверях)",
+          "ru": "замок (на двери)",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Don't forget to lock the door.",
+              "id": "home-18-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "We've changed all the locks in the flat.",
+              "id": "home-18-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The lock must have been broken by the thieves.",
+              "id": "home-18-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-19",
+          "word": "doorbell",
+          "level": "B1",
+          "icon": "bell-ring",
+          "ipa": "/ˈdɔːbel/",
+          "ua": "дверний дзвоник",
+          "ru": "дверной звонок",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The doorbell rang in the middle of dinner.",
+              "id": "home-19-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "No sooner had I sat down than the doorbell rang.",
+              "id": "home-19-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-20",
+          "word": "letterbox",
+          "level": "B1",
+          "icon": "mailbox",
+          "ipa": "/ˈletəbɒks/",
+          "ua": "поштова скринька",
+          "ru": "почтовый ящик",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "There's a letter for you in the letterbox.",
+              "id": "home-20-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The letterbox is checked every morning.",
+              "id": "home-20-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-21",
+          "word": "fence",
+          "level": "B1",
+          "icon": "fence",
+          "ipa": "/fens/",
+          "ua": "паркан",
+          "ru": "забор",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The dog jumped over the fence.",
+              "id": "home-21-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The fence was painted white last summer.",
+              "id": "home-21-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "home-22",
+          "word": "fire extinguisher",
+          "level": "B2",
+          "icon": "fire-extinguisher",
+          "ipa": "/ˈfaɪər ɪkˌstɪŋɡwɪʃə/",
+          "ua": "вогнегасник",
+          "ru": "огнетушитель",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "Every office must have a fire extinguisher.",
+              "id": "home-22-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had there been a fire extinguisher, the kitchen wouldn't have burned.",
+              "id": "home-22-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": {
+        "en": "Transport",
+        "ua": "Транспорт",
+        "ru": "Транспорт"
+      },
+      "icon": "car",
+      "words": [
+        {
+          "id": "transport-01",
+          "word": "car",
+          "level": "A1",
+          "icon": "car",
+          "ipa": "/kɑː/",
+          "ua": "машина, автомобіль",
+          "ru": "машина, автомобиль",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "He drives a car.",
+              "id": "transport-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We went to the sea by car.",
+              "id": "transport-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If I had more money, I'd buy a new car.",
+              "id": "transport-01-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "No sooner had I bought the car than it broke down.",
+              "id": "transport-01-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-02",
+          "word": "bus",
+          "level": "A1",
+          "icon": "bus",
+          "ipa": "/bʌs/",
+          "ua": "автобус",
+          "ru": "автобус",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I go to work by bus.",
+              "id": "transport-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The bus was late this morning.",
+              "id": "transport-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The bus is thought to have been delayed by the snow.",
+              "id": "transport-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-03",
+          "word": "bike",
+          "level": "A1",
+          "icon": "bike",
+          "ipa": "/baɪk/",
+          "ua": "велосипед",
+          "ru": "велосипед",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "She rides a bike to school.",
+              "id": "transport-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I learned to ride a bike when I was six.",
+              "id": "transport-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've been cycling to work since I bought this bike.",
+              "id": "transport-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-04",
+          "word": "train",
+          "level": "A1",
+          "icon": "train-front",
+          "ipa": "/treɪn/",
+          "ua": "потяг",
+          "ru": "поезд",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The train is fast.",
+              "id": "transport-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We took the night train to Lviv.",
+              "id": "transport-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "By the time we got to the station, the train had left.",
+              "id": "transport-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-05",
+          "word": "plane",
+          "level": "A1",
+          "icon": "plane",
+          "ipa": "/pleɪn/",
+          "ua": "літак",
+          "ru": "самолёт",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The plane is in the sky.",
+              "id": "transport-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Our plane landed at midnight.",
+              "id": "transport-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've never been on a plane before.",
+              "id": "transport-05-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Were the plane to be delayed, we would miss our connection.",
+              "id": "transport-05-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-06",
+          "word": "ship",
+          "level": "A2",
+          "icon": "ship",
+          "ipa": "/ʃɪp/",
+          "ua": "корабель",
+          "ru": "корабль",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The ship left the port at dawn.",
+              "id": "transport-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Have you ever travelled by ship?",
+              "id": "transport-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The ship is said to have sunk in a storm.",
+              "id": "transport-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-07",
+          "word": "taxi",
+          "level": "A1",
+          "icon": "car-taxi-front",
+          "ipa": "/ˈtæksi/",
+          "ua": "таксі",
+          "ru": "такси",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Let's take a taxi.",
+              "id": "transport-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I called a taxi to the airport.",
+              "id": "transport-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If we take a taxi, we won't be late.",
+              "id": "transport-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-08",
+          "word": "truck",
+          "level": "A2",
+          "icon": "truck",
+          "ipa": "/trʌk/",
+          "ua": "вантажівка",
+          "ru": "грузовик",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "A big truck is blocking the road.",
+              "id": "transport-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "My uncle has been a truck driver for twenty years.",
+              "id": "transport-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The furniture will be delivered by truck.",
+              "id": "transport-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-09",
+          "word": "tram",
+          "level": "A2",
+          "icon": "tram-front",
+          "ipa": "/træm/",
+          "ua": "трамвай",
+          "ru": "трамвай",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The tram stops right outside my house.",
+              "id": "transport-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Lviv has had trams for more than a hundred years.",
+              "id": "transport-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "What I love about this city is the old trams.",
+              "id": "transport-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-10",
+          "word": "rocket",
+          "level": "B1",
+          "icon": "rocket",
+          "ipa": "/ˈrɒkɪt/",
+          "ua": "ракета",
+          "ru": "ракета",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The rocket was launched into space.",
+              "id": "transport-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The rocket is expected to reach the moon in three days.",
+              "id": "transport-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never before had a rocket travelled so far.",
+              "id": "transport-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-11",
+          "word": "sailboat",
+          "level": "B1",
+          "icon": "sailboat",
+          "ipa": "/ˈseɪlbəʊt/",
+          "ua": "вітрильний човен",
+          "ru": "парусная лодка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We've rented a sailboat for the weekend.",
+              "id": "transport-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Much as I love the sea, I'd never sail a sailboat alone.",
+              "id": "transport-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-12",
+          "word": "tractor",
+          "level": "B1",
+          "icon": "tractor",
+          "ipa": "/ˈtræktə/",
+          "ua": "трактор",
+          "ru": "трактор",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The farmer drives his tractor every morning.",
+              "id": "transport-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Ukrainian tractors have become famous around the world.",
+              "id": "transport-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-13",
+          "word": "ambulance",
+          "level": "B1",
+          "icon": "ambulance",
+          "ipa": "/ˈæmbjələns/",
+          "ua": "швидка допомога",
+          "ru": "скорая помощь",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Call an ambulance! He's hurt.",
+              "id": "transport-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The injured man was taken to hospital by ambulance.",
+              "id": "transport-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had the ambulance arrived later, he might not have survived.",
+              "id": "transport-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-14",
+          "word": "traffic cone",
+          "level": "B2",
+          "icon": "traffic-cone",
+          "ipa": "/ˈtræfɪk kəʊn/",
+          "ua": "дорожній конус",
+          "ru": "дорожный конус",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The road was closed off with traffic cones.",
+              "id": "transport-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was the traffic cones that warned us about the roadworks.",
+              "id": "transport-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-15",
+          "word": "railway",
+          "level": "B1",
+          "icon": "train-track",
+          "ipa": "/ˈreɪlweɪ/",
+          "ua": "залізниця",
+          "ru": "железная дорога",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Our house is next to the railway.",
+              "id": "transport-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The railway was built in the nineteenth century.",
+              "id": "transport-15-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-16",
+          "word": "petrol station",
+          "level": "B1",
+          "icon": "fuel",
+          "ipa": "/ˈpetrəl ˌsteɪʃn/",
+          "ua": "заправка",
+          "ru": "заправка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We need to stop at a petrol station.",
+              "id": "transport-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had we stopped at the petrol station, we wouldn't have run out of fuel.",
+              "id": "transport-16-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-17",
+          "word": "caravan",
+          "level": "B1",
+          "icon": "caravan",
+          "ipa": "/ˈkærəvæn/",
+          "ua": "будинок на колесах",
+          "ru": "дом на колёсах",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We spent the summer travelling in a caravan.",
+              "id": "transport-17-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Were I to retire, I'd buy a caravan and travel.",
+              "id": "transport-17-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-18",
+          "word": "cable car",
+          "level": "B2",
+          "icon": "cable-car",
+          "ipa": "/ˈkeɪbl kɑː/",
+          "ua": "канатна дорога",
+          "ru": "канатная дорога",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "We were taken to the top by cable car.",
+              "id": "transport-18-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not until we were in the cable car did I realise I was afraid of heights.",
+              "id": "transport-18-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "transport-19",
+          "word": "forklift",
+          "level": "B2",
+          "icon": "forklift",
+          "ipa": "/ˈfɔːklɪft/",
+          "ua": "навантажувач",
+          "ru": "погрузчик",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The boxes are moved by forklift.",
+              "id": "transport-19-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was a forklift that knocked over the shelves.",
+              "id": "transport-19-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": {
+        "en": "Animals",
+        "ua": "Тварини",
+        "ru": "Животные"
+      },
+      "icon": "paw-print",
+      "words": [
+        {
+          "id": "animals-01",
+          "word": "dog",
+          "level": "A1",
+          "icon": "dog",
+          "ipa": "/dɒɡ/",
+          "ua": "собака",
+          "ru": "собака",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have a dog.",
+              "id": "animals-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We walked the dog in the park.",
+              "id": "animals-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've had my dog for five years.",
+              "id": "animals-01-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "My dog will bark at anyone who rings the bell.",
+              "id": "animals-01-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-02",
+          "word": "cat",
+          "level": "A1",
+          "icon": "cat",
+          "ipa": "/kæt/",
+          "ua": "кіт",
+          "ru": "кошка",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The cat is black.",
+              "id": "animals-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Our cat slept all day.",
+              "id": "animals-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The cat must have eaten the fish.",
+              "id": "animals-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-03",
+          "word": "bird",
+          "level": "A1",
+          "icon": "bird",
+          "ipa": "/bɜːd/",
+          "ua": "птах",
+          "ru": "птица",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The bird can fly.",
+              "id": "animals-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "A bird built a nest on our balcony.",
+              "id": "animals-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've never seen such a colourful bird.",
+              "id": "animals-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-04",
+          "word": "rabbit",
+          "level": "A1",
+          "icon": "rabbit",
+          "ipa": "/ˈræbɪt/",
+          "ua": "кролик",
+          "ru": "кролик",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The rabbit is white.",
+              "id": "animals-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My daughter wants a rabbit for her birthday.",
+              "id": "animals-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Rabbits are known to be very social animals.",
+              "id": "animals-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-05",
+          "word": "turtle",
+          "level": "A2",
+          "icon": "turtle",
+          "ipa": "/ˈtɜːtl/",
+          "ua": "черепаха",
+          "ru": "черепаха",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The turtle is very slow.",
+              "id": "animals-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Turtles can live for more than a hundred years.",
+              "id": "animals-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Seldom do you see a sea turtle so close to the beach.",
+              "id": "animals-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-06",
+          "word": "snail",
+          "level": "A2",
+          "icon": "snail",
+          "ipa": "/sneɪl/",
+          "ua": "равлик",
+          "ru": "улитка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "There's a snail on the leaf.",
+              "id": "animals-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "After the rain, there were snails everywhere.",
+              "id": "animals-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "In France, snails are considered a delicacy.",
+              "id": "animals-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-07",
+          "word": "squirrel",
+          "level": "B1",
+          "icon": "squirrel",
+          "ipa": "/ˈskwɪrəl/",
+          "ua": "білка",
+          "ru": "белка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "A squirrel has hidden nuts under our tree.",
+              "id": "animals-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Squirrels are often seen in city parks.",
+              "id": "animals-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Little did the squirrel know that the dog was watching.",
+              "id": "animals-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-08",
+          "word": "mouse",
+          "level": "A1",
+          "icon": "rat",
+          "ipa": "/maʊs/",
+          "ua": "миша",
+          "ru": "мышь",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The cat sees a mouse.",
+              "id": "animals-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We found a mouse in the kitchen.",
+              "id": "animals-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The mouse must have got in through a hole in the wall.",
+              "id": "animals-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-09",
+          "word": "panda",
+          "level": "A2",
+          "icon": "panda",
+          "ipa": "/ˈpændə/",
+          "ua": "панда",
+          "ru": "панда",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The panda is eating bamboo.",
+              "id": "animals-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Pandas have become a symbol of China.",
+              "id": "animals-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Pandas are protected because they are endangered.",
+              "id": "animals-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-10",
+          "word": "worm",
+          "level": "B1",
+          "icon": "worm",
+          "ipa": "/wɜːm/",
+          "ua": "черв'як",
+          "ru": "червяк",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The bird caught a worm in the garden.",
+              "id": "animals-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The early bird catches the worm, as the saying goes.",
+              "id": "animals-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-11",
+          "word": "bug",
+          "level": "B1",
+          "icon": "bug",
+          "ipa": "/bʌɡ/",
+          "ua": "жук, комаха",
+          "ru": "жук, насекомое",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "There's a bug on your shoulder!",
+              "id": "animals-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Most bugs in the garden are harmless.",
+              "id": "animals-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-12",
+          "word": "shrimp",
+          "level": "B2",
+          "icon": "shrimp",
+          "ipa": "/ʃrɪmp/",
+          "ua": "креветка",
+          "ru": "креветка",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The shrimp were cooked in garlic and butter.",
+              "id": "animals-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Much as I love seafood, I can't eat shrimp.",
+              "id": "animals-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-13",
+          "word": "feather",
+          "level": "B1",
+          "icon": "feather",
+          "ipa": "/ˈfeðə/",
+          "ua": "пір'їна",
+          "ru": "перо",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "She found a white feather on the beach.",
+              "id": "animals-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It's as light as a feather.",
+              "id": "animals-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-14",
+          "word": "paw",
+          "level": "A2",
+          "icon": "paw-print",
+          "ipa": "/pɔː/",
+          "ua": "лапа",
+          "ru": "лапа",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My dog gave me his paw.",
+              "id": "animals-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "There are muddy paw prints all over the floor!",
+              "id": "animals-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-15",
+          "word": "shell",
+          "level": "B1",
+          "icon": "shell",
+          "ipa": "/ʃel/",
+          "ua": "мушля, панцир",
+          "ru": "ракушка, панцирь",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We collected shells on the beach.",
+              "id": "animals-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The turtle is protected by its hard shell.",
+              "id": "animals-15-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "animals-16",
+          "word": "birdhouse",
+          "level": "B2",
+          "icon": "birdhouse",
+          "ipa": "/ˈbɜːdhaʊs/",
+          "ua": "шпаківня",
+          "ru": "скворечник",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The birdhouse was made by my grandfather.",
+              "id": "animals-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never had I seen so many birds around one birdhouse.",
+              "id": "animals-16-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": {
+        "en": "Nature and weather",
+        "ua": "Природа й погода",
+        "ru": "Природа и погода"
+      },
+      "icon": "sun",
+      "words": [
+        {
+          "id": "nature-01",
+          "word": "sun",
+          "level": "A1",
+          "icon": "sun",
+          "ipa": "/sʌn/",
+          "ua": "сонце",
+          "ru": "солнце",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The sun is hot today.",
+              "id": "nature-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The sun went down at eight.",
+              "id": "nature-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If the sun comes out, we'll go to the beach.",
+              "id": "nature-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-02",
+          "word": "moon",
+          "level": "A1",
+          "icon": "moon",
+          "ipa": "/muːn/",
+          "ua": "місяць (на небі)",
+          "ru": "луна",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The moon is very big tonight.",
+              "id": "nature-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "People walked on the moon in 1969.",
+              "id": "nature-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "I was over the moon when I heard the news.",
+              "id": "nature-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-03",
+          "word": "cloud",
+          "level": "A1",
+          "icon": "cloud",
+          "ipa": "/klaʊd/",
+          "ua": "хмара",
+          "ru": "облако, туча",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "There is a cloud in the sky.",
+              "id": "nature-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Dark clouds came from the west.",
+              "id": "nature-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "All my photos are stored in the cloud.",
+              "id": "nature-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-04",
+          "word": "rain",
+          "level": "A1",
+          "icon": "cloud-rain",
+          "ipa": "/reɪn/",
+          "ua": "дощ",
+          "ru": "дождь",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I don't like rain.",
+              "id": "nature-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "It rained all day yesterday.",
+              "id": "nature-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "It's been raining since the morning.",
+              "id": "nature-04-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Despite the heavy rain, the concert went ahead.",
+              "id": "nature-04-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-05",
+          "word": "snow",
+          "level": "A1",
+          "icon": "snowflake",
+          "ipa": "/snəʊ/",
+          "ua": "сніг",
+          "ru": "снег",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The children play in the snow.",
+              "id": "nature-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "There was a lot of snow last winter.",
+              "id": "nature-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The roads are being cleared of snow.",
+              "id": "nature-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-06",
+          "word": "wind",
+          "level": "A2",
+          "icon": "wind",
+          "ipa": "/wɪnd/",
+          "ua": "вітер",
+          "ru": "ветер",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The wind was very strong last night.",
+              "id": "nature-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The wind has blown the leaves everywhere.",
+              "id": "nature-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The flight was cancelled due to strong wind.",
+              "id": "nature-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-07",
+          "word": "tree",
+          "level": "A1",
+          "icon": "tree-pine",
+          "ipa": "/triː/",
+          "ua": "дерево",
+          "ru": "дерево",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The tree is very tall.",
+              "id": "nature-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We planted a tree in the garden.",
+              "id": "nature-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "This tree is thought to be three hundred years old.",
+              "id": "nature-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-08",
+          "word": "flower",
+          "level": "A1",
+          "icon": "flower",
+          "ipa": "/ˈflaʊə/",
+          "ua": "квітка",
+          "ru": "цветок",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This flower is red.",
+              "id": "nature-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "He gave me flowers on my birthday.",
+              "id": "nature-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The flowers have opened because of the warm weather.",
+              "id": "nature-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-09",
+          "word": "leaf",
+          "level": "A2",
+          "icon": "leaf",
+          "ipa": "/liːf/",
+          "ua": "листок",
+          "ru": "лист (дерева)",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "A leaf fell on my head.",
+              "id": "nature-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "In autumn, every leaf on our tree turns yellow.",
+              "id": "nature-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It's high time I turned over a new leaf.",
+              "id": "nature-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-10",
+          "word": "mountain",
+          "level": "A2",
+          "icon": "mountain",
+          "ipa": "/ˈmaʊntɪn/",
+          "ua": "гора",
+          "ru": "гора",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We climbed a mountain last summer.",
+              "id": "nature-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've always wanted to live in the mountains.",
+              "id": "nature-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The mountain is believed to be the highest in the region.",
+              "id": "nature-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-11",
+          "word": "rainbow",
+          "level": "A2",
+          "icon": "rainbow",
+          "ipa": "/ˈreɪnbəʊ/",
+          "ua": "веселка",
+          "ru": "радуга",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Look! There's a rainbow!",
+              "id": "nature-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "After the storm, a rainbow appeared over the city.",
+              "id": "nature-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-12",
+          "word": "storm",
+          "level": "B1",
+          "icon": "cloud-lightning",
+          "ipa": "/stɔːm/",
+          "ua": "гроза, буря",
+          "ru": "гроза, буря",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We stayed inside during the storm.",
+              "id": "nature-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The storm is expected to hit the coast tonight.",
+              "id": "nature-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Hardly had we got home when the storm began.",
+              "id": "nature-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-13",
+          "word": "fire",
+          "level": "A2",
+          "icon": "flame",
+          "ipa": "/ˈfaɪə/",
+          "ua": "вогонь",
+          "ru": "огонь",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We sat around the fire and sang songs.",
+              "id": "nature-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Never leave a fire burning in the forest.",
+              "id": "nature-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The fire is thought to have started in the kitchen.",
+              "id": "nature-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-14",
+          "word": "tornado",
+          "level": "B2",
+          "icon": "tornado",
+          "ipa": "/tɔːˈneɪdəʊ/",
+          "ua": "торнадо",
+          "ru": "торнадо",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The town was destroyed by a tornado.",
+              "id": "nature-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Rarely do tornadoes hit this part of the country.",
+              "id": "nature-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-15",
+          "word": "thermometer",
+          "level": "B1",
+          "icon": "thermometer",
+          "ipa": "/θəˈmɒmɪtə/",
+          "ua": "термометр, градусник",
+          "ru": "термометр, градусник",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The thermometer shows minus ten degrees.",
+              "id": "nature-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was the thermometer that told us she had a fever.",
+              "id": "nature-15-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-16",
+          "word": "star",
+          "level": "A1",
+          "icon": "star",
+          "ipa": "/stɑː/",
+          "ua": "зірка",
+          "ru": "звезда",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I can see a star.",
+              "id": "nature-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We looked at the stars all night.",
+              "id": "nature-16-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Rarely do you see so many stars in the city.",
+              "id": "nature-16-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-17",
+          "word": "wave",
+          "level": "A2",
+          "icon": "waves-horizontal",
+          "ipa": "/weɪv/",
+          "ua": "хвиля",
+          "ru": "волна",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The waves were very big today.",
+              "id": "nature-17-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've never surfed such a big wave.",
+              "id": "nature-17-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The beach was closed because of the high waves.",
+              "id": "nature-17-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-18",
+          "word": "palm tree",
+          "level": "A2",
+          "icon": "tree-palm",
+          "ipa": "/ˈpɑːm triː/",
+          "ua": "пальма",
+          "ru": "пальма",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We lay under a palm tree on the beach.",
+              "id": "nature-18-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I'd love to live somewhere with palm trees.",
+              "id": "nature-18-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-19",
+          "word": "rose",
+          "level": "A2",
+          "icon": "rose",
+          "ipa": "/rəʊz/",
+          "ua": "троянда",
+          "ru": "роза",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "He gave her a red rose.",
+              "id": "nature-19-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "My grandma has grown roses for years.",
+              "id": "nature-19-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Roses should be planted in a sunny place.",
+              "id": "nature-19-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-20",
+          "word": "Earth",
+          "level": "A2",
+          "icon": "earth",
+          "ipa": "/ɜːθ/",
+          "ua": "Земля (планета)",
+          "ru": "Земля (планета)",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The Earth goes around the sun.",
+              "id": "nature-20-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The Earth is thought to be 4.5 billion years old.",
+              "id": "nature-20-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-21",
+          "word": "sunrise",
+          "level": "B1",
+          "icon": "sunrise",
+          "ipa": "/ˈsʌnraɪz/",
+          "ua": "схід сонця",
+          "ru": "восход солнца",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We got up early to watch the sunrise.",
+              "id": "nature-21-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never have I seen a sunrise as beautiful as in the Carpathians.",
+              "id": "nature-21-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-22",
+          "word": "sunset",
+          "level": "B1",
+          "icon": "sunset",
+          "ipa": "/ˈsʌnset/",
+          "ua": "захід сонця",
+          "ru": "закат",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Let's walk on the beach at sunset.",
+              "id": "nature-22-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The photo was taken at sunset.",
+              "id": "nature-22-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-23",
+          "word": "fog",
+          "level": "B1",
+          "icon": "cloud-fog",
+          "ipa": "/fɒɡ/",
+          "ua": "туман",
+          "ru": "туман",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The fog was so thick that I couldn't see the road.",
+              "id": "nature-23-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The flight was delayed due to fog.",
+              "id": "nature-23-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "nature-24",
+          "word": "sprout",
+          "level": "B2",
+          "icon": "sprout",
+          "ipa": "/spraʊt/",
+          "ua": "паросток",
+          "ru": "росток",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "A small green sprout has appeared in the pot.",
+              "id": "nature-24-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was the first sprout of spring that made me smile.",
+              "id": "nature-24-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "things",
+      "title": {
+        "en": "Clothes and things",
+        "ua": "Речі й аксесуари",
+        "ru": "Вещи и аксессуары"
+      },
+      "icon": "shirt",
+      "words": [
+        {
+          "id": "things-01",
+          "word": "shirt",
+          "level": "A1",
+          "icon": "shirt",
+          "ipa": "/ʃɜːt/",
+          "ua": "сорочка",
+          "ru": "рубашка",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "His shirt is blue.",
+              "id": "things-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I bought a new shirt for the party.",
+              "id": "things-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The shirt needs to be ironed.",
+              "id": "things-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-02",
+          "word": "glasses",
+          "level": "A1",
+          "icon": "glasses",
+          "ipa": "/ˈɡlɑːsɪz/",
+          "ua": "окуляри",
+          "ru": "очки",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My grandma wears glasses.",
+              "id": "things-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I couldn't find my glasses this morning.",
+              "id": "things-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've worn glasses since I was ten.",
+              "id": "things-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-03",
+          "word": "watch",
+          "level": "A1",
+          "icon": "watch",
+          "ipa": "/wɒtʃ/",
+          "ua": "годинник (наручний)",
+          "ru": "часы (наручные)",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This is my new watch.",
+              "id": "things-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My dad gave me a watch for my birthday.",
+              "id": "things-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The watch is said to have belonged to my great-grandfather.",
+              "id": "things-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-04",
+          "word": "backpack",
+          "level": "A2",
+          "icon": "backpack",
+          "ipa": "/ˈbækpæk/",
+          "ua": "рюкзак",
+          "ru": "рюкзак",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Put your books in your backpack.",
+              "id": "things-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've packed everything into one backpack.",
+              "id": "things-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "All I took with me was a small backpack.",
+              "id": "things-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-05",
+          "word": "bag",
+          "level": "A1",
+          "icon": "handbag",
+          "ipa": "/bæɡ/",
+          "ua": "сумка",
+          "ru": "сумка",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Her bag is black.",
+              "id": "things-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Someone stole my bag on the train.",
+              "id": "things-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I can't find my bag. Have you seen it?",
+              "id": "things-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-06",
+          "word": "crown",
+          "level": "B1",
+          "icon": "crown",
+          "ipa": "/kraʊn/",
+          "ua": "корона",
+          "ru": "корона",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The queen wore a gold crown.",
+              "id": "things-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The crown is kept in a museum in London.",
+              "id": "things-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-07",
+          "word": "diamond",
+          "level": "B1",
+          "icon": "gem",
+          "ipa": "/ˈdaɪəmənd/",
+          "ua": "діамант",
+          "ru": "бриллиант, алмаз",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "He gave her a ring with a diamond.",
+              "id": "things-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The diamond is believed to be worth a fortune.",
+              "id": "things-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not only did he buy the diamond, but he also had it set in gold.",
+              "id": "things-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-08",
+          "word": "gift",
+          "level": "A2",
+          "icon": "gift",
+          "ipa": "/ɡɪft/",
+          "ua": "подарунок",
+          "ru": "подарок",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "This gift is for you.",
+              "id": "things-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I haven't bought a gift for my mum yet.",
+              "id": "things-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The gifts were wrapped by the shop assistant.",
+              "id": "things-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-09",
+          "word": "briefcase",
+          "level": "B1",
+          "icon": "briefcase",
+          "ipa": "/ˈbriːfkeɪs/",
+          "ua": "портфель, дипломат",
+          "ru": "портфель, дипломат",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My boss always carries a leather briefcase.",
+              "id": "things-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was in his briefcase that the police found the documents.",
+              "id": "things-09-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "things-10",
+          "word": "bookmark",
+          "level": "B1",
+          "icon": "bookmark",
+          "ipa": "/ˈbʊkmɑːk/",
+          "ua": "закладка",
+          "ru": "закладка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I've lost my bookmark, so I don't know which page I was on.",
+              "id": "things-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "All I need to start reading is a good bookmark.",
+              "id": "things-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": {
+        "en": "Body and health",
+        "ua": "Тіло й здоров'я",
+        "ru": "Тело и здоровье"
+      },
+      "icon": "heart",
+      "words": [
+        {
+          "id": "body-01",
+          "word": "heart",
+          "level": "A1",
+          "icon": "heart",
+          "ipa": "/hɑːt/",
+          "ua": "серце",
+          "ru": "сердце",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I love you with all my heart.",
+              "id": "body-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My heart was beating fast before the exam.",
+              "id": "body-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The heart is often thought of as a symbol of love.",
+              "id": "body-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-02",
+          "word": "eye",
+          "level": "A1",
+          "icon": "eye",
+          "ipa": "/aɪ/",
+          "ua": "око",
+          "ru": "глаз",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "She has blue eyes.",
+              "id": "body-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I closed my eyes and made a wish.",
+              "id": "body-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've had something in my eye all day.",
+              "id": "body-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-03",
+          "word": "ear",
+          "level": "A1",
+          "icon": "ear",
+          "ipa": "/ɪə/",
+          "ua": "вухо",
+          "ru": "ухо",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The rabbit has long ears.",
+              "id": "body-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My ear hurt after the flight.",
+              "id": "body-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "I'm all ears — tell me everything.",
+              "id": "body-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-04",
+          "word": "hand",
+          "level": "A1",
+          "icon": "hand",
+          "ipa": "/hænd/",
+          "ua": "рука (кисть)",
+          "ru": "рука (кисть)",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Wash your hands before dinner.",
+              "id": "body-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "She waved her hand and smiled.",
+              "id": "body-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Could you give me a hand with these bags?",
+              "id": "body-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-05",
+          "word": "brain",
+          "level": "B1",
+          "icon": "brain",
+          "ipa": "/breɪn/",
+          "ua": "мозок",
+          "ru": "мозг",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Sleep is important for your brain.",
+              "id": "body-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The brain is believed to use twenty percent of our energy.",
+              "id": "body-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was her brain, not her looks, that impressed him.",
+              "id": "body-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-06",
+          "word": "pill",
+          "level": "A2",
+          "icon": "pill",
+          "ipa": "/pɪl/",
+          "ua": "пігулка",
+          "ru": "таблетка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Take one pill after breakfast.",
+              "id": "body-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If the pain doesn't stop, take another pill.",
+              "id": "body-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "These pills mustn't be taken with alcohol.",
+              "id": "body-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-07",
+          "word": "bone",
+          "level": "A2",
+          "icon": "bone",
+          "ipa": "/bəʊn/",
+          "ua": "кістка",
+          "ru": "кость",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The dog is eating a bone.",
+              "id": "body-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "He broke a bone in his foot.",
+              "id": "body-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "I'm chilled to the bone.",
+              "id": "body-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-08",
+          "word": "toothbrush",
+          "level": "A2",
+          "icon": "toothbrush",
+          "ipa": "/ˈtuːθbrʌʃ/",
+          "ua": "зубна щітка",
+          "ru": "зубная щётка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Don't forget your toothbrush!",
+              "id": "body-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "You should change your toothbrush every three months.",
+              "id": "body-08-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-09",
+          "word": "syringe",
+          "level": "B2",
+          "icon": "syringe",
+          "ipa": "/sɪˈrɪndʒ/",
+          "ua": "шприц",
+          "ru": "шприц",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The nurse prepared the syringe for the vaccine.",
+              "id": "body-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Much as I hate needles, I didn't look away from the syringe.",
+              "id": "body-09-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-10",
+          "word": "stethoscope",
+          "level": "B2",
+          "icon": "stethoscope",
+          "ipa": "/ˈsteθəskəʊp/",
+          "ua": "стетоскоп",
+          "ru": "стетоскоп",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The doctor listened to my chest with a stethoscope.",
+              "id": "body-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The stethoscope is said to have been invented in 1816.",
+              "id": "body-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-11",
+          "word": "plaster",
+          "level": "B1",
+          "icon": "bandage",
+          "ipa": "/ˈplɑːstə/",
+          "ua": "пластир",
+          "ru": "пластырь",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I put a plaster on my finger.",
+              "id": "body-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The cut should be covered with a plaster.",
+              "id": "body-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-12",
+          "word": "hospital",
+          "level": "A2",
+          "icon": "hospital",
+          "ipa": "/ˈhɒspɪtl/",
+          "ua": "лікарня",
+          "ru": "больница",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My grandpa is in hospital.",
+              "id": "body-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "She's worked at the hospital for ten years.",
+              "id": "body-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The new hospital is being built near the river.",
+              "id": "body-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-13",
+          "word": "dumbbell",
+          "level": "B1",
+          "icon": "dumbbell",
+          "ipa": "/ˈdʌmbel/",
+          "ua": "гантеля",
+          "ru": "гантель",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I lift dumbbells three times a week.",
+              "id": "body-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It's about time I took the dumbbells out from under the bed.",
+              "id": "body-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-14",
+          "word": "baby",
+          "level": "A1",
+          "icon": "baby",
+          "ipa": "/ˈbeɪbi/",
+          "ua": "немовля",
+          "ru": "младенец",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The baby is sleeping.",
+              "id": "body-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My sister had a baby last month.",
+              "id": "body-14-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The baby is expected to be born in June.",
+              "id": "body-14-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "body-15",
+          "word": "footprint",
+          "level": "B1",
+          "icon": "footprints",
+          "ipa": "/ˈfʊtprɪnt/",
+          "ua": "слід (ноги)",
+          "ru": "след (ноги)",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We saw footprints in the snow.",
+              "id": "body-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The thief was identified by his footprints.",
+              "id": "body-15-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "title": {
+        "en": "Study and work",
+        "ua": "Навчання й робота",
+        "ru": "Учёба и работа"
+      },
+      "icon": "book-open",
+      "words": [
+        {
+          "id": "study-01",
+          "word": "book",
+          "level": "A1",
+          "icon": "book",
+          "ipa": "/bʊk/",
+          "ua": "книжка",
+          "ru": "книга",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I read a book every week.",
+              "id": "study-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I left my book at school.",
+              "id": "study-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "This is the best book I've ever read.",
+              "id": "study-01-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never have I read a book so gripping.",
+              "id": "study-01-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-02",
+          "word": "pen",
+          "level": "A1",
+          "icon": "pen",
+          "ipa": "/pen/",
+          "ua": "ручка",
+          "ru": "ручка",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Can I have a pen?",
+              "id": "study-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I signed the form with a blue pen.",
+              "id": "study-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The contract must be signed in pen.",
+              "id": "study-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-03",
+          "word": "pencil",
+          "level": "A1",
+          "icon": "pencil",
+          "ipa": "/ˈpensl/",
+          "ua": "олівець",
+          "ru": "карандаш",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I draw with a pencil.",
+              "id": "study-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My son lost his pencil at school.",
+              "id": "study-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Write your answers in pencil, please.",
+              "id": "study-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-04",
+          "word": "ruler",
+          "level": "A2",
+          "icon": "ruler",
+          "ipa": "/ˈruːlə/",
+          "ua": "лінійка",
+          "ru": "линейка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Draw a line with a ruler.",
+              "id": "study-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I can't find a ruler anywhere.",
+              "id": "study-04-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-05",
+          "word": "calculator",
+          "level": "A2",
+          "icon": "calculator",
+          "ipa": "/ˈkælkjuleɪtə/",
+          "ua": "калькулятор",
+          "ru": "калькулятор",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "You can use a calculator in the test.",
+              "id": "study-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've done the maths without a calculator.",
+              "id": "study-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Under no circumstances are calculators allowed in the exam.",
+              "id": "study-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-06",
+          "word": "laptop",
+          "level": "A1",
+          "icon": "laptop",
+          "ipa": "/ˈlæptɒp/",
+          "ua": "ноутбук",
+          "ru": "ноутбук",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I work on my laptop.",
+              "id": "study-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I bought a new laptop last month.",
+              "id": "study-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "My laptop is being repaired, so I'm using my phone.",
+              "id": "study-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-07",
+          "word": "phone",
+          "level": "A1",
+          "icon": "smartphone",
+          "ipa": "/fəʊn/",
+          "ua": "телефон",
+          "ru": "телефон",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Where is my phone?",
+              "id": "study-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I dropped my phone and it broke.",
+              "id": "study-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've had this phone for three years.",
+              "id": "study-07-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was my phone that woke me up at four in the morning.",
+              "id": "study-07-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-08",
+          "word": "calendar",
+          "level": "A2",
+          "icon": "calendar",
+          "ipa": "/ˈkælɪndə/",
+          "ua": "календар",
+          "ru": "календарь",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I wrote the date in my calendar.",
+              "id": "study-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've marked your birthday on the calendar.",
+              "id": "study-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The meeting has been added to everyone's calendar.",
+              "id": "study-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-09",
+          "word": "letter",
+          "level": "A1",
+          "icon": "mail",
+          "ipa": "/ˈletə/",
+          "ua": "лист (поштовий)",
+          "ru": "письмо",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have a letter for you.",
+              "id": "study-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My grandma sent me a letter from Kyiv.",
+              "id": "study-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The letter was sent to the wrong address.",
+              "id": "study-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-10",
+          "word": "paperclip",
+          "level": "B1",
+          "icon": "paperclip",
+          "ipa": "/ˈpeɪpəklɪp/",
+          "ua": "скріпка",
+          "ru": "скрепка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Keep the pages together with a paperclip.",
+              "id": "study-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had I used a paperclip, I wouldn't have lost the page.",
+              "id": "study-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-11",
+          "word": "graduation cap",
+          "level": "B2",
+          "icon": "graduation-cap",
+          "ipa": "/ˌɡrædʒuˈeɪʃn kæp/",
+          "ua": "випускна шапочка",
+          "ru": "выпускная шапочка",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The students threw their graduation caps into the air.",
+              "id": "study-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Little did she know she would wear a graduation cap again at forty.",
+              "id": "study-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-12",
+          "word": "newspaper",
+          "level": "A2",
+          "icon": "newspaper",
+          "ipa": "/ˈnjuːzpeɪpə/",
+          "ua": "газета",
+          "ru": "газета",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My dad reads the newspaper every morning.",
+              "id": "study-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Have you read today's newspaper?",
+              "id": "study-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The story was published in a national newspaper.",
+              "id": "study-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-13",
+          "word": "trophy",
+          "level": "B1",
+          "icon": "trophy",
+          "ipa": "/ˈtrəʊfi/",
+          "ua": "кубок, трофей",
+          "ru": "кубок, трофей",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Our team has won the trophy three times.",
+              "id": "study-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not until the final whistle did they realise the trophy was theirs.",
+              "id": "study-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-14",
+          "word": "microscope",
+          "level": "B2",
+          "icon": "microscope",
+          "ipa": "/ˈmaɪkrəskəʊp/",
+          "ua": "мікроскоп",
+          "ru": "микроскоп",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "Bacteria can only be seen under a microscope.",
+              "id": "study-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was under the microscope that the truth was revealed.",
+              "id": "study-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-15",
+          "word": "library",
+          "level": "A2",
+          "icon": "library",
+          "ipa": "/ˈlaɪbrəri/",
+          "ua": "бібліотека",
+          "ru": "библиотека",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I borrowed this book from the library.",
+              "id": "study-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've been studying in the library all day.",
+              "id": "study-15-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was in the library that I met my best friend.",
+              "id": "study-15-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-16",
+          "word": "printer",
+          "level": "A2",
+          "icon": "printer",
+          "ipa": "/ˈprɪntə/",
+          "ua": "принтер",
+          "ru": "принтер",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The printer isn't working.",
+              "id": "study-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Has anyone used the printer today?",
+              "id": "study-16-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The printer is being repaired.",
+              "id": "study-16-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "study-17",
+          "word": "handshake",
+          "level": "B1",
+          "icon": "handshake",
+          "ipa": "/ˈhændʃeɪk/",
+          "ua": "рукостискання",
+          "ru": "рукопожатие",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "He greeted me with a firm handshake.",
+              "id": "study-17-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The deal was closed with a simple handshake.",
+              "id": "study-17-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": {
+        "en": "Technology",
+        "ua": "Техніка",
+        "ru": "Техника"
+      },
+      "icon": "laptop",
+      "words": [
+        {
+          "id": "tech-01",
+          "word": "camera",
+          "level": "A1",
+          "icon": "camera",
+          "ipa": "/ˈkæmrə/",
+          "ua": "фотоапарат, камера",
+          "ru": "фотоаппарат, камера",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This is my camera.",
+              "id": "tech-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I took my camera on holiday.",
+              "id": "tech-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've taken over a thousand photos with this camera.",
+              "id": "tech-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-02",
+          "word": "headphones",
+          "level": "A2",
+          "icon": "headphones",
+          "ipa": "/ˈhedfəʊnz/",
+          "ua": "навушники",
+          "ru": "наушники",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I listen to music with headphones.",
+              "id": "tech-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I can't hear you — I've got my headphones on.",
+              "id": "tech-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Headphones mustn't be used while driving.",
+              "id": "tech-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-03",
+          "word": "TV",
+          "level": "A1",
+          "icon": "tv",
+          "ipa": "/ˌtiː ˈviː/",
+          "ua": "телевізор",
+          "ru": "телевизор",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "We watch TV in the evening.",
+              "id": "tech-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "There was a good film on TV last night.",
+              "id": "tech-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "All I want tonight is to watch TV on the sofa.",
+              "id": "tech-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-04",
+          "word": "keyboard",
+          "level": "B1",
+          "icon": "keyboard",
+          "ipa": "/ˈkiːbɔːd/",
+          "ua": "клавіатура",
+          "ru": "клавиатура",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I spilled coffee on my keyboard.",
+              "id": "tech-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The keyboard needs to be replaced.",
+              "id": "tech-04-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-05",
+          "word": "battery",
+          "level": "A2",
+          "icon": "battery",
+          "ipa": "/ˈbætri/",
+          "ua": "батарея, акумулятор",
+          "ru": "батарея, аккумулятор",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My phone battery is low.",
+              "id": "tech-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The battery has died again.",
+              "id": "tech-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The battery should be charged before the trip.",
+              "id": "tech-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-06",
+          "word": "robot",
+          "level": "A2",
+          "icon": "bot",
+          "ipa": "/ˈrəʊbɒt/",
+          "ua": "робот",
+          "ru": "робот",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The robot can clean the floor.",
+              "id": "tech-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Robots will do many of our jobs in the future.",
+              "id": "tech-06-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It's highly unlikely that robots will replace teachers.",
+              "id": "tech-06-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-07",
+          "word": "satellite",
+          "level": "B2",
+          "icon": "satellite",
+          "ipa": "/ˈsætəlaɪt/",
+          "ua": "супутник",
+          "ru": "спутник",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The satellite was launched last year.",
+              "id": "tech-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The images are thought to have been taken by a satellite.",
+              "id": "tech-07-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-08",
+          "word": "radio",
+          "level": "A2",
+          "icon": "radio",
+          "ipa": "/ˈreɪdiəʊ/",
+          "ua": "радіо",
+          "ru": "радио",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I listen to the radio in the car.",
+              "id": "tech-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I heard the news on the radio this morning.",
+              "id": "tech-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "My grandpa would listen to the radio every evening.",
+              "id": "tech-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-09",
+          "word": "microphone",
+          "level": "B1",
+          "icon": "mic",
+          "ipa": "/ˈmaɪkrəfəʊn/",
+          "ua": "мікрофон",
+          "ru": "микрофон",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Speak into the microphone, please.",
+              "id": "tech-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The singer's microphone stopped working during the concert.",
+              "id": "tech-09-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-10",
+          "word": "plug",
+          "level": "B1",
+          "icon": "plug",
+          "ipa": "/plʌɡ/",
+          "ua": "вилка (електрична)",
+          "ru": "вилка (электрическая)",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I've pulled the plug out of the socket.",
+              "id": "tech-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The heater should be unplugged at night.",
+              "id": "tech-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The bank pulled the plug on the project.",
+              "id": "tech-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-11",
+          "word": "flashlight",
+          "level": "B1",
+          "icon": "flashlight",
+          "ipa": "/ˈflæʃlaɪt/",
+          "ua": "ліхтарик",
+          "ru": "фонарик",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Take a flashlight in case the lights go out.",
+              "id": "tech-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was by flashlight that we found our way home.",
+              "id": "tech-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-12",
+          "word": "screen",
+          "level": "A1",
+          "icon": "monitor",
+          "ipa": "/skriːn/",
+          "ua": "екран, монітор",
+          "ru": "экран, монитор",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The screen is very big.",
+              "id": "tech-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I spent too much time in front of a screen yesterday.",
+              "id": "tech-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Children's screen time should be limited.",
+              "id": "tech-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-13",
+          "word": "game console",
+          "level": "A2",
+          "icon": "gamepad-2",
+          "ipa": "/ˈɡeɪm ˌkɒnsəʊl/",
+          "ua": "ігрова приставка",
+          "ru": "игровая приставка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My son got a game console for his birthday.",
+              "id": "tech-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "He's been playing on his game console all evening.",
+              "id": "tech-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "tech-14",
+          "word": "earbuds",
+          "level": "B1",
+          "icon": "earbuds",
+          "ipa": "/ˈɪəbʌdz/",
+          "ua": "бездротові навушники",
+          "ru": "беспроводные наушники",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I've lost one of my earbuds again!",
+              "id": "tech-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "I'd rather you didn't wear earbuds at dinner.",
+              "id": "tech-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "title": {
+        "en": "In the city",
+        "ua": "У місті",
+        "ru": "В городе"
+      },
+      "icon": "building",
+      "words": [
+        {
+          "id": "city-01",
+          "word": "house",
+          "level": "A1",
+          "icon": "house",
+          "ipa": "/haʊs/",
+          "ua": "будинок",
+          "ru": "дом",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My house is small.",
+              "id": "city-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We moved to a new house last year.",
+              "id": "city-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If I won the lottery, I'd buy a house by the sea.",
+              "id": "city-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-02",
+          "word": "school",
+          "level": "A1",
+          "icon": "school",
+          "ipa": "/skuːl/",
+          "ua": "школа",
+          "ru": "школа",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My son goes to school.",
+              "id": "city-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I walked to school every day.",
+              "id": "city-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "A new school is being built in our area.",
+              "id": "city-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-03",
+          "word": "church",
+          "level": "A2",
+          "icon": "church",
+          "ipa": "/tʃɜːtʃ/",
+          "ua": "церква",
+          "ru": "церковь",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "There is an old church in the centre.",
+              "id": "city-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "They got married in a small church.",
+              "id": "city-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The church is said to be eight hundred years old.",
+              "id": "city-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-04",
+          "word": "shop",
+          "level": "A1",
+          "icon": "store",
+          "ipa": "/ʃɒp/",
+          "ua": "магазин",
+          "ru": "магазин",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The shop is open.",
+              "id": "city-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I bought this dress in a small shop.",
+              "id": "city-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The shop has just closed.",
+              "id": "city-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-05",
+          "word": "castle",
+          "level": "A2",
+          "icon": "castle",
+          "ipa": "/ˈkɑːsl/",
+          "ua": "замок",
+          "ru": "замок",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We visited an old castle in Kamianets.",
+              "id": "city-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Have you ever been inside a real castle?",
+              "id": "city-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The castle was built in the fourteenth century.",
+              "id": "city-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-06",
+          "word": "factory",
+          "level": "B1",
+          "icon": "factory",
+          "ipa": "/ˈfæktri/",
+          "ua": "фабрика, завод",
+          "ru": "фабрика, завод",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My grandpa worked in a factory all his life.",
+              "id": "city-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The factory is going to be closed next year.",
+              "id": "city-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-07",
+          "word": "tent",
+          "level": "A2",
+          "icon": "tent",
+          "ipa": "/tent/",
+          "ua": "намет",
+          "ru": "палатка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We slept in a tent by the lake.",
+              "id": "city-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If it rains, we'll stay in the tent.",
+              "id": "city-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Were I to go camping again, I'd buy a better tent.",
+              "id": "city-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-08",
+          "word": "bank",
+          "level": "A2",
+          "icon": "landmark",
+          "ipa": "/bæŋk/",
+          "ua": "банк",
+          "ru": "банк",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The bank is next to the post office.",
+              "id": "city-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've opened an account at a new bank.",
+              "id": "city-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The bank was robbed last night.",
+              "id": "city-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-09",
+          "word": "hotel",
+          "level": "A1",
+          "icon": "hotel",
+          "ipa": "/həʊˈtel/",
+          "ua": "готель",
+          "ru": "гостиница, отель",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Our hotel is near the beach.",
+              "id": "city-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We stayed in a nice hotel in Rome.",
+              "id": "city-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The hotel is expected to open in May.",
+              "id": "city-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-10",
+          "word": "map",
+          "level": "A1",
+          "icon": "map",
+          "ipa": "/mæp/",
+          "ua": "мапа, карта",
+          "ru": "карта",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Look at the map.",
+              "id": "city-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We got lost because we didn't have a map.",
+              "id": "city-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I'd have got lost without the map on my phone.",
+              "id": "city-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-11",
+          "word": "ferris wheel",
+          "level": "B1",
+          "icon": "ferris-wheel",
+          "ipa": "/ˈferɪs wiːl/",
+          "ua": "оглядове колесо",
+          "ru": "колесо обозрения",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We went on the ferris wheel at the fair.",
+              "id": "city-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never had I seen the city from as high as the ferris wheel.",
+              "id": "city-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-12",
+          "word": "lighthouse",
+          "level": "B1",
+          "icon": "lighthouse",
+          "ipa": "/ˈlaɪthaʊs/",
+          "ua": "маяк",
+          "ru": "маяк",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "There's an old lighthouse at the end of the beach.",
+              "id": "city-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The lighthouse was turned into a museum.",
+              "id": "city-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "city-13",
+          "word": "restaurant",
+          "level": "A1",
+          "icon": "utensils-crossed",
+          "ipa": "/ˈrestrɒnt/",
+          "ua": "ресторан",
+          "ru": "ресторан",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This restaurant is very good.",
+              "id": "city-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We went to an Italian restaurant last night.",
+              "id": "city-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The restaurant is said to be the best in town.",
+              "id": "city-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "title": {
+        "en": "Hobbies and sport",
+        "ua": "Хобі й спорт",
+        "ru": "Хобби и спорт"
+      },
+      "icon": "guitar",
+      "words": [
+        {
+          "id": "hobbies-01",
+          "word": "guitar",
+          "level": "A1",
+          "icon": "guitar",
+          "ipa": "/ɡɪˈtɑː/",
+          "ua": "гітара",
+          "ru": "гитара",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "He plays the guitar.",
+              "id": "hobbies-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I started learning the guitar last year.",
+              "id": "hobbies-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've been playing the guitar for ten years.",
+              "id": "hobbies-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-02",
+          "word": "piano",
+          "level": "A1",
+          "icon": "piano",
+          "ipa": "/piˈænəʊ/",
+          "ua": "піаніно",
+          "ru": "пианино",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "She plays the piano.",
+              "id": "hobbies-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "My parents made me practise the piano.",
+              "id": "hobbies-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "My grandma would play the piano every Sunday.",
+              "id": "hobbies-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-03",
+          "word": "drum",
+          "level": "A2",
+          "icon": "drum",
+          "ipa": "/drʌm/",
+          "ua": "барабан",
+          "ru": "барабан",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My son plays the drums.",
+              "id": "hobbies-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The neighbours complain when he plays the drums.",
+              "id": "hobbies-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The drums can be heard from the street.",
+              "id": "hobbies-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-04",
+          "word": "ball",
+          "level": "A1",
+          "icon": "volleyball",
+          "ipa": "/bɔːl/",
+          "ua": "м'яч",
+          "ru": "мяч",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The ball is under the car.",
+              "id": "hobbies-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The children played with a ball in the yard.",
+              "id": "hobbies-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If you kick the ball too hard, it'll go over the fence.",
+              "id": "hobbies-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-05",
+          "word": "chess",
+          "level": "A2",
+          "icon": "chess-knight",
+          "ipa": "/tʃes/",
+          "ua": "шахи",
+          "ru": "шахматы",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My grandpa taught me to play chess.",
+              "id": "hobbies-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Have you ever played chess online?",
+              "id": "hobbies-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not only does she play chess, but she also teaches it.",
+              "id": "hobbies-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-06",
+          "word": "puzzle",
+          "level": "A2",
+          "icon": "puzzle",
+          "ipa": "/ˈpʌzl/",
+          "ua": "пазл",
+          "ru": "пазл",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We did a thousand-piece puzzle.",
+              "id": "hobbies-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've been working on this puzzle all week.",
+              "id": "hobbies-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-07",
+          "word": "dice",
+          "level": "B1",
+          "icon": "dices",
+          "ipa": "/daɪs/",
+          "ua": "гральні кубики",
+          "ru": "игральные кости",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Roll the dice and move your piece.",
+              "id": "hobbies-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The dice were rolled, and the game began.",
+              "id": "hobbies-07-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-08",
+          "word": "paint",
+          "level": "A2",
+          "icon": "palette",
+          "ipa": "/peɪnt/",
+          "ua": "фарба; малювати фарбами",
+          "ru": "краска; рисовать красками",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I love to paint landscapes.",
+              "id": "hobbies-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "She has painted twenty pictures this year.",
+              "id": "hobbies-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The walls are being painted this week.",
+              "id": "hobbies-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-09",
+          "word": "fishing rod",
+          "level": "B1",
+          "icon": "fishing-rod",
+          "ipa": "/ˈfɪʃɪŋ rɒd/",
+          "ua": "вудка",
+          "ru": "удочка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My dad gave me his old fishing rod.",
+              "id": "hobbies-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Much as I love nature, I've never held a fishing rod.",
+              "id": "hobbies-09-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-10",
+          "word": "goal",
+          "level": "A2",
+          "icon": "goal",
+          "ipa": "/ɡəʊl/",
+          "ua": "гол; ворота",
+          "ru": "гол; ворота",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "He scored a goal in the last minute.",
+              "id": "hobbies-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Our team has scored three goals today.",
+              "id": "hobbies-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was the last-minute goal that won us the match.",
+              "id": "hobbies-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-11",
+          "word": "toy",
+          "level": "A1",
+          "icon": "toy-brick",
+          "ipa": "/tɔɪ/",
+          "ua": "іграшка",
+          "ru": "игрушка",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "This is my son's toy.",
+              "id": "hobbies-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The children played with their toys all day.",
+              "id": "hobbies-11-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "We've given all the old toys to a kindergarten.",
+              "id": "hobbies-11-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "hobbies-12",
+          "word": "campsite",
+          "level": "B1",
+          "icon": "tent-tree",
+          "ipa": "/ˈkæmpsaɪt/",
+          "ua": "кемпінг",
+          "ru": "кемпинг",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We found a lovely campsite by the river.",
+              "id": "hobbies-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had we booked the campsite earlier, we'd have got a better place.",
+              "id": "hobbies-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "title": {
+        "en": "Money and shopping",
+        "ua": "Гроші й покупки",
+        "ru": "Деньги и покупки"
+      },
+      "icon": "wallet",
+      "words": [
+        {
+          "id": "money-01",
+          "word": "money",
+          "level": "A1",
+          "icon": "banknote",
+          "ipa": "/ˈmʌni/",
+          "ua": "гроші",
+          "ru": "деньги",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I don't have much money.",
+              "id": "money-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I saved money for a new bike.",
+              "id": "money-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If I had more money, I'd travel more.",
+              "id": "money-01-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Money doesn't buy happiness, or so they say.",
+              "id": "money-01-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-02",
+          "word": "wallet",
+          "level": "A2",
+          "icon": "wallet",
+          "ipa": "/ˈwɒlɪt/",
+          "ua": "гаманець",
+          "ru": "кошелёк",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I left my wallet at home.",
+              "id": "money-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Someone has stolen my wallet!",
+              "id": "money-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The wallet was found and handed in to the police.",
+              "id": "money-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-03",
+          "word": "card",
+          "level": "A1",
+          "icon": "credit-card",
+          "ipa": "/kɑːd/",
+          "ua": "картка (банківська)",
+          "ru": "карта (банковская)",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "Can I pay by card?",
+              "id": "money-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I lost my card yesterday.",
+              "id": "money-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Your new card will be sent by post.",
+              "id": "money-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-04",
+          "word": "coins",
+          "level": "A2",
+          "icon": "coins",
+          "ipa": "/kɔɪnz/",
+          "ua": "монети",
+          "ru": "монеты",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I have some coins in my pocket.",
+              "id": "money-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "My son has been collecting coins since he was five.",
+              "id": "money-04-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-05",
+          "word": "piggy bank",
+          "level": "B1",
+          "icon": "piggy-bank",
+          "ipa": "/ˈpɪɡi bæŋk/",
+          "ua": "скарбничка",
+          "ru": "копилка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My daughter keeps her coins in a piggy bank.",
+              "id": "money-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "All I had saved was in that little piggy bank.",
+              "id": "money-05-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-06",
+          "word": "trolley",
+          "level": "B1",
+          "icon": "shopping-cart",
+          "ipa": "/ˈtrɒli/",
+          "ua": "візок (у магазині)",
+          "ru": "тележка (в магазине)",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Get a trolley — we've got a lot to buy.",
+              "id": "money-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The trolleys must be returned to the entrance.",
+              "id": "money-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-07",
+          "word": "receipt",
+          "level": "B1",
+          "icon": "receipt",
+          "ipa": "/rɪˈsiːt/",
+          "ua": "чек",
+          "ru": "чек",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Keep the receipt in case you want to return it.",
+              "id": "money-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Without a receipt, the item can't be refunded.",
+              "id": "money-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had I kept the receipt, I would have got my money back.",
+              "id": "money-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-08",
+          "word": "price tag",
+          "level": "B1",
+          "icon": "tag",
+          "ipa": "/ˈpraɪs tæɡ/",
+          "ua": "цінник",
+          "ru": "ценник",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Take the price tag off before you give the present.",
+              "id": "money-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was the price tag that made me change my mind.",
+              "id": "money-08-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-09",
+          "word": "parcel",
+          "level": "A2",
+          "icon": "package",
+          "ipa": "/ˈpɑːsl/",
+          "ua": "посилка",
+          "ru": "посылка",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "A parcel came for you today.",
+              "id": "money-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "My parcel hasn't arrived yet.",
+              "id": "money-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The parcel is expected to be delivered tomorrow.",
+              "id": "money-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-10",
+          "word": "basket",
+          "level": "A2",
+          "icon": "shopping-basket",
+          "ipa": "/ˈbɑːskɪt/",
+          "ua": "кошик",
+          "ru": "корзина",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Put the apples in the basket.",
+              "id": "money-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've forgotten my basket at the shop.",
+              "id": "money-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-11",
+          "word": "scales",
+          "level": "B2",
+          "icon": "scale",
+          "ipa": "/skeɪlz/",
+          "ua": "терези, ваги",
+          "ru": "весы",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The fruit is weighed on the scales.",
+              "id": "money-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It's essential that the scales be checked every year.",
+              "id": "money-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-12",
+          "word": "shopping bag",
+          "level": "A1",
+          "icon": "shopping-bag",
+          "ipa": "/ˈʃɒpɪŋ bæɡ/",
+          "ua": "пакет для покупок",
+          "ru": "пакет для покупок",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have a shopping bag.",
+              "id": "money-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I always take a shopping bag to the supermarket.",
+              "id": "money-12-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "Plastic shopping bags are no longer given out for free.",
+              "id": "money-12-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "money-13",
+          "word": "tip",
+          "level": "B1",
+          "icon": "hand-coins",
+          "ipa": "/tɪp/",
+          "ua": "чайові",
+          "ru": "чаевые",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We left a tip for the waiter.",
+              "id": "money-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "In some countries, the tip is included in the bill.",
+              "id": "money-13-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Much as I liked the food, I didn't leave a tip.",
+              "id": "money-13-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "title": {
+        "en": "Science and tools",
+        "ua": "Наука й інструменти",
+        "ru": "Наука и инструменты"
+      },
+      "icon": "flask-conical",
+      "words": [
+        {
+          "id": "science-01",
+          "word": "hammer",
+          "level": "A2",
+          "icon": "hammer",
+          "ipa": "/ˈhæmə/",
+          "ua": "молоток",
+          "ru": "молоток",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "Can you pass me the hammer?",
+              "id": "science-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've hit my finger with the hammer!",
+              "id": "science-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The hammer will keep disappearing from my toolbox!",
+              "id": "science-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-02",
+          "word": "telescope",
+          "level": "B1",
+          "icon": "telescope",
+          "ipa": "/ˈtelɪskəʊp/",
+          "ua": "телескоп",
+          "ru": "телескоп",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We looked at the stars through a telescope.",
+              "id": "science-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The telescope was built to study distant galaxies.",
+              "id": "science-02-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-03",
+          "word": "compass",
+          "level": "B1",
+          "icon": "compass",
+          "ipa": "/ˈkʌmpəs/",
+          "ua": "компас",
+          "ru": "компас",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We used a compass to find the way.",
+              "id": "science-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Without a compass, we would have got hopelessly lost.",
+              "id": "science-03-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-04",
+          "word": "anchor",
+          "level": "B2",
+          "icon": "anchor",
+          "ipa": "/ˈæŋkə/",
+          "ua": "якір",
+          "ru": "якорь",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The ship dropped its anchor near the island.",
+              "id": "science-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not until the storm passed did they raise the anchor.",
+              "id": "science-04-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-05",
+          "word": "hourglass",
+          "level": "B2",
+          "icon": "hourglass",
+          "ipa": "/ˈaʊəɡlɑːs/",
+          "ua": "пісочний годинник",
+          "ru": "песочные часы",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The hourglass shows that time is running out.",
+              "id": "science-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Time is running out, as the hourglass reminds us.",
+              "id": "science-05-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-06",
+          "word": "magnet",
+          "level": "B1",
+          "icon": "magnet",
+          "ipa": "/ˈmæɡnət/",
+          "ua": "магніт",
+          "ru": "магнит",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I put a magnet from Lisbon on the fridge.",
+              "id": "science-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "She seems to be a magnet for trouble.",
+              "id": "science-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-07",
+          "word": "binoculars",
+          "level": "B2",
+          "icon": "binoculars",
+          "ipa": "/bɪˈnɒkjələz/",
+          "ua": "бінокль",
+          "ru": "бинокль",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "Birds can be watched through binoculars.",
+              "id": "science-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Were it not for the binoculars, we'd never have seen the eagle.",
+              "id": "science-07-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-08",
+          "word": "DNA",
+          "level": "C1",
+          "icon": "dna",
+          "ipa": "/ˌdiː en ˈeɪ/",
+          "ua": "ДНК",
+          "ru": "ДНК",
+          "sentences": [
+            {
+              "level": "C1",
+              "text": "The suspect is believed to have been identified by his DNA.",
+              "id": "science-08-s1",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-09",
+          "word": "atom",
+          "level": "C1",
+          "icon": "atom",
+          "ipa": "/ˈætəm/",
+          "ua": "атом",
+          "ru": "атом",
+          "sentences": [
+            {
+              "level": "C1",
+              "text": "It was only in the twentieth century that the atom was split.",
+              "id": "science-09-s1",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-10",
+          "word": "flask",
+          "level": "C1",
+          "icon": "flask-conical",
+          "ipa": "/flɑːsk/",
+          "ua": "колба",
+          "ru": "колба",
+          "sentences": [
+            {
+              "level": "C1",
+              "text": "The liquid in the flask is thought to be highly dangerous.",
+              "id": "science-10-s1",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-11",
+          "word": "shield",
+          "level": "B2",
+          "icon": "shield",
+          "ipa": "/ʃiːld/",
+          "ua": "щит",
+          "ru": "щит",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The knight was protected by a heavy shield.",
+              "id": "science-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not only did the shield protect him, but it also saved his life.",
+              "id": "science-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-12",
+          "word": "axe",
+          "level": "B1",
+          "icon": "axe",
+          "ipa": "/æks/",
+          "ua": "сокира",
+          "ru": "топор",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My grandpa chops wood with an axe.",
+              "id": "science-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never use an axe without gloves.",
+              "id": "science-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-13",
+          "word": "drill",
+          "level": "B1",
+          "icon": "drill",
+          "ipa": "/drɪl/",
+          "ua": "дриль",
+          "ru": "дрель",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Our neighbours have been using a drill all morning.",
+              "id": "science-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The hole was made with an electric drill.",
+              "id": "science-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-14",
+          "word": "shovel",
+          "level": "B1",
+          "icon": "shovel",
+          "ipa": "/ˈʃʌvl/",
+          "ua": "лопата",
+          "ru": "лопата",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We need a shovel to clear the snow.",
+              "id": "science-14-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The snow had to be cleared with a shovel.",
+              "id": "science-14-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-15",
+          "word": "sword",
+          "level": "B2",
+          "icon": "sword",
+          "ipa": "/sɔːd/",
+          "ua": "меч",
+          "ru": "меч",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The sword is believed to have belonged to a Cossack leader.",
+              "id": "science-15-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was with this sword that the battle was won.",
+              "id": "science-15-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "science-16",
+          "word": "skull",
+          "level": "B2",
+          "icon": "skull",
+          "ipa": "/skʌl/",
+          "ua": "череп",
+          "ru": "череп",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The skull was found by scientists in a cave.",
+              "id": "science-16-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The skull is thought to be over ten thousand years old.",
+              "id": "science-16-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "party",
+      "title": {
+        "en": "Holidays and fun",
+        "ua": "Свята й дозвілля",
+        "ru": "Праздники и досуг"
+      },
+      "icon": "party-popper",
+      "words": [
+        {
+          "id": "party-01",
+          "word": "party",
+          "level": "A1",
+          "icon": "party-popper",
+          "ipa": "/ˈpɑːti/",
+          "ua": "вечірка, свято",
+          "ru": "вечеринка, праздник",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "We have a party on Saturday.",
+              "id": "party-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Everyone danced at the party.",
+              "id": "party-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If you come to the party, bring some music.",
+              "id": "party-01-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had I known about the party, I would have come.",
+              "id": "party-01-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-02",
+          "word": "balloon",
+          "level": "A1",
+          "icon": "balloon",
+          "ipa": "/bəˈluːn/",
+          "ua": "повітряна кулька",
+          "ru": "воздушный шарик",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "The balloon is red.",
+              "id": "party-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We bought balloons for her birthday.",
+              "id": "party-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "The balloon has flown away!",
+              "id": "party-02-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-03",
+          "word": "cupcake",
+          "level": "A2",
+          "icon": "cupcake",
+          "ipa": "/ˈkʌpkeɪk/",
+          "ua": "капкейк",
+          "ru": "капкейк",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "I made cupcakes for the party.",
+              "id": "party-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Have you tried the chocolate cupcakes?",
+              "id": "party-03-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-04",
+          "word": "film",
+          "level": "A1",
+          "icon": "clapperboard",
+          "ipa": "/fɪlm/",
+          "ua": "фільм",
+          "ru": "фильм",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I like this film.",
+              "id": "party-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "We watched a funny film last night.",
+              "id": "party-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "It's the best film I've ever seen.",
+              "id": "party-04-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Rarely have I seen a film so moving.",
+              "id": "party-04-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-05",
+          "word": "ticket",
+          "level": "A1",
+          "icon": "ticket",
+          "ipa": "/ˈtɪkɪt/",
+          "ua": "квиток",
+          "ru": "билет",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "I have two tickets.",
+              "id": "party-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I bought tickets for the concert.",
+              "id": "party-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The tickets were sold out in five minutes.",
+              "id": "party-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-06",
+          "word": "flag",
+          "level": "A2",
+          "icon": "flag",
+          "ipa": "/flæɡ/",
+          "ua": "прапор",
+          "ru": "флаг",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The Ukrainian flag is blue and yellow.",
+              "id": "party-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "People were waving flags in the street.",
+              "id": "party-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-07",
+          "word": "ghost",
+          "level": "A2",
+          "icon": "ghost",
+          "ipa": "/ɡəʊst/",
+          "ua": "привид",
+          "ru": "привидение",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My son dressed up as a ghost for Halloween.",
+              "id": "party-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The castle is said to have a ghost.",
+              "id": "party-07-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "You look as if you'd seen a ghost!",
+              "id": "party-07-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-08",
+          "word": "theatre",
+          "level": "A2",
+          "icon": "drama",
+          "ipa": "/ˈθɪətə/",
+          "ua": "театр",
+          "ru": "театр",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "We went to the theatre on Friday.",
+              "id": "party-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've never been to the opera theatre in Lviv.",
+              "id": "party-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was at the theatre that they first met.",
+              "id": "party-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-09",
+          "word": "candy cane",
+          "level": "B1",
+          "icon": "candy-cane",
+          "ipa": "/ˈkændi keɪn/",
+          "ua": "льодяникова паличка",
+          "ru": "леденцовая трость",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "We hung candy canes on the Christmas tree.",
+              "id": "party-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "What the children love most about Christmas is the candy canes.",
+              "id": "party-09-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-10",
+          "word": "medal",
+          "level": "B1",
+          "icon": "medal",
+          "ipa": "/ˈmedl/",
+          "ua": "медаль",
+          "ru": "медаль",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "She won a gold medal at the Olympics.",
+              "id": "party-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The medals will be given out after the race.",
+              "id": "party-10-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-11",
+          "word": "ribbon",
+          "level": "B1",
+          "icon": "ribbon",
+          "ipa": "/ˈrɪbən/",
+          "ua": "стрічка",
+          "ru": "лента",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "Tie a ribbon around the present.",
+              "id": "party-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The gift was wrapped in paper and tied with a ribbon.",
+              "id": "party-11-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-12",
+          "word": "magic wand",
+          "level": "B1",
+          "icon": "wand",
+          "ipa": "/ˌmædʒɪk ˈwɒnd/",
+          "ua": "чарівна паличка",
+          "ru": "волшебная палочка",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "If I had a magic wand, I'd stop all wars.",
+              "id": "party-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "I wish I had a magic wand to fix everything.",
+              "id": "party-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "party-13",
+          "word": "award",
+          "level": "B2",
+          "icon": "award",
+          "ipa": "/əˈwɔːd/",
+          "ua": "нагорода",
+          "ru": "награда",
+          "sentences": [
+            {
+              "level": "B2",
+              "text": "The film was given an award in Cannes.",
+              "id": "party-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Never before had a Ukrainian film won such an award.",
+              "id": "party-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "title": {
+        "en": "Jobs",
+        "ua": "Професії",
+        "ru": "Профессии"
+      },
+      "icon": "users",
+      "words": [
+        {
+          "id": "jobs-01",
+          "word": "chef",
+          "level": "A1",
+          "icon": "chef-hat",
+          "ipa": "/ʃef/",
+          "ua": "кухар, шеф-кухар",
+          "ru": "повар, шеф-повар",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My brother is a chef.",
+              "id": "jobs-01-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The chef cooked a special dinner for us.",
+              "id": "jobs-01-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The dish was created by a famous chef.",
+              "id": "jobs-01-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-02",
+          "word": "doctor",
+          "level": "A1",
+          "icon": "briefcase-medical",
+          "ipa": "/ˈdɒktə/",
+          "ua": "лікар",
+          "ru": "врач",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My mum is a doctor.",
+              "id": "jobs-02-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "I went to the doctor yesterday.",
+              "id": "jobs-02-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "If you feel worse, see a doctor.",
+              "id": "jobs-02-s3",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "The doctor recommended that he rest for a week.",
+              "id": "jobs-02-s4",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-03",
+          "word": "singer",
+          "level": "A1",
+          "icon": "mic-vocal",
+          "ipa": "/ˈsɪŋə/",
+          "ua": "співак, співачка",
+          "ru": "певец, певица",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "She is a singer.",
+              "id": "jobs-03-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "The singer sang my favourite song.",
+              "id": "jobs-03-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The singer is said to be working on a new album.",
+              "id": "jobs-03-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-04",
+          "word": "teacher",
+          "level": "A1",
+          "icon": "presentation",
+          "ipa": "/ˈtiːtʃə/",
+          "ua": "вчитель",
+          "ru": "учитель",
+          "sentences": [
+            {
+              "level": "A1",
+              "text": "My teacher is very kind.",
+              "id": "jobs-04-s1",
+              "audio": ""
+            },
+            {
+              "level": "A2",
+              "text": "Our teacher gave us a lot of homework.",
+              "id": "jobs-04-s2",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "She's been a teacher for twenty years.",
+              "id": "jobs-04-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-05",
+          "word": "builder",
+          "level": "A2",
+          "icon": "hard-hat",
+          "ipa": "/ˈbɪldə/",
+          "ua": "будівельник",
+          "ru": "строитель",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The builders are working on our roof.",
+              "id": "jobs-05-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "My uncle has worked as a builder all his life.",
+              "id": "jobs-05-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The house was built by local builders.",
+              "id": "jobs-05-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-06",
+          "word": "police officer",
+          "level": "A2",
+          "icon": "siren",
+          "ipa": "/pəˈliːs ˌɒfɪsə/",
+          "ua": "поліцейський",
+          "ru": "полицейский",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "A police officer helped me find the way.",
+              "id": "jobs-06-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The police officer is believed to have saved three lives.",
+              "id": "jobs-06-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-07",
+          "word": "painter",
+          "level": "A2",
+          "icon": "paint-roller",
+          "ipa": "/ˈpeɪntə/",
+          "ua": "маляр",
+          "ru": "маляр",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The painter is painting our kitchen.",
+              "id": "jobs-07-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "We've hired a painter for the whole flat.",
+              "id": "jobs-07-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-08",
+          "word": "programmer",
+          "level": "A2",
+          "icon": "code-xml",
+          "ipa": "/ˈprəʊɡræmə/",
+          "ua": "програміст",
+          "ru": "программист",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "My husband is a programmer.",
+              "id": "jobs-08-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "Programmers are needed in every company now.",
+              "id": "jobs-08-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Not only is she a programmer, but she also teaches coding.",
+              "id": "jobs-08-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-09",
+          "word": "mechanic",
+          "level": "A2",
+          "icon": "wrench",
+          "ipa": "/məˈkænɪk/",
+          "ua": "механік",
+          "ru": "механик",
+          "sentences": [
+            {
+              "level": "A2",
+              "text": "The mechanic fixed my car.",
+              "id": "jobs-09-s1",
+              "audio": ""
+            },
+            {
+              "level": "B1",
+              "text": "I've taken the car to the mechanic.",
+              "id": "jobs-09-s2",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The car is being checked by a mechanic.",
+              "id": "jobs-09-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-10",
+          "word": "designer",
+          "level": "B1",
+          "icon": "pen-tool",
+          "ipa": "/dɪˈzaɪnə/",
+          "ua": "дизайнер",
+          "ru": "дизайнер",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "I've worked as a designer for five years.",
+              "id": "jobs-10-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The logo was created by a young designer.",
+              "id": "jobs-10-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "It was a designer from Kyiv who made the website.",
+              "id": "jobs-10-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-11",
+          "word": "judge",
+          "level": "B1",
+          "icon": "gavel",
+          "ipa": "/dʒʌdʒ/",
+          "ua": "суддя",
+          "ru": "судья",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The judge listened to both sides.",
+              "id": "jobs-11-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The case will be decided by a judge.",
+              "id": "jobs-11-s2",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Hardly had the judge finished speaking when the room went silent.",
+              "id": "jobs-11-s3",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-12",
+          "word": "engineer",
+          "level": "B1",
+          "icon": "cog",
+          "ipa": "/ˌendʒɪˈnɪə/",
+          "ua": "інженер",
+          "ru": "инженер",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "My dad is an engineer at a factory.",
+              "id": "jobs-12-s1",
+              "audio": ""
+            },
+            {
+              "level": "B2",
+              "text": "The bridge was designed by a team of engineers.",
+              "id": "jobs-12-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        },
+        {
+          "id": "jobs-13",
+          "word": "lifeguard",
+          "level": "B1",
+          "icon": "life-buoy",
+          "ipa": "/ˈlaɪfɡɑːd/",
+          "ua": "рятувальник (на пляжі)",
+          "ru": "спасатель (на пляже)",
+          "sentences": [
+            {
+              "level": "B1",
+              "text": "The lifeguard is watching the swimmers.",
+              "id": "jobs-13-s1",
+              "audio": ""
+            },
+            {
+              "level": "C1",
+              "text": "Had it not been for the lifeguard, the boy would have drowned.",
+              "id": "jobs-13-s2",
+              "audio": ""
+            }
+          ],
+          "audio": ""
+        }
+      ]
+    }
+  ]
+}

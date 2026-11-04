@@ -24,25 +24,25 @@ export function canSpeak() {
   return typeof window !== 'undefined' && 'speechSynthesis' in window;
 }
 
-export function speak(text, { audio, slow = false, enabled = true } = {}) {
+export function speak(text, { audio, slow = false, rate, enabled = true } = {}) {
   if (!enabled || !text) return;
   stop();
   if (audio) {
     const a = new Audio(audio);
-    a.playbackRate = slow ? 0.75 : 1;
+    a.playbackRate = rate || (slow ? 0.75 : 1);
     current = a;
-    a.play().catch(() => speakSynth(text, slow));
+    a.play().catch(() => speakSynth(text, slow, rate));
     return;
   }
-  speakSynth(text, slow);
+  speakSynth(text, slow, rate);
 }
 
-function speakSynth(text, slow) {
+function speakSynth(text, slow, rate) {
   if (!canSpeak()) return;
   const u = new SpeechSynthesisUtterance(text);
   u.lang = voice?.lang || 'en-GB';
   if (voice) u.voice = voice;
-  u.rate = slow ? 0.6 : 0.9;
+  u.rate = rate ? 0.9 * rate : slow ? 0.6 : 0.9;
   speechSynthesis.speak(u);
 }
 

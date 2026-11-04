@@ -1,6 +1,6 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useStore } from '../lib/store.jsx';
-import { transcription, ipaSounds } from '../lib/content.js';
+import { transcription, ipaSounds, CHECK_YOURSELF, cyPeriod, cyMsToNext } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { speak } from '../lib/tts.js';
 import { haptic } from '../lib/telegram.js';
@@ -43,6 +43,7 @@ export default function Courses({ nav, t, lang }) {
           </button>
         </div>
       </div>
+      {CHECK_YOURSELF && <CheckTile state={state} nav={nav} t={t} />}
       <button className="card row" style={{ textAlign: 'left' }} onClick={() => nav.push({ name: 'sounds' })}>
         <span className="ico" style={{ width: 44, height: 44, borderRadius: 14, background: 'var(--primary-soft)', display: 'grid', placeItems: 'center', fontSize: 20, fontWeight: 800, color: 'var(--primary-2)' }}>ʃ</span>
         <span className="col grow" style={{ gap: 0 }}><b>{t('soundTable')}</b><span className="small">{t('soundTableSub')}</span></span>
@@ -87,5 +88,30 @@ export function SoundTable({ nav, t, lang }) {
         </section>
       ))}
     </div>
+  );
+}
+
+function CheckTile({ state, nav, t }) {
+  const [now, setNow] = useState(() => new Date());
+  useEffect(() => { const id = setInterval(() => setNow(new Date()), 60000); return () => clearInterval(id); }, []);
+  const done = state.cy?.done?.[cyPeriod(now)];
+  let status = t('cyNew');
+  if (done) {
+    const ms = cyMsToNext(now);
+    const d = Math.floor(ms / 86400000);
+    const h = Math.floor((ms % 86400000) / 3600000);
+    const m = Math.floor((ms % 3600000) / 60000);
+    status = d > 0 ? t('cyNext', { d, h }) : t('cyNextH', { h, m });
+  }
+  return (
+    <button className="card row" style={{ textAlign: 'left' }} onClick={() => nav.push({ name: 'check' })}>
+      <Tile icon="sound" size={44} />
+      <span className="col grow" style={{ gap: 0 }}>
+        <b>{t('cyTitle')}</b>
+        <span className="small">{t('cySub')}</span>
+        <span className="tiny" style={{ color: done ? 'var(--text-2)' : 'var(--primary-2)', fontWeight: 800, marginTop: 2 }}>{done ? `${done.clean}/${done.total} · ${status}` : status}</span>
+      </span>
+      <Icon name="chevron" />
+    </button>
   );
 }

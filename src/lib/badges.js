@@ -7,6 +7,7 @@ export const BADGES = [
   { id: 'unit-master', icon: 'trophy', title: { ua: 'Unit Master', ru: 'Unit Master' }, desc: { ua: 'Здано перший чекпоінт', ru: 'Сдан первый чекпоинт' }, test: (s) => Object.keys(s.unitsPassed).some((id) => !id.startsWith('x-')) },
   { id: 'words-16', icon: 'books', title: { ua: 'Словниковий запас', ru: 'Словарный запас' }, desc: { ua: 'Вивчено 16 слів', ru: 'Выучено 16 слов' }, test: (s) => Object.values(s.vocab).filter((c) => c.learned).length >= 16 },
   { id: 'ipa-reader', icon: 'medal', title: { ua: 'Читаю транскрипцію', ru: 'Читаю транскрипцию' }, desc: { ua: 'Мінікурс транскрипції', ru: 'Мини-курс транскрипции' }, test: (s) => Boolean(s.unitsPassed['x-ipa']) },
+  { id: 'ear-writer', icon: 'sound', title: { ua: 'Пишу на слух', ru: 'Пишу на слух' }, desc: { ua: '10 наборів «Перевір себе» на 8/10+', ru: '10 наборов «Проверь себя» на 8/10+' }, test: (s) => (s.cy?.goodPacks || 0) >= 10 },
   { id: 'xp-500', icon: 'bolt', title: { ua: '500 XP', ru: '500 XP' }, desc: { ua: 'Набрано 500 XP', ru: 'Набрано 500 XP' }, test: (s) => s.xp >= 500 },
   { id: 'level-a1', icon: 'crown', title: { ua: 'Рівень A1', ru: 'Уровень A1' }, desc: { ua: 'Пройдено рівень A1', ru: 'Пройден уровень A1' }, test: (s) => Boolean(s.levelsPassed.A1) },
   { id: 'comeback', icon: 'gift', hidden: true, title: { ua: 'Повернення', ru: 'Возвращение' }, desc: { ua: 'Виправлено 10 помилок', ru: 'Исправлено 10 ошибок' }, test: (s) => (s.fixedMistakes || 0) >= 10 },

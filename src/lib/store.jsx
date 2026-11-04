@@ -31,6 +31,8 @@ export function freshState() {
     daily: { date: today(), lessons: 0, words: 0, correct: 0, xp: 0 },
     settings: { sound: true, theme: 'light' },
     lastVisit: null,
+    uid: null, // local id for the «Перевір себе» seed outside Telegram
+    cy: { history: { lastThemeId: null, recentWordIds: [], missedWordIds: [] }, pack: null, done: {}, goodPacks: 0 },
   };
 }
 

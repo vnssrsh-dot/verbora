@@ -113,3 +113,13 @@ export function allVocab() {
   for (const lvl of LEVELS) for (const u of levelPath(lvl)) for (const w of u.data.vocab) out.push({ ...w, unitId: u.id, level: lvl });
   return out;
 }
+
+// «Перевір себе»: pack period info for the menu tile (the pool itself loads with the screen).
+export const CHECK_YOURSELF = index.checkYourself;
+export function cyPeriod(now = new Date()) {
+  return CHECK_YOURSELF ? Math.floor(now.getTime() / 86400000 / CHECK_YOURSELF.refreshDays) : 0;
+}
+export function cyMsToNext(now = new Date()) {
+  const ms = CHECK_YOURSELF.refreshDays * 86400000;
+  return (cyPeriod(now) + 1) * ms - now.getTime();
+}

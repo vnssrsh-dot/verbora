@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import { useStore } from './lib/store.jsx';
 import { makeT } from './lib/i18n.js';
 import { loadUnit, findLessonMeta, levelPath, loadExercises, loadFinalTest } from './lib/content.js';
@@ -12,6 +12,8 @@ import Words, { Cards } from './screens/Words.jsx';
 import GrammarMap from './screens/GrammarMap.jsx';
 import Courses, { SoundTable } from './screens/Courses.jsx';
 import Profile, { Settings, Privacy } from './screens/Profile.jsx';
+
+const CheckYourself = lazy(() => import('./checkyourself/CheckYourself.jsx'));
 
 const TABS = [
   { id: 'home', icon: 'home', label: 'tabHome' },
@@ -69,6 +71,11 @@ export default function App() {
     case 'profile': body = <Profile {...props} />; break;
     case 'settings': body = <Settings {...props} />; break;
     case 'privacy': body = <Privacy {...props} />; break;
+    case 'check': body = (
+      <Suspense fallback={<div className="screen center"><Mascot emotion="searching" size={150} /><div className="small">{t('loading')}</div></div>}>
+        <CheckYourself {...props} />
+      </Suspense>
+    ); break;
     case 'lesson': body = <LessonRoute key={current.key} route={current} state={state} {...props} />; break;
     default: body = <Home {...props} />;
   }
