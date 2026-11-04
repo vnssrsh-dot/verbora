@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { useStore, recordAnswer, addXp, bumpStreak, awardBadges, streakAlive, today } from '../lib/store.jsx';
+import { useStore, recordAnswer, addXp, bumpStreak, awardBadges, streakAlive, today, claimMissions } from '../lib/store.jsx';
 import { loc } from '../lib/loc.js';
 import { haptic } from '../lib/telegram.js';
 import { speak, stop } from '../lib/tts.js';
@@ -117,6 +117,7 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
         const prev = s.lessonsDone[lesson.id];
         s.lessonsDone[lesson.id] = { acc: Math.max(acc, prev?.acc || 0), at: Date.now() };
         s.daily.lessons++;
+        claimMissions(s);
       }
       if (mode === 'checkpoint' && passed) {
         s.unitsPassed[unit.id] = { score: acc, at: Date.now() };
@@ -150,12 +151,14 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
   return (
     <div className="screen" style={{ paddingBottom: 0, gap: 12 }}>
       <div className="row" style={{ gap: 10 }}>
-        <button className="icon-btn" onClick={() => setAskExit(true)} aria-label={t('close')}><Icon name="close" /></button>
-        <Bar value={progress} style={{ flex: 1, height: 10 }} />
+        <button className="icon-btn" onClick={() => setAskExit(true)} aria-label={t('back')}><Icon name="back" /></button>
+        {mainTotal <= 14
+          ? <div className="steps" style={{ flex: 1 }}>{Array.from({ length: mainTotal }, (_, k) => <i key={k} className={k < mainDone ? 'on' : ''} />)}</div>
+          : <Bar value={progress} style={{ flex: 1, height: 6 }} />}
         <span className="tiny" style={{ minWidth: 34, textAlign: 'right' }}>{mainDone}/{mainTotal}</span>
       </div>
       <div className="row between" style={{ minHeight: 24 }}>
-        <span className="small" style={{ fontWeight: 700 }}>{title}</span>
+        <span className="h2" style={{ fontSize: 19 }}>{title}</span>
         {phaseLabel && <span className="pill">{phaseLabel}</span>}
         {!phaseLabel && run >= 3 && <span className="pill" style={{ background: 'var(--warn-soft)', color: 'var(--warn)' }}><span className="ic"><Icon name="flame" size={15} /></span>{run}</span>}
       </div>
@@ -274,7 +277,7 @@ export function RuleCard({ rule, compare, t, lang, sound }) {
       {rule.explain && <p style={{ fontSize: 16, lineHeight: 1.55 }}>{loc(rule.explain, lang)}</p>}
       {rule.examples?.length > 0 && (
         <div className="col" style={{ gap: 8 }}>
-          <div className="small" style={{ fontWeight: 800 }}>{t('examples')}</div>
+          <div className="small" style={{ fontWeight: 700 }}>{t('examples')}</div>
           {rule.examples.map((e, i) => (
             <div key={i} className="card row" style={{ padding: '12px 14px' }}>
               <div className="col grow" style={{ gap: 2 }}>
@@ -363,15 +366,18 @@ function Result({ finished, mode, nav, t, lang, steps, results, unit, level, tit
     <div className="screen" style={{ gap: 16 }}>
       {passed && great && <Confetti />}
       <div className="col" style={{ alignItems: 'center', textAlign: 'center', gap: 10, paddingTop: 12 }}>
-        <Mascot emotion={emotion} size={180} anim="bounce" sparkles={passed} />
-        <div className="h1">{head}</div>
+        <div className="result-badge">
+          <span className={`result-circle ${passed ? 'ok' : 'try'}`}><Icon name={passed ? 'check' : 'refresh'} size={54} stroke={2.6} /></span>
+          <span className="result-verbi"><Mascot emotion={emotion} size={96} anim="bounce" /></span>
+        </div>
+        <div className="h1">{head}{passed && great ? ' 🎉' : ''}</div>
         <p className="sub">{t('resultDone', { ok: okCount, total })}</p>
         {!passed && <p className="small">{t('cpNeed', { need: Math.round((finished.pass || PASS) * 100) })}</p>}
       </div>
       <div className="row" style={{ gap: 10 }}>
-        <div className="card stat"><Tile icon="star" size={36} /><b>+{xp}</b><span>XP</span></div>
-        {streakUp && <div className="card stat"><Tile icon="flame" size={36} tone="warn" /><b>{streakAlive(state)}</b><span>{t('streakDay')}</span></div>}
-        <div className="card stat"><Tile icon="target" size={36} tone="ok" /><b>{Math.round(acc * 100)}%</b><span>{t('accuracy')}</span></div>
+        <div className="card stat"><Icon name="star" size={26} fill="var(--accent)" style={{ color: 'var(--accent)' }} /><b>+{xp}</b><span>XP</span></div>
+        {streakUp && <div className="card stat"><Icon name="flame" size={26} fill="color-mix(in srgb, var(--warn) 25%, transparent)" style={{ color: 'var(--warn)' }} /><b>{streakAlive(state)}</b><span>{t('streakDay')}</span></div>}
+        <div className="card stat"><Icon name="target" size={26} style={{ color: 'var(--ok)' }} /><b>{Math.round(acc * 100)}%</b><span>{t('accuracy')}</span></div>
       </div>
       {wrong.length > 0 && (
         <div className="col" style={{ gap: 8 }}>

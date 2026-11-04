@@ -41,14 +41,15 @@ export default function Onboarding({ t, lang }) {
   // ---------- screens ----------
   if (step === 'splash') {
     return (
-      <div className="screen center" style={{ background: 'radial-gradient(120% 80% at 50% 0%, #fff 0%, var(--bg) 55%, #e6dcf6 100%)', gap: 10 }}>
+      <div className="screen center splash" style={{ gap: 8 }}>
+        <div className="hills" aria-hidden><i /><i /></div>
+        <div style={{ height: '9vh' }} />
+        <div className="logo" style={{ fontSize: 54 }}>verbora<span className="spark">✦</span></div>
+        <p className="sub" style={{ fontSize: 16, lineHeight: 1.35 }}>Your language.<br />Your universe.</p>
         <div className="grow" />
-        <div className="logo">verbora<span style={{ color: 'var(--accent)', fontSize: 24, verticalAlign: 'super' }}>✦</span></div>
-        <p className="sub">Your language. Your universe.</p>
-        <div className="m-float" style={{ marginTop: 18 }}><Mascot emotion={prevVisit ? 'waking' : 'idle'} size={230} anim="bounce" /></div>
-        <div className="grow" />
-        <button className="btn" onClick={() => go('lang')}>{t('start')} <Icon name="arrow" size={18} /></button>
-        <p className="tiny">{t('slogan')}</p>
+        <div className="m-float" style={{ position: 'relative', zIndex: 1 }}><Mascot emotion={prevVisit ? 'waking' : 'idle'} size={230} anim="bounce" /></div>
+        <div style={{ height: 24 }} />
+        <button className="btn" style={{ position: 'relative', zIndex: 1 }} onClick={() => go('lang')}>{t('start')} <Icon name="arrow" size={18} /></button>
       </div>
     );
   }
@@ -70,7 +71,7 @@ export default function Onboarding({ t, lang }) {
         </div>
         <div className="list">
           {opts.map((o) => (
-            <Option key={o.id} icon={<span style={{ fontWeight: 800, fontSize: 14 }}>{o.flag}</span>} title={o.title} sub={o.sub} selected={current === o.id} onClick={() => update((s) => { s.lang = o.id; })} />
+            <Option key={o.id} icon={<span style={{ fontWeight: 700, fontSize: 14 }}>{o.flag}</span>} title={o.title} sub={o.sub} selected={current === o.id} onClick={() => update((s) => { s.lang = o.id; })} />
           ))}
         </div>
         <div className="grow" />
@@ -83,17 +84,19 @@ export default function Onboarding({ t, lang }) {
   if (step in story) {
     const i = story[step];
     const content = [
-      { e: 'greeting', h: t('hello'), p: t('welcome') },
-      { e: 'speaking', h: t('iAmVerbi'), p: t('verbiIntro') },
+      { e: 'greeting', h: <>{t('hello')}<br />{t('iAmVerbi')} 👋</>, p: t('welcome') },
+      { e: 'speaking', h: t('myStory'), p: t('verbiIntro'), planet: true },
       { e: 'thanks', h: t('ourMission'), p: t('verbiMission') },
     ][i];
     const nextStep = ['verbi', 'mission', 'experience'][i];
     return (
-      <div className="screen center" style={{ gap: 18 }}>
-        <div className="grow" />
-        <div key={step} className="m-float"><Mascot emotion={content.e} size={220} anim="bounce" sparkles={i === 2} /></div>
-        <div className="h1">{content.h}</div>
-        <p className="sub" style={{ fontSize: 17, maxWidth: 340 }}>{content.p}</p>
+      <div className="screen" style={{ gap: 18 }}>
+        <div style={{ height: 8 }} />
+        <div className="h1" style={{ fontSize: 28 }}>{content.h}</div>
+        {content.planet ? <Planet /> : (
+          <div key={step} className="m-float" style={{ alignSelf: 'center' }}><Mascot emotion={content.e} size={220} anim="bounce" sparkles={i === 2} /></div>
+        )}
+        <p style={{ fontSize: 16, lineHeight: 1.6, color: 'var(--text)', maxWidth: 360 }}>{content.p}</p>
         <div className="grow" />
         <div className="row between" style={{ width: '100%' }}>
           <Dots n={3} i={i} />
@@ -134,7 +137,8 @@ export default function Onboarding({ t, lang }) {
       <div className="screen">
         <div className="row" style={{ gap: 10 }}>
           <button className="icon-btn" onClick={() => go(idx ? order[idx - 1] : 'mission')}><Icon name="back" /></button>
-          <Bar value={((idx + 1) / 3) * 100} style={{ flex: 1 }} />
+          <div className="steps" style={{ flex: 1, maxWidth: 120, margin: '0 auto' }}>{order.map((o, k) => <i key={o} className={k <= idx ? 'on' : ''} />)}</div>
+          <span style={{ width: 40 }} />
         </div>
         <div className="col" style={{ gap: 6 }}>
           <div className="h2">{sv.q}</div>
@@ -146,7 +150,6 @@ export default function Onboarding({ t, lang }) {
           ))}
         </div>
         <div className="grow" />
-        <div className="row" style={{ justifyContent: 'center' }}><Mascot emotion="idle" size={96} /></div>
         <button className="btn" disabled={val === null} onClick={onNext}>{t('next')} <Icon name="arrow" size={18} /></button>
       </div>
     );
@@ -163,7 +166,7 @@ export default function Onboarding({ t, lang }) {
         </div>
         <div className="list">
           {LEVELS.slice(0, 4).map((l, i) => (
-            <div key={l} className="card soft row"><span className="letter" style={{ width: 40, height: 40, borderRadius: 12, display: 'grid', placeItems: 'center', background: 'var(--primary-soft)', fontWeight: 800 }}>{l}</span><span className="small">{[t('expNewSub'), t('expForgotSub'), t('goalLifeSub'), t('expConfidentSub')][i]}</span></div>
+            <div key={l} className="card soft row"><span className="letter" style={{ width: 40, height: 40, borderRadius: 12, display: 'grid', placeItems: 'center', background: 'var(--primary-soft)', fontWeight: 700 }}>{l}</span><span className="small">{[t('expNewSub'), t('expForgotSub'), t('goalLifeSub'), t('expConfidentSub')][i]}</span></div>
           ))}
         </div>
         <div className="grow" />
@@ -282,4 +285,24 @@ export function placementOf(answers) {
     if (list.length >= 2 && ok / list.length >= 0.7) highest = Math.max(highest, i);
   });
   return LEVELS[Math.min(highest + 1, LEVELS.length - 1)];
+}
+
+// «Моя історія»: Verbi's home planet seen from a porthole
+function Planet() {
+  return (
+    <div className="planet-card" aria-hidden>
+      <svg viewBox="0 0 320 200" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+        <defs>
+          <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stopColor="#3b2f6e" /><stop offset="1" stopColor="#8c7cc6" /></linearGradient>
+          <radialGradient id="big" cx="0.35" cy="0.25" r="0.9"><stop offset="0" stopColor="#d9d0f3" /><stop offset="0.6" stopColor="#9c8bd3" /><stop offset="1" stopColor="#5e4f9a" /></radialGradient>
+          <radialGradient id="small" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stopColor="#f3eefc" /><stop offset="1" stopColor="#a897dc" /></radialGradient>
+        </defs>
+        <rect width="320" height="200" fill="url(#sky)" />
+        {[[30, 30], [70, 60], [120, 20], [250, 40], [290, 80], [200, 70], [160, 50], [40, 100]].map(([x, y], k) => <circle key={k} cx={x} cy={y} r={k % 3 ? 1.2 : 2} fill="#fff" opacity="0.85" />)}
+        <circle cx="170" cy="330" r="230" fill="url(#big)" />
+        <circle cx="240" cy="62" r="20" fill="url(#small)" />
+        <ellipse cx="240" cy="62" rx="34" ry="8" fill="none" stroke="#e9e2fb" strokeWidth="2.5" transform="rotate(-18 240 62)" />
+      </svg>
+    </div>
+  );
 }

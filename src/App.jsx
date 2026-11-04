@@ -9,17 +9,18 @@ import Onboarding from './screens/Onboarding.jsx';
 import Home from './screens/Home.jsx';
 import Lesson from './screens/Lesson.jsx';
 import Words, { Cards } from './screens/Words.jsx';
-import GrammarMap from './screens/GrammarMap.jsx';
 import Courses, { SoundTable } from './screens/Courses.jsx';
-import Profile, { Settings, Privacy } from './screens/Profile.jsx';
+import Profile, { Settings, Privacy, Achievements, ProgressScreen } from './screens/Profile.jsx';
+import Learn, { UnitScreen, UnitsList } from './screens/Learn.jsx';
+import { Practice, Missions } from './screens/Practice.jsx';
 
 const CheckYourself = lazy(() => import('./checkyourself/CheckYourself.jsx'));
 
 const TABS = [
   { id: 'home', icon: 'home', label: 'tabHome' },
-  { id: 'words', icon: 'book', label: 'tabWords' },
-  { id: 'map', icon: 'map', label: 'tabMap' },
+  { id: 'learn', icon: 'book', label: 'tabLearn' },
   { id: 'courses', icon: 'grad', label: 'tabCourses' },
+  { id: 'progress', icon: 'chart', label: 'tabProgress' },
   { id: 'profile', icon: 'user', label: 'tabProfile' },
 ];
 
@@ -69,7 +70,13 @@ export default function App() {
     case 'home': body = <Home {...props} />; break;
     case 'words': body = <Words {...props} />; break;
     case 'cards': body = <Cards {...props} />; break;
-    case 'map': body = <GrammarMap {...props} />; break;
+    case 'learn': body = <Learn {...props} />; break;
+    case 'unit': body = <UnitScreen key={current.key} route={current} {...props} />; break;
+    case 'units': body = <UnitsList {...props} />; break;
+    case 'practice': body = <Practice {...props} />; break;
+    case 'missions': body = <Missions {...props} />; break;
+    case 'progress': body = <ProgressScreen {...props} />; break;
+    case 'achievements': body = <Achievements {...props} />; break;
     case 'courses': body = <Courses {...props} />; break;
     case 'sounds': body = <SoundTable {...props} />; break;
     case 'profile': body = <Profile {...props} />; break;
@@ -91,7 +98,7 @@ export default function App() {
         <nav className="nav">
           {TABS.map((x) => (
             <button key={x.id} className={current.name === x.id ? 'on' : ''} onClick={() => nav.tab(x.id)}>
-              <Icon name={x.icon} />
+              <Icon name={x.icon} size={23} stroke={current.name === x.id ? 2.1 : 1.7} />
               {t(x.label)}
             </button>
           ))}

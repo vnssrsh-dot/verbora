@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useStore, streakAlive, freshState, today } from '../lib/store.jsx';
-import { LEVELS, topicName } from '../lib/content.js';
+import { LEVELS, topicName, levelInfo } from '../lib/content.js';
+import GrammarMap from './GrammarMap.jsx';
 import { levelPercent, currentLevel } from '../lib/progress.js';
 import { BADGES } from '../lib/badges.js';
 import { loc } from '../lib/loc.js';
@@ -16,57 +17,104 @@ function weekDates() {
 
 export default function Profile({ nav, t, lang }) {
   const { state } = useStore();
-  const lvl = currentLevel(state);
-  const pct = levelPercent(state, lvl);
+  const lvl = state.currentLevel || currentLevel(state);
   const streak = streakAlive(state);
   const name = state.profile.name || tgUser()?.first_name || t('learner');
-  const learned = Object.values(state.vocab).filter((c) => c.learned).length;
-  const week = weekDates();
-  const topics = Object.entries(state.topics).filter(([, r]) => r.ok + r.bad > 0);
+  const lessons = Object.keys(state.lessonsDone).filter((id) => !id.startsWith('x-')).length;
+  const got = Object.keys(state.badges).length;
+  const rows = [
+    { icon: 'award', label: t('myAchievements'), right: `${got}/${BADGES.length}`, go: () => nav.push({ name: 'achievements' }) },
+    { icon: 'results', label: t('myResults'), go: () => nav.tab('progress') },
+    { icon: 'dict', label: t('tileWords'), go: () => nav.push({ name: 'words' }) },
+    { icon: 'gear', label: t('settings'), go: () => nav.push({ name: 'settings' }) },
+    { icon: 'info', label: t('privacy'), go: () => nav.push({ name: 'privacy' }) },
+  ];
   return (
     <div className="screen with-nav">
-      <TopBar title={t('profile')} right={<button className="icon-btn" onClick={() => nav.push({ name: 'settings' })}><Icon name="gear" /></button>} />
-      <div className="col" style={{ alignItems: 'center', gap: 6 }}>
-        <div style={{ width: 112, height: 112, borderRadius: '50%', background: 'var(--primary-soft)', display: 'grid', placeItems: 'center', overflow: 'hidden', boxShadow: 'var(--shadow)' }}>
-          <Mascot emotion={streak >= 3 ? 'fire' : 'idle'} size={100} />
-        </div>
-        <div className="h2">{name}</div>
-        <div className="small">{lvl} · {pct}%</div>
-        <Bar value={pct} style={{ width: 160 }} />
+      <TopBar title={t('profile')} />
+      <div className="col" style={{ alignItems: 'center', gap: 4 }}>
+        <div className="avatar"><Mascot emotion="idle" size={96} /></div>
+        <button className="row" style={{ gap: 8, marginTop: 6 }} onClick={() => nav.push({ name: 'settings' })} aria-label={t('yourName')}>
+          <span className="h2">{name}</span><Icon name="pencil" size={18} style={{ color: 'var(--primary-2)' }} />
+        </button>
+        <div className="sub">{lvl} — {loc(levelInfo(lvl).title, lang)}</div>
       </div>
       <div className="row" style={{ gap: 10 }}>
-        <div className="card stat"><Tile icon="flame" size={36} tone="warn" /><b>{streak}</b><span>{t('days')}</span></div>
-        <div className="card stat"><Tile icon="star" size={36} /><b>{state.xp}</b><span>{t('xp')}</span></div>
-        <div className="card stat"><Tile icon="books" size={36} tone="ok" /><b>{learned}</b><span>{t('learned')}</span></div>
+        <div className="card stat"><Icon name="flame" size={22} style={{ color: 'var(--warn)' }} /><b>{streak}</b><span>{t('streakDaysShort')}</span></div>
+        <div className="card stat"><Icon name="star" size={22} style={{ color: 'var(--accent)' }} /><b>{state.xp}</b><span>XP</span></div>
+        <div className="card stat"><Icon name="box" size={22} style={{ color: 'var(--primary)' }} /><b>{lessons}</b><span>{t('lessonsShort')}</span></div>
       </div>
+      <div className="card menu">
+        {rows.map((r) => (
+          <button key={r.label} className="menu-row" onClick={r.go}>
+            <Icon name={r.icon} size={20} />
+            <span className="grow">{r.label}</span>
+            {r.right && <span className="small">{r.right}</span>}
+            <Icon name="chevron" size={18} style={{ color: 'var(--muted)' }} />
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
 
+// «Мої досягнення»
+export function Achievements({ nav, t, lang }) {
+  const { state } = useStore();
+  return (
+    <div className="screen">
+      <TopBar onBack={() => nav.back()} title={t('myAchievements')} />
+      <div className="grid3">
+        {BADGES.map((b) => {
+          const got = state.badges[b.id];
+          if (b.hidden && !got) return <div key={b.id} className="card badge-tile off"><Tile icon="question" size={52} tone="plain" /><span className="tiny">???</span></div>;
+          return (
+            <div key={b.id} className={`card badge-tile ${got ? '' : 'off'}`}>
+              <Tile icon={b.icon} size={52} tone={got ? 'primary' : 'plain'} />
+              <b style={{ fontSize: 12 }}>{loc(b.title, lang)}</b>
+              <span className="tiny">{loc(b.desc, lang)}</span>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+// «Прогрес»: streak, levels, topics and the grammar map
+export function ProgressScreen({ nav, t, lang }) {
+  const { state } = useStore();
+  const streak = streakAlive(state);
+  const week = weekDates();
+  const topics = Object.entries(state.topics).filter(([, r]) => r.ok + r.bad > 0).slice(-12);
+  return (
+    <div className="screen with-nav">
+      <TopBar title={t('progress')} />
       <div className="card col" style={{ gap: 12 }}>
-        <div className="row between"><b>{t('streak')}</b><span className="small">{t('streakDays', { n: streak })} · best {state.streak.best}</span></div>
+        <div className="row between"><b>{t('streak')}</b><span className="small">{t('streakDays', { n: streak })}</span></div>
         <div className="row between">
           {week.map((d, i) => {
             const on = state.week[d];
             const isToday = d === today();
             return (
-              <div key={d} className="col" style={{ alignItems: 'center', gap: 4 }}>
+              <div key={d} className="col" style={{ alignItems: 'center', gap: 6 }}>
                 <span className="tiny">{t('weekDays')[i]}</span>
-                <span style={{ width: 30, height: 30, borderRadius: '50%', display: 'grid', placeItems: 'center', background: on ? 'var(--primary)' : 'var(--bg-2)', color: on ? '#fff' : 'var(--muted)', fontSize: 14, outline: isToday ? '2px solid var(--primary)' : 'none', outlineOffset: 2 }}>{on ? <Icon name="check" size={15} stroke={3} /> : null}</span>
+                <span className={`wk ${on ? 'on' : ''} ${isToday ? 'today' : ''}`}>{on ? <Icon name="check" size={14} stroke={3} /> : null}</span>
               </div>
             );
           })}
         </div>
       </div>
-
       <div className="card col" style={{ gap: 10 }}>
         <b>{t('overall')}</b>
         {LEVELS.map((l) => (
           <div key={l} className="row" style={{ gap: 10 }}>
-            <span style={{ width: 28, fontWeight: 800 }}>{l}</span>
+            <span style={{ width: 28, fontWeight: 700 }}>{l}</span>
             <Bar value={levelPercent(state, l)} style={{ flex: 1 }} />
             <span className="tiny" style={{ width: 34, textAlign: 'right' }}>{levelPercent(state, l)}%</span>
           </div>
         ))}
       </div>
-
       {topics.length > 0 && (
         <div className="card col" style={{ gap: 10 }}>
           <b>{t('topicsStats')}</b>
@@ -81,26 +129,7 @@ export default function Profile({ nav, t, lang }) {
           })}
         </div>
       )}
-
-      <div className="col" style={{ gap: 8 }}>
-        <div className="h3">{t('badgesAll')}</div>
-        <div className="grid3">
-          {BADGES.map((b) => {
-            const got = state.badges[b.id];
-            if (b.hidden && !got) return <div key={b.id} className="card badge-tile off"><Tile icon="question" size={52} tone="plain" /><span className="tiny">???</span></div>;
-            return (
-              <div key={b.id} className={`card badge-tile ${got ? '' : 'off'}`}>
-                <Tile icon={b.icon} size={52} tone={got ? 'primary' : 'plain'} />
-                <b style={{ fontSize: 12 }}>{loc(b.title, lang)}</b>
-                <span className="tiny">{loc(b.desc, lang)}</span>
-              </div>
-            );
-          })}
-        </div>
-      </div>
-      <button className="row" style={{ justifyContent: 'center', gap: 6, padding: '8px 0', color: 'var(--text-2)', fontWeight: 700, fontSize: 14 }} onClick={() => nav.push({ name: 'privacy' })}>
-        <Icon name="info" size={16} />{t('privacy')}
-      </button>
+      <GrammarMap nav={nav} t={t} lang={lang} embedded />
     </div>
   );
 }

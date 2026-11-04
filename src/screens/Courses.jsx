@@ -45,7 +45,7 @@ export default function Courses({ nav, t, lang }) {
       </div>
       {CHECK_YOURSELF && <CheckTile state={state} nav={nav} t={t} />}
       <button className="card row" style={{ textAlign: 'left' }} onClick={() => nav.push({ name: 'sounds' })}>
-        <span className="ico" style={{ width: 44, height: 44, borderRadius: 14, background: 'var(--primary-soft)', display: 'grid', placeItems: 'center', fontSize: 20, fontWeight: 800, color: 'var(--primary-2)' }}>ʃ</span>
+        <span className="ico" style={{ width: 44, height: 44, borderRadius: 14, background: 'var(--primary-soft)', display: 'grid', placeItems: 'center', fontSize: 20, fontWeight: 700, color: 'var(--primary-2)' }}>ʃ</span>
         <span className="col grow" style={{ gap: 0 }}><b>{t('soundTable')}</b><span className="small">{t('soundTableSub')}</span></span>
         <Icon name="chevron" />
       </button>
@@ -79,7 +79,7 @@ export function SoundTable({ nav, t, lang }) {
             {g.sounds.map((s) => (
               <button key={s.ipa} className="card col" onClick={() => play(s)}
                 style={{ alignItems: 'center', gap: 2, padding: '12px 6px', outline: active === s.ipa ? '2px solid var(--primary)' : 'none', background: active === s.ipa ? 'var(--primary-soft)' : 'var(--surface)' }}>
-                <span style={{ fontSize: 26, fontWeight: 800, color: 'var(--primary-2)' }}>/{s.ipa}/</span>
+                <span style={{ fontSize: 26, fontWeight: 700, color: 'var(--primary-2)' }}>/{s.ipa}/</span>
                 <span className="tiny en" style={{ color: 'var(--text)' }}>{s.words.join(' · ')}</span>
                 {active === s.ipa && <span className="tiny">{loc(s.hint, lang)}</span>}
               </button>
@@ -109,7 +109,7 @@ function CheckTile({ state, nav, t }) {
       <span className="col grow" style={{ gap: 0 }}>
         <b>{t('cyTitle')}</b>
         <span className="small">{t('cySub')}</span>
-        <span className="tiny" style={{ color: done ? 'var(--text-2)' : 'var(--primary-2)', fontWeight: 800, marginTop: 2 }}>{done ? `${done.clean}/${done.total} · ${status}` : status}</span>
+        <span className="tiny" style={{ color: done ? 'var(--text-2)' : 'var(--primary-2)', fontWeight: 700, marginTop: 2 }}>{done ? `${done.clean}/${done.total} · ${status}` : status}</span>
       </span>
       <Icon name="chevron" />
     </button>

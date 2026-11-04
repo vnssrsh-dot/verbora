@@ -250,7 +250,7 @@ function WordStep({ word, active, t, lang, sound, onDone }) {
       {active && !finished && (
         <div className="row" style={{ gap: 8 }}>
           <button className="btn sm ghost" onClick={() => { setShowTr(true); setHint(true); }}><Icon name="bulb" size={16} />{t('cyTranslation')}</button>
-          <button className="btn sm ghost" onClick={openLetter}><span style={{ fontWeight: 800 }}>A</span>{t('cyLetter')}</button>
+          <button className="btn sm ghost" onClick={openLetter}><span style={{ fontWeight: 700 }}>A</span>{t('cyLetter')}</button>
         </div>
       )}
       {active && finished && <button className="btn" onClick={() => onDone(status === 'ok' && !hint)}>{t('next')} <Icon name="arrow" size={18} /></button>}
@@ -314,7 +314,7 @@ function SentenceStep({ sentence, t, lang, sound, onDone }) {
     <div className="card col" style={{ gap: 14, padding: '18px 14px', animation: 'screenIn .25s ease both' }}>
       <div className="row" style={{ justifyContent: 'center', gap: 12 }}>
         <button className="speak lg" onClick={() => play()} aria-label={t('listen')}><Icon name="sound" size={30} /></button>
-        <button className="speak" style={{ width: 52, height: 52 }} onClick={() => play(0.7)} aria-label={t('slow')}><span style={{ fontWeight: 800, fontSize: 13 }}>0.7×</span></button>
+        <button className="speak" style={{ width: 52, height: 52 }} onClick={() => play(0.7)} aria-label={t('slow')}><span style={{ fontWeight: 700, fontSize: 13 }}>0.7×</span></button>
       </div>
       <div className="cy-sentence en" aria-hidden>
         {units.map((u, k) => {

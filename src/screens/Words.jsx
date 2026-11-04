@@ -19,7 +19,7 @@ export function useMyWords() {
 }
 
 export default function Words({ nav, t, lang }) {
-  const { state } = useStore();
+  const { state, update } = useStore();
   const words = useMyWords();
   const [q, setQ] = useState('');
   const [filter, setFilter] = useState('all');
@@ -30,6 +30,7 @@ export default function Words({ nav, t, lang }) {
     if (filter === 'new' && c) return false;
     if (filter === 'learned' && !c?.learned) return false;
     if (filter === 'due' && !isDue(c)) return false;
+    if (filter === 'fav' && !state.favorites?.[w.word]) return false;
     const n = q.trim().toLowerCase();
     return !n || w.word.toLowerCase().includes(n) || loc(w, lang).toLowerCase().includes(n);
   });
@@ -37,21 +38,21 @@ export default function Words({ nav, t, lang }) {
 
   return (
     <div className="screen with-nav">
-      <TopBar title={t('wordsTitle')} />
-      <button className="card row" style={{ background: 'linear-gradient(135deg, var(--primary), #a48bdc)', color: '#fff', textAlign: 'left' }} onClick={() => nav.push({ name: 'cards' })} disabled={!words.length}>
-        <Tile icon="cards" size={44} tone="white" />
-        <span className="col grow" style={{ gap: 0 }}>
-          <b style={{ fontSize: 18 }}>{t('cardsReview')}</b>
-          <span style={{ fontSize: 13, opacity: 0.9 }}>{due.length ? t('cardsDue', { n: due.length }) : t('cardsNone')}</span>
+      <TopBar title={t('wordsTitle')} onBack={() => nav.back()} />
+      <div style={{ position: 'relative' }}>
+        <span style={{ position: 'absolute', left: 14, top: 15, color: 'var(--muted)' }}><Icon name="search" size={19} /></span>
+        <input className="input" style={{ paddingLeft: 42, minHeight: 48 }} placeholder={t('searchWord')} value={q} onChange={(e) => setQ(e.target.value)} />
+      </div>
+      <button className="continue" style={{ padding: '12px 16px' }} onClick={() => nav.push({ name: 'cards' })} disabled={!words.length}>
+        <span className="continue-play" style={{ width: 38, height: 38, padding: 0 }}><Icon name="cards" size={19} /></span>
+        <span className="col grow" style={{ gap: 0, alignItems: 'flex-start' }}>
+          <b style={{ fontSize: 15, fontWeight: 600 }}>{t('cardsReview')}</b>
+          <span style={{ fontSize: 12.5, opacity: 0.9 }}>{due.length ? t('cardsDue', { n: due.length }) : t('cardsNone')}</span>
         </span>
         <Icon name="chevron" />
       </button>
-      <div style={{ position: 'relative' }}>
-        <span style={{ position: 'absolute', left: 14, top: 16, color: 'var(--muted)' }}><Icon name="search" size={20} /></span>
-        <input className="input" style={{ paddingLeft: 44, fontWeight: 600 }} placeholder={t('searchWord')} value={q} onChange={(e) => setQ(e.target.value)} />
-      </div>
       <div className="chips">
-        {[['all', t('all')], ['new', t('newW')], ['due', t('due')], ['learned', t('learned')]].map(([id, label]) => (
+        {[['all', t('all')], ['learned', t('learned')], ['fav', t('favorites')], ['due', t('due')], ['new', t('newW')]].map(([id, label]) => (
           <button key={id} className={`chip ${filter === id ? 'on' : ''}`} onClick={() => setFilter(id)}>{label}</button>
         ))}
       </div>
@@ -60,14 +61,18 @@ export default function Words({ nav, t, lang }) {
         {list.map((w) => {
           const c = state.vocab[w.word];
           return (
-            <button key={w.word} className="card row" style={{ padding: '10px 14px', textAlign: 'left' }} onClick={() => setOpen(w)}>
+            <div key={w.word} className="option" style={{ padding: '9px 10px 9px 12px', minHeight: 0, cursor: 'pointer' }} role="button" tabIndex={0} onClick={() => setOpen(w)}>
               <Speak text={w.word} audio={w.audio} enabled={sound} />
-              <span className="col grow" style={{ gap: 0 }}>
-                <span className="row" style={{ gap: 8 }}><b className="en">{w.word}</b><span className="tiny">{w.ipa}</span></span>
+              <span className="col grow" style={{ gap: 0, minWidth: 0 }}>
+                <span className="row" style={{ gap: 6 }}><b className="en">{w.word}</b>{c?.learned && <span style={{ color: 'var(--ok)' }}><Icon name="check" size={15} stroke={2.6} /></span>}</span>
                 <span className="small">{loc(w, lang)}</span>
               </span>
-              {c?.learned ? <span style={{ color: 'var(--ok)' }}><Icon name="check" size={18} stroke={2.6} /></span> : c ? <span className="tiny">{'●'.repeat(c.box)}{'○'.repeat(Math.max(0, 2 - c.box))}</span> : <span className="tiny">{t('newW')}</span>}
-            </button>
+              <button className="icon-btn" aria-label={t('favorites')} aria-pressed={Boolean(state.favorites?.[w.word])}
+                onClick={(e) => { e.stopPropagation(); haptic('select'); update((s) => { s.favorites = s.favorites || {}; if (s.favorites[w.word]) delete s.favorites[w.word]; else s.favorites[w.word] = 1; }); }}
+                style={{ color: state.favorites?.[w.word] ? 'var(--primary)' : 'var(--muted)' }}>
+                <Icon name="heart" size={20} fill={state.favorites?.[w.word] ? 'currentColor' : 'none'} />
+              </button>
+            </div>
           );
         })}
       </div>

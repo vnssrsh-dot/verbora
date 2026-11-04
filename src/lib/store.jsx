@@ -113,6 +113,25 @@ export function recordAnswer(s, exercise, ok) {
   } else if (exercise.id && !s.mistakes.includes(exercise.id)) {
     s.mistakes = [exercise.id, ...s.mistakes].slice(0, 60);
   }
+  claimMissions(s);
+}
+
+// Daily missions (mockup «Місії»): XP is granted once per day when a mission is done.
+export const MISSIONS = [
+  { id: 'lesson', icon: 'book', max: 1, xp: 20, value: (d) => d.lessons },
+  { id: 'words', icon: 'cards', max: 5, xp: 10, value: (d) => d.words },
+  { id: 'correct', icon: 'target', max: 15, xp: 15, value: (d) => d.correct },
+];
+export function claimMissions(s) {
+  touchDaily(s);
+  s.daily.claimed = s.daily.claimed || [];
+  for (const m of MISSIONS) {
+    if (m.value(s.daily) >= m.max && !s.daily.claimed.includes(m.id)) {
+      s.daily.claimed.push(m.id);
+      s.xp += m.xp;
+      s.daily.xp += m.xp;
+    }
+  }
 }
 
 export function bumpStreak(s) {
@@ -166,6 +185,7 @@ export function reviewWord(s, word, known) {
   if (known && !c.learned && c.box >= 2) c.learned = true;
   if (known) s.daily.words++;
   s.vocab[word] = c;
+  claimMissions(s);
 }
 
 export function isDue(card) {

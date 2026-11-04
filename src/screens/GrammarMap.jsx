@@ -6,11 +6,11 @@ import { loc } from '../lib/loc.js';
 import { TopBar, Icon, Tile } from '../components.jsx';
 
 // Grammar map (SPEC §4.2): 🟢 know · 🟡 shaky · 🔴 gap · 🔒 locked
-export default function GrammarMap({ nav, t, lang }) {
+export default function GrammarMap({ nav, t, lang, embedded = false }) {
   const { state } = useStore();
   return (
-    <div className="screen with-nav">
-      <TopBar title={t('mapTitle')} />
+    <div className={embedded ? 'col' : 'screen with-nav'} style={embedded ? { gap: 16 } : undefined}>
+      {embedded ? <div className="h2">{t('mapTitle')}</div> : <TopBar title={t('mapTitle')} />}
       <div className="card soft chips" style={{ gap: 14 }}>
         {[['know', t('mapKnow')], ['shaky', t('mapShaky')], ['gap', t('mapGap')], ['locked', t('mapLocked')]].map(([k, l]) => (
           <span key={k} className="row" style={{ gap: 6 }}><span className={`status-dot st-${k}`} /><span className="small">{l}</span></span>
