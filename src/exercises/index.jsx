@@ -1,9 +1,9 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import { loc } from '../lib/loc.js';
 import { matches, normalize, shuffle, hashSeed, gapSentences, answerIndex } from '../lib/check.js';
 import { speak } from '../lib/tts.js';
 import { haptic } from '../lib/telegram.js';
-import { Icon, Speak } from '../components.jsx';
+import { Icon, Speak, Mascot } from '../components.jsx';
 
 /*
   Every exercise component gets { ex, lang, t, locked, sound, onChange }.
@@ -13,6 +13,23 @@ import { Icon, Speak } from '../components.jsx';
 */
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+// Verbi's mood for the current task, set by the lesson player.
+export const MoodCtx = createContext({ emotion: 'idle', anim: 'pop' });
+
+// Task header: Verbi with the task in a speech bubble.
+function Head({ label, children }) {
+  const { emotion, anim } = useContext(MoodCtx);
+  return (
+    <div className="ask ex-ask">
+      <div key={emotion} className="ask-verbi"><Mascot emotion={emotion} size={84} anim={anim} /></div>
+      <div className="bubble">
+        <div className="ex-label">{label}</div>
+        {children}
+      </div>
+    </div>
+  );
+}
 
 
 
@@ -34,20 +51,19 @@ function Question({ text }) {
 function Choices({ options, lang, picked, setPicked, locked, answer, seed }) {
   const order = useMemo(() => shuffle(options.map((o, i) => i), seed), [options, seed]);
   const right = answerIndex(options, answer, lang);
+  // short options sit in a 2-column grid of tiles, long ones in one column
+  const wide = options.some((o) => loc(o, lang).length > 16);
   return (
-    <div className="list">
+    <div className={`ans-grid ${wide ? 'one' : ''}`}>
       {order.map((i, k) => {
         const o = loc(options[i], lang);
         const isAns = i === right;
         let state = '';
         if (locked) state = isAns ? 'ok' : picked === i ? 'bad' : 'dim';
         return (
-          <button key={i} className={`option ${picked === i && !locked ? 'sel' : ''} ${state}`} disabled={locked} onClick={() => { haptic('select'); setPicked(i); }}>
-            <span className="letter">{LETTERS[k]}</span>
-            <span className="title en">{o}</span>
-            {picked === i && !locked && <span className="check"><Icon name="check" size={14} stroke={3} /></span>}
-            {locked && isAns && <span className="check mark-ok"><Icon name="check" size={14} stroke={3} /></span>}
-            {locked && !isAns && picked === i && <span className="check mark-bad"><Icon name="close" size={13} stroke={3} /></span>}
+          <button key={i} className={`ans tone-${k % 4} ${picked === i && !locked ? 'sel' : ''} ${state}`} disabled={locked} onClick={() => { haptic('select'); setPicked(i); }}>
+            <span className="ans-l">{locked && isAns ? <Icon name="check" size={15} stroke={3} /> : locked && picked === i ? <Icon name="close" size={14} stroke={3} /> : LETTERS[k]}</span>
+            <span className="ans-t en">{o}</span>
           </button>
         );
       })}
@@ -70,8 +86,7 @@ export function Choose({ ex, lang, t, locked, onChange }) {
   const [picked, setPicked] = useChoice(ex, lang, onChange);
   return (
     <>
-      <div className="ex-label">{t('chooseRight')}</div>
-      <Question text={loc(ex.question, lang)} />
+      <Head label={t('chooseRight')}><Question text={loc(ex.question, lang)} /></Head>
       <Choices options={ex.options} lang={lang} picked={picked} setPicked={setPicked} locked={locked} answer={ex.answer} seed={hashSeed(ex.id)} />
     </>
   );
@@ -82,7 +97,7 @@ export function Listen({ ex, lang, t, locked, sound, onChange }) {
   useEffect(() => { const id = setTimeout(() => speak(ex.audio_text, { audio: ex.audio, enabled: sound }), 350); return () => clearTimeout(id); }, [ex.id]);
   return (
     <>
-      <div className="ex-label">{t('listenChoose')}</div>
+      <Head label={t('listenChoose')} />
       <div className="row" style={{ justifyContent: 'center', gap: 18, padding: '8px 0' }}>
         <Speak lg text={ex.audio_text} audio={ex.audio} enabled={sound} label={t('listen')} />
         <button className="speak" onClick={() => speak(ex.audio_text, { audio: ex.audio, slow: true, enabled: sound })} aria-label={t('slow')}>
@@ -100,10 +115,9 @@ export function Ipa({ ex, lang, t, locked, sound, onChange }) {
   useEffect(() => { if (locked) speak(ex.answer, { enabled: sound }); }, [locked]);
   return (
     <>
-      <div className="ex-label">{t('readIpa')}</div>
-      <div className="card" style={{ textAlign: 'center', padding: '28px 16px' }}>
-        <div style={{ fontSize: 40, fontWeight: 700, color: 'var(--primary-2)', fontFamily: "'Nunito', 'Noto Sans', 'Segoe UI', sans-serif" }}>{ex.ipa}</div>
-      </div>
+      <Head label={t('readIpa')}>
+        <div style={{ fontSize: 34, fontWeight: 700, color: 'var(--primary-2)', fontFamily: "'Nunito', 'Noto Sans', 'Segoe UI', sans-serif", marginTop: 4 }}>{ex.ipa}</div>
+      </Head>
       <Choices options={ex.options} lang={lang} picked={picked} setPicked={setPicked} locked={locked} answer={ex.answer} seed={hashSeed(ex.id)} />
     </>
   );
@@ -147,12 +161,13 @@ export function Fill({ ex, lang, t, locked, onChange }) {
   const parts = String(ex.question).split('___');
   return (
     <>
-      <div className="ex-label">{t('fillGap')}</div>
+      <Head label={t('fillGap')}>
       <div className="h2 en" style={{ lineHeight: 1.5 }}>
         {parts[0]}
         <span style={{ color: locked ? (ok ? 'var(--ok)' : 'var(--bad)') : 'var(--primary-2)', borderBottom: '3px solid currentColor', padding: '0 6px' }}>{locked && ok ? ex.answer : value.trim().split(/\s+/).length > 2 ? '\u00a0…\u00a0' : value || '    '}</span>
         {parts.slice(1).join('___')}
       </div>
+      </Head>
       {ex.hint && <div className="pill" style={{ alignSelf: 'flex-start' }}><span className="ic"><Icon name="bulb" size={15} /></span>{t('hint')}: {loc(ex.hint, lang)}</div>}
       <TextAnswer value={value} setValue={setValue} locked={locked} ok={ok} placeholder={t('typeHere')} />
     </>
@@ -163,8 +178,7 @@ export function Fix({ ex, lang, t, locked, onChange }) {
   const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept, ex.sentence, { shortForms: true, exact: normalize(ex.sentence) === normalize(ex.answer) });
   return (
     <>
-      <div className="ex-label">{t('fixError')}</div>
-      <div className="card soft"><div className="h3 en" style={{ textDecoration: 'line-through wavy var(--bad)', textDecorationThickness: 1 }}>{ex.sentence}</div></div>
+      <Head label={t('fixError')}><div className="h3 en" style={{ textDecoration: 'line-through wavy var(--bad)', textDecorationThickness: 1, fontSize: 18, marginTop: 4 }}>{ex.sentence}</div></Head>
       <TextAnswer value={value} setValue={setValue} locked={locked} ok={ok} placeholder={t('typeHere')} />
     </>
   );
@@ -174,8 +188,7 @@ export function Translate({ ex, lang, t, locked, onChange }) {
   const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept, '', { shortForms: true });
   return (
     <>
-      <div className="ex-label">{t('translateTo')}</div>
-      <div className="card soft"><div className="h2">{loc(ex.prompt, lang)}</div></div>
+      <Head label={t('translateTo')}><div className="h2" style={{ marginTop: 4 }}>{loc(ex.prompt, lang)}</div></Head>
       <TextAnswer value={value} setValue={setValue} locked={locked} ok={ok} placeholder="English…" multiline />
     </>
   );
@@ -185,8 +198,7 @@ export function Define({ ex, lang, t, locked, onChange }) {
   const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept);
   return (
     <>
-      <div className="ex-label">{t('defineTitle')}</div>
-      <div className="card soft"><div className="h3 en">{loc(ex.definition, lang)}</div></div>
+      <Head label={t('defineTitle')}><div className="h3 en" style={{ fontSize: 17, marginTop: 4 }}>{loc(ex.definition, lang)}</div></Head>
       <TextAnswer value={value} setValue={setValue} locked={locked} ok={ok} placeholder={t('typeHere')} />
     </>
   );
@@ -196,7 +208,7 @@ export function Associate({ ex, lang, t, locked, onChange }) {
   const [value, setValue, ok] = useText(ex, onChange, ex.answer, ex.accept);
   return (
     <>
-      <div className="ex-label">{t('associateTitle')}</div>
+      <Head label={t('associateTitle')} />
       <div className="row" style={{ justifyContent: 'center', gap: 14 }}>
         <div className="card" style={{ padding: '18px 24px' }}><div className="h2 en">{loc(ex.cue, lang)}</div></div>
         <Icon name="arrow" size={28} />
@@ -232,8 +244,7 @@ export function Build({ ex, lang, t, locked, onChange }) {
   );
   return (
     <>
-      <div className="ex-label">{t('buildSentence')}</div>
-      {ex.prompt && <div className="card soft"><div className="h3">{loc(ex.prompt, lang)}</div></div>}
+      <Head label={t('buildSentence')}>{ex.prompt && <div className="h3" style={{ marginTop: 4 }}>{loc(ex.prompt, lang)}</div>}</Head>
       <div className="card soft chips" style={{ minHeight: 76, alignContent: 'flex-start' }}>
         {picked.map((i) => tile(i, true))}
       </div>
@@ -274,7 +285,7 @@ export function Match({ ex, lang, t, locked, onChange }) {
   );
   return (
     <>
-      <div className="ex-label">{t('matchPairs')}</div>
+      <Head label={t('matchPairs')} />
       <div className="grid2">
         <div className="list">
           {pairs.map((p, i) => <div key={i}>{cell(p.left, { on: sel === i, ok: done.includes(i), onClick: () => { haptic('select'); setSel(i); }, en: true })}</div>)}
@@ -314,7 +325,7 @@ export function Wordbank({ ex, lang, t, locked, onChange }) {
   };
   return (
     <>
-      <div className="ex-label">{t('wordbankTitle')}</div>
+      <Head label={t('wordbankTitle')} />
       <div className="list">
         {ex.sentences.map((s, i) => {
           const [a, b] = s.split('___');
@@ -370,7 +381,7 @@ export function Brackets({ ex, lang, t, locked, onChange }) {
   const parts = String(ex.text).split(/\{\{(\d+)\}\}/);
   return (
     <>
-      <div className="ex-label">{t('bracketsTitle')}</div>
+      <Head label={t('bracketsTitle')} />
       <div className="card" style={{ lineHeight: 2.4, fontSize: 17 }}>
         {parts.map((p, k) => {
           if (k % 2 === 0) return <span key={k} className="en">{p}</span>;
@@ -443,7 +454,7 @@ export function Reading({ ex, lang, t, locked, sound, onChange }) {
   const fullText = ex.text || (ex.dialog || []).map((d) => d.line).join(' ');
   return (
     <>
-      <div className="ex-label">{t('readingTitle')}</div>
+      <Head label={t('readingTitle')} />
       <div className="card col" style={{ gap: 10 }}>
         <div className="row between">
           <span className="pill"><span className="ic"><Icon name="text" size={15} /></span>Text</span>
@@ -465,7 +476,7 @@ export function Reading({ ex, lang, t, locked, sound, onChange }) {
 export function Picture({ ex, lang, t, locked, onChange }) {
   return (
     <>
-      <div className="ex-label">{t('pictureTitle')}</div>
+      <Head label={t('pictureTitle')} />
       {ex.image && <img src={ex.image} alt="" style={{ width: '100%', borderRadius: 18, boxShadow: 'var(--shadow)' }} />}
       <SubQuestions questions={ex.questions} lang={lang} t={t} locked={locked} onChange={onChange} />
     </>
@@ -477,8 +488,7 @@ export function Write({ ex, lang, t, locked, onChange }) {
   useEffect(() => { onChange({ ready: true, skip: true, evaluate: () => ({ ok: true, answer: '' }) }); }, []);
   return (
     <>
-      <div className="ex-label">{t('writeTitle')}</div>
-      <div className="card soft"><div className="h3">{loc(ex.prompt, lang)}</div></div>
+      <Head label={t('writeTitle')}><div className="h3" style={{ marginTop: 4 }}>{loc(ex.prompt, lang)}</div></Head>
       <TextAnswer value={value} setValue={setValue} locked={locked} ok multiline placeholder="English…" autoFocus={false} />
       <div className="tiny">{t('writeSoon')}</div>
     </>

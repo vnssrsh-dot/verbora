@@ -4,7 +4,7 @@ import { buildPath, levelUnlocked, levelPercent } from '../lib/progress.js';
 import { LEVELS, levelInfo, finalTestMeta } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { haptic } from '../lib/telegram.js';
-import { Mascot, Icon, Bar, Sheet, TopBar } from '../components.jsx';
+import { Mascot, Icon, Bar, Sheet, TopBar, ToneIcon } from '../components.jsx';
 
 // unit state on the path: done · current · open · locked
 export function unitState(u) {
@@ -119,20 +119,21 @@ export function UnitScreen({ nav, t, lang, route }) {
   return (
     <div className="screen">
       <TopBar onBack={() => nav.back()} title="" />
-      <div className="row" style={{ alignItems: 'flex-end' }}>
-        <div className="col grow" style={{ gap: 4 }}>
-          <span className="small">{t('unit')} {idx + 1} · {u.kind === 'vocab' ? t('kindVocab') : t('kindGrammar')}</span>
-          <div className="h1">{loc(u.title, lang)}</div>
+      <div className="hero-card" style={{ minHeight: 150 }}>
+        <div className="col" style={{ gap: 4, zIndex: 1, maxWidth: '62%' }}>
+          <span className="hero-chip">{t('unit')} {idx + 1} · {u.kind === 'vocab' ? t('kindVocab') : t('kindGrammar')}</span>
+          <b style={{ fontSize: 21, lineHeight: 1.2, marginTop: 4 }}>{loc(u.title, lang)}</b>
+          <span style={{ fontSize: 13, opacity: 0.88 }}>{done}/{u.lessons.length} {t('lessons')}</span>
+          <div className="hero-bar"><i style={{ width: `${(done / u.lessons.length) * 100}%` }} /></div>
         </div>
-        <Mascot emotion={u.complete ? 'badge' : 'explaining'} size={86} />
+        <div className="hero-verbi" style={{ right: 2, bottom: -8 }}><Mascot emotion={u.complete ? 'badge' : 'explaining'} size={122} /></div>
       </div>
-      <div className="row"><Bar value={(done / u.lessons.length) * 100} style={{ flex: 1 }} /><span className="small">{done}/{u.lessons.length}</span></div>
       <div className="list">
         {u.lessons.map((l) => {
           const st = l.status === 'refresh' ? 'done' : l.status === 'available' ? 'open' : l.status;
           return (
             <button key={l.id} className={`option ${l.status === 'current' ? 'sel' : ''} ${l.status === 'locked' ? 'dim' : ''}`} onClick={() => open(l)}>
-              <span className="ico"><Icon name={u.kind === 'vocab' ? 'book' : 'grammar'} /></span>
+              <ToneIcon tone={l.index % 5} size={40}><b>{l.index + 1}</b></ToneIcon>
               <span className="col grow" style={{ gap: 0 }}>
                 <span className="title">{t('lesson')} {l.index + 1}</span>
                 <span className="small">{loc(l.title, lang)}</span>
@@ -146,7 +147,7 @@ export function UnitScreen({ nav, t, lang, route }) {
             if (u.checkpoint !== 'locked') return nav.push({ name: 'lesson', mode: 'checkpoint', unitId: u.id });
             setInfo({ title: t('checkpoint'), text: u.unlocked ? t('checkpointSub') : t('jumpHint'), action: () => nav.push({ name: 'lesson', mode: 'checkpoint', unitId: u.id }), actionLabel: t('skipUnit') });
           }}>
-          <span className="ico"><Icon name={u.complete ? 'trophy' : 'gift'} /></span>
+          <ToneIcon icon={u.complete ? 'trophy' : 'gift'} tone={1} size={40} />
           <span className="col grow" style={{ gap: 0 }}>
             <span className="title">{t('checkpoint')}</span>
             <span className="small">{t('checkpointSub')}</span>
@@ -179,7 +180,7 @@ export function UnitsList({ nav, t, lang }) {
           const st = unitState(u);
           return (
             <button key={u.id} className={`option ${st === 'current' ? 'sel' : ''}`} onClick={() => nav.push({ name: 'unit', unitId: u.id, level })}>
-              <span className="ico"><Icon name="folder" /></span>
+              <ToneIcon icon={u.kind === 'vocab' ? 'book' : 'grammar'} tone={u.kind === 'vocab' ? 2 : 0} size={40} />
               <span className="col grow" style={{ gap: 0, minWidth: 0 }}>
                 <span className="title">{t('unit')} {i + 1}</span>
                 <span className="small" style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{loc(u.title, lang)}</span>

@@ -3,7 +3,7 @@ import { useStore, recordAnswer, addXp, bumpStreak, awardBadges, streakAlive, to
 import { loc } from '../lib/loc.js';
 import { haptic } from '../lib/telegram.js';
 import { speak, stop } from '../lib/tts.js';
-import { EXERCISES } from '../exercises/index.jsx';
+import { EXERCISES, MoodCtx } from '../exercises/index.jsx';
 import { Mascot, Icon, Bar, Speak, Sheet, Confetti, Tile } from '../components.jsx';
 import { badgeById } from '../lib/badges.js';
 import { LEVELS } from '../lib/content.js';
@@ -172,10 +172,9 @@ export default function Lesson({ mode, unit, lesson, recap, exercises: given, ti
           if (!C) return <div className="empty">Unknown exercise type: {step.ex.type}</div>;
           return (
             <>
-              <div className="row" style={{ alignItems: 'flex-end', justifyContent: 'flex-end', marginBottom: -8, marginTop: -6 }}>
-                <Mascot emotion={feedback ? 'idle' : emotion} size={72} anim="pop" />
-              </div>
-              <C key={`${pos}-${step.ex.id}`} ex={step.ex} lang={lang} t={t} locked={Boolean(feedback)} sound={sound} onChange={onChange} />
+              <MoodCtx.Provider value={{ emotion, anim: feedback && !feedback.ok ? 'shake' : feedback ? 'bounce' : 'pop' }}>
+                <C key={`${pos}-${step.ex.id}`} ex={step.ex} lang={lang} t={t} locked={Boolean(feedback)} sound={sound} onChange={onChange} />
+              </MoodCtx.Provider>
             </>
           );
         })()}

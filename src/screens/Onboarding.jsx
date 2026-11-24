@@ -4,7 +4,7 @@ import { suggestedLang, tgUser, haptic } from '../lib/telegram.js';
 import { diagnostic, LEVELS, levelPath, topicName } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { shuffle } from '../lib/check.js';
-import { Mascot, Icon, Dots, Option, Bar, Tile } from '../components.jsx';
+import { Mascot, Icon, Dots, Option, Bar, Tile, Ask, ToneIcon } from '../components.jsx';
 
 const STEPS = ['splash', 'lang', 'hello', 'verbi', 'mission', 'experience', 'goal', 'minutes', 'diagIntro', 'diag', 'diagResult'];
 
@@ -64,14 +64,18 @@ export default function Onboarding({ t, lang }) {
     if (sug === 'ru') opts.reverse();
     return (
       <div className="screen">
-        <div className="col" style={{ alignItems: 'center', textAlign: 'center', gap: 8, paddingTop: 24 }}>
-          <Mascot emotion="greeting" size={150} />
-          <div className="h2">{t('chooseLang')}</div>
-          <p className="small">{t('chooseLangSub')}</p>
-        </div>
-        <div className="list">
-          {opts.map((o) => (
-            <Option key={o.id} icon={<span style={{ fontWeight: 700, fontSize: 14 }}>{o.flag}</span>} title={o.title} sub={o.sub} selected={current === o.id} onClick={() => update((s) => { s.lang = o.id; })} />
+        <div className="grow" style={{ maxHeight: 70 }} />
+        <Ask emotion="greeting" size={124} title={t('chooseLang')} sub={t('chooseLangSub')} />
+        <div className="tiles">
+          {opts.map((o, k) => (
+            <button key={o.id} className={`tile-opt tone-${k ? 1 : 3} ${current === o.id ? 'sel' : ''}`} aria-pressed={current === o.id} onClick={() => { haptic('select'); update((s) => { s.lang = o.id; }); }}>
+              <span className="tile-ic"><b>{o.flag}</b></span>
+              <span className="col" style={{ gap: 2, alignItems: 'flex-start' }}>
+                <span className="tile-t">{o.title}</span>
+                <span className="tile-s">{o.sub}</span>
+              </span>
+              {current === o.id && <span className="tile-check"><Icon name="check" size={13} stroke={3} /></span>}
+            </button>
           ))}
         </div>
         <div className="grow" />
@@ -172,16 +176,16 @@ export default function Onboarding({ t, lang }) {
     return (
       <div className="screen">
         <div className="row"><button className="icon-btn" onClick={() => go('minutes')}><Icon name="back" /></button></div>
-        <div className="col" style={{ alignItems: 'center', textAlign: 'center', gap: 10 }}>
-          <Mascot emotion="thinking" size={170} />
-          <div className="h1">{t('diagTitle')}</div>
-          <p className="sub">{t('diagSub')}</p>
-        </div>
-        <div className="list">
-          {LEVELS.slice(0, 4).map((l, i) => (
-            <div key={l} className="card soft row"><span className="letter" style={{ width: 40, height: 40, borderRadius: 12, display: 'grid', placeItems: 'center', background: 'var(--primary-soft)', fontWeight: 700 }}>{l}</span><span className="small">{[t('expNewSub'), t('expForgotSub'), t('goalLifeSub'), t('expConfidentSub')][i]}</span></div>
+        <div className="grow" style={{ maxHeight: 30 }} />
+        <Ask emotion="thinking" size={124} title={t('diagTitle')} sub={t('diagSub')} />
+        <div className="ladder">
+          {LEVELS.map((l, i) => (
+            <div key={l} className="ladder-step" style={{ height: 46 + i * 18 }}>
+              <ToneIcon tone={i} size={40}><b style={{ fontSize: 15 }}>{l}</b></ToneIcon>
+            </div>
           ))}
         </div>
+        <p className="small" style={{ textAlign: 'center' }}>{t('diagLadder')}</p>
         <div className="grow" />
         <button className="btn" onClick={() => { setDiag(null); go('diag'); }}>{t('diagStart')} <Icon name="arrow" size={18} /></button>
         <button className="btn line" onClick={() => finish('A1')}>{t('diagSkip')}</button>
@@ -202,11 +206,13 @@ export default function Onboarding({ t, lang }) {
     };
     return (
       <div className="screen">
-        <div className="col" style={{ alignItems: 'center', textAlign: 'center', gap: 8 }}>
-          <Mascot emotion="celebration" size={160} anim="bounce" sparkles />
-          <div className="sub">{t('diagResult')}</div>
-          <div className="h1" style={{ fontSize: 44, color: 'var(--primary-2)' }}>{diag.placement}</div>
-          <p className="small">{t('diagResultSub')}</p>
+        <div className="hero-card" style={{ marginTop: 8 }}>
+          <div className="col grow" style={{ gap: 4, zIndex: 1 }}>
+            <span className="small" style={{ color: 'rgba(255,255,255,.85)' }}>{t('diagResult')}</span>
+            <span className="level-badge">{diag.placement}</span>
+            <span style={{ fontSize: 13.5, opacity: 0.9, maxWidth: 190 }}>{t('diagResultSub')}</span>
+          </div>
+          <div className="hero-verbi"><Mascot emotion="celebration" size={140} anim="bounce" sparkles /></div>
         </div>
         <div className="card col" style={{ gap: 10 }}>
           <b>{t('diagMapTitle')}</b>
@@ -272,15 +278,15 @@ function Diagnostic({ t, lang, startLevel, onDone, onBack }) {
         <Bar value={(answers.length / total) * 100} style={{ flex: 1 }} />
         <span className="tiny">{answers.length + 1}/{total}</span>
       </div>
-      <div className="row between">
-        <span className="small">{t('diagQuestion')} {answers.length + 1}</span>
-        <Mascot emotion="thinking" size={70} />
-      </div>
-      <div className="h2 en" style={{ lineHeight: 1.35 }}>{q.question}</div>
-      <div className="list">
+      <div style={{ height: 10 }} />
+      <Ask emotion={picked === null ? 'thinking' : 'listening'} mkey={q.id + (picked === null)} size={96}>
+        <span className="tiny">{t('diagQuestion')} {answers.length + 1}</span>
+        <div className="h2 en" style={{ lineHeight: 1.35, marginTop: 4 }}>{q.question}</div>
+      </Ask>
+      <div className="ans-grid">
         {opts.map((i, k) => (
-          <button key={`${q.id}-${i}`} className={`option ${picked === i ? 'sel' : ''}`} onClick={() => { haptic('select'); setPicked(i); }}>
-            <span className="letter">{'ABCD'[k]}</span><span className="title en">{q.options[i]}</span>
+          <button key={`${q.id}-${i}`} className={`ans tone-${k} ${picked === i ? 'sel' : ''}`} onClick={() => { haptic('select'); setPicked(i); }}>
+            <span className="ans-l">{'ABCD'[k]}</span><span className="ans-t en">{q.options[i]}</span>
           </button>
         ))}
       </div>

@@ -4,58 +4,58 @@ import { transcription, ipaSounds, CHECK_YOURSELF, cyPeriod, cyMsToNext } from '
 import { loc } from '../lib/loc.js';
 import { speak } from '../lib/tts.js';
 import { haptic } from '../lib/telegram.js';
-import { TopBar, Icon, Mascot, Bar, Tile } from '../components.jsx';
+import { TopBar, Icon, Mascot, Bar, Tile, ToneIcon } from '../components.jsx';
 
 export default function Courses({ nav, t, lang }) {
   const { state } = useStore();
   const u = transcription;
   const done = u.lessons.filter((l) => state.lessonsDone[l.id]).length;
   const passed = Boolean(state.unitsPassed[u.id]);
+  const pct = Math.round(((done + (passed ? 1 : 0)) / (u.lessons.length + 1)) * 100);
   return (
     <div className="screen with-nav">
       <TopBar title={t('coursesTitle')} />
-      <div className="card col" style={{ gap: 12 }}>
-        <div className="row">
-          <div className="col grow" style={{ gap: 2 }}>
-            <span className="pill" style={{ alignSelf: 'flex-start' }}>{t('ipaPill')}</span>
-            <div className="h3" style={{ marginTop: 6 }}>{t('ipaCourse')}</div>
-            <div className="small">{t('ipaCourseSub')}</div>
-          </div>
-          <Mascot emotion={passed ? 'badge' : 'listening'} size={90} />
+      <div className="hero-card" style={{ minHeight: 160, alignItems: 'flex-start' }}>
+        <div className="col" style={{ gap: 4, zIndex: 1, maxWidth: '60%' }}>
+          <span className="hero-chip">{t('ipaPill')}</span>
+          <b style={{ fontSize: 19, lineHeight: 1.25, marginTop: 4 }}>{t('ipaCourse')}</b>
+          <span style={{ fontSize: 13, opacity: 0.88 }}>{t('ipaCourseSub')}</span>
+          <div className="hero-bar" style={{ marginTop: 10 }}><i style={{ width: `${pct}%` }} /></div>
         </div>
-        <Bar value={((done + (passed ? 1 : 0)) / (u.lessons.length + 1)) * 100} />
-        <div className="list">
-          {u.lessons.map((l, i) => {
-            const isDone = Boolean(state.lessonsDone[l.id]);
-            const open = i === 0 || state.lessonsDone[u.lessons[i - 1].id] || passed;
-            return (
-              <button key={l.id} className={`option ${open ? '' : 'dim'}`} disabled={!open} onClick={() => nav.push({ name: 'lesson', mode: 'lesson', lessonId: l.id })}>
-                <span className="ico" style={isDone ? { background: 'var(--ok-soft)', color: 'var(--ok)' } : {}}>{isDone ? <Icon name="check" size={18} stroke={2.6} /> : open ? i + 1 : <Icon name="lock" size={16} />}</span>
-                <span className="title grow">{loc(l.title, lang)}</span>
-                <Icon name="chevron" />
-              </button>
-            );
-          })}
-          <button className={`option ${done === u.lessons.length || passed ? '' : 'dim'}`} disabled={!(done === u.lessons.length || passed)} onClick={() => nav.push({ name: 'lesson', mode: 'checkpoint', unitId: u.id })}>
-            <span className="ico"><Icon name={passed ? 'medal' : 'flag'} size={20} stroke={1.8} /></span>
-            <span className="title grow">{t('finalChallenge')}</span>
-            <Icon name="chevron" />
-          </button>
-        </div>
+        <div className="hero-verbi" style={{ right: 2, bottom: -6 }}><Mascot emotion={passed ? 'badge' : 'listening'} size={128} /></div>
       </div>
-      {CHECK_YOURSELF && <CheckTile state={state} nav={nav} t={t} />}
-      <button className="card row" style={{ textAlign: 'left' }} onClick={() => nav.push({ name: 'sounds' })}>
-        <span className="ico" style={{ width: 44, height: 44, borderRadius: 14, background: 'var(--primary-soft)', display: 'grid', placeItems: 'center', fontSize: 20, fontWeight: 700, color: 'var(--primary-2)' }}>ʃ</span>
-        <span className="col grow" style={{ gap: 0 }}><b>{t('soundTable')}</b><span className="small">{t('soundTableSub')}</span></span>
-        <Icon name="chevron" />
-      </button>
-      {[[t('ieltsSoon'), 'cap'], [t('nicheSoon'), 'briefcase']].map(([title, em]) => (
-        <div key={title} className="card soft row" style={{ opacity: 0.6 }}>
-          <Tile icon={em} tone="plain" />
-          <span className="grow" style={{ fontWeight: 700 }}>{title}</span>
-          <span className="tiny">{t('comingSoon')}</span>
-        </div>
-      ))}
+      <div className="list">
+        {u.lessons.map((l, i) => {
+          const isDone = Boolean(state.lessonsDone[l.id]);
+          const open = i === 0 || state.lessonsDone[u.lessons[i - 1].id] || passed;
+          return (
+            <button key={l.id} className={`option ${open ? '' : 'dim'}`} disabled={!open} onClick={() => nav.push({ name: 'lesson', mode: 'lesson', lessonId: l.id })}>
+              <ToneIcon tone={isDone ? 2 : i % 5} size={38}>{isDone ? <Icon name="check" size={18} stroke={2.6} /> : open ? <b>{i + 1}</b> : <Icon name="lock" size={16} />}</ToneIcon>
+              <span className="title grow">{loc(l.title, lang)}</span>
+              <Icon name="chevron" style={{ color: 'var(--muted)' }} />
+            </button>
+          );
+        })}
+        <button className={`option ${done === u.lessons.length || passed ? '' : 'dim'}`} disabled={!(done === u.lessons.length || passed)} onClick={() => nav.push({ name: 'lesson', mode: 'checkpoint', unitId: u.id })}>
+          <ToneIcon icon={passed ? 'medal' : 'flag'} tone={1} size={38} />
+          <span className="title grow">{t('finalChallenge')}</span>
+          <Icon name="chevron" style={{ color: 'var(--muted)' }} />
+        </button>
+      </div>
+      <div className="h3" style={{ marginTop: 6 }}>{t('moreSkills')}</div>
+      <div className="tiles">
+        {CHECK_YOURSELF && <CheckTile state={state} nav={nav} t={t} />}
+        <button className="tile-opt small-tile" onClick={() => nav.push({ name: 'sounds' })}>
+          <ToneIcon tone={3} size={46}><b style={{ fontSize: 22 }}>ʃ</b></ToneIcon>
+          <span className="col" style={{ gap: 2, alignItems: 'flex-start' }}><span className="tile-t">{t('soundTable')}</span><span className="tile-s">{t('soundTableSub')}</span></span>
+        </button>
+        {[[t('ieltsSoon'), 'cap', 1], [t('nicheSoon'), 'briefcase', 4]].map(([title, ic, tone]) => (
+          <div key={title} className="tile-opt small-tile dim-card">
+            <ToneIcon icon={ic} tone={tone} size={46} />
+            <span className="col" style={{ gap: 2, alignItems: 'flex-start' }}><span className="tile-t">{title}</span><span className="tile-s">{t('comingSoon')}</span></span>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
@@ -104,14 +104,13 @@ function CheckTile({ state, nav, t }) {
     status = d > 0 ? t('cyNext', { d, h }) : t('cyNextH', { h, m });
   }
   return (
-    <button className="card row" style={{ textAlign: 'left' }} onClick={() => nav.push({ name: 'check' })}>
-      <Tile icon="sound" size={44} />
-      <span className="col grow" style={{ gap: 0 }}>
-        <b>{t('cyTitle')}</b>
-        <span className="small">{t('cySub')}</span>
+    <button className="tile-opt small-tile" onClick={() => nav.push({ name: 'check' })}>
+      <ToneIcon icon="headphones" tone={0} size={46} />
+      <span className="col" style={{ gap: 2, alignItems: 'flex-start' }}>
+        <span className="tile-t">{t('cyTitle')}</span>
+        <span className="tile-s">{t('cySub')}</span>
         <span className="tiny" style={{ color: done ? 'var(--text-2)' : 'var(--primary-2)', fontWeight: 700, marginTop: 2 }}>{done ? `${done.clean}/${done.total} · ${status}` : status}</span>
       </span>
-      <Icon name="chevron" />
     </button>
   );
 }

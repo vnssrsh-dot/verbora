@@ -7,7 +7,7 @@ import { BADGES } from '../lib/badges.js';
 import { loc } from '../lib/loc.js';
 import { tgUser } from '../lib/telegram.js';
 import { PRIVACY, PRIVACY_DATE } from '../lib/privacy.js';
-import { TopBar, Icon, Mascot, Bar, Toggle, Sheet, Tile } from '../components.jsx';
+import { TopBar, Icon, Mascot, Bar, Toggle, Sheet, Tile, ToneIcon } from '../components.jsx';
 
 function weekDates() {
   const d = new Date();
@@ -23,21 +23,23 @@ export default function Profile({ nav, t, lang }) {
   const lessons = Object.keys(state.lessonsDone).filter((id) => !id.startsWith('x-')).length;
   const got = Object.keys(state.badges).length;
   const rows = [
-    { icon: 'award', label: t('myAchievements'), right: `${got}/${BADGES.length}`, go: () => nav.push({ name: 'achievements' }) },
-    { icon: 'results', label: t('myResults'), go: () => nav.tab('progress') },
-    { icon: 'dict', label: t('tileWords'), go: () => nav.push({ name: 'words' }) },
-    { icon: 'gear', label: t('settings'), go: () => nav.push({ name: 'settings' }) },
-    { icon: 'info', label: t('privacy'), go: () => nav.push({ name: 'privacy' }) },
+    { icon: 'award', tone: 1, label: t('myAchievements'), right: `${got}/${BADGES.length}`, go: () => nav.push({ name: 'achievements' }) },
+    { icon: 'results', tone: 0, label: t('myResults'), go: () => nav.tab('progress') },
+    { icon: 'dict', tone: 2, label: t('tileWords'), go: () => nav.push({ name: 'words' }) },
+    { icon: 'gear', tone: 3, label: t('settings'), go: () => nav.push({ name: 'settings' }) },
+    { icon: 'info', tone: 4, label: t('privacy'), go: () => nav.push({ name: 'privacy' }) },
   ];
   return (
     <div className="screen with-nav">
       <TopBar title={t('profile')} />
-      <div className="col" style={{ alignItems: 'center', gap: 4 }}>
-        <div className="avatar"><Mascot emotion="idle" size={96} /></div>
-        <button className="row" style={{ gap: 8, marginTop: 6 }} onClick={() => nav.push({ name: 'settings' })} aria-label={t('yourName')}>
-          <span className="h2">{name}</span><Icon name="pencil" size={18} style={{ color: 'var(--primary-2)' }} />
-        </button>
-        <div className="sub">{lvl} — {loc(levelInfo(lvl).title, lang)}</div>
+      <div className="hero-card profile-hero">
+        <div className="col" style={{ gap: 2, zIndex: 1 }}>
+          <button className="row" style={{ gap: 8, color: '#fff' }} onClick={() => nav.push({ name: 'settings' })} aria-label={t('yourName')}>
+            <span style={{ fontSize: 22, fontWeight: 700 }}>{name}</span><Icon name="pencil" size={17} />
+          </button>
+          <span style={{ opacity: 0.9 }}>{lvl} — {loc(levelInfo(lvl).title, lang)}</span>
+        </div>
+        <div className="hero-verbi" style={{ right: 6, bottom: -8 }}><Mascot emotion="idle" size={118} /></div>
       </div>
       <div className="row" style={{ gap: 10 }}>
         <div className="card stat"><Icon name="flame" size={22} style={{ color: 'var(--warn)' }} /><b>{streak}</b><span>{t('streakDaysShort')}</span></div>
@@ -47,7 +49,7 @@ export default function Profile({ nav, t, lang }) {
       <div className="card menu">
         {rows.map((r) => (
           <button key={r.label} className="menu-row" onClick={r.go}>
-            <Icon name={r.icon} size={20} />
+            <ToneIcon icon={r.icon} tone={r.tone} size={36} />
             <span className="grow">{r.label}</span>
             {r.right && <span className="small">{r.right}</span>}
             <Icon name="chevron" size={18} style={{ color: 'var(--muted)' }} />

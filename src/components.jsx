@@ -92,6 +92,29 @@ export function Tile({ icon, size = 40, tone = 'primary', style }) {
   );
 }
 
+// Verbi says something in a speech bubble (the onboarding style, reused across screens).
+export function Ask({ emotion = 'idle', size = 110, title, sub, children, anim = 'pop', mkey }) {
+  return (
+    <div className="ask">
+      <div key={mkey ?? emotion} className="ask-verbi"><Mascot emotion={emotion} size={size} anim={anim} /></div>
+      <div className="bubble">
+        {title && <div className="h2" style={{ fontSize: 19 }}>{title}</div>}
+        {sub && <p className="small" style={{ marginTop: title ? 4 : 0 }}>{sub}</p>}
+        {children}
+      </div>
+    </div>
+  );
+}
+
+// Icon on a soft coloured square: tone 0 lavender, 1 peach, 2 mint, 3 sky, 4 rose.
+export function ToneIcon({ icon, tone = 0, size = 46, children }) {
+  return (
+    <span className={`tone-ic t${tone % 5}`} style={{ width: size, height: size, borderRadius: size * 0.32 }}>
+      {children || <Icon name={icon} size={Math.round(size * 0.5)} />}
+    </span>
+  );
+}
+
 export function TopBar({ title, onBack, right }) {
   return (
     <div className="topbar">
