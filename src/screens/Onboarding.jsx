@@ -118,9 +118,9 @@ export default function Onboarding({ t, lang }) {
       { id: 'study', icon: 'cap', title: t('goalStudy'), sub: t('goalStudySub') },
     ] },
     minutes: { q: t('qMinutes'), sub: t('qMinutesSub'), key: 'minutes', next: null, opts: [
-      { id: 5, icon: 'clock', title: t('min5'), sub: t('min5Sub') },
-      { id: 15, icon: 'clock', title: t('min15'), sub: t('min15Sub') },
-      { id: 30, icon: 'clock', title: t('min30'), sub: t('min30Sub') },
+      { id: 5, big: '5', title: t('min5'), sub: t('min5Sub') },
+      { id: 15, big: '15', title: t('min15'), sub: t('min15Sub') },
+      { id: 30, big: '30', title: t('min30'), sub: t('min30Sub') },
     ] },
   };
   if (step in survey) {
@@ -140,13 +140,26 @@ export default function Onboarding({ t, lang }) {
           <div className="steps" style={{ flex: 1, maxWidth: 120, margin: '0 auto' }}>{order.map((o, k) => <i key={o} className={k <= idx ? 'on' : ''} />)}</div>
           <span style={{ width: 40 }} />
         </div>
-        <div className="col" style={{ gap: 6 }}>
-          <div className="h2">{sv.q}</div>
-          {sv.sub && <p className="small">{sv.sub}</p>}
+        <div className="grow" style={{ maxHeight: 40 }} />
+        {/* Verbi asks the question */}
+        <div className="ask">
+          <div key={val ?? 'none'} className="ask-verbi"><Mascot emotion={val === null ? 'thinking' : 'correct'} size={124} anim={val === null ? 'pop' : 'bounce'} /></div>
+          <div className="bubble">
+            <div className="h2" style={{ fontSize: 20 }}>{sv.q}</div>
+            {sv.sub && <p className="small" style={{ marginTop: 4 }}>{sv.sub}</p>}
+          </div>
         </div>
-        <div className="list">
-          {sv.opts.map((o) => (
-            <Option key={o.id} icon={o.icon} title={o.title} sub={o.sub} selected={val === o.id} onClick={() => { haptic('select'); setAns({ ...ans, [sv.key]: o.id }); }} />
+        <div className="tiles">
+          {sv.opts.map((o, k) => (
+            <button key={o.id} className={`tile-opt tone-${k % 4} ${val === o.id ? 'sel' : ''} ${sv.opts.length % 2 && k === sv.opts.length - 1 ? 'wide' : ''}`}
+              onClick={() => { haptic('select'); setAns({ ...ans, [sv.key]: o.id }); }} aria-pressed={val === o.id}>
+              <span className="tile-ic">{o.big ? <b>{o.big}</b> : <Icon name={o.icon} size={24} />}</span>
+              <span className="col" style={{ gap: 2, alignItems: 'flex-start', minWidth: 0 }}>
+                <span className="tile-t">{o.title}</span>
+                <span className="tile-s">{o.sub}</span>
+              </span>
+              {val === o.id && <span className="tile-check"><Icon name="check" size={13} stroke={3} /></span>}
+            </button>
           ))}
         </div>
         <div className="grow" />
