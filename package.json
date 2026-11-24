@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "check-content": "node scripts/check-content.mjs",
-    "test": "node scripts/test-check.mjs && node scripts/check-content.mjs"
+    "test": "node scripts/test-check.mjs && node scripts/check-content.mjs && node --experimental-strip-types --no-warnings supabase/tests/telegram.test.ts"
   },
   "dependencies": {
     "lucide-react": "1.60.0",

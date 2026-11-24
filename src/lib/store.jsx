@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import { BADGES } from './badges.js';
 import { tgUser } from './telegram.js';
+import { startSync, pushSoon } from './sync.js';
 
 // Local-first progress store. Persists to localStorage; the same shape is what a future
 // Supabase sync would upload (SPEC §10). Every read/write is guarded — storage can be unavailable.
@@ -19,6 +20,7 @@ const dayDiff = (a, b) => Math.round((new Date(b) - new Date(a)) / 86400000);
 export function freshState() {
   return {
     v: 1,
+    savedAt: 0,
     lang: null,
     onboarded: false,
     profile: { experience: null, goal: null, minutes: 15, name: '' },
@@ -71,18 +73,24 @@ export function StoreProvider({ children }) {
 
   useEffect(() => { save(state); }, [state]);
   // update(fn): fn mutates a draft copy synchronously and may return a value.
-  const update = useMemo(() => (fn) => {
+  // savedAt marks real changes, so the newest progress wins when devices sync.
+  const update = useMemo(() => (fn, { silent = false } = {}) => {
     const draft = structuredClone(ref.current);
     const out = fn(draft);
+    if (!silent) draft.savedAt = Date.now();
     ref.current = draft;
     setState(draft);
     return out;
   }, []);
-  const replace = useMemo(() => (next) => { ref.current = next; setState(next); }, []);
+  const replace = useMemo(() => (next) => { const n = { ...next, savedAt: Date.now() }; ref.current = n; setState(n); }, []);
 
   useEffect(() => {
-    update((s) => { s.lastVisit = today(); touchDaily(s); });
+    update((s) => { s.lastVisit = today(); touchDaily(s); }, { silent: true });
   }, []);
+
+  // cloud sync through the «api» Edge Function (only inside Telegram, only when configured)
+  useEffect(() => startSync({ get: () => ref.current, adopt: (remote) => { ref.current = remote; setState(remote); } }), []);
+  useEffect(() => { pushSoon(state); }, [state]);
 
   const api = useMemo(() => ({ state, update, replace, prevVisit: prevVisit.current }), [state]);
 

@@ -1,0 +1,10 @@
+# Supabase project config for VERBORA (used by `supabase functions deploy`).
+# The functions check Telegram signatures themselves, so they do not require a Supabase JWT.
+[functions.api]
+verify_jwt = false
+
+[functions.bot]
+verify_jwt = false
+
+[functions.reminders]
+verify_jwt = false
