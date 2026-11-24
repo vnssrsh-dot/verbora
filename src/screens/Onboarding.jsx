@@ -5,6 +5,7 @@ import { diagnostic, LEVELS, levelPath, topicName } from '../lib/content.js';
 import { loc } from '../lib/loc.js';
 import { shuffle } from '../lib/check.js';
 import { Mascot, Icon, Dots, Option, Bar, Tile, Ask, ToneIcon } from '../components.jsx';
+import VerbiChat from './VerbiChat.jsx';
 
 const STEPS = ['splash', 'lang', 'hello', 'verbi', 'mission', 'experience', 'goal', 'minutes', 'diagIntro', 'diag', 'diagResult'];
 
@@ -18,7 +19,7 @@ export default function Onboarding({ t, lang }) {
   const finish = (placement, diagAnswers = []) => {
     update((s) => {
       s.onboarded = true;
-      s.profile = { ...s.profile, ...ans, name: tgUser()?.first_name || s.profile.name };
+      s.profile = { ...s.profile, ...ans, name: s.profile.name || tgUser()?.first_name || '' };
       const idx = LEVELS.indexOf(placement);
       for (let i = 0; i < idx; i++) {
         s.levelsPassed[LEVELS[i]] = 'diag';
@@ -79,10 +80,12 @@ export default function Onboarding({ t, lang }) {
           ))}
         </div>
         <div className="grow" />
-        <button className="btn" onClick={() => { if (!state.lang) update((s) => { s.lang = current; }); go('hello'); }}>{t('next')} <Icon name="arrow" size={18} /></button>
+        <button className="btn" onClick={() => { if (!state.lang) update((s) => { s.lang = current; }); go('chat'); }}>{t('next')} <Icon name="arrow" size={18} /></button>
       </div>
     );
   }
+
+  if (step === 'chat') return <VerbiChat lang={lang} onDone={() => go('experience')} />;
 
   const story = { hello: 0, verbi: 1, mission: 2 };
   if (step in story) {
@@ -140,7 +143,7 @@ export default function Onboarding({ t, lang }) {
     return (
       <div className="screen">
         <div className="row" style={{ gap: 10 }}>
-          <button className="icon-btn" onClick={() => go(idx ? order[idx - 1] : 'mission')}><Icon name="back" /></button>
+          <button className="icon-btn" onClick={() => go(idx ? order[idx - 1] : 'chat')}><Icon name="back" /></button>
           <div className="steps" style={{ flex: 1, maxWidth: 120, margin: '0 auto' }}>{order.map((o, k) => <i key={o} className={k <= idx ? 'on' : ''} />)}</div>
           <span style={{ width: 40 }} />
         </div>
