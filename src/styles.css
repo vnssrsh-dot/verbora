@@ -27,7 +27,9 @@
   --r-sm: 12px;
   --font: 'Manrope', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --font-logo: 'Nunito', 'Manrope', system-ui, sans-serif;
-  --safe-b: env(safe-area-inset-bottom, 0px);
+  /* safe areas: the phone's own (notch, home bar) or Telegram's in full screen (its close/title/⋯ controls) */
+  --safe-t: max(env(safe-area-inset-top, 0px), var(--tg-top, 0px));
+  --safe-b: max(env(safe-area-inset-bottom, 0px), var(--tg-bottom, 0px));
   color-scheme: light;
 }
 :root[data-theme='dark'] {
@@ -61,7 +63,7 @@ input, textarea { font: inherit; color: inherit; }
 h1, h2, h3, p { margin: 0; }
 
 .app { max-width: 480px; margin: 0 auto; min-height: 100%; display: flex; flex-direction: column; position: relative; }
-.screen { flex: 1; display: flex; flex-direction: column; padding: 16px 16px calc(24px + var(--safe-b)); gap: 16px; animation: screenIn .28s ease both; }
+.screen { flex: 1; display: flex; flex-direction: column; padding: calc(16px + var(--safe-t)) 16px calc(24px + var(--safe-b)); gap: 16px; animation: screenIn .28s ease both; }
 .screen.with-nav { padding-bottom: calc(96px + var(--safe-b)); }
 .screen.center { justify-content: center; align-items: center; text-align: center; }
 .grow { flex: 1; }
@@ -389,8 +391,8 @@ h1, h2, h3, p { margin: 0; }
 .comet { position: absolute; top: 12%; left: -30%; width: 120px; height: 2px; border-radius: 2px; background: linear-gradient(90deg, transparent, rgba(255, 255, 255, .9)); transform: rotate(18deg); opacity: 0; animation: comet 11s linear infinite 2s; }
 @keyframes comet { 0% { transform: translate(0, 0) rotate(18deg); opacity: 0; } 3% { opacity: 1; } 12% { transform: translate(140vw, 46vw) rotate(18deg); opacity: 0; } 100% { opacity: 0; } }
 
-.chat-verbi { position: relative; display: grid; place-items: center; padding-top: calc(10px + env(safe-area-inset-top, 0px)); height: 180px; flex: none; }
-.verbi-glow { position: absolute; width: 190px; height: 190px; border-radius: 50%; top: 34px; background: radial-gradient(circle, rgba(190, 170, 255, .45), rgba(190, 170, 255, 0) 68%); animation: glow 3.2s ease-in-out infinite; }
+.chat-verbi { position: relative; display: grid; place-items: center; padding-top: calc(10px + var(--safe-t)); height: calc(180px + var(--safe-t)); flex: none; }
+.verbi-glow { position: absolute; width: 190px; height: 190px; border-radius: 50%; top: calc(34px + var(--safe-t)); background: radial-gradient(circle, rgba(190, 170, 255, .45), rgba(190, 170, 255, 0) 68%); animation: glow 3.2s ease-in-out infinite; }
 @keyframes glow { 0%, 100% { transform: scale(.92); opacity: .75; } 50% { transform: scale(1.06); opacity: 1; } }
 .verbi-land { animation: land 1.3s cubic-bezier(.2, .9, .3, 1.15) both; }
 @keyframes land { 0% { transform: translateY(-160px) scale(.45) rotate(-12deg); opacity: 0; } 60% { opacity: 1; } 100% { transform: none; } }
