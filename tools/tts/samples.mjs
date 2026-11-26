@@ -11,7 +11,7 @@ const LINES = [
   ['verbi', "Hi! I'm Verbi. Let's learn English together! Teacher. Beautiful. Thirty-three."],
   ['lesson', 'My sister is a doctor, and her husband works at the bank. They usually have breakfast at seven.'],
 ];
-const voices = (await listVoices()).filter((v) => v.Locale === 'en-GB' && v.VoiceType === 'Neural');
+const voices = (await listVoices()).filter((v) => v.Locale === 'en-GB' && v.VoiceType === 'Neural' && !v.ShortName.includes(':'));
 console.log(voices.length, 'British neural voices');
 const rows = [];
 for (const v of voices) {
