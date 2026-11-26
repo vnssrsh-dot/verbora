@@ -1,0 +1,10 @@
+{
+  "_comment": "Голоси Azure (британські). verbi — голос маскота для слів і правил; f1, f2, m1, m2 — голоси речень у уроках. Обирає Валерія на сторінці зразків.",
+  "region": "westeurope",
+  "rate": "-6%",
+  "verbi": "en-GB-SoniaNeural",
+  "f1": "en-GB-LibbyNeural",
+  "f2": "en-GB-OliviaNeural",
+  "m1": "en-GB-RyanNeural",
+  "m2": "en-GB-ThomasNeural"
+}

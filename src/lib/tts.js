@@ -1,4 +1,13 @@
-// Pronunciation: pre-generated mp3 (filled by the TTS script) first, Web Speech API as fallback.
+// Pronunciation: pre-generated mp3 (tools/tts, files in public/audio named by audioKey) first,
+// Web Speech API as fallback when a file is missing or audio cannot play.
+import { audioKey, spokenText } from './audiokey.js';
+
+// public/audio/index.json lists the keys that have a file (written by tools/tts/generate.mjs).
+// Only those are requested, so the device voice still starts right inside the tap on iOS.
+let available = new Set();
+if (typeof window !== 'undefined') {
+  fetch('./audio/index.json').then((r) => (r.ok ? r.json() : [])).then((keys) => { available = new Set(keys); }).catch(() => {});
+}
 let voice = null;
 let current = null;
 
@@ -27,14 +36,19 @@ export function canSpeak() {
 export function speak(text, { audio, slow = false, rate, enabled = true } = {}) {
   if (!enabled || !text) return;
   stop();
-  if (audio) {
-    const a = new Audio(audio);
+  const key = audioKey(text);
+  const src = audio || (available.has(key) ? `./audio/${key}.mp3` : '');
+  if (src) {
+    const a = new Audio(src);
     a.playbackRate = rate || (slow ? 0.75 : 1);
     current = a;
-    a.play().catch(() => speakSynth(text, slow, rate));
+    let failed = false;
+    const fallback = () => { if (!failed && current === a) { failed = true; speakSynth(spokenText(text), slow, rate); } };
+    a.addEventListener('error', fallback, { once: true });
+    a.play().catch((e) => { if (e?.name !== 'NotAllowedError') fallback(); });
     return;
   }
-  speakSynth(text, slow, rate);
+  speakSynth(spokenText(text), slow, rate);
 }
 
 function speakSynth(text, slow, rate) {
