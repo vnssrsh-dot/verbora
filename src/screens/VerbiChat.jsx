@@ -8,90 +8,76 @@ import { Mascot, Icon } from '../components.jsx';
 
 const SCRIPT = {
   ua: {
-    hello: 'Біп-біп! 📡 Сигнал прийнято… Привіт із космосу!',
-    rHello: 'Привіт! 👋', rWho: 'Хто ти? 👽',
-    afterHello: 'Ура, ти мене чуєш! Я Verbi — маленька дослідниця з планети Вербора.',
-    afterWho: 'Я Verbi! Прилетіла з далекої планети Вербора, де всі розмовляють сигналами.',
-    askName: 'А як тебе звати? Хочу правильно до тебе звертатися.',
-    namePh: 'Твоє імʼя', nameOk: 'Це я!', nameSkip: 'Пропустити',
-    gotName: '{name}! Гарне імʼя ✨ Записую в бортовий журнал.',
-    noName: 'Добре, буду кликати тебе «друже» 💜',
-    rWhere: 'Звідки ти? 🪐', rWhat: 'Що ми будемо робити? 🚀',
-    where: 'На моїй планеті немає слів — лише сигнали. Коли я вперше почула людські мови, то закохалася в них.',
-    rWhatNext: 'А що ми будемо робити? 🚀',
-    what: 'Разом досліджуватимемо англійську: правила, слова, вимову. Я буду поруч, підказуватиму й святкуватиму твої успіхи!',
-    rGo: 'Полетіли! 🚀',
-    final: 'Тоді пристебнися! Спершу кілька питань, щоб прокласти наш маршрут.',
-    start: 'Прокласти маршрут', typing: 'Verbi передає сигнал',
+    hello: 'Біп-біп! 📡 Привіт, я Verbi — дослідниця з планети Вербора. Як тебе звати?',
+    namePh: 'Твоє імʼя', nameOk: 'Це я!',
+    gotName: '{name}, полетіли вчити англійську разом! 🚀',
+    noName: 'Полетіли вчити англійську разом! 🚀',
+    rWho: 'Хто ти? 👽',
+    who: 'Я прилетіла з планети, де розмовляють сигналами. Тепер вивчаю людські мови — і буду поруч на кожному уроці 💜',
+    start: 'Почати', skip: 'Пропустити', typing: 'Verbi передає сигнал',
   },
   ru: {
-    hello: 'Бип-бип! 📡 Сигнал принят… Привет из космоса!',
-    rHello: 'Привет! 👋', rWho: 'Кто ты? 👽',
-    afterHello: 'Ура, ты меня слышишь! Я Verbi — маленькая исследовательница с планеты Вербора.',
-    afterWho: 'Я Verbi! Прилетела с далёкой планеты Вербора, где все разговаривают сигналами.',
-    askName: 'А как тебя зовут? Хочу правильно к тебе обращаться.',
-    namePh: 'Твоё имя', nameOk: 'Это я!', nameSkip: 'Пропустить',
-    gotName: '{name}! Красивое имя ✨ Записываю в бортовой журнал.',
-    noName: 'Хорошо, буду звать тебя «друг» 💜',
-    rWhere: 'Откуда ты? 🪐', rWhat: 'Что мы будем делать? 🚀',
-    where: 'На моей планете нет слов — только сигналы. Когда я впервые услышала человеческие языки, то влюбилась в них.',
-    rWhatNext: 'А что мы будем делать? 🚀',
-    what: 'Вместе будем исследовать английский: правила, слова, произношение. Я буду рядом, подскажу и отпраздную твои успехи!',
-    rGo: 'Полетели! 🚀',
-    final: 'Тогда пристегнись! Сначала несколько вопросов, чтобы проложить наш маршрут.',
-    start: 'Проложить маршрут', typing: 'Verbi передаёт сигнал',
+    hello: 'Бип-бип! 📡 Привет, я Verbi — исследовательница с планеты Вербора. Как тебя зовут?',
+    namePh: 'Твоё имя', nameOk: 'Это я!',
+    gotName: '{name}, полетели учить английский вместе! 🚀',
+    noName: 'Полетели учить английский вместе! 🚀',
+    rWho: 'Кто ты? 👽',
+    who: 'Я прилетела с планеты, где говорят сигналами. Теперь изучаю человеческие языки — и буду рядом на каждом уроке 💜',
+    start: 'Начать', skip: 'Пропустить', typing: 'Verbi передаёт сигнал',
   },
 };
 
+// Short first contact: Verbi greets and asks the name, the learner confirms it, done (two taps).
+// «Пропустити» is always there; the Telegram name is used then.
 export default function VerbiChat({ lang, onDone }) {
   const { state, update } = useStore();
   const S = SCRIPT[lang] || SCRIPT.ua;
+  const tgName = tgUser()?.first_name || '';
   const [msgs, setMsgs] = useState([]); // { from: 'verbi'|'me', text }
   const [emotion, setEmotion] = useState('greeting');
   const [typing, setTyping] = useState(false);
-  const [stage, setStage] = useState('hello'); // which replies are offered
-  const [name, setName] = useState(state.profile.name || tgUser()?.first_name || '');
+  const [stage, setStage] = useState(null); // 'name' | 'start'
+  const [askedWho, setAskedWho] = useState(false);
+  const [name, setName] = useState(state.profile.name || tgName);
   const list = useRef(null);
   const timers = useRef([]);
 
   useEffect(() => () => timers.current.forEach(clearTimeout), []);
   useEffect(() => { list.current?.scrollTo({ top: list.current.scrollHeight, behavior: 'smooth' }); }, [msgs, typing, stage]);
 
-  // Verbi "transmits" her lines one after another, then offers the next replies
-  const say = (lines, next) => {
+  // Verbi "transmits" a line (short typing pause), then offers the next step
+  const say = (text, emo, next, wait = 250) => {
     setStage(null);
-    let delay = 350;
-    lines.forEach(([text, emo]) => {
-      timers.current.push(setTimeout(() => { setTyping(true); }, delay));
-      delay += Math.min(1500, 650 + text.length * 12);
-      timers.current.push(setTimeout(() => {
-        setTyping(false);
-        setEmotion(emo);
-        setMsgs((m) => [...m, { from: 'verbi', text }]);
-        haptic('light');
-      }, delay));
-      delay += 250;
-    });
-    timers.current.push(setTimeout(() => setStage(next), delay + 100));
+    timers.current.push(setTimeout(() => setTyping(true), wait));
+    timers.current.push(setTimeout(() => {
+      setTyping(false);
+      setEmotion(emo);
+      setMsgs((m) => [...m, { from: 'verbi', text }]);
+      haptic('light');
+      setStage(next);
+    }, wait + Math.min(900, 380 + text.length * 6)));
   };
 
-  useEffect(() => { say([[S.hello, 'greeting']], 'hello'); }, []);
-
-  const reply = (text, then) => {
-    haptic('select');
-    setMsgs((m) => [...m, { from: 'me', text }]);
-    then();
-  };
+  useEffect(() => { say(S.hello, 'greeting', 'name', 700); }, []);
 
   const saveName = (n) => {
     const clean = n.trim().slice(0, 40);
     if (clean) update((s) => { s.profile.name = clean; });
-    reply(clean || S.nameSkip, () => say([[clean ? S.gotName.replace('{name}', clean) : S.noName, 'celebration']], 'about'));
+    haptic('select');
+    setMsgs((m) => [...m, { from: 'me', text: clean }]);
+    say(clean ? S.gotName.replace('{name}', clean) : S.noName, 'celebration', 'start');
+  };
+
+  const skip = () => {
+    timers.current.forEach(clearTimeout);
+    if (!state.profile.name && tgName) update((s) => { s.profile.name = tgName; });
+    onDone();
   };
 
   return (
     <div className="space-screen">
       <SpaceBackdrop />
+      {stage !== 'start' && <button className="chat-skip" onClick={skip}>{S.skip}</button>}
       <div className="chat-verbi">
         <div className="verbi-glow" />
         <div className="verbi-land"><div className="m-float"><Mascot emotion={emotion} size={150} anim="pop" /></div></div>
@@ -109,28 +95,20 @@ export default function VerbiChat({ lang, onDone }) {
       </div>
 
       <div className="chat-actions">
-        {stage === 'hello' && (
-          <>
-            <button className="reply" onClick={() => reply(S.rHello, () => say([[S.afterHello, 'speaking'], [S.askName, 'thinking']], 'name'))}>{S.rHello}</button>
-            <button className="reply" onClick={() => reply(S.rWho, () => say([[S.afterWho, 'surprised'], [S.askName, 'thinking']], 'name'))}>{S.rWho}</button>
-          </>
-        )}
         {stage === 'name' && (
-          <form className="name-row" onSubmit={(e) => { e.preventDefault(); saveName(name); }}>
-            <input className="name-input" value={name} maxLength={40} placeholder={S.namePh} autoFocus enterKeyHint="done" onChange={(e) => setName(e.target.value)} aria-label={S.namePh} />
+          <form className="name-row" onSubmit={(e) => { e.preventDefault(); if (name.trim()) saveName(name); }}>
+            <input className="name-input" value={name} maxLength={40} placeholder={S.namePh} enterKeyHint="done" onChange={(e) => setName(e.target.value)} aria-label={S.namePh} />
             <button className="reply solid" type="submit" disabled={!name.trim()}>{S.nameOk}</button>
-            <button className="reply ghost" type="button" onClick={() => saveName('')}>{S.nameSkip}</button>
           </form>
         )}
-        {stage === 'about' && (
+        {stage === 'start' && (
           <>
-            <button className="reply" onClick={() => reply(S.rWhere, () => say([[S.where, 'explaining']], 'what'))}>{S.rWhere}</button>
-            <button className="reply" onClick={() => reply(S.rWhat, () => say([[S.what, 'thanks']], 'go'))}>{S.rWhat}</button>
+            {!askedWho && (
+              <button className="reply" onClick={() => { setAskedWho(true); haptic('select'); setMsgs((m) => [...m, { from: 'me', text: S.rWho }]); say(S.who, 'speaking', 'start'); }}>{S.rWho}</button>
+            )}
+            <button className="btn" onClick={() => { haptic('medium'); onDone(); }}>{S.start} <Icon name="arrow" size={18} /></button>
           </>
         )}
-        {stage === 'what' && <button className="reply" onClick={() => reply(S.rWhatNext, () => say([[S.what, 'thanks']], 'go'))}>{S.rWhatNext}</button>}
-        {stage === 'go' && <button className="reply" onClick={() => reply(S.rGo, () => say([[S.final, 'levelup']], 'start'))}>{S.rGo}</button>}
-        {stage === 'start' && <button className="btn" onClick={() => { haptic('medium'); onDone(); }}>{S.start} <Icon name="arrow" size={18} /></button>}
       </div>
     </div>
   );

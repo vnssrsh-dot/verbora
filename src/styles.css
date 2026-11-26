@@ -420,3 +420,4 @@ h1, h2, h3, p { margin: 0; }
 .name-input:focus { border-color: #fff; }
 .space-screen .btn { background: #fff; color: var(--primary-2); box-shadow: 0 10px 26px rgba(0, 0, 0, .3); }
 @media (prefers-reduced-motion: reduce) { .stars, .planet, .comet, .verbi-glow, .verbi-land, .m-float { animation: none !important; } .comet { display: none; } }
+.space-screen > .chat-skip { position: absolute; z-index: 3; top: calc(12px + var(--safe-t)); right: max(14px, env(safe-area-inset-right, 0px)); padding: 7px 14px; border-radius: 999px; font-size: 13.5px; font-weight: 600; color: rgba(255, 255, 255, .85); background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .25); backdrop-filter: blur(6px); }
