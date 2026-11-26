@@ -28,7 +28,7 @@ function add(raw, voiceFor) {
   const text = spokenText(raw);
   const key = audioKey(raw);
   if (!key || items.has(key)) return;
-  items.set(key, { text, parts: [{ voice: voiceFor === 'verbi' ? VOICES.verbi : lessonVoice(text), text }] });
+  items.set(key, { text, parts: [voiceFor === 'verbi' ? { voice: VOICES.verbi, pitch: VOICES.verbiPitch, text } : { voice: lessonVoice(text), text }] });
 }
 function addDialog(dialog) {
   const joined = dialog.map((d) => d.line).join(' ');

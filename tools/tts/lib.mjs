@@ -8,11 +8,11 @@ const ENDPOINT = () => `https://${VOICES.region}.tts.speech.microsoft.com/cognit
 const MIN_GAP_MS = 60000 / 18; // free F0 tier allows 20 requests a minute; stay under it
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&apos;');
-const part = (voice, text) => `<voice name="${voice}"><prosody rate="${VOICES.rate}">${esc(text)}</prosody></voice>`;
+const part = (voice, text, pitch) => `<voice name="${voice}"><prosody rate="${VOICES.rate}"${pitch ? ` pitch="${pitch}"` : ''}>${esc(text)}</prosody></voice>`;
 
-// parts: [{ voice, text }] — several voices in one file for dialogs
+// parts: [{ voice, text, pitch? }] — several voices in one file for dialogs
 export function ssml(parts) {
-  return `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">${parts.map((p) => part(p.voice, p.text)).join('')}</speak>`;
+  return `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">${parts.map((p) => part(p.voice, p.text, p.pitch)).join('')}</speak>`;
 }
 
 let last = 0;
